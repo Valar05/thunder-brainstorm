@@ -1,0 +1,218 @@
+{
+  "schema_version": "0.1",
+  "stub_id": "scrap_cathedral_maze_chase",
+  "source_packet": "generated/source_packets/maze_chase_roguelike_pacman_stub.md",
+  "working_title": "Scrap Cathedral: Circuit of Hunger",
+  "rights_boundary": {
+    "mechanical_inspiration": "Classic arcade maze chase: maze routing, required collectibles, distinct pursuers, temporary reversal pickups, bonus route temptations, escalating pressure.",
+    "do_not_copy": [
+      "Pac-Man names or character identities",
+      "original maze layout",
+      "sprites, colors, sounds, fruit identities, or trade dress",
+      "specific ghost names or exact personality implementation details"
+    ],
+    "safe_direction": "Use an original grid, original entities, original theme, and generalized pursuit/reversal rules."
+  },
+  "theme_pitch": {
+    "theme": "Scrap Cathedral",
+    "player_role": "A small maintenance drone sent through a cathedral-sized machine to reclaim live rivets before the choir-security system seals the nave.",
+    "collectibles": "charged rivets",
+    "reversal_pickups": "breaker overloads",
+    "pursuers": "security choir routines",
+    "bonus_item": "rare salvage reliquary",
+    "floor_goal": "reclaim every charged rivet or unlock a rare emergency exit module"
+  },
+  "core_loop": [
+    "Enter a generated compact maze floor.",
+    "Read the four active pursuer rules and one floor modifier.",
+    "Route through charged rivets while avoiding normal-contact death.",
+    "Use breaker overloads to reverse predator/prey pressure briefly.",
+    "Decide whether bonus salvage is worth a route detour.",
+    "Clear required rivets, choose one upgrade, advance to a harder floor."
+  ],
+  "movement_model_options": [
+    {
+      "id": "real_time_arcade",
+      "summary": "Continuous tile-grid movement with buffered turns at intersections.",
+      "best_for": "faithful arcade tension and mobile joystick/swipe feel",
+      "risk": "harder to make procedural floors feel fair"
+    },
+    {
+      "id": "simultaneous_tick",
+      "summary": "Player and pursuers move on fixed ticks; input queues before intersections.",
+      "best_for": "roguelike readability and deterministic replay",
+      "risk": "less immediate arcade feel"
+    },
+    {
+      "id": "turn_based_pressure",
+      "summary": "Player moves one tile per turn; pursuers move by speed budgets and mode rules.",
+      "best_for": "deep tactical routing",
+      "risk": "can stop feeling like maze chase"
+    }
+  ],
+  "recommended_movement_model": "simultaneous_tick",
+  "maze_generation": {
+    "target_size": "21x21",
+    "required_properties": [
+      "all required rivets reachable",
+      "at least two loops around the central zone",
+      "four readable reversal pickup zones",
+      "pursuer home/spawn zone visible near center",
+      "no required dead-end rivets unless marked as greed clusters",
+      "seeded deterministic replay"
+    ],
+    "generation_strategy": "Assemble hand-authored chunks into a symmetric-ish maze, then run reachability and loop checks. Avoid fully random carving for the first prototype.",
+    "chunk_types": [
+      "start pocket",
+      "central pursuer home",
+      "long corridor",
+      "loop corner",
+      "greed dead-end",
+      "gate shortcut",
+      "bonus lane",
+      "safe alcove"
+    ]
+  },
+  "pursuers": [
+    {
+      "id": "cantor",
+      "readable_label": "Direct",
+      "base_rule": "Targets the player position through shortest route.",
+      "scatter_rule": "Returns to upper-left chapel loop.",
+      "mutation_examples": [
+        "faster on straight corridors",
+        "slower after being eaten",
+        "pauses before gate tiles"
+      ]
+    },
+    {
+      "id": "precentor",
+      "readable_label": "Ambush",
+      "base_rule": "Targets a tile several steps ahead of player movement direction.",
+      "scatter_rule": "Returns to upper-right bell loop.",
+      "mutation_examples": [
+        "predicts farther after floor 3",
+        "guards breaker overloads",
+        "turns early at alarm tiles"
+      ]
+    },
+    {
+      "id": "verger",
+      "readable_label": "Flank",
+      "base_rule": "Targets intersections near the player's likely escape route.",
+      "scatter_rule": "Returns to lower-left transept loop.",
+      "mutation_examples": [
+        "prefers bonus lanes",
+        "blocks cracked wall shortcuts",
+        "waits near greed clusters"
+      ]
+    },
+    {
+      "id": "thurible",
+      "readable_label": "Erratic",
+      "base_rule": "Alternates chase and scatter on a visible timer, with deterministic tie-breaking.",
+      "scatter_rule": "Returns to lower-right furnace loop.",
+      "mutation_examples": [
+        "shorter scatter timer",
+        "leaves a delayed echo every few turns",
+        "ignores sludge slowdown"
+      ]
+    }
+  ],
+  "floor_modifiers": [
+    {
+      "id": "alarm_rivets",
+      "label": "Alarm Rivets",
+      "effect": "Greed clusters raise pursuer speed for a short window after collection."
+    },
+    {
+      "id": "flicker_lit_nave",
+      "label": "Flicker-Lit Nave",
+      "effect": "Pursuer target markers are visible only near intersections."
+    },
+    {
+      "id": "one_way_current",
+      "label": "One-Way Current",
+      "effect": "Some corridors force direction until the next intersection."
+    },
+    {
+      "id": "overloaded_breakers",
+      "label": "Overloaded Breakers",
+      "effect": "Reversal lasts less time, but eating a pursuer opens one gate."
+    },
+    {
+      "id": "salvage_liturgy",
+      "label": "Salvage Liturgy",
+      "effect": "Bonus reliquary appears more often, but one pursuer shadows its route."
+    }
+  ],
+  "player_upgrades": [
+    {
+      "id": "early_turn_buffer",
+      "label": "Early Turn Buffer",
+      "route_effect": "Queue one turn earlier at intersections."
+    },
+    {
+      "id": "static_decoy",
+      "label": "Static Decoy",
+      "route_effect": "Drop a lure that redirects one pursuer at a junction."
+    },
+    {
+      "id": "breaker_bite",
+      "label": "Breaker Bite",
+      "route_effect": "Reversal is shorter, but eating a pursuer grants a speed burst."
+    },
+    {
+      "id": "greed_magnet",
+      "label": "Greed Magnet",
+      "route_effect": "Pull nearby rivets into the player, but alert pursuers."
+    },
+    {
+      "id": "gate_key",
+      "label": "Gate Key",
+      "route_effect": "Open one locked gate per floor."
+    },
+    {
+      "id": "echo_step",
+      "label": "Echo Step",
+      "route_effect": "First lethal contact per floor rewinds three tiles, then burns out."
+    }
+  ],
+  "scoring_rules": {
+    "required_rivets": "baseline progress and score",
+    "greed_clusters": "optional higher score and upgrade currency",
+    "reversal_chain": "higher rewards for eating multiple pursuers in one overload",
+    "bonus_reliquary": "temporary high-value route temptation",
+    "clean_floor_bonus": "clear without losing integrity",
+    "routing_chain_bonus": "reward long collection chains without reversing direction"
+  },
+  "first_playable_scope": {
+    "floors": 5,
+    "maze_size": "21x21",
+    "pursuer_count": 4,
+    "floor_modifiers": 5,
+    "upgrade_choices_per_floor": 3,
+    "debug_overlay": [
+      "pursuer mode",
+      "target tile",
+      "reversal timer",
+      "reachable collectible check",
+      "floor seed"
+    ]
+  },
+  "validation_checks": [
+    "all required rivets reachable",
+    "maze has at least two loops",
+    "reversal pickups reachable before unavoidable contact",
+    "pursuer target rules deterministic for a seed",
+    "no required collectible appears in an unmarked lethal dead-end",
+    "bonus reliquary can be reached and ignored by different viable routes",
+    "each upgrade changes at least one route decision"
+  ],
+  "open_questions": [
+    "Should the first prototype be Godot or browser canvas?",
+    "Should generated floors use chunk assembly or hand-authored floor templates first?",
+    "Should upgrades persist across runs or stay run-local?",
+    "Should the theme skew grim industrial, comic arcade, or sacred machine horror?"
+  ]
+}

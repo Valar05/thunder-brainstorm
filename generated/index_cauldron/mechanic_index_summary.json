@@ -1,0 +1,1283 @@
+{
+  "record_count": 20258,
+  "by_origin": {
+    "cauldron": 20258
+  },
+  "by_project": {
+    "ClubCrucible": 3303,
+    "gravity-fist": 2894,
+    "long-haul": 2548,
+    "diorama-of-descencion": 2202,
+    "Spice-of-Life": 990,
+    "steam-pile": 958,
+    "fleshpunk--inner-heart": 823,
+    "Belly_of_Defiance": 801,
+    "arcanachoir": 796,
+    "arcane-manifold": 677,
+    "Fleshpunk--Crusade": 585,
+    "Spice-of-Life - Copy": 573,
+    "Phoenix-Simulator": 549,
+    "Clarity-Engine": 451,
+    "convoy": 327,
+    "fleshpunk--root-of-sorrow": 288,
+    "ruined_air": 280,
+    "lionheart_lancer": 253,
+    "lava-landing": 251,
+    "OpenAiUtils": 212,
+    "the-unbidden-path": 208,
+    "armorture": 187,
+    "fleshpunk-crusade": 35,
+    "uftzg": 34,
+    "the-murk": 28,
+    "FontForger.py": 5
+  },
+  "by_mechanic": {
+    "ai_pressure": 6531,
+    "touch_lane_combat": 4270,
+    "asset_import_pipeline": 4059,
+    "vehicle_survival": 2044,
+    "text_console_runtime": 2030,
+    "web_choice_player": 1725,
+    "pose_animation_tools": 1693,
+    "resource_upgrade_loop": 1638,
+    "tts_audio_pipeline": 1160,
+    "writing_corpus_review": 625,
+    "deck_pressure": 373,
+    "delayed_consequences": 157,
+    "source_packet_generation": 111,
+    "event_clouds": 55,
+    "validation_pipeline": 41
+  },
+  "examples": {
+    "asset_import_pipeline": [
+      {
+        "origin": "cauldron",
+        "project": "FontForger.py",
+        "repo": "",
+        "path": "FontForger.py",
+        "line": 1,
+        "symbol": "",
+        "evidence": "import fontforge",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/FontForger.py#L1"
+      },
+      {
+        "origin": "cauldron",
+        "project": "FontForger.py",
+        "repo": "",
+        "path": "FontForger.py",
+        "line": 2,
+        "symbol": "",
+        "evidence": "import os",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/FontForger.py#L2"
+      },
+      {
+        "origin": "cauldron",
+        "project": "FontForger.py",
+        "repo": "",
+        "path": "FontForger.py",
+        "line": 19,
+        "symbol": "",
+        "evidence": "glyph.importOutlines(os.path.join(svg_dir, filename))",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/FontForger.py#L19"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\project.godot",
+        "line": 34,
+        "symbol": "",
+        "evidence": "textures/vram_compression/import_etc2_astc=true",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\project.godot#L34"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 108,
+        "symbol": "",
+        "evidence": "if source and source in enemy_instances and source.has_method(\"apply_status_effects\"):",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L108"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 243,
+        "symbol": "_configure_note_accessibility",
+        "evidence": "func _configure_note_accessibility(note: Control, note_type: String, note_index: int, source_unit: Node = null, source_enemy: Node = null) -> void:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L243"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 247,
+        "symbol": "",
+        "evidence": "note.configure_accessibility(note_type, note_index, source_unit, source_enemy)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L247"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 257,
+        "symbol": "",
+        "evidence": "var source_unit = event_data.get(\"unit\", null)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L257"
+      }
+    ],
+    "web_choice_player": [
+      {
+        "origin": "cauldron",
+        "project": "FontForger.py",
+        "repo": "",
+        "path": "FontForger.py",
+        "line": 10,
+        "symbol": "",
+        "evidence": "# Directory where your glyph SVGs are saved",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/FontForger.py#L10"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\project.godot",
+        "line": 18,
+        "symbol": "",
+        "evidence": "[autoload]",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\project.godot#L18"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\project.godot",
+        "line": 31,
+        "symbol": "",
+        "evidence": "[rendering]",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\project.godot#L31"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\project.godot",
+        "line": 33,
+        "symbol": "",
+        "evidence": "renderer/rendering_method=\"mobile\"",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\project.godot#L33"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\aria.gd",
+        "line": 3,
+        "symbol": "",
+        "evidence": "const AriaNoteProfile = preload(\"res://scripts/note_profiles/aria_note_profile.gd\")",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\aria.gd#L3"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 12,
+        "symbol": "",
+        "evidence": "const SCREEN_DISTORT_SHADER := preload(\"res://scenes/ScreenDistort.gdshader\")",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L12"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\choir_unit.gd",
+        "line": 3,
+        "symbol": "",
+        "evidence": "const DefaultNoteProfileScript = preload(\"res://scripts/note_profiles/default_note_profile.gd\")",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\choir_unit.gd#L3"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\pause_ui.gd",
+        "line": 3,
+        "symbol": "",
+        "evidence": "const VISUAL_FILTER_SHADER := preload(\"res://scenes/visual_filter.gdshader\")",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\pause_ui.gd#L3"
+      }
+    ],
+    "pose_animation_tools": [
+      {
+        "origin": "cauldron",
+        "project": "FontForger.py",
+        "repo": "",
+        "path": "FontForger.py",
+        "line": 21,
+        "symbol": "",
+        "evidence": "glyph.right_side_bearing = 20",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/FontForger.py#L21"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 109,
+        "symbol": "",
+        "evidence": "# This will be handled by the battle manager or music composer",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L109"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 122,
+        "symbol": "",
+        "evidence": "# Player-facing statuses are global for the choir right now.",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L122"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 236,
+        "symbol": "",
+        "evidence": "\"right\":",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L236"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 398,
+        "symbol": "",
+        "evidence": "\"right\":",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L398"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 544,
+        "symbol": "",
+        "evidence": "var original_offset = camera.offset",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L544"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 552,
+        "symbol": "",
+        "evidence": "camera.offset = original_offset + Vector2(",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L552"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 559,
+        "symbol": "",
+        "evidence": "camera.offset = original_offset",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L559"
+      }
+    ],
+    "touch_lane_combat": [
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 8,
+        "symbol": "",
+        "evidence": "@export var attack_power: int = 1",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L8"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 27,
+        "symbol": "",
+        "evidence": "@onready var attack_label: RichTextLabel = _resolve_attack_label()",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L27"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 41,
+        "symbol": "",
+        "evidence": "_update_attack_label()",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L41"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 84,
+        "symbol": "",
+        "evidence": "\"natural\": anim_name = &\"attack\"",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L84"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 85,
+        "symbol": "",
+        "evidence": "\"flat\":    anim_name = &\"block\"",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L85"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 87,
+        "symbol": "",
+        "evidence": "_:         anim_name = &\"attack\"",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L87"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 165,
+        "symbol": "",
+        "evidence": "var action_anims := [&\"damaged\", &\"attack\", &\"block\", &\"special\", &\"spawn\"]",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L165"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 189,
+        "symbol": "_resolve_attack_label",
+        "evidence": "func _resolve_attack_label() -> RichTextLabel:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L189"
+      }
+    ],
+    "ai_pressure": [
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 8,
+        "symbol": "",
+        "evidence": "@export var attack_power: int = 1",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L8"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 13,
+        "symbol": "",
+        "evidence": "@export var enemy_name: String = \"Auctioneer\"",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L13"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 21,
+        "symbol": "",
+        "evidence": "@export var audio_pattern : Array[bool]",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L21"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 25,
+        "symbol": "",
+        "evidence": "@onready var beat_player = $AudioStreamPlayer2D",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L25"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 27,
+        "symbol": "",
+        "evidence": "@onready var attack_label: RichTextLabel = _resolve_attack_label()",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L27"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 30,
+        "symbol": "_ready",
+        "evidence": "func _ready() -> void:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L30"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 41,
+        "symbol": "",
+        "evidence": "_update_attack_label()",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L41"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 44,
+        "symbol": "",
+        "evidence": "if anim_player and anim_player.has_animation(\"spawn\"):",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L44"
+      }
+    ],
+    "tts_audio_pipeline": [
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 21,
+        "symbol": "",
+        "evidence": "@export var audio_pattern : Array[bool]",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L21"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\enemy.gd",
+        "line": 25,
+        "symbol": "",
+        "evidence": "@onready var beat_player = $AudioStreamPlayer2D",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\enemy.gd#L25"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\project.godot",
+        "line": 20,
+        "symbol": "",
+        "evidence": "MusicPlayer=\"*res://audio/music_player.gd\"",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\project.godot#L20"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 175,
+        "symbol": "",
+        "evidence": "if AccessibilityTooltipService.is_tooltip_audio_active(scene_root):",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L175"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\world.gd",
+        "line": 130,
+        "symbol": "",
+        "evidence": "if AccessibilityTooltipService.is_tooltip_audio_active(self):",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\world.gd#L130"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scripts\\accessibility_tooltip_service.gd",
+        "line": 7,
+        "symbol": "",
+        "evidence": "const AccessibilityVoicePlayerScript = preload(\"res://audio/accessibility_voice_player.gd\")",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scripts\\accessibility_tooltip_service.gd#L7"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scripts\\accessibility_tooltip_service.gd",
+        "line": 94,
+        "symbol": "",
+        "evidence": "_play_tooltip_audio(scene_root, clean_text)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scripts\\accessibility_tooltip_service.gd#L94"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scripts\\accessibility_tooltip_service.gd",
+        "line": 105,
+        "symbol": "",
+        "evidence": "static func hide_tooltip(scene_root: Node, stop_audio: bool = true) -> void:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scripts\\accessibility_tooltip_service.gd#L105"
+      }
+    ],
+    "text_console_runtime": [
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 80,
+        "symbol": "can_show_raise_button",
+        "evidence": "func can_show_raise_button() -> bool:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L80"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 64,
+        "symbol": "",
+        "evidence": "if event is InputEventMouseButton and event.button_index == MOUSE_BUTTON_LEFT:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L64"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 77,
+        "symbol": "",
+        "evidence": "if event is InputEventMouseMotion and Input.is_mouse_button_pressed(MOUSE_BUTTON_LEFT):",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L77"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\pause_ui.gd",
+        "line": 37,
+        "symbol": "_set_settings_button_visible",
+        "evidence": "func _set_settings_button_visible(is_visible: bool) -> void:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\pause_ui.gd#L37"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\pause_ui.gd",
+        "line": 38,
+        "symbol": "",
+        "evidence": "var settings_button = get_node_or_null(\"../SettingsButton\")",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\pause_ui.gd#L38"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\pause_ui.gd",
+        "line": 39,
+        "symbol": "",
+        "evidence": "if settings_button and (settings_button is Button):",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\pause_ui.gd#L39"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\pause_ui.gd",
+        "line": 40,
+        "symbol": "",
+        "evidence": "settings_button.visible = is_visible",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\pause_ui.gd#L40"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\pause_ui.gd",
+        "line": 94,
+        "symbol": "_configure_close_button",
+        "evidence": "func _configure_close_button() -> void:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\pause_ui.gd#L94"
+      }
+    ],
+    "writing_corpus_review": [
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 544,
+        "symbol": "",
+        "evidence": "var original_offset = camera.offset",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L544"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 552,
+        "symbol": "",
+        "evidence": "camera.offset = original_offset + Vector2(",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L552"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\battle_manager.gd",
+        "line": 559,
+        "symbol": "",
+        "evidence": "camera.offset = original_offset",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\battle_manager.gd#L559"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\choir_unit.gd",
+        "line": 20,
+        "symbol": "",
+        "evidence": "var original_index: int = -1",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\choir_unit.gd#L20"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\choir_unit.gd",
+        "line": 95,
+        "symbol": "",
+        "evidence": "original_index = i",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\choir_unit.gd#L95"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\choir_unit.gd",
+        "line": 341,
+        "symbol": "",
+        "evidence": "# if already ready, return to original assigning position",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\choir_unit.gd#L341"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\choir_unit.gd",
+        "line": 345,
+        "symbol": "",
+        "evidence": "bm.restore_assignment(self, original_index)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\choir_unit.gd#L345"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\choir_unit.gd",
+        "line": 365,
+        "symbol": "",
+        "evidence": "bm.restore_assignment(self, original_index)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\choir_unit.gd#L365"
+      }
+    ],
+    "deck_pressure": [
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 16,
+        "symbol": "",
+        "evidence": "var starting_deck = [{\"index\": 0, \"count\": 4}, {\"index\": 1, \"count\": 4}, {\"index\": 2, \"count\": 1}, {\"index\": 3, \"count\": 1}, {\"index\":4, \"count\":2}]",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L16"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 17,
+        "symbol": "",
+        "evidence": "var current_deck: Array[int] = []",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L17"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 40,
+        "symbol": "",
+        "evidence": "_build_current_deck()",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L40"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 41,
+        "symbol": "",
+        "evidence": "current_deck.shuffle()",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L41"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 43,
+        "symbol": "",
+        "evidence": "await _draw_cards(CARD_DRAW)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L43"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 203,
+        "symbol": "",
+        "evidence": "if card and card.has_meta(\"deck_index\"):",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L203"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 204,
+        "symbol": "",
+        "evidence": "discard_pile.append(int(card.get_meta(\"deck_index\")))",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L204"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\card_manager.gd",
+        "line": 306,
+        "symbol": "_build_current_deck",
+        "evidence": "func _build_current_deck() -> void:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\card_manager.gd#L306"
+      }
+    ],
+    "resource_upgrade_loop": [
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\choir_unit.gd",
+        "line": 42,
+        "symbol": "",
+        "evidence": "var player_status_effects: Resource",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\choir_unit.gd#L42"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scripts\\player_stats.gd",
+        "line": 1,
+        "symbol": "",
+        "evidence": "extends Resource",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scripts\\player_stats.gd#L1"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scripts\\status_effects.gd",
+        "line": 1,
+        "symbol": "",
+        "evidence": "extends Resource",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scripts\\status_effects.gd#L1"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scripts\\note_profiles\\choir_note_profile.gd",
+        "line": 1,
+        "symbol": "",
+        "evidence": "extends Resource",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scripts\\note_profiles\\choir_note_profile.gd#L1"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\player_stats.gd",
+        "line": 1,
+        "symbol": "",
+        "evidence": "extends Resource",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\player_stats.gd#L1"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\data\\upgrades.json",
+        "line": 3,
+        "symbol": "name",
+        "evidence": "\"name\": \"proj_damage\",",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\data\\upgrades.json#L3"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\data\\upgrades.json",
+        "line": 4,
+        "symbol": "description",
+        "evidence": "\"description\": \"Increase shot damage by 2\",",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\data\\upgrades.json#L4"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\data\\upgrades.json",
+        "line": 5,
+        "symbol": "values",
+        "evidence": "\"values\": [",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\data\\upgrades.json#L5"
+      }
+    ],
+    "delayed_consequences": [
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\world.gd",
+        "line": 4,
+        "symbol": "",
+        "evidence": "@onready var raise_button = $RaiseChoirButton",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\world.gd#L4"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\world.gd",
+        "line": 44,
+        "symbol": "",
+        "evidence": "$AnimationPlayer.play(\"RaiseChoir\")",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\world.gd#L44"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcanachoir",
+        "repo": "",
+        "path": "arcanachoir\\scenes\\world.gd",
+        "line": 318,
+        "symbol": "",
+        "evidence": "print(\"RaiseChoir pressed - no raise_choir() on BattleManager\")",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\\scenes\\world.gd#L318"
+      },
+      {
+        "origin": "cauldron",
+        "project": "Belly_of_Defiance",
+        "repo": "",
+        "path": "Belly_of_Defiance\\scripts\\card.gd",
+        "line": 123,
+        "symbol": "",
+        "evidence": "await delayed_effect(vfx_timing, card_values.damage_multi * player.attack_power, card_values.target_effects)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\\scripts\\card.gd#L123"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\package-lock.json",
+        "line": 1210,
+        "symbol": "hookable",
+        "evidence": "\"hookable\": \"^5.5.3\",",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\package-lock.json#L1210"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\package-lock.json",
+        "line": 1314,
+        "symbol": "hookable",
+        "evidence": "\"hookable\": \"^5.5.3\",",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\package-lock.json#L1314"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\package-lock.json",
+        "line": 3723,
+        "symbol": "hookable",
+        "evidence": "\"hookable\": \"^5.5.3\",",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\package-lock.json#L3723"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\package-lock.json",
+        "line": 3995,
+        "symbol": "hookable",
+        "evidence": "\"hookable\": \"^5.5.3\",",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\package-lock.json#L3995"
+      }
+    ],
+    "vehicle_survival": [
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\player.gd",
+        "line": 78,
+        "symbol": "_project_on_plane",
+        "evidence": "func _project_on_plane(v: Vector3, n: Vector3) -> Vector3:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\player.gd#L78"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\player.gd",
+        "line": 83,
+        "symbol": "",
+        "evidence": "var f := _project_on_plane(forward, u)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\player.gd#L83"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\world_generator.gd",
+        "line": 33,
+        "symbol": "",
+        "evidence": "@export var top_noise_repeat_m: float = 48.0        # larger = broader bumps",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\world_generator.gd#L33"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\world_generator.gd",
+        "line": 34,
+        "symbol": "",
+        "evidence": "@export var top_noise_power: float = 1.0            # >1 emphasizes peaks (1 = linear)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\world_generator.gd#L34"
+      },
+      {
+        "origin": "cauldron",
+        "project": "armorture",
+        "repo": "",
+        "path": "armorture\\scripts\\player.gd",
+        "line": 187,
+        "symbol": "",
+        "evidence": "# Pitch relative to world XZ plane, derived from the forward vector",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/armorture\\scripts\\player.gd#L187"
+      },
+      {
+        "origin": "cauldron",
+        "project": "Belly_of_Defiance",
+        "repo": "",
+        "path": "Belly_of_Defiance\\scripts\\player.gd",
+        "line": 77,
+        "symbol": "_project_on_plane",
+        "evidence": "func _project_on_plane(v: Vector3, n: Vector3) -> Vector3:",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\\scripts\\player.gd#L77"
+      },
+      {
+        "origin": "cauldron",
+        "project": "Belly_of_Defiance",
+        "repo": "",
+        "path": "Belly_of_Defiance\\scripts\\player.gd",
+        "line": 82,
+        "symbol": "",
+        "evidence": "var f := _project_on_plane(forward, u)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\\scripts\\player.gd#L82"
+      },
+      {
+        "origin": "cauldron",
+        "project": "Belly_of_Defiance",
+        "repo": "",
+        "path": "Belly_of_Defiance\\scripts\\player.gd",
+        "line": 190,
+        "symbol": "",
+        "evidence": "var cam_flat: Vector3 = _project_on_plane(cam_forward, Vector3.UP).normalized()",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\\scripts\\player.gd#L190"
+      }
+    ],
+    "source_packet_generation": [
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\player.gd",
+        "line": 243,
+        "symbol": "",
+        "evidence": "new_projectile.global_transform = Transform3D(projectile_basis, spawn_pos)",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\player.gd#L243"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\radar.gd",
+        "line": 87,
+        "symbol": "",
+        "evidence": "var rel: Vector3 = e.global_transform.origin - _player.global_transform.origin",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\radar.gd#L87"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\voxel_chunk.gd",
+        "line": 43,
+        "symbol": "",
+        "evidence": "var rel:Vector3 = (global_transform.origin - world.WORLD_ORIGIN) / VOXEL_SIZE",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\voxel_chunk.gd#L43"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\voxel_chunk.gd",
+        "line": 51,
+        "symbol": "",
+        "evidence": "global_transform.origin = world.WORLD_ORIGIN + Vector3(chunk_voxel_origin) * VOXEL_SIZE",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\voxel_chunk.gd#L51"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\voxel_chunk.gd",
+        "line": 255,
+        "symbol": "",
+        "evidence": "# Transform world normals into local space of this chunk",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\voxel_chunk.gd#L255"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\world_generator.gd",
+        "line": 467,
+        "symbol": "",
+        "evidence": "chunk.global_transform.origin = WORLD_ORIGIN + Vector3(cx, cy, cz) * chunk_extent",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\world_generator.gd#L467"
+      },
+      {
+        "origin": "cauldron",
+        "project": "armorture",
+        "repo": "",
+        "path": "armorture\\scripts\\voxel_chunk.gd",
+        "line": 43,
+        "symbol": "",
+        "evidence": "var rel:Vector3 = (global_transform.origin - world.WORLD_ORIGIN) / VOXEL_SIZE",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/armorture\\scripts\\voxel_chunk.gd#L43"
+      },
+      {
+        "origin": "cauldron",
+        "project": "armorture",
+        "repo": "",
+        "path": "armorture\\scripts\\voxel_chunk.gd",
+        "line": 51,
+        "symbol": "",
+        "evidence": "global_transform.origin = world.WORLD_ORIGIN + Vector3(chunk_voxel_origin) * VOXEL_SIZE",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/armorture\\scripts\\voxel_chunk.gd#L51"
+      }
+    ],
+    "validation_pipeline": [
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\projectile.gd",
+        "line": 94,
+        "symbol": "",
+        "evidence": "# Acquire/validate target",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\projectile.gd#L94"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\package-lock.json",
+        "line": 5700,
+        "symbol": "utf-8-validate",
+        "evidence": "\"utf-8-validate\": \">=5.0.2\"",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\package-lock.json#L5700"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\package-lock.json",
+        "line": 5706,
+        "symbol": "utf-8-validate",
+        "evidence": "\"utf-8-validate\": {",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\package-lock.json#L5706"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\package-lock.json",
+        "line": 12899,
+        "symbol": "utf-8-validate",
+        "evidence": "\"utf-8-validate\": \">=5.0.2\"",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\package-lock.json#L12899"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\package-lock.json",
+        "line": 12905,
+        "symbol": "utf-8-validate",
+        "evidence": "\"utf-8-validate\": {",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\package-lock.json#L12905"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\.nuxt\\tsconfig.server.json",
+        "line": 4,
+        "symbol": "strict",
+        "evidence": "\"strict\": true,",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\.nuxt\\tsconfig.server.json#L4"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\.nuxt\\types\\nitro-imports.d.ts",
+        "line": 69,
+        "symbol": "",
+        "evidence": "const getValidatedQuery: typeof import('../../node_modules/h3').getValidatedQuery",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\.nuxt\\types\\nitro-imports.d.ts#L69"
+      },
+      {
+        "origin": "cauldron",
+        "project": "ClubCrucible",
+        "repo": "",
+        "path": "ClubCrucible\\.nuxt\\types\\nitro-imports.d.ts",
+        "line": 70,
+        "symbol": "",
+        "evidence": "const getValidatedRouterParams: typeof import('../../node_modules/h3').getValidatedRouterParams",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible\\.nuxt\\types\\nitro-imports.d.ts#L70"
+      }
+    ],
+    "event_clouds": [
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\world_generator.gd",
+        "line": 86,
+        "symbol": "",
+        "evidence": "var room_warp_noise: FastNoiseLite     # domain warp",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\world_generator.gd#L86"
+      },
+      {
+        "origin": "cauldron",
+        "project": "arcane-manifold",
+        "repo": "",
+        "path": "arcane-manifold\\scripts\\world_generator.gd",
+        "line": 205,
+        "symbol": "",
+        "evidence": "# optional domain warp",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\\scripts\\world_generator.gd#L205"
+      },
+      {
+        "origin": "cauldron",
+        "project": "armorture",
+        "repo": "",
+        "path": "armorture\\scripts\\world_generator.gd",
+        "line": 68,
+        "symbol": "",
+        "evidence": "var room_warp_noise: FastNoiseLite       # optional domain warp",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/armorture\\scripts\\world_generator.gd#L68"
+      },
+      {
+        "origin": "cauldron",
+        "project": "Belly_of_Defiance",
+        "repo": "",
+        "path": "Belly_of_Defiance\\scripts\\world_generator.gd",
+        "line": 86,
+        "symbol": "",
+        "evidence": "var room_warp_noise: FastNoiseLite     # domain warp",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\\scripts\\world_generator.gd#L86"
+      },
+      {
+        "origin": "cauldron",
+        "project": "Belly_of_Defiance",
+        "repo": "",
+        "path": "Belly_of_Defiance\\scripts\\world_generator.gd",
+        "line": 205,
+        "symbol": "",
+        "evidence": "# optional domain warp",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\\scripts\\world_generator.gd#L205"
+      },
+      {
+        "origin": "cauldron",
+        "project": "diorama-of-descencion",
+        "repo": "",
+        "path": "diorama-of-descencion\\scripts\\melee_enemy.gd",
+        "line": 237,
+        "symbol": "",
+        "evidence": "# Build tween: ease out into pose, then ease back over hit reaction duration",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/diorama-of-descencion\\scripts\\melee_enemy.gd#L237"
+      },
+      {
+        "origin": "cauldron",
+        "project": "diorama-of-descencion",
+        "repo": "",
+        "path": "diorama-of-descencion\\scripts\\melee_enemy.gd",
+        "line": 544,
+        "symbol": "",
+        "evidence": "# Apply knockback/hit reaction for non-launcher hits regardless of current attack state",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/diorama-of-descencion\\scripts\\melee_enemy.gd#L544"
+      },
+      {
+        "origin": "cauldron",
+        "project": "diorama-of-descencion",
+        "repo": "",
+        "path": "diorama-of-descencion\\scripts\\player.gd",
+        "line": 1580,
+        "symbol": "",
+        "evidence": "# Allow dashes to cancel hit reaction; continue processing instead of returning",
+        "source_url": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/diorama-of-descencion\\scripts\\player.gd#L1580"
+      }
+    ]
+  }
+}

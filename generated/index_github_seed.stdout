@@ -1,0 +1,1262 @@
+{
+  "record_count": 3552,
+  "by_origin": {
+    "github": 3552
+  },
+  "by_project": {
+    "legion-writing-tool": 1299,
+    "fleshpunk--inner-heart": 986,
+    "revelation": 857,
+    "aegis-of-victory": 329,
+    "gothic-throne": 81
+  },
+  "by_mechanic": {
+    "source_packet_generation": 1638,
+    "tts_audio_pipeline": 620,
+    "validation_pipeline": 472,
+    "ai_pressure": 467,
+    "asset_import_pipeline": 426,
+    "text_console_runtime": 426,
+    "web_choice_player": 312,
+    "pose_animation_tools": 226,
+    "writing_corpus_review": 204,
+    "delayed_consequences": 153,
+    "deck_pressure": 124,
+    "event_clouds": 120,
+    "resource_upgrade_loop": 60,
+    "touch_lane_combat": 34,
+    "vehicle_survival": 16
+  },
+  "examples": {
+    "event_clouds": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 5,
+        "symbol": "",
+        "evidence": "Aegis is now a local HTML/JS narrative roguelike prototype built from mythic domains and event clouds.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L5"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 37,
+        "symbol": "",
+        "evidence": "- `domains.json`: domain pool and event-cloud pressure plans.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L37"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 38,
+        "symbol": "",
+        "evidence": "- `event_lines.json`: quest-line-like action/reaction/cascade threads.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L38"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 40,
+        "symbol": "",
+        "evidence": "- `sample_event_cloud_runs.json`: sample paths through shared content.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L40"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 41,
+        "symbol": "",
+        "evidence": "- `domain_event_seeds.json`: individually iterable event seeds used by event lines.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L41"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 42,
+        "symbol": "",
+        "evidence": "- `domain_progression.json`: current domain sampling and run-state buckets.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L42"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 45,
+        "symbol": "",
+        "evidence": "- `docs/event_cloud_structure.md`: current structural model.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L45"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "- `.agent-memory/domain_event_contract.md`: event cloud quality bar.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L46"
+      }
+    ],
+    "ai_pressure": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 5,
+        "symbol": "",
+        "evidence": "Aegis is now a local HTML/JS narrative roguelike prototype built from mythic domains and event clouds.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L5"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 37,
+        "symbol": "",
+        "evidence": "- `domains.json`: domain pool and event-cloud pressure plans.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L37"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 41,
+        "symbol": "",
+        "evidence": "- `domain_event_seeds.json`: individually iterable event seeds used by event lines.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L41"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 42,
+        "symbol": "",
+        "evidence": "- `domain_progression.json`: current domain sampling and run-state buckets.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L42"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "- `.agent-memory/domain_event_contract.md`: event cloud quality bar.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L46"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 50,
+        "symbol": "",
+        "evidence": "Nikia and Theo are taken into Sophion's Ascent because Theo has prophetic vision. Nikia is dismissed into service work, but becomes physically sharper inside Sophion's walls. In...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L50"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 52,
+        "symbol": "",
+        "evidence": "Back at Sophion, the Logarenes try to remove Theo's coin to close a Logos Fracture. Nikia interrupts the extraction, Griefshard tears the ritual open, and Nikia and Theo fall th...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L52"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 56,
+        "symbol": "",
+        "evidence": "A run samples mythic domains from a pool. Inside a domain, event lines spawn action and reaction cascades.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L56"
+      }
+    ],
+    "pose_animation_tools": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 5,
+        "symbol": "",
+        "evidence": "Aegis is now a local HTML/JS narrative roguelike prototype built from mythic domains and event clouds.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L5"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 36,
+        "symbol": "",
+        "evidence": "- `run_model.json`: run-level roguelike/event-cloud structure.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L36"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 38,
+        "symbol": "",
+        "evidence": "- `event_lines.json`: quest-line-like action/reaction/cascade threads.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L38"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 50,
+        "symbol": "",
+        "evidence": "Nikia and Theo are taken into Sophion's Ascent because Theo has prophetic vision. Nikia is dismissed into service work, but becomes physically sharper inside Sophion's walls. In...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L50"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 52,
+        "symbol": "",
+        "evidence": "Back at Sophion, the Logarenes try to remove Theo's coin to close a Logos Fracture. Nikia interrupts the extraction, Griefshard tears the ritual open, and Nikia and Theo fall th...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L52"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 100,
+        "symbol": "",
+        "evidence": "- `.agent-memory/setting_backbone.md`: setting, factions, recurring forces, and run architecture.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L100"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 109,
+        "symbol": "",
+        "evidence": "1. Keep Nikia's voice practical, protective, and suspicious of clean philosophical language.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L109"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 112,
+        "symbol": "",
+        "evidence": "4. Domain artifacts should be double-edged. They solve one pressure and expose another.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L112"
+      }
+    ],
+    "web_choice_player": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 5,
+        "symbol": "",
+        "evidence": "Aegis is now a local HTML/JS narrative roguelike prototype built from mythic domains and event clouds.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L5"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 9,
+        "symbol": "",
+        "evidence": "Run the document/review server:",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L9"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 12,
+        "symbol": "",
+        "evidence": "python tools/local_web_server.py --host 127.0.0.1 --port 3001",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L12"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 21,
+        "symbol": "",
+        "evidence": "Run the playable game server:",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L21"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 24,
+        "symbol": "",
+        "evidence": "python tools/local_game_server.py --host 127.0.0.1 --port 3002",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L24"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 35,
+        "symbol": "",
+        "evidence": "- `web/`: local HTML/CSS/JS document and playable game surfaces.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L35"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 69,
+        "symbol": "",
+        "evidence": "- `dionysus_dregs_domain`: first-written domain. Core pressure: relief through forgetting and surrender.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L69"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 110,
+        "symbol": "",
+        "evidence": "2. Keep Theo active. He is vulnerable, but not cargo. His choices should change event clouds.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L110"
+      }
+    ],
+    "source_packet_generation": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 7,
+        "symbol": "",
+        "evidence": "The source PDF is `Aegis of Victory (1).pdf`. A searchable text extraction lives at `generated/corpus/aegis_of_victory_source.txt`.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L7"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 43,
+        "symbol": "",
+        "evidence": "- `generated/rooms/dionysus_room_scaffolds.json`: generated room scaffolds for document review and Claude handoff.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L43"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 44,
+        "symbol": "",
+        "evidence": "- `docs/source_vibe_guide.md`: source-grounded vibe guide for generated rooms and packets.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L44"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 79,
+        "symbol": "Claude Architecture/Event Workflow",
+        "evidence": "## Claude Architecture/Event Workflow",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L79"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 81,
+        "symbol": "",
+        "evidence": "Claude should be used for architecture and event generation the same way the Fleshpunk workflow used it: Codex builds narrow source packets, validates, and integrates; Claude dr...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L81"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 88,
+        "symbol": "",
+        "evidence": "python tools/aegis_domain_agent.py source-packet --domain dionysus_dregs_domain --event-line dionysus_reflection_refusal_line --event-seed dionysus_reflection_pool_seed --out ge...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L88"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 91,
+        "symbol": "",
+        "evidence": "Then build the packet without `--dry-run` and send only that packet to Claude. Keep the default source-packet budget at 7000 input tokens unless the user gives another budget.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L91"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 97,
+        "symbol": "",
+        "evidence": "- `docs/corpus_workflow.md`: corpus usage workflow.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L97"
+      }
+    ],
+    "asset_import_pipeline": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 7,
+        "symbol": "",
+        "evidence": "The source PDF is `Aegis of Victory (1).pdf`. A searchable text extraction lives at `generated/corpus/aegis_of_victory_source.txt`.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L7"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 44,
+        "symbol": "",
+        "evidence": "- `docs/source_vibe_guide.md`: source-grounded vibe guide for generated rooms and packets.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L44"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 81,
+        "symbol": "",
+        "evidence": "Claude should be used for architecture and event generation the same way the Fleshpunk workflow used it: Codex builds narrow source packets, validates, and integrates; Claude dr...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L81"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 88,
+        "symbol": "",
+        "evidence": "python tools/aegis_domain_agent.py source-packet --domain dionysus_dregs_domain --event-line dionysus_reflection_refusal_line --event-seed dionysus_reflection_pool_seed --out ge...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L88"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 91,
+        "symbol": "",
+        "evidence": "Then build the packet without `--dry-run` and send only that packet to Claude. Keep the default source-packet budget at 7000 input tokens unless the user gives another budget.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L91"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 95,
+        "symbol": "",
+        "evidence": "- `docs/canon_source_map.md`: summary of the source document and open gaps.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L95"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 96,
+        "symbol": "",
+        "evidence": "- `docs/mythic_source_strategy.md`: how to draw on Greek material without copying translation text.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L96"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 103,
+        "symbol": "",
+        "evidence": "- `.agent-memory/source_packet_workflow.md`: packet-building rules for Claude.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L103"
+      }
+    ],
+    "text_console_runtime": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 43,
+        "symbol": "",
+        "evidence": "- `generated/rooms/dionysus_room_scaffolds.json`: generated room scaffolds for document review and Claude handoff.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L43"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 44,
+        "symbol": "",
+        "evidence": "- `docs/source_vibe_guide.md`: source-grounded vibe guide for generated rooms and packets.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L44"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 110,
+        "symbol": "",
+        "evidence": "2. Keep Theo active. He is vulnerable, but not cargo. His choices should change event clouds.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L110"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 114,
+        "symbol": "",
+        "evidence": "6. Player choices should trigger concrete reactions and later echoes.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L114"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 126,
+        "symbol": "Room Generation",
+        "evidence": "## Room Generation",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L126"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 129,
+        "symbol": "",
+        "evidence": "python tools/aegis_domain_agent.py generate-rooms --domain dionysus_dregs_domain --out generated/rooms/dionysus_room_scaffolds.json",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L129"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 130,
+        "symbol": "",
+        "evidence": "python tools/aegis_domain_agent.py room-packet --rooms generated/rooms/dionysus_room_scaffolds.json --room room_dionysus_culmination_stage_unmasking --out generated/source_packe...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L130"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 133,
+        "symbol": "",
+        "evidence": "Room scaffolds are generated locally from structured seeds. Claude should draft final prose/content from the source packet before promotion.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L133"
+      }
+    ],
+    "delayed_consequences": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "- `.agent-memory/domain_event_contract.md`: event cloud quality bar.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L46"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 64,
+        "symbol": "",
+        "evidence": "A domain is a pressure arena. It can open with different event lines on different runs. Player actions mutate run memory, unlock or suppress event lines, queue delayed reactions...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L64"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 76,
+        "symbol": "",
+        "evidence": "- `thorn_memory_line`: pain becomes memory instead of root.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L76"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 100,
+        "symbol": "",
+        "evidence": "- `.agent-memory/setting_backbone.md`: setting, factions, recurring forces, and run architecture.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L100"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 101,
+        "symbol": "",
+        "evidence": "- `.agent-memory/domain_event_contract.md`: quality bar for event clouds and event seeds.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L101"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 102,
+        "symbol": "",
+        "evidence": "- `.agent-memory/content_authorship_workflow.md`: Claude/Codex authorship split.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L102"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 103,
+        "symbol": "",
+        "evidence": "- `.agent-memory/source_packet_workflow.md`: packet-building rules for Claude.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L103"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 114,
+        "symbol": "",
+        "evidence": "6. Player choices should trigger concrete reactions and later echoes.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L114"
+      }
+    ],
+    "touch_lane_combat": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 50,
+        "symbol": "",
+        "evidence": "Nikia and Theo are taken into Sophion's Ascent because Theo has prophetic vision. Nikia is dismissed into service work, but becomes physically sharper inside Sophion's walls. In...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L50"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/anthology_corpus_notes.md",
+        "line": 33,
+        "symbol": "",
+        "evidence": "`Greek Anthology epigram mode + shield boss + absent sibling + Ares witness = a boss that blocks one killing blow, but records whether Nikia moved toward Theo or away from him.`",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/anthology_corpus_notes.md#L33"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 30,
+        "symbol": "",
+        "evidence": "4. In the forest, a Poseidon-aligned raider attacks and chains Theo with Griefshard.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L30"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 43,
+        "symbol": "",
+        "evidence": "2. Maenads invite them to dance/rest/forget, then attack.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L43"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 45,
+        "symbol": "",
+        "evidence": "4. Theo resists a comfort attack by showing truth.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L45"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/corpus_workflow.md",
+        "line": 30,
+        "symbol": "",
+        "evidence": "- Riot/ballistic shield tactics: best for cover, lane discipline, threshold movement, visibility cost, and protecting someone behind the shield.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/corpus_workflow.md#L30"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/corpus_workflow.md",
+        "line": 32,
+        "symbol": "",
+        "evidence": "For Aegis, buhurt is the most Griefshard-relevant modern discipline because the shield is active: it occupies space, disrupts balance, drives bodies, and participates in the att...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/corpus_workflow.md#L32"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/corpus_workflow.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "= Laurel Sunstring: shows the exact line of an incoming attack, but burns a clearer prophecy into Theo.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/corpus_workflow.md#L46"
+      }
+    ],
+    "deck_pressure": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 68,
+        "symbol": "",
+        "evidence": "- `logos_threshold`: prologue/transition cloud around the broken extraction and fracture fall.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L68"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 96,
+        "symbol": "",
+        "evidence": "- `docs/mythic_source_strategy.md`: how to draw on Greek material without copying translation text.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L96"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/anthology_corpus_notes.md",
+        "line": 8,
+        "symbol": "",
+        "evidence": "- Quest skeletons: impossible task, helper debt, monster threshold, trophy, return cost.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/anthology_corpus_notes.md#L8"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 49,
+        "symbol": "",
+        "evidence": "8. Missing section: likely Theo follows or is drawn to a reflection pool.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L49"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/corpus_driven_room_generation.md",
+        "line": 36,
+        "symbol": "",
+        "evidence": "- Borrow cadence and pressure grammar from `docs/source_vibe_guide.md`.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/corpus_driven_room_generation.md#L36"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/corpus_workflow.md",
+        "line": 30,
+        "symbol": "",
+        "evidence": "- Riot/ballistic shield tactics: best for cover, lane discipline, threshold movement, visibility cost, and protecting someone behind the shield.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/corpus_workflow.md#L30"
+      },
+      {
+        "origin": "github",
+        "project": "legion-writing-tool",
+        "repo": "Valar05/legion-writing-tool",
+        "path": "tools/corpus_tool.py",
+        "line": 360,
+        "symbol": "",
+        "evidence": "lines.append(\"No high-frequency five-word phrases found at the current threshold.\")",
+        "source_url": "https://github.com/Valar05/legion-writing-tool/blob/HEAD/tools/corpus_tool.py#L360"
+      },
+      {
+        "origin": "github",
+        "project": "legion-writing-tool",
+        "repo": "Valar05/legion-writing-tool",
+        "path": "tools/corpus_tool.py",
+        "line": 368,
+        "symbol": "",
+        "evidence": "lines.append(\"No repeated full sentences found at the current threshold.\")",
+        "source_url": "https://github.com/Valar05/legion-writing-tool/blob/HEAD/tools/corpus_tool.py#L368"
+      }
+    ],
+    "validation_pipeline": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 81,
+        "symbol": "",
+        "evidence": "Claude should be used for architecture and event generation the same way the Fleshpunk workflow used it: Codex builds narrow source packets, validates, and integrates; Claude dr...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L81"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 87,
+        "symbol": "",
+        "evidence": "python tools/aegis_domain_agent.py validate",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L87"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "README.md",
+        "line": 47,
+        "symbol": "",
+        "evidence": "Claude drafts architecture and event content from narrow source packets. Codex validates, integrates, and keeps local tooling working.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/README.md#L47"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "README.md",
+        "line": 51,
+        "symbol": "",
+        "evidence": "python tools/aegis_domain_agent.py validate",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/README.md#L51"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/claude_domain_workflow.md",
+        "line": 5,
+        "symbol": "",
+        "evidence": "Aegis uses Claude for architecture and event content while Codex integrates and validates.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/claude_domain_workflow.md#L5"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/claude_domain_workflow.md",
+        "line": 15,
+        "symbol": "",
+        "evidence": "python tools/aegis_domain_agent.py validate",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/claude_domain_workflow.md#L15"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/claude_domain_workflow.md",
+        "line": 43,
+        "symbol": "",
+        "evidence": "6. Validate locally:",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/claude_domain_workflow.md#L43"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/claude_domain_workflow.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "python tools/aegis_domain_agent.py validate",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/claude_domain_workflow.md#L46"
+      }
+    ],
+    "writing_corpus_review": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 81,
+        "symbol": "",
+        "evidence": "Claude should be used for architecture and event generation the same way the Fleshpunk workflow used it: Codex builds narrow source packets, validates, and integrates; Claude dr...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L81"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 115,
+        "symbol": "",
+        "evidence": "7. Event seeds are design units first; draft/revise them individually.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L115"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 133,
+        "symbol": "",
+        "evidence": "Room scaffolds are generated locally from structured seeds. Claude should draft final prose/content from the source packet before promotion.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L133"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "README.md",
+        "line": 47,
+        "symbol": "",
+        "evidence": "Claude drafts architecture and event content from narrow source packets. Codex validates, integrates, and keeps local tooling working.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/README.md#L47"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "README.md",
+        "line": 65,
+        "symbol": "",
+        "evidence": "Room scaffolds are generated locally from structured seeds. Claude should draft final prose/content from the source packet before promotion.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/README.md#L65"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/anthology_corpus_notes.md",
+        "line": 27,
+        "symbol": "",
+        "evidence": "3. Which god witnessed the original action?",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/anthology_corpus_notes.md#L27"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 7,
+        "symbol": "",
+        "evidence": "The document currently covers the prologue, Griefshard binding, Sophion's extraction attempt, the Logos Fracture portal, and a Dionysus/Bacchus realm draft with several `TODO MI...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L7"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 71,
+        "symbol": "",
+        "evidence": "- The longer roguelike structure after Dionysus is not yet drafted.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L71"
+      }
+    ],
+    "tts_audio_pipeline": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 105,
+        "symbol": "",
+        "evidence": "- `generated/corpus/`: source manifests, power seeds, artifact generator, and source extraction.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L105"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 21,
+        "symbol": "",
+        "evidence": "- Coins: intent/meaning interfaces tied to powers and disciplines. Theo's coin creates/contacts the Logos Fracture. A raider's Poseidon-aligned coin drives water/ice spear work....",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L21"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 55,
+        "symbol": "",
+        "evidence": "14. Missing section: likely Bacchus manifestation and escalation.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L55"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/corpus_driven_room_generation.md",
+        "line": 20,
+        "symbol": "",
+        "evidence": "For required path variants, preserve the required outcome while changing the myth-backed circumstances. In Dionysus, seed acquisition must still produce `blood_sap_seed`; sprout...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/corpus_driven_room_generation.md#L20"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/corpus_driven_room_generation.md",
+        "line": 54,
+        "symbol": "",
+        "evidence": "Required artifact state changes must happen on the page. For Thorn Rod sprouting, Claude must describe where the seed is, how it cracks or roots, how the shaft and thorns form, ...",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/corpus_driven_room_generation.md#L54"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/corpus_workflow.md",
+        "line": 17,
+        "symbol": "",
+        "evidence": "- `generated/corpus/source_manifest.json`: source list with status, URLs, use, and transform focus.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/corpus_workflow.md#L17"
+      },
+      {
+        "origin": "github",
+        "project": "legion-writing-tool",
+        "repo": "Valar05/legion-writing-tool",
+        "path": "README.md",
+        "line": 34,
+        "symbol": "",
+        "evidence": "5. Add nondestructive proposal folders for critique plans, diffs, accepted changes, and TTS summaries.",
+        "source_url": "https://github.com/Valar05/legion-writing-tool/blob/HEAD/README.md#L34"
+      },
+      {
+        "origin": "github",
+        "project": "legion-writing-tool",
+        "repo": "Valar05/legion-writing-tool",
+        "path": "README.md",
+        "line": 73,
+        "symbol": "",
+        "evidence": "copy Copy the last answer to clipboard if available.",
+        "source_url": "https://github.com/Valar05/legion-writing-tool/blob/HEAD/README.md#L73"
+      }
+    ],
+    "vehicle_survival": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 123,
+        "symbol": "",
+        "evidence": "4. Broaden Dionysus pressure beyond surrender: wine, passion, rage, frenzy, insanity, appetite, performance, and riot.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/PROJECT_ORIENTATION.md#L123"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/anthology_corpus_notes.md",
+        "line": 16,
+        "symbol": "",
+        "evidence": "- Berens/Guerber/Bulfinch: broad overview and quick myth routing; cross-check before treating a detail as ancient-source pressure.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/anthology_corpus_notes.md#L16"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/corpus_workflow.md",
+        "line": 30,
+        "symbol": "",
+        "evidence": "- Riot/ballistic shield tactics: best for cover, lane discipline, threshold movement, visibility cost, and protecting someone behind the shield.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/corpus_workflow.md#L30"
+      },
+      {
+        "origin": "github",
+        "project": "fleshpunk--inner-heart",
+        "repo": "Valar05/fleshpunk--inner-heart",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 69,
+        "symbol": "",
+        "evidence": "- External writing-agent work must start from a narrow source packet, not a broad repo prompt. Use `.agent-memory/source_packet_workflow.md` before asking Claude/OpenAI/another ...",
+        "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/PROJECT_ORIENTATION.md#L69"
+      },
+      {
+        "origin": "github",
+        "project": "fleshpunk--inner-heart",
+        "repo": "Valar05/fleshpunk--inner-heart",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 149,
+        "symbol": "",
+        "evidence": "python tools/mechanics_agent.py brainstorm --mock --action break_spike_lane",
+        "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/PROJECT_ORIENTATION.md#L149"
+      },
+      {
+        "origin": "github",
+        "project": "fleshpunk--inner-heart",
+        "repo": "Valar05/fleshpunk--inner-heart",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 150,
+        "symbol": "",
+        "evidence": "python tools/mechanics_agent.py brainstorm --action break_spike_lane --action probe_amber_cache --count 3",
+        "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/PROJECT_ORIENTATION.md#L150"
+      },
+      {
+        "origin": "github",
+        "project": "fleshpunk--inner-heart",
+        "repo": "Valar05/fleshpunk--inner-heart",
+        "path": "tools/SCENARIO_AGENT.md",
+        "line": 9,
+        "symbol": "",
+        "evidence": "Generate within a broad category:",
+        "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/SCENARIO_AGENT.md#L9"
+      },
+      {
+        "origin": "github",
+        "project": "fleshpunk--inner-heart",
+        "repo": "Valar05/fleshpunk--inner-heart",
+        "path": "tools/corpus_agent.py",
+        "line": 110,
+        "symbol": "",
+        "evidence": "\"pressure_system\": [\"vent_red_split\", \"push_through_spikes\", \"break_spike_lane\"],",
+        "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/corpus_agent.py#L110"
+      }
+    ],
+    "resource_upgrade_loop": [
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 23,
+        "symbol": "",
+        "evidence": "- Mythic realms: broken divine domains inside or beyond the fracture. Each realm offers a temptation, a pressure, a local artifact, and a way forward.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L23"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 50,
+        "symbol": "",
+        "evidence": "9. Reflection pool offers Theo coinless peace; he refuses forgetting.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L50"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 54,
+        "symbol": "",
+        "evidence": "13. False banquet offers food, family memory, rest, and relief.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L54"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 56,
+        "symbol": "",
+        "evidence": "15. Bacchus fragment offers forgetting to both siblings.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L56"
+      },
+      {
+        "origin": "github",
+        "project": "aegis-of-victory",
+        "repo": "Valar05/aegis-of-victory",
+        "path": "docs/canon_source_map.md",
+        "line": 61,
+        "symbol": "",
+        "evidence": "20. Thales offers to cut away the rod and preserve Nikia's grief as beautiful memory.",
+        "source_url": "https://github.com/Valar05/aegis-of-victory/blob/HEAD/docs/canon_source_map.md#L61"
+      },
+      {
+        "origin": "github",
+        "project": "legion-writing-tool",
+        "repo": "Valar05/legion-writing-tool",
+        "path": "tools/legion_audiobook_sample.py",
+        "line": 209,
+        "symbol": "",
+        "evidence": "if after_clean.startswith((\"kamal greeted\", \"kamal continued\", \"kamal offered\", \"kamal paused\")):",
+        "source_url": "https://github.com/Valar05/legion-writing-tool/blob/HEAD/tools/legion_audiobook_sample.py#L209"
+      },
+      {
+        "origin": "github",
+        "project": "fleshpunk--inner-heart",
+        "repo": "Valar05/fleshpunk--inner-heart",
+        "path": "PROJECT_ORIENTATION.md",
+        "line": 85,
+        "symbol": "",
+        "evidence": "- `run_manager.gd`: Owns run state, deck drawing, resource counters, player stats, encounter construction, and action consequences.",
+        "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/PROJECT_ORIENTATION.md#L85"
+      },
+      {
+        "origin": "github",
+        "project": "fleshpunk--inner-heart",
+        "repo": "Valar05/fleshpunk--inner-heart",
+        "path": "tools/SCENARIO_AGENT.md",
+        "line": 13,
+        "symbol": "",
+        "evidence": "OPENAI_API_KEY=... python tools/scenario_agent.py generate --room amber_corridor --category resource --count 2",
+        "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/SCENARIO_AGENT.md#L13"
+      }
+    ]
+  }
+}

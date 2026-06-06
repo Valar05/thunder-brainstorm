@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "captured": "2026-06-05",
+  "projects": {
+    "marrow_runner": {
+      "standalone_path": "/storage/emulated/0/Documents/GodotProjects/marrow-runner",
+      "old_thunder_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/prototypes/immune-maze-canvas",
+      "itch_url_grailawakeninggames": "https://grailawakeninggames.itch.io/marrow-runner",
+      "itch_url_valarsbeard": "https://valarsbeard.itch.io/marrow-runner",
+      "butler_target": "grailawakeninggames/marrow-runner:html",
+      "latest_release_doc": "/storage/emulated/0/Documents/GodotProjects/marrow-runner/release/DEVLOG_v0.9.0-rc3.md",
+      "standalone_commit": "f951a0f"
+    },
+    "club_crucible": {
+      "github": "https://github.com/Valar05/club-crucible",
+      "remote_ssh_workspace": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible",
+      "firebase_hosting": "https://clubcrucible.web.app",
+      "marrow_runner_post": "https://clubcrucible.web.app/valarsbeard-development/marrow-runner-ai-first-phone-workflow",
+      "published_commit": "f75ca8d"
+    },
+    "thunder_brainstorm": {
+      "local_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm",
+      "doc_server": "http://127.0.0.1:8765/",
+      "marrow_runner_release_packet": "generated/release_packets/marrow_runner_itch/",
+      "club_crucible_release_packet": "generated/release_packets/club_crucible_marrow_runner/"
+    }
+  }
+}

@@ -1,0 +1,263 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>scrap_cathedral_maze_chase_v1 - Thunder Brainstorm</title>
+<style>
+:root { color-scheme: light; --ink:#18212a; --muted:#637080; --paper:#f7f3ea; --panel:#fffdf7; --line:#d7cec0; --accent:#0b6b78; --accent2:#9a3f2f; --accent3:#536f2b; font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; }
+* { box-sizing:border-box; } html { scroll-behavior:smooth; } body { margin:0; background:var(--paper); color:var(--ink); line-height:1.5; }
+.shell { min-height:100vh; display:grid; grid-template-columns:280px minmax(0,1fr); }
+aside { position:sticky; top:0; height:100vh; overflow:auto; border-right:1px solid var(--line); background:#eee4d7; padding:22px 18px; }
+.brand { font-size:.78rem; font-weight:800; text-transform:uppercase; letter-spacing:0; color:var(--accent2); margin-bottom:14px; }
+.search { width:100%; border:1px solid #bdb3a6; background:var(--panel); color:var(--ink); font:inherit; padding:10px 11px; border-radius:6px; margin:12px 0 16px; }
+nav a { display:block; color:#26313d; text-decoration:none; padding:8px 9px; border-left:3px solid transparent; font-size:.92rem; }
+nav a:hover, nav a:focus { border-left-color:var(--accent); background:rgba(11,107,120,.08); outline:none; }
+.actions { display:flex; gap:8px; margin-top:18px; } button { border:1px solid #aaa093; background:var(--panel); color:var(--ink); border-radius:6px; padding:8px 10px; font:inherit; cursor:pointer; } button:hover { border-color:var(--accent); color:var(--accent); }
+main { min-width:0; padding:34px clamp(18px,4vw,56px) 70px; } header { border-bottom:1px solid var(--line); padding-bottom:26px; margin-bottom:24px; }
+h1 { margin:0; font-size:clamp(2rem,4vw,4rem); line-height:1.02; letter-spacing:0; max-width:980px; } .subtitle { max-width:980px; color:var(--muted); font-size:1.02rem; margin:14px 0 0; } .meta { color:var(--muted); font-size:.82rem; margin-top:14px; overflow-wrap:anywhere; }
+.doc-section { padding:28px 0 34px; border-bottom:1px solid var(--line); } h2 { margin:0 0 14px; font-size:1.42rem; letter-spacing:0; } h3 { margin:0 0 10px; font-size:1rem; letter-spacing:0; } ol { margin:0; padding-left:1.35rem; max-width:980px; } li { margin:8px 0; }
+.fields { display:grid; gap:10px; max-width:1080px; } .field { display:grid; grid-template-columns:minmax(150px,220px) minmax(0,1fr); gap:16px; align-items:start; padding:9px 0; border-bottom:1px solid rgba(215,206,192,.7); } .field-key { color:var(--accent2); font-weight:800; font-size:.82rem; text-transform:uppercase; } .field-value { overflow-wrap:anywhere; }
+.candidate-id { display:inline-block; margin:0; padding:8px 10px; border:1px solid var(--line); background:var(--panel); border-radius:6px; font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+.item-grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(280px,1fr)); gap:14px; align-items:start; } .item { background:var(--panel); border:1px solid var(--line); border-radius:8px; padding:16px; box-shadow:0 18px 45px rgba(33,31,26,.12); } .item .field { grid-template-columns:120px minmax(0,1fr); gap:12px; padding:7px 0; } .nested { border-left:3px solid var(--accent3); padding-left:14px; margin:8px 0; }
+.hidden { display:none; } pre { white-space:pre-wrap; overflow-wrap:anywhere; background:#202a30; color:#f2efe5; border-radius:8px; padding:18px; overflow:auto; }
+@media (max-width:820px) { .shell { display:block; } aside { position:static; height:auto; border-right:0; border-bottom:1px solid var(--line); } nav { display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); } main { padding:24px 16px 50px; } .field,.item .field { grid-template-columns:1fr; gap:4px; } }
+@media print { aside,.actions { display:none; } .shell { display:block; } main { padding:0; } .item { box-shadow:none; break-inside:avoid; } }
+</style>
+</head>
+<body>
+<div class="shell"><aside><div class="brand">Thunder Brainstorm</div><input class="search" id="search" type="search" placeholder="Search document" aria-label="Search document"><nav aria-label="Document sections"><a href="#candidate-id">Candidate</a><a href="#theme-pitch">Theme Pitch</a><a href="#core-loop">Core Loop</a><a href="#movement-model">Movement Model</a><a href="#maze-generation">Maze Generation</a><a href="#pursuers">Pursuers</a><a href="#floor-modifiers">Floor Modifiers</a><a href="#player-upgrades">Player Upgrades</a><a href="#scoring-and-pressure">Scoring And Pressure</a><a href="#first-playable-scope">First Playable Scope</a><a href="#debug-and-validation">Debug And Validation</a><a href="#risks">Risks</a><a href="#implementation-recommendation">Implementation Recommendation</a></nav><div class="actions"><button type="button" id="print">Print</button><button type="button" id="raw">Raw</button></div></aside><main><header><h1>scrap_cathedral_maze_chase_v1</h1><p class="subtitle">A derelict iron cathedral whose maintenance drone (the player) must reclaim scattered charge rivets before security choir units hunt it down by resonance.</p><div class="meta">Source: /storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/game_stubs/scrap_cathedral_maze_chase_claude_candidate.json</div></header><div id="document"><section id="candidate-id" class="doc-section"><h2>Candidate</h2><p class="candidate-id">scrap_cathedral_maze_chase_v1</p></section><section id="theme-pitch" class="doc-section"><h2>Theme Pitch</h2><div class="fields"><div class="field"><div class="field-key">Setting</div><div class="field-value">A derelict iron cathedral whose maintenance drone (the player) must reclaim scattered charge rivets before security choir units hunt it down by resonance.</div></div><div class="field"><div class="field-key">Collectibles</div><div class="field-value">Charge rivets (small, required) and greed clusters (dense optional caches).</div></div><div class="field"><div class="field-key">Reversal Pickup</div><div class="field-value">Breaker overload node — briefly overwhelms choir units&#x27; resonance sensors, making them vulnerable.</div></div><div class="field"><div class="field-key">Bonus Item</div><div class="field-value">Salvage relic — appears on a timed route, grants a run-currency bonus if collected.</div></div><div class="field"><div class="field-key">Pursuers</div><div class="field-value">Four choir units, each a distinct patrol subroutine etched into rusted iron frames.</div></div><div class="field"><div class="field-key">Why It Works</div><div class="field-value">Industrial decay maps cleanly to tile damage, gate locks, alarm tiles, and hardware-module upgrades without borrowing any protected identity.</div></div></div></section><section id="core-loop" class="doc-section"><h2>Core Loop</h2><ol><li>Enter a seeded maze floor; read pursuer mutation icons before movement begins.</li><li>Move on simultaneous ticks; collect all required charge rivets to unlock the exit.</li><li>Avoid choir units; use breaker overload nodes to reverse threat briefly.</li><li>Optionally detour into greed clusters for bonus score at increased risk.</li><li>Collect salvage relic if the route cost is acceptable.</li><li>Exit floor; choose one upgrade module from three offered.</li><li>Repeat for five floors; escalating speed and modifier stacking increase pressure.</li></ol></section><section id="movement-model" class="doc-section"><h2>Movement Model</h2><div class="fields"><div class="field"><div class="field-key">Style</div><div class="field-value">Simultaneous tick-grid: player and all pursuers resolve movement each tick.</div></div><div class="field"><div class="field-key">Rationale</div><div class="field-value">Preserves arcade pressure and makes pursuer logic inspectable; turn-based would collapse the chase tension.</div></div><div class="field"><div class="field-key">Input Buffering</div><div class="field-value">Player queues one directional input; it executes at the next valid intersection tile.</div></div><div class="field"><div class="field-key">Tick Rate Ms</div><div class="field-value">150</div></div><div class="field"><div class="field-key">Collision Rule</div><div class="field-value">Occupying the same tile as a choir unit on the same tick counts as contact.</div></div><div class="field"><div class="field-key">Wrap Tunnels</div><div class="field-value">Optional per-floor; one horizontal wrap corridor may exist, announced in floor preview.</div></div></div></section><section id="maze-generation" class="doc-section"><h2>Maze Generation</h2><div class="fields"><div class="field"><div class="field-key">Algorithm</div><div class="field-value">Seeded recursive-backtracker with mandatory loop injection: after base generation, add random cross-links until at least two distinct loops encircle the center region.</div></div><div class="field"><div class="field-key">Grid Size</div><div class="field-value">21x21 tiles for prototype; expandable to 27x27 in later floors.</div></div><div class="field"><div class="field-key">Determinism</div><div class="field-value">All RNG sourced from a single 32-bit floor seed; same seed always produces identical maze, collectible placement, and pursuer spawns.</div></div><div class="nested"><h3>Tile Types</h3><ol><li>corridor</li><li>wall</li><li>slow_friction_wire</li><li>one_way_current</li><li>gate_door</li><li>alarm_tile</li><li>cracked_wall_shortcut</li><li>safe_alcove</li><li>bonus_lane</li><li>choir_only_tunnel</li></ol></div><div class="nested"><h3>Placement Rules</h3><ol><li>Required rivets distributed across all reachable regions via flood-fill check post-generation.</li><li>Greed clusters placed in high-risk corridors near choir spawn zones.</li><li>Breaker overload nodes placed at least 5 tiles from player start; max 4 per floor.</li><li>Salvage relic spawns on a bonus lane tile with a timed despawn of 12 seconds.</li><li>Gate doors placed only where an alternate route exists; Gate Key upgrade bypasses one per floor.</li></ol></div></div></section><section id="pursuers" class="doc-section"><h2>Pursuers</h2><div class="item-grid"><article class="item"><h3>VECTOR</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">VECTOR</div></div><div class="field"><div class="field-key">Personality</div><div class="field-value">Direct</div></div><div class="field"><div class="field-key">Target Rule</div><div class="field-value">Always pathfinds toward the player&#x27;s current tile using BFS shortest path.</div></div><div class="field"><div class="field-key">Scatter Target</div><div class="field-value">Top-right corner of maze.</div></div><div class="field"><div class="field-key">Readable Tell</div><div class="field-value">Moves in straight lines toward player; predictable but relentless.</div></div><div class="nested"><h3>Mutation Examples</h3><ol><li>faster on straightaways</li><li>ignores friction wire tiles</li></ol></div></div></article><article class="item"><h3>OFFSET</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">OFFSET</div></div><div class="field"><div class="field-key">Personality</div><div class="field-value">Ambusher</div></div><div class="field"><div class="field-key">Target Rule</div><div class="field-value">Targets the tile 4 steps ahead of the player&#x27;s current facing direction.</div></div><div class="field"><div class="field-key">Scatter Target</div><div class="field-value">Top-left corner.</div></div><div class="field"><div class="field-key">Readable Tell</div><div class="field-value">Appears to lead the player; punishes holding a direction too long.</div></div><div class="nested"><h3>Mutation Examples</h3><ol><li>increases look-ahead to 6 tiles</li><li>guards salvage relic spawn tile</li></ol></div></div></article><article class="item"><h3>PINCER</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">PINCER</div></div><div class="field"><div class="field-key">Personality</div><div class="field-value">Flanker</div></div><div class="field"><div class="field-key">Target Rule</div><div class="field-value">Targets the midpoint between VECTOR&#x27;s position and the player, creating a pincer.</div></div><div class="field"><div class="field-key">Scatter Target</div><div class="field-value">Bottom-right corner.</div></div><div class="field"><div class="field-key">Readable Tell</div><div class="field-value">Moves to cut off escape routes; most dangerous when VECTOR is also chasing.</div></div><div class="nested"><h3>Mutation Examples</h3><ol><li>pauses 2 ticks at gate doors</li><li>shadows breaker overload nodes</li></ol></div></div></article><article class="item"><h3>STATIC</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">STATIC</div></div><div class="field"><div class="field-key">Personality</div><div class="field-value">Erratic</div></div><div class="field"><div class="field-key">Target Rule</div><div class="field-value">Alternates every 7 seconds between chasing player&#x27;s tile and patrolling a random intersection.</div></div><div class="field"><div class="field-key">Scatter Target</div><div class="field-value">Bottom-left corner.</div></div><div class="field"><div class="field-key">Readable Tell</div><div class="field-value">Icon pulses between chase and scatter glyphs on a visible 7-second bar.</div></div><div class="nested"><h3>Mutation Examples</h3><ol><li>splits into a 2-tick delayed echo on scatter transition</li><li>alarm tiles extend its chase phase by 3 seconds</li></ol></div></div></article></div></section><section id="floor-modifiers" class="doc-section"><h2>Floor Modifiers</h2><div class="item-grid"><article class="item"><h3>flicker_resonance</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">flicker_resonance</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">Pursuer target-tile debug icons visible only when player is within 4 tiles of an intersection; elsewhere pursuers appear as silhouettes.</div></div><div class="field"><div class="field-key">Tactical Impact</div><div class="field-value">Forces players to memorize pursuer positions rather than read them continuously.</div></div></div></article><article class="item"><h3>overcharged_grid</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">overcharged_grid</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">Breaker overload nodes last 30% shorter but each consumed node recharges one locked gate door.</div></div><div class="field"><div class="field-key">Tactical Impact</div><div class="field-value">Reversal windows shrink; players must weigh gate access against vulnerability time.</div></div></div></article><article class="item"><h3>alarm_floor</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">alarm_floor</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">Collecting any greed cluster rivet triggers a 5-second choir speed boost for all units.</div></div><div class="field"><div class="field-key">Tactical Impact</div><div class="field-value">Greed clusters become high-commitment decisions, not casual detours.</div></div></div></article><article class="item"><h3>friction_flood</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">friction_flood</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">All corridor tiles become friction wire; player and pursuers slide until hitting a wall or intersection.</div></div><div class="field"><div class="field-key">Tactical Impact</div><div class="field-value">Buffered Turn Plus upgrade becomes critical; route planning must account for slide distance.</div></div></div></article><article class="item"><h3>decoy_static</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">decoy_static</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">20% of required rivets are decoys; collecting a decoy plays a distinct audio/visual cue and does not count toward floor completion.</div></div><div class="field"><div class="field-key">Tactical Impact</div><div class="field-value">Players must track which tiles they have confirmed; rushing causes wasted routes.</div></div></div></article></div></section><section id="player-upgrades" class="doc-section"><h2>Player Upgrades</h2><div class="item-grid"><article class="item"><h3>buffered_turn_plus</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">buffered_turn_plus</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">Queue a turn input one full tile earlier than the default intersection buffer.</div></div><div class="field"><div class="field-key">Routing Change</div><div class="field-value">Enables tighter corner cuts; opens routes through narrow corridors that were previously mistimed.</div></div></div></article><article class="item"><h3>static_decoy</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">static_decoy</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">Drop a lure at the current tile; VECTOR and OFFSET redirect toward it for 3 seconds.</div></div><div class="field"><div class="field-key">Routing Change</div><div class="field-value">Creates a safe window to clear a greed cluster or reach a breaker node; one charge per floor.</div></div></div></article><article class="item"><h3>breaker_bite</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">breaker_bite</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">Reversal window is 25% shorter, but eating a choir unit grants a 1-second speed burst.</div></div><div class="field"><div class="field-key">Routing Change</div><div class="field-value">Rewards aggressive multi-eat chains; changes reversal from defensive to offensive routing.</div></div></div></article><article class="item"><h3>gate_key</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">gate_key</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">Pass through one locked gate door per floor without a recharge.</div></div><div class="field"><div class="field-key">Routing Change</div><div class="field-value">Opens a new class of shortcut routes; changes optimal rivet collection order.</div></div></div></article><article class="item"><h3>echo_step</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">echo_step</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">First lethal contact per floor rewinds player 3 tiles along their path, then disables for the rest of the floor.</div></div><div class="field"><div class="field-key">Routing Change</div><div class="field-value">Permits one calculated risk per floor; players may attempt greedy routes they would otherwise avoid.</div></div></div></article><article class="item"><h3>cold_circuit</h3><div class="fields"><div class="field"><div class="field-key">Id</div><div class="field-value">cold_circuit</div></div><div class="field"><div class="field-key">Effect</div><div class="field-value">Choir units rearm 40% slower after being eaten, but breaker overload nodes are 1 fewer per floor (minimum 2).</div></div><div class="field"><div class="field-key">Routing Change</div><div class="field-value">Extends safe windows after each eat but forces more conservative reversal use overall.</div></div></div></article></div></section><section id="scoring-and-pressure" class="doc-section"><h2>Scoring And Pressure</h2><div class="fields"><div class="field"><div class="field-key">Required Rivet</div><div class="field-value">10 points each.</div></div><div class="field"><div class="field-key">Chain Bonus</div><div class="field-value">Collecting 10 rivets consecutively without reversing direction multiplies next rivet value by 1.5x.</div></div><div class="field"><div class="field-key">Reversal Chain</div><div class="field-value">Eating 2 choir units in one window: 200pts; 3 units: 500pts; 4 units: 1200pts.</div></div><div class="field"><div class="field-key">Greed Cluster</div><div class="field-value">50 points per rivet; alarm_floor modifier activates on collection.</div></div><div class="field"><div class="field-key">Salvage Relic</div><div class="field-value">300 points; despawns after 12 seconds; route detour is always required.</div></div><div class="field"><div class="field-key">Floor Debt</div><div class="field-value">Leaving more than 30% of greed clusters uncollected reduces upgrade choice pool from 3 to 2 on next floor.</div></div><div class="field"><div class="field-key">Escalation</div><div class="field-value">Each floor increases base tick rate by 8ms and reduces reversal window by 1 second; floor 4+ adds one pursuer mutation.</div></div></div></section><section id="first-playable-scope" class="doc-section"><h2>First Playable Scope</h2><div class="fields"><div class="field"><div class="field-key">Grid</div><div class="field-value">21x21 tiles</div></div><div class="field"><div class="field-key">Player</div><div class="field-value">1</div></div><div class="field"><div class="field-key">Pursuers</div><div class="field-value">4</div></div><div class="field"><div class="field-key">Required Rivets</div><div class="field-value">80</div></div><div class="field"><div class="field-key">Breaker Nodes</div><div class="field-value">4</div></div><div class="field"><div class="field-key">Greed Clusters</div><div class="field-value">2</div></div><div class="field"><div class="field-key">Salvage Relics</div><div class="field-value">1</div></div><div class="field"><div class="field-key">Floors</div><div class="field-value">5</div></div><div class="field"><div class="field-key">Upgrades Offered Between Floors</div><div class="field-value">3</div></div><div class="field"><div class="field-key">Floor Modifiers Active Floor 1</div><div class="field-value">0</div></div><div class="field"><div class="field-key">Floor Modifiers Active Floor 3 Plus</div><div class="field-value">1</div></div><div class="nested"><h3>Tile Types In Prototype</h3><ol><li>corridor</li><li>wall</li><li>gate_door</li><li>safe_alcove</li><li>bonus_lane</li></ol></div><div class="field"><div class="field-key">Engine Target</div><div class="field-value">Godot 4 or browser canvas; no external dependencies required.</div></div><div class="nested"><h3>Out Of Scope For V1</h3><ol><li>choir_only_tunnel</li><li>one_way_current</li><li>cracked_wall_shortcut</li><li>decoy_static modifier</li><li>meta-unlock pool</li></ol></div></div></section><section id="debug-and-validation" class="doc-section"><h2>Debug And Validation</h2><ol><li>Debug overlay toggle (F1): renders each choir unit&#x27;s current target tile as a colored crosshair matching unit color.</li><li>Mode label: each unit displays a small text badge — CHASE, SCATTER, VULNERABLE, REARM — updated every tick.</li><li>Flood-fill reachability check runs post-generation; any required rivet in an unreachable region triggers a reseed with seed+1.</li><li>Loop count validator: confirms at least 2 distinct loops encircle the center 7x7 region before floor is accepted.</li><li>Dead-end required-rivet check: flags any required rivet in a dead-end tile and relocates it to the nearest corridor junction.</li><li>Seed replay: storing the floor seed and upgrade sequence allows exact floor reconstruction for bug reports.</li></ol></section><section id="risks" class="doc-section"><h2>Risks</h2><ol><li>Simultaneous tick collision at high speeds may feel unfair; mitigate with a 1-tick grace window on first contact per respawn.</li><li>Seeded maze generation may produce low-loop mazes on edge-case seeds; loop injection post-pass is mandatory, not optional.</li><li>Pursuer mutations stacking on floor 4+ may create unreadable combined behaviors; cap active mutations at 2 total across all units.</li><li>Greed cluster floor debt mechanic may feel punishing to new players; add a one-time tutorial floor with debt disabled.</li><li>Browser tick-rate consistency varies; use a fixed accumulator loop, not requestAnimationFrame delta alone, to keep movement deterministic.</li></ol></section><section id="implementation-recommendation" class="doc-section"><h2>Implementation Recommendation</h2><div class="fields"><div class="nested"><h3>Data Driven From Json</h3><ol><li>pursuer personality definitions and mutation tables</li><li>floor modifier deck and trigger conditions</li><li>upgrade module stats and routing-change descriptions</li><li>tile type properties (speed multiplier, passability flags, alarm flag)</li><li>scoring multiplier table</li><li>floor escalation curve (tick rate delta, reversal window delta per floor)</li></ol></div><div class="nested"><h3>Hardcoded In Engine</h3><ol><li>BFS pathfinding for VECTOR and PINCER</li><li>tick accumulator and input buffer</li><li>flood-fill reachability validator</li><li>collision and reversal state machine</li></ol></div><div class="field"><div class="field-key">Build Order</div><div class="field-value">Maze generation and validator first, then four pursuers with debug overlay, then collectibles and reversal, then one floor modifier, then upgrade selection screen.</div></div><div class="field"><div class="field-key">First Milestone</div><div class="field-value">A single seeded floor with all four pursuers, 80 rivets, 4 breaker nodes, debug overlay active, and a win condition — playable in under 2 weeks solo.</div></div></div></section></div><section id="raw-json" class="doc-section hidden"><h2>Raw JSON</h2><pre>{
+  &quot;candidate_id&quot;: &quot;scrap_cathedral_maze_chase_v1&quot;,
+  &quot;theme_pitch&quot;: {
+    &quot;setting&quot;: &quot;A derelict iron cathedral whose maintenance drone (the player) must reclaim scattered charge rivets before security choir units hunt it down by resonance.&quot;,
+    &quot;collectibles&quot;: &quot;Charge rivets (small, required) and greed clusters (dense optional caches).&quot;,
+    &quot;reversal_pickup&quot;: &quot;Breaker overload node — briefly overwhelms choir units&#x27; resonance sensors, making them vulnerable.&quot;,
+    &quot;bonus_item&quot;: &quot;Salvage relic — appears on a timed route, grants a run-currency bonus if collected.&quot;,
+    &quot;pursuers&quot;: &quot;Four choir units, each a distinct patrol subroutine etched into rusted iron frames.&quot;,
+    &quot;why_it_works&quot;: &quot;Industrial decay maps cleanly to tile damage, gate locks, alarm tiles, and hardware-module upgrades without borrowing any protected identity.&quot;
+  },
+  &quot;core_loop&quot;: [
+    &quot;Enter a seeded maze floor; read pursuer mutation icons before movement begins.&quot;,
+    &quot;Move on simultaneous ticks; collect all required charge rivets to unlock the exit.&quot;,
+    &quot;Avoid choir units; use breaker overload nodes to reverse threat briefly.&quot;,
+    &quot;Optionally detour into greed clusters for bonus score at increased risk.&quot;,
+    &quot;Collect salvage relic if the route cost is acceptable.&quot;,
+    &quot;Exit floor; choose one upgrade module from three offered.&quot;,
+    &quot;Repeat for five floors; escalating speed and modifier stacking increase pressure.&quot;
+  ],
+  &quot;movement_model&quot;: {
+    &quot;style&quot;: &quot;Simultaneous tick-grid: player and all pursuers resolve movement each tick.&quot;,
+    &quot;rationale&quot;: &quot;Preserves arcade pressure and makes pursuer logic inspectable; turn-based would collapse the chase tension.&quot;,
+    &quot;input_buffering&quot;: &quot;Player queues one directional input; it executes at the next valid intersection tile.&quot;,
+    &quot;tick_rate_ms&quot;: 150,
+    &quot;collision_rule&quot;: &quot;Occupying the same tile as a choir unit on the same tick counts as contact.&quot;,
+    &quot;wrap_tunnels&quot;: &quot;Optional per-floor; one horizontal wrap corridor may exist, announced in floor preview.&quot;
+  },
+  &quot;maze_generation&quot;: {
+    &quot;algorithm&quot;: &quot;Seeded recursive-backtracker with mandatory loop injection: after base generation, add random cross-links until at least two distinct loops encircle the center region.&quot;,
+    &quot;grid_size&quot;: &quot;21x21 tiles for prototype; expandable to 27x27 in later floors.&quot;,
+    &quot;determinism&quot;: &quot;All RNG sourced from a single 32-bit floor seed; same seed always produces identical maze, collectible placement, and pursuer spawns.&quot;,
+    &quot;tile_types&quot;: [
+      &quot;corridor&quot;,
+      &quot;wall&quot;,
+      &quot;slow_friction_wire&quot;,
+      &quot;one_way_current&quot;,
+      &quot;gate_door&quot;,
+      &quot;alarm_tile&quot;,
+      &quot;cracked_wall_shortcut&quot;,
+      &quot;safe_alcove&quot;,
+      &quot;bonus_lane&quot;,
+      &quot;choir_only_tunnel&quot;
+    ],
+    &quot;placement_rules&quot;: [
+      &quot;Required rivets distributed across all reachable regions via flood-fill check post-generation.&quot;,
+      &quot;Greed clusters placed in high-risk corridors near choir spawn zones.&quot;,
+      &quot;Breaker overload nodes placed at least 5 tiles from player start; max 4 per floor.&quot;,
+      &quot;Salvage relic spawns on a bonus lane tile with a timed despawn of 12 seconds.&quot;,
+      &quot;Gate doors placed only where an alternate route exists; Gate Key upgrade bypasses one per floor.&quot;
+    ]
+  },
+  &quot;pursuers&quot;: [
+    {
+      &quot;id&quot;: &quot;VECTOR&quot;,
+      &quot;personality&quot;: &quot;Direct&quot;,
+      &quot;target_rule&quot;: &quot;Always pathfinds toward the player&#x27;s current tile using BFS shortest path.&quot;,
+      &quot;scatter_target&quot;: &quot;Top-right corner of maze.&quot;,
+      &quot;readable_tell&quot;: &quot;Moves in straight lines toward player; predictable but relentless.&quot;,
+      &quot;mutation_examples&quot;: [
+        &quot;faster on straightaways&quot;,
+        &quot;ignores friction wire tiles&quot;
+      ]
+    },
+    {
+      &quot;id&quot;: &quot;OFFSET&quot;,
+      &quot;personality&quot;: &quot;Ambusher&quot;,
+      &quot;target_rule&quot;: &quot;Targets the tile 4 steps ahead of the player&#x27;s current facing direction.&quot;,
+      &quot;scatter_target&quot;: &quot;Top-left corner.&quot;,
+      &quot;readable_tell&quot;: &quot;Appears to lead the player; punishes holding a direction too long.&quot;,
+      &quot;mutation_examples&quot;: [
+        &quot;increases look-ahead to 6 tiles&quot;,
+        &quot;guards salvage relic spawn tile&quot;
+      ]
+    },
+    {
+      &quot;id&quot;: &quot;PINCER&quot;,
+      &quot;personality&quot;: &quot;Flanker&quot;,
+      &quot;target_rule&quot;: &quot;Targets the midpoint between VECTOR&#x27;s position and the player, creating a pincer.&quot;,
+      &quot;scatter_target&quot;: &quot;Bottom-right corner.&quot;,
+      &quot;readable_tell&quot;: &quot;Moves to cut off escape routes; most dangerous when VECTOR is also chasing.&quot;,
+      &quot;mutation_examples&quot;: [
+        &quot;pauses 2 ticks at gate doors&quot;,
+        &quot;shadows breaker overload nodes&quot;
+      ]
+    },
+    {
+      &quot;id&quot;: &quot;STATIC&quot;,
+      &quot;personality&quot;: &quot;Erratic&quot;,
+      &quot;target_rule&quot;: &quot;Alternates every 7 seconds between chasing player&#x27;s tile and patrolling a random intersection.&quot;,
+      &quot;scatter_target&quot;: &quot;Bottom-left corner.&quot;,
+      &quot;readable_tell&quot;: &quot;Icon pulses between chase and scatter glyphs on a visible 7-second bar.&quot;,
+      &quot;mutation_examples&quot;: [
+        &quot;splits into a 2-tick delayed echo on scatter transition&quot;,
+        &quot;alarm tiles extend its chase phase by 3 seconds&quot;
+      ]
+    }
+  ],
+  &quot;floor_modifiers&quot;: [
+    {
+      &quot;id&quot;: &quot;flicker_resonance&quot;,
+      &quot;effect&quot;: &quot;Pursuer target-tile debug icons visible only when player is within 4 tiles of an intersection; elsewhere pursuers appear as silhouettes.&quot;,
+      &quot;tactical_impact&quot;: &quot;Forces players to memorize pursuer positions rather than read them continuously.&quot;
+    },
+    {
+      &quot;id&quot;: &quot;overcharged_grid&quot;,
+      &quot;effect&quot;: &quot;Breaker overload nodes last 30% shorter but each consumed node recharges one locked gate door.&quot;,
+      &quot;tactical_impact&quot;: &quot;Reversal windows shrink; players must weigh gate access against vulnerability time.&quot;
+    },
+    {
+      &quot;id&quot;: &quot;alarm_floor&quot;,
+      &quot;effect&quot;: &quot;Collecting any greed cluster rivet triggers a 5-second choir speed boost for all units.&quot;,
+      &quot;tactical_impact&quot;: &quot;Greed clusters become high-commitment decisions, not casual detours.&quot;
+    },
+    {
+      &quot;id&quot;: &quot;friction_flood&quot;,
+      &quot;effect&quot;: &quot;All corridor tiles become friction wire; player and pursuers slide until hitting a wall or intersection.&quot;,
+      &quot;tactical_impact&quot;: &quot;Buffered Turn Plus upgrade becomes critical; route planning must account for slide distance.&quot;
+    },
+    {
+      &quot;id&quot;: &quot;decoy_static&quot;,
+      &quot;effect&quot;: &quot;20% of required rivets are decoys; collecting a decoy plays a distinct audio/visual cue and does not count toward floor completion.&quot;,
+      &quot;tactical_impact&quot;: &quot;Players must track which tiles they have confirmed; rushing causes wasted routes.&quot;
+    }
+  ],
+  &quot;player_upgrades&quot;: [
+    {
+      &quot;id&quot;: &quot;buffered_turn_plus&quot;,
+      &quot;effect&quot;: &quot;Queue a turn input one full tile earlier than the default intersection buffer.&quot;,
+      &quot;routing_change&quot;: &quot;Enables tighter corner cuts; opens routes through narrow corridors that were previously mistimed.&quot;
+    },
+    {
+      &quot;id&quot;: &quot;static_decoy&quot;,
+      &quot;effect&quot;: &quot;Drop a lure at the current tile; VECTOR and OFFSET redirect toward it for 3 seconds.&quot;,
+      &quot;routing_change&quot;: &quot;Creates a safe window to clear a greed cluster or reach a breaker node; one charge per floor.&quot;
+    },
+    {
+      &quot;id&quot;: &quot;breaker_bite&quot;,
+      &quot;effect&quot;: &quot;Reversal window is 25% shorter, but eating a choir unit grants a 1-second speed burst.&quot;,
+      &quot;routing_change&quot;: &quot;Rewards aggressive multi-eat chains; changes reversal from defensive to offensive routing.&quot;
+    },
+    {
+      &quot;id&quot;: &quot;gate_key&quot;,
+      &quot;effect&quot;: &quot;Pass through one locked gate door per floor without a recharge.&quot;,
+      &quot;routing_change&quot;: &quot;Opens a new class of shortcut routes; changes optimal rivet collection order.&quot;
+    },
+    {
+      &quot;id&quot;: &quot;echo_step&quot;,
+      &quot;effect&quot;: &quot;First lethal contact per floor rewinds player 3 tiles along their path, then disables for the rest of the floor.&quot;,
+      &quot;routing_change&quot;: &quot;Permits one calculated risk per floor; players may attempt greedy routes they would otherwise avoid.&quot;
+    },
+    {
+      &quot;id&quot;: &quot;cold_circuit&quot;,
+      &quot;effect&quot;: &quot;Choir units rearm 40% slower after being eaten, but breaker overload nodes are 1 fewer per floor (minimum 2).&quot;,
+      &quot;routing_change&quot;: &quot;Extends safe windows after each eat but forces more conservative reversal use overall.&quot;
+    }
+  ],
+  &quot;scoring_and_pressure&quot;: {
+    &quot;required_rivet&quot;: &quot;10 points each.&quot;,
+    &quot;chain_bonus&quot;: &quot;Collecting 10 rivets consecutively without reversing direction multiplies next rivet value by 1.5x.&quot;,
+    &quot;reversal_chain&quot;: &quot;Eating 2 choir units in one window: 200pts; 3 units: 500pts; 4 units: 1200pts.&quot;,
+    &quot;greed_cluster&quot;: &quot;50 points per rivet; alarm_floor modifier activates on collection.&quot;,
+    &quot;salvage_relic&quot;: &quot;300 points; despawns after 12 seconds; route detour is always required.&quot;,
+    &quot;floor_debt&quot;: &quot;Leaving more than 30% of greed clusters uncollected reduces upgrade choice pool from 3 to 2 on next floor.&quot;,
+    &quot;escalation&quot;: &quot;Each floor increases base tick rate by 8ms and reduces reversal window by 1 second; floor 4+ adds one pursuer mutation.&quot;
+  },
+  &quot;first_playable_scope&quot;: {
+    &quot;grid&quot;: &quot;21x21 tiles&quot;,
+    &quot;player&quot;: 1,
+    &quot;pursuers&quot;: 4,
+    &quot;required_rivets&quot;: 80,
+    &quot;breaker_nodes&quot;: 4,
+    &quot;greed_clusters&quot;: 2,
+    &quot;salvage_relics&quot;: 1,
+    &quot;floors&quot;: 5,
+    &quot;upgrades_offered_between_floors&quot;: 3,
+    &quot;floor_modifiers_active_floor_1&quot;: 0,
+    &quot;floor_modifiers_active_floor_3_plus&quot;: 1,
+    &quot;tile_types_in_prototype&quot;: [
+      &quot;corridor&quot;,
+      &quot;wall&quot;,
+      &quot;gate_door&quot;,
+      &quot;safe_alcove&quot;,
+      &quot;bonus_lane&quot;
+    ],
+    &quot;engine_target&quot;: &quot;Godot 4 or browser canvas; no external dependencies required.&quot;,
+    &quot;out_of_scope_for_v1&quot;: [
+      &quot;choir_only_tunnel&quot;,
+      &quot;one_way_current&quot;,
+      &quot;cracked_wall_shortcut&quot;,
+      &quot;decoy_static modifier&quot;,
+      &quot;meta-unlock pool&quot;
+    ]
+  },
+  &quot;debug_and_validation&quot;: [
+    &quot;Debug overlay toggle (F1): renders each choir unit&#x27;s current target tile as a colored crosshair matching unit color.&quot;,
+    &quot;Mode label: each unit displays a small text badge — CHASE, SCATTER, VULNERABLE, REARM — updated every tick.&quot;,
+    &quot;Flood-fill reachability check runs post-generation; any required rivet in an unreachable region triggers a reseed with seed+1.&quot;,
+    &quot;Loop count validator: confirms at least 2 distinct loops encircle the center 7x7 region before floor is accepted.&quot;,
+    &quot;Dead-end required-rivet check: flags any required rivet in a dead-end tile and relocates it to the nearest corridor junction.&quot;,
+    &quot;Seed replay: storing the floor seed and upgrade sequence allows exact floor reconstruction for bug reports.&quot;
+  ],
+  &quot;risks&quot;: [
+    &quot;Simultaneous tick collision at high speeds may feel unfair; mitigate with a 1-tick grace window on first contact per respawn.&quot;,
+    &quot;Seeded maze generation may produce low-loop mazes on edge-case seeds; loop injection post-pass is mandatory, not optional.&quot;,
+    &quot;Pursuer mutations stacking on floor 4+ may create unreadable combined behaviors; cap active mutations at 2 total across all units.&quot;,
+    &quot;Greed cluster floor debt mechanic may feel punishing to new players; add a one-time tutorial floor with debt disabled.&quot;,
+    &quot;Browser tick-rate consistency varies; use a fixed accumulator loop, not requestAnimationFrame delta alone, to keep movement deterministic.&quot;
+  ],
+  &quot;implementation_recommendation&quot;: {
+    &quot;data_driven_from_json&quot;: [
+      &quot;pursuer personality definitions and mutation tables&quot;,
+      &quot;floor modifier deck and trigger conditions&quot;,
+      &quot;upgrade module stats and routing-change descriptions&quot;,
+      &quot;tile type properties (speed multiplier, passability flags, alarm flag)&quot;,
+      &quot;scoring multiplier table&quot;,
+      &quot;floor escalation curve (tick rate delta, reversal window delta per floor)&quot;
+    ],
+    &quot;hardcoded_in_engine&quot;: [
+      &quot;BFS pathfinding for VECTOR and PINCER&quot;,
+      &quot;tick accumulator and input buffer&quot;,
+      &quot;flood-fill reachability validator&quot;,
+      &quot;collision and reversal state machine&quot;
+    ],
+    &quot;build_order&quot;: &quot;Maze generation and validator first, then four pursuers with debug overlay, then collectibles and reversal, then one floor modifier, then upgrade selection screen.&quot;,
+    &quot;first_milestone&quot;: &quot;A single seeded floor with all four pursuers, 80 rivets, 4 breaker nodes, debug overlay active, and a win condition — playable in under 2 weeks solo.&quot;
+  }
+}</pre></section></main></div>
+<script>
+const search=document.getElementById('search'); const rawButton=document.getElementById('raw'); const rawJson=document.getElementById('raw-json');
+document.getElementById('print').addEventListener('click',()=>window.print());
+rawButton.addEventListener('click',()=>{ rawJson.classList.toggle('hidden'); rawButton.textContent=rawJson.classList.contains('hidden')?'Raw':'Hide Raw'; if(!rawJson.classList.contains('hidden')) rawJson.scrollIntoView({behavior:'smooth'}); });
+search.addEventListener('input',()=>{ const q=search.value.trim().toLowerCase(); document.querySelectorAll('.doc-section').forEach(s=>{ if(s.id==='raw-json') return; s.classList.toggle('hidden', !!q && !s.textContent.toLowerCase().includes(q)); }); });
+</script>
+</body>
+</html>

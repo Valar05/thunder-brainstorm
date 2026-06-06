@@ -1,0 +1,435 @@
+{
+  "schema_version": "0.1",
+  "project": "Marrow Runner / immune-maze-canvas",
+  "runtime_notes": {
+    "preferred_playback": "Decoded Web Audio buffers for short SFX; HTMLAudio pool only as fallback.",
+    "generation_policy": "Prefer local synthesis for short game-feel/UI sounds. Use sourced online sounds only when synthesis is insufficient; record source URL, license, attribution, transformation, and fair-use rationale before wiring.",
+    "mix_goals": "SFX must read over persistent music at MUSIC_VOLUME 0.58. Pickup sounds should be <180ms. Impacts may be louder but should avoid masking repeated chain hits.",
+    "implementation_state": "Generated SFX set is wired in src/main.js for UI, pickups, complement loop/ingest, ram, chain knockback, wall kill, death/respawn, fever warning, vacuum start, nest cleanse, and level clear."
+  },
+  "sfx": [
+    {
+      "id": "ui_select_soft",
+      "status": "generated_wired",
+      "category": "ui",
+      "event": "Menu button accepted: New Run, Tutorial, Resume, Replay, Continue, Dismiss, Advance.",
+      "target_feel": [
+        "soft membrane tap",
+        "wet but clean",
+        "low distraction"
+      ],
+      "playback": "one_shot",
+      "priority": "medium",
+      "generation_plan": "Local synthesis: 70-90ms rounded click, low sine blip around 420Hz, tiny filtered noise transient, fast decay.",
+      "hook_points": [
+        "drawMenuButton actions via handleMenuPointer",
+        "maybeHandleTutorialPointer",
+        "maybeHandleCanvasAdvance",
+        "maybeHandleCanvasRestart"
+      ],
+      "notes": "Should not sound like eating; it is UI confirmation only.",
+      "path": "assets/sfx/ui_select_soft_01.wav",
+      "duration_seconds": 0.085,
+      "rebuild_command": "python tools/sfx_synth.py ui_select_soft assets/sfx/ui_select_soft_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "ui_toggle_pause",
+      "status": "generated_wired",
+      "category": "ui",
+      "event": "Pause/resume, music toggle, fullscreen toggle.",
+      "target_feel": [
+        "small valve switch",
+        "membrane latch",
+        "clear state change"
+      ],
+      "playback": "one_shot",
+      "priority": "low",
+      "generation_plan": "Local synthesis: 100ms two-part click, down-up pitch pair. Use reversed pitch direction for disable/off variant if needed.",
+      "hook_points": [
+        "togglePause",
+        "toggleMusicPlayback",
+        "toggleFullscreen"
+      ],
+      "notes": "Optional; avoid fatigue because pause/music buttons may be tapped repeatedly.",
+      "path": "assets/sfx/ui_toggle_pause_01.wav",
+      "duration_seconds": 0.135,
+      "rebuild_command": "python tools/sfx_synth.py ui_toggle_pause assets/sfx/ui_toggle_pause_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "eat_antibody",
+      "status": "generated_wired",
+      "category": "pickup",
+      "event": "Antibody collected directly or by vacuum visual touch.",
+      "target_feel": [
+        "wet organic pop",
+        "bright immune glint",
+        "instant"
+      ],
+      "playback": "one_shot_pool",
+      "priority": "high",
+      "path": "assets/sfx/eat_antibody_01.wav",
+      "generation_plan": "Local synthesis via tools/sfx_synth.py preset eat_antibody.",
+      "hook_points": [
+        "finishAntibodyCollection",
+        "maybePlayVacuumedAntibodySound"
+      ],
+      "notes": "Already converted to low-latency Web Audio buffer path. Keep short and immediately audible.",
+      "duration_seconds": 0.142,
+      "rebuild_command": "python tools/sfx_synth.py eat_antibody assets/sfx/eat_antibody_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "pickup_complement_pellet",
+      "status": "generated_wired",
+      "category": "pickup",
+      "event": "Complement pellet picked up or vacuum-collected.",
+      "target_feel": [
+        "larger than antibody",
+        "golden charge",
+        "biochemical ignition"
+      ],
+      "playback": "one_shot",
+      "priority": "high",
+      "generation_plan": "Local synthesis: 220-320ms rising wet shimmer, low pulse plus bright harmonic sweep, slight stereo-safe chorus if using Web Audio buffer only mono/stereo optional.",
+      "hook_points": [
+        "collectComplementAt",
+        "activateComplementPower",
+        "vacuumedComplements collect callback"
+      ],
+      "notes": "Should clearly distinguish complement from antibody. Trigger once per complement activation.",
+      "path": "assets/sfx/pickup_complement_pellet_01.wav",
+      "duration_seconds": 0.285,
+      "rebuild_command": "python tools/sfx_synth.py pickup_complement_pellet assets/sfx/pickup_complement_pellet_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "complement_active_siren_loop",
+      "status": "generated_wired",
+      "category": "loop",
+      "event": "Complement active while player can ingest enemies.",
+      "target_feel": [
+        "biological siren",
+        "urgent but not annoying",
+        "short seamless loop"
+      ],
+      "playback": "loop_while_state_active",
+      "priority": "high",
+      "loop_duration_seconds": 1.2,
+      "generation_plan": "Local synthesis: seamless 1.2s loop, two alternating muted siren tones around 540/720Hz, pulsing wet filtered noise bed, low volume under music. Needs zero-cross or equal-power loop seam.",
+      "hook_points": [
+        "state.player.complementTicks > 0 in update",
+        "activateComplementPower",
+        "complementTicks reaches 0"
+      ],
+      "notes": "Implement as a separate loop source with gain fade in/out, not repeated one-shots. Must stop/pause with global audio pause/background handling.",
+      "path": "assets/sfx/complement_active_siren_loop_01.wav",
+      "duration_seconds": 1.2,
+      "rebuild_command": "python tools/sfx_synth.py complement_active_siren_loop assets/sfx/complement_active_siren_loop_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "complement_enemy_ingest",
+      "status": "generated_wired",
+      "category": "combat",
+      "event": "Enemy killed by complement suction/ingestion.",
+      "target_feel": [
+        "gulp",
+        "dissolve",
+        "satisfying power pellet kill"
+      ],
+      "playback": "one_shot_pool",
+      "priority": "high",
+      "generation_plan": "Local synthesis plus optional sourced wet gulp layer if needed. 180-260ms downward formant gulp, brief fizz tail.",
+      "hook_points": [
+        "updateEnemies complement suction branch before killEnemy(enemy)"
+      ],
+      "notes": "Different from wall/chain death. Power-state reward sound.",
+      "path": "assets/sfx/complement_enemy_ingest_01.wav",
+      "duration_seconds": 0.255,
+      "rebuild_command": "python tools/sfx_synth.py complement_enemy_ingest assets/sfx/complement_enemy_ingest_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "pseudopod_ram_start",
+      "status": "generated_wired",
+      "category": "movement",
+      "event": "Pseudopod Ram triggers from rest.",
+      "target_feel": [
+        "elastic body snap",
+        "short forward shove",
+        "control-confirming"
+      ],
+      "playback": "one_shot",
+      "priority": "high",
+      "generation_plan": "Local synthesis: 90-140ms rubbery pitch drop plus compressed thump, immediate transient.",
+      "hook_points": [
+        "updatePseudopodRam when p.ramTicks = PSEUDOPOD_RAM_DURATION"
+      ],
+      "notes": "Should play even if no enemy is hit, because it confirms dash input.",
+      "path": "assets/sfx/pseudopod_ram_start_01.wav",
+      "duration_seconds": 0.128,
+      "rebuild_command": "python tools/sfx_synth.py pseudopod_ram_start assets/sfx/pseudopod_ram_start_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "ram_enemy_launch",
+      "status": "generated_wired",
+      "category": "combat",
+      "event": "Ram contact launches an enemy into knockback.",
+      "target_feel": [
+        "meaty slap",
+        "enemy launched",
+        "not death yet"
+      ],
+      "playback": "one_shot_pool",
+      "priority": "high",
+      "generation_plan": "Local synthesis: 120-170ms slap/thump with upward whoosh edge. Avoid final crunch, because death happens on wall/enemy impact.",
+      "hook_points": [
+        "launchEnemyKnockback when source is player ram"
+      ],
+      "notes": "May need source/reason parameter so chain launches can use chain variation.",
+      "path": "assets/sfx/ram_enemy_launch_01.wav",
+      "duration_seconds": 0.165,
+      "rebuild_command": "python tools/sfx_synth.py ram_enemy_launch assets/sfx/ram_enemy_launch_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "knockback_chain_impact",
+      "status": "generated_wired",
+      "category": "combat",
+      "event": "Knocked enemy hits another enemy and launches it onward.",
+      "target_feel": [
+        "domino impact",
+        "wet chain pop",
+        "repeatable"
+      ],
+      "playback": "one_shot_pool",
+      "priority": "high",
+      "generation_plan": "Local synthesis: 90-130ms compact slap/crack with pitch randomized in runtime by playbackRate if supported. Needs to tolerate rapid repeats.",
+      "hook_points": [
+        "updateEnemyKnockback hitEnemy branch before launchEnemyKnockback(hitEnemy, dir, chainDistance)"
+      ],
+      "notes": "Use for repeated chain knockbacks. Consider alternating 2-3 variants if chain feels machine-gun.",
+      "path": "assets/sfx/knockback_chain_impact_01.wav",
+      "duration_seconds": 0.118,
+      "rebuild_command": "python tools/sfx_synth.py knockback_chain_impact assets/sfx/knockback_chain_impact_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "knockback_wall_kill",
+      "status": "generated_wired",
+      "category": "combat",
+      "event": "Knocked enemy hits wall and dies.",
+      "target_feel": [
+        "heavy splat",
+        "wall crunch",
+        "final"
+      ],
+      "playback": "one_shot_pool",
+      "priority": "high",
+      "generation_plan": "Local synthesis with optional sourced splat layer later. 180-280ms wet impact, low thud plus noisy membrane burst.",
+      "hook_points": [
+        "updateEnemyKnockback circleOverlapsWall branch before killEnemy(enemy)"
+      ],
+      "notes": "This is the final kill confirmation for ram wall impacts.",
+      "path": "assets/sfx/knockback_wall_kill_01.wav",
+      "duration_seconds": 0.255,
+      "rebuild_command": "python tools/sfx_synth.py knockback_wall_kill assets/sfx/knockback_wall_kill_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "enemy_death_spin",
+      "status": "generated_wired",
+      "category": "combat",
+      "event": "Enemy death animation starts for any non-complement kill if no more specific sound already played.",
+      "target_feel": [
+        "cell rupture",
+        "small fizz",
+        "fade-out"
+      ],
+      "playback": "one_shot_pool",
+      "priority": "medium",
+      "generation_plan": "Local synthesis: 300-450ms soft rupturing fizz with descending tone, lower priority than wall/chain/complement sounds.",
+      "hook_points": [
+        "killEnemy enemy.state transition to dying"
+      ],
+      "notes": "Use carefully to avoid double-stacking with wall kill or complement ingest. Could be fallback only.",
+      "path": "assets/sfx/enemy_death_spin_01.wav",
+      "duration_seconds": 0.42,
+      "rebuild_command": "python tools/sfx_synth.py enemy_death_spin assets/sfx/enemy_death_spin_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "player_death_membrane_breach",
+      "status": "generated_wired",
+      "category": "failure",
+      "event": "Enemy kills player / membrane breached.",
+      "target_feel": [
+        "sharp infection sting",
+        "membrane tear",
+        "run failure"
+      ],
+      "playback": "one_shot",
+      "priority": "critical",
+      "generation_plan": "Local synthesis plus optional sourced tear layer. 450-700ms sting, high transient then low failing pulse.",
+      "hook_points": [
+        "killPlayer"
+      ],
+      "notes": "Should cut through music. Do not stop music; it plays over the result state.",
+      "path": "assets/sfx/player_death_membrane_breach_01.wav",
+      "duration_seconds": 0.62,
+      "rebuild_command": "python tools/sfx_synth.py player_death_membrane_breach assets/sfx/player_death_membrane_breach_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "nest_cleanse_wave",
+      "status": "generated_wired",
+      "category": "success",
+      "event": "All antibodies collected; infection nest neutralized cleanse wave begins.",
+      "target_feel": [
+        "dramatic cleanse",
+        "infection neutralized",
+        "warm expansion"
+      ],
+      "playback": "one_shot",
+      "priority": "critical",
+      "generation_plan": "Local synthesis: 1.2-1.8s rising wash, low heartbeat resolves into bright harmonic bloom. Optional generated/source layer later for organic breadth.",
+      "hook_points": [
+        "triggerNestCleanse"
+      ],
+      "notes": "This should pair with the visual neutralization effect, not just level exit.",
+      "path": "assets/sfx/nest_cleanse_wave_01.wav",
+      "duration_seconds": 1.55,
+      "rebuild_command": "python tools/sfx_synth.py nest_cleanse_wave assets/sfx/nest_cleanse_wave_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "level_clear_gate",
+      "status": "generated_wired",
+      "category": "success",
+      "event": "Player enters lymph gate after collecting all antibodies.",
+      "target_feel": [
+        "gate opens",
+        "lymph transition",
+        "level complete"
+      ],
+      "playback": "one_shot",
+      "priority": "critical",
+      "generation_plan": "Local synthesis: 700-1000ms warm success swell, membrane portal shimmer, no arcade jingle cheese.",
+      "hook_points": [
+        "collectCurrentTile tile === 'G' branch when state.won = true"
+      ],
+      "notes": "Distinct from nest cleanse; this confirms actual level exit.",
+      "path": "assets/sfx/level_clear_gate_01.wav",
+      "duration_seconds": 0.92,
+      "rebuild_command": "python tools/sfx_synth.py level_clear_gate assets/sfx/level_clear_gate_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "enemy_respawn_warning",
+      "status": "generated_wired",
+      "category": "warning",
+      "event": "Enemy respawns/emerges from infection nest.",
+      "target_feel": [
+        "infection pulse",
+        "spawn warning",
+        "short telegraph"
+      ],
+      "playback": "one_shot_pool",
+      "priority": "medium",
+      "generation_plan": "Local synthesis: 220ms bubbling warning pulse, low volume, spatial/positional later if engine supports.",
+      "hook_points": [
+        "respawnEnemy",
+        "finishEnemyDeath setting respawning could optionally schedule pre-warning"
+      ],
+      "notes": "Helps sell the ghost-cage infection nest.",
+      "path": "assets/sfx/enemy_respawn_warning_01.wav",
+      "duration_seconds": 0.24,
+      "rebuild_command": "python tools/sfx_synth.py enemy_respawn_warning assets/sfx/enemy_respawn_warning_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "fever_tick_warning",
+      "status": "generated_wired",
+      "category": "warning",
+      "event": "Fever high or enemy very close.",
+      "target_feel": [
+        "subtle biological alarm",
+        "low heartbeat",
+        "tension"
+      ],
+      "playback": "loop_or_periodic",
+      "priority": "low",
+      "generation_plan": "Local synthesis: periodic low pulse that rate-scales with fever. Consider procedural Web Audio instead of asset file.",
+      "hook_points": [
+        "update fever calculation",
+        "drawCanvasHud fever state"
+      ],
+      "notes": "Do not add until mix has room; complement siren is higher priority.",
+      "path": "assets/sfx/fever_tick_warning_01.wav",
+      "duration_seconds": 0.34,
+      "rebuild_command": "python tools/sfx_synth.py fever_tick_warning assets/sfx/fever_tick_warning_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    },
+    {
+      "id": "antibody_vacuum_start",
+      "status": "generated_wired",
+      "category": "pickup",
+      "event": "Antibody begins vacuum pull toward player.",
+      "target_feel": [
+        "tiny suction tick",
+        "soft pull",
+        "not every pickup if spammy"
+      ],
+      "playback": "one_shot_rate_limited",
+      "priority": "low",
+      "generation_plan": "Local synthesis: 45ms quiet suction blip. Use rate limit so chains of pickups do not chatter.",
+      "hook_points": [
+        "spawnVacuumedAntibody"
+      ],
+      "notes": "Might be unnecessary now that eat_antibody triggers earlier.",
+      "path": "assets/sfx/antibody_vacuum_start_01.wav",
+      "duration_seconds": 0.055,
+      "rebuild_command": "python tools/sfx_synth.py antibody_vacuum_start assets/sfx/antibody_vacuum_start_01.wav",
+      "license": "Project-owned local synthesis; no external samples used.",
+      "wired_on": "2026-06-04"
+    }
+  ],
+  "next_generation_order": [
+    "pickup_complement_pellet",
+    "complement_active_siren_loop",
+    "pseudopod_ram_start",
+    "ram_enemy_launch",
+    "knockback_chain_impact",
+    "knockback_wall_kill",
+    "level_clear_gate",
+    "nest_cleanse_wave",
+    "complement_enemy_ingest",
+    "player_death_membrane_breach",
+    "ui_select_soft",
+    "ui_toggle_pause",
+    "enemy_respawn_warning"
+  ],
+  "meta": {
+    "implementation_state": "Generated SFX set is wired in src/main.js for UI, pickups, complement loop/ingest, ram, chain knockback, wall kill, death/respawn, fever warning, vacuum start, nest cleanse, and level clear.",
+    "wired_on": "2026-06-04"
+  }
+}

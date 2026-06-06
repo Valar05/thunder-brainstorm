@@ -1,0 +1,1260 @@
+{
+  "schema_version": "1.0",
+  "extraction_policy": "Generalized from local workspace structure, docs, code identifiers, JSON schema keys, and GitHub repository metadata. Do not store copied source code or project prose here.",
+  "cards": [
+    {
+      "id": "pressure_arena_event_cloud",
+      "kind": "structure",
+      "name": "Pressure arena with event clouds",
+      "summary": "A run enters a thematic arena that samples event threads, reactions, cascades, and exits based on state rather than following a fixed mission list.",
+      "usable_when": [
+        "narrative roguelike",
+        "domain-based progression",
+        "replayable story runs"
+      ],
+      "ingredients": [
+        "arena pressure",
+        "event lines",
+        "reaction rules",
+        "exit pressure",
+        "state memory"
+      ],
+      "questions": [
+        "What pressure defines the arena?",
+        "Which actions should echo later?",
+        "What makes the arena release or collapse?"
+      ],
+      "risks": [
+        "Too abstract unless each event has a concrete situation",
+        "State can become invisible to the player"
+      ],
+      "source_signals": [
+        "event_cloud_structure",
+        "domain_progression",
+        "run_model"
+      ]
+    },
+    {
+      "id": "delayed_consequence_stack",
+      "kind": "structure",
+      "name": "Delayed consequence stack",
+      "summary": "Choices create hooks that mature after intervening scenes, turning old decisions into later complications, allies, costs, or altered routes.",
+      "usable_when": [
+        "branching choices",
+        "character arcs",
+        "run memory"
+      ],
+      "ingredients": [
+        "immediate acknowledgement",
+        "pending hook",
+        "delay rule",
+        "follow-up scheduler",
+        "payoff audit"
+      ],
+      "questions": [
+        "What must happen before the payoff can trigger?",
+        "Is the payoff readable without spoiling it?",
+        "Can the hook grow or be pruned?"
+      ],
+      "risks": [
+        "Forgotten hooks feel like bugs",
+        "Instant payoffs flatten consequence"
+      ],
+      "source_signals": [
+        "story_followups",
+        "payoff_hooks",
+        "audit-payoffs"
+      ]
+    },
+    {
+      "id": "source_packet_pipeline",
+      "kind": "workflow",
+      "name": "Narrow source packet pipeline",
+      "summary": "A local tool builds a bounded packet from schemas, source motifs, constraints, and acceptance gates before any writing agent drafts content.",
+      "usable_when": [
+        "AI-assisted content",
+        "source-grounded design",
+        "collaborative writing"
+      ],
+      "ingredients": [
+        "source packet",
+        "token budget",
+        "fixed IDs",
+        "forbidden drift",
+        "structured patch"
+      ],
+      "questions": [
+        "What exact context is enough?",
+        "Which IDs must remain stable?",
+        "How will the returned patch be validated?"
+      ],
+      "risks": [
+        "Broad prompts leak project context",
+        "Generated prose may overwrite mechanics"
+      ],
+      "source_signals": [
+        "source_packet_workflow",
+        "Claude workflow",
+        "scenario_agent"
+      ]
+    },
+    {
+      "id": "corpus_to_mechanic_transform",
+      "kind": "workflow",
+      "name": "Corpus pattern extraction",
+      "summary": "Source material is converted into setup, pressure, reversal, cost, sensory anchor, and residue instead of being copied into game text.",
+      "usable_when": [
+        "adaptation",
+        "historical/mythic/scientific sources",
+        "procedural scenario generation"
+      ],
+      "ingredients": [
+        "source manifest",
+        "rights policy",
+        "pattern card",
+        "transformed hook",
+        "mechanic application"
+      ],
+      "questions": [
+        "What action pattern survives after names and prose are removed?",
+        "What does the source teach the player to do?"
+      ],
+      "risks": [
+        "Derivative retelling",
+        "Decorative source references without mechanical effect"
+      ],
+      "source_signals": [
+        "corpus_workflow",
+        "pattern_cards",
+        "source_rights_policy"
+      ]
+    },
+    {
+      "id": "validation_first_content",
+      "kind": "workflow",
+      "name": "Validation-first content integration",
+      "summary": "Generated or migrated content is accepted only after schema checks, action handler checks, payoff audits, and runtime smoke tests.",
+      "usable_when": [
+        "data-driven games",
+        "JSON event systems",
+        "content-heavy prototypes"
+      ],
+      "ingredients": [
+        "schema version",
+        "strict validator",
+        "action handler map",
+        "smoke test",
+        "audit report"
+      ],
+      "questions": [
+        "Which action IDs are real?",
+        "What can break silently?",
+        "Which test proves the player can see it?"
+      ],
+      "risks": [
+        "Beautiful content with dead actions",
+        "Validators that do not model player flow"
+      ],
+      "source_signals": [
+        "project_bootstrap",
+        "validate-events",
+        "smoke.gd"
+      ]
+    },
+    {
+      "id": "text_console_choice_runtime",
+      "kind": "interface",
+      "name": "Text console plus command parser",
+      "summary": "A dense mobile-friendly console presents room text, resource state, command input, and choice buttons while runtime managers own consequences.",
+      "usable_when": [
+        "mobile text game",
+        "low-art prototype",
+        "systems-first narrative"
+      ],
+      "ingredients": [
+        "console dashboard",
+        "command parser",
+        "run manager",
+        "choice buttons",
+        "resource deltas"
+      ],
+      "questions": [
+        "What must fit on one portrait screen?",
+        "Which commands bypass buttons?",
+        "How are resource changes narrated?"
+      ],
+      "risks": [
+        "Wall-of-text fatigue",
+        "Hidden parser affordances"
+      ],
+      "source_signals": [
+        "command_parser",
+        "dashboard",
+        "run_manager"
+      ]
+    },
+    {
+      "id": "deck_pressure_run_manager",
+      "kind": "system",
+      "name": "Deck-driven run pressure",
+      "summary": "Decks, cooldowns, thresholds, and resource counters choose what pressure appears next and when the run tips toward warning, lock, or ending.",
+      "usable_when": [
+        "roguelike pacing",
+        "encounter scheduling",
+        "resource survival"
+      ],
+      "ingredients": [
+        "deck construction",
+        "resource axes",
+        "warning thresholds",
+        "special cadence",
+        "ending attractors"
+      ],
+      "questions": [
+        "Which axis escalates fastest?",
+        "What does the player spend to delay pressure?",
+        "How does deck composition change after choices?"
+      ],
+      "risks": [
+        "Spreadsheet feel",
+        "Randomness without consequence"
+      ],
+      "source_signals": [
+        "encounter_decks",
+        "state_axes",
+        "outcome_attractors"
+      ]
+    },
+    {
+      "id": "multi_use_power_mutation",
+      "kind": "system",
+      "name": "Multi-use power mutation",
+      "summary": "A power is designed with at least one encounter use, one out-of-encounter use, and one delayed surprising use so it changes both tactics and story routes.",
+      "usable_when": [
+        "ability design",
+        "body upgrades",
+        "artifact systems"
+      ],
+      "ingredients": [
+        "combat use",
+        "exploration use",
+        "delayed use",
+        "cost",
+        "identity shift"
+      ],
+      "questions": [
+        "What does this power solve immediately?",
+        "What does it contaminate or reveal later?",
+        "How can an old power surprise the player?"
+      ],
+      "risks": [
+        "Single-purpose upgrade",
+        "Power fantasy without cost"
+      ],
+      "source_signals": [
+        "mutations",
+        "symbiotes",
+        "artifacts"
+      ]
+    },
+    {
+      "id": "touch_lane_combat",
+      "kind": "control",
+      "name": "Touch lane combat with buffered intent",
+      "summary": "Mobile swipes resolve into planar lanes, target selection, buffered attacks, dash commitments, blocks, and hit reactions.",
+      "usable_when": [
+        "mobile action",
+        "beat-em-up",
+        "arena combat"
+      ],
+      "ingredients": [
+        "swipe direction",
+        "lane target search",
+        "input buffer",
+        "attack dash",
+        "block/cancel windows",
+        "hit feedback"
+      ],
+      "questions": [
+        "What makes a swipe miss fairly?",
+        "Which moves can buffer?",
+        "How does the camera show commitment?"
+      ],
+      "risks": [
+        "Sticky targeting",
+        "Dropped inputs",
+        "Animation lock fighting player intent"
+      ],
+      "source_signals": [
+        "player combat identifiers",
+        "joystick",
+        "attack buffer"
+      ]
+    },
+    {
+      "id": "contact_to_duel_handoff",
+      "kind": "presentation",
+      "name": "Contact-to-duel handoff",
+      "summary": "Overworld contact shifts into a closer committed combat presentation instead of resolving as generic collision damage.",
+      "usable_when": [
+        "hybrid traversal/combat",
+        "duel framing",
+        "cinematic mobile action"
+      ],
+      "ingredients": [
+        "overworld pressure",
+        "telegraphed contact",
+        "handoff trigger",
+        "duel camera",
+        "timed resolution"
+      ],
+      "questions": [
+        "When does the handoff interrupt movement?",
+        "What information must survive the camera shift?",
+        "How does escape work?"
+      ],
+      "risks": [
+        "Flow interruption",
+        "Unclear state transition"
+      ],
+      "source_signals": [
+        "movement prototype",
+        "combat feel docs",
+        "close camera guardrails"
+      ]
+    },
+    {
+      "id": "survivorlike_offer_loop",
+      "kind": "system",
+      "name": "Survivorlike offer loop",
+      "summary": "Repeated pressure waves grant move, power, route, or resource offers that reshape the build while enemies keep the player moving.",
+      "usable_when": [
+        "survivorlike",
+        "build crafting",
+        "short sessions"
+      ],
+      "ingredients": [
+        "enemy pressure",
+        "offer buttons",
+        "move slots",
+        "cooldown pressure",
+        "build synergy"
+      ],
+      "questions": [
+        "What does the player choose under pressure?",
+        "Which offers change input rhythm?",
+        "How does a build become visually legible?"
+      ],
+      "risks": [
+        "Offer bloat",
+        "Passive upgrades overpowering action"
+      ],
+      "source_signals": [
+        "move_offer_button",
+        "move_slot_button",
+        "survivorlike repos"
+      ]
+    },
+    {
+      "id": "artifact_recipe_unlocks",
+      "kind": "system",
+      "name": "Conditional artifact recipes",
+      "summary": "Artifacts unlock when the run gathers state tokens, components, or behavior evidence, then create new constraints or exits.",
+      "usable_when": [
+        "loot with story meaning",
+        "ritual crafting",
+        "route unlocks"
+      ],
+      "ingredients": [
+        "component token",
+        "behavior requirement",
+        "unlock check",
+        "double-edged effect",
+        "route echo"
+      ],
+      "questions": [
+        "What did the player prove to earn this?",
+        "What does the artifact demand after it helps?",
+        "Can it alter a later arena?"
+      ],
+      "risks": [
+        "Checklist crafting",
+        "Reward detached from player behavior"
+      ],
+      "source_signals": [
+        "artifacts",
+        "component outputs",
+        "requirements"
+      ]
+    },
+    {
+      "id": "operational_report_packet",
+      "kind": "structure",
+      "name": "Operational report encounter packet",
+      "summary": "Each encounter arrives as detection, reports, authorization choice, operation result, and later crew/system consequence.",
+      "usable_when": [
+        "command games",
+        "ship/squad management",
+        "low-animation tactics"
+      ],
+      "ingredients": [
+        "detection",
+        "advisor report",
+        "authorization",
+        "result delta",
+        "later consequence"
+      ],
+      "questions": [
+        "Who reports the situation?",
+        "What does command authorize?",
+        "What system records the aftermath?"
+      ],
+      "risks": [
+        "Player feels detached",
+        "Reports repeat without changing decisions"
+      ],
+      "source_signals": [
+        "captain-facing packets",
+        "resource morale hooks",
+        "operation resolver"
+      ]
+    },
+    {
+      "id": "review_surface_browser",
+      "kind": "tooling",
+      "name": "Local review surface",
+      "summary": "A lightweight local web view renders cards, rooms, docs, or data records for fast human review without launching the full game.",
+      "usable_when": [
+        "content review",
+        "schema-heavy data",
+        "AI patch triage"
+      ],
+      "ingredients": [
+        "local server",
+        "filter/search",
+        "record cards",
+        "status panels",
+        "restart-on-change"
+      ],
+      "questions": [
+        "What can the reviewer judge fastest?",
+        "Which fields should be filterable?",
+        "Can data edits refresh quickly?"
+      ],
+      "risks": [
+        "Review UI diverges from game runtime",
+        "Pretty browser hides broken gameplay"
+      ],
+      "source_signals": [
+        "room_doc_browser",
+        "local_web_server",
+        "web app renderers"
+      ]
+    },
+    {
+      "id": "nondestructive_writing_lab",
+      "kind": "workflow",
+      "name": "Nondestructive writing lab",
+      "summary": "Original text is preserved while critique, drift analysis, lost-material detection, and revisions are stored as separate reports or drafts.",
+      "usable_when": [
+        "writing tools",
+        "revision planning",
+        "corpus critique"
+      ],
+      "ingredients": [
+        "originals",
+        "extracted text",
+        "drafts",
+        "reports",
+        "evidence citations"
+      ],
+      "questions": [
+        "What should never be overwritten?",
+        "What counts as evidence?",
+        "How does critique become an edit plan?"
+      ],
+      "risks": [
+        "Analysis sprawl",
+        "Editorial judgment presented as fact"
+      ],
+      "source_signals": [
+        "legion rules",
+        "workspace drafts/reports",
+        "review agent"
+      ]
+    },
+    {
+      "id": "audio_manifest_sync",
+      "kind": "tooling",
+      "name": "Audio manifest and playback sync",
+      "summary": "Spoken lines are normalized, deduped, generated into manifests, and smoke-tested against text playback so audio remains aligned with content.",
+      "usable_when": [
+        "TTS",
+        "narrated choice games",
+        "accessibility"
+      ],
+      "ingredients": [
+        "speaker profile",
+        "spoken cue",
+        "dedupe key",
+        "manifest",
+        "playback smoke"
+      ],
+      "questions": [
+        "Which text is spoken versus displayed?",
+        "What invalidates a clip?",
+        "How does playback recover from scrub/skip?"
+      ],
+      "risks": [
+        "Paying to regenerate unchanged lines",
+        "One-word clips and stale manifests"
+      ],
+      "source_signals": [
+        "tts_manifest",
+        "audio smoke",
+        "player audio sync tests"
+      ]
+    },
+    {
+      "id": "vehicle_body_as_dungeon",
+      "kind": "premise",
+      "name": "Vehicle or body as dungeon",
+      "summary": "A constrained moving vessel, body, machine, or route becomes the dungeon, making navigation, repair, threat, and identity overlap.",
+      "usable_when": [
+        "survival journey",
+        "vehicle roguelike",
+        "body horror",
+        "machine ecology"
+      ],
+      "ingredients": [
+        "moving container",
+        "zones/functions",
+        "resource leaks",
+        "external pressure",
+        "route mutation"
+      ],
+      "questions": [
+        "What spaces are organs or systems?",
+        "What does movement cost?",
+        "Can repair become transformation?"
+      ],
+      "risks": [
+        "Setting skin without systemic movement",
+        "Too many named compartments"
+      ],
+      "source_signals": [
+        "ship packets",
+        "truck survivorlike",
+        "body rooms"
+      ]
+    },
+    {
+      "id": "board_creature_ecosystem",
+      "kind": "premise",
+      "name": "Mechanical creature board ecosystem",
+      "summary": "Creature-like pieces, hazards, and board state interact through readable rules, creating a tabletop-feeling tactics loop.",
+      "usable_when": [
+        "board-game adaptation",
+        "mechanical animals",
+        "small tactical spaces"
+      ],
+      "ingredients": [
+        "piece roles",
+        "board lanes",
+        "hazard tokens",
+        "turn pressure",
+        "emergent collisions"
+      ],
+      "questions": [
+        "What can each piece do at a glance?",
+        "Which rule creates surprise?",
+        "What state is visible without UI clutter?"
+      ],
+      "risks": [
+        "Rules too cute to matter",
+        "Theme detached from tactics"
+      ],
+      "source_signals": [
+        "board game metadata",
+        "mechanical animals",
+        "grid/piece repos"
+      ]
+    },
+    {
+      "id": "web_choice_player",
+      "kind": "interface",
+      "name": "Portable web choice player",
+      "summary": "A static or local-server web player loads JSON content, handles saves, renders choices, and supports quick packaging or review.",
+      "usable_when": [
+        "HTML prototype",
+        "choice fiction",
+        "Android packaging",
+        "fast playtests"
+      ],
+      "ingredients": [
+        "data files",
+        "local storage",
+        "render cards",
+        "choice handler",
+        "packaging guide"
+      ],
+      "questions": [
+        "What content can ship as JSON?",
+        "How are saves migrated?",
+        "What can be tested without a backend?"
+      ],
+      "risks": [
+        "Runtime logic spread through UI",
+        "No validator for content files"
+      ],
+      "source_signals": [
+        "web game.js",
+        "android packaging",
+        "choice-craft"
+      ]
+    },
+    {
+      "id": "highway_vehicle_survivorlike",
+      "kind": "premise",
+      "name": "Highway vehicle survivorlike",
+      "summary": "The player survives on a forward-moving road while generated terrain, fuel/harvest stops, raiders, chasers, and road hazards pressure speed and lane commitment.",
+      "usable_when": [
+        "vehicle action",
+        "survivorlike",
+        "road trip survival",
+        "mobile driving"
+      ],
+      "ingredients": [
+        "forward road generator",
+        "lane pressure",
+        "fuel economy",
+        "chaser enemies",
+        "roadside resources",
+        "ram/spike damage"
+      ],
+      "questions": [
+        "What forces the player to change lanes?",
+        "What resource makes stopping tempting?",
+        "How do enemies rearm after contact?"
+      ],
+      "risks": [
+        "Endless-road repetition",
+        "Driving model too complex for the camera",
+        "Resource stops breaking flow"
+      ],
+      "source_signals": [
+        "long-haul",
+        "vehicle_controller",
+        "world_generator",
+        "apc_chaser",
+        "motorcycle_raider"
+      ]
+    },
+    {
+      "id": "layered_vehicle_audio_model",
+      "kind": "tooling",
+      "name": "Layered vehicle audio model",
+      "summary": "Engine, tire roll, slip, skid, throttle, surface, and wind layers are sourced, looped, normalized, attributed, and mixed from runtime vehicle parameters.",
+      "usable_when": [
+        "driving games",
+        "vehicle feel",
+        "audio-heavy prototypes"
+      ],
+      "ingredients": [
+        "RPM crossfade",
+        "speed-dependent tire roll",
+        "surface layer",
+        "slip loop",
+        "skid one-shot",
+        "license manifest"
+      ],
+      "questions": [
+        "Which parameter controls each layer?",
+        "What audio must loop seamlessly?",
+        "How is attribution tracked?"
+      ],
+      "risks": [
+        "Loop seams",
+        "Untracked Creative Commons attribution",
+        "Audio feel disconnected from physics"
+      ],
+      "source_signals": [
+        "long-haul audio docs",
+        "vehicle_audio",
+        "freesound manifest",
+        "bus layout"
+      ]
+    },
+    {
+      "id": "cockpit_hud_gesture_zones",
+      "kind": "interface",
+      "name": "Cockpit HUD gesture zones",
+      "summary": "A first-person or dashboard view turns screen regions into accelerate, turbo, stop, reverse, weapon, and settings affordances while preserving vehicle readability.",
+      "usable_when": [
+        "mobile driving",
+        "cockpit games",
+        "vehicle command UI"
+      ],
+      "ingredients": [
+        "dashboard frame",
+        "input zones",
+        "saved settings",
+        "vehicle binding",
+        "outline/weapon readability"
+      ],
+      "questions": [
+        "Which zones can be operated without looking away?",
+        "How does the player know current gear or intent?",
+        "What belongs in HUD versus world?"
+      ],
+      "risks": [
+        "Touch UI hiding road threats",
+        "Too many cockpit affordances",
+        "Unreadable state at speed"
+      ],
+      "source_signals": [
+        "cockpit_hud",
+        "dashboard assets",
+        "vehicle_controller"
+      ]
+    },
+    {
+      "id": "pursuer_rearm_gap",
+      "kind": "system",
+      "name": "Pursuer rearm gap",
+      "summary": "Enemies that collide, ram, shoot, or harvest the player expose stop buffers, rearm distances, contact damage caps, and retreat/approach states so repeated hits feel fair.",
+      "usable_when": [
+        "vehicle enemies",
+        "melee enemies",
+        "lane combat",
+        "survivorlike swarms"
+      ],
+      "ingredients": [
+        "collision radius",
+        "stop buffer",
+        "rearm gap",
+        "approach pace retreat",
+        "contact damage cap",
+        "health/readiness"
+      ],
+      "questions": [
+        "How far must an enemy reset before it can hit again?",
+        "Can the player read when contact is armed?",
+        "What converts contact into harvest, flee, or death?"
+      ],
+      "risks": [
+        "Contact damage spam",
+        "Enemies sticking to the player",
+        "Invisible cooldown rules"
+      ],
+      "source_signals": [
+        "get_rearm_gap_distance",
+        "get_stop_buffer",
+        "apply_ram_damage",
+        "motorcycle_raider",
+        "apc_chaser"
+      ]
+    },
+    {
+      "id": "asset_sourcing_manifest_pipeline",
+      "kind": "workflow",
+      "name": "Asset sourcing manifest pipeline",
+      "summary": "Generated, downloaded, extracted, and imported assets are tracked by source, license, processing step, and target use so prototypes can move fast without losing provenance.",
+      "usable_when": [
+        "asset-heavy Godot prototypes",
+        "audio sourcing",
+        "model import",
+        "generated art"
+      ],
+      "ingredients": [
+        "source manifest",
+        "import sidecars",
+        "processed outputs",
+        "attribution",
+        "owned target path"
+      ],
+      "questions": [
+        "What can be regenerated?",
+        "What needs attribution?",
+        "Which assets are placeholders versus canonical?"
+      ],
+      "risks": [
+        "License drift",
+        "Sidecar clutter mistaken for source",
+        "Prototype assets becoming undocumented canon"
+      ],
+      "source_signals": [
+        "long-haul audio manifest",
+        "Godot import files",
+        "source manifests",
+        "asset hygiene docs"
+      ]
+    },
+    {
+      "id": "pose_lab_animation_retargeting",
+      "kind": "tooling",
+      "name": "Pose lab animation retargeting",
+      "summary": "Imported 2D/3D skeletons, clip profiles, bone maps, onion poses, and transform controls become a lightweight lab for inspecting and adapting motion.",
+      "usable_when": [
+        "animation tools",
+        "pose editing",
+        "imported GLB clips",
+        "combat animation tuning"
+      ],
+      "ingredients": [
+        "skeleton profile",
+        "bone map",
+        "clip keyframes",
+        "onion poses",
+        "IK toggles",
+        "orbit viewport"
+      ],
+      "questions": [
+        "Which bones are editable controls?",
+        "What interpolation is safe for the imported clip?",
+        "How can motion be compared across clips?"
+      ],
+      "risks": [
+        "Retargeted motion breaking silhouette",
+        "Tool controls drifting from runtime rig",
+        "Overfitting to one imported model"
+      ],
+      "source_signals": [
+        "phalanx",
+        "stick_rig_2d",
+        "stick_rig_3d",
+        "generate_imported_clips"
+      ]
+    },
+    {
+      "id": "mining_shop_upgrade_microloop",
+      "kind": "system",
+      "name": "Mining/shop/upgrade microloop",
+      "summary": "A compact Godot loop combines map generation, mining or harvesting, shop offers, upgrades, enemy pressure, and extraction into a small repeatable run.",
+      "usable_when": [
+        "small roguelike",
+        "resource action",
+        "prototype jams"
+      ],
+      "ingredients": [
+        "map generator",
+        "resource node",
+        "shop system",
+        "upgrade system",
+        "enemy system",
+        "exit condition"
+      ],
+      "questions": [
+        "What resource changes movement or combat?",
+        "When does the shop appear?",
+        "What pushes the player to leave?"
+      ],
+      "risks": [
+        "Separate systems without one loop",
+        "Upgrades that only change numbers",
+        "Map generation with no tactical texture"
+      ],
+      "source_signals": [
+        "steam-pile",
+        "mine_system",
+        "shop_system",
+        "upgrade_system",
+        "red_ghost_system"
+      ]
+    },
+    {
+      "id": "mobile_canvas_release_workbench",
+      "kind": "workflow",
+      "name": "Phone-first canvas release workbench",
+      "summary": "A browser game is built, tested, packaged, and uploaded from Android/Termux so mobile feel is the primary validation surface rather than a late port.",
+      "usable_when": [
+        "mobile-first web game",
+        "HTML canvas prototype",
+        "solo release pipeline",
+        "Termux workflow"
+      ],
+      "ingredients": [
+        "local phone web server",
+        "full-surface touch input",
+        "real mobile browser testing",
+        "zip builder",
+        "butler upload",
+        "media/file refresh"
+      ],
+      "questions": [
+        "What must be verified on the actual phone before desktop polish?",
+        "Which artifacts need Android media refresh before external upload?",
+        "Can the release package be rebuilt from source without hidden local files?"
+      ],
+      "risks": [
+        "Shared storage has executable-bit and git-hook limitations",
+        "Android upload pickers may not see new files until media indexing refreshes",
+        "Canvas UI may fail inside itch fullscreen/iframe unless DOM overlays are tested"
+      ],
+      "source_signals": [
+        "marrow_runner_release_session",
+        "termux_butler_android_binary",
+        "android_media_refresh"
+      ]
+    },
+    {
+      "id": "recursive_knockback_dash_core",
+      "kind": "system",
+      "name": "Recursive knockback dash core",
+      "summary": "A movement burst from rest does not directly kill enemies; it launches them as physics-like projectiles that kill on wall or enemy impact and can propagate chains.",
+      "usable_when": [
+        "maze chase",
+        "mobile arcade combat",
+        "risk-reward dash",
+        "enemy crowd control"
+      ],
+      "ingredients": [
+        "rearm threshold",
+        "initial burst",
+        "larger acquisition hitbox",
+        "target bias toward nearby enemies",
+        "wall kill",
+        "enemy-to-enemy propagation",
+        "death animation readability"
+      ],
+      "questions": [
+        "When does the dash rearm?",
+        "How much target bias prevents near misses without feeling fake?",
+        "What visual/audio feedback separates launch, chain impact, wall kill, and player death?"
+      ],
+      "risks": [
+        "If ram kills directly, chain play disappears",
+        "If knockback is too weak, the player dies after a successful hit",
+        "If target bias is hidden, misses feel arbitrary"
+      ],
+      "source_signals": [
+        "pseudopod_ram",
+        "knockback_chain_impact",
+        "marrow_runner_release_session"
+      ]
+    },
+    {
+      "id": "bounded_ai_release_scribe",
+      "kind": "workflow",
+      "name": "Bounded AI release scribe",
+      "summary": "Claude or another writing model drafts release/page/devlog copy only from a narrow packet, while Codex or the integrator validates facts and applies the final artifact.",
+      "usable_when": [
+        "itch page copy",
+        "devlog drafting",
+        "blog announcement",
+        "release notes",
+        "public post from project facts"
+      ],
+      "ingredients": [
+        "source packet",
+        "JSON output schema",
+        "explicit forbidden claims",
+        "raw output archive",
+        "manual factual correction",
+        "downstream build/deploy validation"
+      ],
+      "questions": [
+        "Which facts are safe to advertise?",
+        "What claims must not be invented?",
+        "Where will raw and integrated outputs live for traceability?"
+      ],
+      "risks": [
+        "Draft can overstate release status or asset generation details",
+        "Pretty prose can smuggle unsupported claims",
+        "Publishing without route verification leaves stale/generated content invisible"
+      ],
+      "source_signals": [
+        "thunder_claude_packet_runner",
+        "club_crucible_publication_session",
+        "marrow_runner_itch_page_source"
+      ]
+    },
+    {
+      "id": "generated_asset_provenance_loop",
+      "kind": "tooling",
+      "name": "Generated asset provenance loop",
+      "summary": "Generated raster art, music, and synthesized SFX become project assets only after placement, manifest/provenance capture, local validation, and external-file visibility refresh where needed.",
+      "usable_when": [
+        "AI-generated sprites",
+        "texture generation",
+        "music downloads",
+        "synthesized SFX",
+        "release page images"
+      ],
+      "ingredients": [
+        "prompt or source note",
+        "generator/tool name",
+        "target use",
+        "manifest path",
+        "non-destructive filename",
+        "alpha/chroma validation when applicable",
+        "Android media scanner refresh"
+      ],
+      "questions": [
+        "Is this preview-only or project-bound?",
+        "Which manifest owns this asset?",
+        "Does the consuming runtime path point inside the project rather than a tool cache?"
+      ],
+      "risks": [
+        "Assets left under tool cache vanish from project handoff",
+        "External upload pickers can miss newly copied files",
+        "Transparent-background assets need validation for alpha/fringing"
+      ],
+      "source_signals": [
+        "asset_manifest.json",
+        "sfx_manifest.json",
+        "page_asset_manifest.json",
+        "imagegen_workflow"
+      ]
+    },
+    {
+      "id": "tap_hold_missile_command_survivorlike",
+      "kind": "system",
+      "name": "Tap/hold missile-command survivorlike",
+      "summary": "A phone-first fixed-base defense game maps tap and hold to distinct but overlapping weapon rhythms: taps fire ready interceptors, holds maintain automatic fire, and wave-clears offer build upgrades.",
+      "usable_when": [
+        "mobile arcade",
+        "missile command variant",
+        "fixed-base survivorlike",
+        "one-finger action"
+      ],
+      "ingredients": [
+        "full-surface touch target",
+        "per-rack interceptor cooldowns",
+        "semi-auto grace window",
+        "hold-fire turret stream",
+        "wave pressure",
+        "upgrade offers"
+      ],
+      "questions": [
+        "What fires on tap versus hold?",
+        "How does the player read which racks are ready?",
+        "Which upgrades change input rhythm rather than only damage numbers?"
+      ],
+      "risks": [
+        "Cooldowns can feel unresponsive without semi-auto forgiveness",
+        "HUD buttons can crowd a phone playfield",
+        "Enemy HP needs visible armor rings or it reads as missed input"
+      ],
+      "source_signals": [
+        "armor_command_fireMissile",
+        "armor_command_missileRackTimers",
+        "armor_command_upgrade_offers"
+      ]
+    },
+    {
+      "id": "branching_airborne_enemy_family",
+      "kind": "system",
+      "name": "Branching airborne enemy family",
+      "summary": "One enemy type breaks into another threat instead of simply dying: a heavy carrier can spawn a slower active attacker, whose projectiles are smaller and separately destructible.",
+      "usable_when": [
+        "arcade defense",
+        "survivorlike waves",
+        "enemy variety without new controls",
+        "readable escalation"
+      ],
+      "ingredients": [
+        "carrier HP",
+        "spawn-on-break child enemy",
+        "child descent movement",
+        "small projectile loop",
+        "shared hostile damage path",
+        "death debris"
+      ],
+      "questions": [
+        "Does breaking the carrier help now but add a new short-term threat?",
+        "Are child projectiles visually and mechanically distinct from main missiles?",
+        "Can all player damage systems hit every hostile class?"
+      ],
+      "risks": [
+        "If carrier and child both die instantly, the branch is invisible",
+        "If child projectiles are too similar to missiles, targeting priority becomes muddy",
+        "Separate enemy arrays can be missed by collision or wave-clear checks"
+      ],
+      "source_signals": [
+        "armor_command_dropPod",
+        "armor_command_paratrooper",
+        "armor_command_enemyRockets",
+        "hostileSnapshot"
+      ]
+    },
+    {
+      "id": "visible_kill_chain_multiplier",
+      "kind": "system",
+      "name": "Visible kill-chain multiplier",
+      "summary": "Rapid kills within a short timer increase score through a visible chain counter, then expire or reset on base damage to turn clean defense into a score-chasing layer.",
+      "usable_when": [
+        "arcade scoring",
+        "survivorlike defense",
+        "combo encouragement",
+        "risk-reward target priority"
+      ],
+      "ingredients": [
+        "combo timer",
+        "incrementing multiplier",
+        "visible HUD counter",
+        "reset on damage",
+        "score registration hook",
+        "audio chime feedback"
+      ],
+      "questions": [
+        "What resets the chain besides time?",
+        "Can the player see the multiplier while aiming?",
+        "Does the audio climb long enough for the player to perceive it?"
+      ],
+      "risks": [
+        "Too-fast decay hides the ascent",
+        "Score hooks can miss some kill paths unless centralized",
+        "Combo HUD can distract if it competes with survival data"
+      ],
+      "source_signals": [
+        "armor_command_registerKill",
+        "armor_command_comboMultiplier",
+        "armor_command_enemy_slay_chime"
+      ]
+    },
+    {
+      "id": "web_audio_buffer_sfx_bus",
+      "kind": "tooling",
+      "name": "WebAudio buffer SFX bus with runtime mute",
+      "summary": "Game SFX are decoded into WebAudio buffers, varied by pitch/gain, routed through a compressor and output gain, and controlled by a persistent SFX toggle separate from music.",
+      "usable_when": [
+        "HTML5 canvas game",
+        "low-latency SFX",
+        "mobile browser audio",
+        "itch web build"
+      ],
+      "ingredients": [
+        "decoded AudioBuffer cache",
+        "procedural fallback",
+        "pitch variation",
+        "compressor bus",
+        "post-compressor gain",
+        "localStorage mute key"
+      ],
+      "questions": [
+        "Does volume reduction happen after compression as well as before?",
+        "Are one-shots suppressed when SFX is muted?",
+        "Can music and SFX be toggled independently after browser audio unlock?"
+      ],
+      "risks": [
+        "A compressor can mask source-gain changes",
+        "Browser/itch caches can hide script changes without cache busting",
+        "Creating Audio objects at trigger time causes latency"
+      ],
+      "source_signals": [
+        "armor_command_SFX_ASSETS",
+        "armor_command_ensureSfxContext",
+        "armor_command_sfxDisabled"
+      ]
+    },
+    {
+      "id": "generated_canvas_background_and_sprite_sheet_loop",
+      "kind": "workflow",
+      "name": "Generated canvas background and sprite-sheet loop",
+      "summary": "AI-generated bitmap backgrounds and chroma-key sprite sheets become durable canvas assets through copy-to-project, alpha/key validation, atlas metadata, manifest provenance, and runtime fallback drawing.",
+      "usable_when": [
+        "HTML5 canvas prototype",
+        "AI generated game art",
+        "sprite sheet import",
+        "mobile-readable backgrounds"
+      ],
+      "ingredients": [
+        "project-bound generated image",
+        "chroma-key removal",
+        "alpha validation",
+        "manual atlas rectangles",
+        "cover-crop background draw",
+        "procedural fallback"
+      ],
+      "questions": [
+        "Is the asset preview-only or runtime-bound?",
+        "Which crop/focus keeps phone and desktop readable?",
+        "What happens if the generated image fails to load?"
+      ],
+      "risks": [
+        "Generated sheet regions can overlap or mis-center",
+        "Background art can reduce gameplay contrast",
+        "Leaving assets in generator cache breaks release packaging"
+      ],
+      "source_signals": [
+        "armor_command_backgroundImage",
+        "armor_command_enemySheet",
+        "asset_manifest_provenance"
+      ]
+    },
+    {
+      "id": "itch_html_cachebusted_release",
+      "kind": "workflow",
+      "name": "Cache-busted itch HTML release",
+      "summary": "A static HTML/canvas game release is packaged as a zip, integrity-checked, uploaded through locally built Termux butler, and script-cache-busted so hosted iframe/mobile playback reflects changes.",
+      "usable_when": [
+        "itch HTML5 release",
+        "Termux deployment",
+        "mobile web prototype",
+        "small static game"
+      ],
+      "ingredients": [
+        "build zip script",
+        "zip testzip",
+        "asset glob inclusion",
+        "versioned script query",
+        "butler status check",
+        "Android media refresh"
+      ],
+      "questions": [
+        "Does the zip include every runtime asset type?",
+        "Is the hosted script URL cache-busted for this version?",
+        "Did butler status show the expected build/version?"
+      ],
+      "risks": [
+        "Itch/mobile browser cache can hide updated JS",
+        "Official Linux ARM64 butler may not run under Android linker",
+        "New files in shared storage may not appear in upload pickers until refreshed"
+      ],
+      "source_signals": [
+        "armor_command_build_web_release",
+        "termux_butler_source_build",
+        "main_js_cache_bust"
+      ]
+    },
+    {
+      "id": "additive_trait_mutation_stack",
+      "kind": "mechanic_pattern",
+      "name": "Additive trait mutation stack",
+      "summary": "Run upgrades add orthogonal flags, levels, caps, and scalar modifiers that compose at action resolution time instead of replacing each other.",
+      "usable_when": [
+        "survivorlike upgrade trees",
+        "weapon mutation systems",
+        "drone or companion branches",
+        "projectile trait stacking"
+      ],
+      "ingredients": [
+        "independent trait flags",
+        "trait levels and caps",
+        "snapshot active traits onto spawned objects",
+        "single shared action-resolution path",
+        "dynamic UI delta text",
+        "explicit replacement language only when behavior is exclusive"
+      ],
+      "questions": [
+        "Does this upgrade remove any behavior the player already earned?",
+        "Can the spawned object snapshot traits so future upgrades do not retroactively affect it?",
+        "Where does the composed action resolve: launch, hit, tick, or death?",
+        "Which nested values need UI deltas when the player takes this again?"
+      ],
+      "risks": [
+        "Stacking can become unreadable without concrete UI deltas",
+        "Composed effects can double-dip damage unless each trait owns a clear scalar",
+        "Exclusive enum fields accidentally turn additive upgrades into replacements",
+        "Old projectiles may mutate mid-flight if traits are not snapshotted"
+      ],
+      "source_signals": [
+        "armor_command_piercer_splitter_radiation_stack",
+        "projectile_trait_snapshot",
+        "dynamic_upgrade_note",
+        "drone_branch_additive_traits"
+      ]
+    }
+  ]
+}

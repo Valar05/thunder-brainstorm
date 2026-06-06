@@ -1,0 +1,50 @@
+{
+  "project": "Armor Command",
+  "created_date": "2026-06-05",
+  "purpose": "Thunder doc server mirror of actual Armor Command page copy and icon assets.",
+  "source_project": "/storage/emulated/0/Documents/GodotProjects/mecha-command",
+  "docs": [
+    {
+      "label": "Itch page copy",
+      "path": "generated/page_assets/armor_command_page_copy.md",
+      "source": "mecha-command/docs/armor_command_page_copy.md"
+    },
+    {
+      "label": "Icon 512",
+      "path": "generated/page_assets/armor_command_icon_512.png",
+      "source": "mecha-command/assets/page/armor_command_icon_512.png"
+    },
+    {
+      "label": "Icon 1024",
+      "path": "generated/page_assets/armor_command_icon_1024.png",
+      "source": "mecha-command/assets/page/armor_command_icon_1024.png"
+    },
+    {
+      "label": "Armor Command v1.0 devlog",
+      "path": "generated/release_packets/armor_command_itch/DEVLOG_v1.0.0.md",
+      "source": "Thunder release packet styled after Marrow Runner devlog"
+    },
+    {
+      "label": "Armor Command v1.0 Twitter/X copy",
+      "path": "generated/release_packets/armor_command_itch/TWITTER_v1.0.0.md",
+      "source": "Thunder release packet social copy"
+    }
+  ],
+  "local_play_url": "http://127.0.0.1:8791/",
+  "doc_server_url": "http://127.0.0.1:8765/",
+  "published_itch_url": "https://valarsbeard.itch.io/armor-command",
+  "latest_itch_upload": {
+    "published_page": "https://valarsbeard.itch.io/armor-command",
+    "butler_target": "valarsbeard/armor-command:html",
+    "upload": "#17814005",
+    "build": "#1708801 (from #1708778)",
+    "version": "v1.0.0-2026-06-05",
+    "uploaded_date": "2026-06-05",
+    "changes": [
+      "Added persistent SFX toggle stored under armor-command.sfx-disabled.v1 in title and pause menus.",
+      "Removed the in-game HUD music button; music control remains available from title and pause menus.",
+      "Cache-busted src/main.js as v1.0.0-2026-06-05 for hosted itch playback.",
+      "Kept current SFX mix at source master 0.45 plus post-compressor output gain 0.72 against music volume 0.48."
+    ]
+  }
+}

@@ -1,0 +1,1111 @@
+{
+    "host":  "THECAULDRON",
+    "user":  "dclar",
+    "root":  "C:\\Users\\dclar\\workspace",
+    "generated_at":  "2026-06-03T20:07:43",
+    "project_count":  28,
+    "projects":  [
+                     {
+                         "name":  "arcanachoir",
+                         "path":  "C:\\Users\\dclar\\workspace\\arcanachoir",
+                         "last_write_time":  "2026-04-16T20:22:22",
+                         "markers":  [
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Arcanachoir",
+                         "main_scene":  "res://scenes/world.tscn",
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "Anote_attack.png",
+                                           "Anote_attack.png.import",
+                                           "Arcanachoir.apk",
+                                           "Arcanachoir.apk.idsig",
+                                           "Archanachoir_background_portrait.png",
+                                           "Archanachoir_background_portrait.png.import",
+                                           "Auctioneer.tscn",
+                                           "Auctioneer.tscn87491296314.tmp",
+                                           "auctioneer_shader.gdshader",
+                                           "auctioneer_shader.gdshader.uid",
+                                           "Auctioneer_shader.tres",
+                                           "Cinzel-Black.otf",
+                                           "Cinzel-Black.otf.import",
+                                           "Cinzel-Bold.otf",
+                                           "Cinzel-Bold.otf.import",
+                                           "Cinzel-Regular.otf",
+                                           "Cinzel-Regular.otf.import"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "audio",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites"
+                                      ]
+                     },
+                     {
+                         "name":  "arcane-manifold",
+                         "path":  "C:\\Users\\dclar\\workspace\\arcane-manifold",
+                         "last_write_time":  "2025-11-05T14:40:08",
+                         "markers":  [
+                                         "git",
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "arcane-manifold",
+                         "main_scene":  "uid://li6vq0nfttst",
+                         "package_name":  null,
+                         "git_remote":  "git@github.com:Valar05/arcane-manifold.git",
+                         "git_branch":  "master",
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "Arcane_Manifold.apk",
+                                           "Arcane_Manifold.apk.idsig",
+                                           "D-pad-pip.png",
+                                           "D-pad-pip.png.import",
+                                           "D-pad.png",
+                                           "D-pad.png.import",
+                                           "default_bus_layout.tres",
+                                           "Distortion.gdshader",
+                                           "Distortion.gdshader.uid",
+                                           "export_presets.cfg",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "music_player.gd",
+                                           "music_player.gd.uid",
+                                           "player_stats.gd",
+                                           "player_stats.gd.uid",
+                                           "project.godot"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "artsources",
+                                          "audio",
+                                          "data",
+                                          "fonts",
+                                          "icons",
+                                          "models",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites"
+                                      ]
+                     },
+                     {
+                         "name":  "armorture",
+                         "path":  "C:\\Users\\dclar\\workspace\\armorture",
+                         "last_write_time":  "2025-08-18T10:22:42",
+                         "markers":  [
+                                         "git",
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Armorture",
+                         "main_scene":  "uid://l7vjg2302d1i",
+                         "package_name":  null,
+                         "git_remote":  {
+
+                                        },
+                         "git_branch":  "master",
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "Armorture.apk",
+                                           "Armorture.apk.idsig",
+                                           "export_presets.cfg",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "project.godot"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "data",
+                                          "materials",
+                                          "models",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites"
+                                      ]
+                     },
+                     {
+                         "name":  "Artsources",
+                         "path":  "C:\\Users\\dclar\\workspace\\Artsources",
+                         "last_write_time":  "2026-05-22T16:31:02",
+                         "markers":  [
+
+                                     ],
+                         "godot_name":  null,
+                         "main_scene":  null,
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           "Ares.blend",
+                                           "Ares.blend1",
+                                           "Autumn_Cliff_Trees.blend",
+                                           "Autumn_Cliff_Trees.blend1",
+                                           "Blast.blend",
+                                           "Blast.blend1",
+                                           "DashboardLongHaul.blend",
+                                           "DashboardLongHaul.blend1",
+                                           "David.blend",
+                                           "David.blend1",
+                                           "DavidRun.blend",
+                                           "DavidRun.blend1",
+                                           "DavidWalk.blend",
+                                           "DavidWalk.blend1",
+                                           "DoDGoblin.xcf",
+                                           "Firesolder.blend",
+                                           "Firesolder.blend1",
+                                           "Firesolder.glb",
+                                           "Forgeborn.blend",
+                                           "Forgeborn.blend1"
+                                       ],
+                         "top_dirs":  [
+                                          "Harroway",
+                                          "JaredAnims",
+                                          "SwarmlingAnims",
+                                          "textures"
+                                      ]
+                     },
+                     {
+                         "name":  "audio",
+                         "path":  "C:\\Users\\dclar\\workspace\\audio",
+                         "last_write_time":  "2026-03-01T12:47:12",
+                         "markers":  [
+
+                                     ],
+                         "godot_name":  null,
+                         "main_scene":  null,
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           "50Cal.aup3",
+                                           "50CalImpact.aup3",
+                                           "blast_explosion.aup3",
+                                           "blast_shot.aup3",
+                                           "footstep.aup3",
+                                           "gravel impact 20251108-143754.aup3",
+                                           "jab.aup3",
+                                           "jump.aup3",
+                                           "MainCannon.aup3",
+                                           "MainCannonExplosion.aup3"
+                                       ],
+                         "top_dirs":  [
+
+                                      ]
+                     },
+                     {
+                         "name":  "Belly_of_Defiance",
+                         "path":  "C:\\Users\\dclar\\workspace\\Belly_of_Defiance",
+                         "last_write_time":  "2025-11-10T13:38:46",
+                         "markers":  [
+                                         "git",
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Belly_of_Defiance",
+                         "main_scene":  "uid://da5h7tj62b3rc",
+                         "package_name":  null,
+                         "git_remote":  "git@github.com:Valar05/Belly-of-defiance.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "AnimatedWarp.gdshader",
+                                           "AnimatedWarp.gdshader.uid",
+                                           "audio_manager.tscn",
+                                           "BellyOfDefiance.apk",
+                                           "BellyOfDefiance.apk.idsig",
+                                           "Belly_of_Defiance.apk",
+                                           "Belly_of_Defiance.apk.idsig",
+                                           "D-pad-pip.png",
+                                           "D-pad-pip.png.import",
+                                           "D-pad.png",
+                                           "D-pad.png.import",
+                                           "default_bus_layout.tres",
+                                           "default_theme.tres",
+                                           "export_presets.cfg",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "LavaBall.gdshader"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "artsources",
+                                          "audio",
+                                          "fonts",
+                                          "icons",
+                                          "materials",
+                                          "models",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites"
+                                      ]
+                     },
+                     {
+                         "name":  "Clarity-Engine",
+                         "path":  "C:\\Users\\dclar\\workspace\\Clarity-Engine",
+                         "last_write_time":  "2025-06-11T06:24:00",
+                         "markers":  [
+                                         "git",
+                                         "node-package"
+                                     ],
+                         "godot_name":  null,
+                         "main_scene":  null,
+                         "package_name":  "clarity-engine",
+                         "git_remote":  "git@github.com:Valar05/clarity-engine.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".envrc",
+                                           ".gitignore",
+                                           "debug.css",
+                                           "Dockerfile",
+                                           "index.html",
+                                           "main.js",
+                                           "package-lock.json",
+                                           "package.json",
+                                           "postcss.config.js",
+                                           "RecruiterQuestions.json",
+                                           "server.js",
+                                           "style.css",
+                                           "tailwind.config.js",
+                                           "tailwindcss.config.js",
+                                           "vite.config.js"
+                                       ],
+                         "top_dirs":  [
+                                          "src"
+                                      ]
+                     },
+                     {
+                         "name":  "ClubCrucible",
+                         "path":  "C:\\Users\\dclar\\workspace\\ClubCrucible",
+                         "last_write_time":  "2025-12-01T13:44:42",
+                         "markers":  [
+                                         "git",
+                                         "node-package",
+                                         "readme"
+                                     ],
+                         "godot_name":  null,
+                         "main_scene":  null,
+                         "package_name":  "KaelVirexCom",
+                         "git_remote":  "git@github.com:Valar05/club-crucible.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".firebaserc",
+                                           ".gitignore",
+                                           "firebase.json",
+                                           "nuxt.config.ts",
+                                           "package-lock.json",
+                                           "package.json",
+                                           "README.md",
+                                           "tailwind.config.js",
+                                           "tsconfig.json"
+                                       ],
+                         "top_dirs":  [
+                                          ".data",
+                                          ".firebase",
+                                          ".github",
+                                          ".nuxt",
+                                          ".output",
+                                          "127.0.0.1",
+                                          "app",
+                                          "content",
+                                          "dist",
+                                          "public"
+                                      ]
+                     },
+                     {
+                         "name":  "convoy",
+                         "path":  "C:\\Users\\dclar\\workspace\\convoy",
+                         "last_write_time":  "2025-11-15T08:51:49",
+                         "markers":  [
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Last Convoy",
+                         "main_scene":  "uid://qpmpjuxxt6fj",
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "BebasNeue-Regular.ttf",
+                                           "BebasNeue-Regular.ttf.import",
+                                           "Convoy.apk",
+                                           "Convoy.apk.idsig",
+                                           "export_presets.cfg",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "LastConvoy.apk",
+                                           "LastConvoy.apk.idsig",
+                                           "new_audio_bus_layout.tres",
+                                           "OFL.txt",
+                                           "project.godot",
+                                           "Theme.tres"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "audio",
+                                          "scenes",
+                                          "scripts",
+                                          "shaders",
+                                          "sprites"
+                                      ]
+                     },
+                     {
+                         "name":  "diorama-of-descencion",
+                         "path":  "C:\\Users\\dclar\\workspace\\diorama-of-descencion",
+                         "last_write_time":  "2026-05-04T08:09:03",
+                         "markers":  [
+                                         "git",
+                                         "godot",
+                                         "readme",
+                                         "docs",
+                                         "scripts",
+                                         "tools"
+                                     ],
+                         "godot_name":  "Diorama of Descension",
+                         "main_scene":  "uid://bwj8gkjpfquio",
+                         "package_name":  null,
+                         "git_remote":  "git@github.com:Valar05/diorama-of-descension.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "Diorama of Descension.apk",
+                                           "Diorama of Descension.apk.idsig",
+                                           "Diorama of the Forsaken.apk",
+                                           "Diorama of the Forsaken.apk.idsig",
+                                           "export_presets.cfg",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "player_attacks.json",
+                                           "project.godot",
+                                           "README.md",
+                                           "Slash.mtl",
+                                           "Slash.obj",
+                                           "Slash.obj.import",
+                                           "test_text.kra",
+                                           "test_text.png",
+                                           "test_text.png.import"
+                                       ],
+                         "top_dirs":  [
+                                          ".github",
+                                          ".vscode",
+                                          "android",
+                                          "docs",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites",
+                                          "tools"
+                                      ]
+                     },
+                     {
+                         "name":  "Fleshpunk--Crusade",
+                         "path":  "C:\\Users\\dclar\\workspace\\Fleshpunk--Crusade",
+                         "last_write_time":  "2025-10-25T16:11:11",
+                         "markers":  [
+                                         "git",
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Armorture",
+                         "main_scene":  "uid://drc4ouka82qir",
+                         "package_name":  null,
+                         "git_remote":  {
+
+                                        },
+                         "git_branch":  "master",
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "Armorture.apk",
+                                           "Armorture.apk.idsig",
+                                           "Dpad.png",
+                                           "Dpad.png.import",
+                                           "export_presets.cfg",
+                                           "FleshpunkCrusade.apk",
+                                           "FleshpunkCrusade.apk.idsig",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "Joystick-Pip.png",
+                                           "Joystick-Pip.png.import",
+                                           "project.godot"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "addons",
+                                          "android",
+                                          "Animations",
+                                          "data",
+                                          "materials",
+                                          "models",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites",
+                                          "textures"
+                                      ]
+                     },
+                     {
+                         "name":  "fleshpunk--inner-heart",
+                         "path":  "C:\\Users\\dclar\\workspace\\fleshpunk--inner-heart",
+                         "last_write_time":  "2026-05-01T19:00:04",
+                         "markers":  [
+                                         "git",
+                                         "godot"
+                                     ],
+                         "godot_name":  "Fleshpunk- Inner Heart",
+                         "main_scene":  "res://world.tscn",
+                         "package_name":  null,
+                         "git_remote":  "git@github.com:Valar05/fleshpunk--inner-heart.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "BloodHunter.png",
+                                           "BloodHunter.png.import",
+                                           "BloodHunterAttack.png",
+                                           "BloodHunterAttack.png.import",
+                                           "blood_hunter.tscn",
+                                           "bone_corridor.png",
+                                           "bone_corridor.png.import",
+                                           "combat_system.gd",
+                                           "combat_system.gd.uid",
+                                           "egg_corridor.png",
+                                           "egg_corridor.png.import",
+                                           "encounter_decks.json",
+                                           "enemies.json",
+                                           "Enemy.gd",
+                                           "Enemy.gd.uid",
+                                           "EnemySpriteShader.gdshader",
+                                           "EnemySpriteShader.gdshader.uid"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android"
+                                      ]
+                     },
+                     {
+                         "name":  "fleshpunk--root-of-sorrow",
+                         "path":  "C:\\Users\\dclar\\workspace\\fleshpunk--root-of-sorrow",
+                         "last_write_time":  "2025-12-22T10:43:12",
+                         "markers":  [
+                                         "git",
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Fleshpunk: Root of sorrow",
+                         "main_scene":  "uid://cy3rpkdpammh2",
+                         "package_name":  null,
+                         "git_remote":  "git@github.com:Valar05/fleshpunk-root-of-sorrow.git",
+                         "git_branch":  "master",
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "export_presets.cfg",
+                                           "FleshPunk_Root_of_sorrow.apk",
+                                           "FleshPunk_Root_of_sorrow.apk.idsig",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "project.godot",
+                                           "Stab_mat.tres"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "animations",
+                                          "data",
+                                          "materials",
+                                          "models",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites",
+                                          "textures"
+                                      ]
+                     },
+                     {
+                         "name":  "fleshpunk-crusade",
+                         "path":  "C:\\Users\\dclar\\workspace\\fleshpunk-crusade",
+                         "last_write_time":  "2025-10-23T15:14:17",
+                         "markers":  [
+
+                                     ],
+                         "godot_name":  null,
+                         "main_scene":  null,
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "export_presets.cfg",
+                                           "Fleshpunk"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "Animations",
+                                          "materials",
+                                          "models",
+                                          "scenes",
+                                          "textures"
+                                      ]
+                     },
+                     {
+                         "name":  "gravity-fist",
+                         "path":  "C:\\Users\\dclar\\workspace\\gravity-fist",
+                         "last_write_time":  "2026-05-01T07:01:02",
+                         "markers":  [
+                                         "git",
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Gravity Fist",
+                         "main_scene":  "uid://c4uymepb5ssi",
+                         "package_name":  null,
+                         "git_remote":  "git@github.com:Valar05/gravity-fist.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "credits.txt",
+                                           "export_presets.cfg",
+                                           "Gravity Fist.apk",
+                                           "Gravity Fist.apk.idsig",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "NovaNormal.png",
+                                           "NovaNormal.png.import",
+                                           "NovaSprite.png",
+                                           "NovaSprite.png.import",
+                                           "player_attacks.json",
+                                           "project.godot",
+                                           "security_titan.json",
+                                           "theme.tres"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "audio",
+                                          "fonts",
+                                          "icons",
+                                          "materials",
+                                          "models",
+                                          "music",
+                                          "scenes",
+                                          "scripts",
+                                          "shaders"
+                                      ]
+                     },
+                     {
+                         "name":  "lava-landing",
+                         "path":  "C:\\Users\\dclar\\workspace\\lava-landing",
+                         "last_write_time":  "2025-12-10T13:39:05",
+                         "markers":  [
+                                         "git",
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Lava-Landing",
+                         "main_scene":  "uid://cxtpkjlxid6vq",
+                         "package_name":  null,
+                         "git_remote":  "git@github.com:Valar05/lava-landing.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "BusLayout.tres",
+                                           "export_presets.cfg",
+                                           "icon.png",
+                                           "icon.png.import",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "launch.json",
+                                           "LavaLanderIdle.casc",
+                                           "LavaLanderJump.casc",
+                                           "LavaLanderLand.casc",
+                                           "LavaLanderMidair.casc",
+                                           "LavaLanderShoot.casc",
+                                           "LavaLanderSkip.casc",
+                                           "LavaLanding.otf",
+                                           "LavaLanding.otf.import",
+                                           "Lava_Floor.png",
+                                           "Lava_Floor.png.import",
+                                           "player.gd.uid"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "Audio",
+                                          "Models",
+                                          "Scenes",
+                                          "Scripts",
+                                          "shaders",
+                                          "Sprites"
+                                      ]
+                     },
+                     {
+                         "name":  "lionheart_lancer",
+                         "path":  "C:\\Users\\dclar\\workspace\\lionheart_lancer",
+                         "last_write_time":  "2025-11-10T13:58:09",
+                         "markers":  [
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Lionheart_Lancer",
+                         "main_scene":  "uid://bmsl4a23by3ru",
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "project.godot"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "data",
+                                          "models",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites"
+                                      ]
+                     },
+                     {
+                         "name":  "long-haul",
+                         "path":  "C:\\Users\\dclar\\workspace\\long-haul",
+                         "last_write_time":  "2026-05-11T11:47:31",
+                         "markers":  [
+                                         "git",
+                                         "godot",
+                                         "docs",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Long Haul",
+                         "main_scene":  "uid://6iyy776jej33",
+                         "package_name":  null,
+                         "git_remote":  "git@github.com:Valar05/long-haul.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "5e6df714-e396-4b39-a2de-5a667366bdb8.png",
+                                           "apc.png",
+                                           "apc.png.import",
+                                           "BiofuelStation.png",
+                                           "BiofuelStation.png.import",
+                                           "BloodSplatter.png",
+                                           "BloodSplatter.png.import",
+                                           "bullet_tracer.png",
+                                           "bullet_tracer.png.import",
+                                           "bus_layout.tres",
+                                           "ChatGPT Image Apr 20, 2026, 02_01_24 PM.png",
+                                           "ChatGPT Image Apr 20, 2026, 02_01_24 PM.png.import",
+                                           "ChatGPT Image Apr 20, 2026, 02_03_34 PM.png",
+                                           "ChatGPT Image Apr 20, 2026, 02_03_34 PM.png.import",
+                                           "ChatGPT Image Apr 20, 2026, 02_51_02 PM.png",
+                                           "ChatGPT Image Apr 20, 2026, 02_51_02 PM.png.import",
+                                           "Corn.png"
+                                       ],
+                         "top_dirs":  [
+                                          ".github",
+                                          ".venv-1",
+                                          ".vscode",
+                                          "audio",
+                                          "docs",
+                                          "enemies",
+                                          "extracted",
+                                          "guns",
+                                          "scenes",
+                                          "scripts",
+                                          "shaders"
+                                      ]
+                     },
+                     {
+                         "name":  "OpenAiUtils",
+                         "path":  "C:\\Users\\dclar\\workspace\\OpenAiUtils",
+                         "last_write_time":  "2026-04-16T20:13:23",
+                         "markers":  [
+                                         "python"
+                                     ],
+                         "godot_name":  null,
+                         "main_scene":  null,
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           ".env",
+                                           "Aria_vox_1.mp3",
+                                           "audio_parser.py",
+                                           "Chapter2-part1.mp3",
+                                           "CreateAudioBook.py",
+                                           "encore.mp3",
+                                           "full.mp3",
+                                           "input.json",
+                                           "input.txt",
+                                           "no_ap.mp3",
+                                           "output_chunk_0001.mp3",
+                                           "output_chunk_0002.mp3",
+                                           "output_chunk_0003.mp3",
+                                           "output_chunk_0004.mp3",
+                                           "output_chunk_0005.mp3",
+                                           "output_chunk_0006.mp3",
+                                           "output_chunk_0007.mp3",
+                                           "output_chunk_0008.mp3",
+                                           "output_chunk_0009.mp3",
+                                           "output_chunk_0010.mp3"
+                                       ],
+                         "top_dirs":  [
+                                          ".venv-1",
+                                          "BoD VO",
+                                          "harroway",
+                                          "lava",
+                                          "parsed",
+                                          "Ratpocalypse"
+                                      ]
+                     },
+                     {
+                         "name":  "Phoenix-Simulator",
+                         "path":  "C:\\Users\\dclar\\workspace\\Phoenix-Simulator",
+                         "last_write_time":  "2026-04-18T10:57:29",
+                         "markers":  [
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Phoenix_Simulator",
+                         "main_scene":  "uid://bkk16putw6yeb",
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "D-pad-pip.png",
+                                           "D-pad-pip.png.import",
+                                           "D-pad.png",
+                                           "D-pad.png.import",
+                                           "export_presets.cfg",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "Phoenix_Simulation.apk",
+                                           "Phoenix_Simulation.apk.idsig",
+                                           "project.godot",
+                                           "Ruined_Air.apk",
+                                           "Ruined_Air.apk.idsig",
+                                           "Sky_clouds_epic.png",
+                                           "Sky_clouds_epic.png.import"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "artsources",
+                                          "data",
+                                          "icons",
+                                          "models",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites"
+                                      ]
+                     },
+                     {
+                         "name":  "ruined_air",
+                         "path":  "C:\\Users\\dclar\\workspace\\ruined_air",
+                         "last_write_time":  "2025-09-08T10:57:55",
+                         "markers":  [
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "Ruined_Air",
+                         "main_scene":  "uid://li6vq0nfttst",
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "D-pad-pip.png",
+                                           "D-pad-pip.png.import",
+                                           "D-pad.png",
+                                           "D-pad.png.import",
+                                           "export_presets.cfg",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "project.godot",
+                                           "Ruined_Air.apk",
+                                           "Ruined_Air.apk.idsig"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "artsources",
+                                          "data",
+                                          "icons",
+                                          "models",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites"
+                                      ]
+                     },
+                     {
+                         "name":  "Spice-of-Life",
+                         "path":  "C:\\Users\\dclar\\workspace\\Spice-of-Life",
+                         "last_write_time":  "2025-05-26T07:48:51",
+                         "markers":  [
+                                         "git",
+                                         "node-package"
+                                     ],
+                         "godot_name":  null,
+                         "main_scene":  null,
+                         "package_name":  "spice-of-life-cookbooks",
+                         "git_remote":  "git@github.com:Valar05/spice-of-life-cookbook.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".eslintrc.js",
+                                           ".gitignore",
+                                           "debug.html",
+                                           "Dockerfile",
+                                           "nodemon.json",
+                                           "package-lock.json",
+                                           "package.json",
+                                           "server.js",
+                                           "tailwind.config.js"
+                                       ],
+                         "top_dirs":  [
+                                          ".husky",
+                                          "static"
+                                      ]
+                     },
+                     {
+                         "name":  "Spice-of-Life - Copy",
+                         "path":  "C:\\Users\\dclar\\workspace\\Spice-of-Life - Copy",
+                         "last_write_time":  "2025-05-09T04:45:56",
+                         "markers":  [
+                                         "git",
+                                         "node-package"
+                                     ],
+                         "godot_name":  null,
+                         "main_scene":  null,
+                         "package_name":  "spice-of-life-cookbooks",
+                         "git_remote":  "git@github.com:Valar05/spice-of-life-cookbook.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".eslintrc.js",
+                                           ".gitignore",
+                                           "debug.html",
+                                           "Dockerfile",
+                                           "nodemon.json",
+                                           "package-lock.json",
+                                           "package.json",
+                                           "server.js",
+                                           "tailwind.config.js"
+                                       ],
+                         "top_dirs":  [
+                                          ".husky",
+                                          "functions",
+                                          "src",
+                                          "static"
+                                      ]
+                     },
+                     {
+                         "name":  "sprites",
+                         "path":  "C:\\Users\\dclar\\workspace\\sprites",
+                         "last_write_time":  "2025-10-03T13:54:43",
+                         "markers":  [
+
+                                     ],
+                         "godot_name":  null,
+                         "main_scene":  null,
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           "ChatGPT Image Oct 3, 2025, 01_53_57 PM.png"
+                                       ],
+                         "top_dirs":  [
+
+                                      ]
+                     },
+                     {
+                         "name":  "steam-pile",
+                         "path":  "C:\\Users\\dclar\\workspace\\steam-pile",
+                         "last_write_time":  "2026-05-04T10:43:47",
+                         "markers":  [
+                                         "git",
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "SteamPile",
+                         "main_scene":  "res://world.tscn",
+                         "package_name":  null,
+                         "git_remote":  "git@github.com:Valar05/steam-pile.git",
+                         "git_branch":  "main",
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "Exit.tscn",
+                                           "export_presets.cfg",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "OFL.txt",
+                                           "Player.tscn",
+                                           "project.godot",
+                                           "RedGhost.tscn",
+                                           "Rock.tscn",
+                                           "Rye-Regular.ttf",
+                                           "Rye-Regular.ttf.import",
+                                           "shovel_fist.tscn",
+                                           "SteamPile.apk",
+                                           "SteamPile.apk.idsig",
+                                           "world.tscn"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "assets",
+                                          "scenes",
+                                          "scripts"
+                                      ]
+                     },
+                     {
+                         "name":  "the-murk",
+                         "path":  "C:\\Users\\dclar\\workspace\\the-murk",
+                         "last_write_time":  "2025-11-05T14:44:30",
+                         "markers":  [
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "The Murk",
+                         "main_scene":  "uid://dk1dbh0qx47vs",
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "Dpad.png",
+                                           "Dpad.png.import",
+                                           "export_presets.cfg",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "project.godot",
+                                           "The Murk.apk",
+                                           "The Murk.apk.idsig"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "models",
+                                          "scenes",
+                                          "scripts"
+                                      ]
+                     },
+                     {
+                         "name":  "the-unbidden-path",
+                         "path":  "C:\\Users\\dclar\\workspace\\the-unbidden-path",
+                         "last_write_time":  "2025-10-11T07:10:03",
+                         "markers":  [
+                                         "godot",
+                                         "scripts"
+                                     ],
+                         "godot_name":  "The Unbidden Path",
+                         "main_scene":  "uid://brctui2mvvbdt",
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "export_presets.cfg",
+                                           "grab_effect.gdshader",
+                                           "grab_effect.gdshader.uid",
+                                           "grab_effect.tscn",
+                                           "grab_effect_mat.tres",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "project.godot",
+                                           "The Unbidden Path.apk",
+                                           "The Unbidden Path.apk.idsig"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode",
+                                          "android",
+                                          "data",
+                                          "effects",
+                                          "scenes",
+                                          "scripts",
+                                          "sprites"
+                                      ]
+                     },
+                     {
+                         "name":  "uftzg",
+                         "path":  "C:\\Users\\dclar\\workspace\\uftzg",
+                         "last_write_time":  "2025-12-27T12:33:07",
+                         "markers":  [
+                                         "godot"
+                                     ],
+                         "godot_name":  "UFTZG",
+                         "main_scene":  "uid://c1k0tbinwjjb5",
+                         "package_name":  null,
+                         "git_remote":  null,
+                         "git_branch":  null,
+                         "top_files":  [
+                                           ".editorconfig",
+                                           ".gitattributes",
+                                           ".gitignore",
+                                           "camera_3d.gd",
+                                           "camera_3d.gd.uid",
+                                           "icon.svg",
+                                           "icon.svg.import",
+                                           "Main.tscn",
+                                           "player.gd",
+                                           "player.gd.uid",
+                                           "player.tscn",
+                                           "project.godot",
+                                           "UFTZG_arena.mtl",
+                                           "UFTZG_arena.obj",
+                                           "UFTZG_arena.obj.import",
+                                           "UFTZG_background.png",
+                                           "UFTZG_background.png.import",
+                                           "uftzg_cage_wall.png",
+                                           "uftzg_cage_wall.png.import",
+                                           "UFTZG_fighter.glb"
+                                       ],
+                         "top_dirs":  [
+                                          ".vscode"
+                                      ]
+                     }
+                 ]
+}

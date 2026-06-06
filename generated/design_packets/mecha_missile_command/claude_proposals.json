@@ -1,0 +1,221 @@
+{
+  "proposals": [
+    {
+      "title": "IRON SENTINEL: Tap-to-Intercept",
+      "one_sentence_pitch": "A pure missile-command interceptor where a chibi anime mecha stands at the bottom of the screen and the player taps incoming threats to lock-on and fire shoulder missiles, while holding the screen sprays the rifle arm toward the finger.",
+      "core_loop": [
+        "Wave of enemy projectiles descends from top of screen in arcing or straight paths",
+        "Player taps any incoming threat to queue a shoulder missile intercept — missile auto-homes to tapped point",
+        "Player holds finger on screen to aim and spray the rifle arm; arm pivots in real time toward touch point",
+        "Four drones orbit the mech in a square formation and mirror the rifle aim direction, firing in parallel",
+        "Intercepted projectiles explode in a radius, chaining to nearby threats",
+        "Wave clears, score tallied, one upgrade card offered from a small fixed pool",
+        "Next wave begins with more threats, faster descent, or new threat types"
+      ],
+      "mobile_input_model": "Tap anywhere on screen to fire a shoulder missile at that exact point. Hold and drag to activate rifle auto-fire; the mech arm tracks the live finger position. Release to stop rifle fire. No virtual joystick, no buttons. One-finger play is complete.",
+      "mvp_weapon_set": {
+        "shoulder_missiles": "Left and right shoulder pods each hold a semi-auto missile queue. Tap fires one missile per pod alternating left-right. Missiles travel to the tapped screen coordinate and explode in a medium blast radius. Cooldown is 0.6 seconds per pod.",
+        "one_handed_rifle": "Single-barrel rapid-fire rifle held in the mech right arm. Fires while finger is held down. Bullet travels in a straight line toward the current touch point. Low damage, high fire rate, small projectile. Arm sprite rotates to track touch point using a single pivot at the shoulder anchor.",
+        "four_drones": "Four small drone sprites positioned at the four corners of a square centered on the mech torso. Each drone has its own gun barrel. All four aim at the same world-space point as the rifle arm. They fire in sync with the rifle trigger. Drones do not move independently in MVP."
+      },
+      "arm_tracking_solution": {
+        "mvp": "Single-bone arm: the entire forearm-plus-rifle sprite is one image anchored at a shoulder pivot point. At runtime, compute the angle from the shoulder pivot to the current touch point using Math.atan2. Apply canvas context.rotate() around the shoulder pivot before drawing the arm-rifle sprite. No IK needed. Clamp rotation to a readable arc so the arm never flips behind the torso.",
+        "polish_path": "Upgrade to two-bone IK: separate upper-arm sprite and forearm-plus-rifle sprite. Shoulder pivot drives upper arm rotation. Elbow pivot is computed via a simple two-bone law-of-cosines solve given a fixed arm length and the target touch point. Both sprites are drawn with nested canvas save/restore transforms. Add a subtle spring/lerp on the angle so the arm eases toward the target rather than snapping.",
+        "image_gen_asset_requirements": [
+          "Mech torso front-facing, chibi proportions, sleek anime armor plating, transparent background, 256x256px, shoulder socket clearly visible as a flat circular joint",
+          "Right upper arm segment, straight horizontal rest pose, shoulder socket end on left, elbow socket end on right, transparent background, 128x64px",
+          "Right forearm and closed fist segment, straight horizontal rest pose, elbow socket on left, wrist on right, transparent background, 128x64px",
+          "One-handed rifle sprite, side profile, barrel pointing right, grip on left, transparent background, 128x48px, chunky anime proportions",
+          "Left shoulder missile pod, top-down-angled view showing two missile tubes, transparent background, 96x96px, matches torso armor color language",
+          "Right shoulder missile pod, mirrored version of left pod, transparent background, 96x96px",
+          "Drone body sprite, small boxy chibi drone with a single front-facing gun barrel, transparent background, 64x64px",
+          "Missile projectile sprite, small sleek rocket silhouette pointing upward, transparent background, 32x64px",
+          "Rifle bullet sprite, small bright energy bolt, transparent background, 8x24px",
+          "Muzzle flash sprite, starburst shape, bright yellow-white, transparent background, 48x48px",
+          "Explosion sprite sheet, 6 frames of expanding ring blast, each frame 128x128px, arranged in a single horizontal strip",
+          "Leg assembly sprite, chibi mech legs in wide planted stance, transparent background, 256x192px, designed to sit below torso"
+        ]
+      },
+      "art_direction": "Sleek white and cobalt blue primary armor with gold trim accents. Chibi body ratio: head roughly one-third of total height, wide shoulders, short thick legs. Clean anime line art with subtle cel shading. Weapons are chunky and toyetic with glowing energy elements. Explosions are bright orange-white rings. Drones are small matching cobalt cubes with a single glowing barrel. Overall read: heroic toy robot, not grimdark.",
+      "survivorlike_growth": [
+        "After each wave, player chooses one card from three: upgrade missile blast radius, increase rifle fire rate, add a second missile per tap, increase drone fire rate, or unlock a new weapon slot placeholder",
+        "Shoulder pod upgrades are visual: extra missile tubes appear on the pod sprite via a second layered sprite drawn on top",
+        "Drone count can increase from four to six by adding two more corner positions",
+        "All upgrades are additive stat changes in MVP; no branching build trees"
+      ],
+      "first_prototype_scope": [
+        "Static mech torso and leg sprites drawn at screen bottom center",
+        "Single-bone arm rotation toward touch point using Math.atan2 and canvas rotate",
+        "Tap fires a missile that travels to the tapped canvas coordinate",
+        "Hold fires rifle bullets toward live touch point at fixed intervals",
+        "Four static drone sprites that fire in sync with rifle",
+        "Simple enemy projectile: colored circle descending at fixed speed from random top-edge X position",
+        "Explosion circle drawn at missile impact point, persists for 0.4 seconds, destroys any enemy projectile whose center enters the radius",
+        "Base zone: colored rectangle at screen bottom; if enemy projectile reaches it, base health decrements",
+        "Wave counter and base health displayed as plain text HUD",
+        "No upgrade system in first build; hardcode all stats"
+      ],
+      "risks": [
+        "Tap-to-intercept and hold-to-rifle on the same touch surface may cause accidental mode switches; mitigate by requiring a 150ms hold threshold before rifle activates",
+        "Single-bone arm rotation can look stiff; acceptable for MVP but needs polish-path IK to feel good",
+        "Four drones firing in sync may create too much visual noise on a small phone screen; reduce drone bullet size and opacity if needed",
+        "Missile homing to a tapped point rather than a tracked enemy may feel imprecise if enemies move fast; add a small snap radius so missiles home to the nearest enemy within 40px of the tap"
+      ],
+      "why_this_version": "This is the most direct translation of classic missile command into the mecha fantasy. The tap-to-missile mechanic is immediately legible to anyone who has played the original, and the hold-to-rifle layer adds a second input mode without requiring two hands. It is the safest first build."
+    },
+    {
+      "title": "BURST GUARDIAN: Zone Defense with Weapon Modes",
+      "one_sentence_pitch": "The mecha defends three distinct base segments using a weapon-mode toggle system where the player switches between missile burst, rifle spray, and drone lock-on by tapping different screen zones, creating a fast tactical rhythm.",
+      "core_loop": [
+        "Three base segments sit at the bottom: left, center, right, each with independent health",
+        "Enemy projectiles descend targeting specific segments, telegraphed by a colored trail matching the segment color",
+        "Player has three weapon modes: missile mode, rifle mode, drone mode",
+        "Tapping the left third of the screen fires missiles at that zone; tapping center fires rifle toward touch; tapping right activates drone lock-on sweep",
+        "Modes are not exclusive — rapid alternating taps across zones creates a layered defense",
+        "Each mode has a visible cooldown indicator on the mech body",
+        "Wave ends when all projectiles are cleared; damaged segments can be partially repaired via upgrade cards",
+        "Escalation adds faster projectiles, split projectiles, and armored projectiles requiring two hits"
+      ],
+      "mobile_input_model": "Screen is divided into three vertical touch zones with subtle visual separators. Tapping left zone fires missiles toward that area. Tapping and holding center zone sprays rifle toward exact finger position. Tapping right zone triggers drone burst sweep across the right side. All interactions are single-finger. Zone boundaries are generous to avoid frustration.",
+      "mvp_weapon_set": {
+        "shoulder_missiles": "Fires a spread of two missiles simultaneously toward the left screen zone. Both missiles travel to the tapped Y coordinate at the left-zone X midpoint. Blast radius is large enough to cover the left base segment width. Cooldown is 1.0 second. Visual: both shoulder pods animate a brief recoil offset.",
+        "one_handed_rifle": "Active only in center zone hold. Fires a continuous stream of bullets toward the exact touch position. Arm tracks touch in real time. High fire rate, small blast, good for precision intercepts on fast-moving threats aimed at the center base.",
+        "four_drones": "Activated by tapping the right zone. All four drones simultaneously sweep from their current orbit positions toward the right screen edge, firing a burst of three shots each in a fan pattern. After the sweep, drones return to orbit. Cooldown is 1.2 seconds."
+      },
+      "arm_tracking_solution": {
+        "mvp": "Two-bone IK using a simplified analytical solve. Upper arm and forearm are separate sprites. Shoulder pivot is fixed at the torso shoulder socket position. Given the touch target point, compute the elbow position using the law of cosines: arm_length_total is the sum of upper and forearm lengths, solve for elbow angle given the distance to target. Apply canvas transforms: save, translate to shoulder pivot, rotate by upper arm angle, draw upper arm sprite, translate to elbow pivot, rotate by forearm angle relative to upper arm, draw forearm-plus-rifle sprite, restore. Clamp total reach so the arm never fully extends to a degenerate straight line.",
+        "polish_path": "Add angular spring interpolation: instead of snapping to the solved IK angles each frame, lerp current angles toward target angles at a rate of 12 degrees per frame. This gives the arm a weighted, mechanical feel. Add a subtle overshoot and settle using a simple spring constant. When rifle is not firing, arm slowly returns to a neutral rest pose angle.",
+        "image_gen_asset_requirements": [
+          "Mech torso front-facing, chibi proportions, three-color armor scheme with visible left and right shoulder sockets as circular joints, transparent background, 256x256px",
+          "Upper arm segment, straight pose pointing right, shoulder socket circle on left end, elbow socket circle on right end, transparent background, 96x48px",
+          "Forearm segment with closed grip fist, straight pose pointing right, elbow socket on left, wrist on right, transparent background, 96x48px",
+          "One-handed rifle, side profile barrel pointing right, chunky anime styling, transparent background, 112x40px",
+          "Left shoulder missile pod, two-tube launcher, angled top view, transparent background, 96x96px",
+          "Right shoulder missile pod, mirrored, transparent background, 96x96px",
+          "Drone body, small boxy chibi drone, front-facing, gun barrel visible, transparent background, 64x64px, designed to be drawn at four orbit positions",
+          "Zone divider UI element, subtle vertical glowing line, transparent background, 8x400px, used to mark screen thirds",
+          "Missile projectile, sleek upward-pointing rocket, transparent background, 24x56px",
+          "Rifle energy bolt, thin bright streak, transparent background, 6x20px",
+          "Drone burst shot, small round energy ball, transparent background, 16x16px",
+          "Large explosion sprite sheet, 8 frames, 160x160px per frame, horizontal strip, bright white core fading to orange ring",
+          "Small explosion sprite sheet, 6 frames, 80x80px per frame, horizontal strip, for rifle and drone hits",
+          "Base segment sprite, one of three, rectangular armored panel with health indicator notches, transparent background, 160x64px"
+        ]
+      },
+      "art_direction": "Deep charcoal and crimson primary armor with silver highlights. The three base segments glow in distinct colors: blue left, green center, orange right, so the player always knows which zone needs attention. The mech has a slightly more serious expression than Proposal 1 but still chibi. Weapon mode indicators are glowing rings around the shoulder pods and drone bodies. Explosions are large and satisfying with screen shake on big hits.",
+      "survivorlike_growth": [
+        "Upgrade cards offer zone-specific improvements: wider missile blast for left zone, faster rifle rate for center, more drone shots per sweep for right zone",
+        "A fourth upgrade type adds a passive: all three zones gain a small shared bonus such as faster projectile travel speed",
+        "Base segment repair card restores one segment to full health",
+        "Later waves can unlock a fourth weapon mode card that adds a screen-clearing super ability on a long cooldown"
+      ],
+      "first_prototype_scope": [
+        "Three colored rectangles at screen bottom representing base segments",
+        "Screen divided into three touch zones with visible boundary lines",
+        "Tap left zone: fire two missiles toward left zone at tapped Y, large explosion radius",
+        "Hold center zone: two-bone IK arm tracks touch, fires rifle bullets",
+        "Tap right zone: four drone sprites flash and fire fan burst toward right edge",
+        "Enemy projectiles: colored circles descending, color matches target base segment",
+        "Collision detection: explosion radius vs enemy projectile center",
+        "Base health decrement when projectile reaches bottom",
+        "Wave counter as plain text",
+        "Cooldown timers shown as simple arc drawn around each weapon icon placeholder"
+      ],
+      "risks": [
+        "Zone-based input may feel artificial and break immersion if the player wants to fire missiles at the right side; consider allowing missiles to fire toward any tapped point regardless of zone in a later iteration",
+        "Two-bone IK in MVP adds more code complexity than single-bone; if time is short, fall back to single-bone for first build and note IK as day-two task",
+        "Three base segments with independent health creates more UI to read on a small screen; keep segment health indicators minimal, just a color shift from bright to dim",
+        "Drone sweep animation requires moving drone sprites temporarily, which adds state management; simplify by keeping drones static and just firing projectiles from their fixed positions"
+      ],
+      "why_this_version": "The zone-defense structure gives the player a clear mental model of what each input does and where to look. It creates a natural rhythm of left-center-right attention that feels like a tactical puzzle rather than pure reflex, differentiating it from Proposal 1 while staying within one-finger mobile constraints."
+    },
+    {
+      "title": "OMEGA FRAME: Mech-as-Cursor with Orbital Defense",
+      "one_sentence_pitch": "The mecha itself slides along the bottom of the screen following the player's finger, and all weapons fire upward automatically based on proximity to threats, making the core skill about positioning the mech rather than aiming individual shots.",
+      "core_loop": [
+        "Mech slides horizontally along the bottom edge tracking the player's finger X position",
+        "All weapons fire automatically upward toward the nearest incoming threat within range",
+        "Shoulder missiles fire at the highest-priority threat in a wide arc above the mech",
+        "Rifle arm tracks and fires at the closest threat within a narrower cone",
+        "Drones orbit the mech and each independently target the nearest threat in their quadrant",
+        "Player skill is expressed through positioning: move the mech under threat clusters to maximize weapon coverage",
+        "Tapping anywhere fires a manual missile burst at the exact tap point as an emergency override",
+        "Waves escalate in density and speed; surviving longer unlocks upgrade cards between waves"
+      ],
+      "mobile_input_model": "Drag finger left and right anywhere on screen to slide the mech along the bottom. The mech follows the finger X coordinate with a slight lag for feel. All weapons fire automatically. Tap without dragging to fire a manual emergency missile at the tapped point. No mode switching, no hold distinction needed. Extremely accessible one-finger control.",
+      "mvp_weapon_set": {
+        "shoulder_missiles": "Auto-fire at the single highest-threat projectile within a 200px radius above the mech. Fires one missile every 1.5 seconds alternating left and right pod. Missile homes to the enemy projectile position at the moment of firing, not tracking. If no threat is in range, pods are idle.",
+        "one_handed_rifle": "Auto-fire at the nearest enemy projectile within a 120-degree forward cone above the mech. Fires continuously at 8 rounds per second. Arm rotates to track the current target using single-bone shoulder pivot rotation. If no target in cone, arm rests at 90-degree upward position.",
+        "four_drones": "Four drones orbit the mech in a square at a fixed radius of 80px. Each drone independently targets the nearest enemy in its quadrant of the screen. Drones auto-fire at 4 rounds per second each. Drone sprites rotate to face their individual targets using per-drone Math.atan2 rotation."
+      },
+      "arm_tracking_solution": {
+        "mvp": "Single-bone arm for the rifle: one combined upper-arm-forearm-rifle sprite anchored at the shoulder pivot. Each frame, find the nearest enemy projectile within the rifle cone. Compute angle from shoulder pivot to that enemy using Math.atan2. Apply canvas translate to shoulder pivot, rotate by computed angle, draw the arm-rifle sprite. If no target, lerp angle back to straight-up rest position at 90 degrees. Drones each have their own single-sprite body-plus-barrel that rotates independently using the same per-drone Math.atan2 calculation against their individual targets.",
+        "polish_path": "Upgrade rifle to two-bone IK as described in Proposal 1 polish path. Add a target-lock visual: a small reticle sprite drawn at the current rifle target position, connected to the muzzle point by a thin line, to communicate which threat the rifle is tracking. Add drone orbit animation: drones slowly rotate around the mech center at a constant angular velocity, so their orbit positions are dynamic rather than fixed corners. The per-drone targeting still uses Math.atan2 from each drone's current orbit position to its nearest target.",
+        "image_gen_asset_requirements": [
+          "Mech torso front-facing, chibi proportions, white and violet armor, shoulder sockets visible, transparent background, 256x256px, slightly wider stance than Proposals 1 and 2 to suggest a sliding platform feel",
+          "Combined upper-arm-forearm-rifle sprite, single piece, arm pointing straight up as rest pose, shoulder socket at bottom, rifle barrel at top, transparent background, 80x192px, chunky anime proportions",
+          "Left shoulder missile pod, two tubes, transparent background, 96x96px",
+          "Right shoulder missile pod, mirrored, transparent background, 96x96px",
+          "Drone body with integrated barrel, the barrel is part of the sprite pointing right as rest pose, transparent background, 56x56px, designed to be rotated freely",
+          "Mech leg assembly, wide sliding stance, transparent background, 256x160px, legs slightly bent as if in motion",
+          "Missile projectile, upward-pointing rocket, transparent background, 24x56px",
+          "Rifle auto-fire bullet, thin energy streak, transparent background, 6x18px",
+          "Drone shot, small round energy pellet, transparent background, 12x12px",
+          "Target reticle sprite, thin diamond outline, glowing, transparent background, 32x32px",
+          "Explosion sprite sheet, 6 frames, 128x128px per frame, horizontal strip",
+          "Small hit spark sprite sheet, 4 frames, 48x48px per frame, for rifle and drone impacts",
+          "Mech slide trail effect, faint horizontal motion blur streak, transparent background, 256x32px, drawn behind mech during fast movement"
+        ]
+      },
+      "art_direction": "White and deep violet primary armor with electric cyan energy accents on weapon barrels and drone cores. The mech has a slightly wider, lower center of gravity to suggest a mobile platform. Drones glow cyan and leave faint light trails as they orbit. The overall palette is cooler and more electric than Proposals 1 and 2. Explosions have a violet tint on the outer ring. The mech slide trail is a subtle cyan smear on the ground line.",
+      "survivorlike_growth": [
+        "Upgrade cards offer: increase missile auto-fire range radius, increase rifle cone angle from 120 to 150 degrees, add a fifth drone to the orbit, increase mech slide speed, add a passive that causes explosions to chain to one additional nearby threat",
+        "A special upgrade adds a ground shield: a destructible barrier sprite placed in front of the base that absorbs a fixed number of hits before breaking",
+        "Drone count upgrade is visually meaningful: each new drone appears in the orbit ring, making the mech look progressively more powerful"
+      ],
+      "first_prototype_scope": [
+        "Mech torso and leg sprites drawn at bottom of screen, X position follows touch X with lerp factor 0.2 per frame",
+        "Array of enemy projectile objects descending from random top-edge positions",
+        "Auto-targeting: each frame find nearest enemy within range thresholds for missile and rifle",
+        "Single-bone arm rotation toward current rifle target using Math.atan2",
+        "Missile fires at current missile target every 1.5 seconds if target exists",
+        "Rifle fires bullet toward current rifle target every 0.125 seconds if target in cone",
+        "Four drone sprites at fixed offset positions relative to mech center, each rotates toward nearest enemy in quadrant, fires every 0.25 seconds",
+        "Tap override: tap fires one missile to exact tap coordinate",
+        "Explosion circle on missile impact, destroys enemies in radius",
+        "Base health bar at bottom, decrements when enemy reaches Y threshold",
+        "Wave counter as plain text, new wave spawns after all enemies cleared"
+      ],
+      "risks": [
+        "Auto-fire removes direct player agency over weapon targeting; some players may feel passive; mitigate by making mech positioning feel highly responsive and impactful so movement is the skill expression",
+        "Auto-targeting logic requires a priority system to avoid all weapons targeting the same single enemy while others slip through; implement a simple threat-score based on Y position so lower enemies are higher priority",
+        "Mech sliding along the bottom may cause the arm rotation to look strange when the mech is moving fast and the arm snaps to a new target; add a max rotation speed per frame to smooth transitions",
+        "Four independently targeting drones require four separate targeting calculations per frame; optimize by running drone targeting every other frame on low-end devices"
+      ],
+      "why_this_version": "Removing explicit aiming and replacing it with positioning creates a fundamentally different feel from Proposals 1 and 2. The player thinks spatially about where to be rather than what to tap. This is the most accessible version for casual players and the most distinct design, while still delivering the missile command fantasy of intercepting descending threats."
+    }
+  ],
+  "shared_recommendations": {
+    "best_arm_tracking_approach": "Start with single-bone shoulder-pivot rotation for the first prototype across all three proposals. It requires only Math.atan2, one canvas translate, and one canvas rotate per frame. This is buildable in under an hour and produces a readable result. Upgrade to two-bone law-of-cosines IK in the polish pass once the core loop is verified fun. Store the current angle as a persistent variable and lerp toward the target angle each frame at a rate of 0.15 to 0.25 to get smooth mechanical movement without a spring library.",
+    "best_mvp_input_rule": "Use a 150-millisecond touch duration threshold to distinguish tap from hold. On touchstart, record the timestamp and start position. On touchmove beyond 10px or touchend after 150ms, classify as hold-drag and activate continuous fire or mech slide. On touchend before 150ms with less than 10px movement, classify as tap and fire a single missile to that point. This threshold is forgiving enough for fast taps and deliberate enough to avoid accidental holds.",
+    "first_image_generation_packet": [
+      "Mech torso front-facing, chibi proportions, sleek anime armor, shoulder sockets visible as circular joints, transparent background, 256x256px — generate this first as it anchors the entire visual language",
+      "Combined upper-arm-forearm-rifle sprite, arm pointing straight right as rest pose, shoulder socket on left end, rifle barrel on right end, transparent background, 160x64px — this is the single-bone arm asset used in all three MVP builds",
+      "Left shoulder missile pod, two-tube launcher, top-angled view, transparent background, 96x96px",
+      "Right shoulder missile pod, mirrored version of left pod, transparent background, 96x96px",
+      "Drone body with front-facing gun barrel, small boxy chibi styling, transparent background, 64x64px — used in all three proposals",
+      "Missile projectile, upward-pointing sleek rocket silhouette, transparent background, 24x56px",
+      "Rifle energy bolt, thin bright streak, transparent background, 6x20px",
+      "Explosion sprite sheet, 6 frames of expanding ring, 128x128px per frame, single horizontal strip, transparent background",
+      "Mech leg assembly, wide planted chibi stance, transparent background, 256x192px"
+    ],
+    "first_canvas_systems_to_build": [
+      "Touch input handler: touchstart, touchmove, touchend listeners that output a normalized touch state object with fields: isHeld, tapPoint, dragPoint, holdDuration — all three proposals consume this same interface",
+      "Sprite renderer: a drawSprite function that accepts a canvas context, an image element, a position, a rotation in radians, and an anchor point offset, and applies translate-rotate-drawImage-restore in the correct order",
+      "Arm tracker: a function that accepts a shoulder pivot position and a target world position and returns a rotation angle in radians, clamped to a defined arc, with lerp applied against a stored previous angle",
+      "Projectile pool: a fixed-size array of projectile objects with fields for position, velocity, active flag, and type — reuse objects rather than creating new ones each frame to avoid garbage collection hitches on mobile",
+      "Explosion manager: an array of active explosion objects each with a position, a current radius, a max radius, a lifetime timer, and a sprite sheet frame index — drawn as expanding circles or animated sprite frames",
+      "Wave spawner: a simple timer-based spawner that reads from a wave definition array specifying enemy count, spawn interval, descent speed, and target X distribution — increment wave index when the active enemy count reaches zero"
+    ]
+  }
+}

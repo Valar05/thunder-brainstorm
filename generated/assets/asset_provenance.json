@@ -1,0 +1,15 @@
+{
+  "assets": [
+    {
+      "asset_id": "phagocyte_4frame_sprite_sheet",
+      "asset_class": "generated_image",
+      "target_path": "generated/assets/phagocyte_4frame_sprite_sheet.png",
+      "source_path": "/data/data/com.termux/files/home/.codex/generated_images/019e8f3b-7c98-7a51-8417-f94059226ab5/ig_0ad58d46ad79a32c016a216b00cf48819785a7d58c89c5193c.png",
+      "generator": "OpenAI image generation via Codex image tool",
+      "created_for": "Immune-cell maze-chase phagocyte player concept, 4-frame sprite sheet.",
+      "processing": "Copied into Thunder Brainstorm generated assets; original generated image preserved.",
+      "usage_notes": "Prototype/concept asset. Verify frame boundaries and transparency/background before runtime slicing.",
+      "prompt_summary": "Four-frame horizontal phagocyte sprite sheet, fleshpunk painterly style, blobby round white blood cell with organic mouth and human-like teeth."
+    }
+  ]
+}

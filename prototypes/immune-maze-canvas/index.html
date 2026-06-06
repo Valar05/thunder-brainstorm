@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Marrow Runner v0.9.0-rc3</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app-shell">
+    <section class="game-surface" aria-label="Immune maze prototype">
+      <canvas id="game" width="672" height="672"></canvas>
+      <div id="touchJoystick" class="touch-joystick" aria-hidden="true">
+        <div class="joystick-base"></div>
+        <div class="joystick-pip"></div>
+      </div>
+      <div id="mobileControls" class="mobile-controls" aria-label="Mobile game controls">
+        <button id="mobileFullscreenToggle" type="button">Fullscreen</button>
+        <button id="mobilePauseToggle" type="button">Pause</button>
+        <button id="mobileMusicToggle" type="button">Music On</button>
+        <button id="mobileMenuToggle" type="button">Menu</button>
+      </div>
+    </section>
+    <aside class="hud" aria-label="Run state">
+      <div class="brand">Marrow Runner <span class="version">v0.9.0-rc3</span></div>
+      <h1>Antibody Circuit</h1>
+      <div class="stat"><span>Antibodies</span><strong id="antibodyCount">0 / 0</strong></div>
+      <div class="stat"><span>Complement</span><strong id="complementState">Dormant</strong></div>
+      <div class="stat"><span>Zone</span><strong id="zoneState">Marrow</strong></div>
+      <div class="stat"><span>Fever</span><strong id="feverValue">0%</strong></div>
+      <div class="meter"><div id="feverFill"></div></div>
+      <div class="stat"><span>State</span><strong id="runState">Collect antibodies</strong></div>
+      <div class="controls">
+        <button id="restart" type="button">Restart</button>
+        <button id="pauseToggle" type="button">Pause</button>
+        <button id="musicToggle" type="button">Music On</button>
+        <button id="fullscreenToggle" type="button">Fullscreen</button>
+        <button id="menuToggle" type="button">Menu</button>
+        <button id="debugToggle" type="button">Debug</button>
+      </div>
+      <p class="hint">Collect every antibody, then enter the lymph gate.</p>
+    </aside>
+  </main>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>

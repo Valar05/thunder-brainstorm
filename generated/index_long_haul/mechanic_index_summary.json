@@ -1,0 +1,1092 @@
+{
+  "record_count": 5767,
+  "by_origin": {
+    "github": 5767
+  },
+  "by_project": {
+    "long-haul": 5767
+  },
+  "by_mechanic": {
+    "vehicle_survival": 4691,
+    "ai_pressure": 1365,
+    "tts_audio_pipeline": 562,
+    "web_choice_player": 287,
+    "asset_import_pipeline": 267,
+    "resource_upgrade_loop": 223,
+    "touch_lane_combat": 204,
+    "pose_animation_tools": 194,
+    "text_console_runtime": 160,
+    "writing_corpus_review": 82,
+    "deck_pressure": 29,
+    "source_packet_generation": 25,
+    "validation_pipeline": 10
+  },
+  "examples": {
+    "ai_pressure": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "project.godot",
+        "line": 14,
+        "symbol": "run/main_scene",
+        "evidence": "run/main_scene=\"uid://6iyy776jej33\"",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/project.godot#L14"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 32,
+        "symbol": "",
+        "evidence": "- `throttle_input`: scales high-band gain + transient trigger probability.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L32"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 33,
+        "symbol": "",
+        "evidence": "- `vehicle_speed_mps`: scales tire rolling layer gain and LPF cutoff.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L33"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 41,
+        "symbol": "",
+        "evidence": "4. Normalize conservatively (headroom retained).",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L41"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 1,
+        "symbol": "",
+        "evidence": "extends Sprite3D",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L1"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 3,
+        "symbol": "",
+        "evidence": "signal destroyed",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L3"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 5,
+        "symbol": "",
+        "evidence": "const APC_TEXTURE := preload(\"res://apc.png\")",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L5"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 6,
+        "symbol": "",
+        "evidence": "const DESTRUCTION_STRIPS_3D_SHADER := preload(\"res://shaders/destruction_strips_3d.gdshader\")",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L6"
+      }
+    ],
+    "tts_audio_pipeline": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "project.godot",
+        "line": 18,
+        "symbol": "",
+        "evidence": "[audio]",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/project.godot#L18"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 1,
+        "symbol": "Audio Pipeline Usage",
+        "evidence": "# Audio Pipeline Usage",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L1"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 3,
+        "symbol": "What Was Added",
+        "evidence": "## What Was Added",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L3"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 4,
+        "symbol": "",
+        "evidence": "- Manifest: `audio/freesound_cc_manifest.json`",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L4"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 5,
+        "symbol": "",
+        "evidence": "- Downloader: `scripts/download_freesound_previews.py`",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L5"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 6,
+        "symbol": "",
+        "evidence": "- Loop processor: `scripts/prepare_vehicle_loops.py`",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L6"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 7,
+        "symbol": "",
+        "evidence": "- Attribution file: `audio/ATTRIBUTION.md`",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L7"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 9,
+        "symbol": "Download CC Preview Assets",
+        "evidence": "## Download CC Preview Assets",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L9"
+      }
+    ],
+    "web_choice_player": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "project.godot",
+        "line": 35,
+        "symbol": "",
+        "evidence": "[rendering]",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/project.godot#L35"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "project.godot",
+        "line": 37,
+        "symbol": "",
+        "evidence": "renderer/rendering_method=\"mobile\"",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/project.godot#L37"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 5,
+        "symbol": "",
+        "evidence": "- Downloader: `scripts/download_freesound_previews.py`",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L5"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 9,
+        "symbol": "Download CC Preview Assets",
+        "evidence": "## Download CC Preview Assets",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L9"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 11,
+        "symbol": "",
+        "evidence": "c:/Users/dclar/workspace/long-haul/.venv-1/Scripts/python.exe scripts/download_freesound_previews.py",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L11"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 10,
+        "symbol": "",
+        "evidence": "4. Decel/coast loop: low-load engine/brake-engine tone.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L10"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 38,
+        "symbol": "",
+        "evidence": "1. Download candidate Freesound previews + keep source metadata.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L38"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "- `audio/raw_previews/`: original downloaded previews.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L46"
+      }
+    ],
+    "asset_import_pipeline": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "project.godot",
+        "line": 38,
+        "symbol": "",
+        "evidence": "textures/vram_compression/import_etc2_astc=true",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/project.godot#L38"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 4,
+        "symbol": "",
+        "evidence": "- Manifest: `audio/freesound_cc_manifest.json`",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L4"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 7,
+        "symbol": "",
+        "evidence": "- Attribution file: `audio/ATTRIBUTION.md`",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L7"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 9,
+        "symbol": "Download CC Preview Assets",
+        "evidence": "## Download CC Preview Assets",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L9"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 4,
+        "symbol": "",
+        "evidence": "Build a convincing vehicle audio system for Long Haul using only Creative Commons assets from Freesound (CC0 first, CC-BY optional).",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L4"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 8,
+        "symbol": "",
+        "evidence": "2. Engine mid/high loop: blended by RPM.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L8"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 17,
+        "symbol": "Asset Targets",
+        "evidence": "## Asset Targets",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L17"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 18,
+        "symbol": "",
+        "evidence": "- Source quality: 44.1 kHz+ preferred, mono or stereo accepted.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L18"
+      }
+    ],
+    "vehicle_survival": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 6,
+        "symbol": "",
+        "evidence": "- Loop processor: `scripts/prepare_vehicle_loops.py`",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L6"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 16,
+        "symbol": "",
+        "evidence": "c:/Users/dclar/workspace/long-haul/.venv-1/Scripts/python.exe scripts/prepare_vehicle_loops.py --in audio/raw_previews --out audio/processed --target-sr 48000 --fade-ms 25 --xfa...",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L16"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 29,
+        "symbol": "",
+        "evidence": "- Use separate players/buses for engine, tire roll, and slip layers.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L29"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 30,
+        "symbol": "",
+        "evidence": "- Crossfade engine layers by normalized RPM.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L30"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 31,
+        "symbol": "",
+        "evidence": "- Drive slip loop volume from tire slip ratio.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L31"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 32,
+        "symbol": "",
+        "evidence": "- Trigger one-shot skid samples when slip crosses a threshold.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L32"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 1,
+        "symbol": "Vehicle/Tire Audio Sourcing Plan (CC-Only)",
+        "evidence": "# Vehicle/Tire Audio Sourcing Plan (CC-Only)",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L1"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 4,
+        "symbol": "",
+        "evidence": "Build a convincing vehicle audio system for Long Haul using only Creative Commons assets from Freesound (CC0 first, CC-BY optional).",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L4"
+      }
+    ],
+    "pose_animation_tools": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 26,
+        "symbol": "",
+        "evidence": "- Keep normalization conservative (`--peak-db -1` to `-3`) to avoid clipping in game mix.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L26"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 32,
+        "symbol": "",
+        "evidence": "- Trigger one-shot skid samples when slip crosses a threshold.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L32"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 32,
+        "symbol": "",
+        "evidence": "- `throttle_input`: scales high-band gain + transient trigger probability.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L32"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 35,
+        "symbol": "",
+        "evidence": "- `tire_slip_norm` in [0, 1]: fades slip loop + triggers skid one-shots.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L35"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 39,
+        "symbol": "",
+        "evidence": "2. Trim each clip into loop-ready segments.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L39"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "- `audio/raw_previews/`: original downloaded previews.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L46"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 531,
+        "symbol": "apply_spike_damage",
+        "evidence": "func apply_spike_damage(amount: float) -> bool:",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L531"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 23,
+        "symbol": "",
+        "evidence": "@onready var _steering_right_hint: Label = $SteeringGuide/RightLabel",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L23"
+      }
+    ],
+    "deck_pressure": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_pipeline_usage.md",
+        "line": 32,
+        "symbol": "",
+        "evidence": "- Trigger one-shot skid samples when slip crosses a threshold.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_pipeline_usage.md#L32"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 305,
+        "symbol": "",
+        "evidence": "trail.draw_order = GPUParticles3D.DRAW_ORDER_LIFETIME",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L305"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 310,
+        "symbol": "",
+        "evidence": "var tracer_mesh := trail.draw_pass_1 as RibbonTrailMesh",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L310"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 344,
+        "symbol": "",
+        "evidence": "tracer_material.depth_draw_mode = BaseMaterial3D.DEPTH_DRAW_ALWAYS",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L344"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 359,
+        "symbol": "",
+        "evidence": "trail.draw_pass_1 = tracer_mesh",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L359"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 426,
+        "symbol": "",
+        "evidence": "var tracer_mesh := trail.draw_pass_1 as RibbonTrailMesh",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L426"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/split_tree_atlas.py",
+        "line": 19,
+        "symbol": "",
+        "evidence": "\"--bg-threshold\",",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/split_tree_atlas.py#L19"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/split_tree_atlas.py",
+        "line": 160,
+        "symbol": "find_active_runs",
+        "evidence": "def find_active_runs(activity: np.ndarray, threshold: int) -> list[tuple[int, int]]:",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/split_tree_atlas.py#L160"
+      }
+    ],
+    "text_console_runtime": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 41,
+        "symbol": "",
+        "evidence": "4. Normalize conservatively (headroom retained).",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L41"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 15,
+        "symbol": "",
+        "evidence": "@onready var _dashboard_sprite: Sprite2D = get_node_or_null(\"Sprite2D\") as Sprite2D",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L15"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 44,
+        "symbol": "",
+        "evidence": "@onready var _retry_button: Button = $GameOverOverlay/RetryButton",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L44"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 45,
+        "symbol": "",
+        "evidence": "@onready var _pause_button: Button = $PauseButton",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L45"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 46,
+        "symbol": "",
+        "evidence": "@onready var _settings_button: Button = $SettingsButton",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L46"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 53,
+        "symbol": "",
+        "evidence": "@onready var _level_up_action_1: Button = $LevelUpPanel/ActionButton1",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L53"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 54,
+        "symbol": "",
+        "evidence": "@onready var _level_up_action_2: Button = $LevelUpPanel/ActionButton2",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L54"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 55,
+        "symbol": "",
+        "evidence": "@onready var _level_up_action_3: Button = $LevelUpPanel/ActionButton3",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L55"
+      }
+    ],
+    "validation_pipeline": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 43,
+        "symbol": "",
+        "evidence": "6. Audition and replace weak candidates with alternates.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L43"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_audio.gd",
+        "line": 53,
+        "symbol": "",
+        "evidence": "@export var debug_force_idle_audition := true",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_audio.gd#L53"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_audio.gd",
+        "line": 86,
+        "symbol": "",
+        "evidence": "if debug_force_idle_audition:",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_audio.gd#L86"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_audio.gd",
+        "line": 98,
+        "symbol": "",
+        "evidence": "if debug_force_idle_audition and debug_use_test_tone:",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_audio.gd#L98"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_audio.gd",
+        "line": 101,
+        "symbol": "",
+        "evidence": "if debug_force_idle_audition:",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_audio.gd#L101"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_audio.gd",
+        "line": 103,
+        "symbol": "",
+        "evidence": "_force_debug_idle_audition()",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_audio.gd#L103"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_audio.gd",
+        "line": 132,
+        "symbol": "",
+        "evidence": "if debug_force_idle_audition:",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_audio.gd#L132"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_audio.gd",
+        "line": 141,
+        "symbol": "",
+        "evidence": "if debug_force_idle_audition:",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_audio.gd#L141"
+      }
+    ],
+    "writing_corpus_review": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "docs/audio_sourcing_plan.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "- `audio/raw_previews/`: original downloaded previews.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/docs/audio_sourcing_plan.md#L46"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/split_tree_atlas.py",
+        "line": 268,
+        "symbol": "",
+        "evidence": "original_alpha = rgba_array[:, :, 3]",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/split_tree_atlas.py#L268"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/split_tree_atlas.py",
+        "line": 269,
+        "symbol": "",
+        "evidence": "has_meaningful_alpha = bool(np.any(original_alpha < 250))",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/split_tree_atlas.py#L269"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/split_tree_atlas.py",
+        "line": 277,
+        "symbol": "",
+        "evidence": "foreground_mask |= original_alpha > 0",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/split_tree_atlas.py#L277"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/split_tree_atlas.py",
+        "line": 297,
+        "symbol": "",
+        "evidence": "export_rgba[:, :, 3] = np.where(foreground_mask, original_alpha, 0).astype(np.uint8)",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/split_tree_atlas.py#L297"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_audio.gd",
+        "line": 38,
+        "symbol": "",
+        "evidence": "## Minimum drift amount (0–1) to start blending in the slip loop.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_audio.gd#L38"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_audio.gd",
+        "line": 39,
+        "symbol": "",
+        "evidence": "@export_range(0.0, 1.0, 0.05) var slip_onset_drift := 0.15",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_audio.gd#L39"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_audio.gd",
+        "line": 40,
+        "symbol": "",
+        "evidence": "## Drift amount at which slip loop is at full volume.",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_audio.gd#L40"
+      }
+    ],
+    "touch_lane_combat": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 14,
+        "symbol": "",
+        "evidence": "@export var lane_center_x := -1.0354184",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L14"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 17,
+        "symbol": "",
+        "evidence": "@export var attack_distance_feet := 30.0",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L17"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 22,
+        "symbol": "",
+        "evidence": "@export var attack_fire_interval := 1.15",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L22"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 119,
+        "symbol": "",
+        "evidence": "global_position = Vector3(lane_center_x, ground_y + (sprite_height * 0.5), player.global_position.z - (_road_forward_sign * follow_distance))",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L119"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 124,
+        "symbol": "",
+        "evidence": "var attack_distance := _get_attack_distance()",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L124"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 131,
+        "symbol": "",
+        "evidence": "var in_attack_range := player_gap <= attack_distance",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L131"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 132,
+        "symbol": "",
+        "evidence": "if in_attack_range:",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L132"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 137,
+        "symbol": "",
+        "evidence": "_fire_cooldown = attack_fire_interval",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L137"
+      }
+    ],
+    "source_packet_generation": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 327,
+        "symbol": "",
+        "evidence": "trail.transform_align = GPUParticles3D.TRANSFORM_ALIGN_Y_TO_VELOCITY",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L327"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 136,
+        "symbol": "",
+        "evidence": "var _vehicle_hud_base_transform := Transform3D.IDENTITY",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L136"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 340,
+        "symbol": "",
+        "evidence": "_rear_mirror_camera.global_transform = _rear_camera_anchor.global_transform",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L340"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 695,
+        "symbol": "",
+        "evidence": "_vehicle_hud_base_transform = _vehicle_hud_root.transform",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L695"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 712,
+        "symbol": "",
+        "evidence": "var rotated_basis := _vehicle_hud_base_transform.basis * Basis.from_euler(Vector3(deg_to_rad(_vehicle_hud_pitch_deg), 0.0, deg_to_rad(_vehicle_hud_roll_deg)))",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L712"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 713,
+        "symbol": "",
+        "evidence": "_vehicle_hud_root.transform = Transform3D(rotated_basis, _vehicle_hud_base_transform.origin)",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L713"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/outline_mask_camera.gd",
+        "line": 18,
+        "symbol": "",
+        "evidence": "global_transform = _source_camera.global_transform",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/outline_mask_camera.gd#L18"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/vehicle_controller.gd",
+        "line": 383,
+        "symbol": "",
+        "evidence": "var _weapon_mount_relative_to_nose := Transform3D.IDENTITY",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/vehicle_controller.gd#L383"
+      }
+    ],
+    "resource_upgrade_loop": [
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 471,
+        "symbol": "",
+        "evidence": "if zombie.get_meta(&\"harvested\", false):",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L471"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 490,
+        "symbol": "",
+        "evidence": "if zombie.get_meta(&\"harvested\", false):",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L490"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 492,
+        "symbol": "",
+        "evidence": "zombie.set_meta(&\"harvested\", true)",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L492"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/apc_chaser.gd",
+        "line": 553,
+        "symbol": "",
+        "evidence": "_destruction_material.resource_local_to_scene = true",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/apc_chaser.gd#L553"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 51,
+        "symbol": "",
+        "evidence": "@onready var _level_up_resource_label: Label = $LevelUpPanel/ResourceLabel",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L51"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 57,
+        "symbol": "",
+        "evidence": "@onready var _merchant_resource_label: Label = $MerchantPanel/ResourceLabel",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L57"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 1018,
+        "symbol": "",
+        "evidence": "_merchant_resource_label.text = \"Corn %d Fuel %.1f / %.1f gal\" % [_corn_count, _fuel_gas, _fuel_capacity_gas]",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L1018"
+      },
+      {
+        "origin": "github",
+        "project": "long-haul",
+        "repo": "Valar05/long-haul",
+        "path": "scripts/cockpit_hud.gd",
+        "line": 1025,
+        "symbol": "",
+        "evidence": "_merchant_resource_label.text = \"Trees %d Plates %d/10 Armor %d Mounts %d/2 Spikes %d\" % [_tree_count, _ram_plates, _car_armor_count, _gun_mounts, _spike_kits]",
+        "source_url": "https://github.com/Valar05/long-haul/blob/HEAD/scripts/cockpit_hud.gd#L1025"
+      }
+    ]
+  }
+}

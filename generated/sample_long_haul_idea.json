@@ -1,0 +1,60 @@
+{
+  "ideas": [
+    {
+      "title": "Signal-Garrison",
+      "focus": "long-haul vehicle survivorlike",
+      "tone": "procedural and readable",
+      "core_fantasy": "The player inhabits this premise: a constrained moving vessel, body, machine, or route becomes the dungeon, making navigation, repair, threat, and identity overlap.",
+      "pattern_stack": [
+        "highway_vehicle_survivorlike",
+        "layered_vehicle_audio_model",
+        "cockpit_hud_gesture_zones",
+        "pursuer_rearm_gap",
+        "vehicle_body_as_dungeon"
+      ],
+      "player_loop": [
+        "Read a concrete situation shaped by vehicle or body as dungeon.",
+        "Choose how to interrupt the bodies through cockpit hud gesture zones.",
+        "Spend, gain, or contaminate one visible state axis.",
+        "Let layered vehicle audio model alter the next draw or route.",
+        "Resolve a later echo that proves the previous choice mattered."
+      ],
+      "signature_systems": [
+        "Highway vehicle survivorlike: make lane pressure a player-facing rule, not just lore.",
+        "Layered vehicle audio model: make license manifest a production constraint with a visible review or validation step.",
+        "Cockpit HUD gesture zones: make dashboard frame a player-facing rule, not just lore.",
+        "Pursuer rearm gap: make health/readiness a player-facing rule, not just lore."
+      ],
+      "content_pipeline": [
+        "Start from layered vehicle audio model.",
+        "Keep prose, mechanics, and validation as separate artifacts.",
+        "Accept content only when choices produce readable state changes and later consequences."
+      ],
+      "prototype_scope": [
+        "One arena or board state.",
+        "Three repeatable event templates.",
+        "Two resource axes and one delayed consequence queue.",
+        "One review command that prints why each event was selected."
+      ],
+      "validation_plan": [
+        "Create a tiny schema for rooms/events/actions before writing content.",
+        "Generate 6-10 sample records and run an action-ID/dangling-reference audit.",
+        "Build one review surface or CLI output that shows state before and after each choice.",
+        "Prototype the riskiest piece first: Invisible cooldown rules."
+      ],
+      "design_questions": [
+        "What forces the player to change lanes?",
+        "Can repair become transformation?",
+        "What resource makes stopping tempting?",
+        "Which parameter controls each layer?",
+        "What converts contact into harvest, flee, or death?"
+      ],
+      "early_risks": [
+        "Unreadable state at speed",
+        "Contact damage spam",
+        "Endless-road repetition",
+        "Too many named compartments"
+      ]
+    }
+  ]
+}

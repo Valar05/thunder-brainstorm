@@ -1,0 +1,60 @@
+{
+  "ideas": [
+    {
+      "title": "Debt-Convoy",
+      "focus": "pose animation combat",
+      "tone": "procedural and readable",
+      "core_fantasy": "The player inhabits this premise: a power is designed with at least one encounter use, one out-of-encounter use, and one delayed surprising use so it changes both tactics and story routes.",
+      "pattern_stack": [
+        "touch_lane_combat",
+        "contact_to_duel_handoff",
+        "multi_use_power_mutation",
+        "pose_lab_animation_retargeting",
+        "asset_sourcing_manifest_pipeline"
+      ],
+      "player_loop": [
+        "Read a concrete situation shaped by multi-use power mutation.",
+        "Choose how to interpret the pressure through contact-to-duel handoff.",
+        "Spend, gain, or contaminate one visible state axis.",
+        "Let multi-use power mutation alter the next draw or route.",
+        "Resolve a later echo that proves the previous choice mattered."
+      ],
+      "signature_systems": [
+        "Touch lane combat with buffered intent: make block/cancel windows a player-facing rule, not just lore.",
+        "Contact-to-duel handoff: make duel camera a player-facing rule, not just lore.",
+        "Multi-use power mutation: make identity shift a player-facing rule, not just lore.",
+        "Pose lab animation retargeting: make skeleton profile a production constraint with a visible review or validation step."
+      ],
+      "content_pipeline": [
+        "Start from pose lab animation retargeting.",
+        "Keep prose, mechanics, and validation as separate artifacts.",
+        "Accept content only when choices produce readable state changes and later consequences."
+      ],
+      "prototype_scope": [
+        "One arena or board state.",
+        "Three repeatable event templates.",
+        "Two resource axes and one delayed consequence queue.",
+        "One review command that prints why each event was selected."
+      ],
+      "validation_plan": [
+        "Create a tiny schema for rooms/events/actions before writing content.",
+        "Generate 6-10 sample records and run an action-ID/dangling-reference audit.",
+        "Build one review surface or CLI output that shows state before and after each choice.",
+        "Prototype the riskiest piece first: Single-purpose upgrade."
+      ],
+      "design_questions": [
+        "How does the camera show commitment?",
+        "How can motion be compared across clips?",
+        "What does it contaminate or reveal later?",
+        "What needs attribution?",
+        "What does this power solve immediately?"
+      ],
+      "early_risks": [
+        "Animation lock fighting player intent",
+        "Prototype assets becoming undocumented canon",
+        "Flow interruption",
+        "Sticky targeting"
+      ]
+    }
+  ]
+}

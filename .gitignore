@@ -1,0 +1,19 @@
+# Local tool caches and downloaded binaries
+.tools/
+prototypes/*/.tools/
+.cache/
+__pycache__/
+*.pyc
+
+# Generated upload packages; rebuild from project sources
+release/*.zip
+prototypes/*/release/*.zip
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# Dependency folders
+node_modules/

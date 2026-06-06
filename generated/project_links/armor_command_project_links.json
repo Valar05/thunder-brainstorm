@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "captured": "2026-06-05",
+  "project": "armor_command",
+  "paths": {
+    "project_root": "/storage/emulated/0/Documents/GodotProjects/armor-command",
+    "page_copy_source": "/storage/emulated/0/Documents/GodotProjects/armor-command/docs/armor_command_page_copy.md",
+    "page_copy_release": "/storage/emulated/0/Documents/GodotProjects/armor-command/release/page_assets/armor_command_page_copy.md",
+    "icon_source": "/storage/emulated/0/Documents/GodotProjects/armor-command/assets/page/armor_command_icon_source.png",
+    "icon_1024": "/storage/emulated/0/Documents/GodotProjects/armor-command/assets/page/armor_command_icon_1024.png",
+    "icon_512": "/storage/emulated/0/Documents/GodotProjects/armor-command/assets/page/armor_command_icon_512.png",
+    "icon_release_512": "/storage/emulated/0/Documents/GodotProjects/armor-command/release/page_assets/armor_command_icon_512.png",
+    "thunder_devlog_v1": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/release_packets/armor_command_itch/DEVLOG_v1.0.0.md",
+    "thunder_twitter_v1": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/release_packets/armor_command_itch/TWITTER_v1.0.0.md"
+  },
+  "urls": {
+    "local_play": "http://127.0.0.1:8791/",
+    "published_itch": "https://valarsbeard.itch.io/armor-command"
+  },
+  "copy_summary": "Mobile-first missile command survivorlike with side-view armor platform, tap interceptors, hold turret fire, wave pressure, upgrades, and local personal best.",
+  "icon_prompt": "Square no-text game icon: blue-white-gold side-view futuristic armor/tank firing an interceptor into a teal night sky with a small explosion bloom.",
+  "latest_itch_upload": {
+    "published_page": "https://valarsbeard.itch.io/armor-command",
+    "butler_target": "valarsbeard/armor-command:html",
+    "upload": "#17814005",
+    "build": "#1709620 (from #1708801)",
+    "version": "v1.0.1-2026-06-06",
+    "uploaded_date": "2026-06-06",
+    "changes": [
+      "Reduced drop pod density escalation so wave 7+ is less clogged while preserving total wave pressure.",
+      "Added a small late-wave drop pod HP bump so fewer pods remain meaningful targets.",
+      "Cache-busted src/main.js as v1.0.1-2026-06-06 for hosted itch playback."
+    ]
+  },
+  "devlog": {
+    "label": "Armor Command v1.0 devlog",
+    "path": "generated/release_packets/armor_command_itch/DEVLOG_v1.0.0.md",
+    "style_reference": "Marrow Runner scribe devlog",
+    "doc_server_url": "http://127.0.0.1:8765/generated/release_packets/armor_command_itch/DEVLOG_v1.0.0.md"
+  },
+  "twitter_post": {
+    "label": "Armor Command v1.0 Twitter/X copy",
+    "path": "generated/release_packets/armor_command_itch/TWITTER_v1.0.0.md",
+    "primary_character_count": 230,
+    "link": "https://valarsbeard.itch.io/armor-command"
+  }
+}

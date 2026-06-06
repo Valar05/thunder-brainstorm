@@ -1,0 +1,333 @@
+# Mechanic Code Source Examples
+
+Prioritized source-code and schema references from the combined local/GitHub/Cauldron corpus index. Evidence lines are compact excerpts with exact path and line references.
+
+## ai_pressure
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L39 `_ready`
+  - func _ready():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L48 `_process`
+  - func _process(delta: float) -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L52 `damage`
+  - func damage(amount: int, focus: bool = true):
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L61 `die`
+  - func die():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L64 `_input`
+  - func _input(event: InputEvent):
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L81 `is_in_sprite`
+  - func is_in_sprite(event):
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L93 `_on_animation_player_animation_finished`
+  - func _on_animation_player_animation_finished(anim_name: StringName) -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L98 `narrate_status`
+  - func narrate_status():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L142 `_act`
+  - func _act():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L169 `play_effects`
+  - func play_effects(effects_to_play):
+
+## asset_import_pipeline
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L62 `subscirbe_shader_stage`
+  - func subscirbe_shader_stage(shader_stage: ShaderStageResource):
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L71 `unsubscribe_shader_stage`
+  - func unsubscribe_shader_stage(shader_stage: ShaderStageResource):
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L107 `generate_shader_stage`
+  - func generate_shader_stage(shader_stage: ShaderStageResource):
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L206 `dispatch_stage`
+  - func dispatch_stage(stage: ShaderStageResource, uniforms: Array[RDUniform], push_constants: PackedByteArray, dispatch_size: Vector3i, label: String = "DefaultLabel", view: int =...
+- cauldron project=OpenAiUtils source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/OpenAiUtils\audio_parser.py#L43 `try_import_whisper`
+  - def try_import_whisper():
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scenes\phoenix.gd#L185 `_update_glide_blend`
+  - func _update_glide_blend() -> void:
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scenes\phoenix.gd#L702 `_update_tail_space_blend`
+  - func _update_tail_space_blend() -> void:
+- cauldron project=arcanachoir source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\scenes\battle_manager.gd#L243 `_configure_note_accessibility`
+  - func _configure_note_accessibility(note: Control, note_type: String, note_index: int, source_unit: Node = null, source_enemy: Node = null) -> void:
+- cauldron project=arcanachoir source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\scenes\note.gd#L20 `configure_accessibility`
+  - func configure_accessibility(note_type: String, note_index: int = 1, source_unit: Node = null, source_enemy: Node = null) -> void:
+- cauldron project=gravity-fist source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/gravity-fist\scenes\ai_controller.gd#L1536 `_get_locomotion_blend_from_velocity`
+  - func _get_locomotion_blend_from_velocity(v: Vector3) -> Vector2:
+
+## deck_pressure
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\card_draw.gd#L28 `_on_button_pressed`
+  - func _on_button_pressed() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\game_manager.gd#L78 `load_player_deck`
+  - func load_player_deck():
+- cauldron project=arcanachoir source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcanachoir\scenes\card_manager.gd#L306 `_build_current_deck`
+  - func _build_current_deck() -> void:
+- cauldron project=fleshpunk--inner-heart source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/fleshpunk--inner-heart\run_manager.gd#L138 `get_danger_bpm`
+  - func get_danger_bpm() -> float:
+- cauldron project=fleshpunk--inner-heart source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/fleshpunk--inner-heart\run_manager.gd#L167 `_build_base_deck_room_ids`
+  - func _build_base_deck_room_ids() -> Array[String]:
+- cauldron project=fleshpunk--inner-heart source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/fleshpunk--inner-heart\run_manager.gd#L198 `_ensure_room_type_in_deck`
+  - func _ensure_room_type_in_deck(chosen_rooms: Array[String], event_type: String) -> void:
+- cauldron project=fleshpunk--inner-heart source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/fleshpunk--inner-heart\run_manager.gd#L241 `_reset_active_deck`
+  - func _reset_active_deck() -> void:
+- cauldron project=fleshpunk--inner-heart source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/fleshpunk--inner-heart\run_manager.gd#L386 `_draw_room_encounter`
+  - func _draw_room_encounter() -> Dictionary:
+- cauldron project=fleshpunk--inner-heart source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/fleshpunk--inner-heart\run_manager.gd#L885 `_draw_room_from_pool`
+  - func _draw_room_from_pool(pool_ids: Array[String], already_chosen: Array[String]) -> String:
+- cauldron project=fleshpunk--inner-heart source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/fleshpunk--inner-heart\world.gd#L82 `_on_heart_pulse`
+  - func _on_heart_pulse(current_bpm: float) -> void:
+
+## delayed_consequences
+- cauldron project=Spice-of-Life source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Spice-of-Life\static\main.js#L1222 `hookChatToRecipeChanges`
+  - function hookChatToRecipeChanges() {
+- cauldron project=diorama-of-descencion source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/diorama-of-descencion\scripts\player.gd#L422 `_start_parry_followup_attack`
+  - func _start_parry_followup_attack() -> void:
+- cauldron project=diorama-of-descencion source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/diorama-of-descencion\scripts\player.gd#L446 `_hold_combo_followup_kind`
+  - func _hold_combo_followup_kind(combo_hits: int) -> String:
+- cauldron project=diorama-of-descencion source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/diorama-of-descencion\scripts\player.gd#L456 `_queue_hold_combo_followup`
+  - func _queue_hold_combo_followup(combo_hits: int) -> void:
+- cauldron project=diorama-of-descencion source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/diorama-of-descencion\scripts\player.gd#L464 `_clear_hold_combo_followup`
+  - func _clear_hold_combo_followup() -> void:
+- cauldron project=diorama-of-descencion source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/diorama-of-descencion\scripts\player.gd#L487 `_consume_hold_combo_followup`
+  - func _consume_hold_combo_followup() -> void:
+- cauldron project=diorama-of-descencion source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/diorama-of-descencion\tools\parry_followup_test.gd#L4 `_ready`
+  - func _ready() -> void:
+- cauldron project=diorama-of-descencion source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/diorama-of-descencion\tools\parry_followup_test.gd#L8 `_run_test`
+  - func _run_test() -> void:
+- cauldron project=gravity-fist source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/gravity-fist\scripts\player.gd#L1164 `_notify_style_hit_hook`
+  - func _notify_style_hit_hook(hit_count: int, move_data) -> void:
+- github project=legion-writing-tool repo=Valar05/legion-writing-tool source=https://github.com/Valar05/legion-writing-tool/blob/HEAD/tools/legion_cli.py#L313 `ingest_memory_inbox`
+  - def ingest_memory_inbox() -> int:
+
+## event_clouds
+- cauldron project=gravity-fist source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/gravity-fist\scenes\ai_controller.gd#L273 `_get_hit_reaction_duration`
+  - func _get_hit_reaction_duration(hit_reaction: String) -> float:
+- cauldron project=gravity-fist source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/gravity-fist\scenes\ai_controller.gd#L1181 `_get_player_hit_reaction`
+  - func _get_player_hit_reaction() -> String:
+- cauldron project=gravity-fist source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/gravity-fist\scenes\ai_controller.gd#L1736 `_get_blood_spray_direction`
+  - func _get_blood_spray_direction(hit_reaction: String) -> Vector3:
+- cauldron project=gravity-fist source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/gravity-fist\scenes\ai_controller.gd#L1747 `_spawn_blood_spray`
+  - func _spawn_blood_spray(hit_reaction: String) -> void:
+- cauldron project=gravity-fist source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/gravity-fist\scenes\ai_controller.gd#L1782 `take_damage`
+  - func take_damage(amount: float, hit_reaction: String = "", knockback_vel: Vector3 = Vector3.ZERO, attack_context: Dictionary = {}) -> void:
+- cauldron project=gravity-fist source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/gravity-fist\scripts\player.gd#L676 `_spawn_blood_spray`
+  - func _spawn_blood_spray(hit_reaction: String) -> void:
+- cauldron project=gravity-fist source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/gravity-fist\scripts\player.gd#L1713 `take_damage`
+  - func take_damage(amount: float, hit_reaction: String = "", knockback_vel: Vector3 = Vector3.ZERO, attacker: Node3D = null) -> void:
+- github project=revelation repo=Valar05/revelation source=https://github.com/Valar05/revelation/blob/HEAD/tools/build_new_player_reader_packet.py#L72 `event_lines`
+  - def event_lines(event: dict[str, Any]) -> list[str]:
+- local project=Diorama Descent source=Diorama Descent/assets/legacy/gothic-throne-unused/scripts/ActorVisual.gd:308 `play_hurt_reaction`
+  - func play_hurt_reaction(push_direction: Vector2 = Vector2.ZERO, intensity: float = 1.0, restore_idle_on_finish: bool = true) -> void:
+- local project=Diorama Descent source=Diorama Descent/assets/legacy/gothic-throne-unused/scripts/ActorVisual.gd:569 `_finish_hurt_reaction`
+  - func _finish_hurt_reaction(restore_idle_on_finish: bool) -> void:
+
+## pose_animation_tools
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\foot_ik_root.gd#L4 `_ready`
+  - func _ready():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\foot_ik_root.gd#L12 `_process`
+  - func _process(delta):
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scenes\flying_cam.gd#L277 `_try_trigger_boost`
+  - func _try_trigger_boost() -> void:
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scenes\flying_cam.gd#L295 `_is_right_side_button`
+  - func _is_right_side_button(x: float, viewport_width: float, y: float, viewport_height: float) -> bool:
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scenes\flying_cam.gd#L307 `_is_bottom_right_corner`
+  - func _is_bottom_right_corner(x: float, viewport_width: float, y: float, viewport_height: float) -> bool:
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scenes\foot_ik_root.gd#L4 `_ready`
+  - func _ready():
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scenes\foot_ik_root.gd#L12 `_process`
+  - func _process(delta):
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scenes\phoenix.gd#L302 `trigger_death`
+  - func trigger_death(collision_normal: Vector3 = Vector3.ZERO) -> void:
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scenes\phoenix.gd#L348 `trigger_boost`
+  - func trigger_boost() -> void:
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scenes\skeleton_3d.gd#L4 `_ready`
+  - func _ready():
+
+## resource_upgrade_loop
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L62 `subscirbe_shader_stage`
+  - func subscirbe_shader_stage(shader_stage: ShaderStageResource):
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L71 `unsubscribe_shader_stage`
+  - func unsubscribe_shader_stage(shader_stage: ShaderStageResource):
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L107 `generate_shader_stage`
+  - func generate_shader_stage(shader_stage: ShaderStageResource):
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L206 `dispatch_stage`
+  - func dispatch_stage(stage: ShaderStageResource, uniforms: Array[RDUniform], push_constants: PackedByteArray, dispatch_size: Vector3i, label: String = "DefaultLabel", view: int =...
+- cauldron project=arcane-manifold source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\scripts\player.gd#L303 `_load_upgrades_data`
+  - func _load_upgrades_data():
+- cauldron project=arcane-manifold source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\scripts\player.gd#L332 `get_upgrade_by_name`
+  - func get_upgrade_by_name(upgrade_name: String) -> Dictionary:
+- cauldron project=arcane-manifold source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\scripts\player.gd#L338 `get_random_upgrade`
+  - func get_random_upgrade() -> Dictionary:
+- cauldron project=fleshpunk--inner-heart source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/fleshpunk--inner-heart\run_manager.gd#L294 `_should_offer_merchant`
+  - func _should_offer_merchant() -> bool:
+- cauldron project=fleshpunk--inner-heart source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/fleshpunk--inner-heart\run_manager.gd#L303 `_should_offer_danger_notice`
+  - func _should_offer_danger_notice() -> bool:
+- cauldron project=fleshpunk--inner-heart source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/fleshpunk--inner-heart\run_manager.gd#L312 `_should_offer_corruption_spike_room`
+  - func _should_offer_corruption_spike_room() -> bool:
+
+## source_packet_generation
+- cauldron project=long-haul source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/long-haul\scripts\vehicle_controller.gd#L760 `_sync_weapon_mount_transform`
+  - func _sync_weapon_mount_transform() -> void:
+- cauldron project=long-haul source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/long-haul\scripts\vehicle_controller.gd#L1036 `_transform_aabb_to_node_space`
+  - func _transform_aabb_to_node_space(bounds: AABB, source_node: Node3D, target_node: Node3D) -> AABB:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/corpus_agent.py#L228 `load_json`
+  - def load_json(path: Path) -> dict[str, Any]:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/corpus_agent.py#L236 `write_json`
+  - def write_json(path: Path, payload: dict[str, Any]) -> None:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/corpus_agent.py#L243 `read_text`
+  - def read_text(path: Path) -> str:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/corpus_agent.py#L247 `strip_gutenberg_boilerplate`
+  - def strip_gutenberg_boilerplate(text: str) -> str:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/corpus_agent.py#L257 `count_terms`
+  - def count_terms(text: str, terms: list[str]) -> tuple[int, list[dict[str, int]]]:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/corpus_agent.py#L271 `word_count`
+  - def word_count(text: str) -> int:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/corpus_agent.py#L275 `get_sources`
+  - def get_sources() -> list[dict[str, Any]]:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/corpus_agent.py#L283 `get_room_ids`
+  - def get_room_ids() -> list[str]:
+
+## text_console_runtime
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\card_draw.gd#L28 `_on_button_pressed`
+  - func _on_button_pressed() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\end_turn_button.gd#L7 `_on_pressed`
+  - func _on_pressed() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\end_turn_button.gd#L12 `_ready`
+  - func _ready() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\end_turn_button.gd#L15 `_process`
+  - func _process(delta: float) -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\start.gd#L6 `_on_new_game_button_pressed`
+  - func _on_new_game_button_pressed() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\start.gd#L16 `_on_continue_button_pressed`
+  - func _on_continue_button_pressed() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\start.gd#L21 `_on_exit_button_pressed`
+  - func _on_exit_button_pressed() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\game_manager.gd#L113 `_on_end_turn_button_pressed`
+  - func _on_end_turn_button_pressed() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\pause_button.gd#L6 `_ready`
+  - func _ready() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\pause_button.gd#L11 `_process`
+  - func _process(delta: float) -> void:
+
+## touch_lane_combat
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\enemy.gd#L189 `attack_effects`
+  - func attack_effects():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\player.gd#L77 `_project_on_plane`
+  - func _project_on_plane(v: Vector3, n: Vector3) -> Vector3:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\rowan_o_shea.gd#L136 `do_attack`
+  - func do_attack():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\rowan_o_shea.gd#L144 `attack`
+  - func attack(damage_multi: int, vfx: GPUParticles2D, timing: float, sfx: AudioStream):
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\scenes\player.gd#L127 `process_swipe`
+  - func process_swipe() -> void:
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\scripts\player.gd#L195 `_on_attack_button_pushed`
+  - func _on_attack_button_pushed():
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\scripts\player.gd#L228 `_get_attack_vec`
+  - func _get_attack_vec():
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\scripts\weapon_hitbox.gd#L11 `_ready`
+  - func _ready() -> void:
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\scripts\weapon_hitbox.gd#L17 `_physics_process`
+  - func _physics_process(_delta: float) -> void:
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\scripts\weapon_hitbox.gd#L41 `sweep_sphere`
+  - func sweep_sphere(a: Vector3, b: Vector3, radius := 0.25):
+
+## tts_audio_pipeline
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\audio_manager.gd#L102 `_ready`
+  - func _ready() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\audio_manager.gd#L107 `_process`
+  - func _process(_delta: float) -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\audio_manager.gd#L117 `queue_audio`
+  - func queue_audio(audio_name: String):
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scenes\audio_manager.gd#L262 `play_audio_stream`
+  - func play_audio_stream(new_stream: AudioStream,  audio_bus: String):
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\game_manager.gd#L84 `_save_played_audio`
+  - func _save_played_audio():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\game_manager.gd#L89 `_load_played_audio`
+  - func _load_played_audio():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\rowan_o_shea.gd#L144 `attack`
+  - func attack(damage_multi: int, vfx: GPUParticles2D, timing: float, sfx: AudioStream):
+- cauldron project=OpenAiUtils source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/OpenAiUtils\CreateAudioBook.py#L28 `normalize_unicode`
+  - def normalize_unicode(text):
+- cauldron project=OpenAiUtils source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/OpenAiUtils\CreateAudioBook.py#L48 `tokenize_chunks`
+  - def tokenize_chunks(sentences, max_tokens, model_name="tts-1"):
+- cauldron project=OpenAiUtils source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/OpenAiUtils\CreateAudioBook.py#L69 `apply_pitch_shift`
+  - def apply_pitch_shift(segment, semitones=0.0):
+
+## validation_pipeline
+- cauldron project=long-haul source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/long-haul\scripts\vehicle_audio.gd#L207 `_force_debug_idle_audition`
+  - func _force_debug_idle_audition() -> void:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/amar_creepstride_smoke.gd#L6 `_init`
+  - func _init() -> void:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/amar_creepstride_smoke.gd#L58 `_new_run_manager`
+  - func _new_run_manager():
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/amar_creepstride_smoke.gd#L65 `_advance_past_rooms_to_special`
+  - func _advance_past_rooms_to_special(run_manager, target_event_id: String) -> Dictionary:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/body_option_audit.py#L77 `load_json`
+  - def load_json(path: Path) -> dict[str, Any]:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/body_option_audit.py#L85 `non_empty`
+  - def non_empty(value: Any) -> bool:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/body_option_audit.py#L93 `audit_record`
+  - def audit_record(record: dict[str, Any], required: tuple[str, ...], expected_type: str, location: str) -> list[str]:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/body_option_audit.py#L124 `main`
+  - def main() -> int:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/cadence_and_endings_smoke.gd#L6 `_init`
+  - func _init() -> void:
+- github project=fleshpunk--inner-heart repo=Valar05/fleshpunk--inner-heart source=https://github.com/Valar05/fleshpunk--inner-heart/blob/HEAD/tools/cadence_and_endings_smoke.gd#L91 `_new_run_manager`
+  - func _new_run_manager():
+
+## vehicle_survival
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\player.gd#L77 `_project_on_plane`
+  - func _project_on_plane(v: Vector3, n: Vector3) -> Vector3:
+- cauldron project=Phoenix-Simulator source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Phoenix-Simulator\scripts\player.gd#L78 `_project_on_plane`
+  - func _project_on_plane(v: Vector3, n: Vector3) -> Vector3:
+- cauldron project=arcane-manifold source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/arcane-manifold\scripts\player.gd#L78 `_project_on_plane`
+  - func _project_on_plane(v: Vector3, n: Vector3) -> Vector3:
+- cauldron project=convoy source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/convoy\scripts\ConvoyVehicle.gd#L16 `_ready`
+  - func _ready() -> void:
+- cauldron project=convoy source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/convoy\scripts\ConvoyVehicle.gd#L21 `_physics_process`
+  - func _physics_process(delta: float) -> void:
+- cauldron project=convoy source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/convoy\scripts\ConvoyVehicle.gd#L99 `_on_pickup_zone_body_entered`
+  - func _on_pickup_zone_body_entered(body: Node2D) -> void:
+- cauldron project=convoy source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/convoy\scripts\ConvoyVehicle.gd#L116 `take_damage`
+  - func take_damage(amount):
+- cauldron project=convoy source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/convoy\scripts\ConvoyVehicle.gd#L131 `fix_convoy_chain`
+  - func fix_convoy_chain():
+- cauldron project=convoy source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/convoy\scripts\ConvoyVehicle.gd#L146 `remove_from_convoy`
+  - func remove_from_convoy():
+- cauldron project=convoy source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/convoy\scripts\ConvoyVehicle.gd#L160 `get_chain_position`
+  - func get_chain_position() -> Vector2:
+
+## web_choice_player
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\game_manager.gd#L48 `_save_player_data`
+  - func _save_player_data():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\game_manager.gd#L57 `_load_player_data`
+  - func _load_player_data():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\game_manager.gd#L78 `load_player_deck`
+  - func load_player_deck():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\game_manager.gd#L84 `_save_played_audio`
+  - func _save_played_audio():
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\game_manager.gd#L89 `_load_played_audio`
+  - func _load_played_audio():
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L136 `_render_callback`
+  - func _render_callback(p_effect_callback_type, p_render_data):
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L176 `_render_callback_2`
+  - func _render_callback_2(render_size: Vector2i, render_scene_buffers: RenderSceneBuffersRD, render_scene_data: RenderSceneDataRD):
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\BaseClasses\enhanced_compositor_effect.gd#L179 `ensure_texture`
+  - func ensure_texture(texture_name: StringName, render_scene_buffers: RenderSceneBuffersRD, texture_format: RenderingDevice.DataFormat = RenderingDevice.DATA_FORMAT_R16G16B16A16_S...
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\Debug\post_process_debug.gd#L27 `_render_callback_2`
+  - func _render_callback_2(render_size : Vector2i, render_scene_buffers : RenderSceneBuffersRD, render_scene_data : RenderSceneDataRD):
+- cauldron project=Fleshpunk--Crusade source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Fleshpunk--Crusade\addons\SphynxMotionBlurToolkit\Guertin\guertin_motion_blur.gd#L59 `_render_callback_2`
+  - func _render_callback_2(render_size : Vector2i, render_scene_buffers : RenderSceneBuffersRD, render_scene_data : RenderSceneDataRD):
+
+## writing_corpus_review
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\voxel_chunk.gd#L38 `_ready`
+  - func _ready() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\voxel_chunk.gd#L62 `_exit_tree`
+  - func _exit_tree() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\voxel_chunk.gd#L68 `mark_dirty`
+  - func mark_dirty() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\voxel_chunk.gd#L71 `_process`
+  - func _process(_delta):
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\voxel_chunk.gd#L76 `rebuild_mesh_async`
+  - func rebuild_mesh_async() -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\voxel_chunk.gd#L83 `_start_thread`
+  - func _start_thread(version:int) -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\voxel_chunk.gd#L89 `_thread_build`
+  - func _thread_build(version:int) -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\voxel_chunk.gd#L96 `_apply_arrays`
+  - func _apply_arrays(arrays:Array, version:int) -> void:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\voxel_chunk.gd#L158 `_build_mc_arrays`
+  - func _build_mc_arrays() -> Array:
+- cauldron project=Belly_of_Defiance source=ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/Belly_of_Defiance\scripts\voxel_chunk.gd#L273 `_lerp_local`
+  - func _lerp_local(aL:Vector3, bL:Vector3, va:float, vb:float) -> Vector3:

@@ -1,0 +1,177 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Marrow Runner Canvas Harness</title>
+  <style>
+    html, body {
+      margin: 0;
+      min-height: 100%;
+      background: #090606;
+      color: #f5ead8;
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    * { box-sizing: border-box; }
+    body { padding: 18px; }
+    header { display: flex; justify-content: space-between; gap: 16px; align-items: end; margin-bottom: 16px; }
+    h1 { margin: 0; font-size: 1.35rem; letter-spacing: 0; }
+    p { margin: 4px 0 0; color: #c5aa8d; }
+    button {
+      min-height: 38px;
+      border: 1px solid #8c6042;
+      border-radius: 6px;
+      background: #211512;
+      color: #f5ead8;
+      font: inherit;
+      padding: 0 14px;
+      cursor: pointer;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 16px;
+      align-items: start;
+    }
+    .case {
+      border: 1px solid #5f3a29;
+      border-radius: 8px;
+      background: #160d0b;
+      padding: 12px;
+      box-shadow: 0 18px 60px rgba(0,0,0,.35);
+    }
+    .case h2 { margin: 0 0 8px; font-size: 1rem; letter-spacing: 0; }
+    .viewport {
+      overflow: hidden;
+      border: 1px solid #4b2d22;
+      border-radius: 6px;
+      background: #050303;
+      transform-origin: top left;
+    }
+    iframe {
+      display: block;
+      border: 0;
+      background: #090606;
+      transform-origin: top left;
+    }
+    .results {
+      margin-top: 10px;
+      display: grid;
+      gap: 4px;
+      font: 12px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      color: #c5aa8d;
+    }
+    .pass { color: #9eff7b; }
+    .fail { color: #ff775f; }
+    .warn { color: #ffbf61; }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Marrow Runner Canvas Harness</h1>
+      <p>Viewport fixtures, canvas pixel checks, grid checks, and layout summaries.</p>
+    </div>
+    <button id="rerun" type="button">Run Checks</button>
+  </header>
+  <section id="cases" class="grid"></section>
+
+  <script type="module">
+    const cases = [
+      { id: 'phone', label: 'Phone portrait', width: 390, height: 844, scale: 0.55 },
+      { id: 'tablet', label: 'Tablet portrait', width: 768, height: 1024, scale: 0.38 },
+      { id: 'desktop', label: 'Desktop landscape', width: 1180, height: 760, scale: 0.32 },
+      { id: 'wide', label: 'Wide landscape', width: 1366, height: 768, scale: 0.30 }
+    ];
+
+    const root = document.getElementById('cases');
+
+    function buildCase(testCase) {
+      const card = document.createElement('article');
+      card.className = 'case';
+      const scaledWidth = Math.round(testCase.width * testCase.scale);
+      const scaledHeight = Math.round(testCase.height * testCase.scale);
+      card.innerHTML = `
+        <h2>${testCase.label}</h2>
+        <div class="viewport" style="width:${scaledWidth}px;height:${scaledHeight}px">
+          <iframe title="${testCase.label}" src="index.html?harness=${testCase.id}" width="${testCase.width}" height="${testCase.height}" style="width:${testCase.width}px;height:${testCase.height}px;transform:scale(${testCase.scale})"></iframe>
+        </div>
+        <div class="results" id="results-${testCase.id}"><span class="warn">loading...</span></div>
+      `;
+      root.appendChild(card);
+      return card.querySelector('iframe');
+    }
+
+    const frames = new Map(cases.map(testCase => [testCase.id, { testCase, frame: buildCase(testCase) }]));
+
+    function canvasStats(frame) {
+      const canvas = frame.contentDocument?.getElementById('game');
+      if (!canvas) return null;
+      const ctx = canvas.getContext('2d');
+      const samples = 12;
+      let colored = 0;
+      let varied = new Set();
+      for (let y = 1; y <= samples; y++) {
+        for (let x = 1; x <= samples; x++) {
+          const px = Math.floor((canvas.width * x) / (samples + 1));
+          const py = Math.floor((canvas.height * y) / (samples + 1));
+          const [r, g, b, a] = ctx.getImageData(px, py, 1, 1).data;
+          if (a > 0 && (r + g + b) > 8) colored++;
+          varied.add(`${r >> 4},${g >> 4},${b >> 4}`);
+        }
+      }
+      return { colored, varied: varied.size };
+    }
+
+    function row(label, ok, value) {
+      return `<span class="${ok ? 'pass' : 'fail'}">${ok ? 'PASS' : 'FAIL'}</span> ${label}: ${value}`;
+    }
+
+    async function waitForHarness(frame) {
+      for (let i = 0; i < 60; i++) {
+        const api = frame.contentWindow?.MarrowRunnerHarness;
+        const snapshot = api?.getSnapshot?.();
+        if (snapshot) return snapshot;
+        await new Promise(resolve => setTimeout(resolve, 100));
+      }
+      return null;
+    }
+
+    async function runCase(id, frame, testCase) {
+      const out = document.getElementById(`results-${id}`);
+      const snapshot = await waitForHarness(frame);
+      if (!snapshot) {
+        out.innerHTML = '<span class="fail">FAIL</span> harness API unavailable';
+        return;
+      }
+
+      await new Promise(resolve => setTimeout(resolve, 120));
+      const pixels = canvasStats(frame);
+      const expectedW = snapshot.cols * 32;
+      const expectedH = snapshot.rows * 32;
+      const checks = [
+        row('canvas width', snapshot.canvasWidth === expectedW, `${snapshot.canvasWidth} / ${expectedW}`),
+        row('canvas height', snapshot.canvasHeight === expectedH, `${snapshot.canvasHeight} / ${expectedH}`),
+        row('zones', snapshot.zones.length >= 5, snapshot.zones.map(zone => zone.id).join(',')),
+        row('antibodies', snapshot.totalAntibodies >= 70 && snapshot.totalAntibodies <= 220, snapshot.totalAntibodies),
+        row('walls', snapshot.wallTiles > 80, snapshot.wallTiles),
+        row('complement nodes', snapshot.complementNodes === 3, snapshot.complementNodes),
+        row('nonblank pixels', pixels && pixels.colored > 40, pixels ? `${pixels.colored}/144` : 'no canvas'),
+        row('pixel variation', pixels && pixels.varied > 5, pixels ? pixels.varied : 'no canvas')
+      ];
+      out.innerHTML = [
+        `<span>${snapshot.cols}x${snapshot.rows}, current zone: ${snapshot.currentZone}</span>`,
+        ...checks
+      ].join('');
+    }
+
+    async function runAll() {
+      for (const [id, entry] of frames) runCase(id, entry.frame, entry.testCase);
+    }
+
+    document.getElementById('rerun').addEventListener('click', runAll);
+    for (const [, entry] of frames) entry.frame.addEventListener('load', runAll);
+    runAll();
+  </script>
+</body>
+</html>

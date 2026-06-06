@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "policy": "Repository and workspace observations only. This file records names, metadata, and generalized structural signals, not source code bodies.",
+  "local_workspace": {
+    "root": "/storage/emulated/0/Documents/GodotProjects",
+    "observed_project_clusters": [
+      "Godot mobile/action prototypes",
+      "Godot text-choice roguelike variants",
+      "HTML/JS narrative roguelike prototypes",
+      "Corpus and source-packet tooling",
+      "Local-first writing and critique tools",
+      "TTS/audio manifest pipelines"
+    ],
+    "notable_repeated_files": [
+      "project.godot",
+      "PROJECT_ORIENTATION.md",
+      "AGENTS.md",
+      "tools/project_bootstrap.py",
+      "tools/scenario_agent.py",
+      "tools/corpus_agent.py",
+      "tools/*smoke.gd",
+      "rooms_post_update.json",
+      "events_post_update.json",
+      "encounter_decks_post_update.json"
+    ],
+    "schema_signals": [
+      "schema_version",
+      "content_track",
+      "rooms",
+      "room_events",
+      "special_events",
+      "event_lines",
+      "event_seeds",
+      "domain_pool",
+      "state_axes",
+      "outcome_attractors",
+      "artifacts",
+      "mutations",
+      "symbiotes"
+    ]
+  },
+  "github_metadata": {
+    "account": "Valar05",
+    "sampled_with": "gh repo list plus gh api top-level contents",
+    "repo_clusters": [
+      "survivorlike Godot games",
+      "mobile roguelike Godot games",
+      "choice/web applications",
+      "writing/corpus tooling",
+      "older C#/C++/Scala experiments"
+    ],
+    "repo_names_observed": [
+      "aegis-of-victory",
+      "legion-writing-tool",
+      "fleshpunk--inner-heart",
+      "revelation",
+      "gothic-throne",
+      "diorama-descent",
+      "steam-pile",
+      "gravity-fist",
+      "diorama-of-descension",
+      "long-haul",
+      "club-crucible",
+      "Fleshpunk-Crusade",
+      "Belly-of-defiance",
+      "lava-landing",
+      "arcane-manifold",
+      "fleshpunk-root-of-sorrow",
+      "clarity-engine",
+      "spice-of-life-cookbook",
+      "Spotify-Saver",
+      "fallow-earth",
+      "InfiniteBrutality",
+      "choice-craft-vue",
+      "labyrinth_protocol",
+      "paws-and-claws",
+      "choice-craft-api",
+      "choice-craft",
+      "sprocket-safari",
+      "Forbidden_Path",
+      "inhuman-reaches",
+      "Primal-Conflict",
+      "Beneath-the-Veil",
+      "availity-react",
+      "hemomancy",
+      "mealPlanner",
+      "furyxfx"
+    ]
+  },
+  "second_pass": {
+    "date": "2026-06-03",
+    "scope": [
+      "newer GitHub repos by metadata/tree/docs",
+      "current workspace projects by docs/schema/identifiers",
+      "long-haul targeted remote inspection"
+    ],
+    "phoenix_status": "No phoenix repository, local filename, or GitHub code-search result was found under Valar05 during this pass.",
+    "long_haul_generalized_signals": [
+      "highway vehicle survivorlike",
+      "generated road/world",
+      "cockpit HUD zones",
+      "APC/motorcycle pursuers",
+      "rearm gaps and stop buffers",
+      "ram/spike damage",
+      "layered RPM/tire/slip audio",
+      "Creative Commons audio manifest"
+    ],
+    "local_project_generalized_signals": [
+      "event-cloud web prototypes",
+      "text-console Godot roguelike stacks",
+      "delayed follow-up queues",
+      "TTS manifests",
+      "mobile touch combat",
+      "pose/animation lab",
+      "mining/shop/upgrade microloop",
+      "nondestructive writing lab"
+    ]
+  },
+  "cauldron_workspace": {
+    "host": "THECAULDRON",
+    "user": "dclar",
+    "root": "C:\\Users\\dclar\\workspace",
+    "generated_at": "2026-06-03T20:07:43",
+    "project_count": 28,
+    "project_names": [
+      "arcanachoir",
+      "arcane-manifold",
+      "armorture",
+      "Artsources",
+      "audio",
+      "Belly_of_Defiance",
+      "Clarity-Engine",
+      "ClubCrucible",
+      "convoy",
+      "diorama-of-descencion",
+      "Fleshpunk--Crusade",
+      "fleshpunk--inner-heart",
+      "fleshpunk--root-of-sorrow",
+      "fleshpunk-crusade",
+      "gravity-fist",
+      "lava-landing",
+      "lionheart_lancer",
+      "long-haul",
+      "OpenAiUtils",
+      "Phoenix-Simulator",
+      "ruined_air",
+      "Spice-of-Life",
+      "Spice-of-Life - Copy",
+      "sprites",
+      "steam-pile",
+      "the-murk",
+      "the-unbidden-path",
+      "uftzg"
+    ],
+    "clusters": {
+      "godot": [
+        "arcanachoir",
+        "arcane-manifold",
+        "armorture",
+        "Belly_of_Defiance",
+        "convoy",
+        "diorama-of-descencion",
+        "Fleshpunk--Crusade",
+        "fleshpunk--inner-heart",
+        "fleshpunk--root-of-sorrow",
+        "gravity-fist",
+        "lava-landing",
+        "lionheart_lancer",
+        "long-haul",
+        "Phoenix-Simulator",
+        "ruined_air",
+        "steam-pile",
+        "the-murk",
+        "the-unbidden-path",
+        "uftzg"
+      ],
+      "node_web": [
+        "Clarity-Engine",
+        "ClubCrucible",
+        "Spice-of-Life",
+        "Spice-of-Life - Copy"
+      ],
+      "python_tooling": [
+        "OpenAiUtils"
+      ],
+      "asset_misc": [
+        "Artsources",
+        "audio",
+        "fleshpunk-crusade",
+        "sprites"
+      ]
+    },
+    "notable": [
+      "Phoenix-Simulator exists on Cauldron as a non-git Godot project.",
+      "long-haul exists on Cauldron as a git-backed Godot vehicle survivorlike project.",
+      "Artsources/audio/sprites are source asset libraries that should be treated as corpus but not code projects."
+    ]
+  },
+  "marrow_runner_release_session": {
+    "captured": "2026-06-05",
+    "standalone_project": "/storage/emulated/0/Documents/GodotProjects/marrow-runner",
+    "old_prototype_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/prototypes/immune-maze-canvas",
+    "itch_project": "https://grailawakeninggames.itch.io/marrow-runner",
+    "itch_public_url_used_for_social": "https://valarsbeard.itch.io/marrow-runner",
+    "itch_butler_target": "grailawakeninggames/marrow-runner:html",
+    "latest_known_itch_build": {
+      "version": "v0.9.0-rc3",
+      "channel": "html",
+      "upload_id": "#17807876",
+      "build_id": "#1707945"
+    },
+    "standalone_git": {
+      "branch": "main",
+      "initial_commit": "f951a0f Initial standalone Marrow Runner project",
+      "lfs_file_count_observed": 44,
+      "android_hook_workaround": "shared storage does not preserve executable hook bits reliably; repo used core.hooksPath pointing to executable Termux tmp hooks"
+    },
+    "runtime_signals": [
+      "HTML canvas immune-cell maze chase",
+      "seeded roguelike runs and localStorage seed replay",
+      "mobile-first full-surface touch movement",
+      "Pseudopod Ram rearmed from rest with recursive knockback chains",
+      "complement suction/ingestion power",
+      "infection nest and four ghost-style germ archetypes",
+      "tutorial with prepared chain reaction",
+      "generated tissue art, generated music, locally synthesized SFX manifests"
+    ],
+    "validation_commands": [
+      "node --check src/main.js",
+      "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+      "python3 -m json.tool assets/sfx/sfx_manifest.json >/dev/null",
+      "python3 -m json.tool release/page_assets/page_asset_manifest.json >/dev/null",
+      "python tools/build_itch_release.py"
+    ]
+  },
+  "club_crucible_publication_session": {
+    "captured": "2026-06-05",
+    "repo": "git@github.com:Valar05/club-crucible.git",
+    "remote_workspace": "ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/ClubCrucible",
+    "live_url": "https://clubcrucible.web.app",
+    "marrow_runner_post_url": "https://clubcrucible.web.app/valarsbeard-development/marrow-runner-ai-first-phone-workflow",
+    "firebase_project": "clubcrucible",
+    "hosting_site": "clubcrucible",
+    "published_commit": "f75ca8d Add Marrow Runner announcement post",
+    "post_file": "content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md",
+    "workflow": [
+      "Use Thunder Claude packet runner for bounded post draft",
+      "Validate Claude JSON and correct unsupported claims before integration",
+      "Copy Markdown into Nuxt Content section on THECAULDRON",
+      "Run npm run generate",
+      "Deploy with firebase deploy --only hosting --project clubcrucible",
+      "Verify live route returns HTTP 200 and contains expected link text"
+    ]
+  },
+  "armor_command_v1_session": {
+    "captured": "2026-06-05",
+    "standalone_project": "/storage/emulated/0/Documents/GodotProjects/mecha-command",
+    "itch_project": "https://valarsbeard.itch.io/armor-command",
+    "itch_butler_target": "valarsbeard/armor-command:html",
+    "latest_known_itch_build": {
+      "version": "v1.0.0-2026-06-05",
+      "channel": "html",
+      "upload_id": "#17814005",
+      "build_id": "#1708801"
+    },
+    "runtime_signals": [
+      "phone-first HTML5 canvas missile-command survivorlike",
+      "tap fires ready interceptor racks; hold sprays turret fire and keeps ready racks firing",
+      "per-rack cooldowns with semi-auto grace on final 0.5 seconds",
+      "wave-clear survivorlike upgrade offers",
+      "drop pod enemy branch: pod breaks into robot paratrooper; trooper fires small rockets",
+      "central hostile damage path across missiles, pods, troopers, and rockets",
+      "kill-chain score multiplier with visible CHAIN HUD and keyed slain chime",
+      "generated battlefield background and generated drop-pod enemy sheet with atlas metadata",
+      "rendered WebAudio SFX buffers with compressor/output-gain bus and persistent SFX toggle",
+      "music/SFX preferences and personal best stored in localStorage",
+      "cache-busted static HTML itch build packaged by tools/build_web_release.py"
+    ],
+    "validation_commands": [
+      "node --check src/main.js",
+      "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+      "python3 -m json.tool assets/sfx/sfx_manifest.json >/dev/null",
+      "python3 -m json.tool assets/enemies/drop_pod_enemy_atlas_v1.json >/dev/null",
+      "python3 tools/build_web_release.py"
+    ],
+    "termux_butler": {
+      "go": "/data/data/com.termux/files/usr/bin/go",
+      "go_version": "go1.26.4 android/arm64",
+      "butler_binary": "/data/data/com.termux/files/usr/tmp/butler-android-bin/butler",
+      "source_checkout": "/data/data/com.termux/files/usr/tmp/butler-src-1780609690",
+      "version_output": "head, no build date",
+      "known_self_check_warning": "android-arm64-head/LATEST HTTP 404 is harmless when push/status continue"
+    }
+  }
+}

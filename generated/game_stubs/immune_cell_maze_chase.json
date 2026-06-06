@@ -1,0 +1,236 @@
+{
+  "schema_version": "0.1",
+  "stub_id": "immune_cell_maze_chase",
+  "working_title": "Marrow Runner: Antibody Circuit",
+  "source_lineage": {
+    "mechanical_source": "Classic arcade maze-chase structure generalized into seeded roguelike floors.",
+    "theme_source": "Fleshpunk-style martial anatomy: body choices, infection pressure, route memory, mutation costs.",
+    "rights_boundary": [
+      "Do not copy Pac-Man names, maze layouts, colors, sprites, sound identities, or ghost identities.",
+      "Do not copy Fleshpunk's named characters, rooms, prose, or lore; use only generalized body-pressure concepts."
+    ]
+  },
+  "theme_pitch": {
+    "player_role": "A white blood cell forced through damaged tissue channels during a spreading infection.",
+    "required_collectibles": "Antibodies deposited along capillary corridors; collecting them tags tissue as defended and advances floor clearance.",
+    "reversal_pickups": "Complement bursts: brief immune-overdrive windows where infection agents can be engulfed and digested.",
+    "bonus_item": "Memory antigen: a risky optional pickup that improves future recognition but teaches the infection one counter-pattern.",
+    "exit_condition": "Tag all required antibody sites, then reach the lymph gate before tissue fever peaks.",
+    "tone": "Fleshpunk-esque but systems-forward: slick tissue, damaged membranes, readable immune tactics, and body costs."
+  },
+  "core_loop": [
+    "Enter a seeded tissue maze with one infection strain profile and one tissue condition.",
+    "Collect antibodies to mark every required defense site while infection agents hunt by heat, scent, route memory, and tissue damage.",
+    "Use complement bursts to briefly reverse contact rules and consume infection agents for tempo, score, or route repair.",
+    "Choose whether to grab memory antigens, enter inflamed greed pockets, or preserve a clean route through the tissue.",
+    "Clear the antibody network, pass the lymph gate, and choose one body adaptation before the next tissue floor.",
+    "Later floors react to repeated habits: overuse complement, leave scar trails, ignore memory antigens, or rely on one adaptation."
+  ],
+  "movement_model": {
+    "style": "Simultaneous tick-grid movement with buffered turns at membrane junctions.",
+    "tick_rate_ms": 150,
+    "why": "Keeps arcade urgency while making infection pursuit deterministic and debuggable.",
+    "contact_rule": "Normal contact infects or kills the cell; complement-overdrive contact digests the infection agent and sends it to a rearm niche.",
+    "route_readability": "Every infection has a visible target-tile debug marker in dev mode and a player-facing body tell in normal play."
+  },
+  "maze_generation": {
+    "grid_size": "21x21 for first playable",
+    "floor_unit": "A tissue cross-section: capillary lanes, membrane walls, lymph gate, necrotic pockets, and rearm niches.",
+    "strategy": "Seeded chunk assembly over pure random carving: central infection reservoir, loop corridors, antibody routes, optional necrotic pockets, and gate shortcuts.",
+    "required_checks": [
+      "Every required antibody is reachable from spawn and exit.",
+      "At least two loops surround the infection reservoir.",
+      "Complement bursts are reachable before the earliest unavoidable contact.",
+      "No required antibody sits in an unmarked lethal dead end.",
+      "Memory antigen route has one viable ignore route and one viable greed route."
+    ],
+    "tile_types": [
+      "open_tissue",
+      "membrane_wall",
+      "narrow_capillary",
+      "inflamed_slow_zone",
+      "necrotic_greed_pocket",
+      "lymph_gate",
+      "complement_node",
+      "infection_rearm_niche",
+      "scar_trail"
+    ]
+  },
+  "infection_agents": [
+    {
+      "id": "spiro_direct",
+      "readable_role": "Direct hunter",
+      "target_rule": "Shortest path to current cell tile.",
+      "body_tell": "Contracts into a needle posture before straight pursuit.",
+      "mutation_examples": [
+        "moves faster through scar trails",
+        "slows in inflamed zones"
+      ]
+    },
+    {
+      "id": "hyphae_cutoff",
+      "readable_role": "Ambush growth",
+      "target_rule": "Targets four tiles ahead of the cell's current direction.",
+      "body_tell": "Extends a pale filament toward the next junction it wants to own.",
+      "mutation_examples": [
+        "predicts six tiles ahead",
+        "guards complement nodes after floor three"
+      ]
+    },
+    {
+      "id": "plasmid_flank",
+      "readable_role": "Route memory flanker",
+      "target_rule": "Targets recently repeated turns and high-value antibody clusters.",
+      "body_tell": "Leaves a faint stain on junctions it has learned.",
+      "mutation_examples": [
+        "learns the player's favorite loop",
+        "blocks memory antigen exits"
+      ]
+    },
+    {
+      "id": "fever_drift",
+      "readable_role": "Erratic pressure",
+      "target_rule": "Alternates chase, scatter, and fever drift on a visible timer.",
+      "body_tell": "Pulses with the floor fever meter before changing mode.",
+      "mutation_examples": [
+        "shorter scatter phase",
+        "creates a two-tick delayed fever echo"
+      ]
+    }
+  ],
+  "body_adaptations": [
+    {
+      "id": "soft_squeeze",
+      "type": "mobility adaptation",
+      "effect": "Pass through one narrow capillary shortcut per floor.",
+      "route_cost": "Lower impact margin; contact grace is disabled while squeezing.",
+      "fleshpunk_rule": "Solves entry and escape, not combat."
+    },
+    {
+      "id": "phage_bite",
+      "type": "aggressive adaptation",
+      "effect": "Complement windows are shorter, but the first digested infection leaves a speed wake.",
+      "route_cost": "Overuse raises infection recognition on later floors.",
+      "fleshpunk_rule": "Strong first commitment must create recovery trouble."
+    },
+    {
+      "id": "clean_membrane",
+      "type": "baseline discipline",
+      "effect": "Clear a floor without memory antigen or complement overuse to reduce future fever.",
+      "route_cost": "Fewer shortcuts and lower score, but less route memory for infection.",
+      "fleshpunk_rule": "Pure-body discipline is a real progression path, not no-upgrade."
+    },
+    {
+      "id": "false_marker",
+      "type": "recognition lie",
+      "effect": "Drop a decoy immune marker that redirects one infection at a junction.",
+      "route_cost": "Repeated use teaches plasmid_flank to read false markers.",
+      "fleshpunk_rule": "A lie to body readers should work, then become a remembered risk."
+    },
+    {
+      "id": "scar_clamp",
+      "type": "wound-control adaptation",
+      "effect": "Seal one damaged tile into temporary safe tissue.",
+      "route_cost": "The sealed scar becomes a future path preference for direct hunters.",
+      "fleshpunk_rule": "Treat wounds as locks and routes, not just health loss."
+    }
+  ],
+  "floor_modifiers": [
+    {
+      "id": "fever_rise",
+      "effect": "Fever meter accelerates infection mode swaps as the floor timer runs.",
+      "tactical_question": "Can the player finish the antibody route before pursuit becomes unstable?"
+    },
+    {
+      "id": "necrotic_greed",
+      "effect": "Optional antibody clusters sit in slow pockets that increase score and adaptation currency.",
+      "tactical_question": "Is route greed worth leaving slower tissue behind?"
+    },
+    {
+      "id": "learned_strain",
+      "effect": "One infection agent starts with a counter to the adaptation used most last floor.",
+      "tactical_question": "Can the player vary body identity instead of forcing one solution?"
+    },
+    {
+      "id": "leaky_membrane",
+      "effect": "Some walls open after complement use, creating shortcuts and new infection routes.",
+      "tactical_question": "Does reversal also make the maze more dangerous?"
+    }
+  ],
+  "scoring_and_pressure": {
+    "antibody": "Required progress and base score.",
+    "memory_antigen": "Optional run-memory currency; improves future strain preview but increases infection adaptation.",
+    "complement_chain": "Digesting multiple infection agents in one burst gives high score and raises recognition debt.",
+    "clean_route_bonus": "Clear without repeated loops or overdrive spam to reduce next-floor fever.",
+    "body_drift": "Tracks repeated adaptation habits; later strains learn or misread the body accordingly."
+  },
+  "first_playable_scope": {
+    "floors": 5,
+    "grid": "21x21",
+    "infection_agents": 4,
+    "required_antibodies": 80,
+    "complement_nodes": 4,
+    "memory_antigens": 1,
+    "adaptation_choices_per_floor": 3,
+    "initial_modifiers": [
+      "fever_rise",
+      "necrotic_greed"
+    ],
+    "out_of_scope": [
+      "full mutation tree",
+      "procedural prose",
+      "complex immune biology simulation",
+      "multiplayer",
+      "licensed arcade references"
+    ]
+  },
+  "debug_and_validation": [
+    "Show each infection agent mode, target tile, next junction, and rearm timer.",
+    "Show antibody reachability count after generation.",
+    "Record floor seed, body adaptations, and infection strain profile for replay.",
+    "Flag any required antibody inside an unmarked dead end.",
+    "Simulate 20 seconds of idle pursuit to detect unavoidable spawn kills."
+  ],
+  "implementation_recommendation": {
+    "prototype_engine": "Browser canvas first for fast maze iteration, or Godot 4 if touch/mobile feel is the immediate target.",
+    "data_driven": [
+      "infection agent target rules and mutation tables",
+      "body adaptation effects and recognition debt",
+      "floor modifier deck",
+      "tile type passability and speed costs",
+      "scoring and fever escalation curves"
+    ],
+    "hardcoded_first": [
+      "fixed-tick movement loop",
+      "BFS pathfinding",
+      "flood-fill validation",
+      "contact/reversal state machine"
+    ],
+    "first_milestone": "One seeded tissue floor with antibodies, four infection agents, complement bursts, fever meter, and debug overlay."
+  },
+  "art_style_direction": {
+    "summary": "Fleshpunk-detail organic maze icon: a blobby white blood cell with a circular engulfing silhouette.",
+    "player_silhouette": [
+      "Round or oval leukocyte body readable at maze scale.",
+      "Open asymmetric membrane cleft that suggests engulfing without copying a geometric arcade wedge.",
+      "Uneven pseudopod rim, cilia, membrane folds, and amber nucleus glow.",
+      "Dense painterly bone/chitin/tissue detail visible in closeups, simplified to a pale round body in gameplay."
+    ],
+    "do_not_copy": [
+      "perfect yellow disk",
+      "exact triangular wedge mouth",
+      "flat mascot style",
+      "licensed arcade colors, proportions, maze layout, or animation rhythm"
+    ],
+    "asset_prompt": "Organic round white blood cell maze hero, circular blobby phagocyte silhouette with an open engulfing membrane cleft, pearl-white fleshpunk tissue surface, amber glowing nucleus, tiny pseudopod ruffles, dense painterly chitin detail, readable arcade-scale silhouette, dark background."
+  },
+  "prototype_assets": {
+    "phagocyte_4frame_sprite_sheet": {
+      "path": "generated/assets/phagocyte_4frame_sprite_sheet.png",
+      "doc_url": "http://127.0.0.1:8765/doc/generated/assets/phagocyte_4frame_sprite_sheet.png",
+      "dimensions": "2172x724",
+      "frame_layout": "horizontal 4-frame sheet; even slicing gives about 543x724 per frame",
+      "status": "generated concept/prototype asset"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "0.1",
+  "generated_on": "2026-06-04",
+  "assets": [
+    {
+      "asset_id": "marrow_runner_itch_cover_630x500",
+      "type": "itch_cover_image",
+      "path": "release/page_assets/marrow-runner-itch-cover-630x500.png",
+      "dimensions": [
+        630,
+        500
+      ],
+      "source_assets": [
+        "assets/player/phagocyte_4frame_sprite_sheet.png",
+        "assets/backgrounds/roguelike_tissue_menu_bg.png"
+      ],
+      "source_frame": "frame 4 of 4, cropped from x=1629..2172 of 2172x724 sprite sheet",
+      "processing_tool": "Pillow 12.2.0 local composition script run in this workspace",
+      "processing_summary": "edge-connected sprite-sheet background removal, tissue menu background crop, glow/shadow composite, title/subtitle text overlay",
+      "license": "Project-owned generated/source-authored derivative; no external samples or images added in this step.",
+      "target_use": "Manual itch.io project cover/app image upload for the private release-candidate page."
+    },
+    {
+      "asset_id": "marrow_runner_phagocyte_frame4_transparent",
+      "type": "release_page_source_cutout",
+      "path": "release/page_assets/marrow-runner-phagocyte-frame4-transparent.png",
+      "dimensions": [
+        528,
+        660
+      ],
+      "source_assets": [
+        "assets/player/phagocyte_4frame_sprite_sheet.png"
+      ],
+      "source_frame": "frame 4 of 4, cropped from x=1629..2172 of 2172x724 sprite sheet",
+      "processing_tool": "Pillow 12.2.0 local extraction script run in this workspace",
+      "processing_summary": "edge-connected dark frame background masked to transparency, then cropped to alpha bounds",
+      "license": "Project-owned generated/source-authored derivative; no external samples or images added in this step.",
+      "target_use": "Reusable phagocyte release icon/cutout source for itch page art."
+    }
+  ]
+}

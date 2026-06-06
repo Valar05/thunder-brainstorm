@@ -1,0 +1,227 @@
+{
+  "candidate_id": "scrap_cathedral_maze_chase_v1",
+  "theme_pitch": {
+    "setting": "A derelict iron cathedral whose maintenance drone (the player) must reclaim scattered charge rivets before security choir units hunt it down by resonance.",
+    "collectibles": "Charge rivets (small, required) and greed clusters (dense optional caches).",
+    "reversal_pickup": "Breaker overload node — briefly overwhelms choir units' resonance sensors, making them vulnerable.",
+    "bonus_item": "Salvage relic — appears on a timed route, grants a run-currency bonus if collected.",
+    "pursuers": "Four choir units, each a distinct patrol subroutine etched into rusted iron frames.",
+    "why_it_works": "Industrial decay maps cleanly to tile damage, gate locks, alarm tiles, and hardware-module upgrades without borrowing any protected identity."
+  },
+  "core_loop": [
+    "Enter a seeded maze floor; read pursuer mutation icons before movement begins.",
+    "Move on simultaneous ticks; collect all required charge rivets to unlock the exit.",
+    "Avoid choir units; use breaker overload nodes to reverse threat briefly.",
+    "Optionally detour into greed clusters for bonus score at increased risk.",
+    "Collect salvage relic if the route cost is acceptable.",
+    "Exit floor; choose one upgrade module from three offered.",
+    "Repeat for five floors; escalating speed and modifier stacking increase pressure."
+  ],
+  "movement_model": {
+    "style": "Simultaneous tick-grid: player and all pursuers resolve movement each tick.",
+    "rationale": "Preserves arcade pressure and makes pursuer logic inspectable; turn-based would collapse the chase tension.",
+    "input_buffering": "Player queues one directional input; it executes at the next valid intersection tile.",
+    "tick_rate_ms": 150,
+    "collision_rule": "Occupying the same tile as a choir unit on the same tick counts as contact.",
+    "wrap_tunnels": "Optional per-floor; one horizontal wrap corridor may exist, announced in floor preview."
+  },
+  "maze_generation": {
+    "algorithm": "Seeded recursive-backtracker with mandatory loop injection: after base generation, add random cross-links until at least two distinct loops encircle the center region.",
+    "grid_size": "21x21 tiles for prototype; expandable to 27x27 in later floors.",
+    "determinism": "All RNG sourced from a single 32-bit floor seed; same seed always produces identical maze, collectible placement, and pursuer spawns.",
+    "tile_types": [
+      "corridor",
+      "wall",
+      "slow_friction_wire",
+      "one_way_current",
+      "gate_door",
+      "alarm_tile",
+      "cracked_wall_shortcut",
+      "safe_alcove",
+      "bonus_lane",
+      "choir_only_tunnel"
+    ],
+    "placement_rules": [
+      "Required rivets distributed across all reachable regions via flood-fill check post-generation.",
+      "Greed clusters placed in high-risk corridors near choir spawn zones.",
+      "Breaker overload nodes placed at least 5 tiles from player start; max 4 per floor.",
+      "Salvage relic spawns on a bonus lane tile with a timed despawn of 12 seconds.",
+      "Gate doors placed only where an alternate route exists; Gate Key upgrade bypasses one per floor."
+    ]
+  },
+  "pursuers": [
+    {
+      "id": "VECTOR",
+      "personality": "Direct",
+      "target_rule": "Always pathfinds toward the player's current tile using BFS shortest path.",
+      "scatter_target": "Top-right corner of maze.",
+      "readable_tell": "Moves in straight lines toward player; predictable but relentless.",
+      "mutation_examples": [
+        "faster on straightaways",
+        "ignores friction wire tiles"
+      ]
+    },
+    {
+      "id": "OFFSET",
+      "personality": "Ambusher",
+      "target_rule": "Targets the tile 4 steps ahead of the player's current facing direction.",
+      "scatter_target": "Top-left corner.",
+      "readable_tell": "Appears to lead the player; punishes holding a direction too long.",
+      "mutation_examples": [
+        "increases look-ahead to 6 tiles",
+        "guards salvage relic spawn tile"
+      ]
+    },
+    {
+      "id": "PINCER",
+      "personality": "Flanker",
+      "target_rule": "Targets the midpoint between VECTOR's position and the player, creating a pincer.",
+      "scatter_target": "Bottom-right corner.",
+      "readable_tell": "Moves to cut off escape routes; most dangerous when VECTOR is also chasing.",
+      "mutation_examples": [
+        "pauses 2 ticks at gate doors",
+        "shadows breaker overload nodes"
+      ]
+    },
+    {
+      "id": "STATIC",
+      "personality": "Erratic",
+      "target_rule": "Alternates every 7 seconds between chasing player's tile and patrolling a random intersection.",
+      "scatter_target": "Bottom-left corner.",
+      "readable_tell": "Icon pulses between chase and scatter glyphs on a visible 7-second bar.",
+      "mutation_examples": [
+        "splits into a 2-tick delayed echo on scatter transition",
+        "alarm tiles extend its chase phase by 3 seconds"
+      ]
+    }
+  ],
+  "floor_modifiers": [
+    {
+      "id": "flicker_resonance",
+      "effect": "Pursuer target-tile debug icons visible only when player is within 4 tiles of an intersection; elsewhere pursuers appear as silhouettes.",
+      "tactical_impact": "Forces players to memorize pursuer positions rather than read them continuously."
+    },
+    {
+      "id": "overcharged_grid",
+      "effect": "Breaker overload nodes last 30% shorter but each consumed node recharges one locked gate door.",
+      "tactical_impact": "Reversal windows shrink; players must weigh gate access against vulnerability time."
+    },
+    {
+      "id": "alarm_floor",
+      "effect": "Collecting any greed cluster rivet triggers a 5-second choir speed boost for all units.",
+      "tactical_impact": "Greed clusters become high-commitment decisions, not casual detours."
+    },
+    {
+      "id": "friction_flood",
+      "effect": "All corridor tiles become friction wire; player and pursuers slide until hitting a wall or intersection.",
+      "tactical_impact": "Buffered Turn Plus upgrade becomes critical; route planning must account for slide distance."
+    },
+    {
+      "id": "decoy_static",
+      "effect": "20% of required rivets are decoys; collecting a decoy plays a distinct audio/visual cue and does not count toward floor completion.",
+      "tactical_impact": "Players must track which tiles they have confirmed; rushing causes wasted routes."
+    }
+  ],
+  "player_upgrades": [
+    {
+      "id": "buffered_turn_plus",
+      "effect": "Queue a turn input one full tile earlier than the default intersection buffer.",
+      "routing_change": "Enables tighter corner cuts; opens routes through narrow corridors that were previously mistimed."
+    },
+    {
+      "id": "static_decoy",
+      "effect": "Drop a lure at the current tile; VECTOR and OFFSET redirect toward it for 3 seconds.",
+      "routing_change": "Creates a safe window to clear a greed cluster or reach a breaker node; one charge per floor."
+    },
+    {
+      "id": "breaker_bite",
+      "effect": "Reversal window is 25% shorter, but eating a choir unit grants a 1-second speed burst.",
+      "routing_change": "Rewards aggressive multi-eat chains; changes reversal from defensive to offensive routing."
+    },
+    {
+      "id": "gate_key",
+      "effect": "Pass through one locked gate door per floor without a recharge.",
+      "routing_change": "Opens a new class of shortcut routes; changes optimal rivet collection order."
+    },
+    {
+      "id": "echo_step",
+      "effect": "First lethal contact per floor rewinds player 3 tiles along their path, then disables for the rest of the floor.",
+      "routing_change": "Permits one calculated risk per floor; players may attempt greedy routes they would otherwise avoid."
+    },
+    {
+      "id": "cold_circuit",
+      "effect": "Choir units rearm 40% slower after being eaten, but breaker overload nodes are 1 fewer per floor (minimum 2).",
+      "routing_change": "Extends safe windows after each eat but forces more conservative reversal use overall."
+    }
+  ],
+  "scoring_and_pressure": {
+    "required_rivet": "10 points each.",
+    "chain_bonus": "Collecting 10 rivets consecutively without reversing direction multiplies next rivet value by 1.5x.",
+    "reversal_chain": "Eating 2 choir units in one window: 200pts; 3 units: 500pts; 4 units: 1200pts.",
+    "greed_cluster": "50 points per rivet; alarm_floor modifier activates on collection.",
+    "salvage_relic": "300 points; despawns after 12 seconds; route detour is always required.",
+    "floor_debt": "Leaving more than 30% of greed clusters uncollected reduces upgrade choice pool from 3 to 2 on next floor.",
+    "escalation": "Each floor increases base tick rate by 8ms and reduces reversal window by 1 second; floor 4+ adds one pursuer mutation."
+  },
+  "first_playable_scope": {
+    "grid": "21x21 tiles",
+    "player": 1,
+    "pursuers": 4,
+    "required_rivets": 80,
+    "breaker_nodes": 4,
+    "greed_clusters": 2,
+    "salvage_relics": 1,
+    "floors": 5,
+    "upgrades_offered_between_floors": 3,
+    "floor_modifiers_active_floor_1": 0,
+    "floor_modifiers_active_floor_3_plus": 1,
+    "tile_types_in_prototype": [
+      "corridor",
+      "wall",
+      "gate_door",
+      "safe_alcove",
+      "bonus_lane"
+    ],
+    "engine_target": "Godot 4 or browser canvas; no external dependencies required.",
+    "out_of_scope_for_v1": [
+      "choir_only_tunnel",
+      "one_way_current",
+      "cracked_wall_shortcut",
+      "decoy_static modifier",
+      "meta-unlock pool"
+    ]
+  },
+  "debug_and_validation": [
+    "Debug overlay toggle (F1): renders each choir unit's current target tile as a colored crosshair matching unit color.",
+    "Mode label: each unit displays a small text badge — CHASE, SCATTER, VULNERABLE, REARM — updated every tick.",
+    "Flood-fill reachability check runs post-generation; any required rivet in an unreachable region triggers a reseed with seed+1.",
+    "Loop count validator: confirms at least 2 distinct loops encircle the center 7x7 region before floor is accepted.",
+    "Dead-end required-rivet check: flags any required rivet in a dead-end tile and relocates it to the nearest corridor junction.",
+    "Seed replay: storing the floor seed and upgrade sequence allows exact floor reconstruction for bug reports."
+  ],
+  "risks": [
+    "Simultaneous tick collision at high speeds may feel unfair; mitigate with a 1-tick grace window on first contact per respawn.",
+    "Seeded maze generation may produce low-loop mazes on edge-case seeds; loop injection post-pass is mandatory, not optional.",
+    "Pursuer mutations stacking on floor 4+ may create unreadable combined behaviors; cap active mutations at 2 total across all units.",
+    "Greed cluster floor debt mechanic may feel punishing to new players; add a one-time tutorial floor with debt disabled.",
+    "Browser tick-rate consistency varies; use a fixed accumulator loop, not requestAnimationFrame delta alone, to keep movement deterministic."
+  ],
+  "implementation_recommendation": {
+    "data_driven_from_json": [
+      "pursuer personality definitions and mutation tables",
+      "floor modifier deck and trigger conditions",
+      "upgrade module stats and routing-change descriptions",
+      "tile type properties (speed multiplier, passability flags, alarm flag)",
+      "scoring multiplier table",
+      "floor escalation curve (tick rate delta, reversal window delta per floor)"
+    ],
+    "hardcoded_in_engine": [
+      "BFS pathfinding for VECTOR and PINCER",
+      "tick accumulator and input buffer",
+      "flood-fill reachability validator",
+      "collision and reversal state machine"
+    ],
+    "build_order": "Maze generation and validator first, then four pursuers with debug overlay, then collectibles and reversal, then one floor modifier, then upgrade selection screen.",
+    "first_milestone": "A single seeded floor with all four pursuers, 80 rivets, 4 breaker nodes, debug overlay active, and a win condition — playable in under 2 weeks solo."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "short_description": "Browser maze chase: guide a phagocyte through living tissue, ram germs into chain reactions, cleanse the infection nest.",
+  "page_description_markdown": "**Marrow Runner** is a browser-playable immune-cell maze chase. You steer a phagocyte through seeded organic tissue mazes, collect antibodies scattered across infection routes, cleanse the nest at the heart of each level, and push through the lymph gate before the germ count overwhelms you.\n\nEach run is seed-based and deterministic — mazes generate with organic rooms, complement pickups, and enemy nests tuned to the depth. Saved seed history means a run you liked yesterday is one selection away. Deeper levels raise the pressure by adding more enemies until the nest is cleansed and respawns stop.\n\nThe signature mechanic is **Pseudopod Ram**. Release your input to rearm the dash, then move from rest to burst forward. A rammed germ becomes a projectile: hit a wall or another germ and it dies. A clean angle can chain through an entire infection line. Complement pickups add a second tool — a short-range suction that vacuums and ingests nearby enemies.\n\nThe game is mobile-first with a full-surface drag joystick, and fully playable on desktop with keyboard controls. A built-in tutorial walks through movement, ram timing, and a prepared chain reaction before your first seeded run.\n\n*This is v0.9.0-rc1 — a private release candidate for mobile and desktop testing ahead of v1.0.*",
+  "controls_markdown": "| Input | Action |\n|---|---|\n| Touch — press and drag anywhere | Move |\n| WASD or Arrow Keys | Move |\n| Release input, then move from rest | Pseudopod Ram (dash) |\n| P or Esc | Pause |\n| Pause button (on-screen) | Pause |\n| M | Toggle music |\n| Music button (on-screen) | Toggle music |\n| Fullscreen button (in-game) | Toggle fullscreen |",
+  "features": [
+    "Seeded, deterministic runs with saved seed history and replayable old seeds",
+    "Organic tissue maze layouts with rooms, infection nests, and antibody routes",
+    "Four germ archetypes — pursuer, ambusher, flanker, wanderer — each with distinct movement logic",
+    "Pseudopod Ram: release to rearm, move from rest to dash, chain rammed germs into walls and each other",
+    "Complement pickup: short-range suction that vacuums and ingests nearby enemies",
+    "Enemy respawns until the infection nest is fully cleansed by antibody collection",
+    "Built-in tutorial covering movement, ram timing, knockback, and chain reactions",
+    "Mobile-first full-surface drag joystick with in-game fullscreen control",
+    "Generated tissue backgrounds, phagocyte and enemy sprite art, music tracks, and locally synthesized SFX"
+  ],
+  "suggested_tags": [
+    "html5",
+    "browser",
+    "arcade",
+    "maze",
+    "roguelike",
+    "procedural",
+    "mobile",
+    "touch-friendly",
+    "singleplayer",
+    "2d",
+    "survival",
+    "action",
+    "prototype",
+    "one-button"
+  ],
+  "asset_disclosure": "Marrow Runner uses project-owned generated visual assets (tissue backgrounds, phagocyte sprite sheet, enemy archetype sheet), generated music tracks, and locally synthesized sound effects. No third-party stock art or licensed audio is included. Runtime asset provenance is recorded in `assets/asset_manifest.json` and `assets/sfx/sfx_manifest.json`; release page image provenance is recorded in `release/page_assets/page_asset_manifest.json`.",
+  "release_notes": "**v0.9.0-rc1** — First itch.io release candidate, issued as a private build ahead of v1.0.\n\nIncludes: seeded roguelike runs, saved seed history, tutorial flow with first-run prompt, four enemy archetypes, Pseudopod Ram knockback chains, complement ingestion pickup, infection nest cleanse condition, enemy respawn logic, mobile fullscreen canvas with drag joystick, keyboard support, generated tissue art, phagocyte and enemy sprite sheets, music with toggle, locally synthesized SFX, pause/restart/clear-data controls, and a browser-playable web package.\n\nThis build is for testing purposes. Features, balance, and content may change before v1.0.",
+  "page_theme_notes": {
+    "background_color": "#0d1a14",
+    "text_color": "#d4ead8",
+    "accent_color": "#5ecf7a",
+    "embed_recommendation": "Enable the itch.io fullscreen button in embed settings as a fallback; the game also provides its own in-game fullscreen control. Recommended embed dimensions: 630 × 500 to match the cover image ratio. On mobile, full-page embed is preferred."
+  },
+  "manual_upload_checklist": [
+    "Upload cover image: `prototypes/immune-maze-canvas/release/page_assets/marrow-runner-itch-cover-630x500.png` (630×500)",
+    "Upload web build ZIP: `prototypes/immune-maze-canvas/release/marrow-runner-v0.9.0-rc1-web.zip` — set kind to 'HTML / Playable in browser', channel `html`, version `v0.9.0-rc1`",
+    "Set title to: Marrow Runner",
+    "Paste short description (under 140 characters)",
+    "Paste page description markdown into the description field",
+    "Paste controls table into the description or a dedicated section",
+    "Paste feature list into the description",
+    "Add suggested tags",
+    "Paste asset disclosure into the description or credits section",
+    "Paste release notes into the devlog or release notes field",
+    "Set visibility to Private or Restricted/Unlisted for RC testing",
+    "Apply page theme colors (background #0d1a14, text #d4ead8, accent #5ecf7a)",
+    "Enable fullscreen button in itch embed settings",
+    "Upload any additional screenshots manually after confirming in-browser capture"
+  ]
+}
