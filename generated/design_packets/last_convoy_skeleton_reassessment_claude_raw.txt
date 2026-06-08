@@ -1,0 +1,191 @@
+```json
+{
+  "overall_read": {
+    "verdict": "pivot_skeleton",
+    "one_sentence_reason": "The current prototype has assembled parts but has no core tension: the convoy grows passively, enemies are pure attrition, and there is no moment where the player must make a meaningful trade between convoy size, firepower, and survival.",
+    "main_risk": "Adding upgrades, scoring, and polish to the current skeleton will produce a busier version of the same directionless loop, wasting implementation cycles on a thesis that has not been validated."
+  },
+  "current_skeleton_diagnosis": {
+    "what_is_promising": [
+      "Snake-trail convoy with role-specific segments is a genuinely distinctive visual and mechanical identity.",
+      "Segment loss with automatic link repair already implies a tension model that just needs a cost to make it matter.",
+      "Hellkat flamethrower and Raidrunner turret give segments differentiated combat roles, which is the seed of a real decision space.",
+      "Textured fragmentation and the WebGL fire bridge are production-quality presentation tools that will pay off once the loop earns them.",
+      "Mobile joystick inertia is already tuned; input is not the problem."
+    ],
+    "what_is_weak": [
+      "Pickups are free: the player never chooses which segment to add or sacrifices anything to get one, so convoy growth has no weight.",
+      "Enemy pressure is additive quantity scaling only; there is no qualitative threat that forces the player to protect a specific segment.",
+      "The player vehicle auto-fires with no decision; the only active input is movement, which is not enough to carry a session.",
+      "There is no legible win condition or escalation ceiling; the loop has no shape, just survival until death.",
+      "Convoy length is currently an unambiguous good; longer is always better, which eliminates any interesting trimming or positioning decisions."
+    ],
+    "missing_core_tension": "The player must never want to lose a segment but must sometimes be forced to choose which segment to sacrifice, protect, or position into danger. Without a cost structure around convoy composition, the snake body is decoration, not a system.",
+    "what_not_to_build_yet": [
+      "Upgrade choice UI and additive trait mutation scaffold.",
+      "Additional support segment types (interceptor, repair truck, armor truck).",
+      "Kill-chain scoring and local best persistence.",
+      "Debug overlay and shader fallback polish.",
+      "Any content that assumes the current pickup-equals-growth model is correct."
+    ]
+  },
+  "candidate_skeletons": [
+    {
+      "name": "Skeleton A: Convoy as Expendable Ammunition",
+      "core_thesis": "Segments are not permanent assets; they are a finite resource the player deliberately burns to survive. The convoy is a magazine, not a trophy. Every pickup refills it; every hard choice depletes it.",
+      "player_loop_20_seconds": "Drive to avoid flanking enemies → auto-fire handles chaff → a heavy enemy targets a specific rear segment → player must choose: swerve to shield that segment (costs positioning), or let it die and trigger its death-burst (Raidrunner explodes outward, Hellkat releases a fire pool) → pickup spawns near the wreck → player decides whether to retrieve it now or push forward.",
+      "why_convoy_matters": "Each segment has a death effect that is tactically useful, so losing a segment on purpose becomes a valid move. The convoy is both your health bar and your special-move resource.",
+      "pressure_model": "Introduce a Segment Hunter enemy class that locks onto the rearmost or weakest segment and pursues it specifically, ignoring the root vehicle. Player must either protect the segment by maneuvering the convoy tail away, or sacrifice it and exploit the death burst. Drone strikes target the longest convoy stretch, punishing passive growth.",
+      "upgrade_model": "Upgrades modify death effects, not passive stats. Example: Raidrunner death burst radius +50%, Hellkat fire pool duration +3s, Root vehicle gains one free segment revival per wave. This makes every upgrade feel like expanding your tactical vocabulary rather than inflating numbers.",
+      "what_to_reuse_from_current_port": [
+        "Snake trail position recording and follower link repair on segment loss.",
+        "Hellkat and Raidrunner segment sprites and their existing weapon behaviors as the basis for death effects.",
+        "Rustrammer chase logic repurposed as the Segment Hunter targeting the tail.",
+        "Textured fragmentation for segment death visuals.",
+        "Joystick inertia and existing movement feel."
+      ],
+      "what_to_cut_or_delay": [
+        "Passive auto-scaling wave spawner; replace with authored threat sequences that include at least one Segment Hunter per wave.",
+        "Pickup-equals-growth with no cost; add a brief retrieval window and a pickup decay timer.",
+        "Any upgrade that modifies projectile stats before death-effect upgrades are tested."
+      ],
+      "biggest_design_risk": "Death effects may feel punishing rather than tactical if the player cannot reliably trigger them intentionally. The Segment Hunter must telegraph its target clearly so the choice is legible.",
+      "first_test": {
+        "implementation_scope": "Add a Segment Hunter variant of Rustrammer that draws a visible targeting line to the rearmost segment. Give Raidrunner a canvas circle-burst on death. Run one wave with two Segment Hunters and no other enemies. No upgrades, no scoring.",
+        "success_signal": "Playtester says 'I let that one die on purpose' at least once in a five-minute session.",
+        "failure_signal": "Playtester never notices which segment is targeted and treats all deaths as random attrition."
+      }
+    },
+    {
+      "name": "Skeleton B: Convoy as Moving Fortress with Lane Discipline",
+      "core_thesis": "The convoy is a formation weapon, not a snake. The player steers the head; the body creates a physical wall. Enemies attack from fixed approach vectors (left flank, right flank, rear). The player's job is to angle the convoy so the right segment faces the right threat.",
+      "player_loop_20_seconds": "Enemies announced by a directional warning icon → player rotates convoy heading to present the correct segment face (Raidrunner broadside for left-flank vehicles, Hellkat rear for pursuing bikes) → convoy fires into the threat arc → player repositions before the next wave vector arrives → pickup spawns at the edge of the cleared lane.",
+      "why_convoy_matters": "Convoy length and composition directly determine which threat arcs you can cover simultaneously. A short convoy cannot cover rear and flank at once. A long convoy is slower to rotate. This creates a genuine length-versus-agility tradeoff.",
+      "pressure_model": "Three threat vectors: frontal (root vehicle handles), left flank, right flank, and rear. Each wave announces its vector with a 1.5-second icon. Overlapping vectors from two directions simultaneously is the hard-mode pressure. Drone strikes target the longest exposed flank.",
+      "upgrade_model": "Upgrades expand segment firing arcs or add a second segment of the same type to cover a second vector. Example: Raidrunner arc +45 degrees, Hellkat gains a forward-facing secondary nozzle. This makes convoy composition a spatial puzzle rather than a stat race.",
+      "what_to_reuse_from_current_port": [
+        "Existing Raidrunner turret and Hellkat flamethrower weapon behaviors.",
+        "Snake trail follower system; segments still follow the root vehicle path.",
+        "Motorcycle and Rustrammer sprites repurposed as flank and rear threat types.",
+        "Drone strike as the overhead threat that punishes static positioning.",
+        "Joystick movement and inertia."
+      ],
+      "what_to_cut_or_delay": [
+        "Free-roaming open-arena enemy spawning; replace with directional spawn edges.",
+        "Segment loss link repair as a neutral event; make segment loss collapse that vector's coverage visibly.",
+        "Any upgrade that does not directly change a firing arc or add a coverage segment."
+      ],
+      "biggest_design_risk": "Rotating a snake convoy to face a threat vector may feel awkward or unresponsive on mobile. The convoy body must be long enough to have a meaningful broadside but short enough that rotation is fast. This is a tuning cliff.",
+      "first_test": {
+        "implementation_scope": "Disable free-roaming enemies. Spawn Rustammers only from the left edge with a visible left-flank icon. Confirm Raidrunner segment fires into that arc. Then add a simultaneous rear spawn. No upgrades.",
+        "success_signal": "Playtester rotates the convoy deliberately to present Raidrunner to the flank threat within the first two minutes without being told to.",
+        "failure_signal": "Playtester ignores convoy orientation and just drives away from enemies as in the current skeleton."
+      }
+    },
+    {
+      "name": "Skeleton C: Triage Run — Convoy as Rescue Mission with Decay",
+      "core_thesis": "This is a real pivot. The convoy is not a weapon platform; it is a group of survivors you are escorting to an exit. Segments degrade over time and require active player intervention to stabilize. Combat is a distraction from the primary task of keeping the convoy alive long enough to reach the extraction point.",
+      "player_loop_20_seconds": "A segment flashes a damage warning → player must physically position the root vehicle adjacent to it within a time window to trigger a repair pulse → meanwhile enemies are closing → player chooses: repair now and take hits, or fight first and risk losing the segment → extraction zone timer counts down → reaching the zone with more segments alive scores higher.",
+      "why_convoy_matters": "Each segment has a named survivor identity and a unique passive benefit while alive (Raidrunner suppresses a lane, Hellkat slows pursuers). Losing one is a permanent tactical downgrade for that run, not just a health loss. The player is emotionally and mechanically invested in each segment.",
+      "pressure_model": "Two simultaneous pressure axes: segment decay timers (internal clock) and enemy attack waves (external threat). The player cannot fully address both at once. Decay rate accelerates as the run progresses. Enemies specifically target damaged segments, creating a death-spiral risk that requires triage decisions.",
+      "upgrade_model": "Between runs (roguelite structure), the player unlocks passive convoy traits: slower decay rate, repair pulse radius increase, one segment starts with full health. Within a run, no upgrades; the run is a pure execution test of the starting loadout.",
+      "what_to_reuse_from_current_port": [
+        "Snake trail and follower system for convoy body movement.",
+        "Segment sprites and role identities (Raidrunner, Hellkat) as the survivor cast.",
+        "Rustrammer and motorcycle enemies as the external threat layer.",
+        "Joystick movement.",
+        "Textured fragmentation for segment loss."
+      ],
+      "what_to_cut_or_delay": [
+        "In-run pickup-based convoy growth; segments are fixed at run start.",
+        "Auto-fire main cannon as the primary interaction; replace with proximity repair pulse as the primary active mechanic.",
+        "Open-ended survival loop; replace with a fixed-length run with an extraction timer.",
+        "All current wave escalation logic until the decay-plus-attack dual pressure is validated."
+      ],
+      "biggest_design_risk": "The repair proximity mechanic requires precise positioning near a specific convoy segment, which may be frustrating on mobile with joystick inertia. If the repair window is too tight, the game feels unfair; too loose, and the triage decision disappears.",
+      "first_test": {
+        "implementation_scope": "Fix convoy at three segments. Add a decay timer per segment shown as a visible health bar. Add a repair pulse triggered when the root vehicle is within 80px of a damaged segment for 0.5 seconds. No enemies. Run for 60 seconds and see if the player can keep all three segments alive through repair alone.",
+        "success_signal": "Playtester actively repositions to repair specific segments and reports feeling responsible for the convoy.",
+        "failure_signal": "Playtester cannot reliably trigger repairs due to inertia or finds the proximity requirement arbitrary and frustrating."
+      }
+    }
+  ],
+  "recommended_next_slice": {
+    "slice_name": "Segment Hunter Threat Validation (Skeleton A First Test)",
+    "why_this_before_meat": "The fastest way to know if any skeleton is worth building is to test whether the player makes one intentional convoy decision under pressure. Skeleton A's Segment Hunter creates that decision with the least new code: it is a Rustrammer variant with a targeting line and a death-burst circle on the Raidrunner. If this produces a deliberate choice in five minutes of play, the expendable-ammunition thesis is validated and meat can follow. If it does not, the data points toward Skeleton B or C without having built anything throwaway.",
+    "must_build": [
+      "Segment Hunter enemy: Rustrammer variant that locks a visible targeting line onto the rearmost convoy segment and ignores the root vehicle.",
+      "Raidrunner death burst: canvas fillArc explosion at segment death position, radius 120px, 0.3s duration, damages enemies in range.",
+      "Pickup decay timer: dropped segment pickup disappears after 6 seconds if not retrieved, shown as a shrinking ring.",
+      "Single authored wave: two Segment Hunters, no other enemies, spawning from the rear edge only."
+    ],
+    "must_not_build": [
+      "Upgrade UI or upgrade state scaffold of any kind.",
+      "Kill-chain scoring or local best persistence.",
+      "Additional segment types beyond Raidrunner and Hellkat.",
+      "Wave escalation beyond the single authored test wave.",
+      "Any visual polish pass on existing assets."
+    ],
+    "tuning_knobs": [
+      "Segment Hunter lock-on range: start at 300px; if player never notices the threat, reduce to 200px.",
+      "Targeting line opacity: start at 0.6; must be visible but not overwhelming.",
+      "Raidrunner death burst radius: start at 120px; if it never kills a Segment Hunter, increase to 160px.",
+      "Pickup decay timer: start at 6 seconds; if retrieval feels impossible under pressure, extend to 9 seconds.",
+      "Segment Hunter speed: start at 1.2x Rustrammer base speed; reduce if it feels unavoidable."
+    ],
+    "test_script": [
+      "Load the prototype with exactly three convoy segments: root vehicle, one Raidrunner, one Hellkat.",
+      "Trigger the authored wave: two Segment Hunters spawn from the rear edge simultaneously.",
+      "Observe without coaching for 3 minutes.",
+      "Ask: did the player ever say or imply they were protecting a specific segment?",
+      "Ask: did the player ever let a segment die and seem to notice the death burst?",
+      "Ask: did the player attempt to retrieve the pickup after segment loss?",
+      "If all three answers are no, the Segment Hunter targeting line is not legible enough; increase opacity and add a brief audio cue.",
+      "If the player protected segments but never exploited death bursts, the burst radius or damage is too low to be noticed.",
+      "If the player exploited death bursts intentionally, Skeleton A is validated; proceed to upgrade model."
+    ]
+  },
+  "armor_command_adaptations": {
+    "use_directly": [
+      "Difficulty scaling on multiple visible axes (count, cadence, speed, HP, special chance): apply this to Segment Hunter variants across waves once the base threat is validated.",
+      "Local personal bests as the only persistence needed for early release: do not build server scores.",
+      "Kill-chain scoring as a formal mechanic with a visible multiplier: valid for any of the three skeletons once the core tension is confirmed, not before.",
+      "Independent cooldown per weapon giving upgrades visible mechanical payoff: apply to segment death-effect upgrades in Skeleton A."
+    ],
+    "adapt_carefully": [
+      "Ground/sky or lane/zone separation improving immediate read: in Last Convoy this maps to threat vector directionality (Skeleton B), but the convoy snake shape makes strict lanes awkward; use directional warning icons instead of physical lanes.",
+      "Extra HP needs visible armor rings or scaling so survival is legible: apply to convoy segments, not the root vehicle; each segment should show a visible damage state before death.",
+      "Tap and hold input both supporting the core fantasy: joystick is already handled; consider whether a hold gesture should trigger the repair pulse in Skeleton C rather than proximity alone.",
+      "Additive trait mutation pattern where upgrades stack unless UI says replacement: valid but do not build the UI scaffold until the skeleton is confirmed."
+    ],
+    "do_not_import": [
+      "Baked hull art with live rotating turrets as the primary visual read: Last Convoy's identity is the snake convoy, not a single platform; do not collapse the design toward a single-vehicle turret game.",
+      "Paratroopers or drop-pod second enemy branch: the convoy snake already provides enough visual complexity; a second enemy branch before the core tension is validated adds noise.",
+      "Vehicle silhouettes reading better than humanoid sprites as a general rule: Last Convoy's sprites are already vehicle-based and source-parity-locked; do not redesign art."
+    ]
+  },
+  "decision_gate": {
+    "playtest_questions": [
+      "Did the player make at least one deliberate decision about which convoy segment to protect or sacrifice?",
+      "Did the player understand why a specific segment was being targeted before it died?",
+      "Did the player attempt to use or exploit a segment's death effect, even accidentally?",
+      "Did the player feel that convoy length was a tradeoff rather than a pure good?",
+      "Did the player express any emotional response to losing a specific segment beyond generic frustration?"
+    ],
+    "kill_the_direction_if": [
+      "After two playtests with the Segment Hunter, players still treat all segment deaths as equivalent random attrition with no targeting legibility.",
+      "The death burst never kills or damages an enemy in five minutes of play, making it invisible as a mechanic.",
+      "Players consistently ignore the pickup decay timer and retrieval window, meaning the cost structure is not registering.",
+      "The convoy snake shape makes the Segment Hunter's targeting line unreadable because the tail position changes too rapidly for the player to track.",
+      "Any of the three candidate skeletons produces the same directionless attrition feeling as the current skeleton in its first test."
+    ],
+    "greenlight_more_content_if": [
+      "At least one playtester says unprompted that they let a segment die on purpose to use its death effect.",
+      "Players ask what other segments do when they die, indicating they have internalized the expendable-ammunition model.",
+      "The Segment Hunter targeting line produces visible evasive maneuvering of the convoy tail within the first 90 seconds of play.",
+      "Players express a preference for convoy composition (wanting more Raidrunners or more Hellkats) based on observed tactical outcomes.",
+      "A five-minute session produces at least three distinct moments where the player made a visible positioning decision in response to a specific threat rather than generic avoidance."
+    ]
+  }
+}
+```

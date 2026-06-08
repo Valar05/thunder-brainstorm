@@ -21,9 +21,9 @@
 - Published page: `https://valarsbeard.itch.io/armor-command`
 - Butler target: `valarsbeard/armor-command:html`
 - Upload: `#17814005`
-- Build: `#1709776 (from #1709732)`
-- Version: `v1.1.9-2026-06-06`
-- Changes: Content Drop 2 additive weapon mutations, independent missile sequencing, piercer continuation, splitter chain delays, radioactive cloud and explosion sprite art, radioactive frame leak fix, drone flamethrower branch, and 50% louder music mix.
+- Build: `#1712543 (from #1709776)`
+- Version: `v1.1.10-2026-06-07`
+- Changes: Desktop/landscape engagement-lane patch that keeps enemies inside practical projectile reach, scales bullet lifetime modestly on wide screens, and preserves portrait phone behavior.
 
 ## Current Pitch
 

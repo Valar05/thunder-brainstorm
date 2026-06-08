@@ -75,3 +75,14 @@ Retarget pose-lab notes added 2026-06-06:
 - Runtime code: `/storage/emulated/0/Documents/GodotProjects/gravity-fist-threejs/src/pose-lab.js`
 
 The pose lab now has source/target retarget controls, a real Bones panel populated from loaded skeletons, visible selectable bone handles, local bone Translate/Rotate/Scale editing, and separate retarget channel toggles. Use it as the first browser-side bridge between Gravity Fist Three.js GLB inspection and Phalanx-style rig/clip diagnosis.
+
+
+## Three.js Combat Feel Parity
+
+Dash and pushback parity note added 2026-06-07:
+
+- Thunder workflow note: `/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-07_gravity_fist_threejs_dash_pushback_parity.md`
+- Three.js runtime: `/storage/emulated/0/Documents/GodotProjects/gravity-fist-threejs/src/main.js`
+- Source Godot player script: `/storage/emulated/0/Documents/GodotProjects/gravity-fist/scripts/player.gd`
+
+For melee feel bugs, compare Godot `dash_start`, target-gap clamp, ease-out microdash, hitbox arming, and `get_move_knockback_distance()` before tuning values in the Three.js port. Regression checks should measure actor displacement and target pushback, not only whether damage occurred.

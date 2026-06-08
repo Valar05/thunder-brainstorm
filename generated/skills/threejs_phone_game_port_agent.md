@@ -14,8 +14,9 @@ Use when a project in `/storage/emulated/0/Documents/GodotProjects` needs a fait
 4. Create a phone-first Three.js project: fullscreen canvas, fixed-step simulation, DOM HUD and menus, WebAudio unlock, deterministic zip builder, and asset manifest.
 5. Preserve mechanics before visual polish. Use source GLB assets when usable, but include procedural fallbacks so validation can continue when imports fail.
 6. Keep mobile controls native-feeling: full-surface pointer events, large HUD buttons, no in-game control clutter, and desktop keys/mouse as secondary support.
-7. Validate with JS syntax check, JSON checks, release zip `testzip()`, local server, mobile viewport smoke, and manual feel checks.
-8. Refresh Android file indexing for generated/copied project assets and release files under shared storage.
+7. For video-reported visual/combat defects, extract frames first, count distinct issues, then add a failing in-page regression suite before changing behavior.
+8. Validate with JS syntax check, JSON checks, release zip `testzip()`, local server, mobile viewport smoke, and manual feel checks.
+9. Refresh Android file indexing for generated/copied project assets and release files under shared storage.
 
 ## Porting Heuristics
 
@@ -23,6 +24,9 @@ Use when a project in `/storage/emulated/0/Documents/GodotProjects` needs a fait
 - Replace `CharacterBody3D` with simple capsule/circle collision on the X/Z plane unless exact physics is central to the game.
 - Replace `NavigationAgent3D` with direct steering, radial slots, and simple collision/yield logic for vertical slices.
 - Preserve attack windows from JSON: startup, active duration, dash start, dash distance, cooldown, recovery, hit reaction, and knockback.
+- For melee feel parity, port the source dash schedule, target-gap clamp, easing curve, and knockback formula order before tuning constants. Add beacon tests that measure player displacement and target pushback.
+- Phone portrait recordings should fill the browser surface. A forced 16:9 canvas, visible debug panel, joystick/HUD overlap, support enemies facing their movement slot instead of the player, and excessive active enemy cap are regression-testable defects.
+- Prefer in-page beacon tests for Android visual regressions: layout dimensions, debug visibility, safe joystick origin, active enemy cap, support-facing dot product, attack active windows, pose silhouette ratios, and orientation facing.
 - Keep dead systems out of parity. Mention them in orientation docs instead of silently deleting source context.
 
 ## Gravity Fist Evidence

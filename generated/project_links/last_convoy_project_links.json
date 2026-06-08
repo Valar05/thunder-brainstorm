@@ -1,0 +1,20 @@
+{
+  "project": "Last Convoy HTML5",
+  "local_project_root": "/storage/emulated/0/Documents/GodotProjects/last-convoy-html5",
+  "local_url": "http://127.0.0.1:8796/?v=20260607-shader-shatter-2",
+  "source_project": {
+    "host": "THECAULDRON",
+    "path": "C:\\Users\\dclar\\workspace\\convoy",
+    "name": "Last Convoy",
+    "main_scene_uid": "uid://qpmpjuxxt6fj"
+  },
+  "important_paths": {
+    "orientation": "/storage/emulated/0/Documents/GodotProjects/last-convoy-html5/PROJECT_ORIENTATION.md",
+    "runtime": "/storage/emulated/0/Documents/GodotProjects/last-convoy-html5/src/main.js",
+    "asset_manifest": "/storage/emulated/0/Documents/GodotProjects/last-convoy-html5/assets/asset_manifest.json",
+    "source_snapshot": "/storage/emulated/0/Documents/GodotProjects/last-convoy-html5/source_godot",
+    "session_learning": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-07_last_convoy_html5_port_lessons.md",
+    "manual_source_refs": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/source_refs_manual/last_convoy_html5_source_refs.jsonl"
+  },
+  "cache_bust": "20260607-shader-shatter-2"
+}

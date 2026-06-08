@@ -132,7 +132,11 @@ Open `http://127.0.0.1:8787/`.
 Generated-asset workflow notes for Gravity Fist and the Three.js port are preserved in:
 
 - `generated/session_learnings/2026-06-06_gravity_fist_meshy_asset_workflow.md`
+- `generated/session_learnings/2026-06-06_gravity_fist_video_regression_suite.md`
+- `generated/session_learnings/2026-06-07_gravity_fist_godot_animation_contract.md`
+- `generated/session_learnings/2026-06-07_gravity_fist_threejs_dash_pushback_parity.md`
 - `generated/project_links/gravity_fist_project_links.md`
+- `generated/skills/threejs_phone_game_port_agent.md`
 
 The workspace CLI is `../tools/meshy_asset_workflow.py`. Use it to generate or track DALL-E/OpenAI concept images, Meshy image-to-3D tasks, Meshy rigging tasks, downloads, and per-asset provenance manifests.
 
@@ -150,3 +154,23 @@ Armor Command 1.0 added generalized pattern cards and source refs for:
 - `additive_trait_mutation_stack`
 
 The manual source refs live in `generated/source_refs_manual/armor_command_prototype_source_refs.jsonl`, and the Thunder-visible workflow skill note lives in `generated/skills/armor_command_html5_release_operator.md`.
+
+## Last Convoy / HTML5 Port Learnings
+
+Last Convoy source-parity and canvas-port learnings are preserved for future vehicle/snake-convoy prototypes:
+
+- `generated/session_learnings/2026-06-07_last_convoy_html5_port_lessons.md`: source-parity canvas port lessons, textured fragmentation, offscreen WebGL fire shader bridge, cache busting, and root-cannon visual correction.
+- `generated/project_links/last_convoy_project_links.md`: durable links for the Cauldron source project, local HTML5 port, cache-busted play URL, and Thunder records.
+- `generated/source_refs_manual/last_convoy_html5_source_refs.jsonl`: manual source-reference records for Last Convoy source, canvas runtime, shader bridge, sprite fragmentation, and asset provenance.
+- Local play URL: `http://127.0.0.1:8796/?v=20260607-shader-shatter-2`
+
+New generalized pattern cards from this pass include `snake_convoy_upgrade_chain`, `source_parity_canvas_port`, `canvas_webgl_shader_bridge`, `textured_fragmentation_port`, and `android_cachebusted_canvas_iteration`.
+
+## FPS Platformer / Arcane IK Brainstorm
+
+A new first-person action platformer direction is captured in:
+
+- `generated/session_learnings/2026-06-07_fps_platformer_arcane_ik_brainstorm.md`: phone-landscape Three.js platformer concept using FPSPlayer arm animations and Arcane Manifold-inspired lower-body IK.
+- `generated/project_links/fps_platformer_arcane_ik_project_links.md`: local copied Blender assets, Arcane Manifold source pointers, and Three.js reference project links.
+
+The design target is a phone-first landscape Three.js runtime: arms sell weapon variety, while procedural foot planting, landing compression, slope contact, and body/camera yaw separation sell platforming feel.
