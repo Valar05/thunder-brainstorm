@@ -1,0 +1,27 @@
+{
+  "project": "driftfield",
+  "local_root": "/storage/emulated/0/Documents/GodotProjects/driftfield",
+  "repository": "https://github.com/Valar05/driftfield",
+  "urls": {
+    "title": "http://127.0.0.1:8798/driftfield/index.html",
+    "arcade": "http://127.0.0.1:8798/driftfield/arcade.html",
+    "expedition": "http://127.0.0.1:8798/driftfield/expedition.html"
+  },
+  "orientation_docs": [
+    "driftfield/PROJECT_ORIENTATION.md",
+    "driftfield/AGENTS.md",
+    "driftfield/DEVELOPMENT_GUIDE.md",
+    "driftfield/ASTEROID_MINE_GRAMMAR.md",
+    "driftfield/MESHY_PROP_GENERATION_MANIFEST.json"
+  ],
+  "thunder_records": [
+    "generated/session_learnings/2026-06-14_driftfield_asteroid_mine_grammar.md",
+    "generated/session_learnings/2026-06-14_driftfield_expedition_cave_meshy_handoff.md",
+    "generated/source_refs_manual/driftfield_asteroid_mine_source_refs.jsonl",
+    "generated/source_refs_manual/driftfield_expedition_runtime_source_refs.jsonl"
+  ],
+  "validation": [
+    "node --import ./tests/register-three-loader.mjs --test tests/expedition-generation.test.mjs"
+  ],
+  "current_expedition_build": "0.1.93"
+}
