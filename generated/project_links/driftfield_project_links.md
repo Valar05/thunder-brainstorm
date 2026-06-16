@@ -26,6 +26,8 @@
 
 ## Current Runtime Notes
 
-- Expedition build after the Meshy infrastructure cleanup: `0.1.93`.
+- Expedition build after cockpit PBR map-response cache bust: `0.1.94`.
 - Meshy pipe/cable infrastructure is visual-only and uses instanced GLB component slices.
 - Validation command: `node --import ./tests/register-three-loader.mjs --test tests/expedition-generation.test.mjs` from the Driftfield root.
+
+- Meshy PBR rendering operator: `generated/skills/meshy_pbr_rendering_operator.md`

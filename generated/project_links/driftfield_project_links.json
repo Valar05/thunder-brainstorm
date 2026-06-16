@@ -18,10 +18,11 @@
     "generated/session_learnings/2026-06-14_driftfield_asteroid_mine_grammar.md",
     "generated/session_learnings/2026-06-14_driftfield_expedition_cave_meshy_handoff.md",
     "generated/source_refs_manual/driftfield_asteroid_mine_source_refs.jsonl",
-    "generated/source_refs_manual/driftfield_expedition_runtime_source_refs.jsonl"
+    "generated/source_refs_manual/driftfield_expedition_runtime_source_refs.jsonl",
+    "generated/skills/meshy_pbr_rendering_operator.md"
   ],
   "validation": [
     "node --import ./tests/register-three-loader.mjs --test tests/expedition-generation.test.mjs"
   ],
-  "current_expedition_build": "0.1.93"
+  "current_expedition_build": "0.1.94"
 }

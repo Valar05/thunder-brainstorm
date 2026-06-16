@@ -26,3 +26,8 @@ Driftfield now has two explicit modes: Arcade Mode remains the Asteroids-like co
 - Screenshot-first critique matters for this project. Inspect fresh Android screenshots before reasoning about visual complaints.
 - Repeated visual failures should become tests before another placement pass.
 - Driftfield-local docs stay authoritative for implementation; Thunder records preserve reusable patterns and source pointers for future projects.
+
+
+## Imported Cockpit PBR Lesson
+
+The imported Meshy cockpit/cannon model uses the same principle as the Infinite Brutality FPS arms: if the foreground model looks flat while nearby PBR surfaces read correctly, make the supplied maps participate before blaming or weakening the maps. `src/visuals.js` now keeps the imported cockpit material map-driven with full normal/roughness/metalness scalar authority and cache-busted imports from both Arcade and Expedition.

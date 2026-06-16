@@ -1,0 +1,118 @@
+{
+  "project": "infinite-brutality",
+  "date": "2026-06-08",
+  "current_build": "0.8.166",
+  "local_project_root": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality",
+  "play_url": "http://127.0.0.1:8798/infinite-brutality/index.html",
+  "thunder_docs_url": "http://127.0.0.1:8765/",
+  "files": {
+    "entry": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/index.html",
+    "runtime": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/src/main.js",
+    "styles": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/src/styles.css",
+    "orientation": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/PROJECT_ORIENTATION.md",
+    "local_thunder_links": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/THUNDER_LINKS.md",
+    "level_generation_contract": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/LEVEL_GENERATION_CONTRACT.md",
+    "route_templates": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/data/level_route_templates.json",
+    "room_junction_batch": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/data/room_junction_batch.json",
+    "room_junction_batch_doc": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/ROOM_JUNCTION_BATCH_LIST.md",
+    "limbo_panorama_sky": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/assets/textures/ib-vector-limbo-panorama-20260609.svg",
+    "generated_room_batch_module": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/src/generated_room_batch.js",
+    "room_batch_implementation_doc": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/ROOM_BATCH_IMPLEMENTATION.md",
+    "real_limbo_skybox": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/assets/textures/ib-real-limbo-skybox-20260609.png",
+    "local_level_design_workflow": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/LEVEL_DESIGN_WORKFLOW.md",
+    "vertical_district_realization_plan": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/VERTICAL_DISTRICT_REALIZATION_PLAN.md"
+  },
+  "thunder_records": {
+    "prototype_lessons": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-08_infinite_brutality_prototype_lessons.md",
+    "project_links": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/project_links/infinite_brutality_project_links.md",
+    "manual_source_refs": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/source_refs_manual/infinite_brutality_source_refs.jsonl",
+    "precursor_arcane_fps": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-07_fps_platformer_arcane_ik_brainstorm.md",
+    "quake_touch_movement": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-08_quake_movement_touch_speedrun_brainstorm.md",
+    "quake_route_grammar_curriculum": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/quake_route_grammar/quake_route_grammar_curriculum.md",
+    "quake_route_grammar_extractor": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/tools/quake_route_grammar.py",
+    "quake_source_manifest": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/source_manifest.json",
+    "quake_source_archive": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+    "general_level_design_workflow": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/skills/level_design_environment_grammar.md",
+    "meshy_pbr_rendering_handoff": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-15_infinite_brutality_meshy_pbr_rendering_handoff.md",
+    "meshy_pbr_rendering_source_refs": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/source_refs_manual/infinite_brutality_meshy_pbr_rendering_source_refs.jsonl",
+    "meshy_pbr_rendering_skill": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/skills/meshy_pbr_rendering_operator.md"
+  },
+  "quake_route_grammar_training": {
+    "levels_processed": 63,
+    "playable_levels_trained": 41,
+    "prefab_or_item_sources_metadata_only": 22,
+    "status": "trained_from_legal_quake_map_sources"
+  },
+  "measured_room_pass": {
+    "status": "implemented",
+    "route_sentence": [
+      "entry_read",
+      "runway_lip",
+      "offset_bridge_commitment",
+      "west_recovery_gallery",
+      "upper_crossing",
+      "visible_exit_gate"
+    ],
+    "runtime": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/src/main.js",
+    "cache_buster": "src/main.js?v=0.7.3"
+  },
+  "room_junction_batch": {
+    "total_specs": 48,
+    "batch_prompt_coverage": {
+      "1c_terminal": 14,
+      "2c_workhorse": 20,
+      "3c_junction": 10,
+      "4c_hub": 4
+    },
+    "runtime_frequency_target": {
+      "1c_terminal": 0.18,
+      "2c_workhorse": 0.52,
+      "3c_junction": 0.23,
+      "4c_hub": 0.07
+    },
+    "source_visual_evidence": "/storage/emulated/0/Pictures/Screenshots/Screenshot_20260608-212752.png"
+  },
+  "panorama_skybox_pass": {
+    "status": "implemented",
+    "build": "0.7.4",
+    "asset": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/assets/textures/ib-vector-limbo-panorama-20260609.svg",
+    "cache_buster": "src/main.js?v=0.7.4",
+    "style": "flat vector Limbo panorama, no starscape, no pure-black horizon band"
+  },
+  "generated_room_batch_runtime": {
+    "status": "implemented",
+    "build": "0.8.0",
+    "room_count": 48,
+    "source_data": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/data/room_junction_batch.json",
+    "generated_module": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/src/generated_room_batch.js",
+    "runtime_builder": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/src/main.js",
+    "advance_rule": "reaching exit marker advances to the next generated room; after room 48, wraps to room 1 and increments level index"
+  },
+  "real_bitmap_skybox_pass": {
+    "status": "implemented",
+    "build": "0.8.1",
+    "asset": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/assets/textures/ib-real-limbo-skybox-20260609.png",
+    "source": "/data/data/com.termux/files/home/.codex/generated_images/019ea9f0-2e3e-7901-b53f-28af45e03dba/ig_0af725679b306e69016a277f76f7d481949c00f6fe05e368b9.png",
+    "processing": "center-cropped and resized to 2048x1024 PNG",
+    "cache_buster": "src/main.js?v=0.8.1"
+  },
+  "physical_gauntlet_fix": {
+    "status": "implemented",
+    "build": "0.8.3",
+    "screenshot_evidence": "/storage/emulated/0/Pictures/Screenshots/Screenshot_20260609-045506.png",
+    "fixes": [
+      "removed per-room teleport advance",
+      "builds all 48 generated rooms into one physical gauntlet",
+      "floor-first generated chamber baseline",
+      "no global side void by default",
+      "raised overlays to avoid z-fighting"
+    ],
+    "runtime": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/src/main.js",
+    "cache_buster": "src/main.js?v=0.8.3"
+  },
+  "build_context": {
+    "current_documented_runtime_build": "0.8.28",
+    "page_cache_buster": "src/main.js?v=0.8.28",
+    "mesh_pbr_rendering_pass": "Build 0.8.166 screenshot validated that rock PBR textures were correct and foreground arms needed visible Meshy PBR map response through material/lighting, not weaker normal maps."
+  }
+}
