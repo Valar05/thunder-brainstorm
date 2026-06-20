@@ -1,0 +1,100 @@
+{
+  "packet_lines": [
+    {
+      "packet_id": "hg_np_01_cistern_sleep_ledge",
+      "spoken_text": "Two people slept here in shifts, children placed furthest from the edge."
+    },
+    {
+      "packet_id": "hg_np_02_lamp_shelf_shrine",
+      "spoken_text": "Vows were knotted here instead of spoken, where the bridge below still carried listeners."
+    },
+    {
+      "packet_id": "hg_np_03_splice_bench",
+      "spoken_text": "Eastward lines were repaired first and marked twice so no one confused the priority."
+    },
+    {
+      "packet_id": "hg_np_04_grain_wall_recess",
+      "spoken_text": "Household shares were counted here, and a broken seal meant leave east immediately."
+    },
+    {
+      "packet_id": "hg_np_05_name_veil_niche",
+      "spoken_text": "Ages were carved into the stone, but names were kept veiled until the seventh morning."
+    },
+    {
+      "packet_id": "hg_np_06_bath_step_corner",
+      "spoken_text": "Children copied the rationing rules here until their hands knew them better than their mouths."
+    },
+    {
+      "packet_id": "hg_np_07_toll_icon_shelf",
+      "spoken_text": "The toll ledger closed at the poisoning, and the marks left behind became something else entirely."
+    },
+    {
+      "packet_id": "hg_np_08_hidden_jar_crawlspace",
+      "spoken_text": "Three jars cached under the drain lip for households planning an eastward crossing."
+    },
+    {
+      "packet_id": "hg_np_09_bell_blind_memorial",
+      "spoken_text": "Forty-one lines scratched into the stone, one for each household that passed through before someone stopped counting."
+    },
+    {
+      "packet_id": "hg_np_10_garden_graft_table",
+      "spoken_text": "Grafting technique was repurposed for splinting here, good binding going first to the living."
+    },
+    {
+      "packet_id": "hg_np_11_veil_stair_school",
+      "spoken_text": "Children learned to point east before they were permitted to say the word aloud."
+    },
+    {
+      "packet_id": "hg_np_12_underbridge_ash_wrap",
+      "spoken_text": "Bodies wrapped here carried the age on the outside and kept the name sealed inside."
+    },
+    {
+      "packet_id": "hg2_np_01_bell_tongue_reliquary",
+      "spoken_text": "Seven bell tongues were stored here wrapped in salt cloth, three of them still unaccounted."
+    },
+    {
+      "packet_id": "hg2_np_02_witness_step_school",
+      "spoken_text": "Children were taught to stand on the marked step and say their name before touching any bell rope."
+    },
+    {
+      "packet_id": "hg2_np_03_double_seal_bench",
+      "spoken_text": "Every civic seal pressed here required a witnessed mercy mark on the opposite side."
+    },
+    {
+      "packet_id": "hg2_np_04_unblessed_water_shelf",
+      "spoken_text": "Three bowls have sat upturned since the collapse, no one with standing left to bless them."
+    },
+    {
+      "packet_id": "hg2_np_05_unrung_memorial_arc",
+      "spoken_text": "The bell fell before the list of names could be read out, so none of them were rung."
+    },
+    {
+      "packet_id": "hg2_np_06_roof_curtain_cell",
+      "spoken_text": "A torn curtain here means the last watcher left in haste without folding it back."
+    },
+    {
+      "packet_id": "hg2_np_07_substitute_offering_wall",
+      "spoken_text": "When proper offerings ran out, folded names pressed flat against the lower course became the record."
+    },
+    {
+      "packet_id": "hg2_np_08_cistern_cap_table",
+      "spoken_text": "Route papers for the sealed cistern stair are held here, and taking one is not permission to descend."
+    },
+    {
+      "packet_id": "hg2_np_09_handprint_count_panel",
+      "spoken_text": "Each white print marks one witness present at a rite since the belltower came down."
+    },
+    {
+      "packet_id": "hg2_np_10_blind_choir_corner",
+      "spoken_text": "Children practiced the bell rhythm here with their hands against the wall, no iron permitted."
+    },
+    {
+      "packet_id": "hg2_np_11_linen_name_drawer",
+      "spoken_text": "Linen strips with a knot at the end mean confirmed gone, unknotted strips mean still waiting."
+    },
+    {
+      "packet_id": "hg2_np_12_sealed_stair_cache",
+      "spoken_text": "Rope, lamp, and four days of dry ration stored here, not to be opened until the cistern cap does."
+    }
+  ]
+}

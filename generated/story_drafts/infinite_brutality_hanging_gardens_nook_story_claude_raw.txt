@@ -1,0 +1,112 @@
+{
+  "packet_updates": [
+    {
+      "id": "hg_np_01_cistern_sleep_ledge",
+      "replacement_text_fragments": [
+        "Third ledge holds two. Do not take the mat if you are leaving before dawn.",
+        "Blue cord on the left post means the water below is still drawn.",
+        "Mark your count on the stone. Caretaker checks at first bell."
+      ],
+      "voice_note": "Caretaker voice: the ledge is managed infrastructure, not refuge, and the phrasing enforces that distinction under scarcity."
+    },
+    {
+      "id": "hg_np_02_lamp_shelf_shrine",
+      "replacement_text_fragments": [
+        "One wick per household. Do not light for the unnamed.",
+        "Age only. No name after dusk. This was agreed.",
+        "Seven bowls. Three remain. Do not move the arrangement."
+      ],
+      "voice_note": "Mourner voice enforcing the taboo against naming the dead after dusk, with the bowl-count as a grief tally that doubles as inventory."
+    },
+    {
+      "id": "hg_np_03_splice_bench",
+      "replacement_text_fragments": [
+        "Blue cord spliced here must hold forty spans before the next anchor.",
+        "Novice: do not cut short to save time. The captain will know.",
+        "Eastward lines are priority. Mark them twice."
+      ],
+      "voice_note": "Work captain instruction left for a novice, practical and slightly threatening, tied to the eastward-ascent route motif."
+    },
+    {
+      "id": "hg_np_04_grain_wall_recess",
+      "replacement_text_fragments": [
+        "Twelve measures in. Seven spoken for. Do not touch the bottom row.",
+        "Water-line at the third mark is the household share. Not the carrier share.",
+        "If the seal is broken and you did not break it, go east. Now."
+      ],
+      "voice_note": "Quartermaster voice: the recess is a rationed store, and the final line encodes the survival doctrine of concealment as an emergency instruction."
+    },
+    {
+      "id": "hg_np_05_name_veil_niche",
+      "replacement_text_fragments": [
+        "Veil stays until the seventh morning. Do not lift it to check.",
+        "Age: 44. Age: 9. Age: 9.",
+        "We do not say them here. We said them at the east terrace."
+      ],
+      "voice_note": "Mourner voice: the ages without names honor the taboo while the repeated child-age makes the loss legible without exposition."
+    },
+    {
+      "id": "hg_np_06_bath_step_corner",
+      "replacement_text_fragments": [
+        "Water here is not for drinking. Do not let the children forget.",
+        "Ration line is the third scratch from the drain. Below that, report to the caretaker.",
+        "Soap left means someone is coming back. Do not use it."
+      ],
+      "voice_note": "Caretaker voice with a refugee clerk's precision: the soap line encodes hope and absence simultaneously without naming either."
+    },
+    {
+      "id": "hg_np_07_toll_icon_shelf",
+      "replacement_text_fragments": [
+        "Toll ledger closed at the poisoning. These marks are ours now.",
+        "Blue cord tied to the left bracket: safe passage confirmed this morning.",
+        "Do not move the icon. The guard uses it to count who has passed."
+      ],
+      "voice_note": "Guard voice repurposing official toll infrastructure for concealed household route-signaling, showing the rupture event's administrative aftermath."
+    },
+    {
+      "id": "hg_np_08_hidden_jar_crawlspace",
+      "replacement_text_fragments": [
+        "Three jars. The cracked one is not food. Do not open it in here.",
+        "If you are reading this and you are not from the terrace households, leave one jar and go.",
+        "Mark on the lid means it was tested. No mark means wait for the caretaker."
+      ],
+      "voice_note": "Scavenger voice with a refugee clerk's caution: the cracked jar implies the poisoning without naming it, and the conditional address enforces concealment doctrine."
+    },
+    {
+      "id": "hg_np_09_bell_blind_memorial",
+      "replacement_text_fragments": [
+        "Bell is not rung after dusk. This was decided.",
+        "Scratch a line for each household that passed through. Forty-one lines.",
+        "Do not ask who stopped counting."
+      ],
+      "voice_note": "Mourner voice compressed to near-silence: the tally and the unanswered question carry the grief without any ornament."
+    },
+    {
+      "id": "hg_np_10_garden_graft_table",
+      "replacement_text_fragments": [
+        "Eastward rootstock only. The western beds are not worth the water.",
+        "Child's copy: graft at the third node, bind with the thin cord, do not touch for nine days.",
+        "If it takes, mark the pot with a line. If it does not, say nothing."
+      ],
+      "voice_note": "Work captain instruction transcribed by a child into a copy exercise, with the eastward-ascent hope embedded in the agricultural priority."
+    },
+    {
+      "id": "hg_np_11_veil_stair_school",
+      "replacement_text_fragments": [
+        "Copy until the line is straight. Caretaker will check the angle.",
+        "Do not write names. Write ages. Write directions. Write counts.",
+        "Eastward arrow: draw it the same way every time. This matters."
+      ],
+      "voice_note": "Novice and child voice in a constrained lesson environment where the curriculum is survival literacy, not letters."
+    },
+    {
+      "id": "hg_np_12_underbridge_ash_wrap",
+      "replacement_text_fragments": [
+        "Ash wrap means the household is finished. Do not disturb the bundle.",
+        "Penitent: if you wrapped it, you owe three days of water-carrying. No exceptions.",
+        "Age marked on the outside. Name is inside. It stays inside."
+      ],
+      "voice_note": "Penitent and mourner voice: the ash wrap is a burial practice shaped entirely by the taboo, with the name's concealment made physically literal."
+    }
+  ]
+}

@@ -174,3 +174,28 @@ A new first-person action platformer direction is captured in:
 - `generated/project_links/fps_platformer_arcane_ik_project_links.md`: local copied Blender assets, Arcane Manifold source pointers, and Three.js reference project links.
 
 The design target is a phone-first landscape Three.js runtime: arms sell weapon variety, while procedural foot planting, landing compression, slope contact, and body/camera yaw separation sell platforming feel.
+
+## Infinite Brutality Prototype Learnings
+
+Infinite Brutality runtime and design notes are preserved for future first-person melee/platformer passes:
+
+- `generated/session_learnings/2026-06-08_infinite_brutality_prototype_lessons.md`: creative direction, room/level bible, movement goals, runtime build state, low-poly visual lessons, dungeon graph direction, and diegetic lighting plan.
+- `generated/project_links/infinite_brutality_project_links.md`: local project paths, play URL, Thunder docs URL, and related notes.
+- `generated/source_refs_manual/infinite_brutality_source_refs.jsonl`: manual source-reference records for runtime systems that normal indexing may skip or flatten.
+- `generated/skills/level_design_environment_grammar.md`: general environment-first level-design workflow and critique-improvement loop.
+- `../infinite-brutality/docs/LEVEL_DESIGN_WORKFLOW.md`: Infinite Brutality-specific companion workflow note.
+- `../infinite-brutality/docs/VERTICAL_DISTRICT_REALIZATION_PLAN.md`: corrective implementation plan for moving Infinite Brutality from a flat graph with room garnish to a true 3D district spine.
+- Local play URL: `http://127.0.0.1:8798/infinite-brutality/index.html`
+
+
+## Quake Route Grammar Curriculum
+
+Infinite Brutality now has a route-grammar extractor and bootstrap curriculum for Quake-style level generation without copying Quake layouts or data:
+
+- `tools/quake_route_grammar.py`: sequential extractor for local `.map`, `.bsp`, Quake `.pak`, and `.pk3`/`.zip` sources.
+- `generated/quake_route_grammar/quake_route_grammar_curriculum.md`: abstract route-template report.
+- `generated/quake_route_grammar/quake_route_grammar_curriculum.json`: generator-facing curriculum data.
+- `../infinite-brutality/LEVEL_GENERATION_CONTRACT.md`: project-local hard rules.
+- `../infinite-brutality/data/level_route_templates.json`: current route templates.
+
+Current curriculum is trained from the legal Quake map-source archive isolated under `generated/external_sources/quake_map_sources/`: 63 total sources, 41 playable maps trained, 22 item/prefab sources metadata-only. Infinite Brutality consumes only abstract route sentences and ML level-design lessons, not Quake geometry or assets.
