@@ -2,6 +2,13 @@
 
 Thunder Brainstorm is a local game-idea engine built from generalized patterns observed across this workspace and GitHub repository metadata. It is intentionally not a repo copier: it stores pattern cards, source observations, and generated pitches, not source code from inspected projects.
 
+## Prospector / WWDD Behavioral Mining
+
+Prospector artifacts mine the Thunder Brainstorm corpus for repeated operator judgment rather than project summaries:
+
+- `generated/behavioral_mining/prospector_wwdd_thunder_brainstorm_2026-06-22.md`: evidence-backed behavioral distillation, WWDD candidates, Crucible scoring, gold promotions, and recommended doctrine.
+- `generated/doctrine/wwdd_gold_rules_2026-06-22.md`: compact promoted WWDD rules for future agents.
+
 ## Armor Command / Page Assets
 
 Newest prototype release/page materials are mirrored as actual Thunder docs first, with link records and lessons below them:
