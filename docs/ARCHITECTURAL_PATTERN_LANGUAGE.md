@@ -1,7 +1,7 @@
 # Architectural Pattern Language
 
-Version: 0.4
-Status: Self-Correcting Generator Contract
+Version: 0.5
+Status: Historical Self-Correcting Generator Contract
 
 This corpus is a procedural architecture brain, not a style guide. Use it as `World constraints -> District -> Phrase -> Assembly -> Primitive -> Voxel/material`.
 
@@ -82,9 +82,120 @@ Reject if: isolated districts, broken rail/dock/road continuity, unreadable mass
 Rationale: city scale needs organization above room grammar.
 
 WORLD
-Requires: valid district graph, macro traversal possible, impossible structures justified by world rules, biome/material constraints honored.
-Reject if: traversal chain breaks, floating structures lack setting logic, district functions contradict world premise.
+Requires: valid district graph, macro traversal possible, impossible structures justified by world rules, biome/material constraints honored, lifecycle phases compatible with world history.
+Reject if: traversal chain breaks, floating structures lack setting logic, district functions contradict world premise, or construction history contradicts material/terrain rules.
 Rationale: world rules decide what architecture can exist at all.
+
+
+## Construction History Grammar
+
+Construction history is the temporal type system for architecture. It explains why valid structures have scars, material seams, redundant routes, patches, blocked passages, and retrofits instead of reading as if every box was placed at the same moment.
+
+A generator should run history before final art and after district intent: `World constraints -> District purpose -> Construction History -> Phrase/Assembly placement -> Validation`.
+
+### Lifecycle Phases
+
+NATURAL FORMATION
+Owns terrain, strata, cliff cuts, voids, water/cloud edges, mineral seams, and natural supports.
+Allowed operations: carve, expose, erode, fracture, terrace lightly, create defensible or useful natural edges.
+Visible marks: irregular rock, old strata, cliff scars, natural shelves, erosion lines, unsupported void only if world rules allow it.
+Reject if: terrain looks machine-cut before construction exists, natural support contradicts gravity/world rules, or later structures ignore the natural load path.
+
+INITIAL CONSTRUCTION
+Owns first intentional purpose: fort, dock, quarry, station, foundry, civic terrace, service tunnel, retaining wall, or sacred/civic anchor.
+Allowed operations: stabilize, retain, bridge, enclose, gate, route, drain, support, claim landmark.
+Visible marks: primary material generation, strongest structural logic, cleanest route graph, foundational supports.
+Reject if: initial construction has no purpose, no access, no foundation/support, or no relation to natural formation.
+
+EXPANSION
+Owns growth after initial success or pressure: added spans, extra terraces, larger platforms, new machinery, extended wall bays, secondary docks, larger batteries.
+Allowed operations: append, widen, stack, repeat, add parallel route, add support after load increases.
+Visible marks: material generation change, rhythm continuation with slight mismatch, new supports tied into old structure, extended circulation.
+Reject if: expansion does not connect to the original graph, overloads earlier supports without reinforcement, or duplicates rooms without new purpose.
+
+DAMAGE
+Owns destructive events: battle, fire, flood, erosion, overload, collapse, abandonment, sabotage, ritual/industrial accident.
+Allowed operations: break, block, expose, deform, remove support, scar surfaces, interrupt routes, create hazardous negative space.
+Visible marks: collapsed spans, broken parapets, scorched furnace edges, cracked retaining walls, blocked tunnels, exposed old structure.
+Reject if: damage is random decoration, misses exposed/stressed/attacked parts, destroys required support while the structure still stands, or has no gameplay/readability consequence.
+
+REPAIR
+Owns survival work after damage: patches, braces, replacement piers, shoring, blocked unsafe routes, emergency stairs, mended parapets.
+Allowed operations: brace, patch, reroute, replace, shore, seal, reinforce, mark hazard.
+Visible marks: mismatched material, visible seams, extra supports, blocked doors, temporary-looking routes, redundant structure.
+Reject if: repair exists without prior damage/stress, repair does not address the failure, or patch material/placement hides the damage cause completely.
+
+RETROFIT
+Owns new use on old bones: quarry to barracks, civilian dock to military port, bridge to rail viaduct, fortress wall to industrial support, chapel/civic hall to command post.
+Allowed operations: repurpose, insert machinery, cut new access, add service routes, adapt old openings, block obsolete routes.
+Visible marks: new function crossing old geometry, old facade with new service logic, strengthened floors, inserted plinths, changed circulation hierarchy.
+Reject if: new purpose has no physical changes, old purpose disappears without traces, or retrofit contradicts load/circulation limits.
+
+CURRENT STATE
+Owns the playable condition: active, abandoned, occupied, contested, repaired, unstable, flooded, militarized, industrialized, sacred, ruined, or reclaimed.
+Allowed operations: choose active/inactive routes, expose readable goals, preserve intentional hazards, set encounter/logistics state.
+Visible marks: maintained paths, fresh repairs, blocked hazards, active machines, occupied guard routes, readable player route through old layers.
+Reject if: current route contradicts damage/repair state, active logistics have no maintained path, or player purpose is disconnected from district history.
+
+### Historical State Fields
+
+Every District should own: `lifecycle_phases`, `dominant_origin`, `current_use`, `phase_boundaries`, `active_routes`, `abandoned_routes`, `material_generations`, `damage_events`, `repair_events`, `retrofit_purpose`.
+
+Every Room and Phrase should own: `built_phase`, `modified_phase`, `route_status`, `phase_boundary_visible`, `purpose_before`, `purpose_now`.
+
+Every Assembly should own: `built_phase`, `material_generation`, `damage_state`, `repair_state`, `support_lineage`, `retrofit_role`.
+
+Every Structural Atom, Primitive, and Voxel should own only low-level evidence: `material_generation`, `damage_state`, `repair_patch`, `support_status`, `exposure_age`.
+
+### History Validation Rules
+
+- Reject repaired structure with no prior damage, overload, erosion, or deliberate reinforcement reason.
+- Reject retrofit with no old structure to reuse and no visible physical adaptation.
+- Reject expansion that does not connect to earlier circulation, logistics, support, or defense.
+- Reject material mismatch unless a phase boundary explains it.
+- Reject damage that does not target exposed, stressed, attacked, neglected, or hazardous parts.
+- Reject abandoned route unless replacement route exists, abandonment has gameplay purpose, or the district is meant to be broken.
+- Reject ruin that still depends structurally on destroyed supports.
+- Reject ancient/old district with no accumulated adaptation, weathering, repair, or reuse.
+- Reject current player route that contradicts lifecycle state.
+- Reject phase boundaries that are invisible; if history matters, it must leave geometry, material, route, or support evidence.
+
+### History-Driven Generator Decisions
+
+History should influence material palette, support placement, route priority, blocked passages, redundant stairs, emergency bypasses, repair patches, landmark age, skyline asymmetry, district edge condition, hazard placement, and encounter approach.
+
+Use history to decide why two adjacent things disagree. A mismatch is only believable when the generator can name the phase boundary that caused it.
+
+### History Metrics
+
+| Metric | Computation Signal | Fails When |
+| --- | --- | --- |
+| phase_legibility_score | visible phase boundaries / declared phase boundaries | history exists only in metadata |
+| material_lineage_score | material generations with valid phase owner / material generations used | materials mismatch without timeline cause |
+| repair_causality_score | repairs linked to damage/stress events / repair events | patches appear without cause |
+| retrofit_coherence_score | new-purpose changes that touch routes/support/logistics / retrofit declarations | repurpose is label-only |
+| abandonment_logic_score | abandoned routes with replacement/purpose / abandoned routes | blocked routes are random dead ends |
+| age_layering_score | districts with 2+ coherent phases / old districts | old places look newly built |
+| damage_consequence_score | damage events affecting route/support/readability / damage events | damage is cosmetic only |
+
+### Minimal History Algorithm
+
+1. Choose district origin from world and terrain: natural edge, military plateau, quarry, dock, foundry, station, civic core.
+2. Generate initial construction that solves the origin need with valid support and circulation.
+3. Apply 0-3 expansion events along the strongest logistics, defense, or traversal axis.
+4. Apply 0-2 damage events targeted at exposed/stressed/contested systems.
+5. Apply repair only where damage threatens support, circulation, logistics, or defense.
+6. Apply retrofit only if current use differs from original use.
+7. Emit current state: active routes, abandoned routes, hazards, landmarks, player path, and visible phase boundaries.
+8. Run static validation plus history validation. Reject if geometry is valid but causality is incoherent.
+
+### Napoleon Lifecycle Example
+
+Natural floating stratum -> initial fortress retaining plateau -> artillery expansion -> bombardment damage -> emergency retaining repair -> rail/dock retrofit -> current contested military-industrial district.
+
+Required visible evidence: natural underside or cliff edge, old retaining walls, newer battery/parapet work, blast scars, patch supports, rail or dock insertion, active player route through the contested current state.
+
+Rationale: Napoleon's Floating Kingdom should feel inherited and modified under pressure. The point is not to add decay decoration; it is to make support, logistics, military use, and traversal tell a chronological story.
 
 ## Vocabulary Normalization
 
@@ -1581,13 +1692,14 @@ Metrics must be computed from generated geometry and graph data, not judged from
 | negative_space_ratio | void/open traversable area / total room or district footprint | room is too solid to read or too empty to have structure |
 | purpose_coverage | objects with structural/gameplay/sightline purpose / total generated objects | boxes exist without declared role |
 | termination_score | terminated runs / wall, bridge, roof, parapet, and terrace runs | endless walls, unended bridges, flat roofs, or naked edges appear |
+| history_coherence_score | lifecycle events with visible structural/material/route evidence / declared lifecycle events | district feels newly assembled or timeline contradicts geometry |
 
 Rationale: these metrics let the generator reject nonsense before art polish. They also create a tuning surface for mutation profiles: Quake can demand higher support_score and verticality, while Half-Life can demand higher logistics_score and maintenance_visibility.
 
 
 ## Imperial Floating Strata Validation
 
-Napoleon's Floating Kingdom must answer three questions for every district: why was it built, why is it still standing, and why is the player here?
+Napoleon's Floating Kingdom must answer three questions for every district: why was it built, why is it still standing, and why is the player here? It must also expose enough construction history to show how the current district emerged from earlier terrain, military, industrial, and repair phases.
 
 REQUIRE
 - circulation: every plateau, dock, station, foundry, quarry, and battery connects to the district graph.
@@ -1595,6 +1707,7 @@ REQUIRE
 - support: floating or elevated structures declare retaining walls, piers, abutments, tower bases, suspension logic, or world-rule exceptions.
 - skyline: each district has a readable crown, battery, tower, crane, viaduct, or roof monitor profile.
 - purpose: every major structure declares civic, military, industrial, traversal, or encounter role.
+- history: every major mismatch, scar, patch, blocked route, and retrofit maps to a lifecycle phase.
 
 REJECT
 - bridge with no military, civic, logistics, or traversal reason.
@@ -1626,6 +1739,6 @@ Napoleon's Floating Kingdom is the stress test for whether this corpus can build
 
 ## Migration Note
 
-Version 0.2 introduced the canonical/mutation/phrase split. Version 0.3 made that split operational by adding hierarchy, structural atoms, measurable mutation parameters, phrase validation, and district-scale infrastructure grammar. Version 0.4 adds validation contracts, assembly invariants, phrase rejection rules, generator metrics, and Imperial Floating Strata validation so generators can reject nonsense before art polish.
+Version 0.2 introduced the canonical/mutation/phrase split. Version 0.3 made that split operational by adding hierarchy, structural atoms, measurable mutation parameters, phrase validation, and district-scale infrastructure grammar. Version 0.4 adds validation contracts, assembly invariants, phrase rejection rules, generator metrics, and Imperial Floating Strata validation so generators can reject nonsense before art polish. Version 0.5 adds Construction History Grammar so places can validate causality over time, not just static structure.
 
 If a future generator needs prose cards, generate them from these contracts rather than copying hand-authored variants forward.
