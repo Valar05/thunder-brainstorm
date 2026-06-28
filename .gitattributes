@@ -39,3 +39,4 @@
 *.woff2 filter=lfs diff=lfs merge=lfs -text
 *.pdf filter=lfs diff=lfs merge=lfs -text
 # END CODEX GIT LFS
+generated/index_local/mechanic_source_refs.jsonl filter=lfs diff=lfs merge=lfs -text
