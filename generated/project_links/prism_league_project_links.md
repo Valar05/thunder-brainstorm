@@ -31,3 +31,12 @@ Date: 2026-06-22
 - `node --check src/game.mjs`
 - `node --check src/asset-layer.mjs`
 - Local server smoke: HTTP 200 on `/` and `/src/index.html`
+
+## Ritual Pinball Canon Update
+
+Date: 2026-06-24
+
+- Canon bible: `/storage/emulated/0/Documents/GodotProjects/prism-league/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md`
+- Concept art: `/storage/emulated/0/Documents/GodotProjects/prism-league/assets/concepts/ritual-pinball-concept-20260624.png`
+- Thunder learning: `/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-24_prism_league_ritual_pinball_canon.md`
+- Current implementation note: live code is still the older landscape Three.js racket-duel prototype; future gameplay work should pivot to portrait ritual pinball.

@@ -1,39 +1,66 @@
 {
-  "record_count": 151961,
+  "record_count": 724920,
   "by_origin": {
-    "local": 151961
+    "local": 724920
   },
   "by_project": {
-    "but-multiple-choice": 25291,
-    "fleshpunk--inner-heart": 21766,
-    "gothic-throne": 20356,
-    "Diorama Descent": 20226,
-    "revelation": 17137,
-    "nightmare-voyage": 14277,
-    "legion-writing-tool": 10676,
-    "phalanx": 6163,
-    "aegis-of-victory": 6142,
-    "omnitread": 4456,
-    "gravity-fist": 4153,
-    "steam-pile": 1255,
-    "AGENTS.md": 63
+    "pose-lab": 362487,
+    "infinite-brutality": 67359,
+    "droobiedoo": 27281,
+    "but-multiple-choice": 27175,
+    "fleshpunk--inner-heart": 21881,
+    "gothic-throne": 20405,
+    "Diorama Descent": 20275,
+    "revelation": 17254,
+    "agent-commander": 15138,
+    "nightmare-voyage": 14392,
+    "legion-writing-tool": 12856,
+    "driftfield": 11978,
+    "tanks-for-the-memories": 10518,
+    "vernepunk": 8809,
+    "gravity-fist-threejs": 8746,
+    "agent-closet": 8571,
+    "marrow-runner": 6890,
+    "aegis-of-victory": 6193,
+    "phalanx": 6192,
+    "long-haul": 5863,
+    ".codex-backups": 5481,
+    "armor-command": 5042,
+    "last-convoy-html5": 4633,
+    "omnitread": 4496,
+    "gravity-fist": 4200,
+    "home-center": 2823,
+    "mini-tvtropes-index": 2777,
+    "goblin-chess-mvp": 2627,
+    "cornfire-convoy-fp": 2464,
+    "ruined_air": 1813,
+    "codex-writing-lab": 1587,
+    "steam-pile": 1291,
+    "napoleonic-complex": 1156,
+    "cornfire-convoy": 1106,
+    "tools": 957,
+    "skybench": 493,
+    ".codex": 482,
+    "thunder-cousin": 411,
+    "prism-league": 387,
+    "home-command-broker": 195
   },
   "by_mechanic": {
-    "asset_import_pipeline": 67359,
-    "text_console_runtime": 51623,
-    "web_choice_player": 35910,
-    "ai_pressure": 35667,
-    "tts_audio_pipeline": 35353,
-    "touch_lane_combat": 14070,
-    "source_packet_generation": 13660,
-    "delayed_consequences": 12389,
-    "pose_animation_tools": 12287,
-    "validation_pipeline": 8210,
-    "event_clouds": 5225,
-    "writing_corpus_review": 4363,
-    "resource_upgrade_loop": 4103,
-    "deck_pressure": 2842,
-    "vehicle_survival": 1023
+    "asset_import_pipeline": 500226,
+    "pose_animation_tools": 434441,
+    "tts_audio_pipeline": 388128,
+    "ai_pressure": 96724,
+    "text_console_runtime": 84515,
+    "web_choice_player": 55217,
+    "touch_lane_combat": 41660,
+    "writing_corpus_review": 32926,
+    "source_packet_generation": 31545,
+    "delayed_consequences": 31292,
+    "validation_pipeline": 14185,
+    "vehicle_survival": 9558,
+    "resource_upgrade_loop": 8130,
+    "event_clouds": 5898,
+    "deck_pressure": 4265
   },
   "examples": {
     "validation_pipeline": [
@@ -52,9 +79,9 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 11,
-        "symbol": "",
-        "evidence": "5. Check for project-specific `tools/project_bootstrap.py`, smoke tests, local web servers, or validation agents before changing runtime/data behavior.",
+        "line": 5,
+        "symbol": "Motivated Bootstrap",
+        "evidence": "## Motivated Bootstrap",
         "source_url": ""
       },
       {
@@ -62,7 +89,17 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 16,
+        "line": 18,
+        "symbol": "",
+        "evidence": "6. Check for project-specific `tools/project_bootstrap.py`, smoke tests, local web servers, or validation agents before changing runtime/data behavior.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 27,
         "symbol": "",
         "evidence": "- `Diorama Descent/`: Godot prototype with strong agent docs under `docs/agent/`, movement/combat docs, import tools, and debug smoke scripts.",
         "source_url": ""
@@ -72,7 +109,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 18,
+        "line": 29,
         "symbol": "",
         "evidence": "- `fleshpunk--inner-heart/`: Godot 4.5 mobile/text roguelike with scenario, corpus, mechanics, TTS, smoke, and bootstrap tooling.",
         "source_url": ""
@@ -82,7 +119,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 19,
+        "line": 30,
         "symbol": "",
         "evidence": "- `nightmare-voyage/`: Godot text roguelike fork/variant with similar scenario, corpus, mechanics, TTS, smoke, and bootstrap tooling.",
         "source_url": ""
@@ -92,7 +129,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 25,
+        "line": 36,
         "symbol": "",
         "evidence": "- `omnitread/`: HTML/JS mission-deck adaptation workspace with story engine, corpus, quality audit, and Claude/local agent tooling.",
         "source_url": ""
@@ -102,101 +139,9 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 27,
+        "line": 38,
         "symbol": "",
         "evidence": "- `legion-writing-tool/`: Local-first Termux/Android writing tool with corpus analysis, draft preservation rules, web/session tooling, and installer bootstrap.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 34,
-        "symbol": "",
-        "evidence": "1. **Workspace Project Bootstrap**",
-        "source_url": ""
-      }
-    ],
-    "ai_pressure": [
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 10,
-        "symbol": "",
-        "evidence": "4. For Godot projects, inspect `project.godot` for `config/name` and `run/main_scene`.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 24,
-        "symbol": "",
-        "evidence": "- `aegis-of-victory/`: HTML/JS narrative roguelike prototype with domain/event-cloud docs, Claude packet workflow, and local servers.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 36,
-        "symbol": "",
-        "evidence": "- Procedure: identify target project, read local orientation/agent docs, inspect Godot main scene or web entrypoint, find validation commands, note archive/generated boundaries.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 40,
-        "symbol": "",
-        "evidence": "- Procedure: read `project.godot`, inspect main scene and attached scripts, make scoped edits, run headless smoke tests when available, avoid unrelated sidecar churn.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 44,
-        "symbol": "",
-        "evidence": "- Procedure: discover `tools/*smoke.gd`, run the relevant `godot --headless --path PROJECT --script SCRIPT` commands, summarize pass/fail and missing Godot binary issues.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 51,
-        "symbol": "",
-        "evidence": "- Trigger: asking Claude or another writing agent to draft scenario/domain/room content.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 59,
-        "symbol": "",
-        "evidence": "- Trigger: Aegis/Omnitread-style run structures with sampled domains, event lines, reactions, cascades, delayed echoes, and stateful consequences.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 60,
-        "symbol": "",
-        "evidence": "- Procedure: work from domain/run schemas, validate event seeds individually, preserve run memory and delayed consequence models.",
         "source_url": ""
       }
     ],
@@ -206,91 +151,9 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 11,
+        "line": 7,
         "symbol": "",
-        "evidence": "5. Check for project-specific `tools/project_bootstrap.py`, smoke tests, local web servers, or validation agents before changing runtime/data behavior.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 24,
-        "symbol": "",
-        "evidence": "- `aegis-of-victory/`: HTML/JS narrative roguelike prototype with domain/event-cloud docs, Claude packet workflow, and local servers.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 25,
-        "symbol": "",
-        "evidence": "- `omnitread/`: HTML/JS mission-deck adaptation workspace with story engine, corpus, quality audit, and Claude/local agent tooling.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 26,
-        "symbol": "",
-        "evidence": "- `but-multiple-choice/`: Story/branching design workspace with generation, critique, source, schema, and TTS docs.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 27,
-        "symbol": "",
-        "evidence": "- `legion-writing-tool/`: Local-first Termux/Android writing tool with corpus analysis, draft preservation rules, web/session tooling, and installer bootstrap.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 36,
-        "symbol": "",
-        "evidence": "- Procedure: identify target project, read local orientation/agent docs, inspect Godot main scene or web entrypoint, find validation commands, note archive/generated boundaries.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 39,
-        "symbol": "",
-        "evidence": "- Trigger: editing Godot scripts, scenes, imports, autoloads, project settings, combat, movement, UI, or data-driven runtime behavior.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 47,
-        "symbol": "",
-        "evidence": "- Trigger: adding or revising player-facing rooms, events, endings, follow-ups, choices, or results in Fleshpunk/Nightmare/Revelation-style projects.",
-        "source_url": ""
-      }
-    ],
-    "tts_audio_pipeline": [
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 12,
-        "symbol": "",
-        "evidence": "6. Treat generated audio, imported assets, `.uid` files, and archives as project-owned artifacts. Do not clean or regenerate them unless the task calls for it.",
+        "evidence": "Before doing anything else in this workspace, load the active project's `PROJECT_ORIENTATION.md` and the workspace Motivated Mode contract if present. Treat `docs/MOTIVATED_MODE...",
         "source_url": ""
       },
       {
@@ -300,37 +163,7 @@
         "path": "AGENTS.md",
         "line": 18,
         "symbol": "",
-        "evidence": "- `fleshpunk--inner-heart/`: Godot 4.5 mobile/text roguelike with scenario, corpus, mechanics, TTS, smoke, and bootstrap tooling.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 19,
-        "symbol": "",
-        "evidence": "- `nightmare-voyage/`: Godot text roguelike fork/variant with similar scenario, corpus, mechanics, TTS, smoke, and bootstrap tooling.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 20,
-        "symbol": "",
-        "evidence": "- `revelation/`: Godot text roguelike with Revelation-specific scenario, corpus, TTS, artifact, and pressure tooling.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 21,
-        "symbol": "",
-        "evidence": "- `gravity-fist/`: Godot action/combat project with scripts, scenes, attacks, audio, and theme files; no root orientation doc found.",
+        "evidence": "6. Check for project-specific `tools/project_bootstrap.py`, smoke tests, local web servers, or validation agents before changing runtime/data behavior.",
         "source_url": ""
       },
       {
@@ -340,7 +173,7 @@
         "path": "AGENTS.md",
         "line": 23,
         "symbol": "",
-        "evidence": "- `phalanx/`: Godot pose/animation lab with imported clip generation, skeleton profiles, and handoff docs.",
+        "evidence": "When moving, copying, exporting, or resizing files for external use in Android-visible folders such as `/storage/emulated/0/Pictures`, `/storage/emulated/0/Download`, or `/stora...",
         "source_url": ""
       },
       {
@@ -348,7 +181,27 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 26,
+        "line": 35,
+        "symbol": "",
+        "evidence": "- `aegis-of-victory/`: HTML/JS narrative roguelike prototype with domain/event-cloud docs, Claude packet workflow, and local servers.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 36,
+        "symbol": "",
+        "evidence": "- `omnitread/`: HTML/JS mission-deck adaptation workspace with story engine, corpus, quality audit, and Claude/local agent tooling.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 37,
         "symbol": "",
         "evidence": "- `but-multiple-choice/`: Story/branching design workspace with generation, critique, source, schema, and TTS docs.",
         "source_url": ""
@@ -358,7 +211,181 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 28,
+        "line": 38,
+        "symbol": "",
+        "evidence": "- `legion-writing-tool/`: Local-first Termux/Android writing tool with corpus analysis, draft preservation rules, web/session tooling, and installer bootstrap.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 47,
+        "symbol": "",
+        "evidence": "- Procedure: identify target project, read local orientation/agent docs, inspect Godot main scene or web entrypoint, find validation commands, note archive/generated boundaries.",
+        "source_url": ""
+      }
+    ],
+    "ai_pressure": [
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 17,
+        "symbol": "",
+        "evidence": "5. For Godot projects, inspect `project.godot` for `config/name` and `run/main_scene`.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 35,
+        "symbol": "",
+        "evidence": "- `aegis-of-victory/`: HTML/JS narrative roguelike prototype with domain/event-cloud docs, Claude packet workflow, and local servers.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 47,
+        "symbol": "",
+        "evidence": "- Procedure: identify target project, read local orientation/agent docs, inspect Godot main scene or web entrypoint, find validation commands, note archive/generated boundaries.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 51,
+        "symbol": "",
+        "evidence": "- Procedure: read `project.godot`, inspect main scene and attached scripts, make scoped edits, run headless smoke tests when available, avoid unrelated sidecar churn.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 55,
+        "symbol": "",
+        "evidence": "- Procedure: discover `tools/*smoke.gd`, run the relevant `godot --headless --path PROJECT --script SCRIPT` commands, summarize pass/fail and missing Godot binary issues.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 62,
+        "symbol": "",
+        "evidence": "- Trigger: asking Claude or another writing agent to draft scenario/domain/room content.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 70,
+        "symbol": "",
+        "evidence": "- Trigger: Aegis/Omnitread-style run structures with sampled domains, event lines, reactions, cascades, delayed echoes, and stateful consequences.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 71,
+        "symbol": "",
+        "evidence": "- Procedure: work from domain/run schemas, validate event seeds individually, preserve run memory and delayed consequence models.",
+        "source_url": ""
+      }
+    ],
+    "tts_audio_pipeline": [
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 19,
+        "symbol": "",
+        "evidence": "7. Treat generated audio, imported assets, `.uid` files, and archives as project-owned artifacts. Do not clean or regenerate them unless the task calls for it.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 29,
+        "symbol": "",
+        "evidence": "- `fleshpunk--inner-heart/`: Godot 4.5 mobile/text roguelike with scenario, corpus, mechanics, TTS, smoke, and bootstrap tooling.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 30,
+        "symbol": "",
+        "evidence": "- `nightmare-voyage/`: Godot text roguelike fork/variant with similar scenario, corpus, mechanics, TTS, smoke, and bootstrap tooling.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 31,
+        "symbol": "",
+        "evidence": "- `revelation/`: Godot text roguelike with Revelation-specific scenario, corpus, TTS, artifact, and pressure tooling.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 32,
+        "symbol": "",
+        "evidence": "- `gravity-fist/`: Godot action/combat project with scripts, scenes, attacks, audio, and theme files; no root orientation doc found.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 34,
+        "symbol": "",
+        "evidence": "- `phalanx/`: Godot pose/animation lab with imported clip generation, skeleton profiles, and handoff docs.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 37,
+        "symbol": "",
+        "evidence": "- `but-multiple-choice/`: Story/branching design workspace with generation, critique, source, schema, and TTS docs.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 39,
         "symbol": "",
         "evidence": "- `revelation_tts_archive/`: Archived generated TTS material. Treat as read-only unless explicitly asked.",
         "source_url": ""
@@ -370,9 +397,9 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 12,
+        "line": 19,
         "symbol": "",
-        "evidence": "6. Treat generated audio, imported assets, `.uid` files, and archives as project-owned artifacts. Do not clean or regenerate them unless the task calls for it.",
+        "evidence": "7. Treat generated audio, imported assets, `.uid` files, and archives as project-owned artifacts. Do not clean or regenerate them unless the task calls for it.",
         "source_url": ""
       },
       {
@@ -380,7 +407,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 16,
+        "line": 27,
         "symbol": "",
         "evidence": "- `Diorama Descent/`: Godot prototype with strong agent docs under `docs/agent/`, movement/combat docs, import tools, and debug smoke scripts.",
         "source_url": ""
@@ -390,7 +417,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 23,
+        "line": 34,
         "symbol": "",
         "evidence": "- `phalanx/`: Godot pose/animation lab with imported clip generation, skeleton profiles, and handoff docs.",
         "source_url": ""
@@ -400,7 +427,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 26,
+        "line": 37,
         "symbol": "",
         "evidence": "- `but-multiple-choice/`: Story/branching design workspace with generation, critique, source, schema, and TTS docs.",
         "source_url": ""
@@ -410,7 +437,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 39,
+        "line": 50,
         "symbol": "",
         "evidence": "- Trigger: editing Godot scripts, scenes, imports, autoloads, project settings, combat, movement, UI, or data-driven runtime behavior.",
         "source_url": ""
@@ -420,7 +447,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 48,
+        "line": 59,
         "symbol": "",
         "evidence": "- Procedure: use source packets and external writing-agent drafts for prose, integrate accepted patches, validate schemas/actions/payoffs, run room/follow-up smoke tests.",
         "source_url": ""
@@ -430,7 +457,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 50,
+        "line": 61,
         "symbol": "",
         "evidence": "5. **Claude Source Packet Workflow**",
         "source_url": ""
@@ -440,9 +467,91 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 52,
+        "line": 63,
         "symbol": "",
         "evidence": "- Procedure: build a narrow source packet, keep input budget explicit, send only relevant context, then validate and integrate the returned patch locally.",
+        "source_url": ""
+      }
+    ],
+    "writing_corpus_review": [
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 23,
+        "symbol": "",
+        "evidence": "When moving, copying, exporting, or resizing files for external use in Android-visible folders such as `/storage/emulated/0/Pictures`, `/storage/emulated/0/Download`, or `/stora...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 37,
+        "symbol": "",
+        "evidence": "- `but-multiple-choice/`: Story/branching design workspace with generation, critique, source, schema, and TTS docs.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 38,
+        "symbol": "",
+        "evidence": "- `legion-writing-tool/`: Local-first Termux/Android writing tool with corpus analysis, draft preservation rules, web/session tooling, and installer bootstrap.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 59,
+        "symbol": "",
+        "evidence": "- Procedure: use source packets and external writing-agent drafts for prose, integrate accepted patches, validate schemas/actions/payoffs, run room/follow-up smoke tests.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 62,
+        "symbol": "",
+        "evidence": "- Trigger: asking Claude or another writing agent to draft scenario/domain/room content.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 91,
+        "symbol": "",
+        "evidence": "- Procedure: use project local server scripts, verify HTML/CSS/JS entrypoints, run browser/manual smoke checks where possible, report URLs and changed surfaces.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 94,
+        "symbol": "",
+        "evidence": "- Trigger: Legion-style critique, drift analysis, lost-material detection, nondestructive revision planning, or draft/report creation.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 95,
+        "symbol": "",
+        "evidence": "- Procedure: preserve originals, cite evidence from chunks/reports, write outputs under drafts/reports/agent runs, separate mechanical findings from editorial judgment.",
         "source_url": ""
       }
     ],
@@ -452,7 +561,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 17,
+        "line": 28,
         "symbol": "",
         "evidence": "- `gothic-throne/`: Godot prototype with Diorama-like docs and `AGENTS.md`.",
         "source_url": ""
@@ -462,7 +571,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 18,
+        "line": 29,
         "symbol": "",
         "evidence": "- `fleshpunk--inner-heart/`: Godot 4.5 mobile/text roguelike with scenario, corpus, mechanics, TTS, smoke, and bootstrap tooling.",
         "source_url": ""
@@ -472,7 +581,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 19,
+        "line": 30,
         "symbol": "",
         "evidence": "- `nightmare-voyage/`: Godot text roguelike fork/variant with similar scenario, corpus, mechanics, TTS, smoke, and bootstrap tooling.",
         "source_url": ""
@@ -482,7 +591,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 20,
+        "line": 31,
         "symbol": "",
         "evidence": "- `revelation/`: Godot text roguelike with Revelation-specific scenario, corpus, TTS, artifact, and pressure tooling.",
         "source_url": ""
@@ -492,7 +601,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 23,
+        "line": 34,
         "symbol": "",
         "evidence": "- `phalanx/`: Godot pose/animation lab with imported clip generation, skeleton profiles, and handoff docs.",
         "source_url": ""
@@ -502,7 +611,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 24,
+        "line": 35,
         "symbol": "",
         "evidence": "- `aegis-of-victory/`: HTML/JS narrative roguelike prototype with domain/event-cloud docs, Claude packet workflow, and local servers.",
         "source_url": ""
@@ -512,7 +621,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 35,
+        "line": 46,
         "symbol": "",
         "evidence": "- Trigger: starting work inside this multi-project folder.",
         "source_url": ""
@@ -522,7 +631,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 39,
+        "line": 50,
         "symbol": "",
         "evidence": "- Trigger: editing Godot scripts, scenes, imports, autoloads, project settings, combat, movement, UI, or data-driven runtime behavior.",
         "source_url": ""
@@ -534,7 +643,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 18,
+        "line": 29,
         "symbol": "",
         "evidence": "- `fleshpunk--inner-heart/`: Godot 4.5 mobile/text roguelike with scenario, corpus, mechanics, TTS, smoke, and bootstrap tooling.",
         "source_url": ""
@@ -544,7 +653,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 19,
+        "line": 30,
         "symbol": "",
         "evidence": "- `nightmare-voyage/`: Godot text roguelike fork/variant with similar scenario, corpus, mechanics, TTS, smoke, and bootstrap tooling.",
         "source_url": ""
@@ -554,7 +663,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 20,
+        "line": 31,
         "symbol": "",
         "evidence": "- `revelation/`: Godot text roguelike with Revelation-specific scenario, corpus, TTS, artifact, and pressure tooling.",
         "source_url": ""
@@ -564,7 +673,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 24,
+        "line": 35,
         "symbol": "",
         "evidence": "- `aegis-of-victory/`: HTML/JS narrative roguelike prototype with domain/event-cloud docs, Claude packet workflow, and local servers.",
         "source_url": ""
@@ -574,7 +683,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 25,
+        "line": 36,
         "symbol": "",
         "evidence": "- `omnitread/`: HTML/JS mission-deck adaptation workspace with story engine, corpus, quality audit, and Claude/local agent tooling.",
         "source_url": ""
@@ -584,7 +693,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 27,
+        "line": 38,
         "symbol": "",
         "evidence": "- `legion-writing-tool/`: Local-first Termux/Android writing tool with corpus analysis, draft preservation rules, web/session tooling, and installer bootstrap.",
         "source_url": ""
@@ -594,7 +703,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 48,
+        "line": 59,
         "symbol": "",
         "evidence": "- Procedure: use source packets and external writing-agent drafts for prose, integrate accepted patches, validate schemas/actions/payoffs, run room/follow-up smoke tests.",
         "source_url": ""
@@ -604,7 +713,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 50,
+        "line": 61,
         "symbol": "",
         "evidence": "5. **Claude Source Packet Workflow**",
         "source_url": ""
@@ -616,7 +725,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 21,
+        "line": 32,
         "symbol": "",
         "evidence": "- `gravity-fist/`: Godot action/combat project with scripts, scenes, attacks, audio, and theme files; no root orientation doc found.",
         "source_url": ""
@@ -698,7 +807,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 24,
+        "line": 35,
         "symbol": "",
         "evidence": "- `aegis-of-victory/`: HTML/JS narrative roguelike prototype with domain/event-cloud docs, Claude packet workflow, and local servers.",
         "source_url": ""
@@ -708,7 +817,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 51,
+        "line": 62,
         "symbol": "",
         "evidence": "- Trigger: asking Claude or another writing agent to draft scenario/domain/room content.",
         "source_url": ""
@@ -718,7 +827,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 59,
+        "line": 70,
         "symbol": "",
         "evidence": "- Trigger: Aegis/Omnitread-style run structures with sampled domains, event lines, reactions, cascades, delayed echoes, and stateful consequences.",
         "source_url": ""
@@ -728,7 +837,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 60,
+        "line": 71,
         "symbol": "",
         "evidence": "- Procedure: work from domain/run schemas, validate event seeds individually, preserve run memory and delayed consequence models.",
         "source_url": ""
@@ -738,7 +847,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 104,
+        "line": 147,
         "symbol": "",
         "evidence": "- Centralize public-domain/source adaptation rules currently repeated across corpus workflows.",
         "source_url": ""
@@ -748,9 +857,19 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 122,
+        "line": 165,
         "symbol": "",
         "evidence": "- Keep lore, voice, combat, art direction, domain architecture, and story contracts project-local unless the workflow is genuinely shared.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "WORKSPACE_MAP.md",
+        "repo": "",
+        "path": "WORKSPACE_MAP.md",
+        "line": 19,
+        "symbol": "",
+        "evidence": "Use this project for Goblin Chess requirements: canvas battlefield grid, text command input, submit behavior, per-unit goblin interpretations, reality/outcome text, reaction log...",
         "source_url": ""
       },
       {
@@ -762,16 +881,6 @@
         "symbol": "",
         "evidence": "Public-domain source extraction lives in `tools/corpus_agent.py`.",
         "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "fleshpunk--inner-heart",
-        "repo": "",
-        "path": "fleshpunk--inner-heart/rooms_post_update.json",
-        "line": 2212,
-        "symbol": "in_encounter_use",
-        "evidence": "\"in_encounter_use\": \"Identify the single contact point that frees the hatchling without triggering a rupture cascade in the adjacent sacs.\",",
-        "source_url": ""
       }
     ],
     "deck_pressure": [
@@ -780,7 +889,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 25,
+        "line": 36,
         "symbol": "",
         "evidence": "- `omnitread/`: HTML/JS mission-deck adaptation workspace with story engine, corpus, quality audit, and Claude/local agent tooling.",
         "source_url": ""
@@ -790,7 +899,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 101,
+        "line": 144,
         "symbol": "",
         "evidence": "- Consolidate common event/room/deck/payoff/action fields used by Fleshpunk, Nightmare, Revelation, Aegis, Omnitread, and But Multiple Choice.",
         "source_url": ""
@@ -862,29 +971,9 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 26,
+        "line": 37,
         "symbol": "",
         "evidence": "- `but-multiple-choice/`: Story/branching design workspace with generation, critique, source, schema, and TTS docs.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 36,
-        "symbol": "",
-        "evidence": "- Procedure: identify target project, read local orientation/agent docs, inspect Godot main scene or web entrypoint, find validation commands, note archive/generated boundaries.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 44,
-        "symbol": "",
-        "evidence": "- Procedure: discover `tools/*smoke.gd`, run the relevant `godot --headless --path PROJECT --script SCRIPT` commands, summarize pass/fail and missing Godot binary issues.",
         "source_url": ""
       },
       {
@@ -894,141 +983,27 @@
         "path": "AGENTS.md",
         "line": 47,
         "symbol": "",
+        "evidence": "- Procedure: identify target project, read local orientation/agent docs, inspect Godot main scene or web entrypoint, find validation commands, note archive/generated boundaries.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 55,
+        "symbol": "",
+        "evidence": "- Procedure: discover `tools/*smoke.gd`, run the relevant `godot --headless --path PROJECT --script SCRIPT` commands, summarize pass/fail and missing Godot binary issues.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 58,
+        "symbol": "",
         "evidence": "- Trigger: adding or revising player-facing rooms, events, endings, follow-ups, choices, or results in Fleshpunk/Nightmare/Revelation-style projects.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 48,
-        "symbol": "",
-        "evidence": "- Procedure: use source packets and external writing-agent drafts for prose, integrate accepted patches, validate schemas/actions/payoffs, run room/follow-up smoke tests.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 51,
-        "symbol": "",
-        "evidence": "- Trigger: asking Claude or another writing agent to draft scenario/domain/room content.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 87,
-        "symbol": "",
-        "evidence": "- Trigger: fixing JSON room/event/run/schema drift across narrative projects.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 98,
-        "symbol": "",
-        "evidence": "- `gravity-fist/`, `steam-pile/`, and possibly `phalanx/` would benefit from concise `PROJECT_ORIENTATION.md` files naming main scene, controls, core scripts, and verification c...",
-        "source_url": ""
-      }
-    ],
-    "writing_corpus_review": [
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 26,
-        "symbol": "",
-        "evidence": "- `but-multiple-choice/`: Story/branching design workspace with generation, critique, source, schema, and TTS docs.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 27,
-        "symbol": "",
-        "evidence": "- `legion-writing-tool/`: Local-first Termux/Android writing tool with corpus analysis, draft preservation rules, web/session tooling, and installer bootstrap.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 48,
-        "symbol": "",
-        "evidence": "- Procedure: use source packets and external writing-agent drafts for prose, integrate accepted patches, validate schemas/actions/payoffs, run room/follow-up smoke tests.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 51,
-        "symbol": "",
-        "evidence": "- Trigger: asking Claude or another writing agent to draft scenario/domain/room content.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 80,
-        "symbol": "",
-        "evidence": "- Procedure: use project local server scripts, verify HTML/CSS/JS entrypoints, run browser/manual smoke checks where possible, report URLs and changed surfaces.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 83,
-        "symbol": "",
-        "evidence": "- Trigger: Legion-style critique, drift analysis, lost-material detection, nondestructive revision planning, or draft/report creation.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 84,
-        "symbol": "",
-        "evidence": "- Procedure: preserve originals, cite evidence from chunks/reports, write outputs under drafts/reports/agent runs, separate mechanical findings from editorial judgment.",
-        "source_url": ""
-      },
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 87,
-        "symbol": "",
-        "evidence": "- Trigger: fixing JSON room/event/run/schema drift across narrative projects.",
-        "source_url": ""
-      }
-    ],
-    "delayed_consequences": [
-      {
-        "origin": "local",
-        "project": "AGENTS.md",
-        "repo": "",
-        "path": "AGENTS.md",
-        "line": 48,
-        "symbol": "",
-        "evidence": "- Procedure: use source packets and external writing-agent drafts for prose, integrate accepted patches, validate schemas/actions/payoffs, run room/follow-up smoke tests.",
         "source_url": ""
       },
       {
@@ -1038,6 +1013,58 @@
         "path": "AGENTS.md",
         "line": 59,
         "symbol": "",
+        "evidence": "- Procedure: use source packets and external writing-agent drafts for prose, integrate accepted patches, validate schemas/actions/payoffs, run room/follow-up smoke tests.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 62,
+        "symbol": "",
+        "evidence": "- Trigger: asking Claude or another writing agent to draft scenario/domain/room content.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 98,
+        "symbol": "",
+        "evidence": "- Trigger: fixing JSON room/event/run/schema drift across narrative projects.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 141,
+        "symbol": "",
+        "evidence": "- `gravity-fist/`, `steam-pile/`, and possibly `phalanx/` would benefit from concise `PROJECT_ORIENTATION.md` files naming main scene, controls, core scripts, and verification c...",
+        "source_url": ""
+      }
+    ],
+    "delayed_consequences": [
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 59,
+        "symbol": "",
+        "evidence": "- Procedure: use source packets and external writing-agent drafts for prose, integrate accepted patches, validate schemas/actions/payoffs, run room/follow-up smoke tests.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "AGENTS.md",
+        "repo": "",
+        "path": "AGENTS.md",
+        "line": 70,
+        "symbol": "",
         "evidence": "- Trigger: Aegis/Omnitread-style run structures with sampled domains, event lines, reactions, cascades, delayed echoes, and stateful consequences.",
         "source_url": ""
       },
@@ -1046,7 +1073,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 60,
+        "line": 71,
         "symbol": "",
         "evidence": "- Procedure: work from domain/run schemas, validate event seeds individually, preserve run memory and delayed consequence models.",
         "source_url": ""
@@ -1056,7 +1083,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 66,
+        "line": 77,
         "symbol": "",
         "evidence": "9. **Agent Handoff And Session Memory**",
         "source_url": ""
@@ -1066,7 +1093,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 101,
+        "line": 144,
         "symbol": "",
         "evidence": "- Consolidate common event/room/deck/payoff/action fields used by Fleshpunk, Nightmare, Revelation, Aegis, Omnitread, and But Multiple Choice.",
         "source_url": ""
@@ -1108,7 +1135,7 @@
         "project": "AGENTS.md",
         "repo": "",
         "path": "AGENTS.md",
-        "line": 126,
+        "line": 169,
         "symbol": "",
         "evidence": "Make a concept a skill when it has a repeatable trigger, a fragile workflow, project-specific validation, or bundled scripts/resources that future agents should use. Keep it as ...",
         "source_url": ""
