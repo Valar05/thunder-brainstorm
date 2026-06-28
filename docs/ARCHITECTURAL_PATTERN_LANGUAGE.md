@@ -1,7 +1,7 @@
 # Architectural Pattern Language
 
-Version: 0.3
-Status: Generator-Ready Corpus Contract
+Version: 0.4
+Status: Self-Correcting Generator Contract
 
 This corpus is a procedural architecture brain, not a style guide. Use it as `World constraints -> District -> Phrase -> Assembly -> Primitive -> Voxel/material`.
 
@@ -35,6 +35,56 @@ District graph plus landmarks, infrastructure, skyline, and civic/logistic circu
 
 WORLD
 Biome, era, gravity, material palette, macro route, and impossible/required structure rules.
+
+
+## Validation Contracts
+
+Validation belongs to every hierarchy level. Higher layers must not hide lower-layer invalidity; a district with a good skyline still fails if its bridges float or its routes do not connect.
+
+VOXEL
+Requires: solid or empty state, valid material id, valid neighbor references, no orphan material state.
+Reject if: unknown material, contradictory occupancy, invalid neighbor coordinates, unsupported destruction state.
+Rationale: bad cell truth poisons every higher structure.
+
+PRIMITIVE
+Requires: measurable dimensions, valid orientation, valid transform, support or explicit suspension rule.
+Reject if: zero/negative dimensions, impossible rotation, floating slab without support, unbounded void cut.
+Rationale: primitives are the first place geometry can become impossible.
+
+STRUCTURAL ATOM
+Requires: correct attachment, valid proportions, non-floating placement, valid termination when repeated.
+Reject if: wall bay has no wall run, pier has no load, parapet has no edge, buttress supports nothing.
+Rationale: atoms explain why assemblies look built instead of pasted on.
+
+ASSEMBLY
+Requires: structural support, circulation validity, declared structural/gameplay/sightline purpose, valid entry/exit contract.
+Reject if: isolated, inaccessible, unsupported, decorative-only, or missing a purpose.
+Rationale: assemblies are playable nouns; every one must do work.
+
+PHRASE
+Requires: readable beginning, readable ending, transition between parts, traversal possible under movement rules.
+Reject if: same-width compression/reveal, disconnected sequence, invisible destination, impossible traversal, purposeless middle.
+Rationale: phrases are architectural sentences; invalid transitions produce nonsense even with valid nouns.
+
+ROOM
+Requires: every entrance can reach an exit, combat/traversal/social/logistics purpose, intentional dead ends only.
+Reject if: dead-end arena without purpose, unreachable reward, no sightline anchor, no route decision.
+Rationale: rooms must be situations, not containers.
+
+DISTRICT
+Requires: connected circulation graph, at least one landmark, logistics or civic reason, service access, repeated material/atom grammar.
+Reject if: disconnected rooms, landmark spam, no reason for infrastructure, buildings with no support system.
+Rationale: districts must explain how spaces relate and why they coexist.
+
+CITY
+Requires: connected districts, continuous infrastructure, readable skyline, macro landmarks, district-to-district transitions.
+Reject if: isolated districts, broken rail/dock/road continuity, unreadable massing, no hierarchy of destinations.
+Rationale: city scale needs organization above room grammar.
+
+WORLD
+Requires: valid district graph, macro traversal possible, impossible structures justified by world rules, biome/material constraints honored.
+Reject if: traversal chain breaks, floating structures lack setting logic, district functions contradict world premise.
+Rationale: world rules decide what architecture can exist at all.
 
 ## Vocabulary Normalization
 
@@ -455,6 +505,12 @@ Set shoulders. Bridge lintel. Cut throat. Cap rear mass.
 STRUCTURAL PURPOSE
 Threshold that compresses approach and turns entry into commitment.
 
+VALIDATION REQUIRES
+wall connection, supported lintel, traversable opening, visible threshold direction.
+
+REJECT IF
+floating, opening blocked, isolated from wall/route, lintel unsupported.
+
 ====================================
 
 NAME
@@ -474,6 +530,12 @@ Place piers. Add cap. Cut void under span.
 
 STRUCTURAL PURPOSE
 Supported crossing or opening.
+
+VALIDATION REQUIRES
+two load-bearing piers or equivalent supports, clear span, valid height clearance.
+
+REJECT IF
+unsupported cap, blocked void, decorative arch with no passage/view/support purpose.
 
 ====================================
 
@@ -495,6 +557,12 @@ Lay floor. Cap sides. Shape roof arc. Tighten ends.
 STRUCTURAL PURPOSE
 Continuous shell for pressure tunnel or heavy corridor.
 
+VALIDATION REQUIRES
+continuous side support, valid ceiling clearance, start/end termination.
+
+REJECT IF
+vault floats, side walls absent, corridor has no entry/exit, ceiling intersects route.
+
 ====================================
 
 NAME
@@ -514,6 +582,12 @@ Set supports. Add ribs. Carve negative spaces.
 
 STRUCTURAL PURPOSE
 Route crossing with shared center.
+
+VALIDATION REQUIRES
+four supports or equivalent corner masses, connected route arms, declared primary through-line.
+
+REJECT IF
+center unsupported, arms dead-end accidentally, crossing has no route decision.
 
 ====================================
 
@@ -535,6 +609,12 @@ Lay perimeter. Cut center. Add edge system. Place anchor routes.
 STRUCTURAL PURPOSE
 Open room that organizes multiple exits.
 
+VALIDATION REQUIRES
+perimeter edge system, open center, at least two connected exits, declared center purpose.
+
+REJECT IF
+blank box perimeter, isolated center, exits unreachable, no edge function.
+
 ====================================
 
 NAME
@@ -554,6 +634,12 @@ Place landings. Step core. Flank run.
 
 STRUCTURAL PURPOSE
 Readable vertical travel.
+
+VALIDATION REQUIRES
+top and bottom landing, traversable pitch, collision clearance, support under run.
+
+REJECT IF
+stairs terminate in wall/void, pitch impossible, no landing, decorative-only stair.
 
 ====================================
 
@@ -575,6 +661,12 @@ Set platform. Add edge controls. Connect exits.
 STRUCTURAL PURPOSE
 Pause and reorientation point.
 
+VALIDATION REQUIRES
+incoming route, outgoing route or overlook contract, stable platform dimensions.
+
+REJECT IF
+platform unreachable, no onward purpose, too small for traversal, floating without support.
+
 ====================================
 
 NAME
@@ -594,6 +686,12 @@ Place lower flight. Add turn. Place upper flight.
 
 STRUCTURAL PURPOSE
 Vertical route that hides the next segment until the turn.
+
+VALIDATION REQUIRES
+two stair flights, turn landing, valid vertical clearance, connected endpoints.
+
+REJECT IF
+turn blocked, one flight missing, no reason to switch back, inaccessible upper/lower endpoint.
 
 ====================================
 
@@ -615,6 +713,12 @@ Set support edge. Project slab. Add edge termination.
 STRUCTURAL PURPOSE
 Elevated route or firing/reading platform.
 
+VALIDATION REQUIRES
+access route, lower subject to overlook, edge treatment, structural support.
+
+REJECT IF
+decorative-only, inaccessible, overlooks blank wall, unsupported projection.
+
 ====================================
 
 NAME
@@ -634,6 +738,12 @@ Raise perch. Carve underside. Terminate edge.
 
 STRUCTURAL PURPOSE
 High reading point and destination.
+
+VALIDATION REQUIRES
+access or intentional drop route, visible subject, protected/readable edge, return/descent rule.
+
+REJECT IF
+view target absent, unreachable, no exit/drop contract, reads as random ledge.
 
 ====================================
 
@@ -655,6 +765,12 @@ Lay wall bay. Cut opening. Deepen reveal.
 STRUCTURAL PURPOSE
 Controlled view and light cut.
 
+VALIDATION REQUIRES
+valid wall bay host, opening dimensions, reveal depth, sight/light purpose.
+
+REJECT IF
+window floats, opens into solid, no wall host, no view/light/gameplay function.
+
 ====================================
 
 NAME
@@ -674,6 +790,12 @@ Place abutments. Place deck. Add piers/parapets as required.
 
 STRUCTURAL PURPOSE
 Exposed commitment crossing.
+
+VALIDATION REQUIRES
+two endpoints, abutments or towers, usable width, support explanation by span length.
+
+REJECT IF
+ends in air, unsupported span, unusable width, connects nowhere meaningful.
 
 ====================================
 
@@ -695,6 +817,12 @@ Cut opening. Extend spur. Define payoff.
 STRUCTURAL PURPOSE
 Optional lateral deviation.
 
+VALIDATION REQUIRES
+main route connection, payoff or bypass purpose, rejoin/termination rule.
+
+REJECT IF
+spur to nowhere, indistinguishable from main route, no reward/bypass/view purpose.
+
 ====================================
 
 NAME
@@ -714,6 +842,12 @@ Set caps. Compress channel. Add service pocket if needed.
 
 STRUCTURAL PURPOSE
 Utility circulation and concealed bypass.
+
+VALIDATION REQUIRES
+utility/logistics reason, connected endpoints, compressed but traversable dimensions.
+
+REJECT IF
+dead tunnel without payoff, too small to traverse, no service object/destination.
 
 ====================================
 
@@ -735,6 +869,12 @@ Set walls. Cut void. Add traversal/termination.
 STRUCTURAL PURPOSE
 Strong vertical connection or risk void.
 
+VALIDATION REQUIRES
+top/bottom termination, traversal method or hazard rule, readable vertical void.
+
+REJECT IF
+infinite hole, no landing/hazard, unreachable stops, unclear function.
+
 ====================================
 
 NAME
@@ -754,6 +894,12 @@ Frame shaft. Hang guides. Insert cage. Connect stops.
 
 STRUCTURAL PURPOSE
 Mechanical vertical traversal.
+
+VALIDATION REQUIRES
+shaft, at least two stops, cage clearance, waiting landings.
+
+REJECT IF
+single-stop lift, no shaft frame, cage clips walls, unreachable call/entry area.
 
 ====================================
 
@@ -775,6 +921,12 @@ Lay side masses. Cut passage. Add blocker if desired.
 STRUCTURAL PURPOSE
 Compression and commitment beat.
 
+VALIDATION REQUIRES
+measurable narrowing, readable release, traversable opening, pressure reason.
+
+REJECT IF
+same width as surroundings, optional when phrase requires commitment, blocked passage.
+
 ====================================
 
 NAME
@@ -794,6 +946,12 @@ Cut recess. Thicken lip. Place purpose.
 
 STRUCTURAL PURPOSE
 Purposeful wall pocket.
+
+VALIDATION REQUIRES
+host wall, purposeful contents/view/shadow/cover, valid depth.
+
+REJECT IF
+random recess, unreachable pocket, no purpose, cuts through structural wall incorrectly.
 
 ====================================
 
@@ -815,6 +973,12 @@ Mark rim. Cut void. Define bottom.
 STRUCTURAL PURPOSE
 Negative space that changes movement value.
 
+VALIDATION REQUIRES
+rim, bottom meaning, traversal/hazard rule, readable depth boundary.
+
+REJECT IF
+unmarked hole, bottom undefined, unavoidable death without purpose, no route/value relation.
+
 ====================================
 
 NAME
@@ -834,6 +998,12 @@ Set endpoints. Draw deck. Add edge/support rules.
 
 STRUCTURAL PURPOSE
 Exposed narrow route.
+
+VALIDATION REQUIRES
+two endpoints, visible void/machine/fight plane below, usable width, edge/support rule.
+
+REJECT IF
+catwalk over nothing, ends inaccessible, too narrow, unsupported long span.
 
 ====================================
 
@@ -855,6 +1025,12 @@ Set lane. Define side system. Terminate both ends. Add side bays if needed.
 STRUCTURAL PURPOSE
 Primary linear room for pacing, approach, and controlled sightline.
 
+VALIDATION REQUIRES
+two termini, lane dimensions, side system or edge logic, sightline purpose.
+
+REJECT IF
+corridor to nowhere, no termination, blank endless tube, width contradicts mutation profile.
+
 ====================================
 
 NAME
@@ -874,6 +1050,12 @@ Lay field. Define edge system. Place routes. Add cover/landmark according to mut
 
 STRUCTURAL PURPOSE
 Large readable room for combat, civic arrival, or district gathering.
+
+VALIDATION REQUIRES
+large field, at least one entry and exit, edge system, landmark/cover/civic purpose.
+
+REJECT IF
+empty box, dead-end arena, no edge grammar, no reason to occupy center.
 
 ====================================
 
@@ -895,6 +1077,12 @@ Place track/void edge. Lay platform. Add shelter/columns. Connect tunnel and con
 STRUCTURAL PURPOSE
 Infrastructure arrival edge that turns movement systems into architecture.
 
+VALIDATION REQUIRES
+track/void edge, platform clearance, arrival/departure routes, shelter or edge termination.
+
+REJECT IF
+platform with no rail/vehicle logic, no destination, unsafe edge without rule.
+
 ====================================
 
 NAME
@@ -914,6 +1102,12 @@ Lay storage volume. Cut loading face. Add roof support. Connect dock/service rou
 
 STRUCTURAL PURPOSE
 Logistics room that explains why dock, crane, and service infrastructure exist.
+
+VALIDATION REQUIRES
+loading face, storage volume, roof support, dock/yard/rail adjacency.
+
+REJECT IF
+warehouse without cargo route, unsupported roof, no loading access, blank storage box.
 
 ====================================
 
@@ -935,6 +1129,12 @@ Place hazard core. Set plinth. Wrap service route. Add roof/vent termination and
 STRUCTURAL PURPOSE
 Industrial heat room where machine purpose, danger, and circulation are the same structure.
 
+VALIDATION REQUIRES
+hazard core, machinery plinth, service perimeter, exhaust/roof termination, cooling exit.
+
+REJECT IF
+furnace with no logistics, no service route, no heat/exhaust path, inaccessible controls.
+
 ====================================
 
 NAME
@@ -954,6 +1154,12 @@ Lay channel. Add service walkway. Terminate vents. Connect back to district rout
 
 STRUCTURAL PURPOSE
 Industrial release room that gives foundry layouts a believable aftermath.
+
+VALIDATION REQUIRES
+connection from heat/process source, runoff/exhaust lane, service walkway, district rejoin.
+
+REJECT IF
+cooling room not downstream of anything, no exhaust/channel, dead service path.
 
 ## Mutation Grammars
 
@@ -999,6 +1205,9 @@ Forces a read, then grants a new choice.
 COMMON MUTATIONS
 Doom, Quake, Half-Life, Dark Souls
 
+REJECT IF
+reject if narrowing is not measurable, release is hidden, or reveal space is same scale as entry.
+
 ====================================
 
 NAME
@@ -1018,6 +1227,9 @@ Turns connector into combat commitment.
 
 COMMON MUTATIONS
 Doom, Doom II, Halo CE, Blood
+
+REJECT IF
+reject if arena is smaller than choke, choke is optional in the required path, or arena has no alternate exit.
 
 ====================================
 
@@ -1039,6 +1251,9 @@ Creates readable center plus tactical rim.
 COMMON MUTATIONS
 Halo, Dishonored, Quake, civic districts
 
+REJECT IF
+reject if arcade does not wrap a meaningful edge, ring has no route value, or center is unreadable.
+
 ====================================
 
 NAME
@@ -1058,6 +1273,9 @@ Turns terrain height into inhabited city structure.
 
 COMMON MUTATIONS
 Dark Souls, Dishonored, fortress districts
+
+REJECT IF
+reject if terrace lacks retaining structure, stair does not connect levels, or upper platform has no purpose.
 
 ====================================
 
@@ -1079,6 +1297,9 @@ Makes crossing resolve into landmark/defense.
 COMMON MUTATIONS
 Quake, Halo, Dark Souls
 
+REJECT IF
+reject if tower is not visible from bridge, endpoints are unsupported, or crossing has no defended destination.
+
 ====================================
 
 NAME
@@ -1098,6 +1319,9 @@ Builds rail/infrastructure continuity.
 
 COMMON MUTATIONS
 Half-Life, Quake II, imperial rail stations
+
+REJECT IF
+reject if rail/road path has no destination, pier rhythm does not support span, or platform cannot be reached.
 
 ====================================
 
@@ -1119,6 +1343,9 @@ Creates believable logistics space.
 COMMON MUTATIONS
 Duke Nukem 3D, Half-Life, industrial districts
 
+REJECT IF
+reject if dock has nowhere to dock, crane has no cargo zone, or warehouse has no loading path.
+
 ====================================
 
 NAME
@@ -1138,6 +1365,9 @@ Turns carved terrain into production flow.
 
 COMMON MUTATIONS
 Quake, Half-Life, Napoleon Floating Kingdom
+
+REJECT IF
+reject if quarry shelves do not connect, lift serves no level change, or yard lacks output logistics.
 
 ====================================
 
@@ -1159,6 +1389,9 @@ Makes industrial scale legible and playable.
 COMMON MUTATIONS
 Quake II, Half-Life, Blood
 
+REJECT IF
+reject if foundry has no fuel/material/logistics route, catwalk does not service machinery, or cooling hall is not downstream.
+
 ====================================
 
 NAME
@@ -1178,6 +1411,9 @@ Makes vertical landmarks structurally complete.
 
 COMMON MUTATIONS
 Dark Souls, Quake, Dishonored
+
+REJECT IF
+reject if tower has no base, no termination, no circulation, or reads as an infinite column.
 
 ====================================
 
@@ -1199,6 +1435,9 @@ Turns view direction into military function.
 COMMON MUTATIONS
 Doom, Blood, fortress plateaus
 
+REJECT IF
+reject if artillery has no firing arc, rear service is absent, or parapet blocks intended sightline.
+
 ====================================
 
 NAME
@@ -1218,6 +1457,9 @@ Prevents facade repetition from collapsing at entrances.
 
 COMMON MUTATIONS
 Duke Nukem 3D, Half-Life, Dark Souls
+
+REJECT IF
+reject if wall rhythm breaks without termination, corner intersects route, or gatehouse is isolated.
 
 ====================================
 
@@ -1239,6 +1481,9 @@ Turns terrain edge into exploration payoff.
 COMMON MUTATIONS
 Thief, Quake, Dark Souls
 
+REJECT IF
+reject if side passage does not rejoin or overlook something, cliff has no readable ledge, or overlook target is blank.
+
 ====================================
 
 NAME
@@ -1259,6 +1504,9 @@ Builds civic scale from repeated primitives.
 COMMON MUTATIONS
 Halo, Dishonored, imperial districts
 
+REJECT IF
+reject if columns do not align to plaza edge, stair lacks civic destination, or plaza has no public route logic.
+
 ====================================
 
 NAME
@@ -1278,6 +1526,9 @@ Makes suspended routes believable.
 
 COMMON MUTATIONS
 Quake, Halo 2, Napoleon Floating Kingdom
+
+REJECT IF
+reject if piers are not visible/supporting, span has no upper destination, or gatehouse cannot be entered.
 
 ## Generator Failure Checks
 
@@ -1311,6 +1562,53 @@ A cluster of primitives without phrase membership or room purpose fails.
 IMPOSSIBLE-CIRCULATION REJECTION
 Routes that cannot be traversed under the target game movement profile fail.
 
+
+## Generator Metrics
+
+Metrics must be computed from generated geometry and graph data, not judged from prose.
+
+| Metric | Computation Signal | Fails When |
+| --- | --- | --- |
+| support_score | supported load-bearing elements / required support points | span, tower, balcony, vault, or retaining wall lacks support |
+| circulation_score | reachable required exits / declared exits | required route is unreachable or loops into accidental dead end |
+| landmark_score | visible landmark anchors / required district anchors | district has no readable destination or too many equal landmarks |
+| silhouette_score | meaningful height/edge/termination changes per district frontage | skyline is flat noise or random spikes with no crown/base logic |
+| structural_confidence | weighted pass rate of support, attachment, termination, and proportion checks | structure is mostly decorative or physically unexplained |
+| readability_score | visible entry, exit, destination, and hazard cues / required cues | player cannot read where to go or what the room does |
+| logistics_score | service routes, cargo paths, process chain links / declared industrial or civic needs | dock, crane, foundry, station, or quarry has no reason to function |
+| route_complexity | route_count plus loopbacks plus vertical transitions, normalized by mutation profile | route graph is too simple, too tangled, or contradicts profile |
+| verticality | traversable height delta and vertical route count / district footprint | vertical promise is decorative or traversal is impossible |
+| negative_space_ratio | void/open traversable area / total room or district footprint | room is too solid to read or too empty to have structure |
+| purpose_coverage | objects with structural/gameplay/sightline purpose / total generated objects | boxes exist without declared role |
+| termination_score | terminated runs / wall, bridge, roof, parapet, and terrace runs | endless walls, unended bridges, flat roofs, or naked edges appear |
+
+Rationale: these metrics let the generator reject nonsense before art polish. They also create a tuning surface for mutation profiles: Quake can demand higher support_score and verticality, while Half-Life can demand higher logistics_score and maintenance_visibility.
+
+
+## Imperial Floating Strata Validation
+
+Napoleon's Floating Kingdom must answer three questions for every district: why was it built, why is it still standing, and why is the player here?
+
+REQUIRE
+- circulation: every plateau, dock, station, foundry, quarry, and battery connects to the district graph.
+- logistics: industrial and military spaces have cargo, service, fuel, ammo, or maintenance paths.
+- support: floating or elevated structures declare retaining walls, piers, abutments, tower bases, suspension logic, or world-rule exceptions.
+- skyline: each district has a readable crown, battery, tower, crane, viaduct, or roof monitor profile.
+- purpose: every major structure declares civic, military, industrial, traversal, or encounter role.
+
+REJECT
+- bridge with no military, civic, logistics, or traversal reason.
+- plateau with no retaining structure or explicit floating-world support rule.
+- foundry with no input logistics, service route, exhaust/cooling path, or output yard.
+- dock with nowhere to dock, no loading edge, no cargo route, or no crane/warehouse relation.
+- artillery battery with no firing arc, blocked sightline, missing parapet, or missing rear service route.
+- rail without destination, platform, tunnel, viaduct rhythm, or cargo/passenger reason.
+- crane without cargo zone, working radius, machinery plinth, or dock/quarry/foundry adjacency.
+- retaining-wall city with disconnected terraces, no stair cascade, no wall-bay rhythm, or no landmark hierarchy.
+
+RATIONALE
+Imperial floating architecture fails fastest when spectacle replaces process. The validation rule is simple: if a structure floats, fires, loads, smelts, extracts, defends, or transports, its support and logistics must be visible in the generated grammar.
+
 ## Napoleon Test
 
 Napoleon's Floating Kingdom is the stress test for whether this corpus can build districts, not just rooms.
@@ -1328,6 +1626,6 @@ Napoleon's Floating Kingdom is the stress test for whether this corpus can build
 
 ## Migration Note
 
-Version 0.2 introduced the canonical/mutation/phrase split. Version 0.3 makes that split operational by adding hierarchy, structural atoms, measurable mutation parameters, phrase validation, and district-scale infrastructure grammar.
+Version 0.2 introduced the canonical/mutation/phrase split. Version 0.3 made that split operational by adding hierarchy, structural atoms, measurable mutation parameters, phrase validation, and district-scale infrastructure grammar. Version 0.4 adds validation contracts, assembly invariants, phrase rejection rules, generator metrics, and Imperial Floating Strata validation so generators can reject nonsense before art polish.
 
 If a future generator needs prose cards, generate them from these contracts rather than copying hand-authored variants forward.
