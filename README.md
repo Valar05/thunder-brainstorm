@@ -85,6 +85,18 @@ Cauldron laptop workspace records use origin `cauldron` and `ssh://dclar@192.168
 
 The included pattern cards are derived from structural observations: file names, docs categories, function/key names, repo descriptions, and repeated workflows. Do not paste repository code into pattern cards. If the extractor scans code, keep only abstract signals such as identifier names, file categories, schema keys, and concept tags.
 
+## Claude PR Code Review
+
+Thunder owns the Claude-backed PR review runner for independent code critique. The runner gives Claude read-only GitHub tools instead of source packets; if the repo or PR cannot be read, the run fails rather than synthesizing a review from pasted context. Dry-run is the default, and inline GitHub review comments are posted only with `--post` after mechanical verification maps findings to changed diff lines.
+
+```sh
+python tools/claude_code_review.py --pr Valar05/example#123
+python tools/claude_code_review.py --pr Valar05/example#123 --post
+python tools/capture_pr_review_fixture.py --pr Valar05/example#123 --out generated/code_reviews/fixtures/example_pr_123
+```
+
+Artifacts are written under `generated/code_reviews/` with the mission, tool transcript, read log, Claude JSON, verified findings, GitHub payload, and Markdown report. Use `tools/capture_pr_review_fixture.py` to capture a real PR once for offline `--mock-github` review-driver tests.
+
 ## Doc Server
 
 Run a local document browser for generated stubs, source packets, corpus reports, and index files:
