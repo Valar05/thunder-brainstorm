@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import base64
 import datetime as dt
+import http.client
 import json
 import os
 import re
@@ -26,6 +27,8 @@ TEXT_EXTS = {
     ".json", ".yaml", ".yml", ".toml", ".ini", ".godot", ".sh", ".mjs", ".cjs",
 }
 MAX_TOOL_BYTES = 60_000
+MAX_PR_FILE_PATCH_BYTES = 8_000
+MAX_PR_DIFF_BYTES = 50_000
 SECRET_RE = re.compile(r"(?i)(api[_-]?key|token|secret|password|authorization)(\s*[:=]\s*)([^\s'\"`]+)")
 
 
@@ -129,17 +132,19 @@ class GitHubReader:
             data = self._mock_json("pr_files.json")
         else:
             data = gh_json(f"repos/{self.target.owner}/{self.target.repo}/pulls/{self.target.number}/files?per_page=100")
-        return [
-            {
+        files = []
+        for item in data:
+            patch, truncated = clamp_text(item.get("patch", ""), MAX_PR_FILE_PATCH_BYTES)
+            files.append({
                 "filename": item.get("filename"),
                 "status": item.get("status"),
                 "additions": item.get("additions"),
                 "deletions": item.get("deletions"),
                 "changes": item.get("changes"),
-                "patch": item.get("patch", ""),
-            }
-            for item in data
-        ]
+                "patch": patch,
+                "patch_truncated": truncated,
+            })
+        return files
 
     def get_pr_diff(self) -> str:
         if self.mock_dir:
@@ -307,7 +312,9 @@ def call_anthropic(*, model: str, system: str, tools: list[dict[str, Any]], mess
     api_key = env_value("ANTHROPIC_API_KEY")
     if not api_key:
         raise ReviewError("ANTHROPIC_API_KEY is not set")
-    body = {"model": model, "max_tokens": max_tokens, "temperature": 0.1, "system": system, "tools": tools, "messages": messages}
+    body = {"model": model, "max_tokens": max_tokens, "system": system, "tools": tools, "messages": messages}
+    if not re.match(r"^claude-[a-z]+-5(?:$|-)", model):
+        body["temperature"] = 0.1
     request = urllib.request.Request(
         "https://api.anthropic.com/v1/messages",
         data=json.dumps(body).encode("utf-8"),
@@ -330,7 +337,7 @@ def call_anthropic(*, model: str, system: str, tools: list[dict[str, Any]], mess
         except urllib.error.HTTPError as exc:
             detail = exc.read().decode("utf-8", errors="replace")
             raise ReviewError(f"Anthropic API error {exc.code}: {detail}") from exc
-        except (urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
+        except (urllib.error.URLError, TimeoutError, ConnectionResetError, BrokenPipeError, json.JSONDecodeError, http.client.RemoteDisconnected, http.client.HTTPException) as exc:
             errors.append(f"attempt {attempt}: {exc}")
             if attempt < attempts:
                 time.sleep(min(2 ** attempt, 6))
@@ -387,11 +394,13 @@ def dispatch_tool(name: str, tool_input: dict[str, Any], reader: GitHubReader, s
         return {"files": state.files}
     if name == "get_pr_diff":
         state.diff = reader.get_pr_diff()
-        body, truncated = clamp_text(state.diff, 120_000)
+        body, truncated = clamp_text(state.diff, MAX_PR_DIFF_BYTES)
         return {"diff": body, "truncated": truncated}
     if name == "read_file_at_ref":
         path = str(tool_input.get("path", ""))
         ref = str(tool_input.get("ref", ""))
+        if path in state.read_files:
+            return {"path": path, "ref": ref, "already_read": True, "note": "This file was already returned earlier in the review; use the prior tool result instead of rereading it."}
         result = reader.read_file_at_ref(path, ref)
         state.read_files.add(path)
         return result
@@ -412,6 +421,8 @@ def run_claude_review(target: ReviewTarget, reader: GitHubReader, *, model: str,
     system = build_system_prompt()
 
     for turn in range(1, max_tool_turns + 1):
+        if turn == max_tool_turns:
+            messages.append({"role": "user", "content": "This is the final allowed tool turn. Do not call additional repo-reading tools. Call finalize_review now with the best evidence already gathered."})
         payload = call_anthropic(model=model, system=system, tools=tools, messages=messages, max_tokens=max_tokens)
         transcript.append({"turn": turn, "type": "assistant", "payload": payload})
         messages.append({"role": "assistant", "content": payload.get("content", [])})
