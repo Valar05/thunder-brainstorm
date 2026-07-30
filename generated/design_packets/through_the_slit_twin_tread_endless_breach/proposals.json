@@ -1,0 +1,400 @@
+{
+  "title": "Through the Slit — Twin-Tread Endless Breach",
+  "date": "2026-07-30",
+  "source_packet": "generated/source_packets/through_the_slit_twin_tread_endless_breach_source.md",
+  "run_type": "bounded Codex synthesis over selected Thunder pattern cards and Armor Command evidence",
+  "commission_summary": "Endless first-person Fleshpunk survivor-like. Live battle input is independent left and right tread pressure only; violence is authored by hull geometry and additive graft choices.",
+  "proposals": [
+    {
+      "id": "grinding_line",
+      "name": "The Grinding Line",
+      "core_fantasy": "The landship is a corridor predator that never leaves the moving front. Trench mouths, wire gaps, gun pits, and corpse berms stream toward the slit while the player continuously bends the hull's weapon arcs through them.",
+      "pattern_stack": [
+        "highway_vehicle_survivorlike",
+        "deck_pressure_run_manager",
+        "survivorlike_offer_loop",
+        "additive_trait_mutation_stack",
+        "pursuer_rearm_gap"
+      ],
+      "movement_to_violence": [
+        "The main maw owns a narrow forward cone; differential tread pressure sweeps that cone across gun crews and obstacles.",
+        "Port and starboard organs own side-specific arcs. A turn exposes one bank while masking the other behind the hull.",
+        "Recoil produces a short real loss of forward pressure, so lining up a shot also changes formation pace.",
+        "No organ fires without a target physically entering its arc and clearing terrain occlusion."
+      ],
+      "endless_structure": {
+        "macro_cycle": "A continuous 45-70 second sector atom enters from the slit, overlaps the previous atom, then exits behind the war party. The director draws from wire, traverse trench, crater field, AP nest, observer ridge, infantry surge, and salvage pocket cards.",
+        "continuation": "There is no victory state. Every captured seam increments line depth and draws a new sector atom with stateful reactions to the current build and surviving infantry.",
+        "upgrade_gate": "Every second captured seam forces a four-second battlefield freeze and presents three grafts. If capture is delayed, a mercy gate opens at 60 seconds of active play so progression cannot silently disappear."
+      },
+      "first_90_seconds": [
+        {
+          "time": "0-15",
+          "beat": "Both treads push through shell fog. A broad infantry screen teaches that centered forward motion keeps the war party in the hull's lee."
+        },
+        {
+          "time": "15-32",
+          "beat": "A wire seam has one formation-width gap. Yawing too hard opens a weapon arc but strands infantry against wire."
+        },
+        {
+          "time": "32-48",
+          "beat": "A left AP pit commits and traverses visibly. The player turns the main maw onto it while presenting right living scutes."
+        },
+        {
+          "time": "48-58",
+          "beat": "The seam is captured if enough infantry crossed. First graft appears by hard guarantee."
+        },
+        {
+          "time": "58-75",
+          "beat": "The chosen graft immediately faces a counter-push from infantry plus a satchel pair with approach/rearm states."
+        },
+        {
+          "time": "75-90",
+          "beat": "A second atom overlaps before the first fully clears, proving the line continues instead of ending."
+        }
+      ],
+      "guaranteed_upgrade_cadence": {
+        "target": "One choice every 45-60 seconds.",
+        "failsafe": "Upgrade clock accrues active-play seconds and cannot be reset by lingering hostiles. Capture upgrades take precedence; the sixty-second mercy gate prevents a dead offer loop.",
+        "five_minute_expectation": [
+          "0:50",
+          "1:45",
+          "2:40",
+          "3:35",
+          "4:30"
+        ]
+      },
+      "additive_grafts": [
+        {
+          "name": "Bow Gunner I",
+          "delta": "Adds a physical forward-left 28-degree anti-infantry arc at 0.9 shots/s; existing organs remain active."
+        },
+        {
+          "name": "Bow Gunner II",
+          "delta": "Widens that arc to 38 degrees and adds an independent second barrel at 0.55 shots/s."
+        },
+        {
+          "name": "Starboard Sucker Maw",
+          "delta": "Adds a 35-degree close side arc that grabs one committed satchel runner, then requires a visible 4.0-second digestion cycle."
+        },
+        {
+          "name": "Recoil Kidneys",
+          "delta": "Main-maw recoil speed loss drops from 55% for 0.8s to 35% for 0.55s; projectile and cadence are unchanged."
+        },
+        {
+          "name": "Living Scutes — Port",
+          "delta": "Adds 22 degrees of AP-deflecting coverage on the port front quarter; it does nothing against hits outside that geometry."
+        },
+        {
+          "name": "Tendon Sprockets",
+          "delta": "Differential-pressure yaw acceleration rises 20%, making arc acquisition faster without changing weapon damage."
+        },
+        {
+          "name": "Brood Pannier",
+          "delta": "Each captured seam returns two infantry replacements, capped at six stored; it does not repair the hull."
+        },
+        {
+          "name": "Shell Womb",
+          "delta": "Every third main-maw shot births a slower HE shell with 35% larger wire-clearing radius; AP behavior remains intact."
+        }
+      ],
+      "enemy_families": [
+        "Infantry screens with MG teams that pin and kill the war party but cannot hurt the hull.",
+        "AP pits that traverse, commit, fire physical penetrators, and expose crews during reload.",
+        "Observer teams that paint an artillery lane; killing or occluding the observer cancels the strike.",
+        "Satchel pairs that approach, commit, attach, retreat, and must rearm before another run.",
+        "Carrier squads that break into scattered assault children rather than simply disappearing."
+      ],
+      "pressure_axes": [
+        "sector overlap",
+        "wire-gap versus formation width",
+        "AP traverse speed and crossfire",
+        "observer count and paint duration",
+        "infantry spawn cadence",
+        "salvage pockets that tempt dangerous yaw"
+      ],
+      "infantry_and_capture": "The war party follows a protected wedge behind the hull. A seam captures only when a minimum living formation crosses its width. Excess yaw can expose a useful gun arc while causing infantry to bunch against wire or enter MG lanes.",
+      "captured_ground_payout": "Each seam grants tissue, shells, and replacements based on survivors. Every second seam grants a graft; clean captures accelerate the next offer but cannot postpone the failsafe.",
+      "loss_states": [
+        "Living hull organs fail under AP, artillery, or attached satchels.",
+        "The war party falls below capture strength and is overrun."
+      ],
+      "instrumentation": [
+        "sector index and overlap duration",
+        "first and subsequent upgrade timestamps",
+        "arc-entry events caused by tread-state changes",
+        "formation width versus cleared-gap width",
+        "MG damage routed only to infantry",
+        "ten-minute no-victory smoke test"
+      ],
+      "main_risk": "Continuous streaming may flatten the emotional shape into endless-road repetition; consolidation can feel like a number crossing rather than ground won."
+    },
+    {
+      "id": "acre_must_live",
+      "name": "The Acre Must Live",
+      "core_fantasy": "The landship is not the conqueror; it is the moving breach that lets fragile humans take one impossible acre after another. Every cycle is breach, infantry crossing, consolidation, graft, and reprisal.",
+      "pattern_stack": [
+        "pressure_arena_event_cloud",
+        "deck_pressure_run_manager",
+        "survivorlike_offer_loop",
+        "additive_trait_mutation_stack",
+        "vehicle_body_as_dungeon",
+        "branching_airborne_enemy_family",
+        "pursuer_rearm_gap"
+      ],
+      "movement_to_violence": [
+        "Forward main-maw, port organ, starboard organ, and high organ each have visible firing nerves projected into terrain.",
+        "Both treads change range; differential pressure changes which nerve owns a target and which living armor faces committed AP.",
+        "The player protects infantry by shaping a moving lee behind the hull, so a good firing line can still be a bad formation line.",
+        "Physical shells, recoil, traverse, occlusion, and reload remain world rules; no hidden damage aura exists."
+      ],
+      "endless_structure": {
+        "macro_cycle": "Breach (35-50s) → Cross (10-15s) → Consolidate under counterfire (15-25s) → choose graft (4-6s freeze) → Reprisal (25-40s) → push through the next slit.",
+        "continuation": "The captured acre becomes the supply edge for the next pressure arena. The director draws the next trench geometry, enemy branch, complication, and payout modifier from bounded decks. Depth increases until hull or war-party failure.",
+        "upgrade_gate": "Every captured acre grants exactly one graft choice. The first acre is authored to capture by 50-55 seconds if the player keeps any viable formation alive. If not, the run fails visibly rather than continuing in a broken no-upgrade state."
+      },
+      "first_90_seconds": [
+        {
+          "time": "0-8",
+          "beat": "The hull wakes behind a narrow slit. Only the two tread rails appear. The war party gathers in the lee."
+        },
+        {
+          "time": "8-22",
+          "beat": "MG infantry fills the trench lip. Steering the forward nerve across them suppresses the lane while both treads carry infantry toward wire."
+        },
+        {
+          "time": "22-36",
+          "beat": "A wire belt reveals one formation-width breach and one tempting narrow shortcut. The broad route preserves soldiers; the shortcut feeds the maw but cannot pass the formation."
+        },
+        {
+          "time": "36-48",
+          "beat": "A port AP gun commits across the exit. The player must yaw the main maw onto its crew while presenting port scutes, then straighten before infantry crosses."
+        },
+        {
+          "time": "48-55",
+          "beat": "Survivors occupy the trench. Shells, tissue, and replacements visibly flow into the landship. The first three-card graft choice is guaranteed."
+        },
+        {
+          "time": "55-67",
+          "beat": "The chosen organ appears on the body and its firing nerve becomes visible for two seconds as the game resumes."
+        },
+        {
+          "time": "67-90",
+          "beat": "Immediate reprisal: infantry surge, one branching carrier threat, and a warned observer lane. The chosen graft changes which hull geometry is safe. At 90 seconds the next slit opens; there is no victory screen."
+        }
+      ],
+      "guaranteed_upgrade_cadence": {
+        "target": "One graft per captured acre, authored around 50 seconds and directed at 45-65 second intervals thereafter.",
+        "failsafe": "The director may lengthen a fight but never consume the acre's offer token. An offer token is minted when crossing begins and must resolve on capture before the next breach can start.",
+        "five_minute_expectation": [
+          "0:52",
+          "1:43",
+          "2:34",
+          "3:25",
+          "4:16",
+          "5:07"
+        ]
+      },
+      "additive_grafts": [
+        {
+          "name": "Bow Gunner",
+          "delta": "Adds a forward 32-degree anti-infantry organ at 1.0 shot/s. Level II adds a separate 0.5 shot/s heavy pulse instead of replacing the first rhythm."
+        },
+        {
+          "name": "Top Gunner",
+          "delta": "Adds a high 110-degree arc that targets observers and carrier threats only; it cannot solve ground AP pits."
+        },
+        {
+          "name": "Living Scutes",
+          "delta": "Adds 18 degrees of front-quarter AP coverage on both sides. Level II thickens only the already-covered geometry from one deflection to two before regrowth."
+        },
+        {
+          "name": "Infantry Cloister",
+          "delta": "Widens the protected lee from 34 to 46 world units and increases maximum formation width by one file; it gives no hull armor."
+        },
+        {
+          "name": "Counterbattery Bladder",
+          "delta": "After the hull survives an observer paint for 1.5s, adds one physical lofted shell at the observer's last visible position; 8s independent cooldown."
+        },
+        {
+          "name": "Recoil Tendons",
+          "delta": "Main-maw recoil becomes a short reverse shove that also pulls the infantry lee back 8 units, creating a new timing tool rather than raw DPS."
+        },
+        {
+          "name": "Satchel Cilia",
+          "delta": "Adds a 24-degree close front skirt that knocks one committed satchel attacker off the hull; 5s regrowth and no effect on bullets or AP."
+        },
+        {
+          "name": "Brood Chapel",
+          "delta": "Clean capture stores three replacements instead of one and visibly grows infantry pods on the hull; deployment occurs only during the next crossing."
+        },
+        {
+          "name": "Barbed Tongue",
+          "delta": "Main-maw HE impacts pull loose wire inward by 12 units, widening formation routes without increasing shell damage."
+        }
+      ],
+      "enemy_families": [
+        "Mass infantry and MG teams create the population and war-party attrition field.",
+        "AP crews create directional hull puzzles through traverse, commitment, penetrator flight, and reload exposure.",
+        "Observer–artillery chains create warned lanes that can be cancelled by occlusion or killing the observer.",
+        "Satchel assault pairs create close commitment threats with explicit retreat and rearm.",
+        "Carrier teams break into mobile child threats, forcing high versus ground arc tradeoffs.",
+        "Counterattack officers accelerate nearby infantry until the officer is physically exposed to an arc."
+      ],
+      "pressure_axes": [
+        "breach geometry and formation width",
+        "infantry density and MG lane coverage",
+        "AP crossfire angle",
+        "observer paint duration and artillery footprint",
+        "satchel approach lanes",
+        "enemy branch composition",
+        "payout scarcity",
+        "reprisal timing"
+      ],
+      "infantry_and_capture": "Infantry occupy a physical protected formation behind the hull. They must cross the actual cleared width and then survive a consolidation clock in the trench. The hull's shadow, yaw, recoil, and wire-clearing geometry determine their path. No survivors means no acre and an explicit war-party loss.",
+      "captured_ground_payout": "Every acre grants an offer token plus visible supplies. Survivor count determines ammunition, tissue repair, and replacement quality; the graft choice itself is guaranteed and not performance-gated.",
+      "loss_states": [
+        "Directional hull organs are destroyed by committed heavy threats.",
+        "The war party loses capture strength during breach, cross, or consolidation."
+      ],
+      "instrumentation": [
+        "macro-phase duration and sector depth",
+        "offer token mint and resolution timestamps",
+        "survivors entering, crossing, and holding the acre",
+        "protected-lee occupancy over time",
+        "valid arcs and occlusion for every organ shot",
+        "warning-to-impact time for every heavy hit",
+        "same-seed divergent-tread replay comparison",
+        "five- and ten-minute duration gates"
+      ],
+      "main_risk": "The phase rhythm can become ceremonial downtime if cross and consolidation stop asking the player to steer. Counterfire and formation shaping must keep both treads meaningful through every phase."
+    },
+    {
+      "id": "machine_remembers",
+      "name": "The Machine Remembers",
+      "core_fantasy": "The landship itself is the run map. Every acre wounds, feeds, or grows a different side of the body; the player steers not only through trenches but through a persistent anatomy of consequences.",
+      "pattern_stack": [
+        "vehicle_body_as_dungeon",
+        "multi_use_power_mutation",
+        "artifact_recipe_unlocks",
+        "delayed_consequence_stack",
+        "additive_trait_mutation_stack",
+        "pressure_arena_event_cloud"
+      ],
+      "movement_to_violence": [
+        "Each tread and armor quarter feeds a named body zone. Presenting a side to fire risks that zone but activates its side organs.",
+        "Acquired grafts attach to explicit sockets and inherit that socket's arc, recoil, damage, and wound state.",
+        "Terrain contact can feed or contaminate one tread, changing traction without adding buttons.",
+        "The body diagram is review-only between acres; live play remains two treads."
+      ],
+      "endless_structure": {
+        "macro_cycle": "Each 55-80 second acre offers two routes through the slit: a safer supply geometry or a dangerous tissue source. Capture grows a graft, heals a zone, or banks a body recipe. Old wounds and harvested enemy traits return as delayed complications.",
+        "continuation": "A stateful arena deck composes future sectors from anatomy, stored tissue, prior routes, and enemy adaptation. There is no final sector.",
+        "upgrade_gate": "Every capture resolves one normal graft choice; every third capture also checks a visible recipe assembled from prior behavior."
+      },
+      "first_90_seconds": [
+        {
+          "time": "0-18",
+          "beat": "The player feels asymmetric traction: the left tread is hungry and grips corpse mud; the right tread is fast on duckboards."
+        },
+        {
+          "time": "18-38",
+          "beat": "Two routes appear. The left offers gun tissue under AP coverage; the right preserves infantry but yields only repair."
+        },
+        {
+          "time": "38-55",
+          "beat": "The chosen exposure scars a named armor quarter and seeds a later enemy adaptation."
+        },
+        {
+          "time": "55-64",
+          "beat": "Capture grants the first graft and clearly shows its socket, arc, and current wound interaction."
+        },
+        {
+          "time": "64-90",
+          "beat": "Counterattack targets the exposed body quarter, proving that the route and graft changed the next pressure rather than only a stat sheet."
+        }
+      ],
+      "guaranteed_upgrade_cadence": {
+        "target": "One normal graft every 55-80 seconds; one recipe mutation every third acre.",
+        "failsafe": "Capture always grants an offer. Recipes are bonuses and can never replace the normal offer.",
+        "five_minute_expectation": [
+          "0:58",
+          "1:58",
+          "2:58 plus recipe",
+          "3:58",
+          "4:58"
+        ]
+      },
+      "additive_grafts": [
+        {
+          "name": "Port Hunger Tread",
+          "delta": "Port traction rises 25% on corpse mud and harvests one tissue per 20 units traveled there; clean ground traction is unchanged."
+        },
+        {
+          "name": "Starboard Bone Rail",
+          "delta": "Adds a 40-degree side-mounted penetrator arc with a 5s cadence; firing temporarily stiffens starboard yaw for 0.7s."
+        },
+        {
+          "name": "Observer Eye",
+          "delta": "Adds a narrow high arc that marks one observer for existing organs; it deals no damage and adds no input."
+        },
+        {
+          "name": "Scar Nursery",
+          "delta": "A destroyed scute grows one larval replacement after the next clean capture; the current wound remains dangerous until then."
+        },
+        {
+          "name": "Infantry Gut",
+          "delta": "Surviving infantry carried through one dangerous route produce an extra replacement on the next safe capture; no benefit if the formation breaks."
+        },
+        {
+          "name": "Counterweight Spine",
+          "delta": "Port-organ recoil yaws the hull 4 degrees starboard, allowing planned chained arcs instead of increasing damage."
+        },
+        {
+          "name": "Wire-Digesting Saliva",
+          "delta": "Forward HE impacts leave a 5s digest field that opens infantry-width routes through wire; armor damage is unchanged."
+        },
+        {
+          "name": "Memory Bladder",
+          "delta": "After surviving the same heavy threat twice, stores one automatic counter-shell with a 12s independent recharge."
+        }
+      ],
+      "enemy_families": [
+        "Infantry and MG fields remain the war-party threat.",
+        "Adaptive AP crews prefer the most exposed or repeatedly used body quarter.",
+        "Harvestable carrier organisms split into dangerous offspring and tissue sources.",
+        "Observer chains remember routes and seed delayed artillery in a later acre.",
+        "Scavenger satchel teams attack wounded sockets, then retreat to rearm."
+      ],
+      "pressure_axes": [
+        "body-zone wounds",
+        "terrain-specific traction",
+        "route risk versus tissue reward",
+        "enemy adaptation memory",
+        "recipe conditions",
+        "formation survival",
+        "delayed artillery hooks"
+      ],
+      "infantry_and_capture": "Infantry still must cross physical cleared width, but their survival also determines which body recipes mature. They are a living part of the machine's future, not a passive score.",
+      "captured_ground_payout": "Every capture grants one graft plus a choice among tissue repair, replacements, or recipe progress. Resource choices alter later arena composition.",
+      "loss_states": [
+        "Critical body zones fail under directional heavy damage.",
+        "The war party collapses and no longer supplies capture or recipe conditions."
+      ],
+      "instrumentation": [
+        "socket, arc, and wound provenance for every graft",
+        "route choice and delayed consequence ledger",
+        "traction deltas by terrain",
+        "normal offer guarantee independent of recipe checks",
+        "enemy adaptation selection reasons",
+        "ten-minute state growth without terminal victory"
+      ],
+      "main_risk": "This creates the richest long run but asks the prototype to prove anatomy, terrain, delayed consequences, recipes, infantry, and combat geometry simultaneously. It is likely architecture before fun."
+    }
+  ],
+  "comparative_verdict": {
+    "grinding_line": "Strongest continuous tread feel and simplest streaming, but most vulnerable to endless-road repetition and weak emotional ownership of captured ground.",
+    "acre_must_live": "Best alignment of tread steering, infantry survival, ground capture, guaranteed upgrades, and readable escalation. The macro-cycle supplies punctuation without adding battle inputs.",
+    "machine_remembers": "Best future campaign depth and body-horror identity, but too many interacting proof obligations for the next prototype."
+  }
+}

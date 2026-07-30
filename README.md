@@ -2,6 +2,17 @@
 
 Thunder Brainstorm is a local game-idea engine built from generalized patterns observed across this workspace and GitHub repository metadata. It is intentionally not a repo copier: it stores pattern cards, source observations, and generated pitches, not source code from inspected projects.
 
+## Through the Slit / Twin-Tread Endless Breach
+
+The first authoritative Through the Slit Thunder run is preserved as a bounded source packet, three structurally distinct proposals, a recommended prototype, and source refs:
+
+- `generated/source_packets/through_the_slit_twin_tread_endless_breach_source.md`: two-tread-only commission locks, v20/v21/v22 rejections, endlessness and graphics gates.
+- `generated/design_packets/through_the_slit_twin_tread_endless_breach/proposals.json`: continuous-corridor, breach/consolidate, and living-body campaign proposals.
+- `generated/design_packets/through_the_slit_twin_tread_endless_breach/CODEX_SYNTHESIS.md`: recommended Acre Must Live loop, authored opening ninety seconds, graft cadence, director, telemetry, and acceptance gates.
+- `generated/source_refs_manual/through_the_slit_twin_tread_endless_breach_source_refs.jsonl`: evidence ledger for the run.
+
+This run explicitly rejects manual gunnery, omniscient autofire, finite thirty-second encounters, missing upgrade offers, and graphics investment before the five- and ten-minute loop gates pass.
+
 ## Prospector / WWDD Behavioral Mining
 
 Prospector artifacts mine the Thunder Brainstorm corpus for repeated operator judgment rather than project summaries:
