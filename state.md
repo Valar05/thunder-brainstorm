@@ -6,7 +6,7 @@ State owner: Drew Clarke
 
 Technical lane: `Valar05/thunder-brainstorm` through Command Center / GitHub
 
-Status: IMPLEMENTED, LOCALLY TESTED, PUSHED, AND OPEN AS DRAFT PR #3; NOT MERGED, NOT DEPLOYED, NOT CALLABLE FROM THE DEFAULT BRANCH, NOT SCHEDULED, NOT ENABLED
+Status: IMPLEMENTED, TESTED, MERGED, DEPLOYED TO THE DEFAULT BRANCH, AND MANUALLY CALLABLE; ONE CANARY EXECUTED; ARTIFACT DELIVERY BLOCKED BY GITHUB ACTIONS STORAGE QUOTA; NOT SCHEDULED, NOT RECURRING, NOT EXTERNALLY SUBMITTING
 
 ## Outcome
 
@@ -22,17 +22,22 @@ Build the missing Hunger evaluator, bounded Loopit automatic-generation integrat
 ## Current capability states
 
 - Requested: yes.
-- Implemented: yes, on branch `agent/hunger-loopit-thunder`.
-- Tested: yes; 5 unit tests pass, Python compilation passes, and the local canary produced 3 review candidates from 3 attempts.
-- Pushed: yes; implementation commit `2377f93aad83dde8aad375fde54c7dd80e447981`.
-- Review surface: draft PR #3 — https://github.com/Valar05/thunder-brainstorm/pull/3
-- Deployed: no.
-- Callable through GitHub default branch: no, pending review/merge.
+- Implemented: yes.
+- Tested locally: yes; 6 unit tests pass, Python compilation passes, and the local canary produced 3 review candidates from 3 attempts.
+- Reviewed and merged: yes; PR #3 — https://github.com/Valar05/thunder-brainstorm/pull/3
+- Default-branch deployment: yes; merge commit `6c3b3abba57af530af5ea024a5012f5f147c1901`.
+- Manually callable: yes; workflow `Hunger Loopit Thunder`, ID `328657541`.
+- GitHub canary: exactly one manual dispatch, run `31108342229` — https://github.com/Valar05/thunder-brainstorm/actions/runs/31108342229
+- Canary tests and generation: passed.
+- Canary artifact upload: failed because the GitHub Actions artifact storage quota was full. No retry was sent and no money was spent.
+- Candidate artifact delivered: no.
 - Recurring ChatGPT automation configured: no.
 - Recurring automation enabled: no.
 - External submission adapter: blocked on unidentified Loopit/destination contract.
 - Human acceptance: pending Drew.
 
-## Active gate
+## Active gates
 
-The smallest safe integration ends at a candidate GitHub Actions artifact. Recurrence and any external submission require Drew’s destination and schedule decisions after the workflow is merged and verified.
+1. GitHub must recalculate available artifact storage or Drew must separately authorize cleanup before a later run can deliver the JSON artifact.
+2. Drew must identify any external Loopit product or submission destination before an external adapter is built.
+3. Drew must choose cadence, timezone, default focus/count/seed policy, and notification behavior before ChatGPT scheduling is configured or enabled.
