@@ -2,6 +2,17 @@
 
 Thunder Brainstorm is a local game-idea engine built from generalized patterns observed across this workspace and GitHub repository metadata. It is intentionally not a repo copier: it stores pattern cards, source observations, and generated pitches, not source code from inspected projects.
 
+## Hunger / Loopit automation lane
+
+The bounded `Hunger → Loopit → Thunder Brainstorm` lane generates deterministic pitches, applies an evidence-bearing Hunger gate, quarantines failed candidates, and prepares passing candidates for human review. It does not publish, grant canon, or enable a recurring schedule.
+
+```sh
+python -m unittest discover -s tests -v
+python tools/loopit_thunder.py --focus "mobile action" --count 3 --seed 17 --out generated/automation/hunger-loopit-thunder.json
+```
+
+The manually dispatched GitHub Actions entrypoint is `.github/workflows/hunger-loopit-thunder.yml`. See `docs/HUNGER_LOOPIT_THUNDER.md` for the recovered contract, boundaries, and remaining schedule/submission gates.
+
 ## Prospector / WWDD Behavioral Mining
 
 Prospector artifacts mine the Thunder Brainstorm corpus for repeated operator judgment rather than project summaries:

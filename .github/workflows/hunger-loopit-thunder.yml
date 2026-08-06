@@ -1,0 +1,53 @@
+name: Hunger Loopit Thunder
+
+on:
+  workflow_dispatch:
+    inputs:
+      focus:
+        description: Thunder focus phrase
+        required: true
+        default: open
+        type: string
+      count:
+        description: Number of Hunger-passing ideas to bundle
+        required: true
+        default: "3"
+        type: string
+      seed:
+        description: Deterministic random seed
+        required: true
+        default: "17"
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  generate-review-bundle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Test Hunger and Loopit contracts
+        run: python -m unittest discover -s tests -v
+      - name: Generate reviewed submission bundle
+        env:
+          HUNGER_FOCUS: ${{ inputs.focus }}
+          HUNGER_COUNT: ${{ inputs.count }}
+          HUNGER_SEED: ${{ inputs.seed }}
+        run: >-
+          python tools/loopit_thunder.py
+          --focus "$HUNGER_FOCUS"
+          --count "$HUNGER_COUNT"
+          --seed "$HUNGER_SEED"
+          --out generated/automation/hunger-loopit-thunder.json
+      - name: Upload candidate bundle
+        uses: actions/upload-artifact@v4
+        with:
+          name: hunger-loopit-thunder-${{ github.run_id }}
+          path: generated/automation/hunger-loopit-thunder.json
+          if-no-files-found: error
+          retention-days: 14
