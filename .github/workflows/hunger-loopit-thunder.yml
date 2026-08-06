@@ -45,6 +45,7 @@ jobs:
           --seed "$HUNGER_SEED"
           --out generated/automation/hunger-loopit-thunder.json
       - name: Upload candidate bundle
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: hunger-loopit-thunder-${{ github.run_id }}

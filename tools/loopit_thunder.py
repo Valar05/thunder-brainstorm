@@ -26,11 +26,13 @@ def build_submission_bundle(
     max_attempts: int | None = None,
 ) -> dict[str, Any]:
     """Generate pitches until enough pass Hunger or the bounded loop is exhausted."""
-    if count < 1:
-        raise ValueError("count must be at least 1")
+    if not 1 <= count <= 20:
+        raise ValueError("count must be between 1 and 20")
     attempt_limit = max_attempts if max_attempts is not None else max(count * 4, count)
     if attempt_limit < count:
         raise ValueError("max_attempts must be greater than or equal to count")
+    if attempt_limit > 200:
+        raise ValueError("max_attempts must not exceed 200")
 
     cards = load_cards()
     rng = random.Random(seed)

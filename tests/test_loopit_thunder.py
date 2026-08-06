@@ -37,6 +37,12 @@ class LoopitThunderTests(unittest.TestCase):
         self.assertEqual(2, bundle["summary"]["quarantined"])
         self.assertEqual([], bundle["submissions"])
 
+    def test_request_size_is_bounded(self) -> None:
+        with self.assertRaisesRegex(ValueError, "between 1 and 20"):
+            build_submission_bundle(focus="open", count=21, seed=1)
+        with self.assertRaisesRegex(ValueError, "exceed 200"):
+            build_submission_bundle(focus="open", count=1, seed=1, max_attempts=201)
+
 
 if __name__ == "__main__":
     unittest.main()
