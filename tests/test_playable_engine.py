@@ -29,6 +29,10 @@ class PlayableEngineTests(unittest.TestCase):
         plan = build_plan("Build schemas. Add plugins; prove accessibility plus export receipts.")
         self.assertEqual({a["id"] for a in plan["atoms"]}, {x for t in plan["tasks"] for x in t["atom_ids"]})
         self.assertEqual({"atom-materialization"}, {t["parallel_group"] for t in plan["tasks"]})
+        self.assertTrue(all(len(atom["source_span"]) == 2 for atom in plan["atoms"]))
+        sequential = build_plan("Build schemas then validate the schemas. Add plugins.")
+        self.assertEqual(["T001"], sequential["tasks"][1]["dependencies"])
+        self.assertEqual([], sequential["tasks"][2]["dependencies"])
 
     def test_planner_rejects_shared_writes(self):
         broken = copy.deepcopy(build_plan("Build schemas. Add plugins."))
@@ -62,6 +66,17 @@ class PlayableEngineTests(unittest.TestCase):
         )
         with self.assertRaisesRegex(ContractError, "not allowed"):
             model.propose("concrete prompt", "PLAYABLE_COMPILE")
+        valid_action_wrong_receipt = {
+            "version": 1, "mode": "CAMPAIGN_PLAN",
+            "action": {"name": "plan_campaign", "arguments": {"prompt": "concrete prompt"}},
+            "provenance": {"producer": "test", "prompt_hash": "sha256:wrong"},
+        }
+        wrong = FunctionGemmaBoundary(
+            lambda prompt, mode: json.dumps(valid_action_wrong_receipt),
+            {"checkpoint_hash": "sha256:c", "tokenizer_hash": "sha256:t", "runtime": "test", "decoding": "greedy"},
+        )
+        with self.assertRaisesRegex(ContractError, "returned mode"):
+            wrong.propose("concrete prompt", "PLAYABLE_COMPILE")
 
     def test_dataset_is_deterministic_and_hashed(self):
         first = list(generate_examples(seed=7, count=12))
