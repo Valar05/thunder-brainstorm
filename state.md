@@ -64,11 +64,18 @@ Status: IMPLEMENTED AND LOCALLY TESTED ON `agent/playable-model-planner`; REMOTE
 ### Local evidence
 
 - `python -m compileall thunder_brainstorm.py playable_engine tools tests`: PASS.
-- `python -m unittest discover -s tests -v`: PASS, 9 tests.
+- `python -m unittest discover -s tests -v`: PASS, 15 tests (9 new playable-engine tests plus 6 preserved Hunger/Loopit tests).
 - Training JSONL canary: 32/32 lines.
 - Training receipt: `b41c766446b7ed99b962db94fa8cabd94a07b051693e68173dc16febd1f54d5b`.
 - Playable receipt: `9c4a73306d5dfd5ae5f78c7d2ce264d69f4af8b56eb0e395cffad703dba7528c`.
 - Campaign-plan receipt: `829c9cd52e068c8c7d88e25918f5e49029c4bb586d5f6cdc7dc08ecf999ce7aa`.
+
+### Remote acceptance
+
+- Draft PR: https://github.com/Valar05/thunder-brainstorm/pull/4
+- Head commit before this state receipt: `cd6cf1f7542dcfe3e1388a4ce5c92087e4862c32`.
+- GitHub Actions run `31530574128`: INFRASTRUCTURE RED. GitHub created the job, ran zero steps, and terminated it in about two seconds. No test failure was emitted and the log blob was unavailable. This is consistent with the repository's recorded Actions quota blockage. No retry was sent and no money was spent.
+- Remote file readback: all 21 intended changed paths are present on the PR.
 
 ### Locked boundary
 
