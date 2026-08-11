@@ -2,9 +2,6 @@ name: Playable engine
 
 on:
   pull_request:
-  push:
-    branches:
-      - agent/playable-model-planner
 
 jobs:
   test:
