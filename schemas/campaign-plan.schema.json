@@ -6,7 +6,7 @@
   "properties": {
     "version": {"const": 1},
     "prompt_hash": {"type": "string"},
-    "atoms": {"type": "array", "items": {"type": "object", "required": ["id", "text"]}},
+    "atoms": {"type": "array", "items": {"type": "object", "required": ["id", "text", "source_span", "relation"]}},
     "tasks": {"type": "array", "items": {"type": "object", "required": ["id", "owner", "action", "atom_ids", "inputs", "reads", "writes", "output", "verifier", "dependencies", "parallel_group", "idempotency_key", "failure", "merge_handoff"]}},
     "merge_gates": {"type": "array"}
   }
