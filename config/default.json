@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "actions": {
+    "compile_playable": {"mode": "PLAYABLE_COMPILE", "executor": "engine.compile"},
+    "plan_campaign": {"mode": "CAMPAIGN_PLAN", "executor": "engine.plan"},
+    "park": {"mode": "any", "executor": "engine.park"}
+  },
+  "plugins": {"thunder.brainstorm": {"enabled": true, "version": "1.0.0"}},
+  "profiles": {
+    "phone-local": {
+      "bind": "127.0.0.1",
+      "network_required": false,
+      "workspace": "/storage/emulated/0/Documents/GodotProjects"
+    }
+  }
+}

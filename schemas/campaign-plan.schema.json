@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "fortress://schemas/campaign-plan-v1",
+  "type": "object",
+  "required": ["version", "prompt_hash", "atoms", "tasks", "merge_gates"],
+  "properties": {
+    "version": {"const": 1},
+    "prompt_hash": {"type": "string"},
+    "atoms": {"type": "array", "items": {"type": "object", "required": ["id", "text", "source_span", "relation"]}},
+    "tasks": {"type": "array", "items": {"type": "object", "required": ["id", "owner", "action", "atom_ids", "inputs", "reads", "writes", "output", "verifier", "dependencies", "parallel_group", "idempotency_key", "failure", "merge_handoff"]}},
+    "merge_gates": {"type": "array"}
+  }
+}

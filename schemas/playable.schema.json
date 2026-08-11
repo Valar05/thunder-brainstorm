@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "fortress://schemas/playable-v1",
+  "type": "object",
+  "required": ["version", "id", "title", "inputs", "state", "actions", "causality", "accessibility", "lineage"],
+  "properties": {
+    "version": {"const": 1},
+    "id": {"type": "string"},
+    "title": {"type": "string"},
+    "inputs": {"type": "array", "items": {"type": "string"}},
+    "state": {"type": "object"},
+    "actions": {"type": "array"},
+    "causality": {"type": "object"},
+    "accessibility": {"type": "object"},
+    "lineage": {"type": "object"}
+  }
+}

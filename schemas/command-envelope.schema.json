@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "fortress://schemas/command-envelope-v1",
+  "type": "object",
+  "required": ["version", "mode", "action", "provenance"],
+  "additionalProperties": false,
+  "properties": {
+    "version": {"const": 1},
+    "mode": {"enum": ["PLAYABLE_COMPILE", "CAMPAIGN_PLAN"]},
+    "action": {
+      "type": "object",
+      "required": ["name", "arguments"],
+      "additionalProperties": false,
+      "properties": {
+        "name": {"enum": ["compile_playable", "plan_campaign", "park"]},
+        "arguments": {"type": "object"}
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "required": ["producer", "prompt_hash"],
+      "properties": {"producer": {"type": "string"}, "prompt_hash": {"type": "string"}}
+    }
+  }
+}
