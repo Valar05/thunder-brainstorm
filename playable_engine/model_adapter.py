@@ -20,6 +20,11 @@ class FunctionGemmaBoundary:
         except json.JSONDecodeError as exc:
             raise ContractError("model output is not JSON") from exc
         validate_envelope(value)
+        if value["mode"] != mode:
+            raise ContractError(f"model returned mode {value['mode']!r} for requested mode {mode!r}")
+        expected_prompt_hash = content_hash(" ".join(prompt.split()))
+        if value["provenance"]["prompt_hash"] != expected_prompt_hash:
+            raise ContractError("model prompt hash does not match the request")
         value["provenance"]["model"] = self.model_receipt
         value["provenance"]["accepted_envelope_hash"] = content_hash(value)
         return value
