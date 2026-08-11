@@ -4,18 +4,39 @@ from typing import Any
 from .canonical import content_hash
 from .contracts import ContractError
 
-def atomize(prompt: str) -> list[dict[str, str]]:
+def atomize(prompt: str) -> list[dict[str, Any]]:
     normalized = re.sub(r"\s+", " ", prompt).strip()
     if not normalized:
         raise ContractError("prompt is empty")
-    chunks = [chunk.strip(" ,.") for chunk in re.split(r"(?:[.;!?]+|\bthen\b|\band also\b|\bplus\b)", normalized, flags=re.I) if chunk.strip(" ,.")]
-    return [{"id": f"A{index:03d}", "text": text} for index, text in enumerate(chunks, 1)]
+    separator = re.compile(r"(?:[.;!?]+|\bthen\b|\band also\b|\bplus\b)", flags=re.I)
+    atoms: list[dict[str, Any]] = []
+    cursor = 0
+    relation = "parallel"
+    for match in list(separator.finditer(normalized)) + [None]:
+        end = match.start() if match else len(normalized)
+        raw = normalized[cursor:end]
+        left_trim = len(raw) - len(raw.lstrip(" ,"))
+        text = raw.strip(" ,.")
+        if text:
+            start = cursor + left_trim
+            atoms.append({
+                "id": f"A{len(atoms) + 1:03d}",
+                "text": text,
+                "source_span": [start, start + len(text)],
+                "relation": relation,
+            })
+        if match:
+            relation = "after_previous" if match.group(0).strip().lower() == "then" else "parallel"
+            cursor = match.end()
+    return atoms
 
 def build_plan(prompt: str) -> dict[str, Any]:
     atoms = atomize(prompt)
     tasks = []
+    previous_task_id = None
     for index, atom in enumerate(atoms, 1):
         task_id = f"T{index:03d}"
+        dependencies = [previous_task_id] if atom["relation"] == "after_previous" and previous_task_id else []
         tasks.append({
             "id": task_id,
             "owner": "campaign-worker",
@@ -26,12 +47,13 @@ def build_plan(prompt: str) -> dict[str, Any]:
             "writes": [f"artifacts/{task_id}.json"],
             "output": f"artifacts/{task_id}.json",
             "verifier": {"kind": "canonical_hash", "required": True},
-            "dependencies": [],
-            "parallel_group": "atom-materialization",
+            "dependencies": dependencies,
+            "parallel_group": "after-previous" if dependencies else "atom-materialization",
             "idempotency_key": content_hash({"task": task_id, "atom": atom}),
             "failure": {"stop": "park_branch", "retry": 1, "rollback": "discard_isolated_output"},
             "merge_handoff": "G001",
         })
+        previous_task_id = task_id
     plan = {
         "version": 1,
         "prompt_hash": content_hash(prompt),
