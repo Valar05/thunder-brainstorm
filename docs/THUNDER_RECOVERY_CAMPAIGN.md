@@ -18,7 +18,7 @@ This campaign does **not** replace `tools/turbo_survey.py`, Thunder Brainstorm, 
 
 The local recovery verifier may prove **LOCAL RECOVERY VERIFIED** only. Its successful state is `RECOVERY_VERIFIED_PENDING_HOME_CENTER_DELIVERY`.
 
-It may never grant campaign acceptance. Campaign `ACCEPTED` / `RECEIPT_BACKED_COMPLETE` exists only after the verified recovery artifacts or exact durable references are delivered through Home Center Drive and read back there.
+It may never grant campaign acceptance. Campaign `ACCEPTED` / `RECEIPT_BACKED_COMPLETE` exists only after the verified recovery result is durably delivered through Home Center Drive and read back there. Delivery may be the machine-readable artifacts themselves when the authorized lane supports them, or an exact durable ledger reference to the authorized physical body/path plus hashes and execution receipts when it does not. Never silently substitute one for the other.
 
 Requested, implemented, tested, deployed, callable, executed, receipt-backed, delivered, and accepted remain separate states.
 
@@ -69,9 +69,10 @@ Caller labels alone are not physical-body proof. Preserve the corresponding Home
    - `kingdom_survey.json`
    - `excavation_queue.jsonl`
    - kingdom `receipt.json`
-9. Persist the recovery result or exact durable artifact references through Home Center Drive.
+9. Deliver the recovery result through the authorized Home Center Drive lane. Prefer actual machine-readable artifact persistence when exposed. If the lane cannot carry those files, durably record exact authorized-body identity, absolute paths, hashes, execution receipt IDs, and retrieval route in the canonical ledger instead of pretending upload occurred.
 10. Update and read back the canonical recovery ledger with machine identities, environment identities, execution receipts, timestamps, repo counts, duplicate groups, hashes, top excavation targets, and full artifact IDs/references or exact authorized-body paths.
-11. Only after Home Center readback may the campaign ledger advance to `ACCEPTED` / `RECEIPT_BACKED_COMPLETE`.
+11. Verify that every referenced result is still retrievable through the recorded authorized route. A dead path written into Drive is not delivery.
+12. Only after Home Center ledger readback and retrieval verification may the campaign ledger advance to `ACCEPTED` / `RECEIPT_BACKED_COMPLETE`.
 
 ## ChatGPT recovery contract
 
@@ -79,7 +80,7 @@ When Drew says `Fortress Online`, `Thunder archaeology`, `local code crawl`, `Si
 
 1. Retrieve the canonical Home Center Drive recovery ledger first.
 2. Inspect its source references/readback evidence.
-3. If the ledger is `ACCEPTED` / `RECEIPT_BACKED_COMPLETE`, use that durable result as the archaeology substrate.
+3. If the ledger is `ACCEPTED` / `RECEIPT_BACKED_COMPLETE`, verify the recorded result is still retrievable through the recorded authorized route before using it.
 4. If it is `CONTINUE_REQUIRED` or `RECOVERY_VERIFIED_PENDING_HOME_CENTER_DELIVERY`, continue the earliest incomplete physical-machine, merge, delivery, or readback transition instead of asking Drew to reconstruct context.
 5. Never ask Drew to paste crawl output that authorized bodies or Home Center can retrieve.
 
