@@ -43,6 +43,14 @@ The missing Product One deliverable is a direct bounded input-driven mantle. The
 
 Do not repair, refactor, broaden, or accept the full Infinite Brutality climb system as part of this correction. Its behavior and tests remain separate full-game concerns. Product One acceptance stays narrow: direct mantle evidence only, using the existing controller owner and a bounded proof adapter.
 
+### False-Green Regression Gate
+
+A grounded wall contact that lifts the controller 1.315 metres to the center of a proof box is not a mantle; it is a false-green air boost. Forward input and collision alone cannot authorize Product One mantle.
+
+The constrained direct-mantle gate requires all of the following at once: the player is airborne with positive jump velocity; the actual Rapier wall-contact normal agrees with camera facing; feet are inside a narrow height window below the contacted lip; the landing target is derived from the contact point just beyond that lip using the player radius plus the existing mantle-forward inset and is clamped within the top; the registered collision owner confirms landing support and body clearance; vertical and horizontal displacement stay within explicit caps; and the shared mantle updater completes with zero velocity.
+
+Completion must land grounded without immediately repeating from the top. Product One must never enter the general CLIMB state. Full-game climbing remains separate, while the constrained proof adapter and its deterministic contract must fail closed on grounded activation, reversed contact normals, missing support, blocked clearance, out-of-window height, excessive displacement, or any climb precursor.
+
 ## Phase Handoff
 
 Thunder is now the first lookup surface for this Product One slice. The matching manual source-reference ledger records exact current anchors without copying source bodies. No Infinite Brutality code, tests, deployment, GitHub state, or visual acceptance was changed in this Thunder-only phase.
