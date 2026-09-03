@@ -33,6 +33,16 @@ The boxes are hosts for controller evidence, not authored traversal atoms and no
 
 Those artifacts are proof candidates, not automatic acceptance. The outstanding proof is that the isolated surface uses controller v1 rather than a newly typed approximation, and that the accepted evidence lane demonstrates the controller against the grid. Repeating constants or behavior in another runtime is not proof of shared ownership.
 
+## Binding Correction: Direct Mantle, Not Climbing
+
+Product One excludes climbing. The general Infinite Brutality climb system—wall attachment, hanging, shimmying, terrain projection, climb detachment, and the full-game climb/mantle state machine—is not part of this proof and must not be imported as Product One scope.
+
+The current `climb` lane in `tools/test_controller_kata.sh` is a false green for Product One. It runs `test_player_climb_contract.mjs`, which checks source markers for the full Infinite Brutality climb implementation; it does not drive controller input through the Product One proof, does not require a deliberately bounded mantle obstacle, and does not prove a mantle from input through completion.
+
+The missing Product One deliverable is a direct bounded input-driven mantle. The proof must drive the real Product One input/controller path against an explicit bounded mantle candidate and demonstrate the direct mantle transition and completion within that bounded fixture. It must not require or validate a preceding general climb, cling, shimmy, terrain-climb, or full-game traversal mode.
+
+Do not repair, refactor, broaden, or accept the full Infinite Brutality climb system as part of this correction. Its behavior and tests remain separate full-game concerns. Product One acceptance stays narrow: direct mantle evidence only, using the existing controller owner and a bounded proof adapter.
+
 ## Phase Handoff
 
 Thunder is now the first lookup surface for this Product One slice. The matching manual source-reference ledger records exact current anchors without copying source bodies. No Infinite Brutality code, tests, deployment, GitHub state, or visual acceptance was changed in this Thunder-only phase.
