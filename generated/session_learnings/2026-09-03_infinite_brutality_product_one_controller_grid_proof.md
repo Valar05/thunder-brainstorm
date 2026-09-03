@@ -54,3 +54,57 @@ Completion must land grounded without immediately repeating from the top. Produc
 ## Phase Handoff
 
 Thunder is now the first lookup surface for this Product One slice. The matching manual source-reference ledger records exact current anchors without copying source bodies. No Infinite Brutality code, tests, deployment, GitHub state, or visual acceptance was changed in this Thunder-only phase.
+
+## Deterministic QA Performance And Receipt Lesson
+
+A deterministic gate can be logically correct and still fail as a practical pre-push handoff if Git change discovery scans unrelated large trees. Manifest `ignore_globs` must be applied by Git during tracked and untracked enumeration, not filtered only after Git has already walked the workspace. The same exclusions must govern the receipt dirty-state hash, or selection and receipt currentness disagree.
+
+Ignore patterns are data-only, project-relative, and fail closed on absolute paths, parent traversal, backslashes, or control characters. Projects should ignore only artifacts demonstrably outside the enrolled proof. Any imported runtime dependency that can change the verdict remains in the case `source_globs`; Product One therefore binds its exact Three.js and Rapier module inputs even while unrelated assets, data, documentation, Boxcraft outputs, and local tooling are excluded.
+
+For the current Product One proof, this reduced a cached quick check from 8459.6 ms to 1629.8 ms while preserving the shared controller, physics, mantle, arena, simulator, and imported runtime dependencies as impact owners. The reusable rule is: prune irrelevant trees at Git enumeration, bind the same scoped dirt in receipts, and keep every verdict-bearing owner explicit in case data.
+
+## False-Green Correction: The Playable Arena Owns The Fixtures
+
+The earlier deterministic controller result was a false green: its low edge and stairs existed only as simulator-local cuboids, while the playable page rendered only the grid floor, one mantle box, and the 28 random boxes. A simulator that proves nearby invented geometry does not prove the play surface and must be treated as RED when the visible page is unchanged.
+
+The binding correction is one geometry owner. `generateControllerArena()` now emits a deterministic authored traversal lane containing a low edge, continuous stairs up to a top and back down to ground, a separate 1.2-metre grounded-blocking ledge, and the constrained direct-mantle ledge, with stable roles, identifiers, colors, scenario bounds, and geometry hash. Random boxes remain, but generation excludes the authored lane bounds. `main.js` renders and registers collision by iterating those exact fixture records, and deterministic QA mounts the same records without local dimensions or positions.
+
+Acceptance guardrails now bind geometry hash `b6a6e69f`, the exact fixture-id sequence, every scenario mount, stair return-to-ground, and a negative control that withholds a real page fixture. Withholding `controller-kata-stair-2` produces both `playable traversal fixture withheld` and a failed stair ascent/return, so synthetic-nearby proof cannot silently replace the playable route again. These are guardrails; the user-visible build remains RED until the accepted hosted visual lane shows the authored traversal geometry.
+
+## Relative Mantle Capability Rule And Boxcraft Gap
+
+There is no absolute authored box-height category called mantleable. After a real jump, any visible walkable cuboid can become a mantle candidate only when its contacted top edge enters the player-relative feet-to-lip reach window while the player is still rising, and the same attempt also satisfies forward input, contact-normal facing, owned wall contact, landing support, and body clearance. Autostep height, eye height, jump speed, gravity, radius, mantle-forward inset, and the relative minimum/maximum reach window are controller capabilities, not global level-design constants.
+
+A deterministic mantle course must therefore derive probe tops from an explicit capability profile: a grounded control below autostep, a low mantle just above autostep, a high mantle whose top starts above eye level but becomes relative-reachable during the ballistic rise, and an impossible control above ballistic apex plus the relative reach. These are profile-relative test relations, never an absolute policy for authored box heights.
+
+At Boxcraft commit `34ad1981a44db104d635dc450dcf1ddaeb6818ac`, the engine emits structural `BLOCKMAP 1` and `PIPE 1` artifacts but no 3D mantle fixture records or capability-derived scenario bounds. Its `judgeControllerArena()` adapter reads only `arena.cubes` and always rejects the resulting scatter specimen. That judge remains valid for unauthored scatter criticism, but it cannot generate or validate a mantle course and must not be cited as one.
+
+
+## Boxcraft Mantle Course Owner
+
+Boxcraft commit `b4ff8625a0981ed39eb6d25a6ba88642b974e9b4` closes the recorded generator gap with the strict `validateControllerCapabilityProfile()` and `generateMantleCourse()` engine APIs, exposed as the seventh MCP tool `generate_mantle_course`. The output contract is `BOXCRAFT MANTLE COURSE 1`: normalized capability profile, deterministic cuboid fixture records, scenario records, content hash, and formula provenance, with optional content-addressed data-only JSON and ESM artifacts.
+
+The derivations remain controller-relative: ballistic apex is `jumpSpeed^2 / (2 * gravity)`; the grounded and low probes straddle that profile's autostep height; the high probe begins above that profile's eye height but must enter its relative reach window during rise; and the impossible probe exceeds apex plus maximum relative reach. Broad tops and at least four metres of clear approach are fixture guarantees. This API does not turn any resulting height into a global mantle category.
+
+The older `judgeControllerArena()` scatter rejection remains unchanged and distinct: it still rejects unauthored cube scatter, while `generateMantleCourse()` is the deterministic 3D fixture owner.
+
+## Boxcraft-Owned Dynamic Course Integration
+
+Infinite Brutality commit `44739e6d3c156cdca60642367a52e6303fe11b0e` consumes the data-only mantle course pinned to Boxcraft `b4ff8625a0981ed39eb6d25a6ba88642b974e9b4`, course hash `b4fbadc14e0b5be04285e02a21e361a5666d917b989bb99753b379f2cdfff969`. The arena preserves the visible legacy low edge, continuous stairs, grid, and all 28 seeded random cuboids while adding the four profile-derived Boxcraft probes. Random generation reserves every course approach and top footprint.
+
+The Product One controller no longer accepts a fixture option. For each real Rapier wall contact it asks the physics owner for an exact walkable-cuboid record, computes current feet-to-lip reach, deterministically orders candidates by contact time, reach, and source, and delegates the bounded contact-normal/support/clearance plan to the existing climb owner. A successful queued jump arms the attempt; grounding, mantle start, completion, and reset clear that arm. Full-game CLIMB remains bypassed and fail-closed in Product One.
+
+The deterministic QA mounts the exact page-owned floor, all traversal fixtures, and all 28 random cuboids. It proves grounded autostep for the old low edge/stairs and Boxcraft step, jump mantle for Boxcraft low/high plus actual seeded `cube-12`, rejection of the impossible probe, zero completion velocity, and no CLIMB. Its anti-vacuity controls reject disabled autostep, suppressed mantle lookup, planner-only evidence, grounded boost, single-fixture privilege, and a withheld actual course box. Two fresh uncached gates produced identical trace and result hashes. These remain local guardrails; visible success still requires the user's play verdict.
+
+
+## Visible No-Op Correction: Shipped Input And Prospective Risk
+
+The user's play verdict on build 0.8.221 invalidated the idealized green: the playable route did not naturally meet a mantle target, the controller retained stricter proof-fixture thresholds than the original Infinite Brutality traversal owner, the simulator supplied full forward input and perfect yaw, the jump action bypassed shipped event semantics, and Product One omitted the existing first-person arms update/render path. A perfect scripted trajectory therefore concealed an ordinary-input visible no-op.
+
+Build 0.8.222 routes page and QA through one shipped Product One input adapter. The page spawn comes from the Boxcraft high-mantle scenario, jump buttons no longer steal the look pointer, controller thresholds are adapted from the original constrained traversal owner, and the proof reuses the existing Infinite Brutality arms load/update/render path. Generic Rapier cuboid lookup and the Boxcraft-relative mantle rules remain unchanged; Product One still never enters CLIMB.
+
+The permanent robustness guardrail is engine-generated, not a single author-picked trajectory: partial-stick magnitudes, approach angles, normalized jump timing, and irregular frame rates exercise the shipped adapter and real fixed-step controller. The accepted mantle timing domain is all-or-nothing; a jump beyond half of the source-owned four-metre approach is a separate negative control that must commit a real jump, avoid airborne wall contact/mantle, and land safely within the arena. The direct queue bypass must remain absent. Current deterministic results are 7/7 stick, 9/9 angle, 7/7 timing, and 7/7 variable-frame samples, with real jump/contact, zero completion velocity, and no CLIMB.
+
+Global deterministic QA now requires a prospective causal-risk packet for enrolled projects. Every planned boundary needs an assumption, bypass/no-op/test-lie mode, ordinary variation, falsifier, and guard; newly touched unmapped boundaries fail closed. The engine derives the served HTML/ESM production graph, injects a Node trace preload, and requires actual shipped-adapter move/jump/step events. It also rejects machine ownership of visual acceptance. This is deliberately bounded: static HTML/ESM and Node tracing cannot universally attest bundlers, dynamic imports, native runtimes, adversarial tests, genuine human foresight, or pixels. User play remains the visual acceptance owner.
+
+Workspace `AGENTS.md` separately requires an agent-authored causal-chain pre-mortem before mutation, plus a post-mutation unknown-boundary audit. The global receipt and the acting-agent receipt are independent gates; neither may self-certify the other. The global aggregate engine test suite also carries a 90-second fail-closed traceback watchdog so buffered output cannot be mistaken for an unbounded green run. Two aggregate runs completed 21/21 in 27.068 seconds and 24.897 seconds.
