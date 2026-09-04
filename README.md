@@ -44,6 +44,19 @@ python thunder_brainstorm.py search-index --mechanic touch_lane_combat --project
 python thunder_brainstorm.py search-index "phoenix" --project Phoenix-Simulator --index generated/index_combined/mechanic_source_refs.jsonl
 ```
 
+## Thunder-First JIT Source Transactions
+
+`tools/thunder_source_transaction.py` is the offline transaction half of Thunder-first engineering. `gap` reuses the existing combined-index search and emits `NEEDS_THUNDER_SOURCE` only after owner evidence and a sealed local `NO_REUSABLE_SOURCE`. GitHub lookup remains an external read-only intake ordered as Valar05 first, then bounded authoritative public repositories. `publish` accepts only a provenance-complete packet matching that gap, validates in an isolated worktree, creates exactly one local commit, and fast-forwards a still-clean canonical checkout. It never pushes or accesses the network.
+
+```sh
+python tools/thunder_source_transaction.py gap --repo . --query "missing capability" --capability capability-id --project project-id --owner-evidence path/to/owner.py:42 --out /absolute/temp/gap.json
+python tools/thunder_source_transaction.py publish --repo . --gap /absolute/temp/gap.json --packet /absolute/temp/packet.json --recovery-dir /absolute/temp/recovery
+python tools/thunder_source_transaction.py recover-lock --repo .
+python tools/test_thunder_source_transaction.py
+```
+
+Canonical Thunder must be clean at entry and exit. Live or ambiguous portable locks fail closed. Dead-lock recovery requires matching owner/journal state and unchanged clean HEAD. The add-to-commit dirty window defaults to 60 seconds; an overrun aborts before publication and preserves an external recovery receipt.
+
 ## Second-Pass Coverage
 
 The second pass digs into newer/local projects by metadata, docs, schema keys, top-level trees, and identifier names. Added coverage includes:
