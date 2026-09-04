@@ -138,3 +138,29 @@ The playable route must naturally expose the step and mantle behaviors without a
 ### Commission-Fidelity Boundary
 
 This is a reproduction commission. The authoritative source is the local Infinite Brutality history and current src/player-climb.js owner. Approved deviations are limited to removing hands, removing the separate CLIMB/aclimb behavior, and integrating the copied mantle into the controller-grid cuboids with automatic accessible entry. New jump/rising/facing formulas, generated capability categories, or parallel mantle trajectories are outside the confirmed commission.
+
+## 2026-09-04 — Playtest Overwatch And Pressure-Run Lineage
+
+The user explicitly confirmed the ordered thirteen-step Playtest Overwatch inception plan. Canonical plan hash: `b8023fba84bf331238d989f4df88da298283529e2cc8710a60b1ddd89c602e7d`. This confirmation authorizes telemetry and lineage work only; it does not authorize visual capture, a live foreground trial, or a change to Product One movement.
+
+A Thunder corpus search found no general leaderboard or pressure-run ledger owner. The closest reusable records are prototype-local personal-best patterns. Infinite Brutality already owns its player-facing personal best in `src/main.js::completeGeneratedGauntlet()`: it derives the controller-kata elapsed time, compares it with the prior `localStorage` best, updates the displayed best, and persists that local value. This remains the project-facing display owner. Playtest Overwatch replaces neither that display nor gameplay timing.
+
+The workspace Global QA tools are the existing neutral evidence owner and will own Playtest Overwatch evidence plus the canonical append-only `pressure-run-v1` ledger. Infinite Brutality remains the display owner and may later read a ledger projection; browser `localStorage` is not promoted into authoritative competitive history.
+
+### Confirmed Overwatch Contract
+
+- Par and hard stop are required task inputs. There is no default par. Overwatch must not infer or silently tune par from results.
+- Accepting a proposed par creates a new ruleset. Historical attempts never mutate their ruleset or par.
+- Overwatch records an independent clock alongside semantic start/finish time, raw-touch and semantic input telemetry, milestones, splits, result, integrity, par delta, remaining time, failure time, failure phase, challenge, ruleset, course, build, and compatibility hashes.
+- Every attempt is append-only history. Under-par success and under-par failure are equally valid telemetry; failures remain visible for diagnosis and tuning.
+- Leaderboard projections rank only completed, integrity-valid runs inside the exact ruleset/course/build compatibility partition. Cross-build comparison requires a future explicit equivalence declaration.
+- Default rankings are local-only and make no account, network, cloud, public-upload, or competition-grade authority claim.
+- The real foreground sequence is Termux to game to Termux with fail-closed focus recovery. It may happen only after the user says `ready`; before then, failure, focus, and timing behavior is simulated locally.
+- Overwatch captures telemetry and retrospective data only. Video, screenshots, audio, browser/game launch, cloud, network, and premature focus mutation are outside this phase.
+- Organ is the sole writer; root independently verifies implementation, frozen ancestors, and preservation of unrelated dirt.
+
+### Infinite Brutality Adapter Boundary
+
+The later Infinite Brutality change is limited to a thin telemetry adapter and mission data. It must not change mantle behavior, choose the unresolved mantle reach cap, alter controller physics, or revise the current personal-best display owner. The mantle issue remains separately blocked on source-backed reach authority.
+
+Machine preflights and local simulation are guardrails only. A real Overwatch trial requires explicit `ready`, and no telemetry result constitutes visual acceptance.
