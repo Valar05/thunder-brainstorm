@@ -1,0 +1,72 @@
+{
+  "gap_seal": "4d86b0c538e17c9ebf41cfb4c9a4d55a5979d36892a62f10a9de84108c2729a1",
+  "packet_seal": "0b1645d71170ab9216d0cd32dd80d415dc772b4afbdc57fe35ffacb12d7de646",
+  "schema": "thunder-source-packet-v1",
+  "search_order": [
+    "local-combined-index",
+    "github:Valar05",
+    "github:bounded-authoritative-public"
+  ],
+  "sources": [
+    {
+      "behavioral_contract": "MV3 tab enumeration and identity reference",
+      "commit": "6c3c302b349160c754138f0fd940f0f5e96ef614",
+      "compatibility": "Reference-only clean-room adaptation through Organ; no quarantine source",
+      "deviations": [
+        "Adapt to bounded ChatGPT worker tabs; omit sample presentation"
+      ],
+      "license": "Apache-2.0",
+      "line": 1,
+      "origin": "github",
+      "path": "api-samples/tabs/inspector/service-worker.js",
+      "repo": "GoogleChrome/chrome-extensions-samples",
+      "sha256": "5a36cbdf2756b143883beef656f1fc686c8d3c850dd48c90530d566a592ca2a7",
+      "symbol": "chrome.tabs query"
+    },
+    {
+      "behavioral_contract": "MV3 content-script injection reference",
+      "commit": "6c3c302b349160c754138f0fd940f0f5e96ef614",
+      "compatibility": "Reference-only clean-room adaptation through Organ; no quarantine source",
+      "deviations": [
+        "Replace sample action with declarative site-pack executor"
+      ],
+      "license": "Apache-2.0",
+      "line": 1,
+      "origin": "github",
+      "path": "api-samples/scripting/sw.js",
+      "repo": "GoogleChrome/chrome-extensions-samples",
+      "sha256": "07dd754e239ce1b6e8fa7d008c0845ba640ce1c0e169dd9c3ed95f842bdd25a7",
+      "symbol": "chrome.scripting execution"
+    },
+    {
+      "behavioral_contract": "MV3 service-worker and side-panel ownership reference",
+      "commit": "6c3c302b349160c754138f0fd940f0f5e96ef614",
+      "compatibility": "Reference-only clean-room adaptation through Organ; no quarantine source",
+      "deviations": [
+        "Side panel remains observability only; scheduler owns state"
+      ],
+      "license": "Apache-2.0",
+      "line": 1,
+      "origin": "github",
+      "path": "functional-samples/cookbook.sidepanel-global/service-worker.js",
+      "repo": "GoogleChrome/chrome-extensions-samples",
+      "sha256": "b9ca1d466f620a502c6e9f18f920912b2f708d20c4a6730519b8b733c2c5e463",
+      "symbol": "chrome.sidePanel behavior"
+    },
+    {
+      "behavioral_contract": "License provenance for imported structural patterns",
+      "commit": "6c3c302b349160c754138f0fd940f0f5e96ef614",
+      "compatibility": "Reference-only clean-room adaptation through Organ; no quarantine source",
+      "deviations": [
+        "No deviation"
+      ],
+      "license": "Apache-2.0",
+      "line": 1,
+      "origin": "github",
+      "path": "LICENSE",
+      "repo": "GoogleChrome/chrome-extensions-samples",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "symbol": "Apache License 2.0"
+    }
+  ]
+}
