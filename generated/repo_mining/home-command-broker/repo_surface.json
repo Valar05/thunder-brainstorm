@@ -1,0 +1,690 @@
+{
+  "repo": "Valar05/home-command-broker",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "home-command-broker",
+    "updatedAt": "2026-06-20T22:48:09Z",
+    "url": "https://github.com/Valar05/home-command-broker",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 4,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "9d04de80b1b909c3fe99f2e0a05e30895a34e2c3",
+      "size": 695,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 26,
+      "byte_count": 695,
+      "mechanics": [
+        "ai_pressure",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-command-broker/blob/main/README.md#L1",
+        "https://github.com/Valar05/home-command-broker/blob/main/README.md#L3",
+        "https://github.com/Valar05/home-command-broker/blob/main/README.md#L8",
+        "https://github.com/Valar05/home-command-broker/blob/main/README.md#L9",
+        "https://github.com/Valar05/home-command-broker/blob/main/README.md#L12",
+        "https://github.com/Valar05/home-command-broker/blob/main/README.md#L13",
+        "https://github.com/Valar05/home-command-broker/blob/main/README.md#L14",
+        "https://github.com/Valar05/home-command-broker/blob/main/README.md#L16"
+      ]
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "0ed44554bc48c217a6fcd80d4741310fff490bd7",
+      "size": 1046,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 25,
+      "byte_count": 1046,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L11"
+      ]
+    },
+    {
+      "path": "data/shopping_list.json",
+      "mode": "100644",
+      "sha": "d2c7214faec2f3a195865de01315567f5c4fc3e9",
+      "size": 135,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 9,
+      "byte_count": 135,
+      "mechanics": [
+        "asset_import_pipeline",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L1",
+        "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L2",
+        "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L3",
+        "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L4",
+        "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L5",
+        "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L6",
+        "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L7",
+        "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L8"
+      ]
+    },
+    {
+      "path": "home_command.py",
+      "mode": "100644",
+      "sha": "91a8dd93c5060a77884be3ef2a4bec98c712a16b",
+      "size": 5546,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 185,
+      "byte_count": 5546,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L1",
+        "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L2",
+        "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L3",
+        "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L4",
+        "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L5",
+        "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L6",
+        "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L7",
+        "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 189,
+    "by_origin": {
+      "github": 189
+    },
+    "by_project": {
+      "home-command-broker": 189
+    },
+    "by_mechanic": {
+      "text_console_runtime": 164,
+      "asset_import_pipeline": 29,
+      "resource_upgrade_loop": 26,
+      "tts_audio_pipeline": 23,
+      "web_choice_player": 7,
+      "ai_pressure": 6,
+      "touch_lane_combat": 5,
+      "pose_animation_tools": 1
+    },
+    "examples": {
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "Home Command Broker",
+          "evidence": "# Home Command Broker",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Local pilot for a phone command layer.",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "cd /storage/emulated/0/Documents/GodotProjects/home-command-broker",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "python3 home_command.py \"add eggs to shopping list\"",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "`data/command_log.jsonl`, then speaks and toasts the result when Termux API",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "commands are available.",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 16,
+          "symbol": "Commands",
+          "evidence": "## Commands",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "python3 home_command.py \"add eggs to shopping list\"",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L19"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "python3 home_command.py \"add eggs to shopping list\"",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "The pilot stores local verification data in `data/shopping_list.json` and",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "python3 home_command.py \"add eggs to shopping list\"",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "python3 home_command.py \"show shopping list\"",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "data/shopping_list.json",
+          "line": 1,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L1"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "data/shopping_list.json",
+          "line": 2,
+          "symbol": "shopping",
+          "evidence": "\"shopping\": [",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "data/shopping_list.json",
+          "line": 3,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "data/shopping_list.json",
+          "line": 4,
+          "symbol": "added_at",
+          "evidence": "\"added_at\": \"2026-06-16T13:18:43-05:00\",",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/data/shopping_list.json#L4"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "commands are available.",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 162,
+          "symbol": "main",
+          "evidence": "def main():",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L162"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 184,
+          "symbol": "",
+          "evidence": "if __name__ == \"__main__\":",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L184"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 185,
+          "symbol": "",
+          "evidence": "raise SystemExit(main())",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L185"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "Hotspot commands are parsed and logged, but intentionally return a blocked",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 121,
+          "symbol": "",
+          "evidence": "\"blocked_reason\": \"needs_privileged_executor\",",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L121"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 149,
+          "symbol": "",
+          "evidence": "\"blocked_reason\": \"unknown_command\",",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L149"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: home-command-broker",
+          "evidence": "# Project Manifest: home-command-broker",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/home-command-broker`",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/home-command-broker`",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "No project orientation file was found during manifest generation. Treat this manifest as an inventory scaffold until a project-specific orientation is added.",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 11,
+          "symbol": "Entrypoints And Validation Clues",
+          "evidence": "## Entrypoints And Validation Clues",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L11"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: home-command-broker",
+          "evidence": "# Project Manifest: home-command-broker",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/home-command-broker`",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/home-command-broker`",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "No project orientation file was found during manifest generation. Treat this manifest as an inventory scaffold until a project-specific orientation is added.",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 11,
+          "symbol": "Entrypoints And Validation Clues",
+          "evidence": "## Entrypoints And Validation Clues",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L11"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/PROJECT_MANIFEST.md#L8"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 36,
+          "symbol": "load_json",
+          "evidence": "def load_json(path, fallback):",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L36"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 40,
+          "symbol": "",
+          "evidence": "return json.load(handle)",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L40"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 43,
+          "symbol": "save_json",
+          "evidence": "def save_json(path, value):",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L43"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 87,
+          "symbol": "",
+          "evidence": "store = load_json(SHOPPING_PATH, {\"shopping\": []})",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L87"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 93,
+          "symbol": "",
+          "evidence": "save_json(SHOPPING_PATH, store)",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L93"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 102,
+          "symbol": "",
+          "evidence": "store = load_json(SHOPPING_PATH, {\"shopping\": []})",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L102"
+        },
+        {
+          "origin": "github",
+          "project": "home-command-broker",
+          "repo": "Valar05/home-command-broker",
+          "path": "home_command.py",
+          "line": 126,
+          "symbol": "",
+          "evidence": "store = load_json(SHOPPING_PATH, {\"shopping\": []})",
+          "source_url": "https://github.com/Valar05/home-command-broker/blob/main/home_command.py#L126"
+        }
+      ]
+    }
+  }
+}

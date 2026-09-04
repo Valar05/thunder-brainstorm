@@ -1,0 +1,1762 @@
+{
+  "repo": "Valar05/mini-tvtropes-index",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "mini-tvtropes-index",
+    "updatedAt": "2026-06-23T22:40:22Z",
+    "url": "https://github.com/Valar05/mini-tvtropes-index",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "e41559847eae0b71bcf5ec96832f46c97449d5ec",
+      "size": 2804,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 110,
+      "byte_count": 2804,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L14",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L24",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L25",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L29",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L40",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L55",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L60"
+      ]
+    },
+    {
+      "path": "data/graph/edges.json",
+      "mode": "100644",
+      "sha": "40e34a3be2315f1972abd6cfe4cbfba1c1d5e69f",
+      "size": 2374018,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 0,
+      "byte_count": 0,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "data/graph/nodes.json",
+      "mode": "100644",
+      "sha": "84fa988eb34d6fda9242518c83a84a590746a217",
+      "size": 12599,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 425,
+      "byte_count": 12599,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L12",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L14",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L16",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L18",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L21"
+      ]
+    },
+    {
+      "path": "mini_tvtropes_index/__init__.py",
+      "mode": "100644",
+      "sha": "07c5de9e2c430f9f659c069c2c1c72210ba8abee",
+      "size": 48,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2,
+      "byte_count": 48,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "mini_tvtropes_index/__main__.py",
+      "mode": "100644",
+      "sha": "48839e99c55922d743b8a9050fa3666cd4872fb1",
+      "size": 3738,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 94,
+      "byte_count": 3738,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L4",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L6",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L8",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L10"
+      ]
+    },
+    {
+      "path": "mini_tvtropes_index/assay.py",
+      "mode": "100644",
+      "sha": "cf69d4b44ba90b8d2feb403a7a43c9394780d432",
+      "size": 10079,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 185,
+      "byte_count": 10079,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L4",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L10",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L17"
+      ]
+    },
+    {
+      "path": "mini_tvtropes_index/graph.py",
+      "mode": "100644",
+      "sha": "c1d5d3487648878ab3991d2e3d9a3251762fff63",
+      "size": 1967,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 59,
+      "byte_count": 1967,
+      "mechanics": [
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L4",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L6",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L10",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L22",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L48",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L49"
+      ]
+    },
+    {
+      "path": "mini_tvtropes_index/indexer.py",
+      "mode": "100644",
+      "sha": "ffdee39cb3da3b1bce6adf9915085b1f43481c8b",
+      "size": 9103,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 229,
+      "byte_count": 9103,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/indexer.py#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/indexer.py#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/indexer.py#L4",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/indexer.py#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/indexer.py#L6",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/indexer.py#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/indexer.py#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/indexer.py#L10"
+      ]
+    },
+    {
+      "path": "mini_tvtropes_index/mechanism.py",
+      "mode": "100644",
+      "sha": "b6ab0c4a1d1022e65ab8343cd9ea52e3b805a858",
+      "size": 13353,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 400,
+      "byte_count": 13353,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L4",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L6",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L8",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L10"
+      ]
+    },
+    {
+      "path": "mini_tvtropes_index/parser.py",
+      "mode": "100644",
+      "sha": "256ba5a10f9886086e6315513ff5e0779d86bbb7",
+      "size": 6900,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 191,
+      "byte_count": 6900,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/parser.py#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/parser.py#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/parser.py#L4",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/parser.py#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/parser.py#L6",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/parser.py#L8",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/parser.py#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/parser.py#L10"
+      ]
+    },
+    {
+      "path": "mini_tvtropes_index/storage.py",
+      "mode": "100644",
+      "sha": "58b11cf2ff58c4acc6b2fde8e87fbf102dcd5ba8",
+      "size": 8026,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 214,
+      "byte_count": 8026,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/storage.py#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/storage.py#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/storage.py#L4",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/storage.py#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/storage.py#L6",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/storage.py#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/storage.py#L8",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/storage.py#L9"
+      ]
+    },
+    {
+      "path": "primitives/INDEX.md",
+      "mode": "100644",
+      "sha": "c416f46e15f4ccddeb67edad61b5e2bed771f11a",
+      "size": 869,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 869,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/INDEX.md#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/INDEX.md#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/INDEX.md#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/INDEX.md#L12"
+      ]
+    },
+    {
+      "path": "primitives/MERGE_CANDIDATES.md",
+      "mode": "100644",
+      "sha": "9c0fb7ac5f456e5499bd599d0afe5f66a6c48a67",
+      "size": 1400,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 1400,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/MERGE_CANDIDATES.md#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/MERGE_CANDIDATES.md#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/MERGE_CANDIDATES.md#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/MERGE_CANDIDATES.md#L13",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/MERGE_CANDIDATES.md#L15",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/MERGE_CANDIDATES.md#L17",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/MERGE_CANDIDATES.md#L19",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/MERGE_CANDIDATES.md#L21"
+      ]
+    },
+    {
+      "path": "primitives/SPLIT_CANDIDATES.md",
+      "mode": "100644",
+      "sha": "084e543c3e94ce2af4bcc49343368375ef62b27b",
+      "size": 1371,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 1371,
+      "mechanics": [
+        "ai_pressure",
+        "source_packet_generation",
+        "text_console_runtime",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L13",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L22",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L23",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L25",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L35",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L41"
+      ]
+    },
+    {
+      "path": "primitives/authority-centralization.md",
+      "mode": "100644",
+      "sha": "70b5464e43bfbebd19551bf65db789e8e87e2aac",
+      "size": 1283,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 1283,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/authority-centralization.md#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/authority-centralization.md#L11",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/authority-centralization.md#L15",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/authority-centralization.md#L21",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/authority-centralization.md#L34",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/authority-centralization.md#L47"
+      ]
+    },
+    {
+      "path": "primitives/continuity-failure-reprioritization.md",
+      "mode": "100644",
+      "sha": "8ed4311d5d7fb64ea56788ddd8446fa8cf31b0e5",
+      "size": 1305,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 52,
+      "byte_count": 1305,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/continuity-failure-reprioritization.md#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/continuity-failure-reprioritization.md#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/continuity-failure-reprioritization.md#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/continuity-failure-reprioritization.md#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/continuity-failure-reprioritization.md#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/continuity-failure-reprioritization.md#L11",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/continuity-failure-reprioritization.md#L13",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/continuity-failure-reprioritization.md#L15"
+      ]
+    },
+    {
+      "path": "primitives/embodied-identity-fragility.md",
+      "mode": "100644",
+      "sha": "05a1205cdecd847b5d5adf8230089e6fbfc2179e",
+      "size": 1297,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 52,
+      "byte_count": 1297,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/embodied-identity-fragility.md#L11",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/embodied-identity-fragility.md#L15",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/embodied-identity-fragility.md#L35",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/embodied-identity-fragility.md#L37",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/embodied-identity-fragility.md#L41",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/embodied-identity-fragility.md#L42",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/embodied-identity-fragility.md#L47"
+      ]
+    },
+    {
+      "path": "primitives/expectation-loading.md",
+      "mode": "100644",
+      "sha": "8dc82dcbd1bafc64531b77f2d976f7463a5964e0",
+      "size": 1273,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 1273,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/expectation-loading.md#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/expectation-loading.md#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/expectation-loading.md#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/expectation-loading.md#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/expectation-loading.md#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/expectation-loading.md#L11",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/expectation-loading.md#L13",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/expectation-loading.md#L15"
+      ]
+    },
+    {
+      "path": "primitives/norm-override-under-objective-pressure.md",
+      "mode": "100644",
+      "sha": "5879ede03a2d348b45f30adfbaef95a9fca726ee",
+      "size": 1279,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 52,
+      "byte_count": 1279,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/norm-override-under-objective-pressure.md#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/norm-override-under-objective-pressure.md#L11",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/norm-override-under-objective-pressure.md#L15",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/norm-override-under-objective-pressure.md#L21",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/norm-override-under-objective-pressure.md#L41",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/norm-override-under-objective-pressure.md#L46"
+      ]
+    },
+    {
+      "path": "primitives/role-legitimacy-under-norm-violation.md",
+      "mode": "100644",
+      "sha": "c0fd50d3d0cfcfa807afae321c239957b7eafd6c",
+      "size": 1245,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 52,
+      "byte_count": 1245,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/role-legitimacy-under-norm-violation.md#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/role-legitimacy-under-norm-violation.md#L11",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/role-legitimacy-under-norm-violation.md#L15",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/role-legitimacy-under-norm-violation.md#L20",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/role-legitimacy-under-norm-violation.md#L42",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/role-legitimacy-under-norm-violation.md#L46",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/role-legitimacy-under-norm-violation.md#L48"
+      ]
+    },
+    {
+      "path": "reports/assay-report.md",
+      "mode": "100644",
+      "sha": "2a5bc2f695ca9ef8e2d71a6dc88e04282b5b8c82",
+      "size": 6029,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 269,
+      "byte_count": 6029,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L11",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L13",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L15"
+      ]
+    },
+    {
+      "path": "reports/decision-impact.md",
+      "mode": "100644",
+      "sha": "d9aeebad8c200b43d3445139e886ce142c6bf4ea",
+      "size": 18820,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 382,
+      "byte_count": 18820,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L6",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L8",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L11"
+      ]
+    },
+    {
+      "path": "reports/gold-assessment.md",
+      "mode": "100644",
+      "sha": "a5168ddecd7e9dc801076fea468eac5cf60144e3",
+      "size": 10947,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 242,
+      "byte_count": 10947,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/gold-assessment.md#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/gold-assessment.md#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/gold-assessment.md#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/gold-assessment.md#L6",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/gold-assessment.md#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/gold-assessment.md#L8",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/gold-assessment.md#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/gold-assessment.md#L11"
+      ]
+    },
+    {
+      "path": "reports/mechanism-candidates.md",
+      "mode": "100644",
+      "sha": "9be7836987099624bbeb0410c56e2f693a7e80b7",
+      "size": 31417,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 904,
+      "byte_count": 31417,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/mechanism-candidates.md#L1",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/mechanism-candidates.md#L3",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/mechanism-candidates.md#L5",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/mechanism-candidates.md#L7",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/mechanism-candidates.md#L9",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/mechanism-candidates.md#L10",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/mechanism-candidates.md#L11",
+        "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/mechanism-candidates.md#L12"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1904,
+    "by_origin": {
+      "github": 1904
+    },
+    "by_project": {
+      "mini-tvtropes-index": 1904
+    },
+    "by_mechanic": {
+      "writing_corpus_review": 1195,
+      "ai_pressure": 549,
+      "asset_import_pipeline": 387,
+      "pose_animation_tools": 285,
+      "text_console_runtime": 207,
+      "web_choice_player": 86,
+      "event_clouds": 28,
+      "touch_lane_combat": 24,
+      "source_packet_generation": 23,
+      "validation_pipeline": 7,
+      "resource_upgrade_loop": 6,
+      "delayed_consequences": 5,
+      "vehicle_survival": 4,
+      "deck_pressure": 4
+    },
+    "examples": {
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This is not a wiki mirror. It stores page metadata and internal links only. It does not save page body text, examples, article sections, or summaries.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 5,
+          "symbol": "id",
+          "evidence": "\"id\": \"pmwiki-pmwiki-php-justforfun-tropesoflegend\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 9,
+          "symbol": "url",
+          "evidence": "\"url\": \"https://tvtropes.org/pmwiki/pmwiki.php/JustForFun/TropesOfLegend\"",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L9"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 14,
+          "symbol": "id",
+          "evidence": "\"id\": \"pmwiki-pmwiki-php-main-actionadventuretropes\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L14"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 18,
+          "symbol": "url",
+          "evidence": "\"url\": \"https://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes\"",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L18"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 23,
+          "symbol": "id",
+          "evidence": "\"id\": \"pmwiki-pmwiki-php-main-actiongirl\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L23"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 27,
+          "symbol": "url",
+          "evidence": "\"url\": \"https://tvtropes.org/pmwiki/pmwiki.php/Main/ActionGirl\"",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L27"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 32,
+          "symbol": "id",
+          "evidence": "\"id\": \"pmwiki-pmwiki-php-main-advertisingtropes\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L32"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This is not a wiki mirror. It stores page metadata and internal links only. It does not save page body text, examples, article sections, or summaries.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 110,
+          "symbol": "",
+          "evidence": "`data/raw/` exists only as a placeholder directory. This prototype does not write raw HTML.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L110"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/assay.py",
+          "line": 29,
+          "symbol": "",
+          "evidence": "\"rationale\": \"This is the strongest assay result because the candidate already points to a portable mechanism: names carry expectation, memory, prediction, and interpretive load...",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L29"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/assay.py",
+          "line": 32,
+          "symbol": "",
+          "evidence": "\"mechanism\": \"Explicit lesson payload attached to an event or narrative outcome.\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L32"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/graph.py",
+          "line": 6,
+          "symbol": "",
+          "evidence": "from .storage import GRAPH_DIR, load_records, slugify_url, write_json",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L6"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/graph.py",
+          "line": 10,
+          "symbol": "",
+          "evidence": "records = load_records()",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L10"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/graph.py",
+          "line": 48,
+          "symbol": "",
+          "evidence": "edges = json.loads(edges_path.read_text(encoding=\"utf-8\"))",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L48"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/graph.py",
+          "line": 49,
+          "symbol": "",
+          "evidence": "records = load_records()",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/graph.py#L49"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- `source_index`",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "The index command first checks for sitemap sources:",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "python -m mini_tvtropes_index mechanisms --limit 8 --min-sources 5",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "This writes `reports/mechanism-candidates.md`. The pass uses only high-degree linked targets and frequently co-occurring linked targets from the same indexed source pages. It do...",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 7,
+          "symbol": "source_index",
+          "evidence": "\"source_index\": 4,",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L7"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 16,
+          "symbol": "source_index",
+          "evidence": "\"source_index\": 7,",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L16"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 25,
+          "symbol": "source_index",
+          "evidence": "\"source_index\": 13,",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L25"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 34,
+          "symbol": "source_index",
+          "evidence": "\"source_index\": 2,",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L34"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Stop cleanly on blocking, challenge pages, HTTP 403, or HTTP 429.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "If those are blocked or unavailable, the command falls back to `seeds.txt`. It does not bypass Cloudflare or other blocks.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 62,
+          "symbol": "",
+          "evidence": "print(f\"indexed: {result.pages_succeeded} succeeded, {result.pages_failed} failed, blocked={bool(result.blocked_errors)}\")",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L62"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 63,
+          "symbol": "",
+          "evidence": "return 2 if result.blocked_errors and result.pages_succeeded == 0 else 0",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L63"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 67,
+          "symbol": "",
+          "evidence": "print(f\"expanded: {result.pages_succeeded} succeeded, {result.pages_failed} failed, blocked={bool(result.blocked_errors)}\")",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L67"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 68,
+          "symbol": "",
+          "evidence": "return 2 if result.blocked_errors and result.pages_succeeded == 0 else 0",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L68"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/indexer.py",
+          "line": 15,
+          "symbol": "",
+          "evidence": "BLOCK_MARKERS = [\"cf-mitigated\", \"Just a moment\", \"Enable JavaScript and cookies\", \"captcha\", \"challenge-platform\"]",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/indexer.py#L15"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/indexer.py",
+          "line": 47,
+          "symbol": "",
+          "evidence": "raise RuntimeError(f\"blocked HTTP {status}\")",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/indexer.py#L47"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- Wait between requests.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "If those are blocked or unavailable, the command falls back to `seeds.txt`. It does not bypass Cloudflare or other blocks.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "This writes `reports/mechanism-candidates.md`. The pass uses only high-degree linked targets and frequently co-occurring linked targets from the same indexed source pages. It do...",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 12,
+          "symbol": "category_guess",
+          "evidence": "\"category_guess\": \"Main\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L12"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 14,
+          "symbol": "id",
+          "evidence": "\"id\": \"pmwiki-pmwiki-php-main-actionadventuretropes\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L14"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 18,
+          "symbol": "url",
+          "evidence": "\"url\": \"https://tvtropes.org/pmwiki/pmwiki.php/Main/ActionAdventureTropes\"",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L18"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 21,
+          "symbol": "category_guess",
+          "evidence": "\"category_guess\": \"Main\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L21"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "data/graph/nodes.json",
+          "line": 23,
+          "symbol": "id",
+          "evidence": "\"id\": \"pmwiki-pmwiki-php-main-actiongirl\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/data/graph/nodes.json#L23"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "Commands",
+          "evidence": "## Commands",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "The index command first checks for sitemap sources:",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "If those are blocked or unavailable, the command falls back to `seeds.txt`. It does not bypass Cloudflare or other blocks.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 14,
+          "symbol": "",
+          "evidence": "parser = argparse.ArgumentParser(prog=\"python -m mini_tvtropes_index\")",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L14"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 15,
+          "symbol": "",
+          "evidence": "sub = parser.add_subparsers(dest=\"command\", required=True)",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L15"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 17,
+          "symbol": "",
+          "evidence": "sub.add_parser(\"init\", help=\"Create local data/report directories and sample seed file\")",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L17"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 19,
+          "symbol": "",
+          "evidence": "dry = sub.add_parser(\"dry-run\", help=\"Validate seed input without network writes\")",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L19"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 23,
+          "symbol": "",
+          "evidence": "idx = sub.add_parser(\"index\", help=\"Index metadata and outgoing links from seed pages\")",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L23"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "python -m mini_tvtropes_index report",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "Expansion reads `data/graph/edges.json`, skips already indexed URLs, writes the selected batch to `reports/expand-seeds.txt`, and indexes that batch through the same metadata-on...",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "This writes `reports/mechanism-candidates.md`. The pass uses only high-degree linked targets and frequently co-occurring linked targets from the same indexed source pages. It do...",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 101,
+          "symbol": "",
+          "evidence": "Report:",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L101"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 104,
+          "symbol": "",
+          "evidence": "reports/run-report.md",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L104"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 105,
+          "symbol": "",
+          "evidence": "reports/mechanism-candidates.md",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L105"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 6,
+          "symbol": "",
+          "evidence": "from .assay import write_assay_report",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L6"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 9,
+          "symbol": "",
+          "evidence": "from .mechanism import write_mechanism_report",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L9"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "README.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "After graph generation, mine graph-only candidate clusters:",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/README.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 33,
+          "symbol": "",
+          "evidence": "mech = sub.add_parser(\"mechanisms\", help=\"Mine graph-only mechanism candidate clusters\")",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L33"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/assay.py",
+          "line": 142,
+          "symbol": "",
+          "evidence": "\"The miner remains graph-only. This assay layer produces hypotheses for review; it does not use article body text, embeddings, indexing, expansion, or claims of truth.\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L142"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/mechanism.py",
+          "line": 204,
+          "symbol": "mine_candidates",
+          "evidence": "def mine_candidates(limit: int = 8, min_sources: int = 5) -> list[Candidate]:",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L204"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/mechanism.py",
+          "line": 364,
+          "symbol": "",
+          "evidence": "candidates = mine_candidates(limit=limit, min_sources=min_sources)",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L364"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/assay-report.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The miner remains graph-only. This assay layer produces hypotheses for review; it does not use article body text, embeddings, indexing, expansion, or claims of truth.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L5"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/__main__.py",
+          "line": 19,
+          "symbol": "",
+          "evidence": "dry = sub.add_parser(\"dry-run\", help=\"Validate seed input without network writes\")",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/__main__.py#L19"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/role-legitimacy-under-norm-violation.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "- Should legitimacy repair be a separate primitive?",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/role-legitimacy-under-norm-violation.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/decision-impact.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "- Changed Decision: Audit titles and process names for decision ownership accuracy.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/decision-impact.md",
+          "line": 137,
+          "symbol": "",
+          "evidence": "- Changed Decision: Audit norm violations against the pressure present when they occurred.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L137"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/decision-impact.md",
+          "line": 338,
+          "symbol": "",
+          "evidence": "- Changed Decision: After a violation, decide whether the response is removal, repair, explicit exception, or doctrine change.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L338"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/decision-impact.md",
+          "line": 354,
+          "symbol": "",
+          "evidence": "- Failure If Ignored: Users see a violation but cannot tell whether it was authorized, repaired, abusive, or becoming precedent.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L354"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/decision-impact.md",
+          "line": 363,
+          "symbol": "",
+          "evidence": "4. `Role Legitimacy Under Norm Violation`: changes how exceptions are reviewed and whether legitimacy is repaired, removed, or formalized.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L363"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/assay.py",
+          "line": 29,
+          "symbol": "",
+          "evidence": "\"rationale\": \"This is the strongest assay result because the candidate already points to a portable mechanism: names carry expectation, memory, prediction, and interpretive load...",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L29"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/mechanism.py",
+          "line": 63,
+          "symbol": "",
+          "evidence": "\"Memory\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L63"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/expectation-loading.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Expectation Loading is the rule that a label, name, or symbolic identifier can alter an observer's predictions before any direct behavior is observed. The primitive is not the a...",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/expectation-loading.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/assay-report.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "This is the strongest assay result because the candidate already points to a portable mechanism: names carry expectation, memory, prediction, and interpretive load. The graph ti...",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/decision-impact.md",
+          "line": 258,
+          "symbol": "",
+          "evidence": "- Design Consequence: A run with network, write access, memory access, or browser control should be distinguished from a run without them.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L258"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/assay.py",
+          "line": 56,
+          "symbol": "",
+          "evidence": "\"mechanism\": \"Identity threat through unwanted bodily transformation or violation.\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L56"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/mechanism.py",
+          "line": 33,
+          "symbol": "",
+          "evidence": "\"Motifs\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L33"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/MERGE_CANDIDATES.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Do not merge automatically. These are review recommendations based on the current primitive corpus.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/MERGE_CANDIDATES.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/MERGE_CANDIDATES.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Recommendation: Keep separate for now. Merge only if future evidence shows the corpus cannot separate decision pressure from observer legitimacy.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/MERGE_CANDIDATES.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/SPLIT_CANDIDATES.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Do not split automatically. These are review recommendations based on the current primitive corpus.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/SPLIT_CANDIDATES.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- Transformation Stress",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/embodied-identity-fragility.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- Consent changes whether transformation is threat, growth, or expression.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/embodied-identity-fragility.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/assay-report.md",
+          "line": 199,
+          "symbol": "",
+          "evidence": "Identity threat through unwanted bodily transformation or violation.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/assay-report.md#L199"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/assay.py",
+          "line": 77,
+          "symbol": "",
+          "evidence": "\"rationale\": \"This may be ore because mythic reference can compress complex expectations into familiar forms. It is not obviously a mechanism yet, and may be source-domain taxon...",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L77"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/assay.py",
+          "line": 171,
+          "symbol": "",
+          "evidence": "for domain in candidate.transfer:",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L171"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/assay.py",
+          "line": 172,
+          "symbol": "",
+          "evidence": "lines.append(f\"- {domain}\")",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/assay.py#L172"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/authority-centralization.md",
+          "line": 15,
+          "symbol": "Transfer Domains",
+          "evidence": "## Transfer Domains",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/authority-centralization.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/continuity-failure-reprioritization.md",
+          "line": 15,
+          "symbol": "Transfer Domains",
+          "evidence": "## Transfer Domains",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/continuity-failure-reprioritization.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/embodied-identity-fragility.md",
+          "line": 15,
+          "symbol": "Transfer Domains",
+          "evidence": "## Transfer Domains",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/embodied-identity-fragility.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/expectation-loading.md",
+          "line": 15,
+          "symbol": "Transfer Domains",
+          "evidence": "## Transfer Domains",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/expectation-loading.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/norm-override-under-objective-pressure.md",
+          "line": 15,
+          "symbol": "Transfer Domains",
+          "evidence": "## Transfer Domains",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/norm-override-under-objective-pressure.md#L15"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/mechanism.py",
+          "line": 376,
+          "symbol": "",
+          "evidence": "\"- Broad structural hubs are suppressed by title/path rules before reporting.\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L376"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/SPLIT_CANDIDATES.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "Reason: Continuity failure may be too broad and may describe several state transitions rather than one primitive.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/SPLIT_CANDIDATES.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/decision-impact.md",
+          "line": 374,
+          "symbol": "",
+          "evidence": "Experiment before broad adoption:",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/decision-impact.md#L374"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "reports/mechanism-candidates.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Broad structural hubs are suppressed by title/path rules before reporting.",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/reports/mechanism-candidates.md#L11"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "mini_tvtropes_index/mechanism.py",
+          "line": 384,
+          "symbol": "",
+          "evidence": "\"No cluster met the current heuristic thresholds.\",",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/mini_tvtropes_index/mechanism.py#L384"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/continuity-failure-reprioritization.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Continuity Failure Reprioritization is the rule that agents change priorities when the assumed future no longer appears stable. The primitive covers shifts in planning horizon, ...",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/continuity-failure-reprioritization.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/norm-override-under-objective-pressure.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "- What threshold causes an override?",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/norm-override-under-objective-pressure.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "mini-tvtropes-index",
+          "repo": "Valar05/mini-tvtropes-index",
+          "path": "primitives/role-legitimacy-under-norm-violation.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "- Which observers grant or withdraw legitimacy?",
+          "source_url": "https://github.com/Valar05/mini-tvtropes-index/blob/main/primitives/role-legitimacy-under-norm-violation.md#L46"
+        }
+      ]
+    }
+  }
+}

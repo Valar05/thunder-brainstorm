@@ -1,0 +1,1845 @@
+{
+  "repo": "Valar05/home-center",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Home Center Android voice assistant pilot",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "home-center",
+    "updatedAt": "2026-09-01T12:12:10Z",
+    "url": "https://github.com/Valar05/home-center",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "docs/archive/foundry/README.md",
+      "mode": "100644",
+      "sha": "bf5a5933a71bca1729df23e5910017315ec9244e",
+      "size": 359,
+      "score": 188,
+      "reasons": [
+        "root readme",
+        "documentation surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 359,
+      "mechanics": [
+        "ai_pressure",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/docs/archive/foundry/README.md#L1",
+        "https://github.com/Valar05/home-center/blob/main/docs/archive/foundry/README.md#L5"
+      ]
+    },
+    {
+      "path": "services/venice-discord-voice/README.md",
+      "mode": "100644",
+      "sha": "8fb380109eb43be61e34798f47eeaad274d78454",
+      "size": 1299,
+      "score": 124,
+      "reasons": [
+        "root readme",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 24,
+      "byte_count": 1299,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "text_console_runtime",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L8",
+        "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L21",
+        "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L22",
+        "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L24"
+      ]
+    },
+    {
+      "path": "workers/cauldron_voice_worker/README.md",
+      "mode": "100644",
+      "sha": "aea774d22b75c20a968781e86e772c550d1b64e6",
+      "size": 3295,
+      "score": 124,
+      "reasons": [
+        "root readme",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 3295,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L8",
+        "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L9",
+        "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L10",
+        "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L12",
+        "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L13",
+        "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L14",
+        "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L22"
+      ]
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "ce2bb6c1a3583f6ae88adcfb4363dddfd615f6bd",
+      "size": 22154,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 416,
+      "byte_count": 22154,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/README.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/README.md#L9",
+        "https://github.com/Valar05/home-center/blob/main/README.md#L10",
+        "https://github.com/Valar05/home-center/blob/main/README.md#L11",
+        "https://github.com/Valar05/home-center/blob/main/README.md#L15",
+        "https://github.com/Valar05/home-center/blob/main/README.md#L17",
+        "https://github.com/Valar05/home-center/blob/main/README.md#L18",
+        "https://github.com/Valar05/home-center/blob/main/README.md#L20"
+      ]
+    },
+    {
+      "path": "agent-tools/secrets/README.md",
+      "mode": "100644",
+      "sha": "e35eb833e93ba7f764939ba38b22608823de64c8",
+      "size": 1706,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 1706,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/secrets/README.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/secrets/README.md#L14",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/secrets/README.md#L16",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/secrets/README.md#L18",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/secrets/README.md#L23",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/secrets/README.md#L28",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/secrets/README.md#L35",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/secrets/README.md#L40"
+      ]
+    },
+    {
+      "path": "agent-tools/ticktick-list-ingest/README.md",
+      "mode": "100644",
+      "sha": "0d704488524793b1826a115f0cee504e7ec7c1e0",
+      "size": 2223,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 2223,
+      "mechanics": [
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L12",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L19",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L24",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L26",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L30",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L36",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L39"
+      ]
+    },
+    {
+      "path": "agent-tools/walmart-cart-agent/README.md",
+      "mode": "100644",
+      "sha": "69f3f06006d0a5f090fc5ac2f62503752d91b3d0",
+      "size": 3116,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 63,
+      "byte_count": 3116,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L9",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L12",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L20",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L22",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L23",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L25",
+        "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L30"
+      ]
+    },
+    {
+      "path": "atom/README.md",
+      "mode": "100644",
+      "sha": "dfd33bb573c4943f201cb1f6f66d64812f63b46b",
+      "size": 2728,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 2728,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/atom/README.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/atom/README.md#L11",
+        "https://github.com/Valar05/home-center/blob/main/atom/README.md#L17",
+        "https://github.com/Valar05/home-center/blob/main/atom/README.md#L18",
+        "https://github.com/Valar05/home-center/blob/main/atom/README.md#L19",
+        "https://github.com/Valar05/home-center/blob/main/atom/README.md#L20",
+        "https://github.com/Valar05/home-center/blob/main/atom/README.md#L21",
+        "https://github.com/Valar05/home-center/blob/main/atom/README.md#L27"
+      ]
+    },
+    {
+      "path": "browser-porch/README.md",
+      "mode": "100644",
+      "sha": "ecc96f9e7374302663f4bf18904c86f04bd5cb11",
+      "size": 6995,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 106,
+      "byte_count": 6995,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/README.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/README.md#L5",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/README.md#L9",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/README.md#L13",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/README.md#L16",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/README.md#L20",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/README.md#L21",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/README.md#L25"
+      ]
+    },
+    {
+      "path": "browser-porch/product/README.md",
+      "mode": "100644",
+      "sha": "201429e69fe526c372ea4b99f33d4013184d4e6f",
+      "size": 3222,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 3222,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/product/README.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/product/README.md#L5",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/product/README.md#L7",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/product/README.md#L11",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/product/README.md#L13",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/product/README.md#L21",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/product/README.md#L33",
+        "https://github.com/Valar05/home-center/blob/main/browser-porch/product/README.md#L35"
+      ]
+    },
+    {
+      "path": "browser-worker/README.md",
+      "mode": "100644",
+      "sha": "f3da0dff3a425a2c89abe022ee2ef58c74762008",
+      "size": 2373,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 2373,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/README.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/README.md#L5",
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/README.md#L9",
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/README.md#L15",
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/README.md#L21",
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/README.md#L23",
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/README.md#L28",
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/README.md#L32"
+      ]
+    },
+    {
+      "path": "computer-hands/windows/README.md",
+      "mode": "100644",
+      "sha": "a88bd2f5c016683c199e58d54ee7ddcbb57aff5c",
+      "size": 3202,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 57,
+      "byte_count": 3202,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/computer-hands/windows/README.md#L7",
+        "https://github.com/Valar05/home-center/blob/main/computer-hands/windows/README.md#L9",
+        "https://github.com/Valar05/home-center/blob/main/computer-hands/windows/README.md#L11",
+        "https://github.com/Valar05/home-center/blob/main/computer-hands/windows/README.md#L16",
+        "https://github.com/Valar05/home-center/blob/main/computer-hands/windows/README.md#L18",
+        "https://github.com/Valar05/home-center/blob/main/computer-hands/windows/README.md#L22",
+        "https://github.com/Valar05/home-center/blob/main/computer-hands/windows/README.md#L23",
+        "https://github.com/Valar05/home-center/blob/main/computer-hands/windows/README.md#L26"
+      ]
+    },
+    {
+      "path": "generated/engineering_memory/README.md",
+      "mode": "100644",
+      "sha": "da3d6dd6580c28501064be5c3863861930d2a781",
+      "size": 1093,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 24,
+      "byte_count": 1093,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/generated/engineering_memory/README.md#L1",
+        "https://github.com/Valar05/home-center/blob/main/generated/engineering_memory/README.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/generated/engineering_memory/README.md#L5",
+        "https://github.com/Valar05/home-center/blob/main/generated/engineering_memory/README.md#L7",
+        "https://github.com/Valar05/home-center/blob/main/generated/engineering_memory/README.md#L9",
+        "https://github.com/Valar05/home-center/blob/main/generated/engineering_memory/README.md#L10",
+        "https://github.com/Valar05/home-center/blob/main/generated/engineering_memory/README.md#L11",
+        "https://github.com/Valar05/home-center/blob/main/generated/engineering_memory/README.md#L12"
+      ]
+    },
+    {
+      "path": "modules/netrunner/README.md",
+      "mode": "100644",
+      "sha": "dc2e2160b539c185e99409b537996217dc5e3322",
+      "size": 1745,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 38,
+      "byte_count": 1745,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/modules/netrunner/README.md#L5",
+        "https://github.com/Valar05/home-center/blob/main/modules/netrunner/README.md#L8",
+        "https://github.com/Valar05/home-center/blob/main/modules/netrunner/README.md#L12",
+        "https://github.com/Valar05/home-center/blob/main/modules/netrunner/README.md#L22",
+        "https://github.com/Valar05/home-center/blob/main/modules/netrunner/README.md#L26",
+        "https://github.com/Valar05/home-center/blob/main/modules/netrunner/README.md#L28",
+        "https://github.com/Valar05/home-center/blob/main/modules/netrunner/README.md#L35",
+        "https://github.com/Valar05/home-center/blob/main/modules/netrunner/README.md#L37"
+      ]
+    },
+    {
+      "path": "services/dionysus-tax/README.md",
+      "mode": "100644",
+      "sha": "4587ca404ac439d07481936ced9372168d5285ad",
+      "size": 805,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 42,
+      "byte_count": 805,
+      "mechanics": [
+        "text_console_runtime",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/services/dionysus-tax/README.md#L31",
+        "https://github.com/Valar05/home-center/blob/main/services/dionysus-tax/README.md#L35"
+      ]
+    },
+    {
+      "path": "tvtroper-retrieval/README.md",
+      "mode": "100644",
+      "sha": "92637f309f02d4df6dafae8d8dbb57dd88636b2b",
+      "size": 736,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 9,
+      "byte_count": 736,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/tvtroper-retrieval/README.md#L1",
+        "https://github.com/Valar05/home-center/blob/main/tvtroper-retrieval/README.md#L5",
+        "https://github.com/Valar05/home-center/blob/main/tvtroper-retrieval/README.md#L6",
+        "https://github.com/Valar05/home-center/blob/main/tvtroper-retrieval/README.md#L7",
+        "https://github.com/Valar05/home-center/blob/main/tvtroper-retrieval/README.md#L8"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "cac23aa114c7cd2a4505eeb9ffeea2fd8785508c",
+      "size": 2351,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 2351,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/home-center/blob/main/PROJECT_ORIENTATION.md#L12",
+        "https://github.com/Valar05/home-center/blob/main/PROJECT_ORIENTATION.md#L17",
+        "https://github.com/Valar05/home-center/blob/main/PROJECT_ORIENTATION.md#L18",
+        "https://github.com/Valar05/home-center/blob/main/PROJECT_ORIENTATION.md#L19",
+        "https://github.com/Valar05/home-center/blob/main/PROJECT_ORIENTATION.md#L20",
+        "https://github.com/Valar05/home-center/blob/main/PROJECT_ORIENTATION.md#L24",
+        "https://github.com/Valar05/home-center/blob/main/PROJECT_ORIENTATION.md#L36"
+      ]
+    },
+    {
+      "path": "services/venice-discord-voice/package.json",
+      "mode": "100644",
+      "sha": "d436522747d23411d420f54470c6ea42c16acf90",
+      "size": 519,
+      "score": 108,
+      "reasons": [
+        "package contract",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 519,
+      "mechanics": [
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/package.json#L10",
+        "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/package.json#L12"
+      ]
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "mode": "100644",
+      "sha": "80ba2a3d955a6800979961d40ffd8de45a44e77b",
+      "size": 3364,
+      "score": 104,
+      "reasons": [
+        "runtime surface",
+        "motion surface",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 3364,
+      "mechanics": []
+    },
+    {
+      "path": "browser-worker/package.json",
+      "mode": "100644",
+      "sha": "920e865f919af701af390521c1b89bec5c2a87d6",
+      "size": 697,
+      "score": 104,
+      "reasons": [
+        "package contract",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 697,
+      "mechanics": [
+        "pose_animation_tools",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/package.json#L6",
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/package.json#L8",
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/package.json#L10",
+        "https://github.com/Valar05/home-center/blob/main/browser-worker/package.json#L14"
+      ]
+    },
+    {
+      "path": "services/gemini-free-worker/package.json",
+      "mode": "100644",
+      "sha": "ddd3faf33401ccbf704e22fa3717ff509f0d9c62",
+      "size": 254,
+      "score": 104,
+      "reasons": [
+        "package contract",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 254,
+      "mechanics": [
+        "ai_pressure",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/services/gemini-free-worker/package.json#L6",
+        "https://github.com/Valar05/home-center/blob/main/services/gemini-free-worker/package.json#L8",
+        "https://github.com/Valar05/home-center/blob/main/services/gemini-free-worker/package.json#L9"
+      ]
+    },
+    {
+      "path": "app/src/main/assets/home_drive_character_voice_registry.md",
+      "mode": "100644",
+      "sha": "dc3a2ad017fbc1df65dba9d5e0d89a326f6b24da",
+      "size": 8539,
+      "score": 100,
+      "reasons": [
+        "runtime surface",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 8539,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/home-center/blob/main/app/src/main/assets/home_drive_character_voice_registry.md#L1",
+        "https://github.com/Valar05/home-center/blob/main/app/src/main/assets/home_drive_character_voice_registry.md#L3",
+        "https://github.com/Valar05/home-center/blob/main/app/src/main/assets/home_drive_character_voice_registry.md#L5",
+        "https://github.com/Valar05/home-center/blob/main/app/src/main/assets/home_drive_character_voice_registry.md#L6",
+        "https://github.com/Valar05/home-center/blob/main/app/src/main/assets/home_drive_character_voice_registry.md#L7",
+        "https://github.com/Valar05/home-center/blob/main/app/src/main/assets/home_drive_character_voice_registry.md#L8",
+        "https://github.com/Valar05/home-center/blob/main/app/src/main/assets/home_drive_character_voice_registry.md#L9",
+        "https://github.com/Valar05/home-center/blob/main/app/src/main/assets/home_drive_character_voice_registry.md#L11"
+      ]
+    },
+    {
+      "path": "app/src/main/java/com/dclar/homecenter/GoogleDocAudioLibrary.java",
+      "mode": "100644",
+      "sha": "bce213ab672d8235c9732a0ea283a4ced9a7c753",
+      "size": 34206,
+      "score": 96,
+      "reasons": [
+        "runtime surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 656,
+      "byte_count": 34206,
+      "mechanics": []
+    },
+    {
+      "path": "app/src/main/java/com/dclar/homecenter/GroceryCartExport.java",
+      "mode": "100644",
+      "sha": "811db2c6bd9f3c25fe196878e99ca262d61407a3",
+      "size": 1948,
+      "score": 96,
+      "reasons": [
+        "runtime surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 53,
+      "byte_count": 1948,
+      "mechanics": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 311,
+    "by_origin": {
+      "github": 311
+    },
+    "by_project": {
+      "home-center": 311
+    },
+    "by_mechanic": {
+      "ai_pressure": 137,
+      "asset_import_pipeline": 69,
+      "web_choice_player": 67,
+      "validation_pipeline": 44,
+      "text_console_runtime": 43,
+      "tts_audio_pipeline": 43,
+      "pose_animation_tools": 37,
+      "delayed_consequences": 36,
+      "vehicle_survival": 27,
+      "resource_upgrade_loop": 27,
+      "touch_lane_combat": 25,
+      "writing_corpus_review": 13,
+      "source_packet_generation": 6,
+      "deck_pressure": 4
+    },
+    "examples": {
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "docs/archive/foundry/README.md",
+          "line": 1,
+          "symbol": "",
+          "evidence": "RETIRED — HISTORICAL RECORD ONLY — DO NOT USE FOR AUTHORING",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/docs/archive/foundry/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "V1 grants the safe core tool groups only: Drive, Docs, Sheets search/read, and GitHub read/issue/comment tools. Gmail sends, Calendar writes, destructive deletes, workflow dispa...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 99,
+          "symbol": "",
+          "evidence": "Command Center Codex agents, jobs, sessions, worker discovery, provisioning, leases, and heartbeats are permanently retired. They are not cataloged or executable. Historical dat...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L99"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 155,
+          "symbol": "",
+          "evidence": "The broader operator tools are gated behind `HOME_CENTER_MCP_EXTENDED_TOOLS=true` until their ChatGPT connector behavior is separately hardened.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L155"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 402,
+          "symbol": "",
+          "evidence": "If the She-Raw path itself feels misrouted, do not create a worker, connector, service, or Agent Closet entry. Call `she_raw_operation` with `operation=\"road.check\"` first. It r...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L402"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "atom/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "Historical source identifiers containing `command_center` are compatibility debt only. They do not name a product, active architecture, fourth control plane, or authorized deliv...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/atom/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "atom/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- ChatGPT, Venice, Vlad, deterministic recipes, Computer Hands, and other workers are implementation lanes selected behind Atom; the user does not babysit their terminals.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/atom/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "browser-porch/README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- MVP before empire. Keep one operator-facing critical path until its real canary passes. Context/token budget is an operational resource; checkpoint before exhaustion instead o...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/browser-porch/README.md#L20"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "docs/archive/foundry/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This directory and the immutable evidence paths named in `config/foundry_legacy_allowlist.v1.json` exist only for archaeology. Their recorded candidate, rejected, accepted, and ...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/docs/archive/foundry/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "services/venice-discord-voice/README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "velvet-room receives the detailed memory; threshold and unverified carriers fail",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- Installation creates no service or scheduled task. Persistence waits for the real canary, pause/resume, thermal, responsiveness, and human listening gates.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Discord remains downstream transport. DAVE outbound playback and microphone receive are separate unproved gates.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "Then call `local_voice.ticket.status`. Completion is proved only when the response contains:",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Home Center is the authenticated household operations and execution surface. The Android app is the human approval and device-control hub; the MCP services expose durable Google...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- deterministic producers such as persistent Blender workspaces own their isolated execution contracts while ChatGPT remains the planning and conversational surface;",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "The original shopping-list slice remains supported:",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L15"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "services/venice-discord-voice/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- A state change, room withdrawal, or global cut stops playback and disconnects.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "services/venice-discord-voice/README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "velvet-room receives the detailed memory; threshold and unverified carriers fail",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "browser-porch/product/README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "Every PR is independently testable. CI validates schema, privacy boundaries, evidence thresholds, deterministic runtime behavior, and the generated accessible HTML/JSON index.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/browser-porch/product/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "app/src/main/assets/home_drive_character_voice_registry.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "| Elvis | Elvis Presley | Roger - Laid-Back, Casual, Resonant | dialogue | yes | [voice:elvis], [speaker:Elvis], ELVIS: | quick, funny, wary, proud, tender, evasive; never a dra...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/app/src/main/assets/home_drive_character_voice_registry.md#L33"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "services/venice-discord-voice/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- A state change, room withdrawal, or global cut stops playback and disconnects.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "services/venice-discord-voice/README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "The text carrier compiles Drew's entrusted body history by room: only the private",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "services/venice-discord-voice/README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "velvet-room receives the detailed memory; threshold and unverified carriers fail",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Home Center is the authenticated household operations and execution surface. The Android app is the human approval and device-control hub; the MCP services expose durable Google...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- the Android shopping list and voice commands are basic household workflows, not the product definition.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 89,
+          "symbol": "",
+          "evidence": "Home Center treats Playwright desktop Chromium as a first-class app function for accessible web hands and reusable learning. On Android, the worker runs on device through Debian...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L89"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 93,
+          "symbol": "",
+          "evidence": "Home Center should own installed-app automation profiles. Termux/Shizuku scripts are bootstrap and diagnostic tools; repeated workflows should become app-versioned Home Center p...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L93"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 95,
+          "symbol": "Command Center MCP",
+          "evidence": "## Command Center MCP",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L95"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "services/venice-discord-voice/README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "velvet-room receives the detailed memory; threshold and unverified carriers fail",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "services/venice-discord-voice/README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "never the hidden memory block or raw source media.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "Home Center's repo-local product doctrine lives in `docs/HOME_CENTER_DOCTRINE.md`. Read it before changing agent behavior, memory, research, writing, life-organization, Netrunne...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 120,
+          "symbol": "",
+          "evidence": "The `/mcp` transport is stateless Streamable HTTP so Cloud Run can scale horizontally without sticky sessions or in-memory MCP session state. A legacy SSE transport remains avai...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L120"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 192,
+          "symbol": "",
+          "evidence": "1. Do not reason from memory alone.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L192"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 353,
+          "symbol": "",
+          "evidence": "See `docs/DEPLOYMENT.md` for APK build/copy, Firebase rules deploy, and Git hook setup.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L353"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "agent-tools/ticktick-list-ingest/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "python3 agent-tools/ticktick-list-ingest/ticktick_list_ingest.py echo --list shopping --token-file agent-tools/ticktick-list-ingest/.secrets/ticktick_token --expect-count 46",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "agent-tools/ticktick-list-ingest/README.md",
+          "line": 24,
+          "symbol": "Live shopping-list echo",
+          "evidence": "## Live shopping-list echo",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L24"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "services/venice-discord-voice/README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "never the hidden memory block or raw source media.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "That Docker smoke uses fake `pkg`, `pm`, `rish`, `am`, `codex`, and pairing endpoints to prove the setup script handles ready, missing, blocked, and auto-pair states without lea...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 199,
+          "symbol": "",
+          "evidence": "8. Do not rephrase blocked writes blindly. Use the saved ledger and stable request IDs.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L199"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 402,
+          "symbol": "",
+          "evidence": "If the She-Raw path itself feels misrouted, do not create a worker, connector, service, or Agent Closet entry. Call `she_raw_operation` with `operation=\"road.check\"` first. It r...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L402"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "agent-tools/secrets/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "The script prints variable names and counts only. It does not print values. With `--apply`, it creates a timestamped `.bashrc` backup, writes the secrets file with mode `600`, r...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/agent-tools/secrets/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "agent-tools/walmart-cart-agent/README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "Events include `manual_add_pressed`, `armed`, `add_attempted`, `added`, and `blocked` with the verified item key, product URL, brand, size, and quantity when available. The Andr...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "agent-tools/walmart-cart-agent/README.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "Termux must allow external app commands for the wake path; if Android blocks that intent, the JSONL event file remains the durable command-center handoff.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "atom/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "Historical source identifiers containing `command_center` are compatibility debt only. They do not name a product, active architecture, fourth control plane, or authorized deliv...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/atom/README.md#L11"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "services/venice-discord-voice/README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "never the hidden memory block or raw source media.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/services/venice-discord-voice/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Home Center is the authenticated household operations and execution surface. The Android app is the human approval and device-control hub; the MCP services expose durable Google...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- deterministic producers such as persistent Blender workspaces own their isolated execution contracts while ChatGPT remains the planning and conversational surface;",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 99,
+          "symbol": "",
+          "evidence": "Command Center Codex agents, jobs, sessions, worker discovery, provisioning, leases, and heartbeats are permanently retired. They are not cataloged or executable. Historical dat...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L99"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 141,
+          "symbol": "",
+          "evidence": "The scalable Drive bridge path is `drive_operation`: call `capabilities` and inspect `operationSurfaces.drive.operations`, then invoke operations by name without waiting for Cha...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L141"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 152,
+          "symbol": "",
+          "evidence": "For Excel migration, the normal ChatGPT path is not Base64 and not a local `/mnt/data` path. If the workbook is already in Drive, call `drive_operation` with `operation=workbook...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L152"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 160,
+          "symbol": "",
+          "evidence": "https://us-central1-home-center-dclar.cloudfunctions.net/homeCenterMcp/oauth-protected-resource-v2",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L160"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 195,
+          "symbol": "",
+          "evidence": "4. Treat audit records and Drive readback as source of truth.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L195"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This package is the outbound-only Windows worker for Home Center issue #185. It installs Kokoro-ONNX in a user-owned directory, verifies model and voice bytes by SHA-256, and re...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Each render is split losslessly and checkpointed in order.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- A restarted worker downloads any server-verified checkpoint missing from its local cache.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- downloads only the pinned Kokoro model files;",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "4. Kill/restart during a multi-segment render and verify the worker downloads completed checkpoints instead of resynthesizing them.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `read shopping list` loads active items and reads the first one.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "Home Center's repo-local product doctrine lives in `docs/HOME_CENTER_DOCTRINE.md`. Read it before changing agent behavior, memory, research, writing, life-organization, Netrunne...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "/storage/emulated/0/Download/HomeCenter-debug.apk",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L43"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- THECAULDRON polls one configured Helm Center HTTPS origin and opens no inbound port.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Home Center is the authenticated household operations and execution surface. The Android app is the human approval and device-control hub; the MCP services expose durable Google...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "The original shopping-list slice remains supported:",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "Home Center's repo-local product doctrine lives in `docs/HOME_CENTER_DOCTRINE.md`. Read it before changing agent behavior, memory, research, writing, life-organization, Netrunne...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 89,
+          "symbol": "",
+          "evidence": "Home Center treats Playwright desktop Chromium as a first-class app function for accessible web hands and reusable learning. On Android, the worker runs on device through Debian...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L89"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 93,
+          "symbol": "",
+          "evidence": "Home Center should own installed-app automation profiles. Termux/Shizuku scripts are bootstrap and diagnostic tools; repeated workflows should become app-versioned Home Center p...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L93"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 141,
+          "symbol": "",
+          "evidence": "The scalable Drive bridge path is `drive_operation`: call `capabilities` and inspect `operationSurfaces.drive.operations`, then invoke operations by name without waiting for Cha...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L141"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 163,
+          "symbol": "",
+          "evidence": "That metadata advertises Home Center itself as the OAuth authorization server. Home Center exposes dynamic client registration plus authorization and token endpoints, then perfo...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L163"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Final WAV completion requires GCS byte/hash readback, authenticated Audio Reader discovery, and a bounded playback header probe.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "- matching final WAV byte count and SHA-256 readback;",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 331,
+          "symbol": "",
+          "evidence": "Hotspot commands are parsed but not implemented yet. Home Center speech requests transient Android audio focus so music apps should pause or duck while responses are spoken.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L331"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 333,
+          "symbol": "",
+          "evidence": "ElevenLabs hosted speech runs through the Home Center gateway. The default voice path is ElevenLabs Brian via the Firebase `/tts` endpoint; the Android app should not require th...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L333"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 335,
+          "symbol": "",
+          "evidence": "Set `AGENT_GATEWAY_BASE_URL` in `local.properties` for the deployed Home Center gateway. Operational prompts use native Android TTS; rendered assistant responses and document re...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L335"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "agent-tools/ticktick-list-ingest/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "sh agent-tools/ticktick-list-ingest/store_ticktick_secret.sh --clipboard",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/agent-tools/ticktick-list-ingest/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "browser-porch/product/README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "Load `browser-porch/product/extension` as an unpacked Chrome extension. Its manifest public key fixes the extension ID at `dmfjnjkccebgbiepjbmbdmpffcaikaje`; the loopback daemon...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/browser-porch/product/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "computer-hands/windows/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- The worker runs in the signed-in user's interactive Windows session so screenshots, window focus, keyboard, mouse, and clipboard target the real desktop.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/computer-hands/windows/README.md#L9"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "3. Keep the returned one-time bootstrap code private. It expires after ten minutes and cannot be reused.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": ".\\workers\\cauldron_voice_worker\\bootstrap.ps1 -BootstrapCode \"<one-time-code>\"",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "The bootstrap:",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "workers/cauldron_voice_worker/README.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "Venice auditions begin only after a separate consent/provenance profile exists and Drew accepts an actual candidate performance.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/workers/cauldron_voice_worker/README.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Home Center is the authenticated household operations and execution surface. The Android app is the human approval and device-control hub; the MCP services expose durable Google...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- write operations use scoped authority, stable request IDs, and audit records;",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "sh tools/docker_install_smoke.sh",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L68"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "That Docker smoke uses fake `pkg`, `pm`, `rish`, `am`, `codex`, and pairing endpoints to prove the setup script handles ready, missing, blocked, and auto-pair states without lea...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L71"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- the Android shopping list and voice commands are basic household workflows, not the product definition.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "The original shopping-list slice remains supported:",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `add eggs to shopping list` adds `eggs` to the shared Home Center `shopping` list.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `read shopping list` loads active items and reads the first one.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 160,
+          "symbol": "",
+          "evidence": "https://us-central1-home-center-dclar.cloudfunctions.net/homeCenterMcp/oauth-protected-resource-v2",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L160"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 308,
+          "symbol": "",
+          "evidence": "add eggs to shopping list",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L308"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 315,
+          "symbol": "",
+          "evidence": "read shopping preferences",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L315"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 316,
+          "symbol": "",
+          "evidence": "build walmart cart for shopping",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L316"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "The original shopping-list slice remains supported:",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 289,
+          "symbol": "",
+          "evidence": "Firebase is optional at build time. Without `app/google-services.json`, the APK still builds and opens, but Home Center sync reports that Firebase config is missing and falls ba...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L289"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 335,
+          "symbol": "",
+          "evidence": "Set `AGENT_GATEWAY_BASE_URL` in `local.properties` for the deployed Home Center gateway. Operational prompts use native Android TTS; rendered assistant responses and document re...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L335"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 398,
+          "symbol": "",
+          "evidence": "She-Raw is a cloud consultation service exposed as `sheRawMcp`. It is not a chat UI, not a Command Center worker, and not an Agent Closet entry. ChatGPT calls it for explicit co...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L398"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 400,
+          "symbol": "",
+          "evidence": "The stable no-reinstall path is `she_raw_operation`. Call `she_raw_manual` or `she_raw_health` for `operationRegistry`, then use `she_raw_operation` with registry operations suc...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L400"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 414,
+          "symbol": "",
+          "evidence": "Simulation is MCP-first in v1. Chat or another agent assembles a large evidence-bearing reference compilation, then calls `simulation_operation` to create a project, register so...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L414"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "agent-tools/walmart-cart-agent/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "python3 agent-tools/walmart-cart-agent/walmart_cart_agent.py report",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/agent-tools/walmart-cart-agent/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "browser-porch/README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- She-Raw creative insults are load-bearing mnemonic/motivational pressure only when attached to a real critique, review, or repair action. Evidence outranks the joke.",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/browser-porch/README.md#L16"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 398,
+          "symbol": "",
+          "evidence": "She-Raw is a cloud consultation service exposed as `sheRawMcp`. It is not a chat UI, not a Command Center worker, and not an Agent Closet entry. ChatGPT calls it for explicit co...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L398"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 400,
+          "symbol": "",
+          "evidence": "The stable no-reinstall path is `she_raw_operation`. Call `she_raw_manual` or `she_raw_health` for `operationRegistry`, then use `she_raw_operation` with registry operations suc...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L400"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 402,
+          "symbol": "",
+          "evidence": "If the She-Raw path itself feels misrouted, do not create a worker, connector, service, or Agent Closet entry. Call `she_raw_operation` with `operation=\"road.check\"` first. It r...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L402"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 410,
+          "symbol": "",
+          "evidence": "See `docs/SHE_RAW_API.md`, `docs/ARCHITECTURE_SHE_RAW.md`, `docs/MCP_CONTRACT.md`, `docs/CORPUS_SCHEMA.md`, `docs/LEARNING_PIPELINE.md`, `docs/INTROSPECTION.md`, `docs/COMMAND_C...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L410"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "README.md",
+          "line": 414,
+          "symbol": "",
+          "evidence": "Simulation is MCP-first in v1. Chat or another agent assembles a large evidence-bearing reference compilation, then calls `simulation_operation` to create a project, register so...",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/README.md#L414"
+        },
+        {
+          "origin": "github",
+          "project": "home-center",
+          "repo": "Valar05/home-center",
+          "path": "agent-tools/secrets/README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "OPENAI_TEST_MODEL=gpt-5-mini ANTHROPIC_TEST_MODEL=claude-3-5-haiku-latest GEMINI_TEST_MODEL=gemini-2.0-flash sh agent-tools/secrets/refresh_and_test_apis.sh",
+          "source_url": "https://github.com/Valar05/home-center/blob/main/agent-tools/secrets/README.md#L40"
+        }
+      ]
+    }
+  }
+}

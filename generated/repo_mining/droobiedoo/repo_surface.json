@@ -1,0 +1,2029 @@
+{
+  "repo": "Valar05/droobiedoo",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "droobiedoo",
+    "updatedAt": "2026-07-15T16:56:40Z",
+    "url": "https://github.com/Valar05/droobiedoo",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "tools/home_center_bundle/README.md",
+      "mode": "100644",
+      "sha": "763e8492d3ebd6c3211e4789dfbba5cd0d358e38",
+      "size": 1197,
+      "score": 180,
+      "reasons": [
+        "root readme",
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 1197,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L16",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L18",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L20",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L35"
+      ]
+    },
+    {
+      "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+      "mode": "100644",
+      "sha": "e6c41c86c0d49b3a8195071afd8498bd0a8f4a37",
+      "size": 1043,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 29,
+      "byte_count": 1043,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L10",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L14",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L19",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L24",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L25",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L26",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L27"
+      ]
+    },
+    {
+      "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+      "mode": "100644",
+      "sha": "e6c41c86c0d49b3a8195071afd8498bd0a8f4a37",
+      "size": 1043,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 29,
+      "byte_count": 1043,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L10",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L14",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L19",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L24",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L25",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L26",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L27"
+      ]
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "a0f06d740e25868679be25cf551ea7094e3f16cc",
+      "size": 822,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 18,
+      "byte_count": 822,
+      "mechanics": [
+        "pose_animation_tools",
+        "source_packet_generation",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/README.md#L11",
+        "https://github.com/Valar05/droobiedoo/blob/main/README.md#L16",
+        "https://github.com/Valar05/droobiedoo/blob/main/README.md#L18"
+      ]
+    },
+    {
+      "path": "docs/PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "3e4136fa82abe00a8ce49b78eabbbf0143a27eb4",
+      "size": 944,
+      "score": 100,
+      "reasons": [
+        "documentation surface",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 944,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L11"
+      ]
+    },
+    {
+      "path": "tools/PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "fd71afbbc5445fd60867014a7abe18c263f29263",
+      "size": 1205,
+      "score": 92,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 31,
+      "byte_count": 1205,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L11"
+      ]
+    },
+    {
+      "path": "tools/home_center_bundle/manifest.json",
+      "mode": "100644",
+      "sha": "e4535303ba8c4de89359e026f43a0c3df360295d",
+      "size": 1530,
+      "score": 92,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 46,
+      "byte_count": 1530,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L1",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L2",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L4",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L5",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L6",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L8"
+      ]
+    },
+    {
+      "path": "tools/home_center_bundle/shared_rules.md",
+      "mode": "100644",
+      "sha": "9d0dde0622c8cd33a61bee80e0d02187ecc3f037",
+      "size": 2571,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 71,
+      "byte_count": 2571,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L12",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L15",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L16",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L26",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L30",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L38",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L39",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L40"
+      ]
+    },
+    {
+      "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+      "mode": "100644",
+      "sha": "25df49318570d797735b0dc7a3f3d39c9be9ff7b",
+      "size": 11656,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 269,
+      "byte_count": 11656,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L5",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L11",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L13",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L17",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L21",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L24"
+      ]
+    },
+    {
+      "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+      "mode": "100644",
+      "sha": "dc6a4299fd159cd1047edb4cd41540cded64d8f5",
+      "size": 14283,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 321,
+      "byte_count": 14283,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L5",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L17",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L19",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L21",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L22",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L23",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L25",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L27"
+      ]
+    },
+    {
+      "path": ".codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md",
+      "mode": "100644",
+      "sha": "faf1bbf8bedce6b1cd5dc5577b7a2ff8aab6b3b9",
+      "size": 18657,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 220,
+      "byte_count": 18657,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L1",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L5",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L10",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L11",
+        "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L12"
+      ]
+    },
+    {
+      "path": "docs/CONTEXT_INDEX.md",
+      "mode": "100644",
+      "sha": "e6256cc4eb9ed685a90d670c62bea3ea2140ab84",
+      "size": 1944,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 31,
+      "byte_count": 1944,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/CONTEXT_INDEX.md#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/CONTEXT_INDEX.md#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/CONTEXT_INDEX.md#L8",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/CONTEXT_INDEX.md#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/CONTEXT_INDEX.md#L10",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/CONTEXT_INDEX.md#L11",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/CONTEXT_INDEX.md#L27",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/CONTEXT_INDEX.md#L31"
+      ]
+    },
+    {
+      "path": "docs/animation/ANIMATION_APPRENTICE_CONTRACT.md",
+      "mode": "100644",
+      "sha": "fa2455430914bcbe92a6d82c916844e1d013b5fe",
+      "size": 4599,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 183,
+      "byte_count": 4599,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/animation/ANIMATION_APPRENTICE_CONTRACT.md#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/animation/ANIMATION_APPRENTICE_CONTRACT.md#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/animation/ANIMATION_APPRENTICE_CONTRACT.md#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/animation/ANIMATION_APPRENTICE_CONTRACT.md#L15",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/animation/ANIMATION_APPRENTICE_CONTRACT.md#L17",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/animation/ANIMATION_APPRENTICE_CONTRACT.md#L18",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/animation/ANIMATION_APPRENTICE_CONTRACT.md#L24",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/animation/ANIMATION_APPRENTICE_CONTRACT.md#L30"
+      ]
+    },
+    {
+      "path": "docs/design/tanks_for_the_memories_information_pressure_2026-06-20.md",
+      "mode": "100644",
+      "sha": "3c79da80d1107195ff690dce836d5eea88951d0c",
+      "size": 3674,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 238,
+      "byte_count": 3674,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_information_pressure_2026-06-20.md#L5",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_information_pressure_2026-06-20.md#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_information_pressure_2026-06-20.md#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_information_pressure_2026-06-20.md#L11",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_information_pressure_2026-06-20.md#L27",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_information_pressure_2026-06-20.md#L31",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_information_pressure_2026-06-20.md#L45",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_information_pressure_2026-06-20.md#L46"
+      ]
+    },
+    {
+      "path": "docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md",
+      "mode": "100644",
+      "sha": "916de343551c194cf0fe2135e0d7eca26483883b",
+      "size": 3800,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 247,
+      "byte_count": 3800,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L19",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L22",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L26",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L46",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L54",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L69",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L74"
+      ]
+    },
+    {
+      "path": "docs/meshy_asset_workflow.md",
+      "mode": "100644",
+      "sha": "83afcda943991d63123e112b313b9e798e47c4eb",
+      "size": 2722,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 99,
+      "byte_count": 2722,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/meshy_asset_workflow.md#L1",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/meshy_asset_workflow.md#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/meshy_asset_workflow.md#L4",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/meshy_asset_workflow.md#L6",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/meshy_asset_workflow.md#L8",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/meshy_asset_workflow.md#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/meshy_asset_workflow.md#L11",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/meshy_asset_workflow.md#L12"
+      ]
+    },
+    {
+      "path": "docs/ml/pressure_discovery_capture_2026-06-20.md",
+      "mode": "100644",
+      "sha": "c7c48d29fbc766b0c107c1c23d8e341e408ee92a",
+      "size": 2398,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 122,
+      "byte_count": 2398,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L13",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L21",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L27",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L36",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L38",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L39",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L40"
+      ]
+    },
+    {
+      "path": "docs/ml/thunder_pressure_systems_pass_2026-06-20.md",
+      "mode": "100644",
+      "sha": "518498e9433c220eda0b4c7791d6a5762816f65b",
+      "size": 9873,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 224,
+      "byte_count": 9873,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L1",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L4",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L13",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L15",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L17",
+        "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L22"
+      ]
+    },
+    {
+      "path": "docs/.gitattributes",
+      "mode": "100644",
+      "sha": "8442133b2ba4e91ea8df320f2a68665f63837702",
+      "size": 1726,
+      "score": 76,
+      "reasons": [
+        "documentation surface"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 1726,
+      "mechanics": []
+    },
+    {
+      "path": "docs/.gitignore",
+      "mode": "100644",
+      "sha": "4aa3121215ec37b13cd527b6ccc3afafa07e5384",
+      "size": 496,
+      "score": 76,
+      "reasons": [
+        "documentation surface"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 496,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/sync_workspace_artifacts.py",
+      "mode": "100644",
+      "sha": "3945d87f737484fd2f550d47f02984eddb644142",
+      "size": 2489,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 84,
+      "byte_count": 2489,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/scripts/sync_workspace_artifacts.py#L4",
+        "https://github.com/Valar05/droobiedoo/blob/main/scripts/sync_workspace_artifacts.py#L6",
+        "https://github.com/Valar05/droobiedoo/blob/main/scripts/sync_workspace_artifacts.py#L7",
+        "https://github.com/Valar05/droobiedoo/blob/main/scripts/sync_workspace_artifacts.py#L8",
+        "https://github.com/Valar05/droobiedoo/blob/main/scripts/sync_workspace_artifacts.py#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/scripts/sync_workspace_artifacts.py#L10",
+        "https://github.com/Valar05/droobiedoo/blob/main/scripts/sync_workspace_artifacts.py#L25",
+        "https://github.com/Valar05/droobiedoo/blob/main/scripts/sync_workspace_artifacts.py#L26"
+      ]
+    },
+    {
+      "path": "tools/build_context_index.py",
+      "mode": "100644",
+      "sha": "038e6695f8863c06fc7103b74c67f59ec61855a8",
+      "size": 10062,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 256,
+      "byte_count": 10062,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/build_context_index.py#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/build_context_index.py#L11",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/build_context_index.py#L12",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/build_context_index.py#L13",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/build_context_index.py#L14",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/build_context_index.py#L15",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/build_context_index.py#L16",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/build_context_index.py#L17"
+      ]
+    },
+    {
+      "path": "tools/home_center_bundle/agents/accessibility_monitor.md",
+      "mode": "100644",
+      "sha": "ce76637a7b199d1881324f90f5bc463324103629",
+      "size": 777,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 777,
+      "mechanics": [
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/agents/accessibility_monitor.md#L3"
+      ]
+    },
+    {
+      "path": "tools/home_center_bundle/agents/kitchen_orchestrator.md",
+      "mode": "100644",
+      "sha": "6351c799399387dd7ca5ef9c61870296a202f5e7",
+      "size": 1235,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 1235,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/agents/kitchen_orchestrator.md#L3",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/agents/kitchen_orchestrator.md#L4",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/agents/kitchen_orchestrator.md#L8",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/agents/kitchen_orchestrator.md#L9",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/agents/kitchen_orchestrator.md#L15",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/agents/kitchen_orchestrator.md#L16",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/agents/kitchen_orchestrator.md#L17",
+        "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/agents/kitchen_orchestrator.md#L19"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 820,
+    "by_origin": {
+      "github": 820
+    },
+    "by_project": {
+      "droobiedoo": 820
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 274,
+      "ai_pressure": 220,
+      "text_console_runtime": 170,
+      "pose_animation_tools": 149,
+      "tts_audio_pipeline": 116,
+      "validation_pipeline": 92,
+      "touch_lane_combat": 55,
+      "writing_corpus_review": 42,
+      "web_choice_player": 38,
+      "vehicle_survival": 32,
+      "resource_upgrade_loop": 29,
+      "source_packet_generation": 27,
+      "delayed_consequences": 18,
+      "deck_pressure": 11,
+      "event_clouds": 6
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `manifest.json` - machine-readable bundle index",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: docs",
+          "evidence": "# Project Manifest: docs",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:00:50-05:00",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/docs`",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: none configured",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L6"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `manifest.json` - machine-readable bundle index",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "Use `shared_rules.md` as the source of truth for cooking doctrine and exception handling.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: docs",
+          "evidence": "# Project Manifest: docs",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:00:50-05:00",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/docs`",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L5"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `Meal Composer` - bounded and unbounded meal brainstorming",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `Subsistence Upgrader` - cheap base-food repair and boxed-meal upgrades",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Build `0.8.31` keeps the explicit room-traversal graph and adds a combat scaffold: the Orc Berserker now drives from the edited Pose Lab horizontal swing, uses a fist hitbox, pl...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "node --input-type=module --check < src/main.js",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Build `0.8.31` keeps the explicit room-traversal graph and adds a combat scaffold: the Orc Berserker now drives from the edited Pose Lab horizontal swing, uses a fist hitbox, pl...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "node --input-type=module --check < src/main.js",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L21"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `Meal Composer` - bounded and unbounded meal brainstorming",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Three.js landscape mobile prototype for a first-person melee/platformer roguelike set in Limbo.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Build `0.8.31` keeps the explicit room-traversal graph and adds a combat scaffold: the Orc Berserker now drives from the edited Pose Lab horizontal swing, uses a fist hitbox, pl...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Three.js landscape mobile prototype for a first-person melee/platformer roguelike set in Limbo.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Build `0.8.31` keeps the explicit room-traversal graph and adds a combat scaffold: the Orc Berserker now drives from the edited Pose Lab horizontal swing, uses a fist hitbox, pl...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Raw chat/corpus exports are local-only. Do not commit original export blobs; commit only indexed or curated derivatives under `wwdd/indexed/` or `wwdd/curated/` when they are in...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L8"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `Subsistence Upgrader` - cheap base-food repair and boxed-meal upgrades",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/PROJECT_MANIFEST.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `test_workspace_motivated_bootstrap.mjs`",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/shared_rules.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Stovetop: control and correction tool for sauce, sear, simmer, and repair.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/shared_rules.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "- Repair order: salt, umami, fat, body, acid, texture.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Current authoritative realization plan: `docs/VERTICAL_DISTRICT_REALIZATION_PLAN.md`.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "Use this as the standing world prompt for new districts, rooms, and screenshot critiques:",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- the result should balance brutality and wonder in every district",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "Prefer a seeded vertical district graph over a giant flat open world.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L40"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `Subsistence Upgrader` - cheap base-food repair and boxed-meal upgrades",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `Rule Miner` - discovers and stores new kitchen doctrines from corpus/experiments",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/manifest.json",
+          "line": 4,
+          "symbol": "description",
+          "evidence": "\"description\": \"A multi-agent kitchen bundle for meal composition, orchestration, subsistence upgrades, accessibility, and rule mining.\",",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/manifest.json",
+          "line": 25,
+          "symbol": "name",
+          "evidence": "\"name\": \"Subsistence Upgrader\",",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L25"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/manifest.json",
+          "line": 26,
+          "symbol": "file",
+          "evidence": "\"file\": \"agents/subsistence_upgrader.md\",",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L26"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/manifest.json",
+          "line": 27,
+          "symbol": "role",
+          "evidence": "\"role\": \"upgrades cheap base foods and boxed meals\"",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L27"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/manifest.json",
+          "line": 35,
+          "symbol": "name",
+          "evidence": "\"name\": \"Rule Miner\",",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L35"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/manifest.json",
+          "line": 36,
+          "symbol": "file",
+          "evidence": "\"file\": \"agents/rule_miner.md\",",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L36"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `Rule Miner` - discovers and stores new kitchen doctrines from corpus/experiments",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "README.md",
+          "line": 16,
+          "symbol": "Corpus Policy",
+          "evidence": "## Corpus Policy",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Raw chat/corpus exports are local-only. Do not commit original export blobs; commit only indexed or curated derivatives under `wwdd/indexed/` or `wwdd/curated/` when they are in...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/manifest.json",
+          "line": 37,
+          "symbol": "role",
+          "evidence": "\"role\": \"captures new kitchen doctrines from corpus and experiments\"",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/manifest.json#L37"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/home_center_bundle/shared_rules.md",
+          "line": 26,
+          "symbol": "Transform doctrines",
+          "evidence": "## Transform doctrines",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/home_center_bundle/shared_rules.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "- Repeated relief motif, strong processional branding.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 171,
+          "symbol": "",
+          "evidence": "Use these as the next asset-generating motifs to request or assemble:",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L171"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "Build `0.8.26` stops treating the 48-room batch as four fixed 12-room chapters. The runtime now generates a seeded district plan per level from the persisted level seed, then pa...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L71"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python3 -m http.server 8798",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "http://127.0.0.1:8798/infinite-brutality/index.html",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python3 -m http.server 8798",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "http://127.0.0.1:8798/infinite-brutality/index.html",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 185,
+          "symbol": "",
+          "evidence": "- warehouse block with loading bays and exposed rafters",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L185"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "Build `0.8.27` expands the project-owned vector texture set beyond stone, bronze, and bone. The runtime now also loads deterministic SVG surfaces for iron, blood, flesh, and haz...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "This keeps the art direction on the same vector-first low-poly track as the district pass. The new textures are lightweight, tileable, and directly wired into the existing mater...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md",
+          "line": 80,
+          "symbol": "",
+          "evidence": "- the full settlement path remains deterministic from the current level seed and phone-safe to render in one pass",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L80"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Build `0.8.31` keeps the explicit room-traversal graph and adds a combat scaffold: the Orc Berserker now drives from the edited Pose Lab horizontal swing, uses a fist hitbox, pl...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Build `0.8.31` keeps the explicit room-traversal graph and adds a combat scaffold: the Orc Berserker now drives from the edited Pose Lab horizontal swing, uses a fist hitbox, pl...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/animation/ANIMATION_APPRENTICE_CONTRACT.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "animation_family: punch | kick | slash | locomotion | idle | reaction | traversal | emote | other",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/animation/ANIMATION_APPRENTICE_CONTRACT.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/ml/thunder_pressure_systems_pass_2026-06-20.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Largest explicit mechanic buckets include `asset_import_pipeline`, `text_console_runtime`, `ai_pressure`, `web_choice_player`, `tts_audio_pipeline`, `touch_lane_combat`, `sour...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/ml/thunder_pressure_systems_pass_2026-06-20.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Gravity Fist's current combat surface includes combo slots, specials, hold stomp, swipe block/Superman/sidestep/attacks, block/parry, auto-targeting, knockdown/prone/stomp/ble...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/ml/thunder_pressure_systems_pass_2026-06-20.md",
+          "line": 111,
+          "symbol": "",
+          "evidence": "- **Hit reactions, blood spray, camera shake**: pressure readouts.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L111"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Build `0.8.31` keeps the explicit room-traversal graph and adds a combat scaffold: the Orc Berserker now drives from the edited Pose Lab horizontal swing, uses a fist hitbox, pl...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "node --input-type=module --check < src/generated_room_batch.js",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "python3 -m json.tool data/room_junction_batch.json >/dev/null",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Build `0.8.31` keeps the explicit room-traversal graph and adds a combat scaffold: the Orc Berserker now drives from the edited Pose Lab horizontal swing, uses a fist hitbox, pl...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "node --input-type=module --check < src/generated_room_batch.js",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "python3 -m json.tool data/room_junction_batch.json >/dev/null",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- No standard entrypoint was detected. Inspect top-level files and add project-specific validation commands when known.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/PROJECT_MANIFEST.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- No standard entrypoint was detected. Inspect top-level files and add project-specific validation commands when known.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L12"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195614/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Build `0.8.31` keeps the explicit room-traversal graph and adds a combat scaffold: the Orc Berserker now drives from the edited Pose Lab horizontal swing, uses a fist hitbox, pl...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195614/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Build `0.8.31` keeps the explicit room-traversal graph and adds a combat scaffold: the Orc Berserker now drives from the edited Pose Lab horizontal swing, uses a fist hitbox, pl...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/PROJECT_MANIFEST.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/PROJECT_MANIFEST.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/PROJECT_MANIFEST.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "tools/PROJECT_MANIFEST.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/tools/PROJECT_MANIFEST.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 158,
+          "symbol": "",
+          "evidence": "- whether the space reads like one place instead of random blockers",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L158"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 229,
+          "symbol": "",
+          "evidence": "- decorative meshes that block sightlines without explaining structure",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L229"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- generated workspace reports (`generated/`)",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Raw chat/corpus exports are local-only. Do not commit original export blobs; commit only indexed or curated derivatives under `wwdd/indexed/` or `wwdd/curated/` when they are in...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Use this note for level-design, generator, and screenshot-critique work specific to Infinite Brutality.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "Use this as the standing world prompt for new districts, rooms, and screenshot critiques:",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 126,
+          "symbol": "",
+          "evidence": "Generator and critique checks should ask:",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L126"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 151,
+          "symbol": "Screenshot Critique Checklist",
+          "evidence": "## Screenshot Critique Checklist",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L151"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 237,
+          "symbol": "Screenshot Critique Rubric",
+          "evidence": "## Screenshot Critique Rubric",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L237"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 250,
+          "symbol": "",
+          "evidence": "Critique actions:",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L250"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- Roman bathhouses, gladiator cells, villas, aqueducts, amphitheaters, watchtowers",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Ancient Near East ziggurats, processional roads, stone terraces",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md",
+          "line": 161,
+          "symbol": "",
+          "evidence": "Prefer targeted generator corrections over broad style churn.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/LEVEL_DESIGN_WORKFLOW.md#L161"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- [Amphitheatre of El Jem](https://en.wikipedia.org/wiki/Amphitheatre_of_El_Jem)",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- [Roman amphitheatre](https://en.wikipedia.org/wiki/Roman_amphitheatre)",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- Fragments, foundations, columns, tholos, approach-by-road sanctuary logic.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 118,
+          "symbol": "",
+          "evidence": "- Useful for: ship-hull silhouette inspiration and broad arcing roof forms.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L118"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 163,
+          "symbol": "",
+          "evidence": "- Wharf, quay, slip, pier, NAABSA logic.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L163"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "- Entry-control building, fortified threshold, drawbridge/portcullis logic.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 88,
+          "symbol": "",
+          "evidence": "- Double gate, glazed-brick monument, strong threshold, ceremonial authority.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L88"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md",
+          "line": 214,
+          "symbol": "",
+          "evidence": "- cliff anchors and deck posts",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/REFERENCE_BOARDS.md#L214"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md",
+          "line": 97,
+          "symbol": "",
+          "evidence": "Connector and route slabs are trimmed inward from pads and raised slightly where they leave room portals. This avoids drawing connector landing plates directly on top of room pa...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L97"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": ".codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md",
+          "line": 135,
+          "symbol": "",
+          "evidence": "Build `0.8.12` adds vertical play inside generated rooms, not only between rooms. Upper galleries, upper crossings, stair approaches, and lower recovery shelves are now generate...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/.codex-backups/infinite-brutality/20260609-195633/docs/ROOM_BATCH_IMPLEMENTATION.md#L135"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/CONTEXT_INDEX.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "The index stores `generatedAt`, git branch/head, dirty status, and warning metadata. Home Center's lookup layer reports stale status when the generated index exceeds the request...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/CONTEXT_INDEX.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/ml/thunder_pressure_systems_pass_2026-06-20.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Thunder generalizes pressure arenas, event clouds, delayed consequences, deck-driven pacing, source-packet workflows, Godot mobile combat, touch lanes, duel handoffs, survivor...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/ml/thunder_pressure_systems_pass_2026-06-20.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Largest explicit mechanic buckets include `asset_import_pipeline`, `text_console_runtime`, `ai_pressure`, `web_choice_player`, `tts_audio_pipeline`, `touch_lane_combat`, `sour...",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/thunder_pressure_systems_pass_2026-06-20.md#L32"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/animation/ANIMATION_APPRENTICE_CONTRACT.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Pose Lab is the cockpit. Droobiedoo is the memory and training layer.",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/animation/ANIMATION_APPRENTICE_CONTRACT.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- memory",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md",
+          "line": 76,
+          "symbol": "",
+          "evidence": "- memory",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L76"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md",
+          "line": 222,
+          "symbol": "",
+          "evidence": "→ Memory",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L222"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md",
+          "line": 233,
+          "symbol": "",
+          "evidence": "- persistent memory",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/design/tanks_for_the_memories_ledger_simulation_2026-06-20.md#L233"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/ml/pressure_discovery_capture_2026-06-20.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- Pressure Memory",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/ml/pressure_discovery_capture_2026-06-20.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "Pressure memory:",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "droobiedoo",
+          "repo": "Valar05/droobiedoo",
+          "path": "docs/ml/pressure_discovery_capture_2026-06-20.md",
+          "line": 75,
+          "symbol": "",
+          "evidence": "- delayed consequences",
+          "source_url": "https://github.com/Valar05/droobiedoo/blob/main/docs/ml/pressure_discovery_capture_2026-06-20.md#L75"
+        }
+      ]
+    }
+  }
+}

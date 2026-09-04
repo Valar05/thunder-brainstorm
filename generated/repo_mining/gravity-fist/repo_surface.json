@@ -1,0 +1,1670 @@
+{
+  "repo": "Valar05/gravity-fist",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Gravity Fist is a survivorlike beat-em-up",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "gravity-fist",
+    "updatedAt": "2026-05-04T13:39:10Z",
+    "url": "https://github.com/Valar05/gravity-fist",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "b75b9cfba45ed3b4eeeed2bd7da0664a45502195",
+      "size": 700,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 700,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/project.godot#L14",
+        "https://github.com/Valar05/gravity-fist/blob/main/project.godot#L18",
+        "https://github.com/Valar05/gravity-fist/blob/main/project.godot#L29",
+        "https://github.com/Valar05/gravity-fist/blob/main/project.godot#L31",
+        "https://github.com/Valar05/gravity-fist/blob/main/project.godot#L32"
+      ]
+    },
+    {
+      "path": "scenes/Distortion.gdshader",
+      "mode": "100644",
+      "sha": "c182ea7f35c2e179301eac59411872c407a5b830",
+      "size": 1296,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 29,
+      "byte_count": 1296,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/Distortion.gdshader.uid",
+      "mode": "100644",
+      "sha": "3f1dc9edec57d2c3cf22fe4aec24ff0b7cc9f2ea",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/blood_spray.gd",
+      "mode": "100644",
+      "sha": "168d343b0956bd6c223a6b09fc2f585bbc9896b3",
+      "size": 2497,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 83,
+      "byte_count": 2497,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/blood_spray.gd#L17",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/blood_spray.gd#L20",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/blood_spray.gd#L21",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/blood_spray.gd#L36",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/blood_spray.gd#L82"
+      ]
+    },
+    {
+      "path": "scripts/joystick.gd",
+      "mode": "100644",
+      "sha": "d3c3d8b2a755c5b43276d2aa17687582672eeda0",
+      "size": 2791,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 90,
+      "byte_count": 2791,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L5",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L13",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L15",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L19",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L35",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L41",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L42",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L43"
+      ]
+    },
+    {
+      "path": "scripts/move_offer_button.gd",
+      "mode": "100644",
+      "sha": "2df5f7032b454cd035d6e7a0c466b2c801540984",
+      "size": 713,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 26,
+      "byte_count": 713,
+      "mechanics": [
+        "ai_pressure",
+        "resource_upgrade_loop",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L1",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L4",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L7",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L8",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L9",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L12",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L13",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L14"
+      ]
+    },
+    {
+      "path": "scripts/move_slot_button.gd",
+      "mode": "100644",
+      "sha": "d15ebd348f93ffef164cd66a593b214f3bc64f3a",
+      "size": 1511,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 50,
+      "byte_count": 1511,
+      "mechanics": [
+        "ai_pressure",
+        "resource_upgrade_loop",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_slot_button.gd#L1",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_slot_button.gd#L4",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_slot_button.gd#L5",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_slot_button.gd#L6",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_slot_button.gd#L9",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_slot_button.gd#L10",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_slot_button.gd#L11",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_slot_button.gd#L14"
+      ]
+    },
+    {
+      "path": "scripts/music_player.gd",
+      "mode": "100644",
+      "sha": "43b60c9ea749a692fb17db604b14327b78506a49",
+      "size": 1062,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 1062,
+      "mechanics": [
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L1",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L3",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L4",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L5",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L6",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L7",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L17"
+      ]
+    },
+    {
+      "path": "scripts/player.gd",
+      "mode": "100644",
+      "sha": "47088e150126f99a59fd25cfc6e417d374ad2d80",
+      "size": 63381,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1794,
+      "byte_count": 63381,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L6",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L8",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L10",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L11",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L12",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L13",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L14",
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L15"
+      ]
+    },
+    {
+      "path": "scripts/track_holder.gd",
+      "mode": "100644",
+      "sha": "cd3dabb35c0a31dfaf139a24e6387af2e48097e0",
+      "size": 58,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 58,
+      "mechanics": [
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scripts/track_holder.gd#L3"
+      ]
+    },
+    {
+      "path": "scripts/blood_spray.gd.uid",
+      "mode": "100644",
+      "sha": "7723654e240809b956bbf1ff6318027621bf7ae7",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/joystick.gd.uid",
+      "mode": "100644",
+      "sha": "a4c40c31de2835ee317ff1fb95f7ba59884a9d42",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/move_offer_button.gd.uid",
+      "mode": "100644",
+      "sha": "37b693ccfd6a8cbbbb2c6208d83b97d47e29cec7",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/move_slot_button.gd.uid",
+      "mode": "100644",
+      "sha": "8d1778db44f1fef128e27d116c657c9abf7109fc",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/music_player.gd.uid",
+      "mode": "100644",
+      "sha": "fd14cd62e0fe8131b59d13a1e4b2528d1a16e279",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/player.gd.uid",
+      "mode": "100644",
+      "sha": "2ac8d01d34ac90d7b0e1f800b22fa8fe4151825d",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/track_holder.gd.uid",
+      "mode": "100644",
+      "sha": "4d561c342a0aeeba7b9a3fc1da274a9333201d4d",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/ai_conductor.gd",
+      "mode": "100644",
+      "sha": "2362fe7ecc15c40ea2baa1f2065cfa82a5d77fd1",
+      "size": 40796,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1124,
+      "byte_count": 40796,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L1",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L3",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L4",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L5",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L6",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L8",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L9",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L10"
+      ]
+    },
+    {
+      "path": "scenes/ai_controller.gd",
+      "mode": "100644",
+      "sha": "6f1fb8f0db6ea6a7d198c7f284748fee3db59f3f",
+      "size": 66189,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1829,
+      "byte_count": 66189,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L1",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L3",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L4",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L5",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L6",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L7",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L8",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L9"
+      ]
+    },
+    {
+      "path": "scenes/all_wounded_reengage_repro.gd",
+      "mode": "100644",
+      "sha": "9f209144575cb2bbdc155ca780efd4a03f81ff41",
+      "size": 3980,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 118,
+      "byte_count": 3980,
+      "mechanics": [
+        "ai_pressure",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/all_wounded_reengage_repro.gd#L6",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/all_wounded_reengage_repro.gd#L13",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/all_wounded_reengage_repro.gd#L26",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/all_wounded_reengage_repro.gd#L27",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/all_wounded_reengage_repro.gd#L28",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/all_wounded_reengage_repro.gd#L29",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/all_wounded_reengage_repro.gd#L30",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/all_wounded_reengage_repro.gd#L31"
+      ]
+    },
+    {
+      "path": "scenes/direct_block_repro.gd",
+      "mode": "100644",
+      "sha": "2ef4aee2b63350889eada4bba9c3e8f845053975",
+      "size": 1955,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 70,
+      "byte_count": 1955,
+      "mechanics": [
+        "ai_pressure",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/direct_block_repro.gd#L1",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/direct_block_repro.gd#L3",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/direct_block_repro.gd#L4",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/direct_block_repro.gd#L5",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/direct_block_repro.gd#L7",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/direct_block_repro.gd#L9",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/direct_block_repro.gd#L10",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/direct_block_repro.gd#L11"
+      ]
+    },
+    {
+      "path": "scenes/flee_kill_idle_repro.gd",
+      "mode": "100644",
+      "sha": "707ddf017ed5e818aae94fee56863f6ab5afe6f0",
+      "size": 4252,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 117,
+      "byte_count": 4252,
+      "mechanics": [
+        "ai_pressure",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_kill_idle_repro.gd#L1",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_kill_idle_repro.gd#L3",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_kill_idle_repro.gd#L4",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_kill_idle_repro.gd#L6",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_kill_idle_repro.gd#L7",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_kill_idle_repro.gd#L8",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_kill_idle_repro.gd#L9",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_kill_idle_repro.gd#L10"
+      ]
+    },
+    {
+      "path": "scenes/flee_repro.gd",
+      "mode": "100644",
+      "sha": "1ece0ba3de39e3111da00e4def6182f3e1b21b9e",
+      "size": 3892,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 119,
+      "byte_count": 3892,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_repro.gd#L1",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_repro.gd#L3",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_repro.gd#L4",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_repro.gd#L6",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_repro.gd#L7",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_repro.gd#L8",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_repro.gd#L9",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/flee_repro.gd#L11"
+      ]
+    },
+    {
+      "path": "scenes/multi_wounded_repro.gd",
+      "mode": "100644",
+      "sha": "1bc1534ece76f33e072a34876fd99959c1b0b4e5",
+      "size": 3023,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 93,
+      "byte_count": 3023,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/multi_wounded_repro.gd#L6",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/multi_wounded_repro.gd#L9",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/multi_wounded_repro.gd#L11",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/multi_wounded_repro.gd#L25",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/multi_wounded_repro.gd#L27",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/multi_wounded_repro.gd#L29",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/multi_wounded_repro.gd#L30",
+        "https://github.com/Valar05/gravity-fist/blob/main/scenes/multi_wounded_repro.gd#L31"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 3756,
+    "by_origin": {
+      "github": 3756
+    },
+    "by_project": {
+      "gravity-fist": 3756
+    },
+    "by_mechanic": {
+      "ai_pressure": 2969,
+      "touch_lane_combat": 1083,
+      "pose_animation_tools": 136,
+      "resource_upgrade_loop": 68,
+      "text_console_runtime": 61,
+      "asset_import_pipeline": 49,
+      "event_clouds": 47,
+      "web_choice_player": 45,
+      "vehicle_survival": 27,
+      "source_packet_generation": 21,
+      "deck_pressure": 20,
+      "tts_audio_pipeline": 7,
+      "writing_corpus_review": 6,
+      "delayed_consequences": 2
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"uid://c4uymepb5ssi\"",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/blood_spray.gd",
+          "line": 20,
+          "symbol": "configure",
+          "evidence": "func configure(spawn_position: Vector3, spray_direction: Vector3) -> void:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/blood_spray.gd#L20"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/blood_spray.gd",
+          "line": 21,
+          "symbol": "",
+          "evidence": "global_position = spawn_position",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/blood_spray.gd#L21"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/blood_spray.gd",
+          "line": 82,
+          "symbol": "",
+          "evidence": "await tree.create_timer(CLEANUP_DELAY).timeout",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/blood_spray.gd#L82"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 15,
+          "symbol": "",
+          "evidence": "var _input_block_remaining: float = 0.0",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L15"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 19,
+          "symbol": "",
+          "evidence": "_input_block_remaining = max(_input_block_remaining, duration)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L19"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 35,
+          "symbol": "",
+          "evidence": "if _input_block_remaining > 0.0:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L35"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 69,
+          "symbol": "",
+          "evidence": "if _input_block_remaining > 0.0:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L69"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "project.godot",
+          "line": 18,
+          "symbol": "",
+          "evidence": "[autoload]",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/project.godot#L18"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "project.godot",
+          "line": 29,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/project.godot#L29"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "project.godot",
+          "line": 31,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/project.godot#L31"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/music_player.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "# MusicPlayer: Plays all tracks in exported array randomly, no repeats until all played, persists across scene reloads.",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 6,
+          "symbol": "",
+          "evidence": "const BLOOD_SPRAY_EFFECT = preload(\"res://scripts/blood_spray.gd\")",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L6"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 803,
+          "symbol": "_normalize_standard_move_loadout",
+          "evidence": "func _normalize_standard_move_loadout(moves: Array) -> Array:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L803"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 816,
+          "symbol": "_build_default_standard_loadout",
+          "evidence": "func _build_default_standard_loadout() -> Array:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L816"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 825,
+          "symbol": "",
+          "evidence": "return _normalize_standard_move_loadout(defaults)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L825"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "project.godot",
+          "line": 32,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/project.godot#L32"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 465,
+          "symbol": "",
+          "evidence": "var dash_blend_x = _dash_dir.z if _target_rotation_y > 0.1 else -_dash_dir.z",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L465"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 466,
+          "symbol": "",
+          "evidence": "anim_tree.set(\"parameters/Locomotion/blend_position\", Vector2(dash_blend_x, 0.0))",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L466"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 697,
+          "symbol": "",
+          "evidence": "anim_tree.set(\"parameters/Locomotion/blend_position\", Vector2(0, 0))",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L697"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 945,
+          "symbol": "rearrange_standard_move",
+          "evidence": "func rearrange_standard_move(source_index: int, target_index: int) -> bool:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L945"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 946,
+          "symbol": "",
+          "evidence": "if source_index < 0 or source_index >= _equipped_standard_moves.size():",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L946"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 950,
+          "symbol": "",
+          "evidence": "if source_index == target_index:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L950"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 953,
+          "symbol": "",
+          "evidence": "if typeof(next_loadout[source_index]) != TYPE_DICTIONARY:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L953"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/blood_spray.gd",
+          "line": 17,
+          "symbol": "",
+          "evidence": "var _spray_direction: Vector3 = Vector3.RIGHT",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/blood_spray.gd#L17"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 13,
+          "symbol": "",
+          "evidence": "var origin_pos: Vector2 = Vector2.ZERO",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L13"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 41,
+          "symbol": "",
+          "evidence": "origin_pos = event.position",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L41"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 42,
+          "symbol": "",
+          "evidence": "base.global_position = origin_pos",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L42"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 43,
+          "symbol": "",
+          "evidence": "pip.global_position = origin_pos",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L43"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 51,
+          "symbol": "",
+          "evidence": "var delta = event.position - origin_pos",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L51"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 58,
+          "symbol": "",
+          "evidence": "pip.global_position = origin_pos",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L58"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 66,
+          "symbol": "",
+          "evidence": "pip.global_position = origin_pos + clamped",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L66"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/blood_spray.gd",
+          "line": 36,
+          "symbol": "",
+          "evidence": "particles.draw_pass_1 = _build_drop_mesh()",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/blood_spray.gd#L36"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "@export var hide_threshold: float = 2.0",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 15,
+          "symbol": "",
+          "evidence": "@export var held_attack_threshold: float = 0.25",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L15"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 61,
+          "symbol": "",
+          "evidence": "const RUN_THRESHOLD = 0.9",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L61"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 1158,
+          "symbol": "_count_threshold_crossings",
+          "evidence": "func _count_threshold_crossings(previous_total: int, added_hits: int, threshold: int) -> int:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L1158"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 1159,
+          "symbol": "",
+          "evidence": "if added_hits <= 0 or threshold <= 0:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L1159"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 1161,
+          "symbol": "",
+          "evidence": "return maxi(0, int(floor(float(previous_total + added_hits) / float(threshold))) - int(floor(float(previous_total) / float(threshold))))",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L1161"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 1451,
+          "symbol": "",
+          "evidence": "if touch_delta.length() <= tap_max_distance and _touch_elapsed >= held_attack_threshold:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L1451"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 15,
+          "symbol": "",
+          "evidence": "var _input_block_remaining: float = 0.0",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L15"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 19,
+          "symbol": "",
+          "evidence": "_input_block_remaining = max(_input_block_remaining, duration)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L19"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 35,
+          "symbol": "",
+          "evidence": "if _input_block_remaining > 0.0:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L35"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 69,
+          "symbol": "",
+          "evidence": "if _input_block_remaining > 0.0:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L69"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/joystick.gd",
+          "line": 70,
+          "symbol": "",
+          "evidence": "_input_block_remaining = max(0.0, _input_block_remaining - _delta)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/joystick.gd#L70"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "@export var attack_power: float = 8.0",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L8"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 10,
+          "symbol": "",
+          "evidence": "@export var block_duration: float = 1.0",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L10"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "@export var block_animation_name: String = \"Block\"",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L11"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Button",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "signal move_offer_drag_requested(offer_index: int)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "@export var offer_index: int = -1",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "var drag_enabled: bool = false",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L8"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 9,
+          "symbol": "",
+          "evidence": "var drag_label: String = \"\"",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L9"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 12,
+          "symbol": "_get_drag_data",
+          "evidence": "func _get_drag_data(_at_position: Vector2):",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L12"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 13,
+          "symbol": "",
+          "evidence": "if not drag_enabled or offer_index < 0:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L13"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "return null",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L14"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Button",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "signal move_offer_drag_requested(offer_index: int)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "@export var offer_index: int = -1",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "var drag_enabled: bool = false",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L8"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 9,
+          "symbol": "",
+          "evidence": "var drag_label: String = \"\"",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L9"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 12,
+          "symbol": "_get_drag_data",
+          "evidence": "func _get_drag_data(_at_position: Vector2):",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L12"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 13,
+          "symbol": "",
+          "evidence": "if not drag_enabled or offer_index < 0:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L13"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/move_offer_button.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "return null",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/move_offer_button.gd#L14"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/music_player.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends AudioStreamPlayer2D",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/music_player.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "var unplayed_tracks: Array[AudioStream] = []",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/music_player.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "var tracks: Array[AudioStream] = []",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/music_player.gd",
+          "line": 6,
+          "symbol": "",
+          "evidence": "var current_track: AudioStream = null",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L6"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/music_player.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "var player: AudioStreamPlayer2D = null",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/music_player.gd",
+          "line": 17,
+          "symbol": "",
+          "evidence": "player = AudioStreamPlayer2D.new()",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/music_player.gd#L17"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/track_holder.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "@export var tracks: Array[AudioStream] = []",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/track_holder.gd#L3"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 140,
+          "symbol": "",
+          "evidence": "var _hitbox_base_transform: Transform3D",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L140"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 587,
+          "symbol": "",
+          "evidence": "if _hitbox_base_transform == Transform3D():",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L587"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 589,
+          "symbol": "",
+          "evidence": "_hitbox_shape.transform = _hitbox_base_transform",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L589"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 595,
+          "symbol": "",
+          "evidence": "if _hitbox_base_transform == Transform3D():",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L595"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 596,
+          "symbol": "",
+          "evidence": "_hitbox_base_transform = _hitbox_shape.transform",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L596"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 598,
+          "symbol": "",
+          "evidence": "var next_transform = _hitbox_base_transform",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L598"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 599,
+          "symbol": "",
+          "evidence": "next_transform.origin.x = _hitbox_base_transform.origin.x * applied_range",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L599"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 600,
+          "symbol": "",
+          "evidence": "_hitbox_shape.transform = next_transform",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L600"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 665,
+          "symbol": "_get_blood_spray_direction",
+          "evidence": "func _get_blood_spray_direction(hit_reaction: String) -> Vector3:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L665"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 668,
+          "symbol": "",
+          "evidence": "var reaction_name = hit_reaction.to_lower()",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L668"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 669,
+          "symbol": "",
+          "evidence": "if reaction_name.contains(\"left\"):",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L669"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 671,
+          "symbol": "",
+          "evidence": "if reaction_name.contains(\"right\"):",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L671"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 676,
+          "symbol": "_spawn_blood_spray",
+          "evidence": "func _spawn_blood_spray(hit_reaction: String) -> void:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L676"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 687,
+          "symbol": "",
+          "evidence": "effect.configure(spawn_position, _get_blood_spray_direction(hit_reaction))",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L687"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 1713,
+          "symbol": "take_damage",
+          "evidence": "func take_damage(amount: float, hit_reaction: String = \"\", knockback_vel: Vector3 = Vector3.ZERO, attacker: Node3D = null) -> void:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L1713"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 1723,
+          "symbol": "",
+          "evidence": "_spawn_blood_spray(hit_reaction)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L1723"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 1164,
+          "symbol": "_notify_style_hit_hook",
+          "evidence": "func _notify_style_hit_hook(hit_count: int, move_data) -> void:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L1164"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scripts/player.gd",
+          "line": 1789,
+          "symbol": "",
+          "evidence": "_notify_style_hit_hook(bonus_hit_count, current_attack)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scripts/player.gd#L1789"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_conductor.gd",
+          "line": 13,
+          "symbol": "",
+          "evidence": "@export var pass_lane_min_separation: float = 1.5",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L13"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_conductor.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "@export var standby_lane_min_separation: float = 1.0",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L14"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_conductor.gd",
+          "line": 29,
+          "symbol": "",
+          "evidence": "@export var spawn_lane_min: float = -2.0",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L29"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_conductor.gd",
+          "line": 30,
+          "symbol": "",
+          "evidence": "@export var spawn_lane_max: float = 2.25",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L30"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_conductor.gd",
+          "line": 453,
+          "symbol": "",
+          "evidence": "var spawn_z = _rng.randf_range(minf(spawn_lane_min, spawn_lane_max), maxf(spawn_lane_min, spawn_lane_max))",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L453"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_conductor.gd",
+          "line": 531,
+          "symbol": "_lane_has_clearance",
+          "evidence": "func _lane_has_clearance(node: Node3D, from_point: Vector3, pass_z: float, cross_x: float, player_pos: Vector3) -> bool:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L531"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_conductor.gd",
+          "line": 532,
+          "symbol": "",
+          "evidence": "if abs(pass_z - player_pos.z) < pass_lane_min_separation:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L532"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_conductor.gd",
+          "line": 536,
+          "symbol": "",
+          "evidence": "var lane_entry = Vector3(from_point.x, 0.0, pass_z)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_conductor.gd#L536"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_controller.gd",
+          "line": 91,
+          "symbol": "",
+          "evidence": "# (kept from your original)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L91"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_controller.gd",
+          "line": 135,
+          "symbol": "",
+          "evidence": "var _death_reported: bool = false",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L135"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_controller.gd",
+          "line": 707,
+          "symbol": "",
+          "evidence": "# Debug markers (optional; kept from your original)",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L707"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_controller.gd",
+          "line": 717,
+          "symbol": "",
+          "evidence": "_death_reported = false",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L717"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_controller.gd",
+          "line": 1657,
+          "symbol": "",
+          "evidence": "if not _death_reported:",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L1657"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist",
+          "repo": "Valar05/gravity-fist",
+          "path": "scenes/ai_controller.gd",
+          "line": 1658,
+          "symbol": "",
+          "evidence": "_death_reported = true",
+          "source_url": "https://github.com/Valar05/gravity-fist/blob/main/scenes/ai_controller.gd#L1658"
+        }
+      ]
+    }
+  }
+}

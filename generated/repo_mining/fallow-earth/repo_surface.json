@@ -1,0 +1,1499 @@
+{
+  "repo": "Valar05/fallow-earth",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "fallow-earth",
+    "updatedAt": "2025-04-20T17:22:23Z",
+    "url": "https://github.com/Valar05/fallow-earth",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "addons/terrain_3d/README.md",
+      "mode": "100644",
+      "sha": "45cb7cd3cf67b0e69b70c8e7d6a981ee7d972ae9",
+      "size": 3513,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 47,
+      "byte_count": 3513,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L4",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L9",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L10",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L11"
+      ]
+    },
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "a7ca57c8a8153dae4d03659161bf3c95240172c6",
+      "size": 828,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 828,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/project.godot#L14",
+        "https://github.com/Valar05/fallow-earth/blob/main/project.godot#L28",
+        "https://github.com/Valar05/fallow-earth/blob/main/project.godot#L30",
+        "https://github.com/Valar05/fallow-earth/blob/main/project.godot#L31"
+      ]
+    },
+    {
+      "path": ".vscode/settings.json",
+      "mode": "100644",
+      "sha": "884e6922bc160b36d7218a1c36e41b10b586970a",
+      "size": 131,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 131,
+      "mechanics": [
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/.vscode/settings.json#L2"
+      ]
+    },
+    {
+      "path": "MultiplayerManager.gd",
+      "mode": "100644",
+      "sha": "5f76d8eaf5f018c8cd09e159f2572ba6f625ac1b",
+      "size": 1836,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 73,
+      "byte_count": 1836,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L4",
+        "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L13",
+        "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L14",
+        "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L23",
+        "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L27",
+        "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L28",
+        "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L30",
+        "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L36"
+      ]
+    },
+    {
+      "path": "PlayerController.gd",
+      "mode": "100644",
+      "sha": "52f84951fd52d63ef4a77d5790d5842fdbfb47d5",
+      "size": 2942,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 102,
+      "byte_count": 2942,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L14",
+        "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L23",
+        "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L34",
+        "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L35",
+        "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L37",
+        "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L38",
+        "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L39",
+        "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L41"
+      ]
+    },
+    {
+      "path": "UI/joystick.gd",
+      "mode": "100644",
+      "sha": "80b1c50c2ae8547248d7ffea4869935e1423f256",
+      "size": 1640,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 53,
+      "byte_count": 1640,
+      "mechanics": [
+        "deck_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/UI/joystick.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/UI/joystick.gd#L11",
+        "https://github.com/Valar05/fallow-earth/blob/main/UI/joystick.gd#L26",
+        "https://github.com/Valar05/fallow-earth/blob/main/UI/joystick.gd#L27",
+        "https://github.com/Valar05/fallow-earth/blob/main/UI/joystick.gd#L28",
+        "https://github.com/Valar05/fallow-earth/blob/main/UI/joystick.gd#L36",
+        "https://github.com/Valar05/fallow-earth/blob/main/UI/joystick.gd#L39",
+        "https://github.com/Valar05/fallow-earth/blob/main/UI/joystick.gd#L46"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/extras/import_sgt.gd",
+      "mode": "100644",
+      "sha": "44bb685f9c35fd5dd105c11a735a91fbe2a4db96",
+      "size": 1827,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 42,
+      "byte_count": 1827,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L4",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L8"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/extras/project_on_terrain3d.gd",
+      "mode": "100644",
+      "sha": "d8123522edb2f6bfe9edc2d20918f75689d5a59c",
+      "size": 3178,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 96,
+      "byte_count": 3178,
+      "mechanics": [
+        "ai_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L4",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L8"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/extras/region_mover.gd",
+      "mode": "100644",
+      "sha": "78dcbd8c3a75d7f58c8a2ef6c7d6594434419ffd",
+      "size": 1787,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 52,
+      "byte_count": 1787,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/region_mover.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/region_mover.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/region_mover.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/region_mover.gd#L4",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/region_mover.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/region_mover.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/region_mover.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/region_mover.gd#L8"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/menu/bake_lod_dialog.gd",
+      "mode": "100644",
+      "sha": "ada4fb29940cb0fdf7c9255e3bdba2d2368d73a8",
+      "size": 784,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 30,
+      "byte_count": 784,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/bake_lod_dialog.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/bake_lod_dialog.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/bake_lod_dialog.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/bake_lod_dialog.gd#L4",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/bake_lod_dialog.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/bake_lod_dialog.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/bake_lod_dialog.gd#L10",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/bake_lod_dialog.gd#L11"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/menu/baker.gd",
+      "mode": "100644",
+      "sha": "08064b60529aae9ad7a1e7b8be6a1c058ecdc0b4",
+      "size": 15970,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 398,
+      "byte_count": 15970,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L10"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/menu/channel_packer.gd",
+      "mode": "100644",
+      "sha": "f2699d7caee455ec208f26256e2d54d027900cad",
+      "size": 18243,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 463,
+      "byte_count": 18243,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L9"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/menu/channel_packer_dragdrop.gd",
+      "mode": "100644",
+      "sha": "154c8ad4fcd26292be7efdbf443ad0dcc568e435",
+      "size": 503,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 503,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer_dragdrop.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer_dragdrop.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer_dragdrop.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer_dragdrop.gd#L4",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer_dragdrop.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer_dragdrop.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer_dragdrop.gd#L9",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer_dragdrop.gd#L10"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/menu/directory_setup.gd",
+      "mode": "100644",
+      "sha": "b8517474060d7df58d84198c75c3e9164b112945",
+      "size": 2731,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 86,
+      "byte_count": 2731,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/directory_setup.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/directory_setup.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/directory_setup.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/directory_setup.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/directory_setup.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/directory_setup.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/directory_setup.gd#L9",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/directory_setup.gd#L10"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/menu/terrain_menu.gd",
+      "mode": "100644",
+      "sha": "c53656f2433db660983948b8add6767bd57820bf",
+      "size": 3225,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 83,
+      "byte_count": 3225,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/terrain_menu.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/terrain_menu.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/terrain_menu.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/terrain_menu.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/terrain_menu.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/terrain_menu.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/terrain_menu.gd#L10",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/terrain_menu.gd#L11"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/src/asset_dock.gd",
+      "mode": "100644",
+      "sha": "cfa28fc14eb3283ebc79db316cde8569e209327b",
+      "size": 27945,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 883,
+      "byte_count": 27945,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L4",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L10"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/src/double_slider.gd",
+      "mode": "100644",
+      "sha": "81194565c33372df92ce7e06702604a2491a8970",
+      "size": 4358,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 164,
+      "byte_count": 4358,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/double_slider.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/double_slider.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/double_slider.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/double_slider.gd#L4",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/double_slider.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/double_slider.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/double_slider.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/double_slider.gd#L9"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/src/editor_plugin.gd",
+      "mode": "100644",
+      "sha": "e1934ccd25f3841cf80c8109d1214119300a2f36",
+      "size": 13331,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 397,
+      "byte_count": 13331,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/editor_plugin.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/editor_plugin.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/editor_plugin.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/editor_plugin.gd#L4",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/editor_plugin.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/editor_plugin.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/editor_plugin.gd#L9",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/editor_plugin.gd#L10"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/src/gradient_operation_builder.gd",
+      "mode": "100644",
+      "sha": "8bbafd4ff8981c22eba6cbce4ad63e4b7fed554d",
+      "size": 1513,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 1513,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/gradient_operation_builder.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/gradient_operation_builder.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/gradient_operation_builder.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/gradient_operation_builder.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/gradient_operation_builder.gd#L9",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/gradient_operation_builder.gd#L10",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/gradient_operation_builder.gd#L13",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/gradient_operation_builder.gd#L14"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/src/multi_picker.gd",
+      "mode": "100644",
+      "sha": "717ca7b5c1d0ca9b03f72cfb3b8a25d14cc914b8",
+      "size": 1937,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 88,
+      "byte_count": 1937,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/multi_picker.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/multi_picker.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/multi_picker.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/multi_picker.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/multi_picker.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/multi_picker.gd#L10",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/multi_picker.gd#L11",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/multi_picker.gd#L14"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/src/operation_builder.gd",
+      "mode": "100644",
+      "sha": "2a558beda7a9338d6123884d6b44ac6224bd5dc2",
+      "size": 523,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 25,
+      "byte_count": 523,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/operation_builder.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/operation_builder.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/operation_builder.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/operation_builder.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/operation_builder.gd#L9",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/operation_builder.gd#L12",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/operation_builder.gd#L13",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/operation_builder.gd#L16"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/src/region_gizmo.gd",
+      "mode": "100644",
+      "sha": "c74c8f503211f5f38225d1ad59f1d5895ef1ba74",
+      "size": 2244,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 68,
+      "byte_count": 2244,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/region_gizmo.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/region_gizmo.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/region_gizmo.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/region_gizmo.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/region_gizmo.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/region_gizmo.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/region_gizmo.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/region_gizmo.gd#L9"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/src/tool_settings.gd",
+      "mode": "100644",
+      "sha": "6145c9b773d44e3565075c3db7cfd9531fd1520b",
+      "size": 27009,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 692,
+      "byte_count": 27009,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/tool_settings.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/tool_settings.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/tool_settings.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/tool_settings.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/tool_settings.gd#L6",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/tool_settings.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/tool_settings.gd#L9",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/tool_settings.gd#L10"
+      ]
+    },
+    {
+      "path": "addons/terrain_3d/src/toolbar.gd",
+      "mode": "100644",
+      "sha": "0cc80fdb474c28a9eb0f14d8e6e8c8a54c8a912f",
+      "size": 6555,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 145,
+      "byte_count": 6555,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/toolbar.gd#L1",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/toolbar.gd#L2",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/toolbar.gd#L3",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/toolbar.gd#L5",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/toolbar.gd#L7",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/toolbar.gd#L8",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/toolbar.gd#L9",
+        "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/toolbar.gd#L10"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 3130,
+    "by_origin": {
+      "github": 3130
+    },
+    "by_project": {
+      "fallow-earth": 3130
+    },
+    "by_mechanic": {
+      "ai_pressure": 3092,
+      "asset_import_pipeline": 810,
+      "text_console_runtime": 330,
+      "web_choice_player": 129,
+      "resource_upgrade_loop": 89,
+      "pose_animation_tools": 64,
+      "deck_pressure": 48,
+      "source_packet_generation": 32,
+      "event_clouds": 3,
+      "tts_audio_pipeline": 1,
+      "writing_corpus_review": 1,
+      "validation_pipeline": 1,
+      "touch_lane_combat": 1,
+      "vehicle_survival": 1
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 1,
+          "symbol": "",
+          "evidence": "![Terrain3D Logo](/doc/docs/images/terrain3d.jpg)",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 3,
+          "symbol": "Terrain3D",
+          "evidence": "# Terrain3D",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "A high performance, editable terrain system for Godot 4.",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 7,
+          "symbol": "Features",
+          "evidence": "## Features",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "* Written in C++ as a GDExtension addon, which works with official engine builds",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "* Can be accessed by GDScript, C#, and any language Godot supports",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "* Geometric Clipmap Mesh Terrain, as used in The Witcher 3. See [System Architecture](https://terrain3d.readthedocs.io/en/stable/docs/system_architecture.html)",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "* Terrains as small as 64x64m up to 65.5x65.5km (4295km^2) in variable sized regions",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L11"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "* Geometric Clipmap Mesh Terrain, as used in The Witcher 3. See [System Architecture](https://terrain3d.readthedocs.io/en/stable/docs/system_architecture.html)",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L10"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "* Geometric Clipmap Mesh Terrain, as used in The Witcher 3. See [System Architecture](https://terrain3d.readthedocs.io/en/stable/docs/system_architecture.html)",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "And other contributors displayed on the right of the github page and in [AUTHORS.md](https://terrain3d.readthedocs.io/en/stable/docs/authors.html).",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "Please see [CONTRIBUTING.md](https://github.com/TokisanGames/Terrain3D/blob/main/CONTRIBUTING.md) if you would like to help make Terrain3D the best terrain system for Godot.",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "MultiplayerManager.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "@export var camera_rig_scene: PackedScene",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "MultiplayerManager.gd",
+          "line": 51,
+          "symbol": "",
+          "evidence": "player.global_transform.origin = spawn_zone.global_transform.origin",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L51"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "MultiplayerManager.gd",
+          "line": 65,
+          "symbol": "",
+          "evidence": "# Spawn camera rig",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L65"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "MultiplayerManager.gd",
+          "line": 66,
+          "symbol": "",
+          "evidence": "var cam = camera_rig_scene.instantiate()",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L66"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "PlayerController.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "var cam_rig = null",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L14"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "* Geometric Clipmap Mesh Terrain, as used in The Witcher 3. See [System Architecture](https://terrain3d.readthedocs.io/en/stable/docs/system_architecture.html)",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "* Imports heightmaps from [HTerrain](https://github.com/Zylann/godot_heightmap_plugin/), WorldMachine, Unity, Unreal and any tool that can export a heightmap (raw/r16/exr/+). Se...",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "1. Read the [Installation & Upgrades](https://terrain3d.readthedocs.io/en/stable/docs/installation.html) instructions.",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "2. For support, read [Getting Help](https://terrain3d.readthedocs.io/en/stable/docs/getting_help.html) and join our [Discord server](https://tokisan.com/discord).",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "3. Watch the [tutorial videos](https://terrain3d.readthedocs.io/en/stable/docs/tutorial_videos.html).",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "And other contributors displayed on the right of the github page and in [AUTHORS.md](https://terrain3d.readthedocs.io/en/stable/docs/authors.html).",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "project.godot",
+          "line": 28,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/project.godot#L28"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "project.godot",
+          "line": 30,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/project.godot#L30"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "* Imports heightmaps from [HTerrain](https://github.com/Zylann/godot_heightmap_plugin/), WorldMachine, Unity, Unreal and any tool that can export a heightmap (raw/r16/exr/+). Se...",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 44,
+          "symbol": "License",
+          "evidence": "## License",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "This addon has been released under the [MIT License](https://github.com/TokisanGames/Terrain3D/blob/main/LICENSE.txt).",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "project.godot",
+          "line": 31,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/project.godot#L31"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "PlayerController.gd",
+          "line": 66,
+          "symbol": "",
+          "evidence": "anim_tree.set(\"parameters/Locomotion/blend_position\", velocity.length())",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L66"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/extras/import_sgt.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "# Copyright © 2025 Cory Petkovsek, Roope Palmroos, and Contributors.",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/extras/import_sgt.gd",
+          "line": 2,
+          "symbol": "",
+          "evidence": "# Import From SimpleGrassTextured",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L2"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/extras/import_sgt.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "#",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L3"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "1. Read the [Installation & Upgrades](https://terrain3d.readthedocs.io/en/stable/docs/installation.html) instructions.",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/extras/region_mover.gd",
+          "line": 52,
+          "symbol": "",
+          "evidence": "EditorInterface.get_resource_filesystem().scan()",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/region_mover.gd#L52"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/baker.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Assign it a blank NavigationMesh resource,",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/baker.gd",
+          "line": 19,
+          "symbol": "",
+          "evidence": "the best results, adjust the settings on the NavigationMesh resource to match",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L19"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/baker.gd",
+          "line": 80,
+          "symbol": "",
+          "evidence": "if mesh_instance.mesh.resource_path:",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L80"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/baker.gd",
+          "line": 81,
+          "symbol": "",
+          "evidence": "var path := mesh_instance.mesh.resource_path",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L81"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/baker.gd",
+          "line": 84,
+          "symbol": "",
+          "evidence": "undo.add_do_method(ResourceSaver, &\"save\", mesh)",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L84"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/baker.gd",
+          "line": 85,
+          "symbol": "",
+          "evidence": "undo.add_undo_method(ResourceSaver, &\"save\", mesh_instance.mesh)",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L85"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "MultiplayerManager.gd",
+          "line": 51,
+          "symbol": "",
+          "evidence": "player.global_transform.origin = spawn_zone.global_transform.origin",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/MultiplayerManager.gd#L51"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "PlayerController.gd",
+          "line": 34,
+          "symbol": "",
+          "evidence": "var forward = -global_transform.basis.z",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L34"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "PlayerController.gd",
+          "line": 35,
+          "symbol": "",
+          "evidence": "var right = global_transform.basis.x",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L35"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "PlayerController.gd",
+          "line": 38,
+          "symbol": "",
+          "evidence": "forward = -cam_rig.global_transform.basis.z",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L38"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "PlayerController.gd",
+          "line": 39,
+          "symbol": "",
+          "evidence": "right = cam_rig.global_transform.basis.x",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L39"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "PlayerController.gd",
+          "line": 72,
+          "symbol": "",
+          "evidence": "var origin = global_transform.origin",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L72"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "PlayerController.gd",
+          "line": 73,
+          "symbol": "",
+          "evidence": "var forward_vec = -global_transform.basis.z.normalized()",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L73"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "PlayerController.gd",
+          "line": 95,
+          "symbol": "",
+          "evidence": "pivot.transform.basis = pivot.transform.basis.slerp(target_basis, delta * tilt_speed)",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/PlayerController.gd#L95"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "UI/joystick.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "@export var hide_threshold: float = 2.0",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/UI/joystick.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "UI/joystick.gd",
+          "line": 46,
+          "symbol": "",
+          "evidence": "if pip.global_position.distance_to(base.global_position) < hide_threshold:",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/UI/joystick.gd#L46"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/channel_packer.gd",
+          "line": 102,
+          "symbol": "",
+          "evidence": "await RenderingServer.frame_post_draw",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L102"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/channel_packer.gd",
+          "line": 364,
+          "symbol": "",
+          "evidence": "await RenderingServer.frame_post_draw",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L364"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/src/asset_dock.gd",
+          "line": 246,
+          "symbol": "",
+          "evidence": "mesh_asset.queue_redraw()",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L246"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/src/asset_dock.gd",
+          "line": 596,
+          "symbol": "",
+          "evidence": "redraw()",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L596"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/src/asset_dock.gd",
+          "line": 603,
+          "symbol": "redraw",
+          "evidence": "func redraw() -> void:",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L603"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/src/asset_dock.gd",
+          "line": 626,
+          "symbol": "",
+          "evidence": "redraw()",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/src/asset_dock.gd#L626"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/extras/import_sgt.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "# 1. Click import. The output window and console will report when finished.",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/baker.gd",
+          "line": 292,
+          "symbol": "",
+          "evidence": "# This function has to make a choice of which polygon to remove when an overlap is detected,",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/baker.gd#L292"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/channel_packer.gd",
+          "line": 28,
+          "symbol": "",
+          "evidence": "var lumin_height_button: Button",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L28"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/channel_packer.gd",
+          "line": 34,
+          "symbol": "",
+          "evidence": "var height_channel: Array[Button]",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L34"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/channel_packer.gd",
+          "line": 36,
+          "symbol": "",
+          "evidence": "var roughness_channel: Array[Button]",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L36"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/channel_packer.gd",
+          "line": 62,
+          "symbol": "",
+          "evidence": "window.find_child(\"CloseButton\").pressed.connect(_on_close_requested)",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L62"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/channel_packer.gd",
+          "line": 68,
+          "symbol": "",
+          "evidence": "lumin_height_button = window.find_child(\"LuminanceAsHeightButton\") as Button",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L68"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/channel_packer.gd",
+          "line": 73,
+          "symbol": "",
+          "evidence": "resize_option_box = window.find_child(\"ResizeOptionButton\") as SpinBox",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L73"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/extras/import_sgt.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "# 1. Click import. The output window and console will report when finished.",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/import_sgt.gd#L11"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/extras/project_on_terrain3d.gd",
+          "line": 27,
+          "symbol": "",
+          "evidence": "#can_restrict_height = false",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L27"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/extras/project_on_terrain3d.gd",
+          "line": 50,
+          "symbol": "",
+          "evidence": "#func _process_transforms(transforms, domain, _seed) -> void:",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L50"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/extras/project_on_terrain3d.gd",
+          "line": 55,
+          "symbol": "",
+          "evidence": "#_terrain = domain.get_root().get_node_or_null(terrain_node)",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L55"
+        },
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/extras/project_on_terrain3d.gd",
+          "line": 66,
+          "symbol": "",
+          "evidence": "#var gt: Transform3D = domain.get_global_transform()",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/extras/project_on_terrain3d.gd#L66"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/channel_packer.gd",
+          "line": 406,
+          "symbol": "",
+          "evidence": "_show_message(WARN, \"Normal Texture Not Orthoganol to UV plane.\\nFor Compatability with Detiling and Rotation, Select Orthoganolize Normals\")",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L406"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "fallow-earth",
+          "repo": "Valar05/fallow-earth",
+          "path": "addons/terrain_3d/menu/channel_packer.gd",
+          "line": 406,
+          "symbol": "",
+          "evidence": "_show_message(WARN, \"Normal Texture Not Orthoganol to UV plane.\\nFor Compatability with Detiling and Rotation, Select Orthoganolize Normals\")",
+          "source_url": "https://github.com/Valar05/fallow-earth/blob/main/addons/terrain_3d/menu/channel_packer.gd#L406"
+        }
+      ]
+    }
+  }
+}

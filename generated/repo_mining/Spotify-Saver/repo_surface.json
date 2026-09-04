@@ -1,0 +1,497 @@
+{
+  "repo": "Valar05/Spotify-Saver",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "Spotify-Saver",
+    "updatedAt": "2025-04-29T21:29:29Z",
+    "url": "https://github.com/Valar05/Spotify-Saver",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 4,
+  "selected_files": [
+    {
+      "path": "functions/package.json",
+      "mode": "100644",
+      "sha": "5c9e925d0ba16ee318d48d1875521c6a216c99ed",
+      "size": 272,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 272,
+      "mechanics": [
+        "delayed_consequences",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/package.json#L2",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/package.json#L3",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/package.json#L10"
+      ]
+    },
+    {
+      "path": "app.js",
+      "mode": "100644",
+      "sha": "550b82d1b6d6c68581e3454fda65b957d67363b2",
+      "size": 3842,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 108,
+      "byte_count": 3842,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L2",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L15",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L21",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L27",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L28",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L35",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L36",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L39"
+      ]
+    },
+    {
+      "path": "firebase.json",
+      "mode": "100644",
+      "sha": "1d7f5f1feec3b343125f1c10d2d800f9bb4c30ef",
+      "size": 756,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 40,
+      "byte_count": 756,
+      "mechanics": [
+        "asset_import_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L6",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L8",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L12",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L18",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L31",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L32",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L37"
+      ]
+    },
+    {
+      "path": "functions/index.js",
+      "mode": "100644",
+      "sha": "5edb1f6d38accc4ded9fc385022124b9e479ba58",
+      "size": 1303,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 44,
+      "byte_count": 1303,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L1",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L2",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L5",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L21",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L25",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L38",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L41",
+        "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L42"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 38,
+    "by_origin": {
+      "github": 38
+    },
+    "by_project": {
+      "Spotify-Saver": 38
+    },
+    "by_mechanic": {
+      "ai_pressure": 15,
+      "web_choice_player": 9,
+      "asset_import_pipeline": 7,
+      "text_console_runtime": 5,
+      "validation_pipeline": 2,
+      "delayed_consequences": 1,
+      "touch_lane_combat": 1,
+      "pose_animation_tools": 1
+    },
+    "examples": {
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "functions/package.json",
+          "line": 2,
+          "symbol": "name",
+          "evidence": "\"name\": \"spotify-saver-functions\",",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/functions/package.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "functions/package.json",
+          "line": 3,
+          "symbol": "description",
+          "evidence": "\"description\": \"Firebase Functions backend for Spotify Saver\",",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/functions/package.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 2,
+          "symbol": "",
+          "evidence": "const redirectUri = 'https://spotify-saver-e86fe.web.app/'; // Your real homepage",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L2"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 15,
+          "symbol": "",
+          "evidence": "window.onload = async () => {",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L15"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 21,
+          "symbol": "",
+          "evidence": "const response = await fetch('https://us-central1-spotify-saver-e86fe.cloudfunctions.net/getToken', {",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L21"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 57,
+          "symbol": "",
+          "evidence": "alert('Please upload a playlist JSON file.');",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L57"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "firebase.json",
+          "line": 6,
+          "symbol": "source",
+          "evidence": "\"source\": \"/index.html\",",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L6"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "firebase.json",
+          "line": 32,
+          "symbol": "destination",
+          "evidence": "\"destination\": \"/index.html\"",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L32"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "functions/package.json",
+          "line": 10,
+          "symbol": "lint",
+          "evidence": "\"lint\": \"echo No linting necessary\"",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/functions/package.json#L10"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "functions/package.json",
+          "line": 10,
+          "symbol": "lint",
+          "evidence": "\"lint\": \"echo No linting necessary\"",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/functions/package.json#L10"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "firebase.json",
+          "line": 8,
+          "symbol": "",
+          "evidence": "{ \"key\": \"Cache-Control\", \"value\": \"no-cache, no-store, must-revalidate\" }",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L8"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 21,
+          "symbol": "",
+          "evidence": "const response = await fetch('https://us-central1-spotify-saver-e86fe.cloudfunctions.net/getToken', {",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L21"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 27,
+          "symbol": "",
+          "evidence": "const text = await response.text(); // <-- Read raw text first for debugging",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L27"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 39,
+          "symbol": "",
+          "evidence": "document.getElementById('status').innerText = 'Failed to log in.';",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L39"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 43,
+          "symbol": "",
+          "evidence": "document.getElementById('status').innerText = 'Failed to log in.';",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L43"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 62,
+          "symbol": "",
+          "evidence": "const text = await file.text();",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L62"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 65,
+          "symbol": "",
+          "evidence": "const userResponse = await fetch('https://api.spotify.com/v1/me', {",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L65"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 68,
+          "symbol": "",
+          "evidence": "const user = await userResponse.json();",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L68"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 70,
+          "symbol": "",
+          "evidence": "const playlistResponse = await fetch(`https://api.spotify.com/v1/users/${user.id}/playlists`, {",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L70"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 28,
+          "symbol": "",
+          "evidence": "console.log('Raw fetch response:', text);",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L28"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 35,
+          "symbol": "",
+          "evidence": "document.getElementById('loginButton').style.display = 'none';",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L35"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 42,
+          "symbol": "",
+          "evidence": "console.error('Error fetching token:', error);",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L42"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 103,
+          "symbol": "",
+          "evidence": "console.log(`Track not found: ${track.title} by ${track.artist}`);",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L103"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "functions/index.js",
+          "line": 41,
+          "symbol": "",
+          "evidence": "console.error('Token error:', err);",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L41"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "app.js",
+          "line": 36,
+          "symbol": "",
+          "evidence": "document.getElementById('afterLogin').style.display = 'block';",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/app.js#L36"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "firebase.json",
+          "line": 6,
+          "symbol": "source",
+          "evidence": "\"source\": \"/index.html\",",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L6"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "firebase.json",
+          "line": 12,
+          "symbol": "source",
+          "evidence": "\"source\": \"**/*.js\",",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L12"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "firebase.json",
+          "line": 18,
+          "symbol": "source",
+          "evidence": "\"source\": \"**\",",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L18"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "firebase.json",
+          "line": 31,
+          "symbol": "source",
+          "evidence": "\"source\": \"**\",",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L31"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "firebase.json",
+          "line": 37,
+          "symbol": "source",
+          "evidence": "\"source\":\"functions\",",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/firebase.json#L37"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "functions/index.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import fetch from 'node-fetch';",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "functions/index.js",
+          "line": 2,
+          "symbol": "",
+          "evidence": "import functions from 'firebase-functions';",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L2"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "Spotify-Saver",
+          "repo": "Valar05/Spotify-Saver",
+          "path": "functions/index.js",
+          "line": 5,
+          "symbol": "",
+          "evidence": "res.set('Access-Control-Allow-Origin', '*');",
+          "source_url": "https://github.com/Valar05/Spotify-Saver/blob/main/functions/index.js#L5"
+        }
+      ]
+    }
+  }
+}

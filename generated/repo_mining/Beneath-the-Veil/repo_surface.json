@@ -1,0 +1,1444 @@
+{
+  "repo": "Valar05/Beneath-the-Veil",
+  "branch": "master",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "Beneath-the-Veil",
+    "updatedAt": "2020-07-30T03:03:31Z",
+    "url": "https://github.com/Valar05/Beneath-the-Veil",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+      "mode": "100644",
+      "sha": "e1b3db4a4f28bbc7cad4fea2bf6400d478d5cd19",
+      "size": 2363,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 70,
+      "byte_count": 2363,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L9",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L10",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L11",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L12"
+      ]
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "4d8ad798b87c22c95031bef7fc1256164d9171ed",
+      "size": 117,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 117,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "Assets/Scenes/Game.unity",
+      "mode": "100644",
+      "sha": "355dc904091308ba6ef6b776373088751cfb4416",
+      "size": 50763,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 1821,
+      "byte_count": 50763,
+      "mechanics": []
+    },
+    {
+      "path": "Assets/Scenes/Game.unity.meta",
+      "mode": "100644",
+      "sha": "49be5f938dc399dfa77851862b3d0fc174423df9",
+      "size": 155,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 155,
+      "mechanics": []
+    },
+    {
+      "path": "Packages/manifest.json",
+      "mode": "100644",
+      "sha": "25eb36ece0d52dee614a2aeb9d689acfc193849d",
+      "size": 1808,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 45,
+      "byte_count": 1808,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L8"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs",
+      "mode": "100644",
+      "sha": "0d3a676b63af93eb3b19d13ed2bcfac877059a33",
+      "size": 9619,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 258,
+      "byte_count": 9619,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+      "mode": "100644",
+      "sha": "cc4941b53c3d53543d2234648a96c382e6aa89a7",
+      "size": 10599,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 279,
+      "byte_count": 10599,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs",
+      "mode": "100644",
+      "sha": "a2c636ca5d39e551b7cd187d0cbdd589ea2159c9",
+      "size": 1508,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 1508,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierEditor.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs",
+      "mode": "100644",
+      "sha": "c8f1778fc0d99f3bbd05acdccaaed0ce82ddc747",
+      "size": 5399,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 146,
+      "byte_count": 5399,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs",
+      "mode": "100644",
+      "sha": "395273febcccfa4aa46c0072271eb3db6fb5f670",
+      "size": 20165,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 485,
+      "byte_count": 20165,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs#L8"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Editor/NavMeshPrefabInstanceEditor.cs",
+      "mode": "100644",
+      "sha": "11c49a33045acae2e39ecd9d19cd4bc1a6642c8c",
+      "size": 4442,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 146,
+      "byte_count": 4442,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Editor/NavMeshPrefabInstanceEditor.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Editor/NavMeshPrefabInstanceEditor.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Editor/NavMeshPrefabInstanceEditor.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Editor/NavMeshPrefabInstanceEditor.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Editor/NavMeshPrefabInstanceEditor.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Editor/NavMeshPrefabInstanceEditor.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Editor/NavMeshPrefabInstanceEditor.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Editor/NavMeshPrefabInstanceEditor.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/AgentLinkMover.cs",
+      "mode": "100644",
+      "sha": "fd69f95d7f0fb898af9d164e64008464b9a4483c",
+      "size": 2819,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 79,
+      "byte_count": 2819,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/AgentLinkMover.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/AgentLinkMover.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/AgentLinkMover.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/AgentLinkMover.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/AgentLinkMover.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/AgentLinkMover.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/AgentLinkMover.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/AgentLinkMover.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/ClickToMove.cs",
+      "mode": "100644",
+      "sha": "4546da30da8e30fa926dba11e7e0067dfbcce80e",
+      "size": 677,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 25,
+      "byte_count": 677,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/ClickToMove.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/ClickToMove.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/ClickToMove.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/ClickToMove.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/ClickToMove.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/ClickToMove.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/ClickToMove.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/ClickToMove.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/DestroyOnTrigger.cs",
+      "mode": "100644",
+      "sha": "3b91f21f8176521b94bfc74cdd10adb4fcd828f4",
+      "size": 315,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 13,
+      "byte_count": 315,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DestroyOnTrigger.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DestroyOnTrigger.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DestroyOnTrigger.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DestroyOnTrigger.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DestroyOnTrigger.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DestroyOnTrigger.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DestroyOnTrigger.cs#L9",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DestroyOnTrigger.cs#L10"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/DungeonManager.cs",
+      "mode": "100644",
+      "sha": "3914a894ba4cc4ba70afa9d2ef84970ea161254c",
+      "size": 1470,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 50,
+      "byte_count": 1470,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DungeonManager.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DungeonManager.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DungeonManager.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DungeonManager.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DungeonManager.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DungeonManager.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DungeonManager.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/DungeonManager.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/EnableIffSleeping.cs",
+      "mode": "100644",
+      "sha": "b7675d91624a278723aca731907eae871158a19b",
+      "size": 618,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 26,
+      "byte_count": 618,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/EnableIffSleeping.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/EnableIffSleeping.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/EnableIffSleeping.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/EnableIffSleeping.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/EnableIffSleeping.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/EnableIffSleeping.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/EnableIffSleeping.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/EnableIffSleeping.cs#L10"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/FreeCam.cs",
+      "mode": "100644",
+      "sha": "6fd58afe5eafe4da1ab09b1f9051397bac6e391e",
+      "size": 1769,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 58,
+      "byte_count": 1769,
+      "mechanics": [
+        "asset_import_pipeline",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/FreeCam.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/FreeCam.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/FreeCam.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/FreeCam.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/FreeCam.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/FreeCam.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/FreeCam.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/FreeCam.cs#L10"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/LocalNavMeshBuilder.cs",
+      "mode": "100644",
+      "sha": "7339b34df033c2e17b8cf9d2f24ef6e292afc250",
+      "size": 2705,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 94,
+      "byte_count": 2705,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/LocalNavMeshBuilder.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/LocalNavMeshBuilder.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/LocalNavMeshBuilder.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/LocalNavMeshBuilder.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/LocalNavMeshBuilder.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/LocalNavMeshBuilder.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/LocalNavMeshBuilder.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/LocalNavMeshBuilder.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/MeshTool.cs",
+      "mode": "100644",
+      "sha": "69e7c65f607c317f0208714c307c27bf212e8680",
+      "size": 2524,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 76,
+      "byte_count": 2524,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/MeshTool.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/MeshTool.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/MeshTool.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/MeshTool.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/MeshTool.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/MeshTool.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/MeshTool.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/MeshTool.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs",
+      "mode": "100644",
+      "sha": "5c14fd516c55f09bdf6f24b10fa401ae8aaee979",
+      "size": 3247,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 134,
+      "byte_count": 3247,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/NavMeshSourceTag.cs",
+      "mode": "100644",
+      "sha": "375ff635291d47df35f78524dd86030bdb1af501",
+      "size": 2219,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 79,
+      "byte_count": 2219,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshSourceTag.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshSourceTag.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshSourceTag.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshSourceTag.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshSourceTag.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshSourceTag.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshSourceTag.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshSourceTag.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/Oscillator.cs",
+      "mode": "100644",
+      "sha": "ce126285a4d2c022d32af4cd6bd5fe8b29d4de4a",
+      "size": 527,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 527,
+      "mechanics": [
+        "asset_import_pipeline",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/Oscillator.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/Oscillator.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/Oscillator.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/Oscillator.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/Oscillator.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/Oscillator.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/Oscillator.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/Oscillator.cs#L9"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/RandomInstancing.cs",
+      "mode": "100644",
+      "sha": "93b740ae2fbd3b6650f6a184748aaa0444c3b2f0",
+      "size": 2938,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 117,
+      "byte_count": 2938,
+      "mechanics": [
+        "asset_import_pipeline",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomInstancing.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomInstancing.cs#L3",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomInstancing.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomInstancing.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomInstancing.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomInstancing.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomInstancing.cs#L9",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomInstancing.cs#L10"
+      ]
+    },
+    {
+      "path": "Assets/NavMeshComponents/Examples/Scripts/RandomWalk.cs",
+      "mode": "100644",
+      "sha": "a97789192cf154ec37c77ce8be74760ed489bad4",
+      "size": 491,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 491,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomWalk.cs#L1",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomWalk.cs#L2",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomWalk.cs#L4",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomWalk.cs#L5",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomWalk.cs#L6",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomWalk.cs#L7",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomWalk.cs#L8",
+        "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/RandomWalk.cs#L9"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1907,
+    "by_origin": {
+      "github": 1907
+    },
+    "by_project": {
+      "Beneath-the-Veil": 1907
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 1907,
+      "source_packet_generation": 85,
+      "ai_pressure": 61,
+      "tts_audio_pipeline": 45,
+      "deck_pressure": 37,
+      "pose_animation_tools": 32,
+      "text_console_runtime": 23,
+      "web_choice_player": 22,
+      "touch_lane_combat": 3,
+      "writing_corpus_review": 2,
+      "validation_pipeline": 2,
+      "vehicle_survival": 1
+    },
+    "examples": {
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 1,
+          "symbol": "2dTileBasedPathFinding",
+          "evidence": "# 2dTileBasedPathFinding",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A very simple 2d tile-based pathfinding for unity, with tiles price supported.",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 5,
+          "symbol": "About",
+          "evidence": "## About",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "This code is mostly based on the code from [this tutorial](https://www.youtube.com/watch?v=mZfyt03LDH4), with the following modifications:",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Removed all rendering and debug components.",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Converted it into a script-only solution, that relay on grid input via code.",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Separated into files, some docs, minor refactoring.",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Added a more simple, straight-forward API.",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L12"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Removed all rendering and debug components.",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 8,
+          "symbol": "com.unity.render-pipelines.universal",
+          "evidence": "\"com.unity.render-pipelines.universal\": \"7.3.1\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L8"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 34,
+          "symbol": "com.unity.modules.unitywebrequest",
+          "evidence": "\"com.unity.modules.unitywebrequest\": \"1.0.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L34"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 35,
+          "symbol": "com.unity.modules.unitywebrequestassetbundle",
+          "evidence": "\"com.unity.modules.unitywebrequestassetbundle\": \"1.0.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L35"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 36,
+          "symbol": "com.unity.modules.unitywebrequestaudio",
+          "evidence": "\"com.unity.modules.unitywebrequestaudio\": \"1.0.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L36"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 37,
+          "symbol": "com.unity.modules.unitywebrequesttexture",
+          "evidence": "\"com.unity.modules.unitywebrequesttexture\": \"1.0.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L37"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 38,
+          "symbol": "com.unity.modules.unitywebrequestwww",
+          "evidence": "\"com.unity.modules.unitywebrequestwww\": \"1.0.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L38"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 139,
+          "symbol": "",
+          "evidence": "static void RenderBoxGizmo(NavMeshLink navLink, GizmoType gizmoType)",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L139"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Added a more simple, straight-forward API.",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "But the code in this repo is newer and will be maintained.",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 13,
+          "symbol": "com.unity.modules.ai",
+          "evidence": "\"com.unity.modules.ai\": \"1.0.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L13"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 27,
+          "symbol": "com.unity.modules.terrain",
+          "evidence": "\"com.unity.modules.terrain\": \"1.0.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L27"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 28,
+          "symbol": "com.unity.modules.terrainphysics",
+          "evidence": "\"com.unity.modules.terrainphysics\": \"1.0.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L28"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs",
+          "line": 2,
+          "symbol": "",
+          "evidence": "using UnityEngine.AI;",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L2"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs",
+          "line": 4,
+          "symbol": "",
+          "evidence": "namespace UnityEditor.AI",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L4"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs",
+          "line": 10,
+          "symbol": "",
+          "evidence": "var areaIndex = -1;",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L10"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Note: originally this was hosted here: https://github.com/RonenNess/Unity-2d-pathfinding",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "First, copy the folder 'PathFinding' to anywhere you want your asset scripts folder. Once you have it in your project, use the pathfinding like this:",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 121,
+          "symbol": "",
+          "evidence": "static Vector3 CalcLinkRight(NavMeshLink navLink)",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L121"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 129,
+          "symbol": "",
+          "evidence": "var right = CalcLinkRight(navLink);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L129"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 132,
+          "symbol": "",
+          "evidence": "Gizmos.DrawLine(navLink.startPoint - right * rad, navLink.startPoint + right * rad);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L132"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 133,
+          "symbol": "",
+          "evidence": "Gizmos.DrawLine(navLink.endPoint - right * rad, navLink.endPoint + right * rad);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L133"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 134,
+          "symbol": "",
+          "evidence": "Gizmos.DrawLine(navLink.startPoint - right * rad, navLink.endPoint - right * rad);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L134"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 135,
+          "symbol": "",
+          "evidence": "Gizmos.DrawLine(navLink.startPoint + right * rad, navLink.endPoint + right * rad);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L135"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Note: originally this was hosted here: https://github.com/RonenNess/Unity-2d-pathfinding",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs",
+          "line": 269,
+          "symbol": "",
+          "evidence": "var errors = settings.ValidationReport(bounds);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshSurfaceEditor.cs#L269"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "// use 0.0f for blocking tiles.",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "If you don't care about price of tiles (eg tiles can only be walkable or blocking), you can also pass a 2d array of *booleans* when creating the grid:",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/Scripts/2dTileBasedPathFinding/README.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "// true = walkable, false = blocking",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/Scripts/2dTileBasedPathFinding/README.md#L53"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 1,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 2,
+          "symbol": "dependencies",
+          "evidence": "\"dependencies\": {",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 3,
+          "symbol": "com.unity.cinemachine",
+          "evidence": "\"com.unity.cinemachine\": \"2.6.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 4,
+          "symbol": "com.unity.collab-proxy",
+          "evidence": "\"com.unity.collab-proxy\": \"1.2.16\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 5,
+          "symbol": "com.unity.ide.rider",
+          "evidence": "\"com.unity.ide.rider\": \"1.1.4\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 6,
+          "symbol": "com.unity.ide.vscode",
+          "evidence": "\"com.unity.ide.vscode\": \"1.1.4\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L6"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 7,
+          "symbol": "com.unity.inputsystem",
+          "evidence": "\"com.unity.inputsystem\": \"1.0.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L7"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 8,
+          "symbol": "com.unity.render-pipelines.universal",
+          "evidence": "\"com.unity.render-pipelines.universal\": \"7.3.1\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L8"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Packages/manifest.json",
+          "line": 39,
+          "symbol": "com.unity.modules.vehicles",
+          "evidence": "\"com.unity.modules.vehicles\": \"1.0.0\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Packages/manifest.json#L39"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs",
+          "line": 100,
+          "symbol": "",
+          "evidence": "bool pressed = GUI.Button(popupRect, content, EditorStyles.popup);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L100"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 86,
+          "symbol": "",
+          "evidence": "if (GUILayout.Button(\"Swap\"))",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L86"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 96,
+          "symbol": "",
+          "evidence": "if (GUILayout.Button(\"Align Transform\"))",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L96"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 222,
+          "symbol": "",
+          "evidence": "if (Handles.Button(startPt, zup, 0.1f * startSize, 0.1f * startSize, Handles.CubeHandleCap))",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L222"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 242,
+          "symbol": "",
+          "evidence": "if (Handles.Button(endPt, zup, 0.1f * endSize, 0.1f * endSize, Handles.CubeHandleCap))",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L242"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 269,
+          "symbol": "",
+          "evidence": "static public void CreateNavMeshLink(MenuCommand menuCommand)",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L269"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 271,
+          "symbol": "",
+          "evidence": "var parent = menuCommand.context as GameObject;",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L271"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs",
+          "line": 52,
+          "symbol": "",
+          "evidence": "EditMode.DoEditModeInspectorModeButton(EditMode.SceneViewEditMode.Collider, \"Edit Volume\",",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshModifierVolumeEditor.cs#L52"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs",
+          "line": 132,
+          "symbol": "",
+          "evidence": "var parentTransform = parent != null ? parent.transform : null;",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L132"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs",
+          "line": 133,
+          "symbol": "",
+          "evidence": "var uniqueName = GameObjectUtility.GetUniqueNameForSibling(parentTransform, suggestedName);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L133"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs",
+          "line": 137,
+          "symbol": "",
+          "evidence": "if (parentTransform != null)",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L137"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs",
+          "line": 138,
+          "symbol": "",
+          "evidence": "Undo.SetTransformParent(child.transform, parentTransform, \"Parent \" + uniqueName);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshComponentsGUIUtility.cs#L138"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 47,
+          "symbol": "",
+          "evidence": "static Matrix4x4 UnscaledLocalToWorldMatrix(Transform t)",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L47"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 52,
+          "symbol": "",
+          "evidence": "void AlignTransformToEndPoints(NavMeshLink navLink)",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L52"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 54,
+          "symbol": "",
+          "evidence": "var mat = UnscaledLocalToWorldMatrix(navLink.transform);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L54"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 60,
+          "symbol": "",
+          "evidence": "var up = navLink.transform.up;",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L60"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 127,
+          "symbol": "",
+          "evidence": "static void DrawLink(NavMeshLink navLink)",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L127"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 132,
+          "symbol": "",
+          "evidence": "Gizmos.DrawLine(navLink.startPoint - right * rad, navLink.startPoint + right * rad);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L132"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 133,
+          "symbol": "",
+          "evidence": "Gizmos.DrawLine(navLink.endPoint - right * rad, navLink.endPoint + right * rad);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L133"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 134,
+          "symbol": "",
+          "evidence": "Gizmos.DrawLine(navLink.startPoint - right * rad, navLink.endPoint - right * rad);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L134"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 135,
+          "symbol": "",
+          "evidence": "Gizmos.DrawLine(navLink.startPoint + right * rad, navLink.endPoint + right * rad);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L135"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 138,
+          "symbol": "",
+          "evidence": "[DrawGizmo(GizmoType.Selected | GizmoType.Active | GizmoType.Pickable)]",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L138"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 154,
+          "symbol": "",
+          "evidence": "DrawLink(navLink);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L154"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs",
+          "line": 159,
+          "symbol": "",
+          "evidence": "Gizmos.DrawIcon(navLink.transform.position, \"NavMeshLink Icon\", true);",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Editor/NavMeshLinkEditor.cs#L159"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs",
+          "line": 117,
+          "symbol": "",
+          "evidence": "void OnValidate()",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs#L117"
+        },
+        {
+          "origin": "github",
+          "project": "Beneath-the-Veil",
+          "repo": "Valar05/Beneath-the-Veil",
+          "path": "Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs",
+          "line": 122,
+          "symbol": "",
+          "evidence": "// OnValidate can be called several times - avoid double registration",
+          "source_url": "https://github.com/Valar05/Beneath-the-Veil/blob/master/Assets/NavMeshComponents/Examples/Scripts/NavMeshPrefabInstance.cs#L122"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1341 @@
+{
+  "repo": "Valar05/tools",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "tools",
+    "updatedAt": "2026-06-20T22:48:38Z",
+    "url": "https://github.com/Valar05/tools",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 18,
+  "selected_files": [
+    {
+      "path": "home_center_bundle/README.md",
+      "mode": "100644",
+      "sha": "763e8492d3ebd6c3211e4789dfbba5cd0d358e38",
+      "size": 1197,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 1197,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L7",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L16",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L18",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L20",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L35"
+      ]
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "037f9871ffb768e1fe8a9de9a95abcead636cb29",
+      "size": 1247,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 31,
+      "byte_count": 1247,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L11"
+      ]
+    },
+    {
+      "path": "home_center_bundle/manifest.json",
+      "mode": "100644",
+      "sha": "e4535303ba8c4de89359e026f43a0c3df360295d",
+      "size": 1530,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 46,
+      "byte_count": 1530,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L1",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L2",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L3",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L4",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L5",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L6",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L7",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L8"
+      ]
+    },
+    {
+      "path": "home_center_bundle/shared_rules.md",
+      "mode": "100644",
+      "sha": "9d0dde0622c8cd33a61bee80e0d02187ecc3f037",
+      "size": 2571,
+      "score": 16,
+      "reasons": [
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 71,
+      "byte_count": 2571,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L12",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L15",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L16",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L26",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L30",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L38",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L39",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L40"
+      ]
+    },
+    {
+      "path": "home_center_bundle/agents/accessibility_monitor.md",
+      "mode": "100644",
+      "sha": "ce76637a7b199d1881324f90f5bc463324103629",
+      "size": 777,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 777,
+      "mechanics": [
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/accessibility_monitor.md#L3"
+      ]
+    },
+    {
+      "path": "home_center_bundle/agents/kitchen_orchestrator.md",
+      "mode": "100644",
+      "sha": "6351c799399387dd7ca5ef9c61870296a202f5e7",
+      "size": 1235,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 1235,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L3",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L4",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L8",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L9",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L15",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L16",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L17",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L19"
+      ]
+    },
+    {
+      "path": "home_center_bundle/agents/kitchen_scheduler.md",
+      "mode": "100644",
+      "sha": "79ada4474b97ce89154c563932745ba8165fc162",
+      "size": 879,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 879,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_scheduler.md#L3",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_scheduler.md#L4",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_scheduler.md#L10",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_scheduler.md#L16",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_scheduler.md#L18",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_scheduler.md#L26"
+      ]
+    },
+    {
+      "path": "home_center_bundle/agents/meal_composer.md",
+      "mode": "100644",
+      "sha": "10eabbc0d4817a9ca3b95d7e39b8d293ed63b760",
+      "size": 1199,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 1199,
+      "mechanics": [
+        "pose_animation_tools",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/meal_composer.md#L1",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/meal_composer.md#L3",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/meal_composer.md#L4",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/meal_composer.md#L6",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/meal_composer.md#L8",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/meal_composer.md#L9",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/meal_composer.md#L10",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/meal_composer.md#L12"
+      ]
+    },
+    {
+      "path": "home_center_bundle/agents/rule_miner.md",
+      "mode": "100644",
+      "sha": "fffb3991890564c3c950d5c6fb8316ec87cd905d",
+      "size": 666,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 666,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L1",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L3",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L4",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L6",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L8",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L9",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L10",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L11"
+      ]
+    },
+    {
+      "path": "home_center_bundle/agents/subsistence_upgrader.md",
+      "mode": "100644",
+      "sha": "ee2cb47c8abd2540e4c6ade801fd3811c1b6ecdf",
+      "size": 902,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 902,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/subsistence_upgrader.md#L1",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/subsistence_upgrader.md#L3",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/subsistence_upgrader.md#L4",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/subsistence_upgrader.md#L6",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/subsistence_upgrader.md#L8",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/subsistence_upgrader.md#L9",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/subsistence_upgrader.md#L10",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/subsistence_upgrader.md#L11"
+      ]
+    },
+    {
+      "path": "home_center_bundle/examples/accessibility_roast_chicken.md",
+      "mode": "100644",
+      "sha": "7c19cbc4111ea70e44d2ed1e763f009d7e84f79c",
+      "size": 264,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 14,
+      "byte_count": 264,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "home_center_bundle/examples/braise_decision.md",
+      "mode": "100644",
+      "sha": "e3f078ab4eb4cca3d61b7494ad336db23cc8cb8c",
+      "size": 402,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 18,
+      "byte_count": 402,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/braise_decision.md#L1",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/braise_decision.md#L3",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/braise_decision.md#L5",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/braise_decision.md#L6",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/braise_decision.md#L7",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/braise_decision.md#L8",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/braise_decision.md#L10",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/braise_decision.md#L12"
+      ]
+    },
+    {
+      "path": "home_center_bundle/examples/chicken_potatoes_broccoli.md",
+      "mode": "100644",
+      "sha": "9b83fc063c24badf81729dee36e28f50828ddc5a",
+      "size": 540,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 15,
+      "byte_count": 540,
+      "mechanics": [
+        "ai_pressure",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/chicken_potatoes_broccoli.md#L7",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/chicken_potatoes_broccoli.md#L13",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/chicken_potatoes_broccoli.md#L14"
+      ]
+    },
+    {
+      "path": "home_center_bundle/examples/hamburger_helper_upgrade.md",
+      "mode": "100644",
+      "sha": "e83ea8bd0a4c5f46a1bde5b0562a5427bebd0945",
+      "size": 368,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 368,
+      "mechanics": [
+        "pose_animation_tools",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/hamburger_helper_upgrade.md#L1",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/hamburger_helper_upgrade.md#L3",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/hamburger_helper_upgrade.md#L4",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/hamburger_helper_upgrade.md#L6",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/hamburger_helper_upgrade.md#L8",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/hamburger_helper_upgrade.md#L9",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/hamburger_helper_upgrade.md#L10",
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/examples/hamburger_helper_upgrade.md#L11"
+      ]
+    },
+    {
+      "path": "home_center_bundle/schemas/response_contract.schema.json",
+      "mode": "100644",
+      "sha": "cd47fa2932479076730de18cfa180a534d3d5a84",
+      "size": 905,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 24,
+      "byte_count": 905,
+      "mechanics": [
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/home_center_bundle/schemas/response_contract.schema.json#L2"
+      ]
+    },
+    {
+      "path": "meshy_asset_workflow.py",
+      "mode": "100644",
+      "sha": "559079f9470b3293b4cff45ca834247b5980c0d1",
+      "size": 26861,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 682,
+      "byte_count": 26861,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L1",
+        "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L2",
+        "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L4",
+        "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L6",
+        "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L7",
+        "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L8",
+        "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L9",
+        "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L10"
+      ]
+    },
+    {
+      "path": "test_write_codex_rules_from_source.py",
+      "mode": "100644",
+      "sha": "413c7d58e584dcfa8171ea6dbc62cc9829f212fa",
+      "size": 2626,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 71,
+      "byte_count": 2626,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L1",
+        "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L3",
+        "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L5",
+        "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L6",
+        "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L7",
+        "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L8",
+        "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L11",
+        "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L12"
+      ]
+    },
+    {
+      "path": "write_codex_rules_from_source.py",
+      "mode": "100644",
+      "sha": "82bb2e9e2e9e46c4ff50d5577a74fd8f9e9840f2",
+      "size": 3678,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 107,
+      "byte_count": 3678,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tools/blob/main/write_codex_rules_from_source.py#L1",
+        "https://github.com/Valar05/tools/blob/main/write_codex_rules_from_source.py#L2",
+        "https://github.com/Valar05/tools/blob/main/write_codex_rules_from_source.py#L4",
+        "https://github.com/Valar05/tools/blob/main/write_codex_rules_from_source.py#L5",
+        "https://github.com/Valar05/tools/blob/main/write_codex_rules_from_source.py#L6",
+        "https://github.com/Valar05/tools/blob/main/write_codex_rules_from_source.py#L7",
+        "https://github.com/Valar05/tools/blob/main/write_codex_rules_from_source.py#L9",
+        "https://github.com/Valar05/tools/blob/main/write_codex_rules_from_source.py#L10"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 957,
+    "by_origin": {
+      "github": 957
+    },
+    "by_project": {
+      "tools": 957
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 819,
+      "tts_audio_pipeline": 110,
+      "ai_pressure": 98,
+      "web_choice_player": 88,
+      "pose_animation_tools": 87,
+      "resource_upgrade_loop": 77,
+      "text_console_runtime": 33,
+      "touch_lane_combat": 12,
+      "validation_pipeline": 6,
+      "source_packet_generation": 6,
+      "deck_pressure": 1,
+      "writing_corpus_review": 1
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `manifest.json` - machine-readable bundle index",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: tools",
+          "evidence": "# Project Manifest: tools",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/tools`",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/tools`",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "No project orientation file was found during manifest generation. Treat this manifest as an inventory scaffold until a project-specific orientation is added.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L9"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `manifest.json` - machine-readable bundle index",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "Use `shared_rules.md` as the source of truth for cooking doctrine and exception handling.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: tools",
+          "evidence": "# Project Manifest: tools",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/tools`",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/tools`",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L8"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `Meal Composer` - bounded and unbounded meal brainstorming",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `Subsistence Upgrader` - cheap base-food repair and boxed-meal upgrades",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/manifest.json",
+          "line": 43,
+          "symbol": "",
+          "evidence": "\"examples/braise_decision.md\",",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L43"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/shared_rules.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Air fryer: best default for small-batch crisping and roasting when capacity is enough.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/shared_rules.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Stovetop: control and correction tool for sauce, sear, simmer, and repair.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/shared_rules.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Braise tough or collagen-rich foods.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L30"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `Meal Composer` - bounded and unbounded meal brainstorming",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/manifest.json",
+          "line": 15,
+          "symbol": "name",
+          "evidence": "\"name\": \"Meal Composer\",",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L15"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/manifest.json",
+          "line": 16,
+          "symbol": "file",
+          "evidence": "\"file\": \"agents/meal_composer.md\",",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L16"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/shared_rules.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "- Brown one thing, reduce one thing, brighten one thing, crisp one thing, enrich one thing.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/accessibility_monitor.md",
+          "line": 3,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/accessibility_monitor.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/kitchen_orchestrator.md",
+          "line": 3,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/kitchen_orchestrator.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "Route the user's request to the right specialist and combine outputs into one actionable kitchen plan.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L4"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `Subsistence Upgrader` - cheap base-food repair and boxed-meal upgrades",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `test_workspace_motivated_bootstrap.mjs`",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/shared_rules.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Stovetop: control and correction tool for sauce, sear, simmer, and repair.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/shared_rules.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "- Repair order: salt, umami, fat, body, acid, texture.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/meal_composer.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- restrictions such as cheap-only, high-protein, low-cleanup, or accessible-only",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/meal_composer.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/subsistence_upgrader.md",
+          "line": 23,
+          "symbol": "Repair logic",
+          "evidence": "## Repair logic",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/subsistence_upgrader.md#L23"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `Subsistence Upgrader` - cheap base-food repair and boxed-meal upgrades",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `Rule Miner` - discovers and stores new kitchen doctrines from corpus/experiments",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/manifest.json",
+          "line": 4,
+          "symbol": "description",
+          "evidence": "\"description\": \"A multi-agent kitchen bundle for meal composition, orchestration, subsistence upgrades, accessibility, and rule mining.\",",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/manifest.json",
+          "line": 25,
+          "symbol": "name",
+          "evidence": "\"name\": \"Subsistence Upgrader\",",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L25"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/manifest.json",
+          "line": 26,
+          "symbol": "file",
+          "evidence": "\"file\": \"agents/subsistence_upgrader.md\",",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L26"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/manifest.json",
+          "line": 27,
+          "symbol": "role",
+          "evidence": "\"role\": \"upgrades cheap base foods and boxed meals\"",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L27"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/manifest.json",
+          "line": 35,
+          "symbol": "name",
+          "evidence": "\"name\": \"Rule Miner\",",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L35"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/manifest.json",
+          "line": 36,
+          "symbol": "file",
+          "evidence": "\"file\": \"agents/rule_miner.md\",",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L36"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `Rule Miner` - discovers and stores new kitchen doctrines from corpus/experiments",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/manifest.json",
+          "line": 37,
+          "symbol": "role",
+          "evidence": "\"role\": \"captures new kitchen doctrines from corpus and experiments\"",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/manifest.json#L37"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/shared_rules.md",
+          "line": 26,
+          "symbol": "Transform doctrines",
+          "evidence": "## Transform doctrines",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/kitchen_orchestrator.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- New doctrines, edge cases, or corpus extraction -> Rule Miner.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/rule_miner.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "Discover new kitchen-specific doctrines from corpus reading and kitchen experiments.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/rule_miner.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Promote high-confidence transforms into the shared rulebook.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L10"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- No standard entrypoint was detected. Inspect top-level files and add project-specific validation commands when known.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/shared_rules.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- Mushrooms: dry cook before adding fat if browning is the goal.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/shared_rules.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/kitchen_orchestrator.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Timing, appliance choice, parallel work, or sequencing -> Kitchen Scheduler.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 577,
+          "symbol": "add_common_project",
+          "evidence": "def add_common_project(parser: argparse.ArgumentParser) -> None:",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L577"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 578,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--project\", default=\"gravity-fist\", help=\"Project directory under the workspace.\")",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L578"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 579,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--name\", default=\"meshy_asset\", help=\"Asset name used for output folder and manifest.\")",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L579"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 582,
+          "symbol": "build_parser",
+          "evidence": "def build_parser() -> argparse.ArgumentParser:",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L582"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 583,
+          "symbol": "",
+          "evidence": "parser = argparse.ArgumentParser(description=__doc__)",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L583"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/PROJECT_MANIFEST.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "test_write_codex_rules_from_source.py",
+          "line": 31,
+          "symbol": "",
+          "evidence": "'keep this block\\n'",
+          "source_url": "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L31"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "test_write_codex_rules_from_source.py",
+          "line": 32,
+          "symbol": "",
+          "evidence": "'still keep this block\\n'",
+          "source_url": "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L32"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "test_write_codex_rules_from_source.py",
+          "line": 42,
+          "symbol": "",
+          "evidence": "assert 'keep this block' in dry_run.stdout, 'dry-run should preserve source content in the rendered module'",
+          "source_url": "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L42"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "test_write_codex_rules_from_source.py",
+          "line": 49,
+          "symbol": "",
+          "evidence": "assert 'still keep this block' in written, 'default write should contain the source content'",
+          "source_url": "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L49"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "test_write_codex_rules_from_source.py",
+          "line": 62,
+          "symbol": "",
+          "evidence": "assert 'rules = \"' in marker_written, 'marker extraction should still wrap the block in starlark'",
+          "source_url": "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L62"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "test_write_codex_rules_from_source.py",
+          "line": 63,
+          "symbol": "",
+          "evidence": "assert 'beta' in marker_written, 'marker extraction should keep the selected top block only'",
+          "source_url": "https://github.com/Valar05/tools/blob/main/test_write_codex_rules_from_source.py#L63"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/kitchen_orchestrator.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Timing, appliance choice, parallel work, or sequencing -> Kitchen Scheduler.",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/kitchen_orchestrator.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 43,
+          "symbol": "load_dotenv",
+          "evidence": "def load_dotenv(path: Path) -> None:",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L43"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 57,
+          "symbol": "load_env",
+          "evidence": "def load_env(project: str | None = None) -> None:",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L57"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 59,
+          "symbol": "",
+          "evidence": "load_dotenv(path)",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L59"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 61,
+          "symbol": "",
+          "evidence": "load_dotenv(resolve_project(project) / \".env\")",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L61"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 119,
+          "symbol": "",
+          "evidence": "return json.loads(raw.decode(\"utf-8\"))",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L119"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 124,
+          "symbol": "download_url",
+          "evidence": "def download_url(url: str, destination: Path, timeout: int = 240) -> int:",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L124"
+        },
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "meshy_asset_workflow.py",
+          "line": 132,
+          "symbol": "",
+          "evidence": "raise CliError(f\"Download failed with HTTP {exc.code}: {detail}\") from exc",
+          "source_url": "https://github.com/Valar05/tools/blob/main/meshy_asset_workflow.py#L132"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/agents/rule_miner.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- visual brownness thresholds",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/agents/rule_miner.md#L27"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "tools",
+          "repo": "Valar05/tools",
+          "path": "home_center_bundle/schemas/response_contract.schema.json",
+          "line": 2,
+          "symbol": "$schema",
+          "evidence": "\"$schema\": \"https://json-schema.org/draft/2020-12/schema\",",
+          "source_url": "https://github.com/Valar05/tools/blob/main/home_center_bundle/schemas/response_contract.schema.json#L2"
+        }
+      ]
+    }
+  }
+}

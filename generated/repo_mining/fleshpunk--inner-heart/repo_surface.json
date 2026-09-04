@@ -1,0 +1,2067 @@
+{
+  "repo": "Valar05/fleshpunk--inner-heart",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "fleshpunk--inner-heart",
+    "updatedAt": "2026-06-20T23:08:28Z",
+    "url": "https://github.com/Valar05/fleshpunk--inner-heart",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "audio/README.md",
+      "mode": "100644",
+      "sha": "96ad4e2edba6788730a1d1fa241ad86428746278",
+      "size": 631,
+      "score": 124,
+      "reasons": [
+        "root readme",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 27,
+      "byte_count": 631,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L4",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L10",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L11"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "14804490758175f6999817dba3edeec549a981cf",
+      "size": 12324,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 212,
+      "byte_count": 12324,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L12",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L15",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L18",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L21",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L24"
+      ]
+    },
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "fb549e6f722b18a54ae6cf7d40a60b54da51f5df",
+      "size": 796,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 796,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/project.godot#L13",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/project.godot#L18",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/project.godot#L22",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/project.godot#L35",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/project.godot#L37"
+      ]
+    },
+    {
+      "path": "tools/tts_manifest.py",
+      "mode": "100644",
+      "sha": "3a6a9181e028e4d7cb2b7ad560711da7983d3de6",
+      "size": 32698,
+      "score": 92,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 862,
+      "byte_count": 32698,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L2",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L4",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L10"
+      ]
+    },
+    {
+      "path": "tools/tts_audio_smoke.gd",
+      "mode": "100644",
+      "sha": "1a5f906cbe6bebdc9bed9380a63a186472f8a3dc",
+      "size": 1725,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 67,
+      "byte_count": 1725,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_audio_smoke.gd#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_audio_smoke.gd#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_audio_smoke.gd#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_audio_smoke.gd#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_audio_smoke.gd#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_audio_smoke.gd#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_audio_smoke.gd#L10",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_audio_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/story_state_override_smoke.gd",
+      "mode": "100644",
+      "sha": "190e1ee7452125ddb5abd5f72aa37d0b0da4a4eb",
+      "size": 1367,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 40,
+      "byte_count": 1367,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/story_state_override_smoke.gd#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/story_state_override_smoke.gd#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/story_state_override_smoke.gd#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/story_state_override_smoke.gd#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/story_state_override_smoke.gd#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/story_state_override_smoke.gd#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/story_state_override_smoke.gd#L11",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/story_state_override_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/tts_audio_smoke.gd.uid",
+      "mode": "100644",
+      "sha": "2872f8c7365c18aeb5dd44b814bca2b0b851a5d6",
+      "size": 20,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "tools/story_state_override_smoke.gd.uid",
+      "mode": "100644",
+      "sha": "6fd08153552096e8f5f68c04e7af58b6fd5d7d58",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "helper tooling",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "tools/SCENARIO_AGENT.md",
+      "mode": "100644",
+      "sha": "c1cd205f744a22ba31a9471ac1793a6af8c8eea1",
+      "size": 5926,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 166,
+      "byte_count": 5926,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L13",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L24",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L27",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L30",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L33",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L36"
+      ]
+    },
+    {
+      "path": "tools/amar_creepstride_smoke.gd",
+      "mode": "100644",
+      "sha": "d7fae5c60fc9b209b4c0dab9926786dfd4a8b2d3",
+      "size": 3134,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 78,
+      "byte_count": 3134,
+      "mechanics": [
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/amar_creepstride_smoke.gd#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/amar_creepstride_smoke.gd#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/amar_creepstride_smoke.gd#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/amar_creepstride_smoke.gd#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/amar_creepstride_smoke.gd#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/amar_creepstride_smoke.gd#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/amar_creepstride_smoke.gd#L10",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/amar_creepstride_smoke.gd#L11"
+      ]
+    },
+    {
+      "path": "tools/body_option_audit.py",
+      "mode": "100644",
+      "sha": "097189b714ac5e8f06b1f0c248400cef6e1a7b0a",
+      "size": 4635,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 155,
+      "byte_count": 4635,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/body_option_audit.py#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/body_option_audit.py#L2",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/body_option_audit.py#L4",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/body_option_audit.py#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/body_option_audit.py#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/body_option_audit.py#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/body_option_audit.py#L11",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/body_option_audit.py#L12"
+      ]
+    },
+    {
+      "path": "tools/cadence_and_endings_smoke.gd",
+      "mode": "100644",
+      "sha": "7624f99a57fb02f14e3dfabcde2b1b7fb407935e",
+      "size": 3607,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 95,
+      "byte_count": 3607,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L10",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L11",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/corpus_agent.py",
+      "mode": "100644",
+      "sha": "7e1d174fb2f5841ac7c8473acac00b0217e94101",
+      "size": 30507,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 610,
+      "byte_count": 30507,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L2",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L4",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L10"
+      ]
+    },
+    {
+      "path": "tools/director_smoke.gd",
+      "mode": "100644",
+      "sha": "6cb9d2d9dae340a348f5b189d96382725ef6151a",
+      "size": 4606,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 139,
+      "byte_count": 4606,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/director_smoke.gd#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/director_smoke.gd#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/director_smoke.gd#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/director_smoke.gd#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/director_smoke.gd#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/director_smoke.gd#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/director_smoke.gd#L11",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/director_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/fleshpunk_blueprint_agent.py",
+      "mode": "100644",
+      "sha": "7981b31186eee564bf1b8b69888be5c26cdb8c73",
+      "size": 22049,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 446,
+      "byte_count": 22049,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_agent.py#L2",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_agent.py#L4",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_agent.py#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_agent.py#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_agent.py#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_agent.py#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_agent.py#L10",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_agent.py#L11"
+      ]
+    },
+    {
+      "path": "tools/fleshpunk_blueprint_compiler.py",
+      "mode": "100644",
+      "sha": "042d8b64a7666c3b6ad79f1e6f3ce93e99a31512",
+      "size": 11854,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 287,
+      "byte_count": 11854,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_compiler.py#L4",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_compiler.py#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_compiler.py#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_compiler.py#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_compiler.py#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_compiler.py#L10",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_compiler.py#L15",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/fleshpunk_blueprint_compiler.py#L26"
+      ]
+    },
+    {
+      "path": "tools/flow_smoke.gd",
+      "mode": "100644",
+      "sha": "09cfb1d67f46b9f0116760c3e43f1185f057db1e",
+      "size": 1951,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 1951,
+      "mechanics": [
+        "ai_pressure",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/flow_smoke.gd#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/flow_smoke.gd#L4",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/flow_smoke.gd#L5",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/flow_smoke.gd#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/flow_smoke.gd#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/flow_smoke.gd#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/flow_smoke.gd#L10",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/flow_smoke.gd#L11"
+      ]
+    },
+    {
+      "path": "tools/integrate_room_candidate.py",
+      "mode": "100644",
+      "sha": "5710ae005949619231281f3f729654b19a60dc96",
+      "size": 7687,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 207,
+      "byte_count": 7687,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/integrate_room_candidate.py#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/integrate_room_candidate.py#L2",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/integrate_room_candidate.py#L4",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/integrate_room_candidate.py#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/integrate_room_candidate.py#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/integrate_room_candidate.py#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/integrate_room_candidate.py#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/integrate_room_candidate.py#L12"
+      ]
+    },
+    {
+      "path": "tools/martial_pressure_smoke.gd",
+      "mode": "100644",
+      "sha": "6e5db871ef6afa41946195b88853aa4cd05db028",
+      "size": 1429,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 52,
+      "byte_count": 1429,
+      "mechanics": [
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/martial_pressure_smoke.gd#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/martial_pressure_smoke.gd#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/martial_pressure_smoke.gd#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/martial_pressure_smoke.gd#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/martial_pressure_smoke.gd#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/martial_pressure_smoke.gd#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/martial_pressure_smoke.gd#L11",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/martial_pressure_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/mechanics_agent.py",
+      "mode": "100644",
+      "sha": "d5ab7c5186052479f68ea2efa71abb6a8c54062e",
+      "size": 28838,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 681,
+      "byte_count": 28838,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L2",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L4",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L10",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L11"
+      ]
+    },
+    {
+      "path": "tools/playtest_slice_smoke.gd",
+      "mode": "100644",
+      "sha": "c88e4508bed896c0a7edef539d534019769136d2",
+      "size": 4200,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 130,
+      "byte_count": 4200,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/playtest_slice_smoke.gd#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/playtest_slice_smoke.gd#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/playtest_slice_smoke.gd#L5",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/playtest_slice_smoke.gd#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/playtest_slice_smoke.gd#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/playtest_slice_smoke.gd#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/playtest_slice_smoke.gd#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/playtest_slice_smoke.gd#L10"
+      ]
+    },
+    {
+      "path": "tools/post_update_room_smoke.gd",
+      "mode": "100644",
+      "sha": "3490355a7e0051e7cbba074de686fb071949bce7",
+      "size": 2432,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 63,
+      "byte_count": 2432,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/post_update_room_smoke.gd#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/post_update_room_smoke.gd#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/post_update_room_smoke.gd#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/post_update_room_smoke.gd#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/post_update_room_smoke.gd#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/post_update_room_smoke.gd#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/post_update_room_smoke.gd#L11",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/post_update_room_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/proceed_result_ack_smoke.gd",
+      "mode": "100644",
+      "sha": "5b0782ade2d164d577ae8ae323e4fad0726845d7",
+      "size": 1239,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 42,
+      "byte_count": 1239,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/proceed_result_ack_smoke.gd#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/proceed_result_ack_smoke.gd#L3",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/proceed_result_ack_smoke.gd#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/proceed_result_ack_smoke.gd#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/proceed_result_ack_smoke.gd#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/proceed_result_ack_smoke.gd#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/proceed_result_ack_smoke.gd#L10",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/proceed_result_ack_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/project_bootstrap.py",
+      "mode": "100644",
+      "sha": "826d3006bf746b5370a777e91868c99d499aa02b",
+      "size": 26080,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 627,
+      "byte_count": 26080,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/project_bootstrap.py#L1",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/project_bootstrap.py#L2",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/project_bootstrap.py#L4",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/project_bootstrap.py#L6",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/project_bootstrap.py#L7",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/project_bootstrap.py#L8",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/project_bootstrap.py#L9",
+        "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/project_bootstrap.py#L10"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 3429,
+    "by_origin": {
+      "github": 3429
+    },
+    "by_project": {
+      "fleshpunk--inner-heart": 3429
+    },
+    "by_mechanic": {
+      "validation_pipeline": 1387,
+      "asset_import_pipeline": 914,
+      "tts_audio_pipeline": 845,
+      "text_console_runtime": 816,
+      "source_packet_generation": 604,
+      "web_choice_player": 311,
+      "ai_pressure": 276,
+      "delayed_consequences": 205,
+      "pose_animation_tools": 204,
+      "deck_pressure": 125,
+      "writing_corpus_review": 57,
+      "resource_upgrade_loop": 28,
+      "touch_lane_combat": 26,
+      "vehicle_survival": 12,
+      "event_clouds": 10
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 1,
+          "symbol": "Audio Pipeline",
+          "evidence": "# Audio Pipeline",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "The TTS pipeline uses phrase-sized clips.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "Do not generate isolated one-word files.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "Use:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "```sh",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "python tools/tts_manifest.py refresh",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python tools/tts_manifest.py audit --fail-on-findings",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "python tools/tts_manifest.py plan",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L11"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "The TTS pipeline uses phrase-sized clips.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "Each clip hash includes text, model, voice, instructions, and response format.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "Unchanged clips are skipped when the output exists and the local cache matches.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- Character and faction progression uses a two-step payoff stack. Root scenario passes leave explicit `payoff_hooks` for branches that need future payoff. Separate follow-up pas...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "- Setting, faction, character, animal-infrastructure, and cross-run story architecture lives in `.agent-memory/setting_backbone.md`.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 90,
+          "symbol": "",
+          "evidence": "- `heart_manager.gd`: Emits pulse events and exposes BPM.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L90"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 132,
+          "symbol": "",
+          "evidence": "python tools/scenario_agent.py setting-backbone",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L132"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 148,
+          "symbol": "",
+          "evidence": "Use it when an action technically has a handler but still feels like a placeholder, or when a proposed mechanic should spawn new symbiote/mutation ideas.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L148"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "python tools/tts_manifest.py refresh",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python tools/tts_manifest.py audit --fail-on-findings",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "python tools/tts_manifest.py plan",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "OPENAI_API_KEY=... python tools/tts_manifest.py generate",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "source ~/.bashrc",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "- External writing-agent work must start from a narrow source packet, not a broad repo prompt. Use `.agent-memory/source_packet_workflow.md` before asking Claude/OpenAI/another ...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "- Repeatable Claude scenario generation lives in the `fleshpunk-claude-scenarios` Codex skill, mirrored at `.agent-memory/skills/fleshpunk-claude-scenarios/`. Use it for source-...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 75,
+          "symbol": "",
+          "evidence": "- Whole-text pulp sources live under `generated/corpus/pulp_pre_1930/`; use `generated/corpus/pulp_pre_1930/retrieval_index.md` to choose source pressure before drafting.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L75"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python tools/tts_manifest.py audit --fail-on-findings",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "One-Command Bootstrap",
+          "evidence": "## One-Command Bootstrap",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "python tools/project_bootstrap.py",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "Use strict mode when you want data gaps to fail the check:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "python tools/project_bootstrap.py --strict",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Smoke test post-update room descriptions:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "godot --headless --path /storage/emulated/0/Documents/GodotProjects/fleshpunk--inner-heart --script /storage/emulated/0/Documents/GodotProjects/fleshpunk--inner-heart/tools/post...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "Smoke test delayed story follow-up insertion:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L24"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python tools/tts_manifest.py audit --fail-on-findings",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "audio/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "OPENAI_API_KEY=... python tools/tts_manifest.py generate",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/audio/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "Use strict mode when you want data gaps to fail the check:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "- Main scene: `res://world.tscn`.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 59,
+          "symbol": "",
+          "evidence": "- Viewport target: 1080x1920 portrait.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L59"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- Forward content starts from generated post-update rooms in `generated/room_mechanics_brainstorm.json`.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "- External writing-agent work must start from a narrow source packet, not a broad repo prompt. Use `.agent-memory/source_packet_workflow.md` before asking Claude/OpenAI/another ...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 86,
+          "symbol": "",
+          "evidence": "- `world.gd`: Presents rooms, handles dashboard button routing, room transitions, encounter scene spawning, and combat animation.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L86"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "One-Command Bootstrap",
+          "evidence": "## One-Command Bootstrap",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Smoke test post-update room descriptions:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "godot --headless --path /storage/emulated/0/Documents/GodotProjects/fleshpunk--inner-heart --script /storage/emulated/0/Documents/GodotProjects/fleshpunk--inner-heart/tools/post...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "Preview active room/event docs without running Godot:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "python tools/room_doc_browser.py --host 127.0.0.1 --port 3000",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "npx -y nodemon --watch events_post_update.json --watch rooms_post_update.json --watch tools/room_doc_browser.py --ext py,json --exec \"python tools/room_doc_browser.py --host 127...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "- Presentation direction is text-only for required play. Room/environment visuals are deprecated as design requirements.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "- Rooms are instances grouped by environment family. Do not design the dungeon around revisiting one literal room; later rooms may echo prior choices through shared environment ...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L61"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "Smoke test delayed story follow-up insertion:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "godot --headless --path /storage/emulated/0/Documents/GodotProjects/fleshpunk--inner-heart --script /storage/emulated/0/Documents/GodotProjects/fleshpunk--inner-heart/tools/stor...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "- Rooms are instances grouped by environment family. Do not design the dungeon around revisiting one literal room; later rooms may echo prior choices through shared environment ...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- Character and faction progression uses a two-step payoff stack. Root scenario passes leave explicit `payoff_hooks` for branches that need future payoff. Separate follow-up pas...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "- Setting, faction, character, animal-infrastructure, and cross-run story architecture lives in `.agent-memory/setting_backbone.md`.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "- Content authorship workflow lives in `.agent-memory/content_authorship_workflow.md`. Codex agents should not be the primary author of player-facing prose; use the scenario/wri...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L68"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "- External writing-agent work must start from a narrow source packet, not a broad repo prompt. Use `.agent-memory/source_packet_workflow.md` before asking Claude/OpenAI/another ...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "- Repeatable Claude scenario generation lives in the `fleshpunk-claude-scenarios` Codex skill, mirrored at `.agent-memory/skills/fleshpunk-claude-scenarios/`. Use it for source-...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L70"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "- Autoloads: `HeartManager` and `RunManager`.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "- Rooms are instances grouped by environment family. Do not design the dungeon around revisiting one literal room; later rooms may echo prior choices through shared environment ...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "- Hymn's scenario voice target lives in `.agent-memory/hymn_corpus_voice.md`; use it when rewriting descriptions, events, results, and choice text.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- Audit follow-through debt with `python tools/scenario_agent.py audit-payoffs --json --include-pending-hooks`, audit immediate choice acknowledgments with `python tools/scenari...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 88,
+          "symbol": "",
+          "evidence": "- `fleshpunk_dashboard.gd`: Renders the full-screen text console, command input, and event buttons.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L88"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 138,
+          "symbol": "",
+          "evidence": "python tools/scenario_agent.py generate --room rib_lock_tally_gate --category choice --strict-tradeoffs --mock",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L138"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 139,
+          "symbol": "",
+          "evidence": "python tools/scenario_agent.py generate --mock --room rib_lock_tally_gate --category choice --source-work verne_twenty_thousand_leagues --source-motif sealed_vessel --strict-tra...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L139"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 207,
+          "symbol": "",
+          "evidence": "1. Add explicit action handlers in `run_manager.gd` when a choice needs gameplay consequences.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L207"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "- Content authorship workflow lives in `.agent-memory/content_authorship_workflow.md`. Codex agents should not be the primary author of player-facing prose; use the scenario/wri...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L68"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "- External writing-agent work must start from a narrow source packet, not a broad repo prompt. Use `.agent-memory/source_packet_workflow.md` before asking Claude/OpenAI/another ...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 75,
+          "symbol": "",
+          "evidence": "- Whole-text pulp sources live under `generated/corpus/pulp_pre_1930/`; use `generated/corpus/pulp_pre_1930/retrieval_index.md` to choose source pressure before drafting.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L75"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- Audit follow-through debt with `python tools/scenario_agent.py audit-payoffs --json --include-pending-hooks`, audit immediate choice acknowledgments with `python tools/scenari...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 137,
+          "symbol": "",
+          "evidence": "python tools/scenario_agent.py triage-payoffs --include-pending-hooks --out generated/payoff_triage_report.md",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L137"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 191,
+          "symbol": "",
+          "evidence": "python tools/scenario_agent.py triage-payoffs --include-pending-hooks --out generated/payoff_triage_report.md",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L191"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/tts_manifest.py",
+          "line": 33,
+          "symbol": "",
+          "evidence": "\"Low, controlled field report. Clipped phrasing. Natural pacing. \"",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L33"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/tts_manifest.py",
+          "line": 53,
+          "symbol": "",
+          "evidence": "(\"system_status_header\", \"Status report.\"),",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L53"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "- External writing-agent work must start from a narrow source packet, not a broad repo prompt. Use `.agent-memory/source_packet_workflow.md` before asking Claude/OpenAI/another ...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "- Repeatable Claude scenario generation lives in the `fleshpunk-claude-scenarios` Codex skill, mirrored at `.agent-memory/skills/fleshpunk-claude-scenarios/`. Use it for source-...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "- Hymn's scenario voice target lives in `.agent-memory/hymn_corpus_voice.md`; use it when rewriting descriptions, events, results, and choice text.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "- The forward research stack lives in `.agent-memory/fleshpunk_corpus_research_stack.md` and the companion `fleshpunk_research_*.md` files.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 75,
+          "symbol": "",
+          "evidence": "- Whole-text pulp sources live under `generated/corpus/pulp_pre_1930/`; use `generated/corpus/pulp_pre_1930/retrieval_index.md` to choose source pressure before drafting.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L75"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 76,
+          "symbol": "",
+          "evidence": "- Every forward room/scenario needs a specific `corpus_influences` or `research_influences` entry. `source_seed_ids` are not enough; the scenario must name the concrete source m...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L76"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 133,
+          "symbol": "",
+          "evidence": "python tools/scenario_agent.py hymn-corpus-voice",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L133"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 139,
+          "symbol": "",
+          "evidence": "python tools/scenario_agent.py generate --mock --room rib_lock_tally_gate --category choice --source-work verne_twenty_thousand_leagues --source-motif sealed_vessel --strict-tra...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L139"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "- External writing-agent work must start from a narrow source packet, not a broad repo prompt. Use `.agent-memory/source_packet_workflow.md` before asking Claude/OpenAI/another ...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 154,
+          "symbol": "",
+          "evidence": "python tools/mechanics_agent.py brainstorm --mock --action break_spike_lane",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L154"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 155,
+          "symbol": "",
+          "evidence": "python tools/mechanics_agent.py brainstorm --action break_spike_lane --action probe_amber_cache --count 3",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L155"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/tts_manifest.py",
+          "line": 105,
+          "symbol": "",
+          "evidence": "\"white_marrow_field_hound_lanes\",",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L105"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/story_state_override_smoke.gd",
+          "line": 30,
+          "symbol": "",
+          "evidence": "if str(buttons[0].get(\"label\", \"\")) != \"Hold the count and slip\":",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/story_state_override_smoke.gd#L30"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/story_state_override_smoke.gd",
+          "line": 31,
+          "symbol": "",
+          "evidence": "push_error(\"Soft Captain override did not expose the authored slip option.\")",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/story_state_override_smoke.gd#L31"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Generate within a broad category:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/corpus_agent.py",
+          "line": 110,
+          "symbol": "",
+          "evidence": "\"pressure_system\": [\"vent_red_split\", \"push_through_spikes\", \"break_spike_lane\"],",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L110"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "- Repeatable Claude scenario generation lives in the `fleshpunk-claude-scenarios` Codex skill, mirrored at `.agent-memory/skills/fleshpunk-claude-scenarios/`. Use it for source-...",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "- `run_manager.gd`: Owns run state, deck drawing, resource counters, player stats, encounter construction, and action consequences.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 90,
+          "symbol": "",
+          "evidence": "- `heart_manager.gd`: Emits pulse events and exposes BPM.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L90"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 96,
+          "symbol": "",
+          "evidence": "- `encounter_decks.json`: Opening room, draw rules, special event cadence, base player stats, and BPM scaling.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L96"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "Rebuild spoken alias clouds across the current deck:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends SceneTree",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "const RunManagerScript := preload(\"res://run_manager.gd\")",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 6,
+          "symbol": "_init",
+          "evidence": "func _init() -> void:",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L6"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 86,
+          "symbol": "",
+          "evidence": "- `world.gd`: Presents rooms, handles dashboard button routing, room transitions, encounter scene spawning, and combat animation.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L86"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 88,
+          "symbol": "",
+          "evidence": "- `fleshpunk_dashboard.gd`: Renders the full-screen text console, command input, and event buttons.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L88"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 154,
+          "symbol": "",
+          "evidence": "python tools/mechanics_agent.py brainstorm --mock --action break_spike_lane",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L154"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 155,
+          "symbol": "",
+          "evidence": "python tools/mechanics_agent.py brainstorm --action break_spike_lane --action probe_amber_cache --count 3",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L155"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/tts_manifest.py",
+          "line": 96,
+          "symbol": "",
+          "evidence": "\"drowned_toll_harbor_collector_block\",",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L96"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/tts_manifest.py",
+          "line": 105,
+          "symbol": "",
+          "evidence": "\"white_marrow_field_hound_lanes\",",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L105"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/tts_manifest.py",
+          "line": 378,
+          "symbol": "",
+          "evidence": "add(f\"Barrier blocked {value}.\")",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L378"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/tts_manifest.py",
+          "line": 379,
+          "symbol": "",
+          "evidence": "add(f\"Armor blocked {value}.\")",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L379"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "- `run_manager.gd`: Owns run state, deck drawing, resource counters, player stats, encounter construction, and action consequences.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/tts_manifest.py",
+          "line": 110,
+          "symbol": "",
+          "evidence": "\"symbiote_host_offer\",",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_manifest.py#L110"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/tts_audio_smoke.gd",
+          "line": 37,
+          "symbol": "",
+          "evidence": "if not ResourceLoader.exists(clip_file) and not FileAccess.file_exists(clip_file):",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_audio_smoke.gd#L37"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/tts_audio_smoke.gd",
+          "line": 56,
+          "symbol": "",
+          "evidence": "if ResourceLoader.exists(clip_file):",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/tts_audio_smoke.gd#L56"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "OPENAI_API_KEY=... python tools/scenario_agent.py generate --room amber_corridor --category resource --count 2",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/SCENARIO_AGENT.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 21,
+          "symbol": "",
+          "evidence": "if str(opening.get(\"event_id\", \"\")) != \"symbiote_host_offer\":",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L21"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 22,
+          "symbol": "",
+          "evidence": "push_error(\"Expected initial symbiote_host_offer after descent; got %s.\" % str(opening.get(\"event_id\", \"\")))",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L22"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 42,
+          "symbol": "",
+          "evidence": "if str(next_encounter.get(\"event_id\", \"\")) == \"symbiote_host_offer\":",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/cadence_and_endings_smoke.gd#L42"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 163,
+          "symbol": "",
+          "evidence": "Public-domain source extraction lives in `tools/corpus_agent.py`.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/PROJECT_ORIENTATION.md#L163"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/corpus_agent.py",
+          "line": 20,
+          "symbol": "",
+          "evidence": "SOURCES_PATH = CORPUS_DIR / \"public_domain_sources.json\"",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L20"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/corpus_agent.py",
+          "line": 279,
+          "symbol": "",
+          "evidence": "raise ValueError(\"public_domain_sources.json must contain a works array\")",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L279"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/corpus_agent.py",
+          "line": 391,
+          "symbol": "",
+          "evidence": "\"seed\": \"A public-domain expedition motif becomes a body-system encounter that offers safety with a visible cost.\",",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/corpus_agent.py#L391"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/mechanics_agent.py",
+          "line": 261,
+          "symbol": "",
+          "evidence": "\"reaction\",",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L261"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/mechanics_agent.py",
+          "line": 262,
+          "symbol": "",
+          "evidence": "\"reaction_tags\",",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L262"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/mechanics_agent.py",
+          "line": 295,
+          "symbol": "",
+          "evidence": "\"mechanic_need\": \"Add action/reaction situations and delayed consequence hooks before considering this room complete.\",",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L295"
+        },
+        {
+          "origin": "github",
+          "project": "fleshpunk--inner-heart",
+          "repo": "Valar05/fleshpunk--inner-heart",
+          "path": "tools/mechanics_agent.py",
+          "line": 373,
+          "symbol": "",
+          "evidence": "Prioritize action/reaction loops, delayed consequences, room memory, actor state, route state, deck pressure, debt, claim, scent, and pursuit.",
+          "source_url": "https://github.com/Valar05/fleshpunk--inner-heart/blob/main/tools/mechanics_agent.py#L373"
+        }
+      ]
+    }
+  }
+}

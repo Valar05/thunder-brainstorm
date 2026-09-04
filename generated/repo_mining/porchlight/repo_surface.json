@@ -1,0 +1,911 @@
+{
+  "repo": "Valar05/porchlight",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "A living, community-reviewed Internet Access Map with deterministic local discovery workers.",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "porchlight",
+    "updatedAt": "2026-08-11T18:53:53Z",
+    "url": "https://github.com/Valar05/porchlight",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 10,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "a3f27df390300628fe7969cd1f21b857e25855a9",
+      "size": 3324,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 3324,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/porchlight/blob/main/README.md#L3",
+        "https://github.com/Valar05/porchlight/blob/main/README.md#L5",
+        "https://github.com/Valar05/porchlight/blob/main/README.md#L7",
+        "https://github.com/Valar05/porchlight/blob/main/README.md#L11",
+        "https://github.com/Valar05/porchlight/blob/main/README.md#L20",
+        "https://github.com/Valar05/porchlight/blob/main/README.md#L22",
+        "https://github.com/Valar05/porchlight/blob/main/README.md#L24",
+        "https://github.com/Valar05/porchlight/blob/main/README.md#L28"
+      ]
+    },
+    {
+      "path": "state.md",
+      "mode": "100644",
+      "sha": "dd80639b6ee7b08cae3b254e7c3813dd6edde116",
+      "size": 1934,
+      "score": 106,
+      "reasons": [
+        "authoritative state",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 1934,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/porchlight/blob/main/state.md#L4",
+        "https://github.com/Valar05/porchlight/blob/main/state.md#L5",
+        "https://github.com/Valar05/porchlight/blob/main/state.md#L14",
+        "https://github.com/Valar05/porchlight/blob/main/state.md#L16",
+        "https://github.com/Valar05/porchlight/blob/main/state.md#L19",
+        "https://github.com/Valar05/porchlight/blob/main/state.md#L22",
+        "https://github.com/Valar05/porchlight/blob/main/state.md#L23",
+        "https://github.com/Valar05/porchlight/blob/main/state.md#L28"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "9fcc5e15c9ed6ef245087724f3dd8c83b2484a07",
+      "size": 937,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 937,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/porchlight/blob/main/package.json#L25"
+      ]
+    },
+    {
+      "path": "extension/manifest.json",
+      "mode": "100644",
+      "sha": "a05ecf8a255cb141854025d7955c6f0ef566c4f0",
+      "size": 859,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 859,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L1",
+        "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L2",
+        "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L3",
+        "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L4",
+        "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L5",
+        "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L6",
+        "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L7",
+        "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L8"
+      ]
+    },
+    {
+      "path": "extension/service-worker.js",
+      "mode": "100644",
+      "sha": "e1fb5ac9c7dca6c089c14d297d5be4c57203371f",
+      "size": 3338,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 53,
+      "byte_count": 3338,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L2",
+        "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L4",
+        "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L12",
+        "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L14",
+        "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L15",
+        "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L16",
+        "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L17",
+        "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L18"
+      ]
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "mode": "100644",
+      "sha": "9d7666f61e6d473f9da3b5eac804d78f620fe97b",
+      "size": 945,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 15,
+      "byte_count": 945,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/porchlight/blob/main/CONTRIBUTING.md#L7",
+        "https://github.com/Valar05/porchlight/blob/main/CONTRIBUTING.md#L11",
+        "https://github.com/Valar05/porchlight/blob/main/CONTRIBUTING.md#L13",
+        "https://github.com/Valar05/porchlight/blob/main/CONTRIBUTING.md#L15"
+      ]
+    },
+    {
+      "path": "SECURITY.md",
+      "mode": "100644",
+      "sha": "bbf44d8331d720850b92cc37b6d27244be5704f0",
+      "size": 765,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 9,
+      "byte_count": 765,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/porchlight/blob/main/SECURITY.md#L3",
+        "https://github.com/Valar05/porchlight/blob/main/SECURITY.md#L5",
+        "https://github.com/Valar05/porchlight/blob/main/SECURITY.md#L7"
+      ]
+    },
+    {
+      "path": "extension/content-executor.js",
+      "mode": "100644",
+      "sha": "0b561d84fd009ea9cf68cc23186f7e61eefb1638",
+      "size": 6195,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 6195,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L2",
+        "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L8",
+        "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L19",
+        "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L20",
+        "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L26",
+        "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L31",
+        "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L33",
+        "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L34"
+      ]
+    },
+    {
+      "path": "site-pack.schema.json",
+      "mode": "100644",
+      "sha": "3c5ac3ea22a2d35e57126fd7e30ff9634c1e8b9e",
+      "size": 784,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 15,
+      "byte_count": 784,
+      "mechanics": [
+        "pose_animation_tools",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/porchlight/blob/main/site-pack.schema.json#L2",
+        "https://github.com/Valar05/porchlight/blob/main/site-pack.schema.json#L6",
+        "https://github.com/Valar05/porchlight/blob/main/site-pack.schema.json#L10"
+      ]
+    },
+    {
+      "path": "site-packs/lincoln-example/adapter.json",
+      "mode": "100644",
+      "sha": "e339aacd2ece7fa48134cc28b3853d68124ba549",
+      "size": 1620,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 1620,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/porchlight/blob/main/site-packs/lincoln-example/adapter.json#L4",
+        "https://github.com/Valar05/porchlight/blob/main/site-packs/lincoln-example/adapter.json#L5",
+        "https://github.com/Valar05/porchlight/blob/main/site-packs/lincoln-example/adapter.json#L9",
+        "https://github.com/Valar05/porchlight/blob/main/site-packs/lincoln-example/adapter.json#L10",
+        "https://github.com/Valar05/porchlight/blob/main/site-packs/lincoln-example/adapter.json#L12",
+        "https://github.com/Valar05/porchlight/blob/main/site-packs/lincoln-example/adapter.json#L13",
+        "https://github.com/Valar05/porchlight/blob/main/site-packs/lincoln-example/adapter.json#L14"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 106,
+    "by_origin": {
+      "github": 106
+    },
+    "by_project": {
+      "porchlight": 106
+    },
+    "by_mechanic": {
+      "ai_pressure": 54,
+      "text_console_runtime": 27,
+      "asset_import_pipeline": 26,
+      "tts_audio_pipeline": 23,
+      "pose_animation_tools": 15,
+      "web_choice_player": 9,
+      "validation_pipeline": 3,
+      "touch_lane_combat": 2,
+      "vehicle_survival": 2,
+      "writing_corpus_review": 2
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Porchlight is a living, community-reviewed map of how people and assistive tools can use the web. It maps public origins, reusable page archetypes, accessible landmarks and cont...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "**The map is the product.** The local paired-tab runtime is one deterministic discovery and verification worker. It contains no model, embeddings, OCR, or network inference.",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Status: **public beta 0.8.1**. The source and hostile-origin contract are tested. The read-only map is published at **https://valar05.github.io/porchlight/** and rebuilt from re...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "Load the `extension/` folder as an unpacked extension. Its manifest public key fixes the extension ID at `dmfjnjkccebgbiepjbmbdmpffcaikaje`; the loopback daemon rejects every ot...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "At the `porchlight>` prompt, run `pair https://example.com`, open that exact origin in an ordinary tab, and click the extension. The lease is tab-bound, lasts fifteen minutes, a...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "A route graduates only after at least three verified successes across at least two document instances. A site-pack PR may contain only a public HTTPS origin, page archetype, gen...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "A contribution never contains URL paths or query strings, accounts, typed values, cookies, credentials, raw DOM, screenshots, claim/case numbers, or user identifiers. Authentica...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "A verified page action proves only that page action. It does not prove remote receipt, delivery, filing, or indexing. A remote-received claim remains `submitted_unconfirmed` unt...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L42"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Porchlight is a living, community-reviewed map of how people and assistive tools can use the web. It maps public origins, reusable page archetypes, accessible landmarks and cont...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Status: **public beta 0.8.1**. The source and hostile-origin contract are tested. The read-only map is published at **https://valar05.github.io/porchlight/** and rebuilt from re...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "Load the `extension/` folder as an unpacked extension. Its manifest public key fixes the extension ID at `dmfjnjkccebgbiepjbmbdmpffcaikaje`; the loopback daemon rejects every ot...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "At the `porchlight>` prompt, run `pair https://example.com`, open that exact origin in an ordinary tab, and click the extension. The lease is tab-bound, lasts fifteen minutes, a...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "A route graduates only after at least three verified successes across at least two document instances. A site-pack PR may contain only a public HTTPS origin, page archetype, gen...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 15,
+          "symbol": "",
+          "evidence": "const [{documentId, result}] = await chrome.scripting.executeScript({target: {tabId: tab.id}, func: () => ({url: location.href, origin: location.origin})});",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L15"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 16,
+          "symbol": "",
+          "evidence": "if (result.origin !== intent.expectedOrigin) throw new Error('ORIGIN_MISMATCH');",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L16"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "CONTRIBUTING.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "A pull request may include a public HTTPS origin and reusable structural facts. It must not include URL paths or query strings, accounts, field values, raw DOM, screenshots, coo...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/CONTRIBUTING.md#L11"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Porchlight is a living, community-reviewed map of how people and assistive tools can use the web. It maps public origins, reusable page archetypes, accessible landmarks and cont...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "Requirements: Node.js 22+ and Chromium/Chrome with permission to load an unpacked extension.",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "Load the `extension/` folder as an unpacked extension. Its manifest public key fixes the extension ID at `dmfjnjkccebgbiepjbmbdmpffcaikaje`; the loopback daemon rejects every ot...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "state.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Privacy-safe receipts, metrics, discovery graduation, site-pack generation, accessible HTML/JSON map, query CLI, and freshness checks: implemented and tested.",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/state.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 49,
+          "symbol": "",
+          "evidence": "async function restore() { const saved = await chrome.storage.session.get('pairing'); if (saved.pairing) { pairing = saved.pairing; poll(); } }",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L49"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "CONTRIBUTING.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "A route needs at least three verified successes across at least two document instances. Every route needs a deterministic postcondition. A click, submit, upload, send, or file a...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/CONTRIBUTING.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/content-executor.js",
+          "line": 37,
+          "symbol": "",
+          "evidence": "if (command.action === 'set_value') { const proto = el.tagName === 'TEXTAREA' ? HTMLTextAreaElement.prototype : HTMLInputElement.prototype; const setter = Object.getOwnPropertyD...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L37"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "site-packs/lincoln-example/adapter.json",
+          "line": 10,
+          "symbol": "adapter",
+          "evidence": "\"adapter\": {\"receiptClaims\": [\"page_action_verified\", \"remote_received\"], \"nativeRoutes\": [\"upload\"]},",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/site-packs/lincoln-example/adapter.json#L10"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Status: **public beta 0.8.1**. The source and hostile-origin contract are tested. The read-only map is published at **https://valar05.github.io/porchlight/** and rebuilt from re...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "Load the `extension/` folder as an unpacked extension. Its manifest public key fixes the extension ID at `dmfjnjkccebgbiepjbmbdmpffcaikaje`; the loopback daemon rejects every ot...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "state.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Public source repository: delivered.",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/state.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "package.json",
+          "line": 25,
+          "symbol": "license",
+          "evidence": "\"license\": \"MIT\",",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/package.json#L25"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 1,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L1"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 2,
+          "symbol": "manifest_version",
+          "evidence": "\"manifest_version\": 3,",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 3,
+          "symbol": "name",
+          "evidence": "\"name\": \"Porchlight — local portal reflex\",",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 4,
+          "symbol": "version",
+          "evidence": "\"version\": \"0.8.1\",",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L4"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "Load the `extension/` folder as an unpacked extension. Its manifest public key fixes the extension ID at `dmfjnjkccebgbiepjbmbdmpffcaikaje`; the loopback daemon rejects every ot...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 1,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L1"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 2,
+          "symbol": "manifest_version",
+          "evidence": "\"manifest_version\": 3,",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 3,
+          "symbol": "name",
+          "evidence": "\"name\": \"Porchlight — local portal reflex\",",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 4,
+          "symbol": "version",
+          "evidence": "\"version\": \"0.8.1\",",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 5,
+          "symbol": "description",
+          "evidence": "\"description\": \"Gesture-pairs one authenticated tab to a deterministic local DOM runtime.\",",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 6,
+          "symbol": "permissions",
+          "evidence": "\"permissions\": [",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L6"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/manifest.json",
+          "line": 7,
+          "symbol": "",
+          "evidence": "\"activeTab\",",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/manifest.json#L7"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "The deterministic grammar is: `look`, `click “Name”`, `read “Name”`, `type “value” into “Field”`, `choose “Option” in “Field”`, `scroll down`, `screenshot`, `submit “Button”`, `...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 24,
+          "symbol": "",
+          "evidence": "} catch (error) { console.error('Porchlight pair failed', error); }",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L24"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 31,
+          "symbol": "",
+          "evidence": "const response = await fetch(`${ROOT}/command?pairingId=${encodeURIComponent(pairing.pairingId)}`, {cache: 'no-store'});",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L31"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 33,
+          "symbol": "",
+          "evidence": "if (!response.ok) throw new Error(`COMMAND_${response.status}`);",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L33"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 34,
+          "symbol": "",
+          "evidence": "const {command} = await response.json(); let result;",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L34"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 36,
+          "symbol": "",
+          "evidence": "if (command.action === 'screenshot') {",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L36"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 38,
+          "symbol": "",
+          "evidence": "result = {verified: Boolean(screenshotDataUrl), screenshotDataUrl, screenshotReason: command.reason || 'explicit_request', locatorStrategy: 'visible_tab_capture'};",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L38"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 40,
+          "symbol": "",
+          "evidence": "const [row] = await chrome.scripting.executeScript({target: {tabId: pairing.tabId}, func: (cmd) => globalThis.__PORCHLIGHT_EXECUTE__(cmd), args: [command]});",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L40"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "state.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Gesture-paired MV3 extension with pinned bootstrap identity: implemented and tested.",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/state.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/service-worker.js",
+          "line": 2,
+          "symbol": "",
+          "evidence": "'use strict';",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/service-worker.js#L2"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/content-executor.js",
+          "line": 2,
+          "symbol": "",
+          "evidence": "'use strict';",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L2"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "state.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Grow the hosted map through privacy-safe site-pack PRs and add a reproducible signed/package release lane without weakening local-only operation or receipt truth.",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/state.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "extension/content-executor.js",
+          "line": 8,
+          "symbol": "",
+          "evidence": "const role = (el) => el.getAttribute('role') || ({A: 'link', BUTTON: 'button', INPUT: el.type === 'checkbox' ? 'checkbox' : 'textbox', SELECT: 'combobox', TEXTAREA: 'textbox'}[e...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/extension/content-executor.js#L8"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "state.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Grow the hosted map through privacy-safe site-pack PRs and add a reproducible signed/package release lane without weakening local-only operation or receipt truth.",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/state.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "SECURITY.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The runtime listens only on loopback. It has no cookie permission, broad host permission, native messaging permission, OCR, model, or network-inference dependency. Native file p...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/SECURITY.md#L7"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "SECURITY.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Please report a vulnerability through GitHub's private security-advisory interface for this repository. Do not place credentials, session material, private portal data, or explo...",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/SECURITY.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "porchlight",
+          "repo": "Valar05/porchlight",
+          "path": "site-pack.schema.json",
+          "line": 2,
+          "symbol": "$schema",
+          "evidence": "\"$schema\": \"https://json-schema.org/draft/2020-12/schema\",",
+          "source_url": "https://github.com/Valar05/porchlight/blob/main/site-pack.schema.json#L2"
+        }
+      ]
+    }
+  }
+}

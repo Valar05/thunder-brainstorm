@@ -29,6 +29,11 @@ python thunder_brainstorm.py generate --count 5 --seed 17
 python thunder_brainstorm.py generate --focus "mobile action" --count 3
 python thunder_brainstorm.py inspect-local --root .. --out generated/local_scan.json
 python thunder_brainstorm.py inspect-gh --owner Valar05 --out generated/gh_scan.json
+python thunder_brainstorm.py mine-gh-repo --owner Valar05 --repo motion-dungeon --out-dir generated/repo_mining
+python thunder_brainstorm.py mine-gh-owner --owner Valar05 --out-dir generated/repo_mining --max-files 24
+python thunder_brainstorm.py critical-manifest --summary generated/repo_mining/Valar05_overnight_summary.json --out-dir generated/critical_thunder_manifest
+python thunder_brainstorm.py compose-motion-dungeon
+python thunder_brainstorm.py export-motion-dungeon-targets
 python thunder_brainstorm.py index-corpus --root .. --out-dir generated/index
 python thunder_brainstorm.py index-corpus --root .. --include-gh --owner Valar05 --gh-limit 20 --out-dir generated/index_full
 python thunder_brainstorm.py index-corpus --skip-local --include-gh --owner Valar05 --gh-limit 10 --max-gh-files-per-repo 25 --out-dir generated/index_github

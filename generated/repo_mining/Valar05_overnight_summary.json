@@ -1,0 +1,47 @@
+{
+  "owner": "Valar05",
+  "limit": 94,
+  "repo_count": 90,
+  "selected_file_count": 1450,
+  "indexed_records": 133211,
+  "mechanic_counts": {
+    "ai_pressure": 46589,
+    "asset_import_pipeline": 35684,
+    "tts_audio_pipeline": 24860,
+    "web_choice_player": 17134,
+    "pose_animation_tools": 15710,
+    "source_packet_generation": 12240,
+    "text_console_runtime": 10381,
+    "validation_pipeline": 8140,
+    "touch_lane_combat": 8031,
+    "writing_corpus_review": 6949,
+    "vehicle_survival": 6274,
+    "resource_upgrade_loop": 4686,
+    "event_clouds": 3398,
+    "delayed_consequences": 2176,
+    "deck_pressure": 1612
+  },
+  "skipped": [
+    {
+      "repo": "Hard-Surface-Factory",
+      "reason": "failed",
+      "error": "Command '['/data/data/com.termux/files/usr/bin/python', '/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/thunder_brainstorm.py', 'mine-gh-repo', '--owner', 'Valar05', '--repo', 'Hard-Surface-Factory', '--ref', 'HEAD', '--out-dir', 'generated/repo_mining', '--max-files', '24', '--quiet']' returned non-zero exit status 1."
+    },
+    {
+      "repo": "ruined_air",
+      "reason": "failed",
+      "error": "Command '['/data/data/com.termux/files/usr/bin/python', '/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/thunder_brainstorm.py', 'mine-gh-repo', '--owner', 'Valar05', '--repo', 'ruined_air', '--ref', 'HEAD', '--out-dir', 'generated/repo_mining', '--max-files', '24', '--quiet']' returned non-zero exit status 1."
+    },
+    {
+      "repo": "Fleshpunk-Crusade",
+      "reason": "failed",
+      "error": "Command '['/data/data/com.termux/files/usr/bin/python', '/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/thunder_brainstorm.py', 'mine-gh-repo', '--owner', 'Valar05', '--repo', 'Fleshpunk-Crusade', '--ref', 'HEAD', '--out-dir', 'generated/repo_mining', '--max-files', '24', '--quiet']' returned non-zero exit status 1."
+    },
+    {
+      "repo": "mealPlanner",
+      "reason": "failed",
+      "error": "Command '['/data/data/com.termux/files/usr/bin/python', '/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/thunder_brainstorm.py', 'mine-gh-repo', '--owner', 'Valar05', '--repo', 'mealPlanner', '--ref', 'HEAD', '--out-dir', 'generated/repo_mining', '--max-files', '24', '--quiet']' returned non-zero exit status 1."
+    }
+  ],
+  "summary_path": "generated/repo_mining/Valar05_overnight_summary.jsonl"
+}

@@ -1,0 +1,2813 @@
+{
+  "authority": {
+    "organ_plan_sha256": "dc568497be7f525663e41ffe86f8fcf6b0b8adf697e7d459e1ebbfbce233d1a1",
+    "three_axis_amendment_sha256": "e4b8959b2eb914cd4352e1983966b7465ec1b9705d99d4bb6e711ef6ccdc1ade",
+    "thunder_first_amendment_sha256": "5e4953f1945dc783ef50c117d1c62afd8436ee39304c43ce836e09e368d295cf"
+  },
+  "branch": "codex/infinite-brutality-terrain-mirror",
+  "classification": "UNREVIEWED_RECOVERY_SNAPSHOT",
+  "created_utc": "2026-09-04T10:52:33.097126+00:00",
+  "entries": [
+    {
+      "bytes": 15673,
+      "path": "README.md",
+      "sha256": "6115ad1c8c93db4e34aadf8464515b8740cd33aad87b69a983fe4863dceadb60",
+      "status": "M"
+    },
+    {
+      "bytes": 1784,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T172901Z/claude_prompt.md",
+      "sha256": "4041f7ec358e27160985c1d8b229f62f18efcafa1e0dc11d3efd52b32142205c",
+      "status": "??"
+    },
+    {
+      "bytes": 229612,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T172901Z/claude_raw.json",
+      "sha256": "d0c3da2ec7429d31100f8a9a103db95409b124b165ebce70c61ba554d4c3c841",
+      "status": "??"
+    },
+    {
+      "bytes": 7809,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T172901Z/claude_review.json",
+      "sha256": "0789bcd5c0f02462dbf4c2fe320483f44eb9e316c35f7a39b64826463054dc27",
+      "status": "??"
+    },
+    {
+      "bytes": 5249,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T172901Z/github_review_payload.json",
+      "sha256": "16e69c2dbf6d2f6b2ab7fa656d96efe952afd73ebf6bb78faf9b1567dd2b1e54",
+      "status": "??"
+    },
+    {
+      "bytes": 1725,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T172901Z/quartermaster_verification.md",
+      "sha256": "b3ac3c8f921d3bdbe7d072eb7c4ed93cc124c4ad12f13ef0ee4467660619e49c",
+      "status": "??"
+    },
+    {
+      "bytes": 1105,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T172901Z/repo_read_log.json",
+      "sha256": "b7aa3691cd87a8b1c4a87e8c03bb4f301b1def1897c905cffc42741f3c0f6055",
+      "status": "??"
+    },
+    {
+      "bytes": 396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T172901Z/review_mission.md",
+      "sha256": "abef227f4020bdc599aaa258f205a058fbf174d47eeac4f3a651b3667caa86b8",
+      "status": "??"
+    },
+    {
+      "bytes": 4704,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T172901Z/review_report.md",
+      "sha256": "72adb1bf60f5559899ae5a2ca11e227b39c9db97def25d32f1c102ed6074e08c",
+      "status": "??"
+    },
+    {
+      "bytes": 223299,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T172901Z/tool_transcript.jsonl",
+      "sha256": "a27b038414fac6172697929fe857244e8591b01f78ddeba7e662e84e2e32c886",
+      "status": "??"
+    },
+    {
+      "bytes": 5390,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T172901Z/verified_findings.json",
+      "sha256": "ef65c5e4cc47b261e52e3d3f6da6e2fbb55aa4ae5e4eb91aa0ffe8e664ace197",
+      "status": "??"
+    },
+    {
+      "bytes": 1784,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T192132Z/claude_prompt.md",
+      "sha256": "4041f7ec358e27160985c1d8b229f62f18efcafa1e0dc11d3efd52b32142205c",
+      "status": "??"
+    },
+    {
+      "bytes": 223268,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T192132Z/claude_raw.json",
+      "sha256": "4bbf7f96706d88db7b9abc90c87ea594094cd05ab9aedf2ed470a081a70518ad",
+      "status": "??"
+    },
+    {
+      "bytes": 4864,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T192132Z/claude_review.json",
+      "sha256": "fbc39a6c461c27971e94ee8bebc3cb2552607acd7e308ee55e7f5940d7c0d400",
+      "status": "??"
+    },
+    {
+      "bytes": 2379,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T192132Z/github_review_payload.json",
+      "sha256": "a98a26819636a80f6618dd51ca60be5ed1256e64812e5e48e852f5f8d7e0be5a",
+      "status": "??"
+    },
+    {
+      "bytes": 1079,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T192132Z/repo_read_log.json",
+      "sha256": "3d68591f416d158f804f53207b2ce70bde6d1220f08a50b713466dfe06599b6c",
+      "status": "??"
+    },
+    {
+      "bytes": 396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T192132Z/review_mission.md",
+      "sha256": "abef227f4020bdc599aaa258f205a058fbf174d47eeac4f3a651b3667caa86b8",
+      "status": "??"
+    },
+    {
+      "bytes": 3861,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T192132Z/review_report.md",
+      "sha256": "d1ff0a6e71766fe1dc9161fb1ddacb4068212c9cf908d349d274f5090710aab3",
+      "status": "??"
+    },
+    {
+      "bytes": 217709,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T192132Z/tool_transcript.jsonl",
+      "sha256": "c715358374d4550d4ef468c4588c3b3063558a0d48851c282e37fe50d9049a95",
+      "status": "??"
+    },
+    {
+      "bytes": 2370,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_20260702T192132Z/verified_findings.json",
+      "sha256": "82758a388d99517258e32815cd6bf37a2207555009fce97c1507047d55a4999a",
+      "status": "??"
+    },
+    {
+      "bytes": 6629,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_red_build_visual_20260702T1743Z/claude_visual_red_build_raw.txt",
+      "sha256": "048b3fe45644cca7db94a74767d20187e4671dd1765fe244464c190bb0c54211",
+      "status": "??"
+    },
+    {
+      "bytes": 7421,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_red_build_visual_20260702T1743Z/claude_visual_red_build_response.json",
+      "sha256": "a2e5a6932c4beec04f3bf5359f59f7326654cb78c154ecf356c7fc5c8d474d7e",
+      "status": "??"
+    },
+    {
+      "bytes": 6629,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_red_build_visual_20260702T1743Z/claude_visual_red_build_review.json",
+      "sha256": "b91fe3a4630c0a2e77055de06504bbaef28aa5e14c4bf19ff89a08a1a47194b9",
+      "status": "??"
+    },
+    {
+      "bytes": 548,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_red_build_visual_20260702T1743Z/manifest.json",
+      "sha256": "81e54a9810de302a650cef1bd1dc718ea305a62c1037e8a982d30050e61b643d",
+      "status": "??"
+    },
+    {
+      "bytes": 1096,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_red_build_visual_20260702T1743Z/visual_red_build_prompt.md",
+      "sha256": "a1a142a57b0267acac6116d59cfb0a837d716034fb858f12f2386d5a5e86013e",
+      "status": "??"
+    },
+    {
+      "bytes": 1402,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_2_red_build_visual_20260702T1743Z/visual_red_build_source.md",
+      "sha256": "01687c33a4e94122a7fc539a26088d0ccde0bff8f685d975297a7f43a1ab48dc",
+      "status": "??"
+    },
+    {
+      "bytes": 1784,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T192956Z/claude_prompt.md",
+      "sha256": "241e8f61ddca069c7ef25f01341a9e15ace969e5946b2f04fa47493586a8320b",
+      "status": "??"
+    },
+    {
+      "bytes": 396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T192956Z/review_mission.md",
+      "sha256": "6af781b22471eb30157188698a57b03c68910e126ac58a4d0b1773dc4590c735",
+      "status": "??"
+    },
+    {
+      "bytes": 1784,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T193544Z/claude_prompt.md",
+      "sha256": "241e8f61ddca069c7ef25f01341a9e15ace969e5946b2f04fa47493586a8320b",
+      "status": "??"
+    },
+    {
+      "bytes": 396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T193544Z/review_mission.md",
+      "sha256": "6af781b22471eb30157188698a57b03c68910e126ac58a4d0b1773dc4590c735",
+      "status": "??"
+    },
+    {
+      "bytes": 1784,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T193614Z/claude_prompt.md",
+      "sha256": "241e8f61ddca069c7ef25f01341a9e15ace969e5946b2f04fa47493586a8320b",
+      "status": "??"
+    },
+    {
+      "bytes": 396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T193614Z/review_mission.md",
+      "sha256": "6af781b22471eb30157188698a57b03c68910e126ac58a4d0b1773dc4590c735",
+      "status": "??"
+    },
+    {
+      "bytes": 372080,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T193614Z/tool_transcript.jsonl",
+      "sha256": "9abaee6438550f17ad2c1d02cca1480287f55100b2b967354e5e46585520817d",
+      "status": "??"
+    },
+    {
+      "bytes": 1784,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T194001Z/claude_prompt.md",
+      "sha256": "241e8f61ddca069c7ef25f01341a9e15ace969e5946b2f04fa47493586a8320b",
+      "status": "??"
+    },
+    {
+      "bytes": 396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T194001Z/review_mission.md",
+      "sha256": "6af781b22471eb30157188698a57b03c68910e126ac58a4d0b1773dc4590c735",
+      "status": "??"
+    },
+    {
+      "bytes": 376639,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T194001Z/tool_transcript.jsonl",
+      "sha256": "e401feb0eba5ee29ed39d7e20a8a1fcff58ddfd44c05e9e0e2156ea1b75c7ede",
+      "status": "??"
+    },
+    {
+      "bytes": 1784,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T194750Z/claude_prompt.md",
+      "sha256": "241e8f61ddca069c7ef25f01341a9e15ace969e5946b2f04fa47493586a8320b",
+      "status": "??"
+    },
+    {
+      "bytes": 396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T194750Z/review_mission.md",
+      "sha256": "6af781b22471eb30157188698a57b03c68910e126ac58a4d0b1773dc4590c735",
+      "status": "??"
+    },
+    {
+      "bytes": 387869,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T194750Z/tool_transcript.jsonl",
+      "sha256": "b874434c6336f49a3a3b849876608701315367cce59f05d8ca1946df5e2bc912",
+      "status": "??"
+    },
+    {
+      "bytes": 1784,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200109Z/claude_prompt.md",
+      "sha256": "241e8f61ddca069c7ef25f01341a9e15ace969e5946b2f04fa47493586a8320b",
+      "status": "??"
+    },
+    {
+      "bytes": 396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200109Z/review_mission.md",
+      "sha256": "6af781b22471eb30157188698a57b03c68910e126ac58a4d0b1773dc4590c735",
+      "status": "??"
+    },
+    {
+      "bytes": 1784,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200143Z/claude_prompt.md",
+      "sha256": "241e8f61ddca069c7ef25f01341a9e15ace969e5946b2f04fa47493586a8320b",
+      "status": "??"
+    },
+    {
+      "bytes": 396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200143Z/review_mission.md",
+      "sha256": "6af781b22471eb30157188698a57b03c68910e126ac58a4d0b1773dc4590c735",
+      "status": "??"
+    },
+    {
+      "bytes": 372636,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200143Z/tool_transcript.jsonl",
+      "sha256": "073846f2e99dda9a3005e64b4f63aee3285e8a59d4c5f93737d5c7fe54c05279",
+      "status": "??"
+    },
+    {
+      "bytes": 1784,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200640Z/claude_prompt.md",
+      "sha256": "241e8f61ddca069c7ef25f01341a9e15ace969e5946b2f04fa47493586a8320b",
+      "status": "??"
+    },
+    {
+      "bytes": 325742,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200640Z/claude_raw.json",
+      "sha256": "01234fdef0517278fe089fe620aca9ba77c27f9b026dce2acfd87076dce7c87b",
+      "status": "??"
+    },
+    {
+      "bytes": 7469,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200640Z/claude_review.json",
+      "sha256": "25ff77b6e3b3d439cc79fca7bcfa3ec61ba6db1419ebe4abd31705a06ac087a4",
+      "status": "??"
+    },
+    {
+      "bytes": 4184,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200640Z/github_review_payload.json",
+      "sha256": "8f38a80434293317ab63eb9db1c85cf7ab54cd8f0ac754f4f1aa00f03d296473",
+      "status": "??"
+    },
+    {
+      "bytes": 1396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200640Z/repo_read_log.json",
+      "sha256": "a479a17e1bdb698c3a4c1d434df61247530001a2972045bee18f28fc2d27c72e",
+      "status": "??"
+    },
+    {
+      "bytes": 396,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200640Z/review_mission.md",
+      "sha256": "6af781b22471eb30157188698a57b03c68910e126ac58a4d0b1773dc4590c735",
+      "status": "??"
+    },
+    {
+      "bytes": 5746,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200640Z/review_report.md",
+      "sha256": "304f262e2249f2165b5eedf08dca52ecea4f7f90ef877cb5b208cbb66e240a8e",
+      "status": "??"
+    },
+    {
+      "bytes": 319609,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200640Z/tool_transcript.jsonl",
+      "sha256": "c3ba8cb3b9d2ac63f6dceb65cdc9f27677165624bf66cb399dc4b676591e2115",
+      "status": "??"
+    },
+    {
+      "bytes": 4175,
+      "path": "generated/code_reviews/Valar05_pose-lab_pr_3_20260702T200640Z/verified_findings.json",
+      "sha256": "6d4ff58e04c8a178518f578ecca017706b0973babf20d2807f6c90f1cffff157",
+      "status": "??"
+    },
+    {
+      "bytes": 19438,
+      "path": "generated/critical_thunder_manifest/critical_thunder_manifest.json",
+      "sha256": "14449cc84ba2c990aab315d9a5c039fd9b8c5548f14d86029538481213cbff2e",
+      "status": "??"
+    },
+    {
+      "bytes": 7845,
+      "path": "generated/critical_thunder_manifest/critical_thunder_manifest.md",
+      "sha256": "1300ae5151611276dd43f448acbf7276bf7e911e3b0c7160ffde66fe478cd648",
+      "status": "??"
+    },
+    {
+      "bytes": 36563,
+      "path": "generated/motion_dungeon_composition/motion_dungeon_composition_manifest.json",
+      "sha256": "5b4c590bdfc7abc676870e45113798d96ebdb1cd74e0f8cac147ec1ba4082a8c",
+      "status": "??"
+    },
+    {
+      "bytes": 15506,
+      "path": "generated/motion_dungeon_composition/motion_dungeon_composition_manifest.md",
+      "sha256": "c3a2f922a82872d13f06fef1ba3eb048d54a238fc32eeeabc7e86cf1518ed6f3",
+      "status": "??"
+    },
+    {
+      "bytes": 3382,
+      "path": "generated/motion_dungeon_exports/export_matrix.json",
+      "sha256": "a171dd33a200d373c6daf8f59d51bdf423d0e90a9461f44e2d1dd7036cea5338",
+      "status": "??"
+    },
+    {
+      "bytes": 1013,
+      "path": "generated/motion_dungeon_exports/export_matrix.md",
+      "sha256": "1c35baf40fbc138e98116f300bedfdc85eb81ba3663bc60a9252eb9a7106a58e",
+      "status": "??"
+    },
+    {
+      "bytes": 9953,
+      "path": "generated/motion_dungeon_exports/godot/export_report.md",
+      "sha256": "b3304d2b7453328d2d94f5a2e01f71517b91229cf4d5292b03604d046b28aaaf",
+      "status": "??"
+    },
+    {
+      "bytes": 27308,
+      "path": "generated/motion_dungeon_exports/godot/export_spec.json",
+      "sha256": "c7ee929b29f3884bedf385d26aa714b4b32cf189b9fc7ab0b65473b36da1608d",
+      "status": "??"
+    },
+    {
+      "bytes": 257,
+      "path": "generated/motion_dungeon_exports/godot/export_stamp.json",
+      "sha256": "6094115d1cf3546745d48ee026394f96fb40fb09e29b7d461c13ee73f4040caa",
+      "status": "??"
+    },
+    {
+      "bytes": 9972,
+      "path": "generated/motion_dungeon_exports/threejs/export_report.md",
+      "sha256": "00b6505d4aa514413084e391ee9d4a7a113267eac2603d099c1248e28315de13",
+      "status": "??"
+    },
+    {
+      "bytes": 27329,
+      "path": "generated/motion_dungeon_exports/threejs/export_spec.json",
+      "sha256": "64c70fb17b5b3e2f7aa586048fb3861b18e459900bf799193fd348e532310aeb",
+      "status": "??"
+    },
+    {
+      "bytes": 259,
+      "path": "generated/motion_dungeon_exports/threejs/export_stamp.json",
+      "sha256": "32c22019b2dad7fcd6d6c06f62df825ace7387108ff0ba8b54809927787b1710",
+      "status": "??"
+    },
+    {
+      "bytes": 9927,
+      "path": "generated/motion_dungeon_exports/unity/export_report.md",
+      "sha256": "fb95c5c2abd62b06ccdf69bb7dcc73609e1fde1009ecb6b5e6def63150a2bed9",
+      "status": "??"
+    },
+    {
+      "bytes": 27282,
+      "path": "generated/motion_dungeon_exports/unity/export_spec.json",
+      "sha256": "02cd84b10173f3bf4f7871a372bf2642887cfcd178b8bde059d0a6a8ec0aec99",
+      "status": "??"
+    },
+    {
+      "bytes": 257,
+      "path": "generated/motion_dungeon_exports/unity/export_stamp.json",
+      "sha256": "d88bf8446a8e668fb6d916acec6f841e8ad29edab6353991668a7ac99ec06e1e",
+      "status": "??"
+    },
+    {
+      "bytes": 9852,
+      "path": "generated/motion_dungeon_exports/unreal/export_report.md",
+      "sha256": "ea03d2d619aa8f08d65df9cfd3a53b259911ef3ad19a37197830c3615a6becbf",
+      "status": "??"
+    },
+    {
+      "bytes": 27208,
+      "path": "generated/motion_dungeon_exports/unreal/export_spec.json",
+      "sha256": "5667e7ba2619f996ca6339613151664b254961d10eba0b999e9ae16a659fb6f0",
+      "status": "??"
+    },
+    {
+      "bytes": 258,
+      "path": "generated/motion_dungeon_exports/unreal/export_stamp.json",
+      "sha256": "9b8de90b3384d550690443cfc4270525edf575db2d63426cddf902a2418561a8",
+      "status": "??"
+    },
+    {
+      "bytes": 296146,
+      "path": "generated/repo_mining/Belly-of-defiance/mechanic_source_refs.jsonl",
+      "sha256": "921dab24ad885d7e220f8eb40afa2095ac8151c73d0a98e46871e17539d9c0bc",
+      "status": "??"
+    },
+    {
+      "bytes": 135,
+      "path": "generated/repo_mining/Belly-of-defiance/repo_surface.done.json",
+      "sha256": "1990a4a46d118042943bed4a94d6d87c317e86d7ebb8ebb975e2a3ceaa13be2b",
+      "status": "??"
+    },
+    {
+      "bytes": 60247,
+      "path": "generated/repo_mining/Belly-of-defiance/repo_surface.json",
+      "sha256": "df2f157576b69e0b93a60d995a48603e04ade86b32766452a131d177d81808a4",
+      "status": "??"
+    },
+    {
+      "bytes": 4182,
+      "path": "generated/repo_mining/Belly-of-defiance/repo_surface_report.md",
+      "sha256": "8d228ac8ec5c86da336a0a29840d9d729a27e5257fe169bdddd12ae3364fea1d",
+      "status": "??"
+    },
+    {
+      "bytes": 838089,
+      "path": "generated/repo_mining/Beneath-the-Veil/mechanic_source_refs.jsonl",
+      "sha256": "450b09537f7a9951bc54e590c8c165ad67e354b3064e404dc2cdad8b7f46c628",
+      "status": "??"
+    },
+    {
+      "bytes": 137,
+      "path": "generated/repo_mining/Beneath-the-Veil/repo_surface.done.json",
+      "sha256": "b6a41d2be03a3118b4f5f534824849263442269acbbc879211bad6ee4d1d1607",
+      "status": "??"
+    },
+    {
+      "bytes": 69129,
+      "path": "generated/repo_mining/Beneath-the-Veil/repo_surface.json",
+      "sha256": "5d4c968ad55bca4548963e3b1dbcc38f3e8cea04d6c7ad6283abd9fdb32038dd",
+      "status": "??"
+    },
+    {
+      "bytes": 4924,
+      "path": "generated/repo_mining/Beneath-the-Veil/repo_surface_report.md",
+      "sha256": "d9c4beffce334219c524e61745983cbb4ba07524cadbf8c22a1e437bfb616be4",
+      "status": "??"
+    },
+    {
+      "bytes": 145301,
+      "path": "generated/repo_mining/Forbidden_Path/mechanic_source_refs.jsonl",
+      "sha256": "68fb242d4c46c740b0a02c17fb85ba9cd1b4c9426e310ba804aec5a98bdadd68",
+      "status": "??"
+    },
+    {
+      "bytes": 134,
+      "path": "generated/repo_mining/Forbidden_Path/repo_surface.done.json",
+      "sha256": "e9f2aced9375f34b738ec939b7bdbf3027fa523bc920f445d7c1c4a513e66744",
+      "status": "??"
+    },
+    {
+      "bytes": 26164,
+      "path": "generated/repo_mining/Forbidden_Path/repo_surface.json",
+      "sha256": "3ded4afce2a41b05de8df7219d97dae0354ca460cb507d34632238deea69ada6",
+      "status": "??"
+    },
+    {
+      "bytes": 2356,
+      "path": "generated/repo_mining/Forbidden_Path/repo_surface_report.md",
+      "sha256": "622e8a70ec871e71eb290cf8a1757a5a306da231e00356ea9bde06ec20c172a1",
+      "status": "??"
+    },
+    {
+      "bytes": 137034,
+      "path": "generated/repo_mining/InfiniteBrutality/mechanic_source_refs.jsonl",
+      "sha256": "5393184cd8a7853cbb75b248c6c84d44428b4ef62e985d621a319f9010ff4345",
+      "status": "??"
+    },
+    {
+      "bytes": 135,
+      "path": "generated/repo_mining/InfiniteBrutality/repo_surface.done.json",
+      "sha256": "2a17b851283c769ecac6d9b0601a250132585e6a5cb676f203d8ef42be6b6baf",
+      "status": "??"
+    },
+    {
+      "bytes": 28101,
+      "path": "generated/repo_mining/InfiniteBrutality/repo_surface.json",
+      "sha256": "20a1974ffb0bb696afc454089c96a7a37a8c51fb8c1fb484534a768a78cf2a8b",
+      "status": "??"
+    },
+    {
+      "bytes": 1729,
+      "path": "generated/repo_mining/InfiniteBrutality/repo_surface_report.md",
+      "sha256": "fa6a39670d137e7b607f1f817ab3fc501fd69858de7b9d0b06012a02cee6d87a",
+      "status": "??"
+    },
+    {
+      "bytes": 0,
+      "path": "generated/repo_mining/Primal-Conflict/mechanic_source_refs.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "??"
+    },
+    {
+      "bytes": 130,
+      "path": "generated/repo_mining/Primal-Conflict/repo_surface.done.json",
+      "sha256": "3eb550cee3827bb7e63f026da6d8ca7e74615835c5e8432ed33cb27049c61b50",
+      "status": "??"
+    },
+    {
+      "bytes": 649,
+      "path": "generated/repo_mining/Primal-Conflict/repo_surface.json",
+      "sha256": "92a38c32c5b15098d3bcd675d3169a146f8b220e56953f17ce922c24ac155db1",
+      "status": "??"
+    },
+    {
+      "bytes": 287,
+      "path": "generated/repo_mining/Primal-Conflict/repo_surface_report.md",
+      "sha256": "91803c908925c8548499197750c0ae4b8fb3e30ad5c8b05e46f1b0df38ea2056",
+      "status": "??"
+    },
+    {
+      "bytes": 13339,
+      "path": "generated/repo_mining/Spotify-Saver/mechanic_source_refs.jsonl",
+      "sha256": "6c44bcad7b03076176246714e5d50042d1d68dd89431a6950dff0f8907e8d0ed",
+      "status": "??"
+    },
+    {
+      "bytes": 129,
+      "path": "generated/repo_mining/Spotify-Saver/repo_surface.done.json",
+      "sha256": "220d7c2627097b3c556b3f43c60fdc49e2183f93de55dc2371310aebb4620dce",
+      "status": "??"
+    },
+    {
+      "bytes": 17871,
+      "path": "generated/repo_mining/Spotify-Saver/repo_surface.json",
+      "sha256": "e4fdac71a20856045c7f96c6dfa47ad5c813e17071c1f87cbce4ff1bf6ed8078",
+      "status": "??"
+    },
+    {
+      "bytes": 1091,
+      "path": "generated/repo_mining/Spotify-Saver/repo_surface_report.md",
+      "sha256": "77184fb28f5f8b60e75f7b22296845f55edaf2997ee434447dbeb940a446f82a",
+      "status": "??"
+    },
+    {
+      "bytes": 2408,
+      "path": "generated/repo_mining/Valar05_overnight_summary.json",
+      "sha256": "63e63e8b1aac1c5ba03a30cf2557d3ec3e9a1ec95463b763c0301daecf67a8f9",
+      "status": "??"
+    },
+    {
+      "bytes": 35928,
+      "path": "generated/repo_mining/Valar05_overnight_summary.jsonl",
+      "sha256": "e2d34e94ffddfcc45da22cd6219810c70c49036e00691ecfe444544fcde256f2",
+      "status": "??"
+    },
+    {
+      "bytes": 1459885,
+      "path": "generated/repo_mining/aegis-of-victory/mechanic_source_refs.jsonl",
+      "sha256": "dc3f7c3d1f3c64f9ae92a07d7da9a63c7b5a5dff2e568a0b4330081a6795d5cb",
+      "status": "??"
+    },
+    {
+      "bytes": 135,
+      "path": "generated/repo_mining/aegis-of-victory/repo_surface.done.json",
+      "sha256": "bb8fdc927e003ce46d428045de000cec5418dce333dfe084e32a6bba5ede5b6c",
+      "status": "??"
+    },
+    {
+      "bytes": 92132,
+      "path": "generated/repo_mining/aegis-of-victory/repo_surface.json",
+      "sha256": "ff1f01d5a955aa85af946f8237fd7270bcf15078219bd464eec3682fc7176d2b",
+      "status": "??"
+    },
+    {
+      "bytes": 7691,
+      "path": "generated/repo_mining/aegis-of-victory/repo_surface_report.md",
+      "sha256": "495fc5506a873d317f12fb0ceb6d165270e9413c862478be53b97301798c5246",
+      "status": "??"
+    },
+    {
+      "bytes": 423758,
+      "path": "generated/repo_mining/agent-closet/mechanic_source_refs.jsonl",
+      "sha256": "39c511b8b47086e5d94b1e5c1c4dd8a7d4045d60e56c153a637e26db358f49a5",
+      "status": "??"
+    },
+    {
+      "bytes": 131,
+      "path": "generated/repo_mining/agent-closet/repo_surface.done.json",
+      "sha256": "acbee44bd61a19d1dbc0e9f1900a61c631a021d4d08e153406ed4f435e8ec53c",
+      "status": "??"
+    },
+    {
+      "bytes": 64393,
+      "path": "generated/repo_mining/agent-closet/repo_surface.json",
+      "sha256": "49be79da2a2a3b22f2737f6e27ea8fd908249d35daa87a14923980d57119bcb4",
+      "status": "??"
+    },
+    {
+      "bytes": 5292,
+      "path": "generated/repo_mining/agent-closet/repo_surface_report.md",
+      "sha256": "b42edd3ba0ba9fdb3eb57a2a705d9a109e846fe10324a97715094dc094b8d718",
+      "status": "??"
+    },
+    {
+      "bytes": 297086,
+      "path": "generated/repo_mining/agent-commander/mechanic_source_refs.jsonl",
+      "sha256": "25a2dc0618edbf90c466faaf151b2c3ea386e74e79f4ac39770f5393b6054eb7",
+      "status": "??"
+    },
+    {
+      "bytes": 133,
+      "path": "generated/repo_mining/agent-commander/repo_surface.done.json",
+      "sha256": "692b180f2957fb9ad1c0d7fda782600c9968f8ca5e2e1e9cdd9af224c05b929f",
+      "status": "??"
+    },
+    {
+      "bytes": 73118,
+      "path": "generated/repo_mining/agent-commander/repo_surface.json",
+      "sha256": "af7cb3ff5863a5e42b1d55ec4c61f310d443dfde8da3aae23207e7bd3244c1e5",
+      "status": "??"
+    },
+    {
+      "bytes": 5671,
+      "path": "generated/repo_mining/agent-commander/repo_surface_report.md",
+      "sha256": "bf0cf19194ee8259b92bf6f616acc3698f97b92e575b1499a34bd79101b6d8d0",
+      "status": "??"
+    },
+    {
+      "bytes": 40383,
+      "path": "generated/repo_mining/arcanachoir/mechanic_source_refs.jsonl",
+      "sha256": "2c4900052d908ed9bd618cb487937672eda17f54228469b28120aec840467dc9",
+      "status": "??"
+    },
+    {
+      "bytes": 131,
+      "path": "generated/repo_mining/arcanachoir/repo_surface.done.json",
+      "sha256": "8a85c9d05ea2ad4016df0311c0be890bbf25dbc6868241aef24cd311d6f10eb0",
+      "status": "??"
+    },
+    {
+      "bytes": 34559,
+      "path": "generated/repo_mining/arcanachoir/repo_surface.json",
+      "sha256": "7e5ab2962b1592fce09ba6068f3ee5eb478a34685e6e9e76d3305b7463796ad5",
+      "status": "??"
+    },
+    {
+      "bytes": 3381,
+      "path": "generated/repo_mining/arcanachoir/repo_surface_report.md",
+      "sha256": "fb1bae67211307d8d89b1056375ea1c7ffe5aea3c721d9e4e6d05784b236670b",
+      "status": "??"
+    },
+    {
+      "bytes": 345779,
+      "path": "generated/repo_mining/arcane-manifold/mechanic_source_refs.jsonl",
+      "sha256": "243a64bc16baffe10e38771d0e77f1ba389a12ccd06c871132d2314052d7d225",
+      "status": "??"
+    },
+    {
+      "bytes": 135,
+      "path": "generated/repo_mining/arcane-manifold/repo_surface.done.json",
+      "sha256": "0e02f863d3ca635fbd51b645964c40f5062dc4f32263eb8b16abb2cb3cfcfab4",
+      "status": "??"
+    },
+    {
+      "bytes": 52600,
+      "path": "generated/repo_mining/arcane-manifold/repo_surface.json",
+      "sha256": "affa7332671a5c8d19b42155c2c15daa265f5346ce8bb776e3034e400c575b27",
+      "status": "??"
+    },
+    {
+      "bytes": 3672,
+      "path": "generated/repo_mining/arcane-manifold/repo_surface_report.md",
+      "sha256": "26c2608e14394eebafbc943629e6b69acc456d5946ddf7f953b4c8d0f6fef25f",
+      "status": "??"
+    },
+    {
+      "bytes": 1794806,
+      "path": "generated/repo_mining/armor-command/mechanic_source_refs.jsonl",
+      "sha256": "0baaa7690989ddaeb99793c4e89804578c4ce0e50651f5261c1c3ffc0d47a09a",
+      "status": "??"
+    },
+    {
+      "bytes": 132,
+      "path": "generated/repo_mining/armor-command/repo_surface.done.json",
+      "sha256": "0f524a529764cb646ad8718a3e716c1ddb9df950c7ab9739127b084a1c372cf1",
+      "status": "??"
+    },
+    {
+      "bytes": 75324,
+      "path": "generated/repo_mining/armor-command/repo_surface.json",
+      "sha256": "874fbeba75f3ddca8734359a914241ff262268cfc28c22c8b333a182f3791aa0",
+      "status": "??"
+    },
+    {
+      "bytes": 5057,
+      "path": "generated/repo_mining/armor-command/repo_surface_report.md",
+      "sha256": "bedfb753a4f5fac6c26654363af7b73f523a0a813b076826e34077ef6f86bfc7",
+      "status": "??"
+    },
+    {
+      "bytes": 275314,
+      "path": "generated/repo_mining/armorture/mechanic_source_refs.jsonl",
+      "sha256": "ea1ef9ba72e5bfe00c0471ebb6eb825479afa04f24d191c2dba7bcc870e4acd5",
+      "status": "??"
+    },
+    {
+      "bytes": 129,
+      "path": "generated/repo_mining/armorture/repo_surface.done.json",
+      "sha256": "1405a32cacb3da47f608b8ff8eebde1bbbbf72ef2169bfe7db6af1a3f9e2d95a",
+      "status": "??"
+    },
+    {
+      "bytes": 40158,
+      "path": "generated/repo_mining/armorture/repo_surface.json",
+      "sha256": "ef834434bf7200a638a09b42c06b11fd744ddea4136f5118613a8968162686e5",
+      "status": "??"
+    },
+    {
+      "bytes": 3026,
+      "path": "generated/repo_mining/armorture/repo_surface_report.md",
+      "sha256": "b0289de9c85da6c199cdaa102e420d0f132c109053401c03779196797b5f6f26",
+      "status": "??"
+    },
+    {
+      "bytes": 54869,
+      "path": "generated/repo_mining/availity-react/mechanic_source_refs.jsonl",
+      "sha256": "80242ee406e8cc2ed2267b7b63205316d4ab6a8d7a32c887d9d8b330f6cce848",
+      "status": "??"
+    },
+    {
+      "bytes": 134,
+      "path": "generated/repo_mining/availity-react/repo_surface.done.json",
+      "sha256": "eb5daeb88172c580410b4973e751bbde0899b6c840ace0bbfde61626974641f9",
+      "status": "??"
+    },
+    {
+      "bytes": 37883,
+      "path": "generated/repo_mining/availity-react/repo_surface.json",
+      "sha256": "ac554921a6f840044e4407818ec26fb60bcdeec0ff2826ad416bfb771c4ac662",
+      "status": "??"
+    },
+    {
+      "bytes": 3921,
+      "path": "generated/repo_mining/availity-react/repo_surface_report.md",
+      "sha256": "0362368bb5695fcfdc82a611474f56126398c8b6d3eb03309567a4ecd519f071",
+      "status": "??"
+    },
+    {
+      "bytes": 273519,
+      "path": "generated/repo_mining/but-multiple-choice/mechanic_source_refs.jsonl",
+      "sha256": "1d30f7655a1a9dc742eb07b8abf4d47ebb689a1218096865518cfbbbd79faa39",
+      "status": "??"
+    },
+    {
+      "bytes": 137,
+      "path": "generated/repo_mining/but-multiple-choice/repo_surface.done.json",
+      "sha256": "812d65d5b3fb3bcd182861cf62f00b85a34e564ae3955aa981dd4d39aca584ad",
+      "status": "??"
+    },
+    {
+      "bytes": 78428,
+      "path": "generated/repo_mining/but-multiple-choice/repo_surface.json",
+      "sha256": "be96cc42df43c6cffa2ac7621aca8e320d9433e98f79e53a35240d6317c9b64a",
+      "status": "??"
+    },
+    {
+      "bytes": 6852,
+      "path": "generated/repo_mining/but-multiple-choice/repo_surface_report.md",
+      "sha256": "9d407f9cee64ba4be4ef5c1ec3e207c975d44afbf8d28dbe7ec866ca962d1b6b",
+      "status": "??"
+    },
+    {
+      "bytes": 35613,
+      "path": "generated/repo_mining/choice-craft-api/mechanic_source_refs.jsonl",
+      "sha256": "4a73e3de85051fcd011b768d9156eb25187bdbb16d1c7c5f90918accab8ea0b5",
+      "status": "??"
+    },
+    {
+      "bytes": 132,
+      "path": "generated/repo_mining/choice-craft-api/repo_surface.done.json",
+      "sha256": "c625b5141feca21035d9eee8524310211124c901a091d4c114ae0dd7bea1a9e1",
+      "status": "??"
+    },
+    {
+      "bytes": 23926,
+      "path": "generated/repo_mining/choice-craft-api/repo_surface.json",
+      "sha256": "4091e549fef2a28b118ec0bc58901f17a80cde551064c37a61dafc0afc4d704c",
+      "status": "??"
+    },
+    {
+      "bytes": 1172,
+      "path": "generated/repo_mining/choice-craft-api/repo_surface_report.md",
+      "sha256": "6dc1d24aaf87fd328f184016c7911fdd8121f5bd5e8d7cbb4edd363e321e9800",
+      "status": "??"
+    },
+    {
+      "bytes": 132819,
+      "path": "generated/repo_mining/choice-craft-vue/mechanic_source_refs.jsonl",
+      "sha256": "24918accaf31dc23bb30b9846b7b65c48aef34a3ff3502722d0a7e6a24d8be69",
+      "status": "??"
+    },
+    {
+      "bytes": 134,
+      "path": "generated/repo_mining/choice-craft-vue/repo_surface.done.json",
+      "sha256": "24fdd882e87e70543a738d16d512353f86004fa9900b00aca49ae9fce17fedc8",
+      "status": "??"
+    },
+    {
+      "bytes": 49804,
+      "path": "generated/repo_mining/choice-craft-vue/repo_surface.json",
+      "sha256": "cd6bd93c79d2ea10dc97b94fdfb80a9cc76b8cb24437dff9d280aa95a44faba4",
+      "status": "??"
+    },
+    {
+      "bytes": 2913,
+      "path": "generated/repo_mining/choice-craft-vue/repo_surface_report.md",
+      "sha256": "642218446481244f6a7944fa98ba0c0b216eb0529d3297d6fc1e5b40078a15f1",
+      "status": "??"
+    },
+    {
+      "bytes": 337,
+      "path": "generated/repo_mining/choice-craft/mechanic_source_refs.jsonl",
+      "sha256": "c426bbc15b5fc1bd919de0f5aba452c56fec3a5b5924a223140b720a7f93ac1f",
+      "status": "??"
+    },
+    {
+      "bytes": 127,
+      "path": "generated/repo_mining/choice-craft/repo_surface.done.json",
+      "sha256": "d54f1ef3f42b0caa6f668867345dad39f28bbc7db096eb58601b1f249e04b7fb",
+      "status": "??"
+    },
+    {
+      "bytes": 2072,
+      "path": "generated/repo_mining/choice-craft/repo_surface.json",
+      "sha256": "4036ff4ade99abc30abf417a3a2cdf40e22150fe16cc2aab8a815654acc65588",
+      "status": "??"
+    },
+    {
+      "bytes": 470,
+      "path": "generated/repo_mining/choice-craft/repo_surface_report.md",
+      "sha256": "31cdfd048a1c76f8a1c9ab421496e127b2435e77e8a44f4666ec63f320dd97b5",
+      "status": "??"
+    },
+    {
+      "bytes": 119557,
+      "path": "generated/repo_mining/chromium-throne-excavation/mechanic_source_refs.jsonl",
+      "sha256": "b5a452770605165abd7f9efdd34000469c7f24336249fcfc9b5ed11b82850565",
+      "status": "??"
+    },
+    {
+      "bytes": 143,
+      "path": "generated/repo_mining/chromium-throne-excavation/repo_surface.done.json",
+      "sha256": "caff061fc637f3cf64f5cb645bc9c199816e2437dec8af43f8fedb72ee35c23b",
+      "status": "??"
+    },
+    {
+      "bytes": 54844,
+      "path": "generated/repo_mining/chromium-throne-excavation/repo_surface.json",
+      "sha256": "aa4716cd11cbd06c4de7cae34636af8cb39558b406bd7810c36383d6039434ed",
+      "status": "??"
+    },
+    {
+      "bytes": 2831,
+      "path": "generated/repo_mining/chromium-throne-excavation/repo_surface_report.md",
+      "sha256": "92f67d79c8ac03002420b822527124bc0153c65bdb34dae195aac123ec8687f5",
+      "status": "??"
+    },
+    {
+      "bytes": 194211,
+      "path": "generated/repo_mining/clarity-engine/mechanic_source_refs.jsonl",
+      "sha256": "24f7046dd5b28401b60da6ecb8f2eeeb7fc56e60b79a2776c87a696a185ab164",
+      "status": "??"
+    },
+    {
+      "bytes": 132,
+      "path": "generated/repo_mining/clarity-engine/repo_surface.done.json",
+      "sha256": "77d3f014e0a6a6c36186c401357a5bc81ab99657e17404713e12f7819896e536",
+      "status": "??"
+    },
+    {
+      "bytes": 34626,
+      "path": "generated/repo_mining/clarity-engine/repo_surface.json",
+      "sha256": "16e6f3134ad8a77ae2b2a6a0297f77a2b22745f809244a1dd163e0ed7ebc9ce3",
+      "status": "??"
+    },
+    {
+      "bytes": 2331,
+      "path": "generated/repo_mining/clarity-engine/repo_surface_report.md",
+      "sha256": "15a7b2dd5d51c0c125a3d39b790980e566b78c7f1efcd22968dcb51cc6d1c943",
+      "status": "??"
+    },
+    {
+      "bytes": 93548,
+      "path": "generated/repo_mining/clarity-game-engine/mechanic_source_refs.jsonl",
+      "sha256": "5ba2fd7c90eb2747872d2f857cd2900712c41e4a802419f4ff0b4c0fec00e733",
+      "status": "??"
+    },
+    {
+      "bytes": 137,
+      "path": "generated/repo_mining/clarity-game-engine/repo_surface.done.json",
+      "sha256": "44bec619e219fae82a204534bbe8b8cc8172f836792e49d8c5b901bb912abfae",
+      "status": "??"
+    },
+    {
+      "bytes": 55046,
+      "path": "generated/repo_mining/clarity-game-engine/repo_surface.json",
+      "sha256": "38a9dccaf9d14c229f7e5e1c5868823a5257b0e203d8da62471bbac14a4909d1",
+      "status": "??"
+    },
+    {
+      "bytes": 3549,
+      "path": "generated/repo_mining/clarity-game-engine/repo_surface_report.md",
+      "sha256": "38701dfcf90313f4f4432c380b04a91becfe673ed19e2d1fc379c4ca05714ddd",
+      "status": "??"
+    },
+    {
+      "bytes": 54095,
+      "path": "generated/repo_mining/club-crucible/mechanic_source_refs.jsonl",
+      "sha256": "e5f1a97d31cb94ee5accf5ab2e7632f5dd48bf98baeb88be2c0ba13763c7c49d",
+      "status": "??"
+    },
+    {
+      "bytes": 131,
+      "path": "generated/repo_mining/club-crucible/repo_surface.done.json",
+      "sha256": "82107a228c0e323798b327eb0b20d4554a669a0d269b17bd52632690cb5b05e1",
+      "status": "??"
+    },
+    {
+      "bytes": 51661,
+      "path": "generated/repo_mining/club-crucible/repo_surface.json",
+      "sha256": "049890fdd337c3b021cab4bfdb9816da118f93ebf64da051e8c49f3cbf5b6d19",
+      "status": "??"
+    },
+    {
+      "bytes": 4044,
+      "path": "generated/repo_mining/club-crucible/repo_surface_report.md",
+      "sha256": "4edb1afadd36ea8311dbe7fd55aa2e1ee55de139588744c9701f75982af44df4",
+      "status": "??"
+    },
+    {
+      "bytes": 427248,
+      "path": "generated/repo_mining/codex-writing-lab/mechanic_source_refs.jsonl",
+      "sha256": "1d514e127eca04247054a8feb4ee0abd2baa774043155f8e7d09e2df6272c962",
+      "status": "??"
+    },
+    {
+      "bytes": 136,
+      "path": "generated/repo_mining/codex-writing-lab/repo_surface.done.json",
+      "sha256": "d1986f8c09b7a4ff47deee3ecfc563c83841766d7c0e8b13c18eec0fd13bf08c",
+      "status": "??"
+    },
+    {
+      "bytes": 40429,
+      "path": "generated/repo_mining/codex-writing-lab/repo_surface.json",
+      "sha256": "5c27631fa425553c9482a6c12162115e499a6983e67753b7ce896aced331400a",
+      "status": "??"
+    },
+    {
+      "bytes": 2507,
+      "path": "generated/repo_mining/codex-writing-lab/repo_surface_report.md",
+      "sha256": "78a6959b72c2132c98f60c3788f080fefd13e560f98552992b88dbd02e24f71d",
+      "status": "??"
+    },
+    {
+      "bytes": 227387,
+      "path": "generated/repo_mining/continue-continue/mechanic_source_refs.jsonl",
+      "sha256": "6a2fd35f6b264451cddea4cf898661ab7c7405af975d07ae5b9e9192bd6eb202",
+      "status": "??"
+    },
+    {
+      "bytes": 135,
+      "path": "generated/repo_mining/continue-continue/repo_surface.done.json",
+      "sha256": "6ebc3783a35bc937018e322f652a65ea60fc976899582118dc864caba735942b",
+      "status": "??"
+    },
+    {
+      "bytes": 72527,
+      "path": "generated/repo_mining/continue-continue/repo_surface.json",
+      "sha256": "36a6590c41738bc49c24e704f41186c3333bf26ade0d8f5e1f84070ee3623090",
+      "status": "??"
+    },
+    {
+      "bytes": 5149,
+      "path": "generated/repo_mining/continue-continue/repo_surface_report.md",
+      "sha256": "cf24ecac69b9a015a8bd74caa4c3a72ec3b9b1f2db66f359947454aaf2497597",
+      "status": "??"
+    },
+    {
+      "bytes": 30913,
+      "path": "generated/repo_mining/continuity-engine/mechanic_source_refs.jsonl",
+      "sha256": "9faef00936ec588cc72a4c4a5acd6e8b27248508467a41c3458c2bb2aebbc74c",
+      "status": "??"
+    },
+    {
+      "bytes": 134,
+      "path": "generated/repo_mining/continuity-engine/repo_surface.done.json",
+      "sha256": "4615280d0bf5e7784465a69ec1f42ea761b0ca7658dc4c2a1a810e4b3d96ea8d",
+      "status": "??"
+    },
+    {
+      "bytes": 31902,
+      "path": "generated/repo_mining/continuity-engine/repo_surface.json",
+      "sha256": "f1e2ef3477b632de9ac259a9d97afe76779dfb82c98299b98fc8b9cbf9431a74",
+      "status": "??"
+    },
+    {
+      "bytes": 2372,
+      "path": "generated/repo_mining/continuity-engine/repo_surface_report.md",
+      "sha256": "5ef75e4713af92a02ff50398b164da1af3a7228ae0eeda250854f6b9046b498f",
+      "status": "??"
+    },
+    {
+      "bytes": 886044,
+      "path": "generated/repo_mining/cornfire-convoy-fp/mechanic_source_refs.jsonl",
+      "sha256": "82b355e65c74ae5a197c17a99cff6172100425729bd894e335269ec3af8c8328",
+      "status": "??"
+    },
+    {
+      "bytes": 136,
+      "path": "generated/repo_mining/cornfire-convoy-fp/repo_surface.done.json",
+      "sha256": "05d14444888db40c6d9c626dccd7170a4143ba2221a9dbf09485aa10565dd350",
+      "status": "??"
+    },
+    {
+      "bytes": 54030,
+      "path": "generated/repo_mining/cornfire-convoy-fp/repo_surface.json",
+      "sha256": "7ea2e155b01b320da798d6432a099b04ae051be0f283315b8a02c94acad17b94",
+      "status": "??"
+    },
+    {
+      "bytes": 2363,
+      "path": "generated/repo_mining/cornfire-convoy-fp/repo_surface_report.md",
+      "sha256": "c70de00a862df74052ce54c65596987dadb5ad6df9ff64877cfffc2b5884bfd3",
+      "status": "??"
+    },
+    {
+      "bytes": 373455,
+      "path": "generated/repo_mining/cornfire-convoy/mechanic_source_refs.jsonl",
+      "sha256": "753da3a77d537567ad7a031e5069351cfe2990427605e4e710d0966504a47af0",
+      "status": "??"
+    },
+    {
+      "bytes": 133,
+      "path": "generated/repo_mining/cornfire-convoy/repo_surface.done.json",
+      "sha256": "d894e42997adcbb60de03ea08691e2bf6167fe823ae4557422f116ea7591bfc0",
+      "status": "??"
+    },
+    {
+      "bytes": 44641,
+      "path": "generated/repo_mining/cornfire-convoy/repo_surface.json",
+      "sha256": "5f317a80088cc398958f4aa0a84809427eaa8e8728793f78076736078e6a5f76",
+      "status": "??"
+    },
+    {
+      "bytes": 1827,
+      "path": "generated/repo_mining/cornfire-convoy/repo_surface_report.md",
+      "sha256": "915fd1f36af6d1f4d0b88553af3a46f80e8122317a91e2f442bd1d0b5951e987",
+      "status": "??"
+    },
+    {
+      "bytes": 775931,
+      "path": "generated/repo_mining/diorama-descent/mechanic_source_refs.jsonl",
+      "sha256": "eeab3b10fcfbf28c0b8e6d721ecbe0750825c9128729e7d69b649a345ab22a75",
+      "status": "??"
+    },
+    {
+      "bytes": 134,
+      "path": "generated/repo_mining/diorama-descent/repo_surface.done.json",
+      "sha256": "3878af7b9b489251d38653cef74de7154f7deb92483c278831c71f8189037a3f",
+      "status": "??"
+    },
+    {
+      "bytes": 62548,
+      "path": "generated/repo_mining/diorama-descent/repo_surface.json",
+      "sha256": "9435f4049a585377e0aaa82b5fe4e7df3e8bf3fadd0bcde7270179ea52516c99",
+      "status": "??"
+    },
+    {
+      "bytes": 4803,
+      "path": "generated/repo_mining/diorama-descent/repo_surface_report.md",
+      "sha256": "c6fdb099d93dbaa75d710280403a53690813449fa242d2deccdf2f37296200b9",
+      "status": "??"
+    },
+    {
+      "bytes": 989463,
+      "path": "generated/repo_mining/diorama-of-descension/mechanic_source_refs.jsonl",
+      "sha256": "a9fa954b3a1138275e43ff7dc302ca837a4295f3152cf69bcc96fe6076cd85f0",
+      "status": "??"
+    },
+    {
+      "bytes": 140,
+      "path": "generated/repo_mining/diorama-of-descension/repo_surface.done.json",
+      "sha256": "18ea832454aff152bbc52a6d55759ce64f88800e64e9bffe6cbff969e0b8ca49",
+      "status": "??"
+    },
+    {
+      "bytes": 61953,
+      "path": "generated/repo_mining/diorama-of-descension/repo_surface.json",
+      "sha256": "026c95108869f4ad27a1740df0df2ddea16e851f9c254677dcdb159c08927266",
+      "status": "??"
+    },
+    {
+      "bytes": 4063,
+      "path": "generated/repo_mining/diorama-of-descension/repo_surface_report.md",
+      "sha256": "449a80618082e1d85e431de380f26fec53afe866141205aa013f2710e43fe068",
+      "status": "??"
+    },
+    {
+      "bytes": 31961,
+      "path": "generated/repo_mining/docs/mechanic_source_refs.jsonl",
+      "sha256": "2043001f281d16b74b839b4a05720bea2b89fa8bec07136b4fd19d93cff23ba1",
+      "status": "??"
+    },
+    {
+      "bytes": 120,
+      "path": "generated/repo_mining/docs/repo_surface.done.json",
+      "sha256": "e302b24f722618a1788465f9ce2ce75966ffc9342c2d646baf9799657cf943dc",
+      "status": "??"
+    },
+    {
+      "bytes": 19850,
+      "path": "generated/repo_mining/docs/repo_surface.json",
+      "sha256": "040d6c7770a00c6a92a391c9d894207dfea96c2783e3af6cda2d98980069d5a7",
+      "status": "??"
+    },
+    {
+      "bytes": 892,
+      "path": "generated/repo_mining/docs/repo_surface_report.md",
+      "sha256": "9f4dea4f295c245a83675e4dfe647762c8f82feac69550bf2620b0d8d229ec1a",
+      "status": "??"
+    },
+    {
+      "bytes": 150272,
+      "path": "generated/repo_mining/drew-shape-router/mechanic_source_refs.jsonl",
+      "sha256": "23a377dda6a5b7d6fc198ba07e5405789a6b4dd68da813113be18d08cda209aa",
+      "status": "??"
+    },
+    {
+      "bytes": 135,
+      "path": "generated/repo_mining/drew-shape-router/repo_surface.done.json",
+      "sha256": "a88788c217fb1cf6b3c95a19956c69b531f26c0c167af27f5c858c5e8147c029",
+      "status": "??"
+    },
+    {
+      "bytes": 48864,
+      "path": "generated/repo_mining/drew-shape-router/repo_surface.json",
+      "sha256": "655c162c2f2a70dc05988b90f6ecf01a3b0ed7e07366c339f493df8f46e7d0b1",
+      "status": "??"
+    },
+    {
+      "bytes": 3373,
+      "path": "generated/repo_mining/drew-shape-router/repo_surface_report.md",
+      "sha256": "6e0d7e324ec453654a0fa40a0b4b1865f20320dd2a5127ac132b8d27ca76ba3f",
+      "status": "??"
+    },
+    {
+      "bytes": 678874,
+      "path": "generated/repo_mining/driftfield/mechanic_source_refs.jsonl",
+      "sha256": "3253175725d7040f810a20fa355174cc61c4c95c214b73d1024d66090f9e0afa",
+      "status": "??"
+    },
+    {
+      "bytes": 129,
+      "path": "generated/repo_mining/driftfield/repo_surface.done.json",
+      "sha256": "f15937e1522f0e6fdd93e7c09aea33cd9d79b6da0f56df2f616619f7f41f4a99",
+      "status": "??"
+    },
+    {
+      "bytes": 78468,
+      "path": "generated/repo_mining/driftfield/repo_surface.json",
+      "sha256": "6a1ff44b0be7d621a8ca42687992ca5e60e975356c67ef5739e0fb817673e9ed",
+      "status": "??"
+    },
+    {
+      "bytes": 5940,
+      "path": "generated/repo_mining/driftfield/repo_surface_report.md",
+      "sha256": "d455b10f758df044f5bebf0bbd5feeecf452f4553e0279ae59e50d69bdcae006",
+      "status": "??"
+    },
+    {
+      "bytes": 374217,
+      "path": "generated/repo_mining/droobiedoo/mechanic_source_refs.jsonl",
+      "sha256": "fa7a88debdbd1cea9157598cc8634c739f0baa54115167040c71e2b7bb34500f",
+      "status": "??"
+    },
+    {
+      "bytes": 128,
+      "path": "generated/repo_mining/droobiedoo/repo_surface.done.json",
+      "sha256": "3f1ffebd58bb0694aa2b92399a5c08dd073f0807ae7df7417354f216b88906ca",
+      "status": "??"
+    },
+    {
+      "bytes": 92616,
+      "path": "generated/repo_mining/droobiedoo/repo_surface.json",
+      "sha256": "d218e86089f5a1980bccfce2c8dfadacd8619b62cb58c614a69bf087ac3148c8",
+      "status": "??"
+    },
+    {
+      "bytes": 7230,
+      "path": "generated/repo_mining/droobiedoo/repo_surface_report.md",
+      "sha256": "3782c7daa300eb0e3d24b3af72a492520a9d1fa32fe41d90870d212bd66b0e63",
+      "status": "??"
+    },
+    {
+      "bytes": 1232804,
+      "path": "generated/repo_mining/fallow-earth/mechanic_source_refs.jsonl",
+      "sha256": "cf3e4ef07c620ec08ecee9bb8836c82fb5b4c521cf5672423b72bbeae8eaf4e6",
+      "status": "??"
+    },
+    {
+      "bytes": 131,
+      "path": "generated/repo_mining/fallow-earth/repo_surface.done.json",
+      "sha256": "465f9d4b96536f402ee6ed1531726e4dc392b57a22ded890f999a67062b8be73",
+      "status": "??"
+    },
+    {
+      "bytes": 63602,
+      "path": "generated/repo_mining/fallow-earth/repo_surface.json",
+      "sha256": "e95f8d44632aba87208cbef5beee95cc89d743b48c9a9e9591d74a3fed5d330d",
+      "status": "??"
+    },
+    {
+      "bytes": 4912,
+      "path": "generated/repo_mining/fallow-earth/repo_surface_report.md",
+      "sha256": "00ec171d8d71191e0e8a82a6e0c61ac4a6343eb0cd9c98b6f001af4d98e06e86",
+      "status": "??"
+    },
+    {
+      "bytes": 1934555,
+      "path": "generated/repo_mining/fatal-vow-exception/mechanic_source_refs.jsonl",
+      "sha256": "7bcec00a9a9ad4dde72e92300a973fdc87a46fd2b20ae26504c24b1284119b91",
+      "status": "??"
+    },
+    {
+      "bytes": 138,
+      "path": "generated/repo_mining/fatal-vow-exception/repo_surface.done.json",
+      "sha256": "bc2ed4d8904242eef96627784e81f87f68c8f12403c4923f72bddc562629dd1e",
+      "status": "??"
+    },
+    {
+      "bytes": 93398,
+      "path": "generated/repo_mining/fatal-vow-exception/repo_surface.json",
+      "sha256": "80cc953103ef187ae5db7d783d10ee26eb629e68b4e641e56f360b1550e79433",
+      "status": "??"
+    },
+    {
+      "bytes": 7452,
+      "path": "generated/repo_mining/fatal-vow-exception/repo_surface_report.md",
+      "sha256": "9642389d66bd707eba2bafef2bb7a15db41ac3d1cfc663d8347dd07a52902e2a",
+      "status": "??"
+    },
+    {
+      "bytes": 0,
+      "path": "generated/repo_mining/ferravine-radio/mechanic_source_refs.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "??"
+    },
+    {
+      "bytes": 130,
+      "path": "generated/repo_mining/ferravine-radio/repo_surface.done.json",
+      "sha256": "436bdb61c049b9379da2602a19f8cfee7ae49446f090feabd138810d322a9c17",
+      "status": "??"
+    },
+    {
+      "bytes": 1111,
+      "path": "generated/repo_mining/ferravine-radio/repo_surface.json",
+      "sha256": "30687e03ed74d3d8230030d18817340ba58a3b2600cf017050d2cdab40bb89df",
+      "status": "??"
+    },
+    {
+      "bytes": 456,
+      "path": "generated/repo_mining/ferravine-radio/repo_surface_report.md",
+      "sha256": "8361d0b5809b2f8349db4c3f0845709e78e4a119a6ac56b899da488b34eaf00a",
+      "status": "??"
+    },
+    {
+      "bytes": 1430393,
+      "path": "generated/repo_mining/fleshpunk--inner-heart/mechanic_source_refs.jsonl",
+      "sha256": "acd09528e52f9117c5c369a01505252d6bb61a2f3091f3418e248ec2bf6e06ec",
+      "status": "??"
+    },
+    {
+      "bytes": 141,
+      "path": "generated/repo_mining/fleshpunk--inner-heart/repo_surface.done.json",
+      "sha256": "4c992d29b412ed00d161d1ab28c49abfffa558ad05221ba61066416a6446c358",
+      "status": "??"
+    },
+    {
+      "bytes": 91510,
+      "path": "generated/repo_mining/fleshpunk--inner-heart/repo_surface.json",
+      "sha256": "c23858112bafd573757e604c550566a0bd0626e0777ad53e5a8a74b04184f61f",
+      "status": "??"
+    },
+    {
+      "bytes": 6758,
+      "path": "generated/repo_mining/fleshpunk--inner-heart/repo_surface_report.md",
+      "sha256": "7d66f32b6ed3a4f96b76fdddb80a410fc86fb965c6cea5c189a5f7d90708e2bb",
+      "status": "??"
+    },
+    {
+      "bytes": 0,
+      "path": "generated/repo_mining/fleshpunk-root-of-sorrow/mechanic_source_refs.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "??"
+    },
+    {
+      "bytes": 139,
+      "path": "generated/repo_mining/fleshpunk-root-of-sorrow/repo_surface.done.json",
+      "sha256": "5605660ef0b3321e1246b44abbcc5de0b260124ccad93ff18e345c46552b30fa",
+      "status": "??"
+    },
+    {
+      "bytes": 676,
+      "path": "generated/repo_mining/fleshpunk-root-of-sorrow/repo_surface.json",
+      "sha256": "34141e401638a0ee12c8b23d9d048241aae2def6e87efa4e005831c0eb7cdb66",
+      "status": "??"
+    },
+    {
+      "bytes": 296,
+      "path": "generated/repo_mining/fleshpunk-root-of-sorrow/repo_surface_report.md",
+      "sha256": "141490dc95268ec6b2b4c3c11c7e73edeb4be38f0b569427ec86419d5f3e1771",
+      "status": "??"
+    },
+    {
+      "bytes": 4653,
+      "path": "generated/repo_mining/furyxfx/mechanic_source_refs.jsonl",
+      "sha256": "b1c250b1f093c334f2f8a3a5c7ba89d7b8ee074787ac6812358b35117054f850",
+      "status": "??"
+    },
+    {
+      "bytes": 126,
+      "path": "generated/repo_mining/furyxfx/repo_surface.done.json",
+      "sha256": "99f2b5689aa74df572cb998b6a5f447103b0efe23133969c5109a877c45f2873",
+      "status": "??"
+    },
+    {
+      "bytes": 10934,
+      "path": "generated/repo_mining/furyxfx/repo_surface.json",
+      "sha256": "1d6d12f8bbbea35e739c4516f47c08367a7b87f4f7756730a0d143d304a0b40e",
+      "status": "??"
+    },
+    {
+      "bytes": 1629,
+      "path": "generated/repo_mining/furyxfx/repo_surface_report.md",
+      "sha256": "ee3aafb1625f59b8634cd3693cec5da8f7313fdbe714e09ba9e2fcce9fad7491",
+      "status": "??"
+    },
+    {
+      "bytes": 1822627,
+      "path": "generated/repo_mining/generated/mechanic_source_refs.jsonl",
+      "sha256": "67d45d1117c2b605ccf115e4105569261d22c7be71a34d55e59afb124f664dff",
+      "status": "??"
+    },
+    {
+      "bytes": 127,
+      "path": "generated/repo_mining/generated/repo_surface.done.json",
+      "sha256": "818f5260352ca613206d966eb20030f7eb79b4c8b150ade2a22decfa6e56b076",
+      "status": "??"
+    },
+    {
+      "bytes": 63691,
+      "path": "generated/repo_mining/generated/repo_surface.json",
+      "sha256": "ae5c6884b4d7bbf9ef67ebe80cda557977c8214b7442372bcb5f910e0d56e4f9",
+      "status": "??"
+    },
+    {
+      "bytes": 2825,
+      "path": "generated/repo_mining/generated/repo_surface_report.md",
+      "sha256": "6a1e98fa6abb944b3e7e06a2e11fa4446c8658b61221a1e6bbf6ffdaca872c5e",
+      "status": "??"
+    },
+    {
+      "bytes": 19871,
+      "path": "generated/repo_mining/ghost-leaf/mechanic_source_refs.jsonl",
+      "sha256": "75947adbb66786bc7719b61e2941540a80f96069cd1aee15775794b038c169ae",
+      "status": "??"
+    },
+    {
+      "bytes": 126,
+      "path": "generated/repo_mining/ghost-leaf/repo_surface.done.json",
+      "sha256": "afd756d8257c964f36feb989da935f585705a593f6318740ab7cb080484caae0",
+      "status": "??"
+    },
+    {
+      "bytes": 19370,
+      "path": "generated/repo_mining/ghost-leaf/repo_surface.json",
+      "sha256": "6db12a5ecfa019daa8dedf352ad6ab9ae057eb4229f48ea91d09970ff703ca53",
+      "status": "??"
+    },
+    {
+      "bytes": 1679,
+      "path": "generated/repo_mining/ghost-leaf/repo_surface_report.md",
+      "sha256": "049307a6f34901cb5d382aab68bc8af755f40dc03e1c4b702896128d8d50adeb",
+      "status": "??"
+    },
+    {
+      "bytes": 155418,
+      "path": "generated/repo_mining/goblin-chess-mvp/mechanic_source_refs.jsonl",
+      "sha256": "2650bf2a962560e3aff98947168db44e5ef02e1889894381be5b43cbdae53e73",
+      "status": "??"
+    },
+    {
+      "bytes": 133,
+      "path": "generated/repo_mining/goblin-chess-mvp/repo_surface.done.json",
+      "sha256": "f24cf1a0616338300a08f71b901a9539c6be22e44de0e90b8905319fdc558849",
+      "status": "??"
+    },
+    {
+      "bytes": 38330,
+      "path": "generated/repo_mining/goblin-chess-mvp/repo_surface.json",
+      "sha256": "8f83904060229dc904875b3a4c50cf6376c36b4ca520bcab27417a139bfdcdf3",
+      "status": "??"
+    },
+    {
+      "bytes": 1075,
+      "path": "generated/repo_mining/goblin-chess-mvp/repo_surface_report.md",
+      "sha256": "29c212c34529d0fff9982e84b84751314fe064e4c4c644a3ce89a4663eef663f",
+      "status": "??"
+    },
+    {
+      "bytes": 943119,
+      "path": "generated/repo_mining/gothic-throne/mechanic_source_refs.jsonl",
+      "sha256": "75319d59efd9c11e21134cefc39cd6be663aaab0a6e69f3795cfeb5162c9c5a5",
+      "status": "??"
+    },
+    {
+      "bytes": 132,
+      "path": "generated/repo_mining/gothic-throne/repo_surface.done.json",
+      "sha256": "1cd04f5eaa97b2e2816a7f94900680f412ca98161428342ae62ecdc829fb01d2",
+      "status": "??"
+    },
+    {
+      "bytes": 77534,
+      "path": "generated/repo_mining/gothic-throne/repo_surface.json",
+      "sha256": "4ea66c5a3eceea8e79b59d1f58f98ded77d75fd38acadf84688a23c623197009",
+      "status": "??"
+    },
+    {
+      "bytes": 5474,
+      "path": "generated/repo_mining/gothic-throne/repo_surface_report.md",
+      "sha256": "3b70e8e7bcbf3482e447ff4caaa8e7f53a4f9dd6b79435fbaa429a53b46da692",
+      "status": "??"
+    },
+    {
+      "bytes": 4126933,
+      "path": "generated/repo_mining/gravity-fist-threejs/mechanic_source_refs.jsonl",
+      "sha256": "852863ae740429c1564974f695c153cc13fed3efcb011763d72ef3fed05b72f1",
+      "status": "??"
+    },
+    {
+      "bytes": 140,
+      "path": "generated/repo_mining/gravity-fist-threejs/repo_surface.done.json",
+      "sha256": "ab57780e1eea772fcb15fca33f963ac0073c6a93c3f47df72dfab686c458b704",
+      "status": "??"
+    },
+    {
+      "bytes": 86959,
+      "path": "generated/repo_mining/gravity-fist-threejs/repo_surface.json",
+      "sha256": "f71d7520cee7f796f43383987649540714109904ef452eb22076fcffe3af6ced",
+      "status": "??"
+    },
+    {
+      "bytes": 5594,
+      "path": "generated/repo_mining/gravity-fist-threejs/repo_surface_report.md",
+      "sha256": "77153e715a1197997065d182450c138c94479bbfab4619ddbd0de56177ba8cd4",
+      "status": "??"
+    },
+    {
+      "bytes": 1348122,
+      "path": "generated/repo_mining/gravity-fist/mechanic_source_refs.jsonl",
+      "sha256": "4e1d035c0e2fb9d2990c3991a2dbbecc251789b79c13ca4f1a6b48dba44358ac",
+      "status": "??"
+    },
+    {
+      "bytes": 131,
+      "path": "generated/repo_mining/gravity-fist/repo_surface.done.json",
+      "sha256": "e6444ec4507516ef0efbf15d6bea0d8aef4485a64bc454bcd7a5ed4820956602",
+      "status": "??"
+    },
+    {
+      "bytes": 62684,
+      "path": "generated/repo_mining/gravity-fist/repo_surface.json",
+      "sha256": "576d647b8856025effbf665f5cf1d8073dec98b895d80782b5e0d4f21f00f535",
+      "status": "??"
+    },
+    {
+      "bytes": 3969,
+      "path": "generated/repo_mining/gravity-fist/repo_surface_report.md",
+      "sha256": "1cf83864866249110ef5b967da075e4c74c0a53c64a924a10ca9ae083288c8ab",
+      "status": "??"
+    },
+    {
+      "bytes": 772172,
+      "path": "generated/repo_mining/green-commander/mechanic_source_refs.jsonl",
+      "sha256": "3d57e35106e9b393170ee0fc471a144d9c2e5519a2f954c5e44079d5940dade4",
+      "status": "??"
+    },
+    {
+      "bytes": 134,
+      "path": "generated/repo_mining/green-commander/repo_surface.done.json",
+      "sha256": "551b872dba964e157acfdaf116fc66e6f254ae093d362ba7c88976a529845a8a",
+      "status": "??"
+    },
+    {
+      "bytes": 61873,
+      "path": "generated/repo_mining/green-commander/repo_surface.json",
+      "sha256": "8bfc14292894c5f1a1888c5d334a2ccdb73af26fde4ed209c56fa08c8b67b6f8",
+      "status": "??"
+    },
+    {
+      "bytes": 3853,
+      "path": "generated/repo_mining/green-commander/repo_surface_report.md",
+      "sha256": "4891138a4678eed03838c97438e489c81e02c33ce8d6a592668cbefd3f398fae",
+      "status": "??"
+    },
+    {
+      "bytes": 943994,
+      "path": "generated/repo_mining/grounded-motion-mcp/mechanic_source_refs.jsonl",
+      "sha256": "cef7c47c35cdc632e7cd37d77ec6626cfbfcbc6058231a0c3ddc5bfcf21e5ad9",
+      "status": "??"
+    },
+    {
+      "bytes": 138,
+      "path": "generated/repo_mining/grounded-motion-mcp/repo_surface.done.json",
+      "sha256": "af72f284263a6c9ef1eb332b45e0253c1cbbddcf655c51073fd90ada7e277d6e",
+      "status": "??"
+    },
+    {
+      "bytes": 78143,
+      "path": "generated/repo_mining/grounded-motion-mcp/repo_surface.json",
+      "sha256": "bb08fb728338424963787bbe433e1fd0e3d322bc70ac41ba429cd8f04a4d2c6f",
+      "status": "??"
+    },
+    {
+      "bytes": 5541,
+      "path": "generated/repo_mining/grounded-motion-mcp/repo_surface_report.md",
+      "sha256": "ba03b3d81ee7c98f42bb41ff9676a11eca05ef630473fcc864e1d10c12d21759",
+      "status": "??"
+    },
+    {
+      "bytes": 0,
+      "path": "generated/repo_mining/heather-heath/mechanic_source_refs.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "??"
+    },
+    {
+      "bytes": 128,
+      "path": "generated/repo_mining/heather-heath/repo_surface.done.json",
+      "sha256": "a83b89afa3aa26f7e701b67dbd075c1e955977666e108e34ad405ac9b3f85760",
+      "status": "??"
+    },
+    {
+      "bytes": 1067,
+      "path": "generated/repo_mining/heather-heath/repo_surface.json",
+      "sha256": "6fc6c82f1200171725c57b09d707ebcda4892e18a13283e381015f9687b5bd8a",
+      "status": "??"
+    },
+    {
+      "bytes": 416,
+      "path": "generated/repo_mining/heather-heath/repo_surface_report.md",
+      "sha256": "c58c18d180492675bda70baafa4c7f29a2c41a79467d2f3bd138525ce099cd54",
+      "status": "??"
+    },
+    {
+      "bytes": 0,
+      "path": "generated/repo_mining/hemomancy/mechanic_source_refs.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "??"
+    },
+    {
+      "bytes": 126,
+      "path": "generated/repo_mining/hemomancy/repo_surface.done.json",
+      "sha256": "f7f405226862d15a44edc194358a61354ca56558a9cf84c24b2ad6d4f3992095",
+      "status": "??"
+    },
+    {
+      "bytes": 1026,
+      "path": "generated/repo_mining/hemomancy/repo_surface.json",
+      "sha256": "94c0dbecdbd96e50adb7336022bc6b5517c507cab8554478ce9e6522d6b4c3b3",
+      "status": "??"
+    },
+    {
+      "bytes": 384,
+      "path": "generated/repo_mining/hemomancy/repo_surface_report.md",
+      "sha256": "21f869f0ebb9da9bb44947dce875b3facdba4cf00ef50427ec44d6e990f79860",
+      "status": "??"
+    },
+    {
+      "bytes": 143236,
+      "path": "generated/repo_mining/home-center/mechanic_source_refs.jsonl",
+      "sha256": "a5a155b6da5071a9d491aa10d8911cfc3271738c52209c3e4fb1879cc9d25aa2",
+      "status": "??"
+    },
+    {
+      "bytes": 129,
+      "path": "generated/repo_mining/home-center/repo_surface.done.json",
+      "sha256": "8d8f3e9110dfd998f175bab7f2424c010293b9bd1e5f458dc10ba4398eb4db9c",
+      "status": "??"
+    },
+    {
+      "bytes": 78504,
+      "path": "generated/repo_mining/home-center/repo_surface.json",
+      "sha256": "cbda6d899584230e2e8d15096032acfc314a280cee98567306f228a212099bba",
+      "status": "??"
+    },
+    {
+      "bytes": 6159,
+      "path": "generated/repo_mining/home-center/repo_surface_report.md",
+      "sha256": "1c45ef982317a8020d5e994992fbe2ab2b2209f15e062b6709c3da23ac36edd0",
+      "status": "??"
+    },
+    {
+      "bytes": 70211,
+      "path": "generated/repo_mining/home-command-broker/mechanic_source_refs.jsonl",
+      "sha256": "1862d291818eccc075ebc0562e96dfe9330e5039e89ee66ab10f8dda26949c9d",
+      "status": "??"
+    },
+    {
+      "bytes": 136,
+      "path": "generated/repo_mining/home-command-broker/repo_surface.done.json",
+      "sha256": "1130bc754bab99b167836bd82754fb66da20e13c7f8e9546d09cf24f48c45a31",
+      "status": "??"
+    },
+    {
+      "bytes": 27215,
+      "path": "generated/repo_mining/home-command-broker/repo_surface.json",
+      "sha256": "9e105d16383b8f37af15008db43c5f7f69bdbfdf05630203a6431d32be3f8259",
+      "status": "??"
+    },
+    {
+      "bytes": 1249,
+      "path": "generated/repo_mining/home-command-broker/repo_surface_report.md",
+      "sha256": "9051d933a09a6c9e9ed0c68b662f2924f3455686ff88883e5e8daf585dee4ed2",
+      "status": "??"
+    },
+    {
+      "bytes": 825857,
+      "path": "generated/repo_mining/infinite-brutality/mechanic_source_refs.jsonl",
+      "sha256": "4c0a52972be143323a48ea64840c6fe34fc1734cd8877c9ac3d81fbd8c3f6f4d",
+      "status": "??"
+    },
+    {
+      "bytes": 137,
+      "path": "generated/repo_mining/infinite-brutality/repo_surface.done.json",
+      "sha256": "bb5630b61d34ef1f9ec4d298f09457a092eb24dd426a7c9f5cb1bc117e7f9d40",
+      "status": "??"
+    },
+    {
+      "bytes": 91903,
+      "path": "generated/repo_mining/infinite-brutality/repo_surface.json",
+      "sha256": "21e8b1b68204adae408bb7b91049414ff5f193f8de05e001cd6c2bc0b7b4501a",
+      "status": "??"
+    },
+    {
+      "bytes": 7219,
+      "path": "generated/repo_mining/infinite-brutality/repo_surface_report.md",
+      "sha256": "d8e88c5696145fa602fb133f9fe0bea9c3e597825fe7ebac63f0ac65e846bf88",
+      "status": "??"
+    },
+    {
+      "bytes": 0,
+      "path": "generated/repo_mining/inhuman-reaches/mechanic_source_refs.jsonl",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "??"
+    },
+    {
+      "bytes": 130,
+      "path": "generated/repo_mining/inhuman-reaches/repo_surface.done.json",
+      "sha256": "300a1ac7d92cb84959de1a33965dd459164b4dfab14a3008b28edb5cd13b882b",
+      "status": "??"
+    },
+    {
+      "bytes": 655,
+      "path": "generated/repo_mining/inhuman-reaches/repo_surface.json",
+      "sha256": "dc61d617a021d348cd1f806ff27b145c735c60da479b45f269d6b96177371aa1",
+      "status": "??"
+    },
+    {
+      "bytes": 290,
+      "path": "generated/repo_mining/inhuman-reaches/repo_surface_report.md",
+      "sha256": "c06d0b04ffc4f83a607d56f8b8f8e310e7190307bd7bb01b9b4443f6a9ff42ae",
+      "status": "??"
+    },
+    {
+      "bytes": 204685,
+      "path": "generated/repo_mining/labyrinth_protocol/mechanic_source_refs.jsonl",
+      "sha256": "ef8529fbb3b73e8d9da0e7cb7b9d8002254b0b0b0970310fe75fd9b69809db6c",
+      "status": "??"
+    },
+    {
+      "bytes": 136,
+      "path": "generated/repo_mining/labyrinth_protocol/repo_surface.done.json",
+      "sha256": "1ecf676ec1198b6ef636c3f1deea70a2c23ea46f936ecca9f0a83455579adbf6",
+      "status": "??"
+    },
+    {
+      "bytes": 39477,
+      "path": "generated/repo_mining/labyrinth_protocol/repo_surface.json",
+      "sha256": "2e0843e6f15c88c03ea943f3dd1b60a5fc950f5ffe1a5db291f82cc8349804ae",
+      "status": "??"
+    },
+    {
+      "bytes": 3171,
+      "path": "generated/repo_mining/labyrinth_protocol/repo_surface_report.md",
+      "sha256": "4f549939fdc153e08ab38ee1c93cfb7d797a30e634ddca22a521bb3acf979542",
+      "status": "??"
+    },
+    {
+      "bytes": 286260,
+      "path": "generated/repo_mining/last-convoy-html5/mechanic_source_refs.jsonl",
+      "sha256": "826894aab12705c023f532a75c35fb131236160468945ddc9d8139cd9e7b2bb2",
+      "status": "??"
+    },
+    {
+      "bytes": 135,
+      "path": "generated/repo_mining/last-convoy-html5/repo_surface.done.json",
+      "sha256": "0eb7bb814935facbc9b0ece7b48020ad038ff06007494e94149d8dbf7306c14d",
+      "status": "??"
+    },
+    {
+      "bytes": 50086,
+      "path": "generated/repo_mining/last-convoy-html5/repo_surface.json",
+      "sha256": "18e293fa7f68b7687b3d0109462a9dcb16bb4e4dc41d1c7394ae3f6d4f8ec9b6",
+      "status": "??"
+    },
+    {
+      "bytes": 3937,
+      "path": "generated/repo_mining/last-convoy-html5/repo_surface_report.md",
+      "sha256": "53b7e0ceb93925e37ff2e8eddc1cb4736359c1b8d4db9abb151f1de3e84c5a7b",
+      "status": "??"
+    },
+    {
+      "bytes": 88142,
+      "path": "generated/repo_mining/lava-landing/mechanic_source_refs.jsonl",
+      "sha256": "98a76c2b373208028a4e7a90a0cfe6169971234f8334fbb3b484edd27d95e8ab",
+      "status": "??"
+    },
+    {
+      "bytes": 130,
+      "path": "generated/repo_mining/lava-landing/repo_surface.done.json",
+      "sha256": "04420cf1a5036cfa58229f80dec6eaad5b305053ab75b53a87eb530ebeffe067",
+      "status": "??"
+    },
+    {
+      "bytes": 40291,
+      "path": "generated/repo_mining/lava-landing/repo_surface.json",
+      "sha256": "1c853e5702787783f9ae8342a063677b03122c1029a6ef4e0a24251e626e252f",
+      "status": "??"
+    },
+    {
+      "bytes": 3488,
+      "path": "generated/repo_mining/lava-landing/repo_surface_report.md",
+      "sha256": "b4025caaee5c1caa3936abfe83fb31896ffa58449fc3c9f01abe5f2ef8e5e50d",
+      "status": "??"
+    },
+    {
+      "bytes": 2453856,
+      "path": "generated/repo_mining/legion-writing-tool/mechanic_source_refs.jsonl",
+      "sha256": "911cec909a282d0487ea404f0a0695ab64e655c3dd79a9bc91c3f07549f3ee0b",
+      "status": "??"
+    },
+    {
+      "bytes": 138,
+      "path": "generated/repo_mining/legion-writing-tool/repo_surface.done.json",
+      "sha256": "d78aefd88a442c060e5117f4082ed226260d43c2414e2197a0d1f6f2a8a4296d",
+      "status": "??"
+    },
+    {
+      "bytes": 83257,
+      "path": "generated/repo_mining/legion-writing-tool/repo_surface.json",
+      "sha256": "4ea33afb49ee9b6404890f4c53d618ba41fd199077e9bf5e0948359adcd9c61b",
+      "status": "??"
+    },
+    {
+      "bytes": 6914,
+      "path": "generated/repo_mining/legion-writing-tool/repo_surface_report.md",
+      "sha256": "b97fac0775a692dcc3141bfc319dddd9bdb2b067b5e2271c0bcb1c2105440f00",
+      "status": "??"
+    },
+    {
+      "bytes": 2102155,
+      "path": "generated/repo_mining/long-haul/mechanic_source_refs.jsonl",
+      "sha256": "e3d21a612211dbbf9a080cf04062c340d2c665c7e9fe851b31f94f59c13c7e51",
+      "status": "??"
+    },
+    {
+      "bytes": 128,
+      "path": "generated/repo_mining/long-haul/repo_surface.done.json",
+      "sha256": "e8825d45e0e8dd0a24dbae431c057e0ca7e599561b77ecaf40a9a2d76e08e889",
+      "status": "??"
+    },
+    {
+      "bytes": 65234,
+      "path": "generated/repo_mining/long-haul/repo_surface.json",
+      "sha256": "ba2474b101a7ed73cea23f258482eb257c968a37990c38e3a99898b324f526d5",
+      "status": "??"
+    },
+    {
+      "bytes": 4813,
+      "path": "generated/repo_mining/long-haul/repo_surface_report.md",
+      "sha256": "f203c37007dad45b64584ad563206439003e6b8b59755bab2210a4fd1e8e1bff",
+      "status": "??"
+    },
+    {
+      "bytes": 2420578,
+      "path": "generated/repo_mining/marrow-runner/mechanic_source_refs.jsonl",
+      "sha256": "9948883d152bb697226b683c59d73ebdfba06e60504df2d91aa9307feda2e0a2",
+      "status": "??"
+    },
+    {
+      "bytes": 132,
+      "path": "generated/repo_mining/marrow-runner/repo_surface.done.json",
+      "sha256": "6e7200f4de4b707a409c0027ba726194d5560496443481355146397ff4516503",
+      "status": "??"
+    },
+    {
+      "bytes": 77245,
+      "path": "generated/repo_mining/marrow-runner/repo_surface.json",
+      "sha256": "eeaff67a7647cc98ca1572b8e95092df6054985638f72f206409814520e94b98",
+      "status": "??"
+    },
+    {
+      "bytes": 5019,
+      "path": "generated/repo_mining/marrow-runner/repo_surface_report.md",
+      "sha256": "5a4eae3448207572bbd51b3dcb9c5e807db6d1f5b46ba7939afb346799cc519a",
+      "status": "??"
+    },
+    {
+      "bytes": 408,
+      "path": "generated/repo_mining/media-nerve/mechanic_source_refs.jsonl",
+      "sha256": "f77bd256da0eaaceb3ce7303757b23f8116119f39924312bcd9225391b6684f5",
+      "status": "??"
+    },
+    {
+      "bytes": 126,
+      "path": "generated/repo_mining/media-nerve/repo_surface.done.json",
+      "sha256": "1dcbbbb4cc8173132b2dfea9eedb96ba1e2a24e2f1eaac16851269a56169b670",
+      "status": "??"
+    },
+    {
+      "bytes": 1837,
+      "path": "generated/repo_mining/media-nerve/repo_surface.json",
+      "sha256": "2b505d72429bb4c4a0428c59d95a63f085c37d3c1b680d607c787198aa08128b",
+      "status": "??"
+    },
+    {
+      "bytes": 542,
+      "path": "generated/repo_mining/media-nerve/repo_surface_report.md",
+      "sha256": "775ab0a50063f5b28a00d1e8821512a6f9eb0744a833cf5a34208261832aac33",
+      "status": "??"
+    },
+    {
+      "bytes": 795591,
+      "path": "generated/repo_mining/mini-tvtropes-index/mechanic_source_refs.jsonl",
+      "sha256": "6b43509114b83df32900d8867955d0d16a5ff3cd77740559133328e619c9cca2",
+      "status": "??"
+    },
+    {
+      "bytes": 138,
+      "path": "generated/repo_mining/mini-tvtropes-index/repo_surface.done.json",
+      "sha256": "e2a45b99158ca64dbecec1d5e9e2038cdb94078fc89e9426572978948e6d8c33",
+      "status": "??"
+    },
+    {
+      "bytes": 76685,
+      "path": "generated/repo_mining/mini-tvtropes-index/repo_surface.json",
+      "sha256": "c7f7a95563e7da9afd5a1fbc0c2e057cc90c36eba5516570bd8b1e38b29053f6",
+      "status": "??"
+    },
+    {
+      "bytes": 5304,
+      "path": "generated/repo_mining/mini-tvtropes-index/repo_surface_report.md",
+      "sha256": "1759a3ddae1b05aa13df22ade69ac247339a92298904adfabae22ea7bae53cf5",
+      "status": "??"
+    },
+    {
+      "bytes": 96311,
+      "path": "generated/repo_mining/model-viewer-lab/mechanic_source_refs.jsonl",
+      "sha256": "09c92c628404ed815d4b54d0fdd5d1af1ad5c989c5af8861bebf4ed4b94e4124",
+      "status": "??"
+    },
+    {
+      "bytes": 134,
+      "path": "generated/repo_mining/model-viewer-lab/repo_surface.done.json",
+      "sha256": "d379fbf7c3ac72dfc97e48a810de4adf9fbf1080d245a8aa4d72815665f495f8",
+      "status": "??"
+    },
+    {
+      "bytes": 63147,
+      "path": "generated/repo_mining/model-viewer-lab/repo_surface.json",
+      "sha256": "7b2a87721748090f513b29f82ea9566498de8792a2a8dcfca4bf600fe8268c16",
+      "status": "??"
+    },
+    {
+      "bytes": 5115,
+      "path": "generated/repo_mining/model-viewer-lab/repo_surface_report.md",
+      "sha256": "17c6c56c2376735d7a57b794cd6df1ffd864d5a11d40acc35313caef514a7ece",
+      "status": "??"
+    },
+    {
+      "bytes": 436826,
+      "path": "generated/repo_mining/motion-dungeon/mechanic_source_refs.jsonl",
+      "sha256": "17e87140c5ef81a3b49147d374e3012e969c1b05270343d8367c71e6174956ad",
+      "status": "??"
+    },
+    {
+      "bytes": 133,
+      "path": "generated/repo_mining/motion-dungeon/repo_surface.done.json",
+      "sha256": "58a5cb695ca8fec44e691694cfc7417b5e5f1bace6e50daa62ea5f84b127d5c4",
+      "status": "??"
+    },
+    {
+      "bytes": 74836,
+      "path": "generated/repo_mining/motion-dungeon/repo_surface.json",
+      "sha256": "af8c67dad6818082ce9cb789fdc333f15e070dca8ff54c9421aa19101c21e3a2",
+      "status": "??"
+    },
+    {
+      "bytes": 5657,
+      "path": "generated/repo_mining/motion-dungeon/repo_surface_report.md",
+      "sha256": "84907a8b5a138fbb8f1335ed5ce2e56671439e145ef04ba33a511b8b582a4a6a",
+      "status": "??"
+    },
+    {
+      "bytes": 484573,
+      "path": "generated/repo_mining/napoleonic-complex/mechanic_source_refs.jsonl",
+      "sha256": "8cd71b2d831afdcbe65af68d9ab8cd375c05037bf1c464aa537c3c60c73f14da",
+      "status": "??"
+    },
+    {
+      "bytes": 137,
+      "path": "generated/repo_mining/napoleonic-complex/repo_surface.done.json",
+      "sha256": "5efa0058cf120d6fbc930d75476f8dae544776ef7e8d4cb8374865b7948bb277",
+      "status": "??"
+    },
+    {
+      "bytes": 73191,
+      "path": "generated/repo_mining/napoleonic-complex/repo_surface.json",
+      "sha256": "15be401732d0d597cd3621b14f9f1db308ee97e853715260c6895d95a0ef8d82",
+      "status": "??"
+    },
+    {
+      "bytes": 5149,
+      "path": "generated/repo_mining/napoleonic-complex/repo_surface_report.md",
+      "sha256": "b5a6253be73f5169d353efe2f194c36561c9da56f8f9b9815e3fd70cdab2877d",
+      "status": "??"
+    },
+    {
+      "bytes": 1867730,
+      "path": "generated/repo_mining/nightmare-voyage/mechanic_source_refs.jsonl",
+      "sha256": "7a2d5fe5db6e0bcc4bbbb3b698bc9f3872b68c2e19eed9b27b488f5835145775",
+      "status": "??"
+    },
+    {
+      "bytes": 135,
+      "path": "generated/repo_mining/nightmare-voyage/repo_surface.done.json",
+      "sha256": "6d2e531bfd1c1fdc01736cdef3e1329c8003d04688b6c5c2b4e4e73b6e80ef29",
+      "status": "??"
+    },
+    {
+      "bytes": 87527,
+      "path": "generated/repo_mining/nightmare-voyage/repo_surface.json",
+      "sha256": "2ee716a1787b7ac3aefe65fc834f0b538144a58c634c761b4731d8ce9c84504c",
+      "status": "??"
+    },
+    {
+      "bytes": 6683,
+      "path": "generated/repo_mining/nightmare-voyage/repo_surface_report.md",
+      "sha256": "4d1b7755bc4e44e11d453edfcbc9a67befc8bfe6eb5e3f1df51660914c262b72",
+      "status": "??"
+    },
+    {
+      "bytes": 864028,
+      "path": "generated/repo_mining/omnitread/mechanic_source_refs.jsonl",
+      "sha256": "3a829c27a68d11212f5cf30efeae80e7a718851ea24566647d62921f33c030f5",
+      "status": "??"
+    },
+    {
+      "bytes": 128,
+      "path": "generated/repo_mining/omnitread/repo_surface.done.json",
+      "sha256": "7331b81fe5f0f6c04257969e74f71940c271586ec967a62d37fbeb70ef50e6b5",
+      "status": "??"
+    },
+    {
+      "bytes": 82610,
+      "path": "generated/repo_mining/omnitread/repo_surface.json",
+      "sha256": "a259465db1756e86bd15d9ddfda64fb8f405e3ad7413d0208088f516c9cbdc7e",
+      "status": "??"
+    },
+    {
+      "bytes": 6565,
+      "path": "generated/repo_mining/omnitread/repo_surface_report.md",
+      "sha256": "11dda2c00cb5b7db550840609458ca82a04162afdce3709bdb5d6b692fef803e",
+      "status": "??"
+    },
+    {
+      "bytes": 0,
+      "path": "generated/repo_mining/overnight.stderr",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "??"
+    },
+    {
+      "bytes": 0,
+      "path": "generated/repo_mining/overnight.stdout",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "status": "??"
+    },
+    {
+      "bytes": 78540,
+      "path": "generated/repo_mining/paws-and-claws/mechanic_source_refs.jsonl",
+      "sha256": "b40ef00a3886c1fef70b6d9f35b74d6e2e5046db9d07fba7de0acc62c3f10e6f",
+      "status": "??"
+    },
+    {
+      "bytes": 132,
+      "path": "generated/repo_mining/paws-and-claws/repo_surface.done.json",
+      "sha256": "d409bac623860ccb28950b5fe0c028d3305f4029715247b2b6897a7103fef96b",
+      "status": "??"
+    },
+    {
+      "bytes": 39678,
+      "path": "generated/repo_mining/paws-and-claws/repo_surface.json",
+      "sha256": "bf0618b4a44157450ae654d66f12daf53553947ed219a38e15a4c97e67db116d",
+      "status": "??"
+    },
+    {
+      "bytes": 2227,
+      "path": "generated/repo_mining/paws-and-claws/repo_surface_report.md",
+      "sha256": "2a61c9ff2e2afbf29a0bf940724643f83fa830818402938ac2f35410309d8038",
+      "status": "??"
+    },
+    {
+      "bytes": 2270639,
+      "path": "generated/repo_mining/phalanx/mechanic_source_refs.jsonl",
+      "sha256": "dcb58f7129b04236c178fe361c74e5de7609fb2c6f99157f81e8aec159e2022d",
+      "status": "??"
+    },
+    {
+      "bytes": 126,
+      "path": "generated/repo_mining/phalanx/repo_surface.done.json",
+      "sha256": "937f4b39bc5a96fae770e6394157f9dc0b692eeb35ab35cf68d470c873e19852",
+      "status": "??"
+    },
+    {
+      "bytes": 58378,
+      "path": "generated/repo_mining/phalanx/repo_surface.json",
+      "sha256": "bb0bf7efa97040e2042dc00934a2e9e95d438783240d6730c861ba49d1ab8b0b",
+      "status": "??"
+    },
+    {
+      "bytes": 3618,
+      "path": "generated/repo_mining/phalanx/repo_surface_report.md",
+      "sha256": "db7901341414dcd3bda7dcbbbd7122a25213fc744293e7db810ba02936a613e4",
+      "status": "??"
+    },
+    {
+      "bytes": 45011,
+      "path": "generated/repo_mining/porchlight/mechanic_source_refs.jsonl",
+      "sha256": "6ece266bc5f86780d9d7c2ddfafdfa34dfb74c7e18dde7881329ac0427ec7c49",
+      "status": "??"
+    },
+    {
+      "bytes": 128,
+      "path": "generated/repo_mining/porchlight/repo_surface.done.json",
+      "sha256": "8fced84fb55904338326ce6f7649e87985ce64a8b70989eaf01d4054dd4486ca",
+      "status": "??"
+    },
+    {
+      "bytes": 37328,
+      "path": "generated/repo_mining/porchlight/repo_surface.json",
+      "sha256": "d11204d57cd8483a26476b53bd336438879b7df7b5ba3021a5a27aac019d5193",
+      "status": "??"
+    },
+    {
+      "bytes": 2345,
+      "path": "generated/repo_mining/porchlight/repo_surface_report.md",
+      "sha256": "8cfa2b1f3fe437f7a319e378a2d1c43f110d5cb2745adb26cf4d7f34bb1abb2d",
+      "status": "??"
+    },
+    {
+      "bytes": 935465,
+      "path": "generated/repo_mining/pose-lab-v2/mechanic_source_refs.jsonl",
+      "sha256": "f408f94edb92aad864126fd3feeababb98c01ca1c4bef741799e6ceae780b2cb",
+      "status": "??"
+    },
+    {
+      "bytes": 130,
+      "path": "generated/repo_mining/pose-lab-v2/repo_surface.done.json",
+      "sha256": "097f8ad0e1769e4eb2491c76fdc5cb7823b326a8342f3570289b7123d75e9778",
+      "status": "??"
+    },
+    {
+      "bytes": 73564,
+      "path": "generated/repo_mining/pose-lab-v2/repo_surface.json",
+      "sha256": "7a701a05a6fa14e190ad4a088353d13d34f6150c5b861f5d2280cd277600b66d",
+      "status": "??"
+    },
+    {
+      "bytes": 6916,
+      "path": "generated/repo_mining/pose-lab-v2/repo_surface_report.md",
+      "sha256": "bf5cd6a8a442fb82f310a2f0569dff7c132b4dc32207b1242c333a143239c227",
+      "status": "??"
+    },
+    {
+      "bytes": 567248,
+      "path": "generated/repo_mining/pose-lab/mechanic_source_refs.jsonl",
+      "sha256": "67bbdce2506be227b601ce96332ada8b5ff697300255d2c0b210461c7bfd5b98",
+      "status": "??"
+    },
+    {
+      "bytes": 127,
+      "path": "generated/repo_mining/pose-lab/repo_surface.done.json",
+      "sha256": "8f817ed38627bbf1cf29aae33be39e6fde63a0e1c430132682652acc4e48ccfe",
+      "status": "??"
+    },
+    {
+      "bytes": 72209,
+      "path": "generated/repo_mining/pose-lab/repo_surface.json",
+      "sha256": "0efb29f7e8916b03010cfc4ad1af3226d20bcbd98363169a8c9a89b1e3f1e66c",
+      "status": "??"
+    },
+    {
+      "bytes": 5986,
+      "path": "generated/repo_mining/pose-lab/repo_surface_report.md",
+      "sha256": "e544ef1315c5a4e9418223e23a46ddba71c8b8b699862f3d25bd67e0c07be737",
+      "status": "??"
+    },
+    {
+      "bytes": 161947,
+      "path": "generated/repo_mining/prism-league/mechanic_source_refs.jsonl",
+      "sha256": "16c47bd65419a778bc7d6a11dcc23a9a5456ef7d5d30e1ba9be08e7bba4a2876",
+      "status": "??"
+    },
+    {
+      "bytes": 130,
+      "path": "generated/repo_mining/prism-league/repo_surface.done.json",
+      "sha256": "ec99395aa538b5f4aa199cbd18d06296b7982a50e0145822dc00c6f0acf663b3",
+      "status": "??"
+    },
+    {
+      "bytes": 66541,
+      "path": "generated/repo_mining/prism-league/repo_surface.json",
+      "sha256": "087463b093bf3cc4fffec5dd6f98df230b48c7e17aa23e7db76be3aee5010f29",
+      "status": "??"
+    },
+    {
+      "bytes": 4480,
+      "path": "generated/repo_mining/prism-league/repo_surface_report.md",
+      "sha256": "c8a94b4de5c61a294b0c398d1256f9e21dc85dec063d63b1dfc03c3e534b7ca2",
+      "status": "??"
+    },
+    {
+      "bytes": 84538,
+      "path": "generated/repo_mining/private-theater/mechanic_source_refs.jsonl",
+      "sha256": "04508852414cc66e1ff06b7760366b3bb23b95673bec962c9da32076aa3259b0",
+      "status": "??"
+    },
+    {
+      "bytes": 132,
+      "path": "generated/repo_mining/private-theater/repo_surface.done.json",
+      "sha256": "f6ac410b3fc2c163951c2eb8691f248d10140a98aa6763199f608343acddb3cc",
+      "status": "??"
+    },
+    {
+      "bytes": 34716,
+      "path": "generated/repo_mining/private-theater/repo_surface.json",
+      "sha256": "c90f6778dcfb5b62b1d9249f19b614a02e714ce2109e4fb9ada52107a98b8978",
+      "status": "??"
+    },
+    {
+      "bytes": 1857,
+      "path": "generated/repo_mining/private-theater/repo_surface_report.md",
+      "sha256": "6f85619a6c22e1e3dac339bf99a375e6fce867a09709b7791c1327489596c6de",
+      "status": "??"
+    },
+    {
+      "bytes": 59171,
+      "path": "generated/repo_mining/revelation-tts-archive/mechanic_source_refs.jsonl",
+      "sha256": "ec9d82c808e3a78e7a7edcc513ba85b9e437a50a3f28c8f5d07071fbaa1b27f5",
+      "status": "??"
+    },
+    {
+      "bytes": 139,
+      "path": "generated/repo_mining/revelation-tts-archive/repo_surface.done.json",
+      "sha256": "a86abec5d38eff79f20c33d2baa5dc07d1f61ad6677c4184e0b48466e28ef4f7",
+      "status": "??"
+    },
+    {
+      "bytes": 13943,
+      "path": "generated/repo_mining/revelation-tts-archive/repo_surface.json",
+      "sha256": "63cdcd430888eaa4a151768c37b4fe8a729cce211fb742e6af2e2eac83369235",
+      "status": "??"
+    },
+    {
+      "bytes": 908,
+      "path": "generated/repo_mining/revelation-tts-archive/repo_surface_report.md",
+      "sha256": "135bac9ebddad2cfa576f7025f3f8e66bf498944a19f151701709946333bddd3",
+      "status": "??"
+    },
+    {
+      "bytes": 2044988,
+      "path": "generated/repo_mining/revelation/mechanic_source_refs.jsonl",
+      "sha256": "153c11da5f467e47608014518fb7df4354f9f00db564c2588d274ffacd7d77be",
+      "status": "??"
+    },
+    {
+      "bytes": 129,
+      "path": "generated/repo_mining/revelation/repo_surface.done.json",
+      "sha256": "a41a82c1423aab3a45dbde8459cf4f3cba5cd404a7e351aa4ef9f7e4221ca889",
+      "status": "??"
+    },
+    {
+      "bytes": 85909,
+      "path": "generated/repo_mining/revelation/repo_surface.json",
+      "sha256": "e24c950e148c3e42f4a3c1b0e8dd0f1b99dd21a430e12ecefeb9fbb1092f19d7",
+      "status": "??"
+    },
+    {
+      "bytes": 7515,
+      "path": "generated/repo_mining/revelation/repo_surface_report.md",
+      "sha256": "c384377dc74b707b43a7e66990e90f9fc6e84cc652a6a60363d1d1a8b0b73d3d",
+      "status": "??"
+    },
+    {
+      "bytes": 447441,
+      "path": "generated/repo_mining/ruined-air/mechanic_source_refs.jsonl",
+      "sha256": "35e929e1680bf4ba84cd0625c8d461ea6a8a8172c6c4c6250f55c1c66d2501d8",
+      "status": "??"
+    },
+    {
+      "bytes": 131,
+      "path": "generated/repo_mining/ruined-air/repo_surface.done.json",
+      "sha256": "04c1d8dbbf741a4c91e5ecb4ecbb4bec7ce3fe908bf0e68b6bcbbc1d246447f7",
+      "status": "??"
+    },
+    {
+      "bytes": 50884,
+      "path": "generated/repo_mining/ruined-air/repo_surface.json",
+      "sha256": "8b1d6c67af758f48a8dca923381bedb9716976b1971c0b6260bb78564d4379b7",
+      "status": "??"
+    },
+    {
+      "bytes": 3074,
+      "path": "generated/repo_mining/ruined-air/repo_surface_report.md",
+      "sha256": "5c3b95cfa22aa0a0a40ca6cf98e188676d85826e6d1cd3e90417f8c53941fe03",
+      "status": "??"
+    },
+    {
+      "bytes": 453702,
+      "path": "generated/repo_mining/she-raw/mechanic_source_refs.jsonl",
+      "sha256": "85e79dbc4f838d389b4de003b06db45b9e37d400c03c6afac7934990b798af6f",
+      "status": "??"
+    },
+    {
+      "bytes": 126,
+      "path": "generated/repo_mining/she-raw/repo_surface.done.json",
+      "sha256": "9f635f9585165b2a15e741857e5bfae92a12083b504f9a111b912c82c991fc53",
+      "status": "??"
+    },
+    {
+      "bytes": 74124,
+      "path": "generated/repo_mining/she-raw/repo_surface.json",
+      "sha256": "e8146022a29cf546a74306d8e9093bd4c414175a96008ed2b8ff05be567b8afa",
+      "status": "??"
+    },
+    {
+      "bytes": 5181,
+      "path": "generated/repo_mining/she-raw/repo_surface_report.md",
+      "sha256": "0322a428af1feb02360610e182b43935739af17db560c8b177b94387b0b2b9c8",
+      "status": "??"
+    },
+    {
+      "bytes": 857340,
+      "path": "generated/repo_mining/spice-of-life-cookbook/mechanic_source_refs.jsonl",
+      "sha256": "c2badaba57a32bdf235187b486244e17f1bac4cb96ea5012c018ce6fe245b390",
+      "status": "??"
+    },
+    {
+      "bytes": 140,
+      "path": "generated/repo_mining/spice-of-life-cookbook/repo_surface.done.json",
+      "sha256": "5b21be9ade29f56455b45e5e41cf0295657ed0dc55a5c294a34c6ad8e280b8d5",
+      "status": "??"
+    },
+    {
+      "bytes": 43206,
+      "path": "generated/repo_mining/spice-of-life-cookbook/repo_surface.json",
+      "sha256": "df8c781d94b92eea7468f467ebb61b3807a91e3f947bc28a3f8bfe0e48b345cb",
+      "status": "??"
+    },
+    {
+      "bytes": 1914,
+      "path": "generated/repo_mining/spice-of-life-cookbook/repo_surface_report.md",
+      "sha256": "34cbceef469198bb65c11b2625ae28ef182a21c920d87d1d4c9b13f9443dbd45",
+      "status": "??"
+    },
+    {
+      "bytes": 4535,
+      "path": "generated/repo_mining/sprocket-safari/mechanic_source_refs.jsonl",
+      "sha256": "eab2448be255305d02e001fd7c5cd991065f78e8e89e1c6fa1d08fc2229a745a",
+      "status": "??"
+    },
+    {
+      "bytes": 131,
+      "path": "generated/repo_mining/sprocket-safari/repo_surface.done.json",
+      "sha256": "fbb60e164f47e72aff1bdf98bfa82c98d846d5146cba442769e8689285d382f4",
+      "status": "??"
+    },
+    {
+      "bytes": 8867,
+      "path": "generated/repo_mining/sprocket-safari/repo_surface.json",
+      "sha256": "b9116c6e54fa44be17726b06b47a20e00a6812e9970967952be1a255ecdc9ece",
+      "status": "??"
+    },
+    {
+      "bytes": 729,
+      "path": "generated/repo_mining/sprocket-safari/repo_surface_report.md",
+      "sha256": "37733536b68adb9976ee844755152cec0f33bf764100c801605ab66cde46988f",
+      "status": "??"
+    },
+    {
+      "bytes": 461277,
+      "path": "generated/repo_mining/steam-pile/mechanic_source_refs.jsonl",
+      "sha256": "0ad385140274371c0fd0d155ec0c6f2ff43030e2526c6d892e0768aabef0674a",
+      "status": "??"
+    },
+    {
+      "bytes": 129,
+      "path": "generated/repo_mining/steam-pile/repo_surface.done.json",
+      "sha256": "906b82ae813b18f43ed9bd1f89849c47472ddb1714e6b35c07140a0faccf2fd2",
+      "status": "??"
+    },
+    {
+      "bytes": 39009,
+      "path": "generated/repo_mining/steam-pile/repo_surface.json",
+      "sha256": "558a2ab6176618686db1d9404bed9de7ca1c0d076364bcfbb10d40dea9d3b94f",
+      "status": "??"
+    },
+    {
+      "bytes": 3415,
+      "path": "generated/repo_mining/steam-pile/repo_surface_report.md",
+      "sha256": "08ca62fabb2eeaca56b89d3016b2262a28e08465ee67e2047d3b8a7b77698fa4",
+      "status": "??"
+    },
+    {
+      "bytes": 20247,
+      "path": "generated/repo_mining/tank-kata/mechanic_source_refs.jsonl",
+      "sha256": "989d1dc983ead16c03abfbddb4e8209cfdd5fa4c17936f3c9b269ade9ffc7fd6",
+      "status": "??"
+    },
+    {
+      "bytes": 125,
+      "path": "generated/repo_mining/tank-kata/repo_surface.done.json",
+      "sha256": "88e475f852ebe2bfb83d726d1a80565c3fa552b96bc86d806667ee3ef52af728",
+      "status": "??"
+    },
+    {
+      "bytes": 13076,
+      "path": "generated/repo_mining/tank-kata/repo_surface.json",
+      "sha256": "42205888cb43a8eb60930a82a77be9362766be25384b0774aac371ea2130c9a0",
+      "status": "??"
+    },
+    {
+      "bytes": 1078,
+      "path": "generated/repo_mining/tank-kata/repo_surface_report.md",
+      "sha256": "40a89f06bceca83feaa939deb22811e83bbaf13cab492fc6b93cdf743ad4294f",
+      "status": "??"
+    },
+    {
+      "bytes": 541810,
+      "path": "generated/repo_mining/tanks-for-the-memories/mechanic_source_refs.jsonl",
+      "sha256": "c6e8e0009e3418ca4a4b8999b505e6a4a7d68a85c9113877ec920fcfd28d5085",
+      "status": "??"
+    },
+    {
+      "bytes": 143,
+      "path": "generated/repo_mining/tanks-for-the-memories/repo_surface.done.json",
+      "sha256": "0f6b1544d684375a4ab67740adfbc801eec6be08aa61a96491ce39025163a56d",
+      "status": "??"
+    },
+    {
+      "bytes": 73628,
+      "path": "generated/repo_mining/tanks-for-the-memories/repo_surface.json",
+      "sha256": "b75958c2ed27b7caccdfcf6b0f6bb296faffeb5bf32cd3c0edce2d90a587ba01",
+      "status": "??"
+    },
+    {
+      "bytes": 5140,
+      "path": "generated/repo_mining/tanks-for-the-memories/repo_surface_report.md",
+      "sha256": "084b8023d3d4d3d85d5ec49969c7e7578c5f51848fdad22e3d9686b810f57557",
+      "status": "??"
+    },
+    {
+      "bytes": 705755,
+      "path": "generated/repo_mining/through-the-slit/mechanic_source_refs.jsonl",
+      "sha256": "7a717e270404ed512346ce5becb17c3d594a1b4b32e6a980b2b3865a3ab2753f",
+      "status": "??"
+    },
+    {
+      "bytes": 135,
+      "path": "generated/repo_mining/through-the-slit/repo_surface.done.json",
+      "sha256": "f1b925287b2d6f800cde0a1e4930a24e294426f77fdf5d0967d9b02b56c9a69f",
+      "status": "??"
+    },
+    {
+      "bytes": 76405,
+      "path": "generated/repo_mining/through-the-slit/repo_surface.json",
+      "sha256": "82e8444ae798ec1dd8e7aed755e79b3e1db8dc9590f196e6daec573133fde1b4",
+      "status": "??"
+    },
+    {
+      "bytes": 5047,
+      "path": "generated/repo_mining/through-the-slit/repo_surface_report.md",
+      "sha256": "dd986faced389cd9a3bfe25199d23f5ffd7c9b610232940db96f28f523f5f7bf",
+      "status": "??"
+    },
+    {
+      "bytes": 1413171,
+      "path": "generated/repo_mining/thunder-brainstorm/mechanic_source_refs.jsonl",
+      "sha256": "0d0f7cdf7dd20ec77e2a9db9b8f0de213488766ae387e9cafd0f191790aa9d16",
+      "status": "??"
+    },
+    {
+      "bytes": 137,
+      "path": "generated/repo_mining/thunder-brainstorm/repo_surface.done.json",
+      "sha256": "c4cdee2b82a1dd7771e037389a69101dc7e1097c0fc4516090ca1ddf6699c1ff",
+      "status": "??"
+    },
+    {
+      "bytes": 94376,
+      "path": "generated/repo_mining/thunder-brainstorm/repo_surface.json",
+      "sha256": "915f5375525ca634e5b7ddbf189975c6d89086fa5e1ef18f79ab62ec6a8a8d19",
+      "status": "??"
+    },
+    {
+      "bytes": 7265,
+      "path": "generated/repo_mining/thunder-brainstorm/repo_surface_report.md",
+      "sha256": "dee90fcc4a9de7571ae6351d383fc46ae7a0d11a56894dc656418b875e3be5cc",
+      "status": "??"
+    },
+    {
+      "bytes": 148027,
+      "path": "generated/repo_mining/thunder-cousin/mechanic_source_refs.jsonl",
+      "sha256": "8d0dd94a84635f9a86360c5ae67a156b3fcf2e1e03c549b3413ca1e9a4c3c630",
+      "status": "??"
+    },
+    {
+      "bytes": 131,
+      "path": "generated/repo_mining/thunder-cousin/repo_surface.done.json",
+      "sha256": "e5cee1e4b3745c8073e943a3415ded4f3ef156c6165906f03da65bbdb5474452",
+      "status": "??"
+    },
+    {
+      "bytes": 28230,
+      "path": "generated/repo_mining/thunder-cousin/repo_surface.json",
+      "sha256": "7ca4f04ebfc2478f55eed56b631c4210f07e30090d6ed24895027128dfa1db0d",
+      "status": "??"
+    },
+    {
+      "bytes": 1496,
+      "path": "generated/repo_mining/thunder-cousin/repo_surface_report.md",
+      "sha256": "a8bbf4416790c395e2dc0b80877914f65ca1263ab1364e2ab29b221c3d870354",
+      "status": "??"
+    },
+    {
+      "bytes": 343185,
+      "path": "generated/repo_mining/tools/mechanic_source_refs.jsonl",
+      "sha256": "d9245b11c78172441f95b594ad872160243afbeb54f8a448ab7fed424477cc8b",
+      "status": "??"
+    },
+    {
+      "bytes": 123,
+      "path": "generated/repo_mining/tools/repo_surface.done.json",
+      "sha256": "31ed85bc99b1df74165adcad022c589933a67432548641b532193c8ce6ffd133",
+      "status": "??"
+    },
+    {
+      "bytes": 53362,
+      "path": "generated/repo_mining/tools/repo_surface.json",
+      "sha256": "2213a2df7be3a408633c5b3a896d0d2a0bdf042555ffe3bd7286d6341586b95e",
+      "status": "??"
+    },
+    {
+      "bytes": 3911,
+      "path": "generated/repo_mining/tools/repo_surface_report.md",
+      "sha256": "c2f28d6a84ae0ce1ebdb999eecb78389ac4c0bb286c24d099c63946f6313d5d1",
+      "status": "??"
+    },
+    {
+      "bytes": 23463,
+      "path": "generated/repo_mining/trench-cutter/mechanic_source_refs.jsonl",
+      "sha256": "47325abb5afc11be75685e3cfa97234c98d15db8d50b5da72b387f0f3989258c",
+      "status": "??"
+    },
+    {
+      "bytes": 129,
+      "path": "generated/repo_mining/trench-cutter/repo_surface.done.json",
+      "sha256": "874660837dcd681c8d8a47556d31eeea0ce7b87547c03c061d4bd51953d1144c",
+      "status": "??"
+    },
+    {
+      "bytes": 32265,
+      "path": "generated/repo_mining/trench-cutter/repo_surface.json",
+      "sha256": "23ff5b5054d8c4dd2931398cc902b6c5dd0d7334968243a65c925ca4e846663c",
+      "status": "??"
+    },
+    {
+      "bytes": 1553,
+      "path": "generated/repo_mining/trench-cutter/repo_surface_report.md",
+      "sha256": "22d37be7c95c8521af84862dfda255fba5efe5df05db2df083f13226c8ea40b6",
+      "status": "??"
+    },
+    {
+      "bytes": 413,
+      "path": "generated/repo_mining/venice-runtime/mechanic_source_refs.jsonl",
+      "sha256": "60915adfcaf5f2e17642ef4c0f53b26b75a1e7fa885c981df284061ff33d3e93",
+      "status": "??"
+    },
+    {
+      "bytes": 129,
+      "path": "generated/repo_mining/venice-runtime/repo_surface.done.json",
+      "sha256": "62af3fb1e6e6da09093bf5fcba71bd6c40c35c3c51b288d3f2cb3ae5a3ceaf42",
+      "status": "??"
+    },
+    {
+      "bytes": 1856,
+      "path": "generated/repo_mining/venice-runtime/repo_surface.json",
+      "sha256": "5d3da7d5f649eb9fbf7525293b1e11015fd3d18b0cd32dd1b9e2fdfa8dbcd1ac",
+      "status": "??"
+    },
+    {
+      "bytes": 544,
+      "path": "generated/repo_mining/venice-runtime/repo_surface_report.md",
+      "sha256": "e7ca0b746bbff45631d13d54a4303d3c1af530d323709803b548ebb8e44196c0",
+      "status": "??"
+    },
+    {
+      "bytes": 233456,
+      "path": "generated/repo_mining/venusos/mechanic_source_refs.jsonl",
+      "sha256": "9598023c49450fe58b56e3ee56855605ecad1ea18e10fba55df8e8a1e12eeeae",
+      "status": "??"
+    },
+    {
+      "bytes": 125,
+      "path": "generated/repo_mining/venusos/repo_surface.done.json",
+      "sha256": "ebcf0501ce483fa388470aa5810ece6d4df4505f785e2a76ce0e3eaea76072e6",
+      "status": "??"
+    },
+    {
+      "bytes": 52569,
+      "path": "generated/repo_mining/venusos/repo_surface.json",
+      "sha256": "c75ff2d08cc6fbceca604a86e68c0c0e6d1d0affcd4367f682da57af8ecb84db",
+      "status": "??"
+    },
+    {
+      "bytes": 4273,
+      "path": "generated/repo_mining/venusos/repo_surface_report.md",
+      "sha256": "a0f94d6e746f13887ffdb03fdedb351d6c21df92c3d7d99233714fc6658a8e31",
+      "status": "??"
+    },
+    {
+      "bytes": 558328,
+      "path": "generated/repo_mining/vernepunk/mechanic_source_refs.jsonl",
+      "sha256": "09589a4fd20ec87fcfd44b6d6e547c00a6f2000b1f8d5d35d1b2cefa8318413f",
+      "status": "??"
+    },
+    {
+      "bytes": 128,
+      "path": "generated/repo_mining/vernepunk/repo_surface.done.json",
+      "sha256": "7680287bca4e3ae9576ca3ff0b621a725d1c0b5ac42cf535b06352e3f40df634",
+      "status": "??"
+    },
+    {
+      "bytes": 75722,
+      "path": "generated/repo_mining/vernepunk/repo_surface.json",
+      "sha256": "819e6138994dacb0cab072d920d2bafa2f3e9ff535283ead0fa9d61ec8b8e94a",
+      "status": "??"
+    },
+    {
+      "bytes": 6827,
+      "path": "generated/repo_mining/vernepunk/repo_surface_report.md",
+      "sha256": "57b0d4652756bbb009b713429f4210981702240c94e91d92591c0ea4174f066a",
+      "status": "??"
+    },
+    {
+      "bytes": 485,
+      "path": "generated/repo_mining_test/Valar05_overnight_summary.json",
+      "sha256": "0dee72604da808add160742bf2e5dcc10ac6ad869e03326ec1e6f44ceb09231e",
+      "status": "??"
+    },
+    {
+      "bytes": 385,
+      "path": "generated/repo_mining_test/Valar05_overnight_summary.jsonl",
+      "sha256": "1f8da153253d9395407ee6d7010cdc2dd7c4d96668437f42a75f4f8146576222",
+      "status": "??"
+    },
+    {
+      "bytes": 11052,
+      "path": "generated/repo_mining_test/trench-cutter/mechanic_source_refs.jsonl",
+      "sha256": "5d9cbdf2d81fef5c497aa020e16b170f1ae6572b9ca94c97e31508b088a76dd1",
+      "status": "??"
+    },
+    {
+      "bytes": 18788,
+      "path": "generated/repo_mining_test/trench-cutter/repo_surface.json",
+      "sha256": "cf166e18509ed03f591f9ce33463a3441ee1a97007bd05b4e01143c6a1162de1",
+      "status": "??"
+    },
+    {
+      "bytes": 1129,
+      "path": "generated/repo_mining_test/trench-cutter/repo_surface_report.md",
+      "sha256": "5b24f1982f30ee7d8084ef326a4c477c90a661cc167d307f41623d70ba158065",
+      "status": "??"
+    },
+    {
+      "bytes": 503,
+      "path": "generated/repo_mining_test2/Valar05_overnight_summary.json",
+      "sha256": "3b18d2dd3c17e154df44dc346e0819d286f9d484645e0fbba4cf4f37981d95c5",
+      "status": "??"
+    },
+    {
+      "bytes": 385,
+      "path": "generated/repo_mining_test2/Valar05_overnight_summary.jsonl",
+      "sha256": "1f8da153253d9395407ee6d7010cdc2dd7c4d96668437f42a75f4f8146576222",
+      "status": "??"
+    },
+    {
+      "bytes": 11052,
+      "path": "generated/repo_mining_test2/trench-cutter/mechanic_source_refs.jsonl",
+      "sha256": "5d9cbdf2d81fef5c497aa020e16b170f1ae6572b9ca94c97e31508b088a76dd1",
+      "status": "??"
+    },
+    {
+      "bytes": 129,
+      "path": "generated/repo_mining_test2/trench-cutter/repo_surface.done.json",
+      "sha256": "00eff938416bc386b88eb50ff928d32e6b06e0551338bc0f544e304f995dcf92",
+      "status": "??"
+    },
+    {
+      "bytes": 18788,
+      "path": "generated/repo_mining_test2/trench-cutter/repo_surface.json",
+      "sha256": "cf166e18509ed03f591f9ce33463a3441ee1a97007bd05b4e01143c6a1162de1",
+      "status": "??"
+    },
+    {
+      "bytes": 1129,
+      "path": "generated/repo_mining_test2/trench-cutter/repo_surface_report.md",
+      "sha256": "5b24f1982f30ee7d8084ef326a4c477c90a661cc167d307f41623d70ba158065",
+      "status": "??"
+    },
+    {
+      "bytes": 2996,
+      "path": "generated/session_learnings/2026-07-08_ai_still_animatic_pipeline.md",
+      "sha256": "3ae663e880191759cf276936392dfc07a7beb760a439ef80c5e5b85a2b05af92",
+      "status": "??"
+    },
+    {
+      "bytes": 2492,
+      "path": "generated/session_learnings/2026-07-08_animatic_scene_direction_workflow.md",
+      "sha256": "b004c3886ffd5f140b310487f946e7179cf16b54056dabb6a6e13e2f386bdcd6",
+      "status": "??"
+    },
+    {
+      "bytes": 2095,
+      "path": "generated/session_learnings/2026-07-09_animatic_frame_eligibility_doctrine.md",
+      "sha256": "192a23b0ae4594eed58f80b6d1175330f50b8b3c93a8e63fd3de16a2fab67c5c",
+      "status": "??"
+    },
+    {
+      "bytes": 1793,
+      "path": "generated/skills/animatic_scene_direction.md",
+      "sha256": "65b06fdd4e7ef78180276df2cbdfe01d914bcefe9d298d2c7dc9b8a65f10d590",
+      "status": "??"
+    },
+    {
+      "bytes": 1167,
+      "path": "generated/source_packets/pose_lab_parity_contract_review_20260702/prompt.md",
+      "sha256": "5ccd398f9e488650d4cf2517885bb8385d9eb5ae9f1fd54059da5d7ffc532c55",
+      "status": "??"
+    },
+    {
+      "bytes": 55183,
+      "path": "generated/source_packets/pose_lab_parity_contract_review_20260702/source_packet.md",
+      "sha256": "5cb0bd4c1496895a408e6f844f711b4c03f751512e9bdca9a097d6470cd9d9c3",
+      "status": "??"
+    },
+    {
+      "bytes": 9055,
+      "path": "generated/source_packets/pose_lab_ready_fk_review_20260702/claude_review.json",
+      "sha256": "a3d0889f599762fad5f13a650aa3ea4b281c9c7f728924f2b44be38988ca410b",
+      "status": "??"
+    },
+    {
+      "bytes": 9067,
+      "path": "generated/source_packets/pose_lab_ready_fk_review_20260702/claude_review_raw.txt",
+      "sha256": "43ff82cb4a7cace3e45e554c8f610e92e127e99e645fff25aaabd6d7bb743f63",
+      "status": "??"
+    },
+    {
+      "bytes": 1484,
+      "path": "generated/source_packets/pose_lab_ready_fk_review_20260702/prompt.md",
+      "sha256": "99f6e156a35493e96c2cc878f13b1b7a2f2bf4f5691b66bf7f68a1e6268846db",
+      "status": "??"
+    },
+    {
+      "bytes": 14473,
+      "path": "generated/source_packets/pose_lab_ready_fk_review_20260702/source.md",
+      "sha256": "f27af6d233761b557cc94c9c2e558b6ca6de78a200380bb59d30413c40961647",
+      "status": "??"
+    },
+    {
+      "bytes": 1375,
+      "path": "generated/source_refs_manual/animatic_frame_eligibility_doctrine_source_refs.jsonl",
+      "sha256": "77d5582c405ba6cfc9a7aca4616d35faf787662c87694d4d069f1be77726b5dc",
+      "status": "??"
+    },
+    {
+      "bytes": 2371,
+      "path": "generated/source_refs_manual/animatic_scene_direction_skill_source_refs.jsonl",
+      "sha256": "1a17bd9f38834f779967036168892ce6a2b8a712da0294d3d71abdbd92804799",
+      "status": "??"
+    },
+    {
+      "bytes": 242,
+      "path": "generated/survey/phone/receipt.json",
+      "sha256": "57d0402d6d86ca85443e2005ba1231d503b54e3dc333209682b6ef5e6acf6328",
+      "status": "??"
+    },
+    {
+      "bytes": 605919,
+      "path": "generated/survey/phone/repos.jsonl",
+      "sha256": "6b775b0225ccc00be866408b26ac6f3c7aa79a5bbca6afa2ac2ce4e32503cebc",
+      "status": "??"
+    },
+    {
+      "bytes": 6,
+      "path": "generated/survey/phone/run.pid",
+      "sha256": "9f5843f8d3b4f09af3b39c520a8133fe81edf82dd1f3a2e7f1519cc9edb08c7e",
+      "status": "??"
+    },
+    {
+      "bytes": 864014,
+      "path": "generated/survey/phone/survey.json",
+      "sha256": "2092c7dcc92f4c1fc04c3659d7127a05a294244a7596d7578eeec49c67cd00d9",
+      "status": "??"
+    },
+    {
+      "bytes": 93082,
+      "path": "thunder_brainstorm.py",
+      "sha256": "04bea624670a5cd2fb243d5f0944a660430ffb8356be0ff0b9c4b0e9818e5e6e",
+      "status": "M"
+    },
+    {
+      "bytes": 18620,
+      "path": "tools/turbo_survey.py",
+      "sha256": "0f2ccac7bf62f5298554e5675aeb82e0d859648428a9127d06afe36d807140e6",
+      "status": "??"
+    }
+  ],
+  "pre_snapshot_head": "7d862446ec6c6b1d3692cfac2590ae681f2e86ba",
+  "preexisting_file_bytes": 62442201,
+  "preexisting_file_count": 464,
+  "schema": "thunder.recovery-snapshot.v1",
+  "scope": "Entire pre-existing dirty Thunder worktree, preserved locally without review or acceptance claim.",
+  "validation": {
+    "cli_help": "PASS",
+    "git_diff_check": "FAIL on staged recovery corpus: 31 pre-existing Markdown whitespace diagnostics; source-only unstaged check passed",
+    "json_jsonl_parse": "PASS bounded prior gate",
+    "python_compile": [
+      "thunder_brainstorm.py",
+      "tools/turbo_survey.py"
+    ],
+    "secret_scan": "PASS bounded prior gate; no detected secrets",
+    "snapshot_policy": "Preserved byte-exact as unreviewed recovery material; diagnostics are not acceptance failures for recovered generated artifacts.",
+    "unit_tests": "PASS 8/8"
+  }
+}

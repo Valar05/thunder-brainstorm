@@ -1,0 +1,1414 @@
+{
+  "repo": "Valar05/model-viewer-lab",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "model-viewer-lab",
+    "updatedAt": "2026-08-11T01:57:47Z",
+    "url": "https://github.com/Valar05/model-viewer-lab",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "837355411001e653d945a8da987a9eb04a0c0157",
+      "size": 3864,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 75,
+      "byte_count": 3864,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L3",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L21",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L26",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L32",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L49",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L51",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L54"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/README.md",
+      "mode": "100644",
+      "sha": "68059b99638e13bd75dca6232d2b7503fbcbd876",
+      "size": 2820,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 2820,
+      "mechanics": [
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L3",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L9",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L10",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L11",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L12",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L14",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L19"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/ledger/README.md",
+      "mode": "100644",
+      "sha": "5dcc8df4b5f7173fe68417a7ed05065f2b807634",
+      "size": 2179,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 2179,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L3",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L12",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L23",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L27",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L34"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/mechanisms/tread-system-v1/README.md",
+      "mode": "100644",
+      "sha": "4bb33bc30e3e719f20a5168b3a0fd992df69fff6",
+      "size": 676,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 14,
+      "byte_count": 676,
+      "mechanics": [
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/mechanisms/tread-system-v1/README.md#L8",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/mechanisms/tread-system-v1/README.md#L10"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/tools/README.md",
+      "mode": "100644",
+      "sha": "1ad0bf2c4dcb276590644f7349f1b1b66b18265f",
+      "size": 651,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 651,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L11",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L14",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L15",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L17",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L21"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "7a71b3d86245aa21c4fe8ac2c540cd253a20e7e9",
+      "size": 2511,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 2511,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L12",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L15",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L17",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L19",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L20"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "9d725b916c619a0648f71bb8d89f6821f8366b99",
+      "size": 2777,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 53,
+      "byte_count": 2777,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/PROJECT_ORIENTATION.md#L13",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/PROJECT_ORIENTATION.md#L21",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/PROJECT_ORIENTATION.md#L24",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/PROJECT_ORIENTATION.md#L30",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/PROJECT_ORIENTATION.md#L31",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/PROJECT_ORIENTATION.md#L32"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "095e500946d405eb52b6e4de02c803c918c67a50",
+      "size": 1290,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 1290,
+      "mechanics": [
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/package.json#L10",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/package.json#L12",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/package.json#L13",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/package.json#L14",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/package.json#L15",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/package.json#L17",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/package.json#L18"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md",
+      "mode": "100644",
+      "sha": "7bad8752894a5ebf129eba1a9e5eef361fb17159",
+      "size": 1315,
+      "score": 92,
+      "reasons": [
+        "documentation surface",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 1315,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L1",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L3",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L7",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L9",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L10",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L11",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L13"
+      ]
+    },
+    {
+      "path": "docs/examples/review-state-v2.json",
+      "mode": "100644",
+      "sha": "ec672790b8189c456fa81b37672e1ddf00ea63bb",
+      "size": 1203,
+      "score": 88,
+      "reasons": [
+        "documentation surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 1203,
+      "mechanics": [
+        "asset_import_pipeline",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/docs/examples/review-state-v2.json#L3",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/docs/examples/review-state-v2.json#L4"
+      ]
+    },
+    {
+      "path": "docs/review-state-schema.md",
+      "mode": "100644",
+      "sha": "822cafaac25994e5438ff5d673f95c02763d336c",
+      "size": 1297,
+      "score": 88,
+      "reasons": [
+        "documentation surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 1297,
+      "mechanics": [
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/docs/review-state-schema.md#L3",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/docs/review-state-schema.md#L7",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/docs/review-state-schema.md#L8",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/docs/review-state-schema.md#L13",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/docs/review-state-schema.md#L20",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/docs/review-state-schema.md#L21",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/docs/review-state-schema.md#L32",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/docs/review-state-schema.md#L35"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md",
+      "mode": "100644",
+      "sha": "6f548aedfedf812378ebd3fadd77025f55f18d59",
+      "size": 2216,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 2216,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md#L3",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md#L7",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md#L13",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md#L17",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md#L21",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md#L25",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md#L29"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/docs/provenance/source-assets.md",
+      "mode": "100644",
+      "sha": "a76f0bbd7c9d2a5731571a185bd650972e13eed8",
+      "size": 1249,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 1249,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/provenance/source-assets.md#L1",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/provenance/source-assets.md#L3",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/provenance/source-assets.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/provenance/source-assets.md#L6",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/provenance/source-assets.md#L8",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/provenance/source-assets.md#L10",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/provenance/source-assets.md#L12",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/provenance/source-assets.md#L13"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md",
+      "mode": "100644",
+      "sha": "935862c20b6330e063e881dc1cc2cf3ebeef67db",
+      "size": 2651,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 61,
+      "byte_count": 2651,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md#L7",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md#L9",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md#L17",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md#L25",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md#L28",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md#L31",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md#L32"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/docs/research/source-document-map.md",
+      "mode": "100644",
+      "sha": "785661ffdf284373b8c149858f7558375644ed5a",
+      "size": 1312,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 13,
+      "byte_count": 1312,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/source-document-map.md#L1",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/source-document-map.md#L3",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/source-document-map.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/source-document-map.md#L6",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/source-document-map.md#L7",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/source-document-map.md#L8",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/source-document-map.md#L9",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/source-document-map.md#L10"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/docs/review-links.md",
+      "mode": "100644",
+      "sha": "a4719dc03011495c687af69266852fcc9c5e38fc",
+      "size": 1625,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 1625,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/review-links.md#L3",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/review-links.md#L5",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/review-links.md#L6",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/review-links.md#L7",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/review-links.md#L8",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/review-links.md#L9",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/review-links.md#L10"
+      ]
+    },
+    {
+      "path": "labs/hard-surface-factory/docs/workflows/foundry-ledger-workflow.md",
+      "mode": "100644",
+      "sha": "22034a8765e34b559fd9cd591f26ba40f04b7630",
+      "size": 3391,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 73,
+      "byte_count": 3391,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/foundry-ledger-workflow.md#L7",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/foundry-ledger-workflow.md#L9",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/foundry-ledger-workflow.md#L17",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/foundry-ledger-workflow.md#L18",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/foundry-ledger-workflow.md#L40",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/foundry-ledger-workflow.md#L44",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/foundry-ledger-workflow.md#L46",
+        "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/foundry-ledger-workflow.md#L55"
+      ]
+    },
+    {
+      "path": "tools/make_github_pages_model_review_link.mjs",
+      "mode": "100644",
+      "sha": "80971f8639249178b92684fcac1fbe5cd7e5cbbd",
+      "size": 1885,
+      "score": 76,
+      "reasons": [
+        "helper tooling",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 47,
+      "byte_count": 1885,
+      "mechanics": []
+    },
+    {
+      "path": "tools/validate_review_state.mjs",
+      "mode": "100644",
+      "sha": "0404863c52e524f4183a89c5dba3f7e08cdd5a8e",
+      "size": 2216,
+      "score": 76,
+      "reasons": [
+        "helper tooling",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 2216,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/browser-acceptance.mjs",
+      "mode": "100644",
+      "sha": "67df861aa15209dc76b174c577979f96092a0f0b",
+      "size": 4372,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 98,
+      "byte_count": 4372,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/build.mjs",
+      "mode": "100644",
+      "sha": "6589534e65588086bf61c48d22b13bc394c34701",
+      "size": 4252,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 101,
+      "byte_count": 4252,
+      "mechanics": []
+    },
+    {
+      "path": "tools/make_mechanism_viewer_link.mjs",
+      "mode": "100644",
+      "sha": "afa3e06d4fbd6872d007dbed395ac2d7b953756d",
+      "size": 1636,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 1636,
+      "mechanics": []
+    },
+    {
+      "path": "tools/make_model_viewer_link.mjs",
+      "mode": "100644",
+      "sha": "d10fa07f69ed1007df06b8dd142aad64715fab2a",
+      "size": 883,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 883,
+      "mechanics": []
+    },
+    {
+      "path": "tools/path_utils.mjs",
+      "mode": "100644",
+      "sha": "49d5e4c3bcbbfa76a9a17f15c057049051d2e328",
+      "size": 941,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 941,
+      "mechanics": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 197,
+    "by_origin": {
+      "github": 197
+    },
+    "by_project": {
+      "model-viewer-lab": 197
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 128,
+      "ai_pressure": 42,
+      "writing_corpus_review": 28,
+      "validation_pipeline": 22,
+      "web_choice_player": 18,
+      "touch_lane_combat": 14,
+      "vehicle_survival": 14,
+      "tts_audio_pipeline": 14,
+      "pose_animation_tools": 7,
+      "source_packet_generation": 1,
+      "deck_pressure": 1
+    },
+    "examples": {
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Official workspace model review platform for generated GLB/GLTF mesh artifacts.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "The server hosts `/storage/emulated/0/Documents/GodotProjects` as the web root so review URLs can point to ignored scratch archives or sibling project assets without copying GLBs.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "node tools/make_model_viewer_link.mjs --src /storage/emulated/0/Documents/GodotProjects/tanks-for-the-memories/archive/scratch/20260708-real-sherman-chassis-scratch/models/real_...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "Generate a durable review URL for a GLB committed in another public GitHub repo:",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "npm run pages-link -- --asset-repo Valar05/tanks-for-the-memories --branch codex/upper-glacis-recovery-tools --src archive/scratch/20260708-real-sherman-chassis-scratch/models/r...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "The generated URL uses `raw.githubusercontent.com` for model assets, so the source repo/artifacts must be readable to the browser. Private asset repos need an authenticated host...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "- Use **Copy Cloud URL** when the model assets are browser-readable from GitHub and the Pages viewer is deployed.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "npm run pages-link -- --asset-repo Valar05/model-viewer-lab --branch main --state-json docs/examples/review-state-v2.json --title shared-review",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L72"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The viewer is portrait-first, full-screen, and intended for handoff links. It does not replace project-specific visual acceptance lanes; it makes every mesh artifact inspectable...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "The generated URL uses `raw.githubusercontent.com` for model assets, so the source repo/artifacts must be readable to the browser. Private asset repos need an authenticated host...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- `ledger/`: spreadsheet-shaped CSV control plane for parts, phenotype genes, and experiment lineage.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/ledger/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "The Foundry Ledger is the human-editable judgment and experiment control plane for Hard Surface Factory.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/ledger/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- `genes.csv` — phenotype parameters that can vary across related assets. Stores defaults, bounds/options, affected assemblies, and implementation lane.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/tools/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- plane fitting",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- If a model asset is private or not browser-readable, report an artifact-hosting blocker instead of pretending localhost is cloud-readable.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "The `measurement_solids`, `measurement_features`, and `measurement_clusters` exporters introduced a stronger separation between source measurement and authored output. These scr...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md#L25"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The viewer is portrait-first, full-screen, and intended for handoff links. It does not replace project-specific visual acceptance lanes; it makes every mesh artifact inspectable...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "npm run pages-link -- --asset-repo Valar05/model-viewer-lab --branch main --state-json docs/examples/review-state-v2.json --title shared-review",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/ledger/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The repository remains authoritative for executable tooling, schemas, source/reference assets, review states, and reproducible build inputs. The ledger records structured decisi...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/tools/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "`tools/exporters/legacy-tank-investigation/` contains Blender Python exporters from the tank upper-hull investigation. They are archived as reusable implementation examples for:",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/tools/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "They are not expected to run unchanged in a new project because many retain original tank-project paths.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/tools/README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "`tools/diagnostics/` contains focused diagnostic scripts that can be copied into a new experiment when the input/output paths are updated.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- `src/model-viewer.css`: portrait-first layout and collapsible panels.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Portrait is the standard layout. The 3D canvas is the primary surface, not a thumbnail.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L24"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The viewer is portrait-first, full-screen, and intended for handoff links. It does not replace project-specific visual acceptance lanes; it makes every mesh artifact inspectable...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "The generated URL uses `raw.githubusercontent.com` for model assets, so the source repo/artifacts must be readable to the browser. Private asset repos need an authenticated host...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Measurement and reconstruction research that can apply to hard-surface vehicle parts.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- `ledger/`: spreadsheet-shaped CSV control plane for parts, phenotype genes, and experiment lineage.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/ledger/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "The Foundry Ledger is the human-editable judgment and experiment control plane for Hard Surface Factory.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/ledger/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- `genes.csv` — phenotype parameters that can vary across related assets. Stores defaults, bounds/options, affected assemblies, and implementation lane.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/tools/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- plane fitting",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "The `measurement_solids`, `measurement_features`, and `measurement_clusters` exporters introduced a stronger separation between source measurement and authored output. These scr...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/history/tank-upper-hull-investigation.md#L25"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "The server hosts `/storage/emulated/0/Documents/GodotProjects` as the web root so review URLs can point to ignored scratch archives or sibling project assets without copying GLBs.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Hard-surface mechanisms live under `labs/hard-surface-factory/mechanisms/` and are served through `mechanism-viewer.html`. The first mechanism is a procedural working tread syst...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "`https://valar05.github.io/model-viewer-lab/model-viewer.html`",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Blender/Python tooling used to inspect, segment, measure, author, render, or validate hard-surface meshes.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/tools/README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- diagnostic rendering",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `model-viewer.html`: browser viewer shell.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- `mechanism-viewer.html`: browser mechanism/simulation shell.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `tools/serve_viewer.mjs`: no-cache workspace-root static server.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L17"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "node tools/make_model_viewer_link.mjs --src /storage/emulated/0/Documents/GodotProjects/tanks-for-the-memories/archive/scratch/20260708-real-sherman-chassis-scratch/models/real_...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "npm run pages-link -- --asset-repo Valar05/tanks-for-the-memories --branch codex/upper-glacis-recovery-tools --src archive/scratch/20260708-real-sherman-chassis-scratch/models/r...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `source-assets/`: source/reference GLBs, source images, and manifests.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- Review links must point at `model-viewer.html` with `src`, optional `manifest`, and a meaningful `title`.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- Do not copy large model artifacts into this repo. The viewer repo owns review tooling; asset repos own GLB/GLTF files and manifests.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- model manifest",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "docs/examples/review-state-v2.json",
+          "line": 4,
+          "symbol": "manifest",
+          "evidence": "\"manifest\": \"https://raw.githubusercontent.com/Valar05/tanks-for-the-memories/codex/upper-glacis-recovery-tools/archive/scratch/20260708-real-sherman-chassis-scratch/models/real...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/docs/examples/review-state-v2.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "docs/review-state-schema.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- `manifest`: optional model manifest URL.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/docs/review-state-schema.md#L8"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- Use **Export -> Copy JSON** when the state should be committed beside a model report.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Objective machine reports from prior experiments.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- `history/raw-reports/`: JSON reports copied from attempts, without GLB/Blend candidate outputs.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "The ledger separates machine observation from human judgment while keeping both durable and diffable. Geometry tooling can discover components, repetition, symmetry, and measure...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/tools/README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- report writing",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/tools/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "They are not expected to run unchanged in a new project because many retain original tank-project paths.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- If a model asset is private or not browser-readable, report an artifact-hosting blocker instead of pretending localhost is cloud-readable.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "1. Export GLB and reports into an experiment-specific output directory.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L25"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "README.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "- Validate committed state files with `npm run validate:review-state` or `node tools/validate_review_state.mjs path/to/state.json`.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/README.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Blender/Python tooling used to inspect, segment, measure, author, render, or validate hard-surface meshes.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "npm run validate:hard-surface-factory",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/README.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "npm run validate:foundry-ledger",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/README.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/ledger/README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "npm run validate:foundry-ledger",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/ledger/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- `tools/smoke_viewer.mjs`: checks built files and current-kit link assets.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `tools/smoke_mechanism_viewer.mjs`: checks built mechanism viewer files and tread-system fixture.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/PROJECT_ORIENTATION.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- `scripts/validate_factory_inventory.mjs`: repository guard for this lab.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/PROJECT_ORIENTATION.md#L44"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/mechanisms/tread-system-v1/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- Joystick left/right: tank-local yaw turn.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/mechanisms/tread-system-v1/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/mechanisms/tread-system-v1/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Differential tracks are derived from joystick input: left speed is `forward + turn`, right speed is `forward - turn`.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/mechanisms/tread-system-v1/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/tools/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "They are not expected to run unchanged in a new project because many retain original tank-project paths.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/tools/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/PROJECT_ORIENTATION.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "Each exporter may contain source and output paths from the originating tank repository. Update paths before using the script in a new project.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/workflows/blender-exporter-workflow.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/docs/provenance/source-assets.md",
+          "line": 10,
+          "symbol": "Original Repository Paths",
+          "evidence": "## Original Repository Paths",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/provenance/source-assets.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/docs/provenance/source-assets.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Source manifests supplied by the originating repository.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/provenance/source-assets.md#L19"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "docs/review-state-schema.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Model Viewer Lab review state lets multiple agents share the same camera, display, selected object, visibility, and tweak context without sharing a browser session. It is not li...",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/docs/review-state-schema.md#L3"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "model-viewer-lab",
+          "repo": "Valar05/model-viewer-lab",
+          "path": "labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "- `measurement_report.json`: fitted planes, centers, radii, dimensions, thresholds.",
+          "source_url": "https://github.com/Valar05/model-viewer-lab/blob/main/labs/hard-surface-factory/docs/research/measurement-driven-reconstruction.md#L51"
+        }
+      ]
+    }
+  }
+}

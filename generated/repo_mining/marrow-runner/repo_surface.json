@@ -1,0 +1,1831 @@
+{
+  "repo": "Valar05/marrow-runner",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "marrow-runner",
+    "updatedAt": "2026-06-20T22:48:18Z",
+    "url": "https://github.com/Valar05/marrow-runner",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 16,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "95483e067a127a91725c4c2da2256961884343ed",
+      "size": 6365,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 111,
+      "byte_count": 6365,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/README.md#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/README.md#L15",
+        "https://github.com/Valar05/marrow-runner/blob/main/README.md#L27",
+        "https://github.com/Valar05/marrow-runner/blob/main/README.md#L33",
+        "https://github.com/Valar05/marrow-runner/blob/main/README.md#L35",
+        "https://github.com/Valar05/marrow-runner/blob/main/README.md#L41",
+        "https://github.com/Valar05/marrow-runner/blob/main/README.md#L45",
+        "https://github.com/Valar05/marrow-runner/blob/main/README.md#L48"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "8b92ea4bd3d92678199221059cdb2f26a24239a0",
+      "size": 1839,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 58,
+      "byte_count": 1839,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_ORIENTATION.md#L8",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_ORIENTATION.md#L16",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_ORIENTATION.md#L21",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_ORIENTATION.md#L35",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_ORIENTATION.md#L43"
+      ]
+    },
+    {
+      "path": "tools/build_itch_release.py",
+      "mode": "100644",
+      "sha": "a8aaebfd3e03410b475c54915ca0a6f265a6f912",
+      "size": 2360,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 86,
+      "byte_count": 2360,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/build_itch_release.py#L2",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/build_itch_release.py#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/build_itch_release.py#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/build_itch_release.py#L6",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/build_itch_release.py#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/build_itch_release.py#L10",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/build_itch_release.py#L13",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/build_itch_release.py#L16"
+      ]
+    },
+    {
+      "path": "tools/sfx_synth.py",
+      "mode": "100644",
+      "sha": "ee684661224c3b5aaa93ec8cb449657e4f646a98",
+      "size": 14593,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 386,
+      "byte_count": 14593,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L8",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L10",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L11",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L12",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L13",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L14",
+        "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L15"
+      ]
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "d6cb8ea2ca91e0e71519348fb1f56ee5060e44bf",
+      "size": 1882,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 1882,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "assets/asset_manifest.json",
+      "mode": "100644",
+      "sha": "625059a1cbeb368b833043c9b82b4904e7ed99ee",
+      "size": 32719,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 587,
+      "byte_count": 32719,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L1",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L2",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L4",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L6",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "assets/sfx/sfx_manifest.json",
+      "mode": "100644",
+      "sha": "5bf2fd43c6fee31f9095d1bcb9512da84dbbfbd9",
+      "size": 18814,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 435,
+      "byte_count": 18814,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L1",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L2",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L4",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L6",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "release/page_assets/page_asset_manifest.json",
+      "mode": "100644",
+      "sha": "b250b7b350b0eb76e9fcca7253f874e04d4cd99a",
+      "size": 1891,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 1891,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/release/page_assets/page_asset_manifest.json#L1",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/page_assets/page_asset_manifest.json#L2",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/page_assets/page_asset_manifest.json#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/page_assets/page_asset_manifest.json#L4",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/page_assets/page_asset_manifest.json#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/page_assets/page_asset_manifest.json#L6",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/page_assets/page_asset_manifest.json#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/page_assets/page_asset_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "release/ITCH_PAGE_COPY.md",
+      "mode": "100644",
+      "sha": "c428b472cb4b50cfed3322e290e5034ddfe010e7",
+      "size": 4349,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 76,
+      "byte_count": 4349,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L6",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L12",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L13",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L15",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L17"
+      ]
+    },
+    {
+      "path": "release/claude_itch_page_copy.json",
+      "mode": "100644",
+      "sha": "2050655904ebbcf66033c2d3969cd19fc416cf20",
+      "size": 5582,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 5582,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L1",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L2",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L4",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L6",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L8"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "sha": "c5bf7b9110c82ab06dd03c793e94a191f149fdda",
+      "size": 1244,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 1244,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/AGENTS.md#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/AGENTS.md#L8",
+        "https://github.com/Valar05/marrow-runner/blob/main/AGENTS.md#L9",
+        "https://github.com/Valar05/marrow-runner/blob/main/AGENTS.md#L17",
+        "https://github.com/Valar05/marrow-runner/blob/main/AGENTS.md#L18",
+        "https://github.com/Valar05/marrow-runner/blob/main/AGENTS.md#L19",
+        "https://github.com/Valar05/marrow-runner/blob/main/AGENTS.md#L20",
+        "https://github.com/Valar05/marrow-runner/blob/main/AGENTS.md#L31"
+      ]
+    },
+    {
+      "path": "ROGUELIKE_WRITEUP.md",
+      "mode": "100644",
+      "sha": "709e503b0a3a24c909f97a40fd8ec701e5d1d773",
+      "size": 12420,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 251,
+      "byte_count": 12420,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L1",
+        "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L9",
+        "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L10",
+        "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L11",
+        "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L12"
+      ]
+    },
+    {
+      "path": "data/level_01.json",
+      "mode": "100644",
+      "sha": "508a329cb48a7e4dee9b05745c3d6feb4a5c9c57",
+      "size": 838,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 838,
+      "mechanics": [
+        "ai_pressure",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/data/level_01.json#L8",
+        "https://github.com/Valar05/marrow-runner/blob/main/data/level_01.json#L9"
+      ]
+    },
+    {
+      "path": "release/DEVLOG_v0.9.0-rc3.md",
+      "mode": "100644",
+      "sha": "a83db3e0b8ca2f75f81a621fe0e0f2b25be7ffce",
+      "size": 4813,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 90,
+      "byte_count": 4813,
+      "mechanics": [
+        "ai_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc3.md#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc3.md#L13",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc3.md#L16",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc3.md#L18",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc3.md#L19",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc3.md#L23",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc3.md#L33",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc3.md#L35"
+      ]
+    },
+    {
+      "path": "release/DEVLOG_v0.9.0-rc4.md",
+      "mode": "100644",
+      "sha": "c99821e0b78a96cea7933efd0bfcf56ad8f631aa",
+      "size": 3765,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 62,
+      "byte_count": 3765,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc4.md#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc4.md#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc4.md#L11",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc4.md#L12",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc4.md#L14",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc4.md#L16",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc4.md#L18",
+        "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc4.md#L20"
+      ]
+    },
+    {
+      "path": "src/main.js",
+      "mode": "100644",
+      "sha": "1b0a49d99a6d62b301079c4b55fdc0fcc77670f9",
+      "size": 210284,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5790,
+      "byte_count": 210284,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L1",
+        "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L2",
+        "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L3",
+        "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L4",
+        "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L5",
+        "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L6",
+        "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L7",
+        "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 6890,
+    "by_origin": {
+      "github": 6890
+    },
+    "by_project": {
+      "marrow-runner": 6890
+    },
+    "by_mechanic": {
+      "ai_pressure": 5544,
+      "asset_import_pipeline": 1295,
+      "tts_audio_pipeline": 1279,
+      "pose_animation_tools": 326,
+      "text_console_runtime": 218,
+      "web_choice_player": 192,
+      "deck_pressure": 144,
+      "vehicle_survival": 95,
+      "source_packet_generation": 86,
+      "resource_upgrade_loop": 59,
+      "touch_lane_combat": 47,
+      "delayed_consequences": 37,
+      "validation_pipeline": 17,
+      "event_clouds": 15,
+      "writing_corpus_review": 10
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Dependency-free HTML canvas immune-cell maze chase. This standalone repo was split out from Thunder Brainstorm for itch release and ongoing development.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "- Main menu includes a standalone Tutorial button for movement, Pseudopod Ram, knockback, and chain reactions; the first New Run shows a one-time tutorial prompt only until the ...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "- Pseudopod Ram: rearmed below 0.25 input, initial movement from rest bursts into frame 4, launches enemies as recursive knockback projectiles, slightly biases chains toward nea...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "- Complement nodes are suction pickups; complement also vacuum-ingests Germ Runners, which then respawn Pac-Man-style.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- Infection enemies pathfind through the tissue, kill on contact, emerge from a marked Infection Nest, avoid lymph-gate spawning, separate while chasing, respawn until the nest ...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "- Four ghost-style enemy archetypes are represented: pursuer, ambusher, flanker, and wanderer, with generated sprite-sheet art and procedural fallback.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- Responsive maze dimensions selected from viewport aspect ratio, with tall phone portrait grids around 18x32-34.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "- Forgiving circle-based wall collision against the tile-authored maze; topology widening is currently disabled after playtest.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L68"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Dependency-free HTML canvas immune-cell maze chase. This standalone repo was split out from Thunder Brainstorm for itch release and ongoing development.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "python -m http.server 8787",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "Build the private web-upload zip from this folder:",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "The generated file lands under `release/` and includes the runtime web files, generated assets, and asset/SFX manifests. It intentionally excludes screenshots, harness pages, ge...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "Before uploading, source the local shell config only in the terminal session that will run the upload tool:",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "`ITCH_API_KEY` is for upload tooling only. Do not add it to source files, manifests, release zips, or logs. Upload the release as a private/unlisted itch build first, then smoke...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "With the local server running, open:",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "http://127.0.0.1:8787/harness.html",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L48"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "The generated file lands under `release/` and includes the runtime web files, generated assets, and asset/SFX manifests. It intentionally excludes screenshots, harness pages, ge...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "`ITCH_API_KEY` is for upload tooling only. Do not add it to source files, manifests, release zips, or logs. Upload the release as a private/unlisted itch build first, then smoke...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "- Responsive organically grown tissue maze with looped routes, blob zones, and wavy vessel corridors.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "- Antibody pickup has a short locally synthesized wet-glint sound effect played through low-latency decoded Web Audio with an overlapping HTMLAudio fallback pool.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 75,
+          "symbol": "",
+          "evidence": "- Full antibody collection triggers a visible cleanse wave that neutralizes the Infection Nest before the lymph gate finish.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L75"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "Generated assets should land inside `assets/` and be recorded in `assets/asset_manifest.json`.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 89,
+          "symbol": "",
+          "evidence": "Prototype SFX are planned in `assets/sfx/sfx_manifest.json` and can be generated one at a time. Local synthesized presets live in `tools/sfx_synth.py`, for example:",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L89"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "python tools/sfx_synth.py eat_antibody assets/sfx/eat_antibody_01.wav",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L92"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "The generated file lands under `release/` and includes the runtime web files, generated assets, and asset/SFX manifests. It intentionally excludes screenshots, harness pages, ge...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "Before uploading, source the local shell config only in the terminal session that will run the upload tool:",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "`ITCH_API_KEY` is for upload tooling only. Do not add it to source files, manifests, release zips, or logs. Upload the release as a private/unlisted itch build first, then smoke...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- Player sprite sheet loaded from `assets/player/phagocyte_4frame_sprite_sheet.png`.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 85,
+          "symbol": "Asset Plan",
+          "evidence": "## Asset Plan",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "Generated assets should land inside `assets/` and be recorded in `assets/asset_manifest.json`.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 89,
+          "symbol": "",
+          "evidence": "Prototype SFX are planned in `assets/sfx/sfx_manifest.json` and can be generated one at a time. Local synthesized presets live in `tools/sfx_synth.py`, for example:",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L89"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "python tools/sfx_synth.py eat_antibody assets/sfx/eat_antibody_01.wav",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L92"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "`ITCH_API_KEY` is for upload tooling only. Do not add it to source files, manifests, release zips, or logs. Upload the release as a private/unlisted itch build first, then smoke...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "- Antibody pickup has a short locally synthesized wet-glint sound effect played through low-latency decoded Web Audio with an overlapping HTMLAudio fallback pool.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `harness.html`: browser viewport/canvas smoke harness.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "tools/sfx_synth.py",
+          "line": 73,
+          "symbol": "",
+          "evidence": "glint = sine(chirp_freq, t, 1.1) * (max(0.0, 1 - t / 0.055) ** 1.8) * 0.23",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L73"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "tools/sfx_synth.py",
+          "line": 76,
+          "symbol": "",
+          "evidence": "return (pop + glint + wet + snap) * 0.88",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L76"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "> - `harness.html`: browser viewport/canvas smoke harness.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 179,
+          "symbol": "prompt_summary",
+          "evidence": "\"prompt_summary\": \"wet organic pop; bright immune glint; instant\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L179"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 504,
+          "symbol": "notes",
+          "evidence": "\"notes\": \"Needed for 1.0 additive mutation readability; validate alpha corners and frame leakage before runtime wiring.\"",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L504"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "The harness embeds phone/tablet/desktop viewport fixtures and checks canvas dimensions, grid dimensions, zone count, pickup counts, complement nodes, nonblank pixels, and pixel ...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "- Roguelike start screen with generated seed creation, localStorage seed history, replayable old seeds, active-run resume, and deterministic seed+level room layouts.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "- Generated red/pink tissue texture cropped to the board, masked separately for dark floors and brighter wall masses with cellular-noise wall boundaries.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 75,
+          "symbol": "",
+          "evidence": "- Full antibody collection triggers a visible cleanse wave that neutralizes the Infection Nest before the lymph gate finish.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L75"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 77,
+          "symbol": "",
+          "evidence": "- Pause is available from the HUD, the top-right canvas control, and keyboard `P`/`Esc`.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L77"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 108,
+          "symbol": "",
+          "evidence": "- `assets/backgrounds/roguelike_tissue_menu_bg.png` (`1536x1024`, start/menu and atmosphere background)",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L108"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 10,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "- `ROGUELIKE_WRITEUP.md`",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L47"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "- Roguelike start screen with generated seed creation, localStorage seed history, replayable old seeds, active-run resume, and deterministic seed+level room layouts.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "- Main menu includes a standalone Tutorial button for movement, Pseudopod Ram, knockback, and chain reactions; the first New Run shows a one-time tutorial prompt only until the ...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "- Compact optional room/zone pockets embedded as organic tissue chambers.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 76,
+          "symbol": "",
+          "evidence": "- Canvas result banner includes a restart button for mobile/fullscreen play, with canvas-coordinate touch hit testing.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L76"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "tools/sfx_synth.py",
+          "line": 368,
+          "symbol": "",
+          "evidence": "parser = argparse.ArgumentParser(description='Generate Marrow Runner prototype sound effects.')",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L368"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "tools/sfx_synth.py",
+          "line": 369,
+          "symbol": "",
+          "evidence": "parser.add_argument('preset', nargs='?', choices=sorted(PRESETS))",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L369"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "tools/sfx_synth.py",
+          "line": 370,
+          "symbol": "",
+          "evidence": "parser.add_argument('output', nargs='?', type=Path)",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L370"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "tools/sfx_synth.py",
+          "line": 371,
+          "symbol": "",
+          "evidence": "parser.add_argument('--seed', type=int, default=1701)",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L371"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "- Main menu includes a standalone Tutorial button for movement, Pseudopod Ram, knockback, and chain reactions; the first New Run shows a one-time tutorial prompt only until the ...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 563,
+          "symbol": "prompt_summary",
+          "evidence": "\"prompt_summary\": \"Five top-down infection nest sprites on transparent background: pulsing purple cyst, irritated active nest, cracked damaged nest, golden cleanse reaction, dea...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L563"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/ITCH_PAGE_COPY.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "A seeded immune-cell maze chase about cleansing infection nests and ramming germs into chain reactions.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/ITCH_PAGE_COPY.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "The signature move is Pseudopod Ram. Release input to rearm, then move from rest to burst forward. A rammed germ becomes a projectile. If it hits a wall or another germ, it dies...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/ITCH_PAGE_COPY.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- Tutorial scene for movement, ram timing, and chain reactions",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/ITCH_PAGE_COPY.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "Write concise itch.io page copy for a browser-playable game called Marrow Runner. It is an immune-cell maze chase: guide a phagocyte through organic tissue mazes, collect antibo...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/claude_itch_page_copy.json",
+          "line": 2,
+          "symbol": "short_description",
+          "evidence": "\"short_description\": \"Browser maze chase: guide a phagocyte through living tissue, ram germs into chain reactions, cleanse the infection nest.\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/claude_itch_page_copy.json",
+          "line": 3,
+          "symbol": "page_description_markdown",
+          "evidence": "\"page_description_markdown\": \"**Marrow Runner** is a browser-playable immune-cell maze chase. You steer a phagocyte through seeded organic tissue mazes, collect antibodies scatt...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L3"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- Infection enemies pathfind through the tissue, kill on contact, emerge from a marked Infection Nest, avoid lymph-gate spawning, separate while chasing, respawn until the nest ...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 75,
+          "symbol": "",
+          "evidence": "- Full antibody collection triggers a visible cleanse wave that neutralizes the Infection Nest before the lymph gate finish.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L75"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "- Lymph gate level-complete state with Advance action; each deeper level increases enemy count and expands the available archetype pool.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 28,
+          "symbol": "",
+          "evidence": "\"lymph_gate\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L28"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 437,
+          "symbol": "target_use",
+          "evidence": "\"target_use\": \"Player enters lymph gate after collecting all antibodies.\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L437"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 438,
+          "symbol": "prompt_summary",
+          "evidence": "\"prompt_summary\": \"gate opens; lymph transition; level complete\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L438"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 325,
+          "symbol": "event",
+          "evidence": "\"event\": \"Player enters lymph gate after collecting all antibodies.\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L325"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 328,
+          "symbol": "",
+          "evidence": "\"lymph transition\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L328"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "- Mobile and fullscreen play hide the HTML HUD, draw a compact canvas HUD, and give the whole viewport to touch input.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 25,
+          "symbol": "",
+          "evidence": "\"drawMenuButton actions via handleMenuPointer\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L25"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 383,
+          "symbol": "",
+          "evidence": "\"drawCanvasHud fever state\"",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L383"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "ROGUELIKE_WRITEUP.md",
+          "line": 95,
+          "symbol": "",
+          "evidence": "- ram rearm threshold becomes more forgiving",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L95"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "src/main.js",
+          "line": 71,
+          "symbol": "",
+          "evidence": "const PSEUDOPOD_RAM_REARM_THRESHOLD = 0.25;",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L71"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "src/main.js",
+          "line": 143,
+          "symbol": "",
+          "evidence": "const LOW_ANTIBODY_GLOW_THRESHOLD = 5;",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L143"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "src/main.js",
+          "line": 144,
+          "symbol": "",
+          "evidence": "const ANTIBODY_LOCATOR_THRESHOLD = 7;",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L144"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "src/main.js",
+          "line": 362,
+          "symbol": "",
+          "evidence": "delta: level => `Ram rearm threshold +${Math.round(level * 3.5)}%`",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/src/main.js#L362"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- Antibody vacuum upgrade hook pulls nearby antibodies into the player.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 204,
+          "symbol": "target_use",
+          "evidence": "\"target_use\": \"Defines planned Marrow Runner sound-effect events, target feel, generation strategy, hook points, and generation order.\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L204"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 24,
+          "symbol": "hook_points",
+          "evidence": "\"hook_points\": [",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L24"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 50,
+          "symbol": "hook_points",
+          "evidence": "\"hook_points\": [",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L50"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 76,
+          "symbol": "hook_points",
+          "evidence": "\"hook_points\": [",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L76"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 99,
+          "symbol": "hook_points",
+          "evidence": "\"hook_points\": [",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L99"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 125,
+          "symbol": "hook_points",
+          "evidence": "\"hook_points\": [",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L125"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 150,
+          "symbol": "hook_points",
+          "evidence": "\"hook_points\": [",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L150"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- Antibody vacuum upgrade hook pulls nearby antibodies into the player.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/README.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 511,
+          "symbol": "target_use",
+          "evidence": "\"target_use\": \"Ram start, germ launch, chain hit, and wall impact burst sprites replacing procedural placeholder particles for Pseudopod Impact upgrades.\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L511"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/ITCH_PAGE_COPY.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- Embed: Enable fullscreen button if itch offers it; the game also has an in-game fullscreen control.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "ROGUELIKE_WRITEUP.md",
+          "line": 86,
+          "symbol": "",
+          "evidence": "Antibodies are the level-clear objective. They should be numerous enough to create route planning, but not so dense that every tile is a dot. The antibody vacuum helps reduce cl...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L86"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "ROGUELIKE_WRITEUP.md",
+          "line": 90,
+          "symbol": "",
+          "evidence": "Possible future upgrade hooks:",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L90"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "ROGUELIKE_WRITEUP.md",
+          "line": 225,
+          "symbol": "",
+          "evidence": "Add roguelike upgrades or mutations only after the base loop feels good. The strongest candidates are vacuum range, ram chain forgiveness, complement duration, and temporary shi...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L225"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/DEVLOG_v0.9.0-rc3.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "That last point matters. The game is not the only thing that matured. The workshop around it did too.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc3.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/DEVLOG_v0.9.0-rc4.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This release candidate is a systems pass more than a content-surface pass. The old run loop was playable, loud, and readable, but the mutation layer was still a sketch. v0.9.0-r...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc4.md#L5"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "tools/sfx_synth.py",
+          "line": 30,
+          "symbol": "decay",
+          "evidence": "def decay(t: float, duration: float, power: float = 2.0, attack: float = 0.002) -> float:",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L30"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "tools/sfx_synth.py",
+          "line": 33,
+          "symbol": "",
+          "evidence": "if t < attack:",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L33"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "tools/sfx_synth.py",
+          "line": 34,
+          "symbol": "",
+          "evidence": "return t / max(attack, 0.0001)",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L34"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "tools/sfx_synth.py",
+          "line": 35,
+          "symbol": "",
+          "evidence": "return max(0.0, 1.0 - (t - attack) / max(duration - attack, 0.0001)) ** power",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/tools/sfx_synth.py#L35"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/PROJECT_MANIFEST.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 176,
+          "symbol": "notes",
+          "evidence": "\"notes\": \"Should play even if no enemy is hit, because it confirms dash input.\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L176"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/ITCH_PAGE_COPY.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- Pseudopod Ram: release input, then move from rest to dash",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L37"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 14,
+          "symbol": "notes",
+          "evidence": "\"notes\": \"Copied from Thunder Brainstorm generated assets; original remains in generated/assets and Codex generated_images.\"",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L14"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 43,
+          "symbol": "notes",
+          "evidence": "\"notes\": \"Dark tissue backdrop for canvas board; original generated image preserved.\"",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L43"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 55,
+          "symbol": "prompt_summary",
+          "evidence": "\"prompt_summary\": \"Large top-down red/pink fleshy tissue texture with veins/capillaries, glossy membranes, chunky high-contrast painterly style matching the phagocyte sprite lan...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L55"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 56,
+          "symbol": "notes",
+          "evidence": "\"notes\": \"Copied into project assets; original generated image preserved under Codex generated_images.\"",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L56"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 69,
+          "symbol": "notes",
+          "evidence": "\"notes\": \"Copied into project assets; original generated image preserved under Codex generated_images.\"",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L69"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/asset_manifest.json",
+          "line": 85,
+          "symbol": "notes",
+          "evidence": "\"notes\": \"Local chroma-key helper required Pillow, unavailable in this environment; runtime canvas getImageData removes green key. Original generated image preserved under Codex...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/asset_manifest.json#L85"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "ROGUELIKE_WRITEUP.md",
+          "line": 108,
+          "symbol": "",
+          "evidence": "- Wanderer: drifts around the player with less direct pursuit.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/ROGUELIKE_WRITEUP.md#L108"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/DEVLOG_v0.9.0-rc4.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "There was a nasty report: each New Run felt choppier than the last.",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/DEVLOG_v0.9.0-rc4.md#L44"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 6,
+          "symbol": "generation_policy",
+          "evidence": "\"generation_policy\": \"Prefer local synthesis for short game-feel/UI sounds. Use sourced online sounds only when synthesis is insufficient; record source URL, license, attributio...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/assets/sfx/sfx_manifest.json#L6"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/ITCH_PAGE_COPY.md",
+          "line": 65,
+          "symbol": "Claude Prompt For Alternate Wording",
+          "evidence": "## Claude Prompt For Alternate Wording",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/ITCH_PAGE_COPY.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "Use this if you want Claude to rewrite the page copy without changing the facts:",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/ITCH_PAGE_COPY.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/claude_itch_page_copy.json",
+          "line": 1,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L1"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/claude_itch_page_copy.json",
+          "line": 2,
+          "symbol": "short_description",
+          "evidence": "\"short_description\": \"Browser maze chase: guide a phagocyte through living tissue, ram germs into chain reactions, cleanse the infection nest.\",",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/claude_itch_page_copy.json",
+          "line": 3,
+          "symbol": "page_description_markdown",
+          "evidence": "\"page_description_markdown\": \"**Marrow Runner** is a browser-playable immune-cell maze chase. You steer a phagocyte through seeded organic tissue mazes, collect antibodies scatt...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/claude_itch_page_copy.json",
+          "line": 4,
+          "symbol": "controls_markdown",
+          "evidence": "\"controls_markdown\": \"| Input | Action |\\n|---|---|\\n| Touch — press and drag anywhere | Move |\\n| WASD or Arrow Keys | Move |\\n| Release input, then move from rest | Pseudopod ...",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "marrow-runner",
+          "repo": "Valar05/marrow-runner",
+          "path": "release/claude_itch_page_copy.json",
+          "line": 5,
+          "symbol": "features",
+          "evidence": "\"features\": [",
+          "source_url": "https://github.com/Valar05/marrow-runner/blob/main/release/claude_itch_page_copy.json#L5"
+        }
+      ]
+    }
+  }
+}

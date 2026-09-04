@@ -1,0 +1,2051 @@
+{
+  "repo": "Valar05/infinite-brutality",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "infinite-brutality",
+    "updatedAt": "2026-08-30T22:18:58Z",
+    "url": "https://github.com/Valar05/infinite-brutality",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "tools/quake_geometry_ingest/README.md",
+      "mode": "100644",
+      "sha": "eb4d9b017737db522cd83b002dc8888e2884318f",
+      "size": 1614,
+      "score": 180,
+      "reasons": [
+        "root readme",
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 1614,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L16",
+        "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L26",
+        "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L27",
+        "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L31"
+      ]
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "2cb595b6bb348f1ef0970fb5e63ff174a33743a4",
+      "size": 1103,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 36,
+      "byte_count": 1103,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L14",
+        "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L17",
+        "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L23",
+        "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L25",
+        "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L26",
+        "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L31"
+      ]
+    },
+    {
+      "path": "vendor/rapier3d/README.md",
+      "mode": "100644",
+      "sha": "7e9a33463119bc6e000d78911bec15054118b395",
+      "size": 522,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 11,
+      "byte_count": 522,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/README.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/README.md#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/README.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/README.md#L11"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "bdd11b7fc8b91023a64b93078540687523103aac",
+      "size": 7616,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 106,
+      "byte_count": 7616,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L8",
+        "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L17",
+        "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L24",
+        "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L25"
+      ]
+    },
+    {
+      "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+      "mode": "100644",
+      "sha": "aeed58c0f44756629da95a96fc1048725d4ec949",
+      "size": 15645,
+      "score": 100,
+      "reasons": [
+        "documentation surface",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 566,
+      "byte_count": 15645,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L1",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L4",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L6",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L8",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L12",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L14"
+      ]
+    },
+    {
+      "path": "docs/PROP_DECORATION_MANIFEST.md",
+      "mode": "100644",
+      "sha": "431621bf303389631e113d2093c91090e30969b4",
+      "size": 3891,
+      "score": 100,
+      "reasons": [
+        "documentation surface",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 146,
+      "byte_count": 3891,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PROP_DECORATION_MANIFEST.md#L1",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PROP_DECORATION_MANIFEST.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PROP_DECORATION_MANIFEST.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PROP_DECORATION_MANIFEST.md#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PROP_DECORATION_MANIFEST.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PROP_DECORATION_MANIFEST.md#L11",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PROP_DECORATION_MANIFEST.md#L13",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/PROP_DECORATION_MANIFEST.md#L14"
+      ]
+    },
+    {
+      "path": "vendor/rapier3d/package.json",
+      "mode": "100644",
+      "sha": "e5691430afc84b1e4af173b87d7b182a8d807f78",
+      "size": 823,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 38,
+      "byte_count": 823,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/package.json#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/package.json#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/package.json#L17",
+        "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/package.json#L26",
+        "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/package.json#L35"
+      ]
+    },
+    {
+      "path": "tools/test_material_manifest_contract.mjs",
+      "mode": "100644",
+      "sha": "20766fff76b11e34f51b9a0123097a8c03d485b7",
+      "size": 5742,
+      "score": 88,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 119,
+      "byte_count": 5742,
+      "mechanics": []
+    },
+    {
+      "path": "docs/COMBAT_BRINGUP_PLAN.md",
+      "mode": "100644",
+      "sha": "11ee2b93c9f62a0808321aaa61e40e4a6ba2668d",
+      "size": 4181,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 121,
+      "byte_count": 4181,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L11",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L13",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L14",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L18"
+      ]
+    },
+    {
+      "path": "docs/DEEP_OCEAN_TOOL_NEEDS.md",
+      "mode": "100644",
+      "sha": "fc69820a17a6715f2e2b3fbf4892719f1255b0c1",
+      "size": 2552,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 2552,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DEEP_OCEAN_TOOL_NEEDS.md#L8",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DEEP_OCEAN_TOOL_NEEDS.md#L13",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DEEP_OCEAN_TOOL_NEEDS.md#L15",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DEEP_OCEAN_TOOL_NEEDS.md#L18",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DEEP_OCEAN_TOOL_NEEDS.md#L21",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DEEP_OCEAN_TOOL_NEEDS.md#L23",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DEEP_OCEAN_TOOL_NEEDS.md#L24",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DEEP_OCEAN_TOOL_NEEDS.md#L25"
+      ]
+    },
+    {
+      "path": "docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md",
+      "mode": "100644",
+      "sha": "3dc09e1ad209c90e5f22311805aa9dabe09bd33d",
+      "size": 11239,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 317,
+      "byte_count": 11239,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L1",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L11",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L12"
+      ]
+    },
+    {
+      "path": "docs/DISTRICT_RUNTIME_CONTRACT.md",
+      "mode": "100644",
+      "sha": "2c829f1b276bdb907e927b1bd9406ce8863b811c",
+      "size": 11655,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 426,
+      "byte_count": 11655,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L1",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L11",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L12"
+      ]
+    },
+    {
+      "path": "docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md",
+      "mode": "100644",
+      "sha": "b2d0a2158ce502630db6a24afd2e14a81895814f",
+      "size": 4702,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 141,
+      "byte_count": 4702,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md#L1",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md#L11",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md#L13",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md#L14"
+      ]
+    },
+    {
+      "path": "docs/ENEMY_SPAWN_ENVELOPE_PLAN.md",
+      "mode": "100644",
+      "sha": "47bcce9e53d01bd065cf363d3ac39d82900ff491",
+      "size": 6713,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 194,
+      "byte_count": 6713,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_SPAWN_ENVELOPE_PLAN.md#L1",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_SPAWN_ENVELOPE_PLAN.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_SPAWN_ENVELOPE_PLAN.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_SPAWN_ENVELOPE_PLAN.md#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_SPAWN_ENVELOPE_PLAN.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_SPAWN_ENVELOPE_PLAN.md#L11",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_SPAWN_ENVELOPE_PLAN.md#L12",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_SPAWN_ENVELOPE_PLAN.md#L13"
+      ]
+    },
+    {
+      "path": "docs/HANGING_GARDENS_NOOK_STORY_PILOT.md",
+      "mode": "100644",
+      "sha": "149ee74bd9d1cb0f0459a9152da1f8540d80df8d",
+      "size": 4497,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 156,
+      "byte_count": 4497,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L4",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L6",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L13",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L14",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L16",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L24",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L33"
+      ]
+    },
+    {
+      "path": "docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md",
+      "mode": "100644",
+      "sha": "7e4a99181805d9f77a82c1c7446114eb113f8e2c",
+      "size": 3618,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 130,
+      "byte_count": 3618,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L4",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L6",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L16",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L23",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L27",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L38",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L45"
+      ]
+    },
+    {
+      "path": "docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md",
+      "mode": "100644",
+      "sha": "14ccb90a6d3c91cf0ec735e3606b63069a96dd4c",
+      "size": 11897,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 307,
+      "byte_count": 11897,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L8",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L15",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L16",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L22",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L24",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L28"
+      ]
+    },
+    {
+      "path": "docs/INSIDE_OUT_VOXEL_MASS_PLAN.md",
+      "mode": "100644",
+      "sha": "c8b25207bfe26a5daccf1ab109f9265a667d16d2",
+      "size": 6050,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 124,
+      "byte_count": 6050,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L14",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L18",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L19",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L21"
+      ]
+    },
+    {
+      "path": "docs/LEVEL_DESIGN_BIBLE.md",
+      "mode": "100644",
+      "sha": "4e28ebe0a622addddbc1cee0eb04a21877df7dff",
+      "size": 15101,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 630,
+      "byte_count": 15101,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_BIBLE.md#L13",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_BIBLE.md#L15",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_BIBLE.md#L17",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_BIBLE.md#L29",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_BIBLE.md#L36",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_BIBLE.md#L50",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_BIBLE.md#L54",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_BIBLE.md#L67"
+      ]
+    },
+    {
+      "path": "docs/LEVEL_DESIGN_WORKFLOW.md",
+      "mode": "100644",
+      "sha": "ee2c127ffed3fe05f860eac6e0980cb639c3773f",
+      "size": 10690,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 170,
+      "byte_count": 10690,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_WORKFLOW.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_WORKFLOW.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_WORKFLOW.md#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_WORKFLOW.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_WORKFLOW.md#L11",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_WORKFLOW.md#L15",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_WORKFLOW.md#L17",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/LEVEL_DESIGN_WORKFLOW.md#L21"
+      ]
+    },
+    {
+      "path": "docs/NOOK_NARRATOR_VIBE.md",
+      "mode": "100644",
+      "sha": "b8709d14f9ed6e3f5caf3f0b1dd1c00ec536760f",
+      "size": 6000,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 284,
+      "byte_count": 6000,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_NARRATOR_VIBE.md#L6",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_NARRATOR_VIBE.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_NARRATOR_VIBE.md#L14",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_NARRATOR_VIBE.md#L17",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_NARRATOR_VIBE.md#L36",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_NARRATOR_VIBE.md#L38",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_NARRATOR_VIBE.md#L42",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_NARRATOR_VIBE.md#L55"
+      ]
+    },
+    {
+      "path": "docs/NOOK_STORY_PLACEMENT_RULES.md",
+      "mode": "100644",
+      "sha": "cad73324561de3af0965d7677b5f7a75b03afc74",
+      "size": 2471,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 113,
+      "byte_count": 2471,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_PLACEMENT_RULES.md#L4",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_PLACEMENT_RULES.md#L6",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_PLACEMENT_RULES.md#L8",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_PLACEMENT_RULES.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_PLACEMENT_RULES.md#L14",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_PLACEMENT_RULES.md#L15",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_PLACEMENT_RULES.md#L25",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_PLACEMENT_RULES.md#L28"
+      ]
+    },
+    {
+      "path": "docs/NOOK_STORY_WRITING_SYSTEM.md",
+      "mode": "100644",
+      "sha": "cf5141a32910b78af7cd949f98515ee8705a4a72",
+      "size": 10115,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 490,
+      "byte_count": 10115,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_WRITING_SYSTEM.md#L4",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_WRITING_SYSTEM.md#L14",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_WRITING_SYSTEM.md#L24",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_WRITING_SYSTEM.md#L37",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_WRITING_SYSTEM.md#L39",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_WRITING_SYSTEM.md#L47",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_WRITING_SYSTEM.md#L53",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_STORY_WRITING_SYSTEM.md#L55"
+      ]
+    },
+    {
+      "path": "docs/NOOK_TTS_SYSTEM.md",
+      "mode": "100644",
+      "sha": "9c962f5dbf889121aeffb9ecd4ac9afa8d436b6d",
+      "size": 1164,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 1164,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_TTS_SYSTEM.md#L1",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_TTS_SYSTEM.md#L3",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_TTS_SYSTEM.md#L5",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_TTS_SYSTEM.md#L7",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_TTS_SYSTEM.md#L9",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_TTS_SYSTEM.md#L10",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_TTS_SYSTEM.md#L11",
+        "https://github.com/Valar05/infinite-brutality/blob/main/docs/NOOK_TTS_SYSTEM.md#L12"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1912,
+    "by_origin": {
+      "github": 1912
+    },
+    "by_project": {
+      "infinite-brutality": 1912
+    },
+    "by_mechanic": {
+      "validation_pipeline": 690,
+      "ai_pressure": 655,
+      "asset_import_pipeline": 594,
+      "tts_audio_pipeline": 575,
+      "pose_animation_tools": 209,
+      "touch_lane_combat": 168,
+      "text_console_runtime": 152,
+      "source_packet_generation": 67,
+      "vehicle_survival": 52,
+      "web_choice_player": 42,
+      "deck_pressure": 33,
+      "writing_corpus_review": 26,
+      "resource_upgrade_loop": 16,
+      "delayed_consequences": 12,
+      "event_clouds": 5
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "tools/quake_geometry_ingest/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This directory must not contain shipped Quake art, textures, audio, or copyrighted map data. The committed fixture is synthetic repo-owned geometry. External Quake `.map`/`.bsp`...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 82,
+          "symbol": "",
+          "evidence": "- prop decoration manifest: `data/prop_decoration_manifest.json`",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L82"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 83,
+          "symbol": "",
+          "evidence": "- prop decoration guide: `docs/PROP_DECORATION_MANIFEST.md`",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L83"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "- Pose Lab clip-gradient tool concept: `docs/POSE_LAB_CLIP_GRADIENT_EDITOR.md`",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 91,
+          "symbol": "",
+          "evidence": "If the runtime starts ignoring a `.poseclip.json` attack clip, check the asset path first. Pose clips should be loaded from the project asset URL directly, not by resolving thro...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L91"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 1,
+          "symbol": "Primitive Architecture Realization Manifest",
+          "evidence": "# Primitive Architecture Realization Manifest",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L1"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "tools/quake_geometry_ingest/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This directory must not contain shipped Quake art, textures, audio, or copyrighted map data. The committed fixture is synthetic repo-owned geometry. External Quake `.map`/`.bsp`...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "tools/quake_geometry_ingest/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- `walkableSurfaces` inside `slice_plan.json`: floor/stair/ledge surface records.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "Terrain Docs",
+          "evidence": "## Terrain Docs",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- `docs/ROCK_SHAPE_GRAMMAR.md`: terrain shape contract.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `docs/TERRAIN_GENERATION_TECHNIQUES.md`: current and historical terrain generator implementation map.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "node --input-type=module --check < src/main.js",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "vendor/rapier3d/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder contains the static browser runtime for `@dimforge/rapier3d-compat`.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- `src/main.js`: runtime, controls, generated room-batch builder, camera-space FPV arms, footsteps, and attack loop.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L8"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "tools/quake_geometry_ingest/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This directory must not contain shipped Quake art, textures, audio, or copyrighted map data. The committed fixture is synthetic repo-owned geometry. External Quake `.map`/`.bsp`...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "vendor/rapier3d/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Source: npm package fetched with `npm pack @dimforge/rapier3d-compat`",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "vendor/rapier3d/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- License: Apache-2.0, as declared in `package.json`",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `assets/models/FPSPlayer.glb`: copied from Pose Lab as the first-person arm and animation source.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- `docs/TOOL_FIRST_ENGINEERING_DOCTRINE.md`: tool-first engineering rule for hard domains; propose proven tools before hand-rolling physics, collision, profiling, visual QA, pro...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "Render the world normally, then render FPS arms in a separate camera-space pass so the player never sees chest/body intrusion. Keep the low-poly hard-edged source asset as the a...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L58"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "tools/quake_geometry_ingest/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This directory must not contain shipped Quake art, textures, audio, or copyrighted map data. The committed fixture is synthetic repo-owned geometry. External Quake `.map`/`.bsp`...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Three.js landscape mobile prototype for a first-person melee/platformer roguelike set in Limbo.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Three.js landscape mobile prototype for a first-person melee platformer roguelike set in Limbo, a low-poly nightmare realm where violence has become geography.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `assets/models/FPSPlayer.glb`: copied from Pose Lab as the first-person arm and animation source.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- District purpose can still vary, but the visible world should stay inside the same ancient layered family until the room kit itself has been fully converted.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- If screenshots read like mixed biomes again, treat that as a generator regression, not acceptable variation.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- `src/district-intent-planner.js`: district identity planner for memorable place reads. It selects purpose, required phrases, assemblies, logistics, skyline, silhouette, and tr...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "- `docs/DISTRICT_RUNTIME_CONTRACT.md`: authoritative runtime contract for district build order, skeleton geometry, support snapping, spawns, and enemy traversal.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L50"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "tools/quake_geometry_ingest/README.md",
+          "line": 16,
+          "symbol": "Command",
+          "evidence": "## Command",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "tools/quake_geometry_ingest/README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `room_graph.json`: extracted rooms, edges, loopbacks, side/secret candidates.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "node --input-type=module --check < src/generated_room_batch.js",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "python3 -m json.tool data/room_junction_batch.json >/dev/null",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- `src/main.js`: runtime, controls, generated room-batch builder, camera-space FPV arms, footsteps, and attack loop.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/generated_room_batch.js`: generated 48-room batch module derived from `data/room_junction_batch.json`.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- District purpose can still vary, but the visible world should stay inside the same ancient layered family until the room kit itself has been fully converted.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- `tools/quake_geometry_ingest/`: neutral geometry ingestion experiment that extracts Quake-style spatial structure into Infinite Brutality-owned room graphs, voxels, and debug ...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L41"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "tools/quake_geometry_ingest/README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- `report.json`: extraction metrics.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/tools/quake_geometry_ingest/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "When a level-design pass produces a durable critique/fix pattern, update the general Thunder note if it generalizes and this project-local note if it is Infinite Brutality-speci...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md",
+          "line": 194,
+          "symbol": "",
+          "evidence": "Update: the runtime currently keeps the district purposes (`intake`, `liftworks`, `furnace`, `refuse`, `shrine`) but overrides their architectural family to Hanging Gardens by d...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L194"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/DISTRICT_RUNTIME_CONTRACT.md",
+          "line": 201,
+          "symbol": "",
+          "evidence": "This layer does not own original room semantic anchors.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L201"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md",
+          "line": 302,
+          "symbol": "",
+          "evidence": "- Island chains, floating ramp rubble, and disconnected decorative rock chunks are failures for the proof slice.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L302"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/INSIDE_OUT_VOXEL_MASS_PLAN.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `driftfield` Expedition: useful for the newer cave-first field discipline, authored layout-to-field coupling, and traversal-truth constraints.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/INSIDE_OUT_VOXEL_MASS_PLAN.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- Chunked scalar-field sampling as a cheap, controllable authoring surface.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/INSIDE_OUT_VOXEL_MASS_PLAN.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- `ruined_air/scripts/world_generator.gd:436-486` spawns chunk builders asynchronously.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L28"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "sh ./tools/start_local_server.sh",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "http://127.0.0.1:8798/infinite-brutality/index.html",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "Use `sh ./tools/status_local_server.sh` to check it and `sh ./tools/stop_local_server.sh` to stop it.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "vendor/rapier3d/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "The project uses this vendored copy so the HTML prototype can run from a static local server without a runtime CDN dependency. The adapter layer lives in `src/physics-world.js`.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/vendor/rapier3d/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `index.html`: browser entry shell.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "`http://127.0.0.1:8798/infinite-brutality/index.html`",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- `tools/assembly_workbench.html`: static local workbench for reviewing district assembly support chains without booting the full game.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- `tools/ib_doctor.sh`: one-command local validation for cache-bust consistency, key contracts, and tmux server health.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L43"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- `src/main.js`: runtime, controls, generated room-batch builder, camera-space FPV arms, footsteps, and attack loop.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 89,
+          "symbol": "",
+          "evidence": "Before combat changes, also read `docs/COMBAT_BRINGUP_PLAN.md`. That note captures the Gravity Fist-derived combat contract: explicit attack ownership, permission gating, one ac...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L89"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 91,
+          "symbol": "",
+          "evidence": "If the runtime starts ignoring a `.poseclip.json` attack clip, check the asset path first. Pose clips should be loaded from the project asset URL directly, not by resolving thro...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L91"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 111,
+          "symbol": "",
+          "evidence": "- foundation block",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L111"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 149,
+          "symbol": "",
+          "evidence": "- `collisionPolicy`: solid, walkable, climbable, partial blocker, visual-only. Visual-only is forbidden for structural masses.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L149"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 194,
+          "symbol": "",
+          "evidence": "- A quarry barracks has bite cuts, stair trenches, worker shelves, block scars, and later military parapets.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L194"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 239,
+          "symbol": "",
+          "evidence": "- market stalls reinforce route edges instead of blocking them",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L239"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 267,
+          "symbol": "",
+          "evidence": "- block scars and abandoned cuts where stone was removed",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L267"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- District purpose can still vary, but the visible world should stay inside the same ancient layered family until the room kit itself has been fully converted.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- `src/district-intent-planner.js`: district identity planner for memorable place reads. It selects purpose, required phrases, assemblies, logistics, skyline, silhouette, and tr...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "- `src/district-assembly-emitter.js`: district assembly emitter for turning intent into supported visible structures. The first implemented slice is the Imperial Foundry process...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- `tools/assembly_workbench.html`: static local workbench for reviewing district assembly support chains without booting the full game.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- `docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md`: district-level route graph and implementation status.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "- `docs/DISTRICT_RUNTIME_CONTRACT.md`: authoritative runtime contract for district build order, skeleton geometry, support snapping, spawns, and enemy traversal.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "- `docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md`: Napoleon's Floating Kingdom terrain grammar, district archetypes, forbidden outputs, mobile constraints, and TerrainLayer ownership...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 79,
+          "symbol": "",
+          "evidence": "- realization plan: `docs/VERTICAL_DISTRICT_REALIZATION_PLAN.md`",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L79"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- `docs/TOOL_FIRST_ENGINEERING_DOCTRINE.md`: tool-first engineering rule for hard domains; propose proven tools before hand-rolling physics, collision, profiling, visual QA, pro...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 89,
+          "symbol": "",
+          "evidence": "Before combat changes, also read `docs/COMBAT_BRINGUP_PLAN.md`. That note captures the Gravity Fist-derived combat contract: explicit attack ownership, permission gating, one ac...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L89"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/COMBAT_BRINGUP_PLAN.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- hurt reactions are stateful overlays, not a base-pose takeover",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/COMBAT_BRINGUP_PLAN.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- `../gravity-fist/scripts/player.gd` for attack timeline, hitbox arming, damage context, knockback, and hurt reaction handling",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/COMBAT_BRINGUP_PLAN.md",
+          "line": 70,
+          "symbol": "6. Hurt Reaction",
+          "evidence": "### 6. Hurt Reaction",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/COMBAT_BRINGUP_PLAN.md#L70"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "- The current FPSPlayer overlay uses `FPSPLAYER_MESHY_VISUAL_OVERLAY` in `src/main.js`: external albedo, normal, roughness, metallic, and emission textures, plus a UV transform ...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/PROJECT_ORIENTATION.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "This skill sits between the general architectural corpus and the runtime generator.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "Use the Thunder architectural corpus as grammar and validation support:",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- Keep the existing generated room/spec corpus as the first production asset base.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md",
+          "line": 97,
+          "symbol": "",
+          "evidence": "- Keep the existing room/spec corpus, but stop treating it as the top-level world shape.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L97"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md",
+          "line": 303,
+          "symbol": "",
+          "evidence": "- do not replace the room corpus",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L303"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md",
+          "line": 309,
+          "symbol": "",
+          "evidence": "- No full room corpus rewrite.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_GRAPH_IMPLEMENTATION_PLAN.md#L309"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/DISTRICT_RUNTIME_CONTRACT.md",
+          "line": 412,
+          "symbol": "",
+          "evidence": "`storyNookPlacements` is the resolved runtime placement plan: packet IDs, cluster IDs, target roles, and world positions chosen from district anchors and segment roles before an...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L412"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 96,
+          "symbol": "",
+          "evidence": "- balcony deck",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L96"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "- bridge deck",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 195,
+          "symbol": "",
+          "evidence": "- A cloud dock has mooring pylons, underside service decks, crane bases, widened cargo routes, and damaged edge repairs.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L195"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 213,
+          "symbol": "",
+          "evidence": "- balcony decks",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L213"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 219,
+          "symbol": "",
+          "evidence": "- underdeck maintenance route",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L219"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 226,
+          "symbol": "",
+          "evidence": "- one lower underdeck recovery route",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L226"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 227,
+          "symbol": "",
+          "evidence": "- repeated scaffold legs under exposed decks",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L227"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 232,
+          "symbol": "",
+          "evidence": "Push across the exposed bridge cluster or drop to the underdeck return.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L232"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 161,
+          "symbol": "",
+          "evidence": "- road cut through a plateau crown",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L161"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 301,
+          "symbol": "",
+          "evidence": "- broad lower court as the kill zone",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L301"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 324,
+          "symbol": "",
+          "evidence": "Undercut cliff shelf with mooring bites and cargo roads above.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L324"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 332,
+          "symbol": "",
+          "evidence": "- cargo road",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L332"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 340,
+          "symbol": "",
+          "evidence": "- broad upper cargo route",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L340"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 348,
+          "symbol": "",
+          "evidence": "Hold the cargo road or risk the underside flank route.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L348"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 457,
+          "symbol": "",
+          "evidence": "Back wall, broad terrace, lower return path, support language.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L457"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md",
+          "line": 473,
+          "symbol": "Cargo Road -> Dock Edge -> Underside Service Route",
+          "evidence": "### Cargo Road -> Dock Edge -> Underside Service Route",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PRIMITIVE_ARCHITECTURE_REALIZATION_MANIFEST.md#L473"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/PROP_DECORATION_MANIFEST.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "- cargo hook posts",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/PROP_DECORATION_MANIFEST.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md",
+          "line": 108,
+          "symbol": "",
+          "evidence": "7. Keep current feedback stack on successful hit: pulse, knockback, thud, future blood/stagger hooks.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/ENEMY_ATTACK_HAND_SWEEP_PLAN.md#L108"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/HANGING_GARDENS_NOOK_STORY_PILOT.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- repeated motifs and contradiction hooks",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/HANGING_GARDENS_NOOK_STORY_PILOT.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "- water infrastructure and poisoned water memory",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/HANGING_GARDENS_NOOK_STORY_PILOT.md",
+          "line": 128,
+          "symbol": "Cluster D: Memory Of Former Gardens Layer",
+          "evidence": "### Cluster D: Memory Of Former Gardens Layer",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT.md#L128"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- poisoned water memory",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md",
+          "line": 104,
+          "symbol": "Cluster D: Failed Bell Memory Layer",
+          "evidence": "### Cluster D: Failed Bell Memory Layer",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L104"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md",
+          "line": 254,
+          "symbol": "",
+          "evidence": "For Imperial Floating Strata, the safe first hook is metadata:",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L254"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/DISTRICT_RUNTIME_CONTRACT.md",
+          "line": 414,
+          "symbol": "",
+          "evidence": "District crystal growths may also be derived from the same segment-role basis at runtime. They are allowed to add cheap recovery shelves and `climbSurfaces`, but they must stay ...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/DISTRICT_RUNTIME_CONTRACT.md#L414"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md",
+          "line": 77,
+          "symbol": "",
+          "evidence": "- `hg2_np_07_substitute_offering_wall`",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/HANGING_GARDENS_NOOK_STORY_PILOT_02.md#L77"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md",
+          "line": 190,
+          "symbol": "",
+          "evidence": "Cut cliffs, stair trenches, block scars, worker roads. The island was mined,",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L190"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md",
+          "line": 208,
+          "symbol": "",
+          "evidence": "- Minecraft slabs",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L208"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md",
+          "line": 281,
+          "symbol": "",
+          "evidence": "- screenshot review does not read as Minecraft, slabs, potatoes, asteroids, or",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/IMPERIAL_FLOATING_STRATA_GRAMMAR.md#L281"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/INSIDE_OUT_VOXEL_MASS_PLAN.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Add a new Infinite Brutality district mass that reads like a floating hollow ruin: a solid exterior body with playable void carved inside it. The target is not a stitched box-ro...",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/INSIDE_OUT_VOXEL_MASS_PLAN.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "5. Attach human-made walkways, stairs, lifts, shrines, and crystal clusters to the carved void afterward.",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "infinite-brutality",
+          "repo": "Valar05/infinite-brutality",
+          "path": "docs/INSIDE_OUT_VOXEL_MASS_PLAN.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "- inject crystal clusters as recovery shelves and seam-bridging landmarks",
+          "source_url": "https://github.com/Valar05/infinite-brutality/blob/main/docs/INSIDE_OUT_VOXEL_MASS_PLAN.md#L100"
+        }
+      ]
+    }
+  }
+}

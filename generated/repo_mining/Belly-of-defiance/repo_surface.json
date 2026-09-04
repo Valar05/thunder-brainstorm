@@ -1,0 +1,1573 @@
+{
+  "repo": "Valar05/Belly-of-defiance",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "Belly-of-defiance",
+    "updatedAt": "2025-10-22T15:39:34Z",
+    "url": "https://github.com/Valar05/Belly-of-defiance",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "f9494773a362e341136153612db848d4748c170d",
+      "size": 769,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 36,
+      "byte_count": 769,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L14",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L18",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L22",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L33",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L35",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L36"
+      ]
+    },
+    {
+      "path": "scripts/played_audio.json",
+      "mode": "100644",
+      "sha": "0637a088a01e8ddab3bf3fa98dbe804cbde1a0dc",
+      "size": 2,
+      "score": 88,
+      "reasons": [
+        "tooling surface",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 2,
+      "mechanics": [
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/played_audio.json#L1"
+      ]
+    },
+    {
+      "path": "scenes/audio_manager.gd",
+      "mode": "100644",
+      "sha": "f375566af9afe4a458d3989aa1fb18f48dce2b7a",
+      "size": 8731,
+      "score": 80,
+      "reasons": [
+        "scene carrier",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 267,
+      "byte_count": 8731,
+      "mechanics": [
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L2",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L4",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L5",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L6",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L7",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L8",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L9",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L10"
+      ]
+    },
+    {
+      "path": "scenes/audio_manager.gd.uid",
+      "mode": "100644",
+      "sha": "1c9ae8faaaf335b84fe331d68e30b8b4e3b662c3",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/enemies/effects/AcidSpray.gdshader",
+      "mode": "100644",
+      "sha": "963170eb2fe672e7a8278bbab1747ee241949790",
+      "size": 936,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 26,
+      "byte_count": 936,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/enemies/effects/AcidSpray.gdshader.uid",
+      "mode": "100644",
+      "sha": "eeab895189fa84191cfb78898bfaf0af4dfbe912",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/CardValues.gd",
+      "mode": "100644",
+      "sha": "ee8f95112fc43a49b9f381e6f7425d3147e7df91",
+      "size": 659,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 659,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/CardValues.gd#L2",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/CardValues.gd#L10",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/CardValues.gd#L11"
+      ]
+    },
+    {
+      "path": "scripts/card.gd",
+      "mode": "100644",
+      "sha": "6e277c0a5dc7bc59dca6014bae51782cf5fb487e",
+      "size": 8375,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 232,
+      "byte_count": 8375,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L3",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L11",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L15",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L19",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L20",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L22",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L26",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L27"
+      ]
+    },
+    {
+      "path": "scripts/cast_effect.gd",
+      "mode": "100644",
+      "sha": "003b7403b17f92286557d2531f77670a90813719",
+      "size": 384,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 384,
+      "mechanics": [
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/cast_effect.gd#L3",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/cast_effect.gd#L6",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/cast_effect.gd#L10"
+      ]
+    },
+    {
+      "path": "scripts/deck.gd",
+      "mode": "100644",
+      "sha": "fc0135c17b66daa31dfe1a99fd0b15c6ecf65bbf",
+      "size": 119,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 119,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/deck.gd#L1",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/deck.gd#L2",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/deck.gd#L4",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/deck.gd#L5"
+      ]
+    },
+    {
+      "path": "scripts/enemies/parietal_cell.gd",
+      "mode": "100644",
+      "sha": "67527c539e4583e2c674d66de10108bdaee88d00",
+      "size": 561,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 18,
+      "byte_count": 561,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "scripts/enemy.gd",
+      "mode": "100644",
+      "sha": "450f159739373c0ad2171fcf326c1aa526312ca1",
+      "size": 5505,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 192,
+      "byte_count": 5505,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L1",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L2",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L3",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L4",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L5",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L6",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L7",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L8"
+      ]
+    },
+    {
+      "path": "scripts/enemy_container.gd",
+      "mode": "100644",
+      "sha": "fb6cfa68dc50bf36b0723aff5bf1fd3477c34431",
+      "size": 890,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 26,
+      "byte_count": 890,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy_container.gd#L1",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy_container.gd#L3",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy_container.gd#L4",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy_container.gd#L6",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy_container.gd#L7",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy_container.gd#L8",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy_container.gd#L11",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy_container.gd#L12"
+      ]
+    },
+    {
+      "path": "scripts/foot_ik_root.gd",
+      "mode": "100644",
+      "sha": "f002ef331a68a8a7f42bb0bc4ce7f2e7f35f1edd",
+      "size": 324,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 324,
+      "mechanics": [
+        "pose_animation_tools",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/foot_ik_root.gd#L1",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/foot_ik_root.gd#L3",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/foot_ik_root.gd#L4",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/foot_ik_root.gd#L5",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/foot_ik_root.gd#L6",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/foot_ik_root.gd#L7",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/foot_ik_root.gd#L8",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/foot_ik_root.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/game_manager.gd",
+      "mode": "100644",
+      "sha": "8f180338879a11697218962fded3b00df52b63e1",
+      "size": 3777,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 130,
+      "byte_count": 3777,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L2",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L3",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L4",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L5",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L12",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L13",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L17",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L18"
+      ]
+    },
+    {
+      "path": "scripts/joystick.gd",
+      "mode": "100644",
+      "sha": "756242775876f72066b25e1c5b9ea96dab2c1a04",
+      "size": 1705,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 53,
+      "byte_count": 1705,
+      "mechanics": [
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/joystick.gd#L5",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/joystick.gd#L11",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/joystick.gd#L21",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/joystick.gd#L23",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/joystick.gd#L28",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/joystick.gd#L29",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/joystick.gd#L30",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/joystick.gd#L38"
+      ]
+    },
+    {
+      "path": "scripts/music_player - Copy.gd",
+      "mode": "100644",
+      "sha": "9872b02cd92617dfe8fdd45f6dd4c9324de2ee07",
+      "size": 1054,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 1054,
+      "mechanics": [
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player - Copy.gd#L1",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player - Copy.gd#L3",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player - Copy.gd#L4",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player - Copy.gd#L5",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player - Copy.gd#L6",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player - Copy.gd#L7",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player - Copy.gd#L11",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player - Copy.gd#L17"
+      ]
+    },
+    {
+      "path": "scripts/music_player.gd",
+      "mode": "100644",
+      "sha": "9872b02cd92617dfe8fdd45f6dd4c9324de2ee07",
+      "size": 1054,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 1054,
+      "mechanics": [
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player.gd#L1",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player.gd#L3",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player.gd#L4",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player.gd#L5",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player.gd#L6",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player.gd#L7",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player.gd#L11",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/music_player.gd#L17"
+      ]
+    },
+    {
+      "path": "scripts/pause_button.gd",
+      "mode": "100644",
+      "sha": "02f9d459a3d508a05bbfe7e9ee8b98717677b8c5",
+      "size": 283,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 283,
+      "mechanics": [
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L1",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L3",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L5",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L6",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L7",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L10",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L11",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L12"
+      ]
+    },
+    {
+      "path": "scripts/player.gd",
+      "mode": "100644",
+      "sha": "e3d421d8ebad09cfc11c315c7e67dac0e5e32fc5",
+      "size": 11953,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 356,
+      "byte_count": 11953,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L56",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L57",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L58",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L72",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L77",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L82",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L94",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L97"
+      ]
+    },
+    {
+      "path": "scripts/projectile.gd",
+      "mode": "100644",
+      "sha": "ea65e0fd4481e0363da48ec71f489838ce1fc211",
+      "size": 800,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 31,
+      "byte_count": 800,
+      "mechanics": [
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/projectile.gd#L6",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/projectile.gd#L11",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/projectile.gd#L21"
+      ]
+    },
+    {
+      "path": "scripts/rowan_o_shea.gd",
+      "mode": "100644",
+      "sha": "4ba731095ac3fd5cd3a85dedf2947835b2e282bb",
+      "size": 7622,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 238,
+      "byte_count": 7622,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/rowan_o_shea.gd#L3",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/rowan_o_shea.gd#L7",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/rowan_o_shea.gd#L9",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/rowan_o_shea.gd#L12",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/rowan_o_shea.gd#L17",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/rowan_o_shea.gd#L21",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/rowan_o_shea.gd#L22",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/rowan_o_shea.gd#L25"
+      ]
+    },
+    {
+      "path": "scripts/status_effects.gd",
+      "mode": "100644",
+      "sha": "08b1f7fbe52e4a7b943e529e0189b0c7d9b1d3fa",
+      "size": 2841,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 82,
+      "byte_count": 2841,
+      "mechanics": [
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/status_effects.gd#L42",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/status_effects.gd#L43",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/status_effects.gd#L44",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/status_effects.gd#L46",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/status_effects.gd#L47",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/status_effects.gd#L48",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/status_effects.gd#L49",
+        "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/status_effects.gd#L50"
+      ]
+    },
+    {
+      "path": "scripts/status_narrations.gd",
+      "mode": "100644",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 0,
+      "byte_count": 0,
+      "mechanics": [],
+      "source_line_refs": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 802,
+    "by_origin": {
+      "github": 802
+    },
+    "by_project": {
+      "Belly-of-defiance": 802
+    },
+    "by_mechanic": {
+      "tts_audio_pipeline": 418,
+      "ai_pressure": 250,
+      "web_choice_player": 126,
+      "pose_animation_tools": 51,
+      "deck_pressure": 49,
+      "touch_lane_combat": 46,
+      "text_console_runtime": 27,
+      "asset_import_pipeline": 12,
+      "source_packet_generation": 11,
+      "resource_upgrade_loop": 6,
+      "vehicle_survival": 5,
+      "writing_corpus_review": 4,
+      "delayed_consequences": 2
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"uid://da5h7tj62b3rc\"",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/CardValues.gd",
+          "line": 10,
+          "symbol": "",
+          "evidence": "@export var gain_ap: int",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/CardValues.gd#L10"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 39,
+          "symbol": "",
+          "evidence": "if lock and !gm.enemy_turn and !preview_mode:",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L39"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 78,
+          "symbol": "",
+          "evidence": "player.target.scroll_box._focus_on_enemy(player.target)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L78"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 107,
+          "symbol": "",
+          "evidence": "player.ap += card_values.gain_ap",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L107"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 121,
+          "symbol": "",
+          "evidence": "await delayed_effect(vfx_timing, card_values.damage_multi * player.attack_power, card_values.target_effects)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L121"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 134,
+          "symbol": "",
+          "evidence": "await disable_after_delay()",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L134"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 137,
+          "symbol": "",
+          "evidence": "await get_tree().create_timer(delay).timeout",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L137"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "project.godot",
+          "line": 18,
+          "symbol": "",
+          "evidence": "[audio]",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L18"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/played_audio.json",
+          "line": 1,
+          "symbol": "",
+          "evidence": "[]",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/played_audio.json#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 2,
+          "symbol": "",
+          "evidence": "extends AudioStreamPlayer2D",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L2"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "var zero = preload(\"res://audio/vo/0.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "var one = preload(\"res://audio/vo/1.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 6,
+          "symbol": "",
+          "evidence": "var ten = preload(\"res://audio/vo/10.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L6"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "var one_hundred = preload(\"res://audio/vo/100.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "var eleven = preload(\"res://audio/vo/11.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L8"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "project.godot",
+          "line": 22,
+          "symbol": "",
+          "evidence": "[autoload]",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L22"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "project.godot",
+          "line": 33,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L33"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "project.godot",
+          "line": 35,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L35"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "var zero = preload(\"res://audio/vo/0.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "var one = preload(\"res://audio/vo/1.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 6,
+          "symbol": "",
+          "evidence": "var ten = preload(\"res://audio/vo/10.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L6"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "var one_hundred = preload(\"res://audio/vo/100.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "var eleven = preload(\"res://audio/vo/11.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L8"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "project.godot",
+          "line": 36,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/project.godot#L36"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/CardValues.gd",
+          "line": 2,
+          "symbol": "",
+          "evidence": "extends Resource",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/CardValues.gd#L2"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/deck.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Resource",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/deck.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/game_manager.gd",
+          "line": 28,
+          "symbol": "",
+          "evidence": "if not played_long and enemy.intro_long.resource_path not in played_audio:",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L28"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/game_manager.gd",
+          "line": 30,
+          "symbol": "",
+          "evidence": "played_audio.append(enemy.intro_long.resource_path)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L30"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/game_manager.gd",
+          "line": 35,
+          "symbol": "",
+          "evidence": "if enemy.intro_short.resource_path not in played_audio:",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L35"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/game_manager.gd",
+          "line": 37,
+          "symbol": "",
+          "evidence": "played_audio.append(enemy.intro_short.resource_path)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L37"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 303,
+          "symbol": "",
+          "evidence": "# Blend direction in 3D and preserve speed",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L303"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 34,
+          "symbol": "",
+          "evidence": "var attack = preload(\"res://audio/vo/attack.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L34"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 154,
+          "symbol": "",
+          "evidence": "\"attack\": audio_stream = attack",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L154"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 80,
+          "symbol": "",
+          "evidence": "player.attack(card_values.damage_multi, vfx, vfx_timing, sfx)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L80"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 121,
+          "symbol": "",
+          "evidence": "await delayed_effect(vfx_timing, card_values.damage_multi * player.attack_power, card_values.target_effects)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L121"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 192,
+          "symbol": "",
+          "evidence": "audio_manager.queue_audio(str(int(card_values.damage_multi * player.attack_power)))",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L192"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/enemy.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "@export var attack_power = 5",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/enemy.gd",
+          "line": 31,
+          "symbol": "",
+          "evidence": "var attacking = false",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L31"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/enemy.gd",
+          "line": 116,
+          "symbol": "",
+          "evidence": "if attacking:",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/enemy.gd#L116"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 57,
+          "symbol": "",
+          "evidence": "var cant_draw = preload(\"res://audio/vo/cantdraw.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L57"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 82,
+          "symbol": "",
+          "evidence": "var draws = preload(\"res://audio/vo/draws.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L82"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 200,
+          "symbol": "",
+          "evidence": "\"cant_draw\":",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L200"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 201,
+          "symbol": "",
+          "evidence": "audio_stream = cant_draw",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L201"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 234,
+          "symbol": "",
+          "evidence": "\"draws\":",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L234"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 235,
+          "symbol": "",
+          "evidence": "audio_stream = draws",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L235"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/CardValues.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "@export var draw: int",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/CardValues.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 20,
+          "symbol": "",
+          "evidence": "const DRAG_THRESHOLD := 200.0 # Adjust as needed",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L20"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 69,
+          "symbol": "",
+          "evidence": "var this_clip = preload(\"res://audio/vo/this.ogg\")",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L69"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scenes/audio_manager.gd",
+          "line": 191,
+          "symbol": "",
+          "evidence": "audio_stream = this_clip",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scenes/audio_manager.gd#L191"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 19,
+          "symbol": "",
+          "evidence": "var original_pos",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L19"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 34,
+          "symbol": "",
+          "evidence": "original_pos = global_position",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L34"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 38,
+          "symbol": "",
+          "evidence": "global_position.y = lerp(global_position.y, original_pos.y, 10 * delta)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L38"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 58,
+          "symbol": "",
+          "evidence": "global_position.y = clamp(original_pos.y - drag_distance,original_pos.y - DRAG_THRESHOLD, original_pos.y)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L58"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/cast_effect.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "var orig_pos",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/cast_effect.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/cast_effect.gd",
+          "line": 6,
+          "symbol": "",
+          "evidence": "orig_pos = global_position",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/cast_effect.gd#L6"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/CardValues.gd",
+          "line": 2,
+          "symbol": "",
+          "evidence": "extends Resource",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/CardValues.gd#L2"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/deck.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Resource",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/deck.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/game_manager.gd",
+          "line": 28,
+          "symbol": "",
+          "evidence": "if not played_long and enemy.intro_long.resource_path not in played_audio:",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L28"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/game_manager.gd",
+          "line": 30,
+          "symbol": "",
+          "evidence": "played_audio.append(enemy.intro_long.resource_path)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L30"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/game_manager.gd",
+          "line": 35,
+          "symbol": "",
+          "evidence": "if enemy.intro_short.resource_path not in played_audio:",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L35"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/game_manager.gd",
+          "line": 37,
+          "symbol": "",
+          "evidence": "played_audio.append(enemy.intro_short.resource_path)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L37"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 19,
+          "symbol": "",
+          "evidence": "var original_pos",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L19"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 34,
+          "symbol": "",
+          "evidence": "original_pos = global_position",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L34"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 38,
+          "symbol": "",
+          "evidence": "global_position.y = lerp(global_position.y, original_pos.y, 10 * delta)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L38"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 58,
+          "symbol": "",
+          "evidence": "global_position.y = clamp(original_pos.y - drag_distance,original_pos.y - DRAG_THRESHOLD, original_pos.y)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L58"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 121,
+          "symbol": "",
+          "evidence": "await delayed_effect(vfx_timing, card_values.damage_multi * player.attack_power, card_values.target_effects)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L121"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/card.gd",
+          "line": 136,
+          "symbol": "delayed_effect",
+          "evidence": "func delayed_effect(delay, damage, effects):",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/card.gd#L136"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/foot_ik_root.gd",
+          "line": 15,
+          "symbol": "",
+          "evidence": "var yaw = player.global_transform.basis.get_euler().y",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/foot_ik_root.gd#L15"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 94,
+          "symbol": "",
+          "evidence": "var q_from := Quaternion(global_transform.basis).normalized()",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L94"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 97,
+          "symbol": "",
+          "evidence": "global_transform.basis = Basis(q).orthonormalized()",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L97"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 124,
+          "symbol": "",
+          "evidence": "var cur_forward := -global_transform.basis.z",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L124"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 138,
+          "symbol": "",
+          "evidence": "var yaw := global_transform.basis.get_euler().y",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L138"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 188,
+          "symbol": "",
+          "evidence": "var cam_basis: Basis = camera.global_transform.basis",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L188"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 193,
+          "symbol": "",
+          "evidence": "var body_fwd: Vector3 = -global_transform.basis.z",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L193"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 197,
+          "symbol": "",
+          "evidence": "global_transform.basis = snap_basis",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L197"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/game_manager.gd",
+          "line": 112,
+          "symbol": "_on_end_turn_button_pressed",
+          "evidence": "func _on_end_turn_button_pressed() -> void:",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/game_manager.gd#L112"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/joystick.gd",
+          "line": 21,
+          "symbol": "",
+          "evidence": "var pause_button = $\"../CanvasLayer/PauseButton\"",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/joystick.gd#L21"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/joystick.gd",
+          "line": 23,
+          "symbol": "",
+          "evidence": "if (pause_button.position - event.position).length() < pause_button.click_radius:",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/joystick.gd#L23"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/pause_button.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Button",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/pause_button.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "var click_radius=256",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/pause_button.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "# Called when the node enters the scene tree for the first time.",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/pause_button.gd",
+          "line": 6,
+          "symbol": "_ready",
+          "evidence": "func _ready() -> void:",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L6"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/pause_button.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "pass # Replace with function body.",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/pause_button.gd#L7"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 77,
+          "symbol": "_project_on_plane",
+          "evidence": "func _project_on_plane(v: Vector3, n: Vector3) -> Vector3:",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L77"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 82,
+          "symbol": "",
+          "evidence": "var f := _project_on_plane(forward, u)",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L82"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 190,
+          "symbol": "",
+          "evidence": "var cam_flat: Vector3 = _project_on_plane(cam_forward, Vector3.UP).normalized()",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L190"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 194,
+          "symbol": "",
+          "evidence": "cam_flat = _project_on_plane(body_fwd, Vector3.UP).normalized()",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L194"
+        },
+        {
+          "origin": "github",
+          "project": "Belly-of-defiance",
+          "repo": "Valar05/Belly-of-defiance",
+          "path": "scripts/player.gd",
+          "line": 241,
+          "symbol": "",
+          "evidence": "var cam_right: Vector3 = _project_on_plane(cam_basis.x, Vector3.UP).normalized() # strafe flattened to ground",
+          "source_url": "https://github.com/Valar05/Belly-of-defiance/blob/main/scripts/player.gd#L241"
+        }
+      ]
+    }
+  }
+}

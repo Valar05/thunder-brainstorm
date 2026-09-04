@@ -1,0 +1,1824 @@
+{
+  "repo": "Valar05/gothic-throne",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Godot mobile roguelike prototype",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "gothic-throne",
+    "updatedAt": "2026-05-13T10:48:14Z",
+    "url": "https://github.com/Valar05/gothic-throne",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "docs/agent/README.md",
+      "mode": "100644",
+      "sha": "6cca89299a236210dedb65c5365c06e869e8970e",
+      "size": 616,
+      "score": 188,
+      "reasons": [
+        "root readme",
+        "documentation surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 616,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/README.md#L3",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/README.md#L9",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/README.md#L12"
+      ]
+    },
+    {
+      "path": "docs/bootstrap/README.md",
+      "mode": "100644",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "score": 188,
+      "reasons": [
+        "root readme",
+        "documentation surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 0,
+      "byte_count": 0,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "f5844117455e5e0607159ce05c7c1022ff109931",
+      "size": 2152,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 2152,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/README.md#L6",
+        "https://github.com/Valar05/gothic-throne/blob/main/README.md#L11",
+        "https://github.com/Valar05/gothic-throne/blob/main/README.md#L12",
+        "https://github.com/Valar05/gothic-throne/blob/main/README.md#L14",
+        "https://github.com/Valar05/gothic-throne/blob/main/README.md#L18",
+        "https://github.com/Valar05/gothic-throne/blob/main/README.md#L19",
+        "https://github.com/Valar05/gothic-throne/blob/main/README.md#L20",
+        "https://github.com/Valar05/gothic-throne/blob/main/README.md#L24"
+      ]
+    },
+    {
+      "path": "docs/SOURCE_MANIFEST.md",
+      "mode": "100644",
+      "sha": "7582f42db64cb2653f846ca8922d76c926e37b87",
+      "size": 4514,
+      "score": 100,
+      "reasons": [
+        "documentation surface",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 126,
+      "byte_count": 4514,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L1",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L3",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L4",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L6",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L8",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L10",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L11",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L12"
+      ]
+    },
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "d072909c308c25b3c0b47f59db50fa1a6d1254db",
+      "size": 747,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 747,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/project.godot#L13",
+        "https://github.com/Valar05/gothic-throne/blob/main/project.godot#L18",
+        "https://github.com/Valar05/gothic-throne/blob/main/project.godot#L29",
+        "https://github.com/Valar05/gothic-throne/blob/main/project.godot#L31",
+        "https://github.com/Valar05/gothic-throne/blob/main/project.godot#L32"
+      ]
+    },
+    {
+      "path": "docs/agent/SESSION_STATE.md",
+      "mode": "100644",
+      "sha": "32ec95b2505e835c67b9d5ed97c17b2d9c51f1ef",
+      "size": 15877,
+      "score": 88,
+      "reasons": [
+        "documentation surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 130,
+      "byte_count": 15877,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L9",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L14",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L15",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L16",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L17",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L18",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L19",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L24"
+      ]
+    },
+    {
+      "path": "tools/import/export_blend_to_glb.py",
+      "mode": "100644",
+      "sha": "d343d49b5b21fa81808bbb25f2d97e0d44edf7ae",
+      "size": 2991,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 107,
+      "byte_count": 2991,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/tools/import/export_blend_to_glb.py#L1",
+        "https://github.com/Valar05/gothic-throne/blob/main/tools/import/export_blend_to_glb.py#L2",
+        "https://github.com/Valar05/gothic-throne/blob/main/tools/import/export_blend_to_glb.py#L4",
+        "https://github.com/Valar05/gothic-throne/blob/main/tools/import/export_blend_to_glb.py#L7",
+        "https://github.com/Valar05/gothic-throne/blob/main/tools/import/export_blend_to_glb.py#L8",
+        "https://github.com/Valar05/gothic-throne/blob/main/tools/import/export_blend_to_glb.py#L9",
+        "https://github.com/Valar05/gothic-throne/blob/main/tools/import/export_blend_to_glb.py#L10",
+        "https://github.com/Valar05/gothic-throne/blob/main/tools/import/export_blend_to_glb.py#L11"
+      ]
+    },
+    {
+      "path": "docs/ART_DIRECTION.md",
+      "mode": "100644",
+      "sha": "fb441eeae38d02991d07537ec4b7e31711d14cc4",
+      "size": 2187,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 73,
+      "byte_count": 2187,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/ART_DIRECTION.md#L16",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/ART_DIRECTION.md#L20",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/ART_DIRECTION.md#L25",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/ART_DIRECTION.md#L33",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/ART_DIRECTION.md#L35",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/ART_DIRECTION.md#L37",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/ART_DIRECTION.md#L43",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/ART_DIRECTION.md#L45"
+      ]
+    },
+    {
+      "path": "docs/CONCEPT.md",
+      "mode": "100644",
+      "sha": "a2a6664db0f129fe7e9d15652422937e90ddb206",
+      "size": 3116,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 3116,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L5",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L10",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L14",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L17",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L20",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L26",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L27",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L28"
+      ]
+    },
+    {
+      "path": "docs/PHASE_1.md",
+      "mode": "100644",
+      "sha": "27b7570d916503687d8e12994cfff868d139e636",
+      "size": 1276,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 1276,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PHASE_1.md#L7",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PHASE_1.md#L8",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PHASE_1.md#L11",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PHASE_1.md#L14",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PHASE_1.md#L15",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PHASE_1.md#L20",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PHASE_1.md#L24",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PHASE_1.md#L28"
+      ]
+    },
+    {
+      "path": "docs/PROTOTYPE_MOVEMENT.md",
+      "mode": "100644",
+      "sha": "b9a9f231ca746f55f89bab738769ec16bd8c91d6",
+      "size": 9503,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 85,
+      "byte_count": 9503,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L3",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L7",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L18",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L22",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L25",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L27",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L29",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L30"
+      ]
+    },
+    {
+      "path": "docs/agent/CODE_MAP.md",
+      "mode": "100644",
+      "sha": "2fa5168111c4912b15023f41d4f4b088a856ee69",
+      "size": 3862,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 44,
+      "byte_count": 3862,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/CODE_MAP.md#L3",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/CODE_MAP.md#L7",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/CODE_MAP.md#L9",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/CODE_MAP.md#L10",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/CODE_MAP.md#L14",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/CODE_MAP.md#L16",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/CODE_MAP.md#L17",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/CODE_MAP.md#L23"
+      ]
+    },
+    {
+      "path": "docs/agent/SKILLS.md",
+      "mode": "100644",
+      "sha": "e4b4626c87ffd52bd9e6ad1d9573f806c5d51eca",
+      "size": 2638,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 2638,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SKILLS.md#L3",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SKILLS.md#L12",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SKILLS.md#L18",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SKILLS.md#L22",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SKILLS.md#L23",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SKILLS.md#L28",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SKILLS.md#L30",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SKILLS.md#L35"
+      ]
+    },
+    {
+      "path": "docs/agent/WORK_LOG.md",
+      "mode": "100644",
+      "sha": "e097a588d912fba775759e2b0addfa89982a5c2c",
+      "size": 41651,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 713,
+      "byte_count": 41651,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L18",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L19",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L38",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L39",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L40",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L41",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L55",
+        "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L56"
+      ]
+    },
+    {
+      "path": "tools/import/export_blend_to_glb.sh",
+      "mode": "100644",
+      "sha": "614e860928242e0940e2550f65b56f207e4eb950",
+      "size": 2093,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 2093,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/joystick.gd",
+      "mode": "100644",
+      "sha": "4b94b7cf19b6b8cc3c69d44824fe22dcc683a503",
+      "size": 3079,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 100,
+      "byte_count": 3079,
+      "mechanics": [
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/joystick.gd#L11",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/joystick.gd#L31",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/joystick.gd#L32",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/joystick.gd#L33",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/joystick.gd#L40",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/joystick.gd#L43",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/joystick.gd#L44",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/joystick.gd#L45"
+      ]
+    },
+    {
+      "path": "scripts/prototype/AIConductor3D.gd",
+      "mode": "100644",
+      "sha": "8b1cbb06e7222db0cf171d11e5473a50b59e1ad3",
+      "size": 42883,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1055,
+      "byte_count": 42883,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L1",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L2",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L4",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L5",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L6",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L7",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L8",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/prototype/KnightPlayer3D.gd",
+      "mode": "100644",
+      "sha": "3a5d10571963ac4dcd0cf0120bdd7989df7191d6",
+      "size": 3159,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 99,
+      "byte_count": 3159,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/KnightPlayer3D.gd#L4",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/KnightPlayer3D.gd#L5",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/KnightPlayer3D.gd#L8",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/KnightPlayer3D.gd#L11",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/KnightPlayer3D.gd#L26",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/KnightPlayer3D.gd#L27",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/KnightPlayer3D.gd#L28",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/KnightPlayer3D.gd#L29"
+      ]
+    },
+    {
+      "path": "scripts/prototype/MovementEnemy3D.gd",
+      "mode": "100644",
+      "sha": "2d46086e3286fb9356947e3b9d3f721d74336c35",
+      "size": 22094,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 635,
+      "byte_count": 22094,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/MovementEnemy3D.gd#L1",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/MovementEnemy3D.gd#L2",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/MovementEnemy3D.gd#L4",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/MovementEnemy3D.gd#L5",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/MovementEnemy3D.gd#L6",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/MovementEnemy3D.gd#L7",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/MovementEnemy3D.gd#L8",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/MovementEnemy3D.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/prototype/PrototypeActor3D.gd",
+      "mode": "100644",
+      "sha": "00a0baac263577048343bac66bb1d417b763cd28",
+      "size": 18167,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 529,
+      "byte_count": 18167,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeActor3D.gd#L5",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeActor3D.gd#L30",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeActor3D.gd#L32",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeActor3D.gd#L36",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeActor3D.gd#L64",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeActor3D.gd#L196",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeActor3D.gd#L200",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeActor3D.gd#L201"
+      ]
+    },
+    {
+      "path": "scripts/prototype/PrototypeMain.gd",
+      "mode": "100644",
+      "sha": "26e9321025039f80508a39d642cf93333c3ea726",
+      "size": 5470,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 165,
+      "byte_count": 5470,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeMain.gd#L1",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeMain.gd#L3",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeMain.gd#L4",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeMain.gd#L5",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeMain.gd#L6",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeMain.gd#L7",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeMain.gd#L8",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeMain.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/prototype/ScreenSpaceActorOutline.gd",
+      "mode": "100644",
+      "sha": "8b8f649593af4e214f3e54ac4473eefa4c09c924",
+      "size": 8317,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 229,
+      "byte_count": 8317,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/ScreenSpaceActorOutline.gd#L3",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/ScreenSpaceActorOutline.gd#L4",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/ScreenSpaceActorOutline.gd#L6",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/ScreenSpaceActorOutline.gd#L10",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/ScreenSpaceActorOutline.gd#L13",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/ScreenSpaceActorOutline.gd#L30",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/ScreenSpaceActorOutline.gd#L34",
+        "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/ScreenSpaceActorOutline.gd#L35"
+      ]
+    },
+    {
+      "path": "scripts/joystick.gd.uid",
+      "mode": "100644",
+      "sha": "2ddcd829a4aff2b7e9d28be7aab5b93cf12df38a",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/prototype/AIConductor3D.gd.uid",
+      "mode": "100644",
+      "sha": "702298d1731bc1f52b116a1fd797902d8d9c3525",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 2342,
+    "by_origin": {
+      "github": 2342
+    },
+    "by_project": {
+      "gothic-throne": 2342
+    },
+    "by_mechanic": {
+      "ai_pressure": 1900,
+      "touch_lane_combat": 613,
+      "asset_import_pipeline": 261,
+      "deck_pressure": 205,
+      "pose_animation_tools": 104,
+      "tts_audio_pipeline": 98,
+      "web_choice_player": 68,
+      "text_console_runtime": 43,
+      "vehicle_survival": 25,
+      "writing_corpus_review": 16,
+      "delayed_consequences": 8,
+      "resource_upgrade_loop": 7,
+      "validation_pipeline": 5,
+      "source_packet_generation": 5
+    },
+    "examples": {
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "These files are the persistent working memory for AI-assisted development on `gothic-throne`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Current runtime resource hookups point at:",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Added `docs/agent/` as persistent working memory.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/PROTOTYPE_MOVEMENT.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Wounded/fleeing hooks are documented and stubbed, but attacks and damage are disabled for this movement-only pass.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/CODE_MAP.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `assets/legacy/gothic-throne-unused/scripts/main.gd`: SteamPile-style board movement and Diorama sprite hookup.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/CODE_MAP.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 149,
+          "symbol": "",
+          "evidence": "- Added a shared `PrototypeActor3D._should_face_planar_movement()` hook.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L149"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 150,
+          "symbol": "",
+          "evidence": "- Overrode that hook in `MovementEnemy3D` so enemy AI, not base locomotion, owns facing.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L150"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "scripts/prototype/AIConductor3D.gd",
+          "line": 801,
+          "symbol": "",
+          "evidence": "\"Enemy %s left RETURN_DELAY for %s instead of RETURNING; delayed retreat should flow into the return hop.\"",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L801"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "These files are the persistent working memory for AI-assisted development on `gothic-throne`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `CODE_MAP.md` explains important files and ownership boundaries.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- SteamPile for simultaneous top-down traversal, enemy telegraphs, and roguelike map pressure.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- SteamPile source files are retained as legacy/reference material.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- The main runtime now uses the model-based movement prototype: a controllable knight, multiple pressure enemies, procedural hop/jump movement, and screen-space actor outlines.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- Legacy board/runtime references remain available for migration, but `scripts/main.gd` and `scenes/main.tscn` are no longer canonical.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- Player and enemy use Diorama-facing sprites for front, back, and side views, with left derived by mirroring the right-facing art.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- Contact with an enemy transitions into a close combat duel.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L27"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `CODE_MAP.md` explains important files and ownership boundaries.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "Whenever code, scenes, imports, or direction changes, update these docs in the same change. The goal is for a future interrupted session to resume from the repo itself without r...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- SteamPile source files are retained as legacy/reference material.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Diorama source bundle is mirrored locally in `assets/legacy/diorama-of-descension/`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Unused resource files plus non-canonical legacy scripts/scenes are staged under `assets/legacy/gothic-throne-unused/`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "3. Read `docs/SOURCE_MANIFEST.md`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "5. Keep the mirrored legacy bundle intact so the source games are not needed during development.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 1,
+          "symbol": "Source Manifest",
+          "evidence": "# Source Manifest",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L1"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- SteamPile for simultaneous top-down traversal, enemy telegraphs, and roguelike map pressure.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Close-combat attacks, contact-to-duel handoff, and full roguelike map generation are still future work.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Simultaneous top-down roguelike traversal in the SteamPile lane-reading style.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- Player and enemy use Diorama-facing sprites for front, back, and side views, with left derived by mirroring the right-facing art.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- Duel framing should feel like Infinity Blade: camera behind the player sprite, enemy forward in frame, slash timing emphasized.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This project keeps source material locally so the original games do not need to be opened again.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "- `sprites/Forsaken_player_right.png`",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "- `sprites/Goblin_right.png`",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L68"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Unused resource files plus non-canonical legacy scripts/scenes are staged under `assets/legacy/gothic-throne-unused/`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Current runtime resource hookups point at:",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 124,
+          "symbol": "",
+          "evidence": "- Pre-canonical unused resource files are staged locally in `assets/legacy/gothic-throne-unused/`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L124"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Staged resource files and non-canonical legacy scripts/scenes not used by the movement prototype under `assets/legacy/gothic-throne-unused/`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/CONCEPT.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "- Duel wins should feed back into the run through damage, resources, drops, or path safety.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/CODE_MAP.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- `assets/legacy/gothic-throne-unused/scripts/world/*_system.gd`: item, enemy, crystal, shop, upgrade, and shovel-fist systems.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/CODE_MAP.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- Moved unused resource files and non-canonical legacy scripts/scenes into `assets/legacy/gothic-throne-unused/`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L41"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Close-combat attacks, contact-to-duel handoff, and full roguelike map generation are still future work.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Simultaneous top-down roguelike traversal in the SteamPile lane-reading style.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- `player_attacks.json`",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 93,
+          "symbol": "",
+          "evidence": "Current `gothic-throne` enemy movement borrows Gravity Fist's pressure rhythm: one attack owner, support positioning, normal approach to melee start range, backward anticipation...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L93"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "Movement prototype enemy pressure: no-input attack rhythm now passes with runtime cadence flow enabled; cadence now starts from attack anticipation and controls only when the ne...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "Where we left off: enemy no-input pressure is ready to commit after playtest tuning. Next session should start by reloading the Gravity Fist reference/agent context, then implem...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- Reworked actor outlines from player/enemy category masks to per-actor depth-sorted mask passes so closer bodies and outlines block outlines behind them.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "- Converted enemy behavior toward Gravity Fist's support, approach, anticipation, dash, and recovery cadence while keeping `gothic-throne` radial support slots.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L40"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Simultaneous top-down roguelike traversal in the SteamPile lane-reading style.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- Duel framing should feel like Infinity Blade: camera behind the player sprite, enemy forward in frame, slash timing emphasized.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "- Corrected return target semantics after playtest feedback: return now projects to the support ring radius along the attack/contact lane, rather than returning to the token-gra...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "- Return hop targets now project from the dash/contact lane to the 4.0m support ring instead of using the token-grant/spawn-lane radial.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "- Fixed the no-input rhythm failure by raising enemy attack-lane speed, starting attacks from a slightly wider readable range, pacing queued promotion after dash completion, sho...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 90,
+          "symbol": "",
+          "evidence": "- Fixed the remaining apparent approach-speed/cadence coupling by resetting attack-lane motion only when direct/queued attack permission is first granted, and no longer zeroing ...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L90"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/CONCEPT.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "The project should read as one game, not as two unrelated prototypes stitched together. SteamPile contributes traversal structure and roguelike pressure; Diorama contributes the...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/PROTOTYPE_MOVEMENT.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- When the queue-delay expires during the current attacker's anticipation or dash, the conductor queues the next attacker to move toward attack-start range at fixed attack-lane ...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L39"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "3. Read `docs/SOURCE_MANIFEST.md`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 1,
+          "symbol": "Source Manifest",
+          "evidence": "# Source Manifest",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This project keeps source material locally so the original games do not need to be opened again.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "The `assets/legacy/` archive is intentionally ignored by Git for the new `gothic-throne` repository.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 6,
+          "symbol": "Current Runtime",
+          "evidence": "## Current Runtime",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "The canonical playable slice lives here:",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `scenes/prototype/MovementPrototype.tscn`",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `scripts/prototype/KnightPlayer3D.gd`",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L11"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This project keeps source material locally so the original games do not need to be opened again.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/SOURCE_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 77,
+          "symbol": "",
+          "evidence": "- Tightened the enemy group movement integration test so the current runtime now fails on the playtest critique: too few attacks over fourteen seconds, first attack at 3.67s, 5....",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L77"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 248,
+          "symbol": "",
+          "evidence": "Tightened the enemy group movement integration test to reproduce the playtest critique instead of passing loose cadence.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L248"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 272,
+          "symbol": "",
+          "evidence": "- Added return-hop integration assertions: dash must transition into `RETURNING`, yaw drift during return must stay under 1 degree, and the hop must finish near the saved attack...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L272"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "scripts/prototype/AIConductor3D.gd",
+          "line": 25,
+          "symbol": "",
+          "evidence": "const TEST_MAX_RETURN_YAW_DRIFT_DEGREES := 1.0",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L25"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "scripts/prototype/AIConductor3D.gd",
+          "line": 99,
+          "symbol": "",
+          "evidence": "var _test_return_max_yaw_drift_by_enemy: Dictionary = {}",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L99"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "scripts/prototype/AIConductor3D.gd",
+          "line": 824,
+          "symbol": "",
+          "evidence": "_test_return_max_yaw_drift_by_enemy[enemy_id] = 0.0",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L824"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "scripts/prototype/AIConductor3D.gd",
+          "line": 849,
+          "symbol": "",
+          "evidence": "var yaw_drift := absf(rad_to_deg(wrapf(_get_enemy_visual_yaw(enemy) - start_yaw, -PI, PI)))",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/AIConductor3D.gd#L849"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "project.godot",
+          "line": 29,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/project.godot#L29"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "project.godot",
+          "line": 31,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/project.godot#L31"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "Where we left off: enemy no-input pressure is ready to commit after playtest tuning. Next session should start by reloading the Gravity Fist reference/agent context, then implem...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- Moved the Gravity Fist source project from Downloads into local ignored legacy storage at `assets/legacy/gravity-fist/`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "- Disabled screen-space actor outline processing under the headless display server and disconnected the hidden legacy outline mesh material from the active scene; the Godot 4.5 ...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "- Split post-attack return from attack-token ownership: attackers now enter an async `RETURNING` hop after `DASHING`, freeze rotation during that hop, and return to the saved at...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "- Fixed return origin capture after playtest feedback: the return origin is now saved when the attack token is first granted, not at anticipation start, so the async hop goes ba...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- Tightened the integration test to fail short or slow return hops; return starts must be at least 1.6m from the saved origin and finish within 0.36 seconds.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L65"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "Movement prototype enemy pressure: no-input attack rhythm now passes with runtime cadence flow enabled; cadence now starts from attack anticipation and controls only when the ne...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "- Converted enemy behavior toward Gravity Fist's support, approach, anticipation, dash, and recovery cadence while keeping `gothic-throne` radial support slots.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "- Added a temp-flag-driven enemy group movement integration test for support-ring yaw stability and minimum attack cadence.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- Added `AIConductor3D` cadence flow state: initial 2x slow cadence ramps down to current/base cadence, then randomized short high-activity-to-low-activity curves modulate the g...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 82,
+          "symbol": "",
+          "evidence": "- Removed the post-dash promotion wait from queued attack handoff: the base cadence interval now waits only before queuing the next attacker, and a ready queued attacker is prom...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L82"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "- Widened the runtime cadence flow for more visible variance: startup begins at 4x the base interval, then alternates randomized `SLOW_HOLD` phases at 4x for 4-8 seconds with `F...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "- Adjusted the movement integration test so slower cadence phases are allowed, while immediate recovery handoff is still required whenever a queued attacker is already staged.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 86,
+          "symbol": "",
+          "evidence": "- Decoupled cadence from approach speed: the conductor now starts the next-queue cooldown only when the current attacker enters anticipation, and the integration test fails if a...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L86"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "- Added optional per-enemy AI console tracing through `debug_enemy_ai`.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/CONCEPT.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "1. Player enters a top-down run with visible route choices, readable hazards, and enemy telegraphs.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/CONCEPT.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/PHASE_1.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- A right-side jump button.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/PHASE_1.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 152,
+          "symbol": "",
+          "evidence": "- Added optional `debug_enemy_ai` console tracing for enemy state, intent, facing, requested movement, distances, and cooldowns.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L152"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 223,
+          "symbol": "",
+          "evidence": "- The Godot 4.5 dummy renderer still emits a nonfatal `Parameter \"material\" is null` warning on exit; the commands exit 0.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L223"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 244,
+          "symbol": "",
+          "evidence": "- The Godot 4.5 dummy renderer still emits a nonfatal `Parameter \"material\" is null` warning on exit; the commands exit 0.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L244"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 259,
+          "symbol": "",
+          "evidence": "- Command used: `godot --headless --path '/storage/emulated/0/Documents/GodotProjects/Diorama Descent' --scene res://scenes/prototype/MovementPrototype.tscn -- --enemy-group-mov...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L259"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 280,
+          "symbol": "",
+          "evidence": "- The Godot 4.5 dummy renderer still emits a nonfatal `Parameter \"material\" is null` warning on exit; the commands exit 0.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L280"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/SESSION_STATE.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "- Extended the enemy group integration test to twenty-four simulated seconds so the widened slow cadence is validated without requiring early staged approaches.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/SESSION_STATE.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 254,
+          "symbol": "",
+          "evidence": "- Updated movement docs and the code map to describe the stricter cadence/queue test.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L254"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 405,
+          "symbol": "",
+          "evidence": "- The first pipeline run failed the old 2.4s cadence guard, then failed a stricter 1.2s guard with a 0.68s chained attack gap; the guard was updated to 0.55s to reject true pile...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L405"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 413,
+          "symbol": "",
+          "evidence": "Fixed the movement prototype no-input enemy pressure rhythm after the stricter test reproduced slow approach, long queue delays, and inconsistent gaps.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L413"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 611,
+          "symbol": "",
+          "evidence": "- Extended the enemy group integration test to require the post-dash delay and validate its duration before the return hop.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L611"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/PROTOTYPE_MOVEMENT.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "- Once the pressure enemy reaches start range and is facing the player, it performs a readable backward transform anticipation followed by a committed forward dash clamped to co...",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/PROTOTYPE_MOVEMENT.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "docs/agent/WORK_LOG.md",
+          "line": 98,
+          "symbol": "",
+          "evidence": "- Added transform-based backward anticipation and forward contact dash without damage or health resolution.",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/docs/agent/WORK_LOG.md#L98"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "scripts/prototype/PrototypeActor3D.gd",
+          "line": 326,
+          "symbol": "",
+          "evidence": "var to_actor := global_transform.affine_inverse() * mesh_instance.global_transform",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/PrototypeActor3D.gd#L326"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "scripts/prototype/ScreenSpaceActorOutline.gd",
+          "line": 203,
+          "symbol": "",
+          "evidence": "mask_camera.global_transform = _source_camera.global_transform",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/ScreenSpaceActorOutline.gd#L203"
+        },
+        {
+          "origin": "github",
+          "project": "gothic-throne",
+          "repo": "Valar05/gothic-throne",
+          "path": "scripts/prototype/ScreenSpaceActorOutline.gd",
+          "line": 213,
+          "symbol": "",
+          "evidence": "var camera_space_position := _source_camera.global_transform.affine_inverse() * actor.global_position",
+          "source_url": "https://github.com/Valar05/gothic-throne/blob/main/scripts/prototype/ScreenSpaceActorOutline.gd#L213"
+        }
+      ]
+    }
+  }
+}

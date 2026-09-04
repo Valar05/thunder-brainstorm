@@ -1,0 +1,1583 @@
+{
+  "repo": "Valar05/prism-league",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "prism-league",
+    "updatedAt": "2026-06-28T03:22:08Z",
+    "url": "https://github.com/Valar05/prism-league",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 19,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "cd1bff26343341a4e4b82746664b418a4951aa12",
+      "size": 2218,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 2218,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/README.md#L9",
+        "https://github.com/Valar05/prism-league/blob/main/README.md#L17",
+        "https://github.com/Valar05/prism-league/blob/main/README.md#L21",
+        "https://github.com/Valar05/prism-league/blob/main/README.md#L29",
+        "https://github.com/Valar05/prism-league/blob/main/README.md#L31",
+        "https://github.com/Valar05/prism-league/blob/main/README.md#L35",
+        "https://github.com/Valar05/prism-league/blob/main/README.md#L36",
+        "https://github.com/Valar05/prism-league/blob/main/README.md#L39"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "31f46e44f7c6c04d5b8b85125581e0bb2aa931d2",
+      "size": 2690,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 54,
+      "byte_count": 2690,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L5",
+        "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L15",
+        "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L19",
+        "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L20",
+        "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L21",
+        "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L22",
+        "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L26"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "4e9a869b237b56c9a86433fe6cf4d0d0781ac918",
+      "size": 524,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 524,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/package.json#L3",
+        "https://github.com/Valar05/prism-league/blob/main/package.json#L5",
+        "https://github.com/Valar05/prism-league/blob/main/package.json#L6",
+        "https://github.com/Valar05/prism-league/blob/main/package.json#L10",
+        "https://github.com/Valar05/prism-league/blob/main/package.json#L13"
+      ]
+    },
+    {
+      "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+      "mode": "100644",
+      "sha": "32741366b07d0724dd810c50fd2ebce5fb49436b",
+      "size": 9373,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 290,
+      "byte_count": 9373,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L9",
+        "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L13",
+        "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L15",
+        "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L18",
+        "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L47",
+        "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L50",
+        "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L53",
+        "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L57"
+      ]
+    },
+    {
+      "path": "docs/GASKET_CHARACTER_BIBLE.md",
+      "mode": "100644",
+      "sha": "12f74f22ac9acaf01412f05bf8a1176543749359",
+      "size": 2511,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 80,
+      "byte_count": 2511,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L5",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L9",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L14",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L25",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L26",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L36",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L45",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L57"
+      ]
+    },
+    {
+      "path": "docs/GOBLINBALL_STYLE_ORACLE.md",
+      "mode": "100644",
+      "sha": "b9d15841d19fc6f761cb3e585922fd1b63b6856b",
+      "size": 3089,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 134,
+      "byte_count": 3089,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/docs/GOBLINBALL_STYLE_ORACLE.md#L9",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GOBLINBALL_STYLE_ORACLE.md#L11",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GOBLINBALL_STYLE_ORACLE.md#L15",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GOBLINBALL_STYLE_ORACLE.md#L27",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GOBLINBALL_STYLE_ORACLE.md#L38",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GOBLINBALL_STYLE_ORACLE.md#L70",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GOBLINBALL_STYLE_ORACLE.md#L72",
+        "https://github.com/Valar05/prism-league/blob/main/docs/GOBLINBALL_STYLE_ORACLE.md#L81"
+      ]
+    },
+    {
+      "path": "docs/IMPLEMENTATION_PLAN.md",
+      "mode": "100644",
+      "sha": "255b5b5b64839961a94733bbd23783eedfb9782b",
+      "size": 3718,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 3718,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L5",
+        "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L8",
+        "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L9",
+        "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L16",
+        "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L17",
+        "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L21",
+        "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L27",
+        "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L29"
+      ]
+    },
+    {
+      "path": "docs/PROJECT_BRIEF.md",
+      "mode": "100644",
+      "sha": "e8d23d0dc1b4e5f29e045ed6302eeb47976e9211",
+      "size": 3349,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 3349,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L5",
+        "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L11",
+        "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L17",
+        "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L26",
+        "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L29",
+        "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L30",
+        "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L36",
+        "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L40"
+      ]
+    },
+    {
+      "path": "docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md",
+      "mode": "100644",
+      "sha": "c0492ccd6f29e9c43f440bac80ca985014ef4c46",
+      "size": 4726,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 205,
+      "byte_count": 4726,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L9",
+        "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L13",
+        "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L27",
+        "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L37",
+        "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L47",
+        "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L53",
+        "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L79",
+        "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L81"
+      ]
+    },
+    {
+      "path": "docs/STYLE_DRIFT_CHECKLIST.md",
+      "mode": "100644",
+      "sha": "e981bb7b299be09ccc3d713716fe4b661cf53516",
+      "size": 2485,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 2485,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/docs/STYLE_DRIFT_CHECKLIST.md#L1",
+        "https://github.com/Valar05/prism-league/blob/main/docs/STYLE_DRIFT_CHECKLIST.md#L3",
+        "https://github.com/Valar05/prism-league/blob/main/docs/STYLE_DRIFT_CHECKLIST.md#L5",
+        "https://github.com/Valar05/prism-league/blob/main/docs/STYLE_DRIFT_CHECKLIST.md#L7",
+        "https://github.com/Valar05/prism-league/blob/main/docs/STYLE_DRIFT_CHECKLIST.md#L9",
+        "https://github.com/Valar05/prism-league/blob/main/docs/STYLE_DRIFT_CHECKLIST.md#L10",
+        "https://github.com/Valar05/prism-league/blob/main/docs/STYLE_DRIFT_CHECKLIST.md#L11",
+        "https://github.com/Valar05/prism-league/blob/main/docs/STYLE_DRIFT_CHECKLIST.md#L13"
+      ]
+    },
+    {
+      "path": "scripts/package-itch.py",
+      "mode": "100644",
+      "sha": "7d18d2693d83590512b3886c4ee87210478552fb",
+      "size": 2339,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 62,
+      "byte_count": 2339,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/scripts/package-itch.py#L2",
+        "https://github.com/Valar05/prism-league/blob/main/scripts/package-itch.py#L3",
+        "https://github.com/Valar05/prism-league/blob/main/scripts/package-itch.py#L4",
+        "https://github.com/Valar05/prism-league/blob/main/scripts/package-itch.py#L11",
+        "https://github.com/Valar05/prism-league/blob/main/scripts/package-itch.py#L14",
+        "https://github.com/Valar05/prism-league/blob/main/scripts/package-itch.py#L15",
+        "https://github.com/Valar05/prism-league/blob/main/scripts/package-itch.py#L16",
+        "https://github.com/Valar05/prism-league/blob/main/scripts/package-itch.py#L17"
+      ]
+    },
+    {
+      "path": "scripts/validate-content.mjs",
+      "mode": "100644",
+      "sha": "e8cdd8a1c6b30790fa581fa91a7845c401065248",
+      "size": 1218,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 1218,
+      "mechanics": []
+    },
+    {
+      "path": "tests/cloud-smoke.mjs",
+      "mode": "100644",
+      "sha": "a8e07435fb50209435ad5d6439a76a4f7380fd12",
+      "size": 20605,
+      "score": 70,
+      "reasons": [
+        "test surface"
+      ],
+      "status": "fetched",
+      "line_count": 371,
+      "byte_count": 20605,
+      "mechanics": []
+    },
+    {
+      "path": "tests/terrain-visual-smoke.mjs",
+      "mode": "100644",
+      "sha": "dd93ccf33d3ac6a196670e0808b7a13fd7a0440f",
+      "size": 2784,
+      "score": 70,
+      "reasons": [
+        "test surface"
+      ],
+      "status": "fetched",
+      "line_count": 50,
+      "byte_count": 2784,
+      "mechanics": []
+    },
+    {
+      "path": "assets/asset_manifest.json",
+      "mode": "100644",
+      "sha": "f98926f6451a64849fc103aceaf6e3e87b15a7ec",
+      "size": 7505,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 102,
+      "byte_count": 7505,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/assets/asset_manifest.json#L1",
+        "https://github.com/Valar05/prism-league/blob/main/assets/asset_manifest.json#L2",
+        "https://github.com/Valar05/prism-league/blob/main/assets/asset_manifest.json#L3",
+        "https://github.com/Valar05/prism-league/blob/main/assets/asset_manifest.json#L4",
+        "https://github.com/Valar05/prism-league/blob/main/assets/asset_manifest.json#L5",
+        "https://github.com/Valar05/prism-league/blob/main/assets/asset_manifest.json#L6",
+        "https://github.com/Valar05/prism-league/blob/main/assets/asset_manifest.json#L7",
+        "https://github.com/Valar05/prism-league/blob/main/assets/asset_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "sha": "16dbbc5decc247e2b5d27022d0158e9729467053",
+      "size": 3686,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 3686,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/AGENTS.md#L8",
+        "https://github.com/Valar05/prism-league/blob/main/AGENTS.md#L10",
+        "https://github.com/Valar05/prism-league/blob/main/AGENTS.md#L13",
+        "https://github.com/Valar05/prism-league/blob/main/AGENTS.md#L14",
+        "https://github.com/Valar05/prism-league/blob/main/AGENTS.md#L15",
+        "https://github.com/Valar05/prism-league/blob/main/AGENTS.md#L16",
+        "https://github.com/Valar05/prism-league/blob/main/AGENTS.md#L20",
+        "https://github.com/Valar05/prism-league/blob/main/AGENTS.md#L25"
+      ]
+    },
+    {
+      "path": "assets/arenas/ASSET_PROVENANCE.md",
+      "mode": "100644",
+      "sha": "da8027e88daf4f4c68cc987677d1b864a07b0805",
+      "size": 504,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 504,
+      "mechanics": [
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/assets/arenas/ASSET_PROVENANCE.md#L1",
+        "https://github.com/Valar05/prism-league/blob/main/assets/arenas/ASSET_PROVENANCE.md#L3",
+        "https://github.com/Valar05/prism-league/blob/main/assets/arenas/ASSET_PROVENANCE.md#L4",
+        "https://github.com/Valar05/prism-league/blob/main/assets/arenas/ASSET_PROVENANCE.md#L5",
+        "https://github.com/Valar05/prism-league/blob/main/assets/arenas/ASSET_PROVENANCE.md#L6",
+        "https://github.com/Valar05/prism-league/blob/main/assets/arenas/ASSET_PROVENANCE.md#L7",
+        "https://github.com/Valar05/prism-league/blob/main/assets/arenas/ASSET_PROVENANCE.md#L8",
+        "https://github.com/Valar05/prism-league/blob/main/assets/arenas/ASSET_PROVENANCE.md#L10"
+      ]
+    },
+    {
+      "path": "assets/characters/she-raw/ASSET_PROVENANCE.md",
+      "mode": "100644",
+      "sha": "979b9ab1455bb88f93c580d175cdc3c89b8f03e7",
+      "size": 511,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 511,
+      "mechanics": [
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/assets/characters/she-raw/ASSET_PROVENANCE.md#L1",
+        "https://github.com/Valar05/prism-league/blob/main/assets/characters/she-raw/ASSET_PROVENANCE.md#L3",
+        "https://github.com/Valar05/prism-league/blob/main/assets/characters/she-raw/ASSET_PROVENANCE.md#L4",
+        "https://github.com/Valar05/prism-league/blob/main/assets/characters/she-raw/ASSET_PROVENANCE.md#L5",
+        "https://github.com/Valar05/prism-league/blob/main/assets/characters/she-raw/ASSET_PROVENANCE.md#L6",
+        "https://github.com/Valar05/prism-league/blob/main/assets/characters/she-raw/ASSET_PROVENANCE.md#L7",
+        "https://github.com/Valar05/prism-league/blob/main/assets/characters/she-raw/ASSET_PROVENANCE.md#L8",
+        "https://github.com/Valar05/prism-league/blob/main/assets/characters/she-raw/ASSET_PROVENANCE.md#L10"
+      ]
+    },
+    {
+      "path": "assets/props/ASSET_PROVENANCE.md",
+      "mode": "100644",
+      "sha": "22ca63b512d4f3cfc4960ffd693a8f99e87da027",
+      "size": 498,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 498,
+      "mechanics": [
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/prism-league/blob/main/assets/props/ASSET_PROVENANCE.md#L1",
+        "https://github.com/Valar05/prism-league/blob/main/assets/props/ASSET_PROVENANCE.md#L3",
+        "https://github.com/Valar05/prism-league/blob/main/assets/props/ASSET_PROVENANCE.md#L4",
+        "https://github.com/Valar05/prism-league/blob/main/assets/props/ASSET_PROVENANCE.md#L5",
+        "https://github.com/Valar05/prism-league/blob/main/assets/props/ASSET_PROVENANCE.md#L6",
+        "https://github.com/Valar05/prism-league/blob/main/assets/props/ASSET_PROVENANCE.md#L7",
+        "https://github.com/Valar05/prism-league/blob/main/assets/props/ASSET_PROVENANCE.md#L8",
+        "https://github.com/Valar05/prism-league/blob/main/assets/props/ASSET_PROVENANCE.md#L10"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 387,
+    "by_origin": {
+      "github": 387
+    },
+    "by_project": {
+      "prism-league": 387
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 178,
+      "ai_pressure": 145,
+      "tts_audio_pipeline": 117,
+      "writing_corpus_review": 47,
+      "validation_pipeline": 34,
+      "web_choice_player": 32,
+      "touch_lane_combat": 28,
+      "pose_animation_tools": 25,
+      "vehicle_survival": 23,
+      "text_console_runtime": 12,
+      "deck_pressure": 6,
+      "delayed_consequences": 5,
+      "event_clouds": 2,
+      "resource_upgrade_loop": 1,
+      "source_packet_generation": 1
+    },
+    "examples": {
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Do not validate Goblin Chess requirements here. The 8x8 command battlefield / competent misunderstanding prototype is `../goblin-chess-mvp/`.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "Validate",
+          "evidence": "## Validate",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "npm run validate",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "npm run cloud-smoke",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "`npm run cloud-smoke` is intended for GitHub Actions or a local environment with Playwright installed. The workflow at `.github/workflows/cloud-smoke.yml` verifies source checks...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "npm run validate",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "package.json",
+          "line": 5,
+          "symbol": "validate",
+          "evidence": "\"validate\": \"node scripts/validate-content.mjs\",",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/package.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "package.json",
+          "line": 6,
+          "symbol": "cloud-smoke",
+          "evidence": "\"cloud-smoke\": \"node tests/cloud-smoke.mjs\",",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/package.json#L6"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Do not validate Goblin Chess requirements here. The 8x8 command battlefield / competent misunderstanding prototype is `../goblin-chess-mvp/`.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Prism League is the **Ritual Pinball / Goblinball** prototype. Do not use this project for Goblin Chess, 8x8 command battlefield, command interpretation, or competent-misunderst...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 44,
+          "symbol": "Commands",
+          "evidence": "## Commands",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Read the room.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "- The room is cleared when the machine process is repaired.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 107,
+          "symbol": "",
+          "evidence": "The Knot does not chase. It does not shoot. It does not hover like a target dummy. It blocks a process and forces the player to solve the room physically.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L107"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 147,
+          "symbol": "Room Clear",
+          "evidence": "### Room Clear",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L147"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 235,
+          "symbol": "",
+          "evidence": "- Mark room clear when all Knots are broken and lane flow resumes.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L235"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "Canonical concept art is stored at `assets/concepts/ritual-pinball-concept-20260624.png`.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "The live code is now a portrait Three.js free-cancel anchor-chain ritual pinball slice. It loads Meshy-generated board/prop/commentator assets, uses Gasket as the live ball, and...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "`npm run cloud-smoke` is intended for GitHub Actions or a local environment with Playwright installed. The workflow at `.github/workflows/cloud-smoke.yml` verifies source checks...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "Asset Status",
+          "evidence": "## Asset Status",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "The project-owned asset manifest is `assets/asset_manifest.json`.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "- `assets/concepts/ritual-pinball-concept-20260624.png`",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "- `assets/characters/gasket/Meshy_AI_Polygon_Goblin_0622022117_texture.glb`",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- `assets/artifacts/prism-engine/Meshy_AI_Floating_Prism_Engine_0622022105_texture.glb`",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L49"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "The live code is now a portrait Three.js free-cancel anchor-chain ritual pinball slice. It loads Meshy-generated board/prop/commentator assets, uses Gasket as the live ball, and...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "`npm run cloud-smoke` is intended for GitHub Actions or a local environment with Playwright installed. The workflow at `.github/workflows/cloud-smoke.yml` verifies source checks...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "- `assets/characters/gasket/Meshy_AI_Polygon_Goblin_0622022117_texture.glb`",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- `assets/artifacts/prism-engine/Meshy_AI_Floating_Prism_Engine_0622022105_texture.glb`",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `src/game-core.mjs` owns deterministic anchor-chain physics, prediction, launch resolution, and commentary state.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "The live code now implements a free-cancel Anchor Chain ritual pinball slice with the machine as the HUD: Gasket starts contained and idle, the player holds anywhere to enter AI...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Use [docs/GOBLINBALL_STYLE_ORACLE.md](docs/GOBLINBALL_STYLE_ORACLE.md) and [docs/STYLE_DRIFT_CHECKLIST.md](docs/STYLE_DRIFT_CHECKLIST.md) for fast pass/fail review of new visual...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- Gasket GLB: `assets/characters/gasket/Meshy_AI_Polygon_Goblin_0622022117_texture.glb`",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L41"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "The live code is now a portrait Three.js free-cancel anchor-chain ritual pinball slice. It loads Meshy-generated board/prop/commentator assets, uses Gasket as the live ball, and...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "Then open the printed local URL. The root page redirects to `src/index.html`. The app is static, so this also works with any simple HTTP server rooted at this folder.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "Static HTML/CSS/JS prototype with no build step. The first playable ritual pinball loop lives in `src/` and uses Three.js with Meshy-generated board, obstacle, She-Raw, Gasket, ...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- `src/index.html` loads the current game shell.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `src/asset-layer.mjs` owns the Three.js stage, arena objects, optional GLB loading, and board-integrated machine feedback.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "Keep generated/source asset provenance in `assets/asset_manifest.json`. Do not commit cache folders or downloaded package directories.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "package.json",
+          "line": 3,
+          "symbol": "start",
+          "evidence": "\"start\": \"python3 -m http.server 5177\",",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/package.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/GASKET_CHARACTER_BIBLE.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- On near drains or saves: Gasket taunts, then quietly acknowledges survival.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L65"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "`npm run cloud-smoke` is intended for GitHub Actions or a local environment with Playwright installed. The workflow at `.github/workflows/cloud-smoke.yml` verifies source checks...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "package.json",
+          "line": 13,
+          "symbol": "playwright",
+          "evidence": "\"playwright\": \"^1.55.0\",",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/package.json#L13"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "This is not `Dante in a pinball table`. That phrasing points at the right energy but the wrong implementation. The better shape is **Kinetic Exorcism**: a one-finger character-a...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "He still clips the Knot from the lit side.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 102,
+          "symbol": "",
+          "evidence": "- exposes a lit angle when the machine state creates one",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L102"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 107,
+          "symbol": "",
+          "evidence": "The Knot does not chase. It does not shoot. It does not hover like a target dummy. It blocks a process and forces the player to solve the room physically.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L107"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 126,
+          "symbol": "",
+          "evidence": "The Knot creates pressure by damaging process flow, not by acting like a conventional enemy.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L126"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 255,
+          "symbol": "",
+          "evidence": "- room clear triggers when all Knots are broken",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L255"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "The project-owned asset manifest is `assets/asset_manifest.json`.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/README.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `src/game.mjs` owns input, audio, minimal commentary overlays, and match state coordination.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "Keep generated/source asset provenance in `assets/asset_manifest.json`. Do not commit cache folders or downloaded package directories.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "He still clips the Knot from the lit side.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 240,
+          "symbol": "",
+          "evidence": "The first version should not optimize AI, add roaming enemies, add multiple waves, add UI panels, or redesign the board.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L240"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 274,
+          "symbol": "",
+          "evidence": "- enemy waves",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L274"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/IMPLEMENTATION_PLAN.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Updated project orientation, agent notes, project brief, style oracle, drift checklist, and asset manifest.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/IMPLEMENTATION_PLAN.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- Commentary is now current speaker at top plus conversation log at bottom, with no duplicate current line.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L41"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Use [docs/GOBLINBALL_STYLE_ORACLE.md](docs/GOBLINBALL_STYLE_ORACLE.md) and [docs/STYLE_DRIFT_CHECKLIST.md](docs/STYLE_DRIFT_CHECKLIST.md) for fast pass/fail review of new visual...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 275,
+          "symbol": "",
+          "evidence": "- drifting target dummies",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L275"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/GASKET_CHARACTER_BIBLE.md",
+          "line": 80,
+          "symbol": "",
+          "evidence": "See [Goblinball Style Oracle](GOBLINBALL_STYLE_ORACLE.md) and [Goblinball Style Drift Checklist](STYLE_DRIFT_CHECKLIST.md) for fast approval checks on new character art and anim...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L80"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/GOBLINBALL_STYLE_ORACLE.md",
+          "line": 112,
+          "symbol": "Drift Detection",
+          "evidence": "## Drift Detection",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/GOBLINBALL_STYLE_ORACLE.md#L112"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/IMPLEMENTATION_PLAN.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Updated project orientation, agent notes, project brief, style oracle, drift checklist, and asset manifest.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/PROJECT_BRIEF.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "Use [Goblinball Style Oracle](GOBLINBALL_STYLE_ORACLE.md) and [Goblinball Style Drift Checklist](STYLE_DRIFT_CHECKLIST.md) as fast pass/fail gates for art and presentation drift.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/STYLE_DRIFT_CHECKLIST.md",
+          "line": 1,
+          "symbol": "Goblinball Style Drift Checklist",
+          "evidence": "# Goblinball Style Drift Checklist",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/STYLE_DRIFT_CHECKLIST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/STYLE_DRIFT_CHECKLIST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Use this as a fast pass/fail gate before approving any new art asset, animation, UI element, environment piece, VFX element, screenshot, trailer frame, or promotional image.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/STYLE_DRIFT_CHECKLIST.md#L3"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "That is the game: compact route spaces, readable movement lines, touch-forgiving commitment, physical consequence, and commentary as social payoff.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/IMPLEMENTATION_PLAN.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Remaining work: add deeper memory/escalation for repeated event chains.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/IMPLEMENTATION_PLAN.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/PROJECT_BRIEF.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Ritual charge, orbit memory, combo energy, active effects, and launch/restart communicated through the machine instead of permanent panels.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/PROJECT_BRIEF.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "The repo currently contains the first portrait ritual-pinball slice. The current control rule is mobile cabinet tilt: the player manipulates gravity, not Gasket. The current pre...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "AGENTS.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- The machine is the HUD. Represent charge, combo, orbit memory, and active effects through runes, trails, candles, circuits, motion, and glow before adding any panel.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/AGENTS.md#L15"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "Keep the current anchor-chain prototype. Do not replace the aiming cadence, damping, prediction, machine-HUD language, Gasket commentary, She-Raw commentary, or ritual board ide...",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 233,
+          "symbol": "",
+          "evidence": "- Apply repair only when Gasket hits the Knot from the lit angle above the speed threshold.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L233"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/GASKET_CHARACTER_BIBLE.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "5. Trail interaction that makes Gasket look like he is drawing the ritual.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/GASKET_CHARACTER_BIBLE.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/GOBLINBALL_STYLE_ORACLE.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "A good board looks like the spell is being drawn in real time.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/GOBLINBALL_STYLE_ORACLE.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/PROJECT_BRIEF.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- Visible orbit trails that draw ritual progress.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/PROJECT_BRIEF.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md",
+          "line": 83,
+          "symbol": "",
+          "evidence": "Trails visualize movement, orbit formation, power routing, and ritual activation. The arena should look like a spell being drawn in real time.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L83"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "- While unresolved, the Knot absorbs charge and blocks flow through its lane.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "- Lose pressure comes from ritual integrity collapsing under corruption and blocked flow.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L68"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- blocked lane",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 98,
+          "symbol": "",
+          "evidence": "- attaches to one ritual lane or rune channel",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L98"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 104,
+          "symbol": "",
+          "evidence": "- wrong-angle hits make it spit corruption into another lane",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L104"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 107,
+          "symbol": "",
+          "evidence": "The Knot does not chase. It does not shoot. It does not hover like a target dummy. It blocks a process and forces the player to solve the room physically.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L107"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 130,
+          "symbol": "",
+          "evidence": "- absorb charge traveling through its lane",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L130"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 143,
+          "symbol": "",
+          "evidence": "- charge trails sputter or kink near blocked lanes",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L143"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "- While unresolved, the Knot absorbs charge and blocks flow through its lane.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- blocked lane",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 98,
+          "symbol": "",
+          "evidence": "- attaches to one ritual lane or rune channel",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L98"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 104,
+          "symbol": "",
+          "evidence": "- wrong-angle hits make it spit corruption into another lane",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L104"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 130,
+          "symbol": "",
+          "evidence": "- absorb charge traveling through its lane",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L130"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 143,
+          "symbol": "",
+          "evidence": "- charge trails sputter or kink near blocked lanes",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L143"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 180,
+          "symbol": "",
+          "evidence": "- totems can alter corruption or lane state later",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L180"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 215,
+          "symbol": "",
+          "evidence": "That lane is coughing! Good coughing!",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L215"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md",
+          "line": 161,
+          "symbol": "",
+          "evidence": "The first slice does not need campaign progression, score, loot, upgrades, ranks, or multiple fault types.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/DANTE_AS_PINBALL_COMBAT_PIVOT.md#L161"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "As the ritual progresses, Gasket and She-Raw provide continuous commentary, transforming physics events into story events.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L13"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md",
+          "line": 154,
+          "symbol": "",
+          "evidence": "Hit object. Trigger reaction. Generate conversation. Increase charge. Reveal new machine behavior. Escalate ritual.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/docs/RITUAL_PINBALL_ART_DESIGN_BIBLE.md#L154"
+        },
+        {
+          "origin": "github",
+          "project": "prism-league",
+          "repo": "Valar05/prism-league",
+          "path": "AGENTS.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Every collision should change motion, ritual charge, machine state, Gasket reaction, She-Raw commentary, or the visible ritual trail.",
+          "source_url": "https://github.com/Valar05/prism-league/blob/main/AGENTS.md#L10"
+        }
+      ]
+    }
+  }
+}

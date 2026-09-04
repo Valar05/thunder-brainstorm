@@ -1,0 +1,1010 @@
+{
+  "repo": "Valar05/paws-and-claws",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "paws-and-claws",
+    "updatedAt": "2024-09-10T21:14:20Z",
+    "url": "https://github.com/Valar05/paws-and-claws",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 14,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "97ae4bb74d71cd2eac6bf5eff1049b00931951c8",
+      "size": 1598,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 1598,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/paws-and-claws/blob/main/README.md#L6",
+        "https://github.com/Valar05/paws-and-claws/blob/main/README.md#L8",
+        "https://github.com/Valar05/paws-and-claws/blob/main/README.md#L10",
+        "https://github.com/Valar05/paws-and-claws/blob/main/README.md#L12",
+        "https://github.com/Valar05/paws-and-claws/blob/main/README.md#L48"
+      ]
+    },
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "eab0c1261744c965d79e381ba870d9a5e5aaef0f",
+      "size": 8502,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 116,
+      "byte_count": 8502,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L17",
+        "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L19",
+        "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L21",
+        "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L30",
+        "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L31",
+        "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L36",
+        "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L37",
+        "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L42"
+      ]
+    },
+    {
+      "path": "scripts/ai_action.gd",
+      "mode": "100644",
+      "sha": "2811726b2956353e69ad4311a23b3f91614540ca",
+      "size": 144,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 144,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ai_action.gd#L1",
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ai_action.gd#L3",
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ai_action.gd#L4"
+      ]
+    },
+    {
+      "path": "scripts/ranged_ai_controller.gd",
+      "mode": "100644",
+      "sha": "cb648c265984c034fddcccefc9267281617efefe",
+      "size": 3958,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 133,
+      "byte_count": 3958,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L1",
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L3",
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L4",
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L5",
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L6",
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L7",
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L8",
+        "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L10"
+      ]
+    },
+    {
+      "path": "Effects/Slash.gd",
+      "mode": "100644",
+      "sha": "2646a0f29c8ddff30b7de1e52387e6f6b8668e3b",
+      "size": 330,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 14,
+      "byte_count": 330,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "Effects/WorldGenerator.gd",
+      "mode": "100644",
+      "sha": "fc1f9776a94327877bae2a28effa6155af46a5fb",
+      "size": 4760,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 116,
+      "byte_count": 4760,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "source_packet_generation",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L3",
+        "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L5",
+        "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L6",
+        "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L7",
+        "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L8",
+        "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L18",
+        "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L19",
+        "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L26"
+      ]
+    },
+    {
+      "path": "EvilEggo.gd",
+      "mode": "100644",
+      "sha": "9bbc9aeffc6783247966ac9a2c2135861fdd9011",
+      "size": 248,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 11,
+      "byte_count": 248,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "Explosion.gd",
+      "mode": "100644",
+      "sha": "69aee586d592211e57eab03bd86e6c7317210cf0",
+      "size": 209,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 209,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "Objects/Flower.gd",
+      "mode": "100644",
+      "sha": "969b21fe92db9db40211be3593971847543bb4cb",
+      "size": 610,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 27,
+      "byte_count": 610,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "SpawnInfo.gd",
+      "mode": "100644",
+      "sha": "2e24e56b0a92b2a8d281308d9d1647a032509128",
+      "size": 97,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 97,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/paws-and-claws/blob/main/SpawnInfo.gd#L1",
+        "https://github.com/Valar05/paws-and-claws/blob/main/SpawnInfo.gd#L2",
+        "https://github.com/Valar05/paws-and-claws/blob/main/SpawnInfo.gd#L3",
+        "https://github.com/Valar05/paws-and-claws/blob/main/SpawnInfo.gd#L4"
+      ]
+    },
+    {
+      "path": "TNT_Path.gd",
+      "mode": "100644",
+      "sha": "21d622267693bdb211c2524ab122d0cc7b566153",
+      "size": 311,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 14,
+      "byte_count": 311,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "camera_controller.gd",
+      "mode": "100644",
+      "sha": "87451e47960c9514e08fb119d7977e9b6b9aca5d",
+      "size": 4328,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 111,
+      "byte_count": 4328,
+      "mechanics": [
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/paws-and-claws/blob/main/camera_controller.gd#L9"
+      ]
+    },
+    {
+      "path": "player.gd",
+      "mode": "100644",
+      "sha": "2937dfec8fbc79733e99417c2112bf392cb98072",
+      "size": 3328,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 106,
+      "byte_count": 3328,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/paws-and-claws/blob/main/player.gd#L10",
+        "https://github.com/Valar05/paws-and-claws/blob/main/player.gd#L16",
+        "https://github.com/Valar05/paws-and-claws/blob/main/player.gd#L19",
+        "https://github.com/Valar05/paws-and-claws/blob/main/player.gd#L20",
+        "https://github.com/Valar05/paws-and-claws/blob/main/player.gd#L21",
+        "https://github.com/Valar05/paws-and-claws/blob/main/player.gd#L31",
+        "https://github.com/Valar05/paws-and-claws/blob/main/player.gd#L32",
+        "https://github.com/Valar05/paws-and-claws/blob/main/player.gd#L34"
+      ]
+    },
+    {
+      "path": "wall_coloring.gd",
+      "mode": "100644",
+      "sha": "f1cfb1d190778719f4f0c0ae4ff0b0c675f29041",
+      "size": 356,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 13,
+      "byte_count": 356,
+      "mechanics": [],
+      "source_line_refs": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 202,
+    "by_origin": {
+      "github": 202
+    },
+    "by_project": {
+      "paws-and-claws": 202
+    },
+    "by_mechanic": {
+      "ai_pressure": 130,
+      "asset_import_pipeline": 33,
+      "resource_upgrade_loop": 32,
+      "touch_lane_combat": 31,
+      "delayed_consequences": 18,
+      "web_choice_player": 13,
+      "source_packet_generation": 10,
+      "pose_animation_tools": 4,
+      "vehicle_survival": 2,
+      "deck_pressure": 2
+    },
+    "examples": {
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "README.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "Language: [Godot shader language](https://docs.godotengine.org/en/latest/tutorials/shaders/shader_reference/shading_language.html) and GDScript",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/README.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "Renderer: Forward Mobile",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "![Screenshots](screenshots/dynamic_split_screen.webp)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 19,
+          "symbol": "",
+          "evidence": "config/icon=\"res://icon.webp\"",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L19"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 21,
+          "symbol": "",
+          "evidence": "[autoload]",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L21"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 111,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L111"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 113,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L113"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "Effects/WorldGenerator.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "# Load the mesh for grass instead of the whole scene",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L3"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "Check out this demo on the asset library: https://godotengine.org/asset-library/asset/541",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 30,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L30"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 31,
+          "symbol": "",
+          "evidence": ", Object(InputEventJoypadMotion,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"axis\":1,\"axis_value\":-1.0,\"script\":null)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L31"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 36,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L36"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 37,
+          "symbol": "",
+          "evidence": ", Object(InputEventJoypadMotion,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"axis\":1,\"axis_value\":1.0,\"script\":null)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L37"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 42,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L42"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 43,
+          "symbol": "",
+          "evidence": ", Object(InputEventJoypadMotion,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"axis\":0,\"axis_value\":-1.0,\"script\":null)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L43"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 48,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L48"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "Details",
+          "evidence": "## Details",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 17,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"res://Effects/split_screen.tscn\"",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L17"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ai_action.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "class_name ai_action extends Resource",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ai_action.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ai_action.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "@export var name: action = action.NONE",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ai_action.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ai_action.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "enum action { NONE, IDLE, SHOOT, MELEE, MOVE_RANGED, MOVE_MELEE }",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ai_action.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends CharacterBody3D",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "@export var detection_range: float = 10",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "@export var attack_range: float = 5",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L4"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 30,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L30"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 36,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L36"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 42,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L42"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 48,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L48"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 54,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L54"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 55,
+          "symbol": "",
+          "evidence": ", Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_pressed\":...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L55"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 62,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L62"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 63,
+          "symbol": "",
+          "evidence": ", Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_pressed\":...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L63"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 30,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L30"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 31,
+          "symbol": "",
+          "evidence": ", Object(InputEventJoypadMotion,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"axis\":1,\"axis_value\":-1.0,\"script\":null)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L31"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 36,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L36"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 37,
+          "symbol": "",
+          "evidence": ", Object(InputEventJoypadMotion,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"axis\":1,\"axis_value\":1.0,\"script\":null)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L37"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 42,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L42"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 43,
+          "symbol": "",
+          "evidence": ", Object(InputEventJoypadMotion,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"axis\":0,\"axis_value\":-1.0,\"script\":null)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L43"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 48,
+          "symbol": "",
+          "evidence": "\"events\": [Object(InputEventKey,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"window_id\":0,\"alt_pressed\":false,\"shift_pressed\":false,\"ctrl_pressed\":false,\"meta_...",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L48"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 49,
+          "symbol": "",
+          "evidence": ", Object(InputEventJoypadMotion,\"resource_local_to_scene\":false,\"resource_name\":\"\",\"device\":0,\"axis\":0,\"axis_value\":1.0,\"script\":null)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L49"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 46,
+          "symbol": "",
+          "evidence": "move_right_player1={",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L46"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 76,
+          "symbol": "",
+          "evidence": "move_right_player2={",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L76"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 71,
+          "symbol": "",
+          "evidence": "target_pos.origin.y = 0",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L71"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "player.gd",
+          "line": 55,
+          "symbol": "",
+          "evidence": "\"move_right_player\" + str(player_id),",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/player.gd#L55"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 84,
+          "symbol": "",
+          "evidence": "light_attack_player1={",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L84"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "project.godot",
+          "line": 89,
+          "symbol": "",
+          "evidence": "light_attack_player2={",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/project.godot#L89"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "@export var attack_range: float = 5",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 10,
+          "symbol": "",
+          "evidence": "enum ai_state {IDLE, ATTACKING, MOVING, DAMAGED}",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L10"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 47,
+          "symbol": "",
+          "evidence": "ai_state.ATTACKING:",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L47"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 48,
+          "symbol": "",
+          "evidence": "do_attack(delta)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L48"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 49,
+          "symbol": "",
+          "evidence": "#print(\"Attacking\")",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L49"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 55,
+          "symbol": "",
+          "evidence": "if state == ai_state.ATTACKING:",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L55"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 70,
+          "symbol": "",
+          "evidence": "var target_pos = self.transform.looking_at(target.global_position, Vector3(0,1,0), true)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L70"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 72,
+          "symbol": "",
+          "evidence": "self.transform = self.transform.interpolate_with(target_pos, turn_speed * delta)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L72"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 89,
+          "symbol": "",
+          "evidence": "var target_pos = self.transform.looking_at(nav.get_next_path_position(), Vector3(0,1,0), true)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L89"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "scripts/ranged_ai_controller.gd",
+          "line": 90,
+          "symbol": "",
+          "evidence": "self.transform = self.transform.interpolate_with(target_pos, turn_speed * delta)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/scripts/ranged_ai_controller.gd#L90"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "Effects/WorldGenerator.gd",
+          "line": 37,
+          "symbol": "",
+          "evidence": "grass_multimesh.transform_format = MultiMesh.TRANSFORM_3D # We'll be using full 3D transforms",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L37"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "Effects/WorldGenerator.gd",
+          "line": 80,
+          "symbol": "",
+          "evidence": "var transform = Transform3D(random_rotation, position)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L80"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "Effects/WorldGenerator.gd",
+          "line": 81,
+          "symbol": "",
+          "evidence": "multimesh_instance.multimesh.set_instance_transform(i, transform)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L81"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "player.gd",
+          "line": 68,
+          "symbol": "",
+          "evidence": "var target_pos = self.transform.looking_at(global_position + direction)",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/player.gd#L68"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "Effects/WorldGenerator.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "var GrassMesh = preload(\"res://models/Grass.obj\") # Use a .tres mesh instead of an entire scene",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "camera_controller.gd",
+          "line": 9,
+          "symbol": "",
+          "evidence": "# the first one is used for the entire screen thus allowing the players to play",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/camera_controller.gd#L9"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "Effects/WorldGenerator.gd",
+          "line": 67,
+          "symbol": "",
+          "evidence": "# Use a threshold to decide where to place grass",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L67"
+        },
+        {
+          "origin": "github",
+          "project": "paws-and-claws",
+          "repo": "Valar05/paws-and-claws",
+          "path": "Effects/WorldGenerator.gd",
+          "line": 68,
+          "symbol": "",
+          "evidence": "if noise_value > 0: # Adjust threshold as needed",
+          "source_url": "https://github.com/Valar05/paws-and-claws/blob/main/Effects/WorldGenerator.gd#L68"
+        }
+      ]
+    }
+  }
+}

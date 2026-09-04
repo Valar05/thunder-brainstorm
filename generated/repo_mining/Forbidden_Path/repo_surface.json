@@ -1,0 +1,610 @@
+{
+  "repo": "Valar05/Forbidden_Path",
+  "branch": "master",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "Forbidden_Path",
+    "updatedAt": "2023-10-20T12:44:25Z",
+    "url": "https://github.com/Valar05/Forbidden_Path",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 11,
+  "selected_files": [
+    {
+      "path": "Source/Forbidden_Path.Target.cs",
+      "mode": "100644",
+      "sha": "39a46343fff971704b8049ecf4fa0ea69ffec674",
+      "size": 411,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 15,
+      "byte_count": 411,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L3",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L4",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L6",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L7",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L8",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L9",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L10"
+      ]
+    },
+    {
+      "path": "Source/Forbidden_Path/Forbidden_Path.Build.cs",
+      "mode": "100644",
+      "sha": "b1c38f9ccb98ce42fab296a82786814074cc5ddf",
+      "size": 775,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 775,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.Build.cs#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.Build.cs#L3",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.Build.cs#L5",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.Build.cs#L6",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.Build.cs#L7",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.Build.cs#L8",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.Build.cs#L9",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.Build.cs#L11"
+      ]
+    },
+    {
+      "path": "Source/Forbidden_Path/Forbidden_Path.cpp",
+      "mode": "100644",
+      "sha": "f50188eef5283fe806b2117bae2bf2a1439cf83c",
+      "size": 207,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 6,
+      "byte_count": 207,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.cpp#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.cpp#L3",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.cpp#L4",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.cpp#L6"
+      ]
+    },
+    {
+      "path": "Source/Forbidden_Path/Forbidden_Path.h",
+      "mode": "100644",
+      "sha": "677c8e25baf2999c23674260b43a50272cad2594",
+      "size": 92,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 6,
+      "byte_count": 92,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.h#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.h#L3",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.h#L5"
+      ]
+    },
+    {
+      "path": "Source/Forbidden_Path/Forbidden_PathGameModeBase.cpp",
+      "mode": "100644",
+      "sha": "b74720e560f530d93b3515331dbe96264017d94b",
+      "size": 94,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 94,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.cpp#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.cpp#L4"
+      ]
+    },
+    {
+      "path": "Source/Forbidden_Path/Forbidden_PathGameModeBase.h",
+      "mode": "100644",
+      "sha": "731ec41da71b09da74b4a5ec3117c6829386ed8a",
+      "size": 304,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 304,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.h#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.h#L3",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.h#L5",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.h#L6",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.h#L7",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.h#L9",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.h#L10",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.h#L11"
+      ]
+    },
+    {
+      "path": "Source/Forbidden_Path/My_World_Gen.cpp",
+      "mode": "100644",
+      "sha": "dff1b83b24dc3b0df6fea23e237af5877dc00137",
+      "size": 2177,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 100,
+      "byte_count": 2177,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L4",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L5",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L6",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L7",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L8",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L10",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L12"
+      ]
+    },
+    {
+      "path": "Source/Forbidden_Path/My_World_Gen.h",
+      "mode": "100644",
+      "sha": "1af863bc35536ccc8f2ec532d5548d205da623bf",
+      "size": 1168,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 1168,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.h#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.h#L3",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.h#L5",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.h#L6",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.h#L7",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.h#L9",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.h#L10",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.h#L11"
+      ]
+    },
+    {
+      "path": "Source/Forbidden_Path/My_World_Generator.cpp",
+      "mode": "100644",
+      "sha": "2649f7da994f3011f310a0d96c6dc10102fe0c32",
+      "size": 3678,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 150,
+      "byte_count": 3678,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L4",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L5",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L6",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L7",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L8",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L9",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L11"
+      ]
+    },
+    {
+      "path": "Source/Forbidden_Path/My_World_Generator.h",
+      "mode": "100644",
+      "sha": "dc03fcc4a500c3c6707596e4465c453b2c759637",
+      "size": 1431,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 54,
+      "byte_count": 1431,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.h#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.h#L3",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.h#L5",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.h#L6",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.h#L7",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.h#L9",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.h#L10",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.h#L11"
+      ]
+    },
+    {
+      "path": "Source/Forbidden_PathEditor.Target.cs",
+      "mode": "100644",
+      "sha": "25b79571da07d2ad1ccdb3fd0c0916a8c16cac02",
+      "size": 425,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 15,
+      "byte_count": 425,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_PathEditor.Target.cs#L1",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_PathEditor.Target.cs#L3",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_PathEditor.Target.cs#L4",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_PathEditor.Target.cs#L6",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_PathEditor.Target.cs#L7",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_PathEditor.Target.cs#L8",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_PathEditor.Target.cs#L9",
+        "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_PathEditor.Target.cs#L10"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 369,
+    "by_origin": {
+      "github": 369
+    },
+    "by_project": {
+      "Forbidden_Path": 369
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 369,
+      "source_packet_generation": 13,
+      "pose_animation_tools": 11,
+      "web_choice_player": 1,
+      "text_console_runtime": 1,
+      "ai_pressure": 1
+    },
+    "examples": {
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path.Target.cs",
+          "line": 1,
+          "symbol": "",
+          "evidence": "// Copyright Epic Games, Inc. All Rights Reserved.",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path.Target.cs",
+          "line": 3,
+          "symbol": "",
+          "evidence": "using UnrealBuildTool;",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L3"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path.Target.cs",
+          "line": 4,
+          "symbol": "",
+          "evidence": "using System.Collections.Generic;",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L4"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path.Target.cs",
+          "line": 6,
+          "symbol": "",
+          "evidence": "public class Forbidden_PathTarget : TargetRules",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L6"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path.Target.cs",
+          "line": 7,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L7"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path.Target.cs",
+          "line": 8,
+          "symbol": "",
+          "evidence": "public Forbidden_PathTarget( TargetInfo Target) : base(Target)",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L8"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path.Target.cs",
+          "line": 9,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L9"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path.Target.cs",
+          "line": 10,
+          "symbol": "",
+          "evidence": "Type = TargetType.Game;",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L10"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path.Target.cs",
+          "line": 1,
+          "symbol": "",
+          "evidence": "// Copyright Epic Games, Inc. All Rights Reserved.",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path.Target.cs#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/Forbidden_Path.Build.cs",
+          "line": 1,
+          "symbol": "",
+          "evidence": "// Copyright Epic Games, Inc. All Rights Reserved.",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.Build.cs#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/Forbidden_Path.cpp",
+          "line": 1,
+          "symbol": "",
+          "evidence": "// Copyright Epic Games, Inc. All Rights Reserved.",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.cpp#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/Forbidden_Path.h",
+          "line": 1,
+          "symbol": "",
+          "evidence": "// Copyright Epic Games, Inc. All Rights Reserved.",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_Path.h#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/Forbidden_PathGameModeBase.cpp",
+          "line": 1,
+          "symbol": "",
+          "evidence": "// Copyright Epic Games, Inc. All Rights Reserved.",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.cpp#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/Forbidden_PathGameModeBase.h",
+          "line": 1,
+          "symbol": "",
+          "evidence": "// Copyright Epic Games, Inc. All Rights Reserved.",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/Forbidden_PathGameModeBase.h#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Gen.cpp",
+          "line": 1,
+          "symbol": "",
+          "evidence": "// Fill out your copyright notice in the Description page of Project Settings.",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L1"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Gen.h",
+          "line": 1,
+          "symbol": "",
+          "evidence": "// Fill out your copyright notice in the Description page of Project Settings.",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.h#L1"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Gen.cpp",
+          "line": 12,
+          "symbol": "",
+          "evidence": "//void ALevel_Gen::OnConstruction(const FTransform& Transform)",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L12"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Gen.cpp",
+          "line": 14,
+          "symbol": "",
+          "evidence": "// Super::OnConstruction(Transform);",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L14"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Gen.cpp",
+          "line": 16,
+          "symbol": "",
+          "evidence": "// /*floor_mesh->AddInstance(FTransform(FVector(0.f, 0.f,0.f)));",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L16"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Gen.cpp",
+          "line": 17,
+          "symbol": "",
+          "evidence": "// pillar_mesh->AddInstance(FTransform(FVector(0.f, 100.f, 0.f)))*/;",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L17"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Gen.cpp",
+          "line": 53,
+          "symbol": "",
+          "evidence": "floor_mesh->AddInstance(FTransform(FVector(x, y, 0.f) * tile_size));",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.cpp#L53"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Gen.h",
+          "line": 39,
+          "symbol": "",
+          "evidence": "//virtual void OnConstruction(const FTransform& Transform) override;",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Gen.h#L39"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Generator.cpp",
+          "line": 13,
+          "symbol": "",
+          "evidence": "//void ALevel_Gen::OnConstruction(const FTransform& Transform)",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L13"
+        },
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Generator.cpp",
+          "line": 15,
+          "symbol": "",
+          "evidence": "// Super::OnConstruction(Transform);",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L15"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Generator.cpp",
+          "line": 95,
+          "symbol": "",
+          "evidence": "if (pos.Y >= world_size - 2) //Save a space for walls",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L95"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Generator.cpp",
+          "line": 134,
+          "symbol": "",
+          "evidence": "// we don't have to check for world bounds again cause we gave them wiggle room",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L134"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "Forbidden_Path",
+          "repo": "Valar05/Forbidden_Path",
+          "path": "Source/Forbidden_Path/My_World_Generator.cpp",
+          "line": 134,
+          "symbol": "",
+          "evidence": "// we don't have to check for world bounds again cause we gave them wiggle room",
+          "source_url": "https://github.com/Valar05/Forbidden_Path/blob/master/Source/Forbidden_Path/My_World_Generator.cpp#L134"
+        }
+      ]
+    }
+  }
+}

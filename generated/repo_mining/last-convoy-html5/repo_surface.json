@@ -1,0 +1,1233 @@
+{
+  "repo": "Valar05/last-convoy-html5",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "last-convoy-html5",
+    "updatedAt": "2026-06-20T22:48:12Z",
+    "url": "https://github.com/Valar05/last-convoy-html5",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "0beeaa9fb86102b700f1b3477f61290853f49a4a",
+      "size": 2567,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 44,
+      "byte_count": 2567,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L16",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L24"
+      ]
+    },
+    {
+      "path": "source_godot/project.godot",
+      "mode": "100644",
+      "sha": "b2f7560c1c8f7054574fe210035ecd73e0eca713",
+      "size": 756,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 36,
+      "byte_count": 756,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L2",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L3",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L4",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L5",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L6",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L7",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L9"
+      ]
+    },
+    {
+      "path": "source_godot/scenes/audio_manager.gd",
+      "mode": "100644",
+      "sha": "c8b6eb11b8d7fec509e92ebef1dff913a10daf0d",
+      "size": 301,
+      "score": 80,
+      "reasons": [
+        "scene carrier",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 11,
+      "byte_count": 301,
+      "mechanics": [
+        "asset_import_pipeline",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/audio_manager.gd#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/audio_manager.gd#L2",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/audio_manager.gd#L4",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/audio_manager.gd#L5",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/audio_manager.gd#L6",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/audio_manager.gd#L9",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/audio_manager.gd#L10",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/audio_manager.gd#L11"
+      ]
+    },
+    {
+      "path": "source_godot/scenes/Dissolve.gdshader",
+      "mode": "100644",
+      "sha": "8427be1b3c105f7df990b59351694b42a99baaf1",
+      "size": 4655,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 138,
+      "byte_count": 4655,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/Dissolve.gdshader.uid",
+      "mode": "100644",
+      "sha": "72510640ee31822facb890b19add05d20064cdb1",
+      "size": 18,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 18,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/audio_manager.gd.uid",
+      "mode": "100644",
+      "sha": "d0a0e1787073cb969707d8f63d2191d1ff352369",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/GameManager.gd",
+      "mode": "100644",
+      "sha": "cbc9b714d32af1dd8d30671e1fcddaf54925961d",
+      "size": 10766,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 304,
+      "byte_count": 10766,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L4",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L5",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L6",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L7",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L9",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L10",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L11"
+      ]
+    },
+    {
+      "path": "source_godot/scenes/high_contrast_mode.gd",
+      "mode": "100644",
+      "sha": "7fc7ad26e90a4d6d565cc237aa3059807d7a9054",
+      "size": 349,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 13,
+      "byte_count": 349,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/high_contrast_mode.gd#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/high_contrast_mode.gd#L3",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/high_contrast_mode.gd#L5",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/high_contrast_mode.gd#L6",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/high_contrast_mode.gd#L7",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/high_contrast_mode.gd#L10",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/high_contrast_mode.gd#L11",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/high_contrast_mode.gd#L12"
+      ]
+    },
+    {
+      "path": "source_godot/scenes/meleeenemy.gd",
+      "mode": "100644",
+      "sha": "9898593d94eec127eda7b01e1f6220675b39e35b",
+      "size": 3281,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 107,
+      "byte_count": 3281,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/meleeenemy.gd#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/meleeenemy.gd#L3",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/meleeenemy.gd#L4",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/meleeenemy.gd#L5",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/meleeenemy.gd#L6",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/meleeenemy.gd#L7",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/meleeenemy.gd#L8",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/meleeenemy.gd#L9"
+      ]
+    },
+    {
+      "path": "source_godot/scenes/mute_music.gd",
+      "mode": "100644",
+      "sha": "b650f5ee27b7256de4125386412962c47e0aab87",
+      "size": 489,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 489,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_music.gd#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_music.gd#L3",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_music.gd#L5",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_music.gd#L6",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_music.gd#L7",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_music.gd#L9",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_music.gd#L10",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_music.gd#L11"
+      ]
+    },
+    {
+      "path": "source_godot/scenes/mute_sound.gd",
+      "mode": "100644",
+      "sha": "c556c40c1d57ef0511bde4285e6b78f34d77efb3",
+      "size": 484,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 484,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_sound.gd#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_sound.gd#L2",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_sound.gd#L4",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_sound.gd#L5",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_sound.gd#L6",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_sound.gd#L8",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_sound.gd#L9",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_sound.gd#L10"
+      ]
+    },
+    {
+      "path": "source_godot/scenes/pause_button.gd",
+      "mode": "100644",
+      "sha": "ae10563523808bd29afda5992334e13bb76171c2",
+      "size": 348,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 13,
+      "byte_count": 348,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/pause_button.gd#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/pause_button.gd#L3",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/pause_button.gd#L5",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/pause_button.gd#L6",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/pause_button.gd#L7",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/pause_button.gd#L8",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/pause_button.gd#L9",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/pause_button.gd#L10"
+      ]
+    },
+    {
+      "path": "source_godot/scenes/shatter_polygon2d.gd",
+      "mode": "100644",
+      "sha": "ed487c6cd8493a5387e2d7b074b1fa8c3894d2bc",
+      "size": 6409,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 219,
+      "byte_count": 6409,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L2",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L4",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L5",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L6",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L7",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L8",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L9"
+      ]
+    },
+    {
+      "path": "source_godot/scenes/turret.gd",
+      "mode": "100644",
+      "sha": "aef462898d4035c02ab73c942939717fa354dc97",
+      "size": 3340,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 94,
+      "byte_count": 3340,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/turret.gd#L1",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/turret.gd#L3",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/turret.gd#L4",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/turret.gd#L5",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/turret.gd#L6",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/turret.gd#L7",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/turret.gd#L8",
+        "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/turret.gd#L9"
+      ]
+    },
+    {
+      "path": "source_godot/scenes/Bullet.tscn",
+      "mode": "100644",
+      "sha": "bfa5076437b953395d648212bed69a05975a6190",
+      "size": 6019,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 217,
+      "byte_count": 6019,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/DroneStrike.tscn",
+      "mode": "100644",
+      "sha": "96cc6d879b542b644deb94f6d2158a1129cdc2c6",
+      "size": 3350,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 90,
+      "byte_count": 3350,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/Flamethrower.tscn",
+      "mode": "100644",
+      "sha": "3a69d55cfe6e45b08bc0d9a07d36f7428c888d4c",
+      "size": 7145,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 228,
+      "byte_count": 7145,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/GameManager.gd.uid",
+      "mode": "100644",
+      "sha": "61bbb7fab7045b8851dfacb8bf27a2083fa506d3",
+      "size": 20,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/Hellkat.tscn",
+      "mode": "100644",
+      "sha": "d801cfc0dcfe041abd27d0f0f83364a3814b1074",
+      "size": 4761,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 118,
+      "byte_count": 4761,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/Main.tscn",
+      "mode": "100644",
+      "sha": "f0bb577f5fa9b89af5f4818735f5e8b01a6f615a",
+      "size": 5006,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 108,
+      "byte_count": 5006,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/MainCannon.tscn",
+      "mode": "100644",
+      "sha": "7d9dbced53dbc1ce285a86b59a105fe29d305052",
+      "size": 7869,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 258,
+      "byte_count": 7869,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/Motorcycle.tscn",
+      "mode": "100644",
+      "sha": "e4b5bc86d96def084f78da2c8d6ab499d6d58a70",
+      "size": 6319,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 204,
+      "byte_count": 6319,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/Raidrunner.tscn",
+      "mode": "100644",
+      "sha": "187cc10e86cbb5c51af463acc3200930ce065b0f",
+      "size": 3359,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 85,
+      "byte_count": 3359,
+      "mechanics": []
+    },
+    {
+      "path": "source_godot/scenes/Rustrammer.tscn",
+      "mode": "100644",
+      "sha": "a0285cd3d83a94f40c9c4dc95691cf866b4e510e",
+      "size": 2094,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 53,
+      "byte_count": 2094,
+      "mechanics": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 705,
+    "by_origin": {
+      "github": 705
+    },
+    "by_project": {
+      "last-convoy-html5": 705
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 693,
+      "ai_pressure": 220,
+      "tts_audio_pipeline": 40,
+      "vehicle_survival": 29,
+      "pose_animation_tools": 20,
+      "web_choice_player": 18,
+      "text_console_runtime": 17,
+      "writing_corpus_review": 6,
+      "touch_lane_combat": 2,
+      "validation_pipeline": 1
+    },
+    "examples": {
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 1,
+          "symbol": "Last Convoy HTML5 Project Orientation",
+          "evidence": "# Last Convoy HTML5 Project Orientation",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Last Convoy HTML5 is a faithful 2D canvas port of the Cauldron Godot prototype at `C:\\Users\\dclar\\workspace\\convoy`. The source Godot project is named `Last Convoy`, uses main s...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `index.html`: browser shell, HUD, pause controls, start overlay.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "python -m http.server 8796",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/project.godot",
+          "line": 22,
+          "symbol": "",
+          "evidence": "[autoload]",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L22"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/project.godot",
+          "line": 33,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L33"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/project.godot",
+          "line": 35,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L35"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 33,
+          "symbol": "",
+          "evidence": "load_settings()",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L33"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Last Convoy HTML5 is a faithful 2D canvas port of the Cauldron Godot prototype at `C:\\Users\\dclar\\workspace\\convoy`. The source Godot project is named `Last Convoy`, uses main s...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: complete runtime port: player movement, snake-trail convoy following, pickup vehicles, turrets, flamethrower, enemies, drones, bombs, particles, pause/settings,...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "node --check src/main.js",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Convoy vehicles preserve `scripts/ConvoyVehicle.gd`: pickup state, convoy IDs, `spacing_distance` of `45`, health `3`, trail index follow, target clearing, chain repair, and r...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Game pressure preserves `scenes/GameManager.gd`: vehicle pickups every `10s`, enemy waves starting at `5s`, `0.2s` spawn timer reductions, enemy count increase after five redu...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- `Raidrunner`: projectile turret convoy car.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- `Rustrammer`: melee vehicle enemy.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- `Motorcycle`: faster explosive-contact enemy.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L38"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Last Convoy HTML5 is a faithful 2D canvas port of the Cauldron Godot prototype at `C:\\Users\\dclar\\workspace\\convoy`. The source Godot project is named `Last Convoy`, uses main s...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: copied-asset provenance and source snapshot notes.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `source_godot/`: reference copy of the Cauldron Godot scripts, scenes, shaders, and `project.godot`.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 28,
+          "symbol": "Source Parity Targets",
+          "evidence": "## Source Parity Targets",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- The Cauldron source remains the authority for future source-parity fixes. Update `source_godot/` only when deliberately refreshing from `C:\\Users\\dclar\\workspace\\convoy`.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/project.godot",
+          "line": 1,
+          "symbol": "",
+          "evidence": "; Engine configuration file.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L1"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/project.godot",
+          "line": 2,
+          "symbol": "",
+          "evidence": "; It's best edited using the editor UI and not directly,",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L2"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: complete runtime port: player movement, snake-trail convoy following, pickup vehicles, turrets, flamethrower, enemies, drones, bombs, particles, pause/settings,...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: copied-asset provenance and source snapshot notes.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Game pressure preserves `scenes/GameManager.gd`: vehicle pickups every `10s`, enemy waves starting at `5s`, `0.2s` spawn timer reductions, enemy count increase after five redu...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- Audio is split into sound and music mute settings using browser audio elements. Music randomizes with a no-repeat bag like the Godot `MusicPlayer`.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/project.godot",
+          "line": 18,
+          "symbol": "",
+          "evidence": "[audio]",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/project.godot#L18"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/audio_manager.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Node2D",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/audio_manager.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/audio_manager.gd",
+          "line": 2,
+          "symbol": "",
+          "evidence": "@export var tracks : Array[AudioStream]",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/audio_manager.gd#L2"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: complete runtime port: player movement, snake-trail convoy following, pickup vehicles, turrets, flamethrower, enemies, drones, bombs, particles, pause/settings,...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Convoy vehicles preserve `scripts/ConvoyVehicle.gd`: pickup state, convoy IDs, `spacing_distance` of `45`, health `3`, trail index follow, target clearing, chain repair, and r...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Game pressure preserves `scenes/GameManager.gd`: vehicle pickups every `10s`, enemy waves starting at `5s`, `0.2s` spawn timer reductions, enemy count increase after five redu...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- Vehicle roles preserve current scene wiring:",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- `Rustrammer`: melee vehicle enemy.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "@export var vehicles : Array[PackedScene] = []",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 9,
+          "symbol": "",
+          "evidence": "@export var vehicle_spawn_timer = 10",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L9"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "var vehicle_spawn_timer_elapsed = 0.0",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L14"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Convoy vehicles preserve `scripts/ConvoyVehicle.gd`: pickup state, convoy IDs, `spacing_distance` of `45`, health `3`, trail index follow, target clearing, chain repair, and r...",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L32"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- Audio is split into sound and music mute settings using browser audio elements. Music randomizes with a no-repeat bag like the Godot `MusicPlayer`.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/PROJECT_ORIENTATION.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "@export var drone_strike : PackedScene = null",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "@export var default_enemy_spawn_timer = 5 # Store the original spawn timer",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 40,
+          "symbol": "",
+          "evidence": "spawn_drone_strike()",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L40"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 61,
+          "symbol": "",
+          "evidence": "if drone_strike and drone_spawn_timer_elapsed >= next_drone_spawn_time:",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L61"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 62,
+          "symbol": "",
+          "evidence": "spawn_drone_strike()",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L62"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 137,
+          "symbol": "",
+          "evidence": "# Choose a random edge: 0=top, 1=right, 2=bottom, 3=left",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L137"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 145,
+          "symbol": "",
+          "evidence": "1: # Right edge",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L145"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "@export var default_enemy_spawn_timer = 5 # Store the original spawn timer",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/GameManager.gd",
+          "line": 285,
+          "symbol": "",
+          "evidence": "# Set color to black if high contrast, otherwise restore original",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/GameManager.gd#L285"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/shatter_polygon2d.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "# Call this once in _ready() after your original Polygon2D is set:",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L14"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/shatter_polygon2d.gd",
+          "line": 34,
+          "symbol": "",
+          "evidence": "# Assumes your original polygon is a rectangle in local space with 4 verts.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L34"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/shatter_polygon2d.gd",
+          "line": 76,
+          "symbol": "",
+          "evidence": "# Map any local point 'v' inside the original rect to UV using the cached basis.",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L76"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/shatter_polygon2d.gd",
+          "line": 125,
+          "symbol": "",
+          "evidence": "# Hide/disable original",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/shatter_polygon2d.gd#L125"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/high_contrast_mode.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Button",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/high_contrast_mode.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/high_contrast_mode.gd",
+          "line": 10,
+          "symbol": "_on_button_up",
+          "evidence": "func _on_button_up() -> void:",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/high_contrast_mode.gd#L10"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/mute_music.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Button",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_music.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/mute_music.gd",
+          "line": 9,
+          "symbol": "_on_button_up",
+          "evidence": "func _on_button_up() -> void:",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_music.gd#L9"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/mute_sound.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Button",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_sound.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/mute_sound.gd",
+          "line": 8,
+          "symbol": "_on_button_up",
+          "evidence": "func _on_button_up() -> void:",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/mute_sound.gd#L8"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/pause_button.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Control",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/pause_button.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/pause_button.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "var is_paused = false",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/pause_button.gd#L3"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/turret.gd",
+          "line": 32,
+          "symbol": "",
+          "evidence": "if vehicle.attack_target != null:",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/turret.gd#L32"
+        },
+        {
+          "origin": "github",
+          "project": "last-convoy-html5",
+          "repo": "Valar05/last-convoy-html5",
+          "path": "source_godot/scenes/turret.gd",
+          "line": 33,
+          "symbol": "",
+          "evidence": "var to_target = vehicle.attack_target.global_position - global_position",
+          "source_url": "https://github.com/Valar05/last-convoy-html5/blob/main/source_godot/scenes/turret.gd#L33"
+        }
+      ]
+    }
+  }
+}

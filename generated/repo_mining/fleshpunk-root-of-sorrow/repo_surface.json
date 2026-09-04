@@ -1,0 +1,26 @@
+{
+  "repo": "Valar05/fleshpunk-root-of-sorrow",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "fleshpunk-root-of-sorrow",
+    "updatedAt": "2025-10-22T15:17:01Z",
+    "url": "https://github.com/Valar05/fleshpunk-root-of-sorrow",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 0,
+  "selected_files": [],
+  "mechanic_summary": {
+    "record_count": 0,
+    "by_origin": {},
+    "by_project": {},
+    "by_mechanic": {},
+    "examples": {}
+  }
+}

@@ -1,0 +1,1782 @@
+{
+  "repo": "Valar05/but-multiple-choice",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "but-multiple-choice",
+    "updatedAt": "2026-07-11T12:48:50Z",
+    "url": "https://github.com/Valar05/but-multiple-choice",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "c994e076fae579a3f8d2a4e3a5f3d6756cd5da50",
+      "size": 2708,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 63,
+      "byte_count": 2708,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L10",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L11",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L12",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L17"
+      ]
+    },
+    {
+      "path": "artifacts/final/README.md",
+      "mode": "100644",
+      "sha": "75a20abc0f8d7f10bade81e600daedd97290f57c",
+      "size": 593,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 593,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/README.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/README.md#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/README.md#L10"
+      ]
+    },
+    {
+      "path": "artifacts/final/lexen-tank-that-floated-youtube-ready/README.md",
+      "mode": "100644",
+      "sha": "df7f2f6b12433d4ed975b6f30c67a041703aa1c4",
+      "size": 464,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 464,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "event_clouds",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/lexen-tank-that-floated-youtube-ready/README.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/lexen-tank-that-floated-youtube-ready/README.md#L5"
+      ]
+    },
+    {
+      "path": "artifacts/final/secret-garden-first-choice-scene-v5/README.md",
+      "mode": "100644",
+      "sha": "e45acbfd8cceec1b08043e5081357fd966aa55d5",
+      "size": 355,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 355,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-first-choice-scene-v5/README.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-first-choice-scene-v5/README.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-first-choice-scene-v5/README.md#L5"
+      ]
+    },
+    {
+      "path": "artifacts/final/secret-garden-trailer-first-slice-v3/README.md",
+      "mode": "100644",
+      "sha": "1e84b7d158590fc475c87c386f38749d3f998f56",
+      "size": 322,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 322,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-trailer-first-slice-v3/README.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-trailer-first-slice-v3/README.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-trailer-first-slice-v3/README.md#L5"
+      ]
+    },
+    {
+      "path": "games/secret-garden/README.md",
+      "mode": "100644",
+      "sha": "65ef66796dd1d9fd9fe5d05dd39a040f7e1b5a7a",
+      "size": 1576,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 38,
+      "byte_count": 1576,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L10",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L11",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L12",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L13"
+      ]
+    },
+    {
+      "path": "world-renderer/README.md",
+      "mode": "100644",
+      "sha": "21f7899cb5852613d296c2abb85e759861a2e0d2",
+      "size": 3443,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 64,
+      "byte_count": 3443,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L10",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L11",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L12"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "644a77e42a4cf1931ef4a66d57a743c05484722e",
+      "size": 1658,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 1658,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L12",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L13",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L14",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L20",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L21"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "14ec9b50caa79feca373b87edcaefc9511c75f38",
+      "size": 7886,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 7886,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/package.json#L2",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/package.json#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/package.json#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/package.json#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/package.json#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/package.json#L10",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/package.json#L11",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/package.json#L12"
+      ]
+    },
+    {
+      "path": "tests/player_asset_manifest.test.py",
+      "mode": "100644",
+      "sha": "981028c848a802b053172635bec99adb7c9baf1f",
+      "size": 1634,
+      "score": 94,
+      "reasons": [
+        "test surface",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 29,
+      "byte_count": 1634,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_asset_manifest.test.py#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_asset_manifest.test.py#L2",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_asset_manifest.test.py#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_asset_manifest.test.py#L4",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_asset_manifest.test.py#L6",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_asset_manifest.test.py#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_asset_manifest.test.py#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_asset_manifest.test.py#L10"
+      ]
+    },
+    {
+      "path": "tests/player_audio_sync.test.js",
+      "mode": "100644",
+      "sha": "ec9e50638fa4f8a22adac87b7d670e4538e71081",
+      "size": 6648,
+      "score": 86,
+      "reasons": [
+        "test surface",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 156,
+      "byte_count": 6648,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_audio_sync.test.js#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_audio_sync.test.js#L2",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_audio_sync.test.js#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_audio_sync.test.js#L4",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_audio_sync.test.js#L6",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_audio_sync.test.js#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_audio_sync.test.js#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/player_audio_sync.test.js#L10"
+      ]
+    },
+    {
+      "path": "docs/branch_strategy.md",
+      "mode": "100644",
+      "sha": "02c35e1b4ec9a30bf1c31a730c96bc8180d02e80",
+      "size": 2295,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 91,
+      "byte_count": 2295,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/branch_strategy.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/branch_strategy.md#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/branch_strategy.md#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/branch_strategy.md#L12",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/branch_strategy.md#L16",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/branch_strategy.md#L26",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/branch_strategy.md#L27",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/branch_strategy.md#L28"
+      ]
+    },
+    {
+      "path": "docs/corpus_workflow.md",
+      "mode": "100644",
+      "sha": "6ada527d0ebcefa7156485e6b4d868bc83ae70e4",
+      "size": 907,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 45,
+      "byte_count": 907,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/corpus_workflow.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/corpus_workflow.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/corpus_workflow.md#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/corpus_workflow.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/corpus_workflow.md#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/corpus_workflow.md#L11",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/corpus_workflow.md#L13",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/corpus_workflow.md#L14"
+      ]
+    },
+    {
+      "path": "docs/critic_rules.md",
+      "mode": "100644",
+      "sha": "a20af163449251bc9af8256767cef8e625bee697",
+      "size": 4675,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 141,
+      "byte_count": 4675,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L14",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L18",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L23",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L24",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L31",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L35"
+      ]
+    },
+    {
+      "path": "docs/generation_contract.md",
+      "mode": "100644",
+      "sha": "a1e1a2b067445dc2e4920fdf59192f9dc587a7ee",
+      "size": 1872,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 59,
+      "byte_count": 1872,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/generation_contract.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/generation_contract.md#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/generation_contract.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/generation_contract.md#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/generation_contract.md#L11",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/generation_contract.md#L14",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/generation_contract.md#L16",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/generation_contract.md#L18"
+      ]
+    },
+    {
+      "path": "docs/production_artifact_policy.md",
+      "mode": "100644",
+      "sha": "c66c615d509f4a1b41716b8238080150b2623240",
+      "size": 2051,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 2051,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_artifact_policy.md#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_artifact_policy.md#L11",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_artifact_policy.md#L16",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_artifact_policy.md#L19",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_artifact_policy.md#L26",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_artifact_policy.md#L28",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_artifact_policy.md#L37",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_artifact_policy.md#L38"
+      ]
+    },
+    {
+      "path": "docs/production_memory.md",
+      "mode": "100644",
+      "sha": "5526458c1491d2b4e59a69b760726dd49d8d1fdc",
+      "size": 1578,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 1578,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_memory.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_memory.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_memory.md#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_memory.md#L6",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_memory.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_memory.md#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_memory.md#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_memory.md#L10"
+      ]
+    },
+    {
+      "path": "docs/quality_critique_stack.md",
+      "mode": "100644",
+      "sha": "6afa90dcf4ba864cb0e1594a13de3058dc814e46",
+      "size": 1462,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 59,
+      "byte_count": 1462,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L6",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L10",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L11",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L12",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L13"
+      ]
+    },
+    {
+      "path": "docs/research_graph_expansion.md",
+      "mode": "100644",
+      "sha": "41f47545e35d34ccb998786fedd98f4c9eddc961",
+      "size": 5042,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 104,
+      "byte_count": 5042,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/research_graph_expansion.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/research_graph_expansion.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/research_graph_expansion.md#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/research_graph_expansion.md#L12",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/research_graph_expansion.md#L15",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/research_graph_expansion.md#L17",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/research_graph_expansion.md#L18",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/research_graph_expansion.md#L20"
+      ]
+    },
+    {
+      "path": "docs/source_packet_workflow.md",
+      "mode": "100644",
+      "sha": "17244c9f2ba368619d01289e4ddcb8d9743e73c7",
+      "size": 1074,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 1074,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_packet_workflow.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_packet_workflow.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_packet_workflow.md#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_packet_workflow.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_packet_workflow.md#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_packet_workflow.md#L10",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_packet_workflow.md#L11",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_packet_workflow.md#L12"
+      ]
+    },
+    {
+      "path": "docs/source_rights_policy.md",
+      "mode": "100644",
+      "sha": "311684c390cc98d857ea52dfb36462af230aa982",
+      "size": 610,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 20,
+      "byte_count": 610,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_rights_policy.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_rights_policy.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_rights_policy.md#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_rights_policy.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_rights_policy.md#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_rights_policy.md#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_rights_policy.md#L10",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/source_rights_policy.md#L11"
+      ]
+    },
+    {
+      "path": "docs/story_engine_schema.md",
+      "mode": "100644",
+      "sha": "e7950d4cac3ed216d688dce2497bfa40e215179e",
+      "size": 2999,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 112,
+      "byte_count": 2999,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/story_engine_schema.md#L13",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/story_engine_schema.md#L14",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/story_engine_schema.md#L20",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/story_engine_schema.md#L22",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/story_engine_schema.md#L26",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/story_engine_schema.md#L32",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/story_engine_schema.md#L38",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/story_engine_schema.md#L39"
+      ]
+    },
+    {
+      "path": "docs/tts_contract.md",
+      "mode": "100644",
+      "sha": "55e20135cd9f947ef71854f91a70035218fc6735",
+      "size": 859,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 859,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/tts_contract.md#L1",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/tts_contract.md#L3",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/tts_contract.md#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/tts_contract.md#L7",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/tts_contract.md#L8",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/tts_contract.md#L9",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/tts_contract.md#L10",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/docs/tts_contract.md#L11"
+      ]
+    },
+    {
+      "path": "tests/cloud_agent_handoff.test.py",
+      "mode": "100644",
+      "sha": "7902bf07d6a09b17f8e0731feff1baf7024a206d",
+      "size": 2518,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 61,
+      "byte_count": 2518,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/cloud_agent_handoff.test.py#L2",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/cloud_agent_handoff.test.py#L4",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/cloud_agent_handoff.test.py#L5",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/cloud_agent_handoff.test.py#L6",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/cloud_agent_handoff.test.py#L15",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/cloud_agent_handoff.test.py#L16",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/cloud_agent_handoff.test.py#L17",
+        "https://github.com/Valar05/but-multiple-choice/blob/main/tests/cloud_agent_handoff.test.py#L18"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 639,
+    "by_origin": {
+      "github": 639
+    },
+    "by_project": {
+      "but-multiple-choice": 639
+    },
+    "by_mechanic": {
+      "tts_audio_pipeline": 245,
+      "web_choice_player": 180,
+      "text_console_runtime": 165,
+      "asset_import_pipeline": 142,
+      "source_packet_generation": 95,
+      "ai_pressure": 60,
+      "writing_corpus_review": 55,
+      "pose_animation_tools": 48,
+      "validation_pipeline": 47,
+      "delayed_consequences": 27,
+      "event_clouds": 9,
+      "deck_pressure": 2,
+      "touch_lane_combat": 1,
+      "vehicle_survival": 1
+    },
+    "examples": {
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "but-multiple-choice",
+          "evidence": "# but-multiple-choice",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A reusable monorepo template for prose-first multiple-choice games.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- web playtest with back button, scroll-to-top, chance gates, requirements, flags, stats, and continue-only rooms",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- scene graph visualizer with a right-side room preview",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- branch-budget audit to catch fake choices and dangling branches",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "- `game`: metadata, title, start room, stats, route classes",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 59,
+          "symbol": "",
+          "evidence": "- `rooms`: room records with prose, choices, next pointers, outputs, requirements, chance outcomes, and fold/prune metadata",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L59"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/secret-garden-first-choice-scene-v5/README.md",
+          "line": 1,
+          "symbol": "Secret Garden First Choice Scene V5",
+          "evidence": "# Secret Garden First Choice Scene V5",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-first-choice-scene-v5/README.md#L1"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "but-multiple-choice",
+          "evidence": "# but-multiple-choice",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A reusable monorepo template for prose-first multiple-choice games.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- web playtest with back button, scroll-to-top, chance gates, requirements, flags, stats, and continue-only rooms",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- branch-budget audit to catch fake choices and dangling branches",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "Fresh/cloud agents should start with `CLOUD_AGENT_RUNBOOK.md` and run `npm run cloud:doctor` before deciding what needs work. Ignored folders such as `_archive/` and `world-rend...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "Accepted final binary deliverables live under `artifacts/final/` and are tracked with Git LFS. Transient generated renders, frame dumps, temporary mixes, and rejected iterations...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "World Renderer is the local MP4/visual-audiobook workflow. See `world-renderer/README.md` and `world-renderer/PRODUCTION_MEMORY.md`.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "- `packages/web-player/`: shared browser player and graph UI",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L48"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- scene graph visualizer with a right-side room preview",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- source-packet, corpus, rights, and quality contracts for generation workflows",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Design goal: choosing the default continuation at every decision presents the original novel in order, using exact prose from the cleaned Project Gutenberg source. Alternate cho...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- Default route policy: every default continuation preserves the original chapter order",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "The first room, `sg_ch01`, has generated MP3 clips and a manifest at `audio/tts_manifest.json`. The web player shows a `Read Aloud` button when the current room has generated cl...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "world-renderer/README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "Publishing packets add the production-to-YouTube layer: constant bed policy, event SFX, voice/source rights, thumbnail/caption checklist, reference-frame requests for missing ca...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- corpus/rights discipline",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "package.json",
+          "line": 13,
+          "symbol": "tts:dry-run",
+          "evidence": "\"tts:dry-run\": \"python packages/story-tools/generate_tts_clips.py --story games/demo/story.json --dry-run\",",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/package.json#L13"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- branch-budget audit to catch fake choices and dangling branches",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- `packages/story-tools/`: shared Python validators, audits, local server, and TTS preflight",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "world-renderer/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "V1 takes a production plan, still-frame assets, and an audio file, then validates frame eligibility, creates review contact sheets, compiles a production manifest, and can rende...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "world-renderer/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python world-renderer/tools/world_renderer.py validate --plan world-renderer/examples/world_render_plan.json",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "world-renderer/README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "3. Validate allowed and forbidden visual states before rendering.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "world-renderer/README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "python world-renderer/tools/world_renderer.py validate-reference --request world-renderer/examples/reference_frame_request.json",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "world-renderer/README.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "python world-renderer/tools/world_renderer.py validate-sound --manifest world-renderer/examples/sound_design_manifest.json",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "world-renderer/README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "python world-renderer/tools/world_renderer.py validate-youtube-profile --profile world-renderer/examples/youtube_export_profile.json",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L43"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- source-packet, corpus, rights, and quality contracts for generation workflows",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "- optional `corpus`: source metadata and pattern cards",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/lexen-tank-that-floated-youtube-ready/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Use the exact-time contact sheet and review packet to inspect chronology: DD deck first, Lexen reaction second, DD/canvas during Duplex Drive explanation, crew interior after in...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/lexen-tank-that-floated-youtube-ready/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/secret-garden-first-choice-scene-v5/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The retained manifests are not raw logs; they contain provenance, voice-cast, image, SFX, and scene packet data needed to reproduce or review the accepted cut.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-first-choice-scene-v5/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- Corpus manifest: `corpus/corpus_manifest.json`",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "world-renderer/README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "python world-renderer/tools/world_renderer.py validate-publish --packet world-renderer/examples/publish_packet.json",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "world-renderer/README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "Publishing packets add the production-to-YouTube layer: constant bed policy, event SFX, voice/source rights, thumbnail/caption checklist, reference-frame requests for missing ca...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "world-renderer/README.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "Generate a review packet and open the portrait-first local review page through the existing server:",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/world-renderer/README.md#L53"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- source-packet, corpus, rights, and quality contracts for generation workflows",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "- optional `corpus`: source metadata and pattern cards",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Accepted final videos, captions, contact sheets, and compact provenance/QC manifests belong here.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- If a log contains production learning, extract the learning into docs or a skill and keep only the compact manifest needed for provenance.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/secret-garden-first-choice-scene-v5/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The retained manifests are not raw logs; they contain provenance, voice-cast, image, SFX, and scene packet data needed to reproduce or review the accepted cut.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-first-choice-scene-v5/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Design goal: choosing the default continuation at every decision presents the original novel in order, using exact prose from the cleaned Project Gutenberg source. Alternate cho...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 7,
+          "symbol": "Source",
+          "evidence": "## Source",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Raw download: `source/public_domain/secret_garden_gutenberg_113_raw.txt`",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L10"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- TTS preflight that voices only direct quotation-marked dialogue as characters and sends everything else to narrator",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "World Renderer is the local MP4/visual-audiobook workflow. See `world-renderer/README.md` and `world-renderer/PRODUCTION_MEMORY.md`.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- `packages/story-tools/`: shared Python validators, audits, local server, and TTS preflight",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "- optional `cast`: TTS speaker profiles and aliases",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Accepted final videos, captions, contact sheets, and compact provenance/QC manifests belong here.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- Transient renders, frame dumps, temp audio, rejected videos, and raw run logs stay out of git under ignored local paths such as `_archive/` or `world-renderer/generated/`.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- If a log contains production learning, extract the learning into docs or a skill and keep only the compact manifest needed for provenance.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/secret-garden-first-choice-scene-v5/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The retained manifests are not raw logs; they contain provenance, voice-cast, image, SFX, and scene packet data needed to reproduce or review the accepted cut.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-first-choice-scene-v5/README.md#L5"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "Accepted final binary deliverables live under `artifacts/final/` and are tracked with Git LFS. Transient generated renders, frame dumps, temporary mixes, and rejected iterations...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "World Renderer is the local MP4/visual-audiobook workflow. See `world-renderer/README.md` and `world-renderer/PRODUCTION_MEMORY.md`.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Rooms: 191 exact-prose standard rooms plus an immediate opening hook, persistent branch routes, prunes, and endings",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- Opening hook: `sg_opening_hook` branches before the exact Chapter I source route",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- glue beats should carry prior choices through concrete carriers, not abstract memory",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/branch_strategy.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- delayed callback obligation",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/branch_strategy.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/critic_rules.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- delayed callback obligation",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/production_artifact_policy.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "- `docs/production_memory.md` for repo-wide doctrine",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/production_artifact_policy.md#L47"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- `games/secret-garden/`: public-domain exact-prose branching edition of `The Secret Garden`; use `npm run check:secret-garden` and `npm run serve:secret-garden`.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/lexen-tank-that-floated-youtube-ready/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Use the exact-time contact sheet and review packet to inspect chronology: DD deck first, Lexen reaction second, DD/canvas during Duplex Drive explanation, crew interior after in...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/lexen-tank-that-floated-youtube-ready/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A public-domain branching edition of Frances Hodgson Burnett’s `The Secret Garden`.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Raw download: `source/public_domain/secret_garden_gutenberg_113_raw.txt`",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Gameplay-clean text: `source/public_domain/secret_garden_gutenberg_113_clean.txt`",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Chapter/source index: `source/public_domain/source_index.json`",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/quality_critique_stack.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "- public-domain or permissioned sources are clearly marked",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/research_graph_expansion.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The default route stays an exact-prose reread of the public-domain novel. Alternate timelines may diverge, but each expansion must be backed by corpus or historical research tra...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/research_graph_expansion.md#L7"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- `games/secret-garden/`: public-domain exact-prose branching edition of `The Secret Garden`; use `npm run check:secret-garden` and `npm run serve:secret-garden`.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- If a log contains production learning, extract the learning into docs or a skill and keep only the compact manifest needed for provenance.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/lexen-tank-that-floated-youtube-ready/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Accepted final binary artifact for the World Renderer/Lexen production pass. Earlier V2 and ordered-blackbars renders are retained only in the local ignored archive as rejected ...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/lexen-tank-that-floated-youtube-ready/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/secret-garden-first-choice-scene-v5/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The retained manifests are not raw logs; they contain provenance, voice-cast, image, SFX, and scene packet data needed to reproduce or review the accepted cut.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-first-choice-scene-v5/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/secret-garden-trailer-first-slice-v3/README.md",
+          "line": 1,
+          "symbol": "Secret Garden Trailer First Slice V3",
+          "evidence": "# Secret Garden Trailer First Slice V3",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-trailer-first-slice-v3/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/secret-garden-trailer-first-slice-v3/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Accepted final binary artifact for the trailer first-slice pass. Earlier trailer v1/v2 outputs stay in the ignored local archive as transient iterations.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-trailer-first-slice-v3/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/secret-garden-trailer-first-slice-v3/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The focal contact sheet is retained as review evidence because framing/focal-point preservation was the key acceptance lesson.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-trailer-first-slice-v3/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A public-domain branching edition of Frances Hodgson Burnett’s `The Secret Garden`.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L3"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/lexen-tank-that-floated-youtube-ready/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Use the exact-time contact sheet and review packet to inspect chronology: DD deck first, Lexen reaction second, DD/canvas during Duplex Drive explanation, crew interior after in...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/lexen-tank-that-floated-youtube-ready/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/research_graph_expansion.md",
+          "line": 102,
+          "symbol": "",
+          "evidence": "- `minimum_story_endings` and `minimum_durable_branches`: warning thresholds for graph-shape planning.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/research_graph_expansion.md#L102"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "artifacts/final/secret-garden-first-choice-scene-v5/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Accepted final binary artifact for the first-choice scene animatic iteration. Earlier v4 and first-choice-block outputs stay in the ignored local archive.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/artifacts/final/secret-garden-first-choice-scene-v5/README.md#L3"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Design goal: choosing the default continuation at every decision presents the original novel in order, using exact prose from the cleaned Project Gutenberg source. Alternate cho...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "games/secret-garden/README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- Default route policy: every default continuation preserves the original chapter order",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/games/secret-garden/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- validation should fail schema drift before runtime work begins",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/corpus_workflow.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "Transform sources into original pattern cards:",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/corpus_workflow.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/critic_rules.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "These are the reusable critique rules distilled from Omnitread, Iliad, Fleshpunk, and Revelation. Validation proves a story can run. Critique asks whether the room deserves to e...",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/critic_rules.md",
+          "line": 133,
+          "symbol": "Critique Actions",
+          "evidence": "## Critique Actions",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/critic_rules.md#L133"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/quality_critique_stack.md",
+          "line": 1,
+          "symbol": "Quality Critique Stack",
+          "evidence": "# Quality Critique Stack",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/quality_critique_stack.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Primary critic rules live in `docs/critic_rules.md`. This stack turns those rules into repeatable passes.",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/quality_critique_stack.md#L3"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "but-multiple-choice",
+          "repo": "Valar05/but-multiple-choice",
+          "path": "docs/story_engine_schema.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- `chapter_anchor`: broad story anchor, used by graph/search",
+          "source_url": "https://github.com/Valar05/but-multiple-choice/blob/main/docs/story_engine_schema.md#L32"
+        }
+      ]
+    }
+  }
+}

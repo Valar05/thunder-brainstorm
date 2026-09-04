@@ -1,0 +1,333 @@
+{
+  "repo": "Valar05/revelation-tts-archive",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "revelation-tts-archive",
+    "updatedAt": "2026-06-20T22:48:25Z",
+    "url": "https://github.com/Valar05/revelation-tts-archive",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 2,
+  "selected_files": [
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "2a4090ce9354667486617fd77d73036681400579",
+      "size": 1048,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 1048,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L11"
+      ]
+    },
+    {
+      "path": "stale_generated_20260523_090433/archive_manifest.json",
+      "mode": "100644",
+      "sha": "bcc6e30ed45cc9478164294453d03ecdf2d44a9e",
+      "size": 9597,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 97,
+      "byte_count": 9597,
+      "mechanics": [
+        "asset_import_pipeline",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/stale_generated_20260523_090433/archive_manifest.json#L1",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/stale_generated_20260523_090433/archive_manifest.json#L2",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/stale_generated_20260523_090433/archive_manifest.json#L3",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/stale_generated_20260523_090433/archive_manifest.json#L4",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/stale_generated_20260523_090433/archive_manifest.json#L5",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/stale_generated_20260523_090433/archive_manifest.json#L6",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/stale_generated_20260523_090433/archive_manifest.json#L7",
+        "https://github.com/Valar05/revelation-tts-archive/blob/main/stale_generated_20260523_090433/archive_manifest.json#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 115,
+    "by_origin": {
+      "github": 115
+    },
+    "by_project": {
+      "revelation-tts-archive": 115
+    },
+    "by_mechanic": {
+      "tts_audio_pipeline": 115,
+      "asset_import_pipeline": 115,
+      "touch_lane_combat": 2,
+      "ai_pressure": 2,
+      "pose_animation_tools": 1,
+      "text_console_runtime": 1
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: revelation_tts_archive",
+          "evidence": "# Project Manifest: revelation_tts_archive",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/revelation_tts_archive`",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/revelation-tts-archive`",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "No project orientation file was found during manifest generation. Treat this manifest as an inventory scaffold until a project-specific orientation is added.",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 11,
+          "symbol": "Entrypoints And Validation Clues",
+          "evidence": "## Entrypoints And Validation Clues",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L11"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: revelation_tts_archive",
+          "evidence": "# Project Manifest: revelation_tts_archive",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/revelation_tts_archive`",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/revelation-tts-archive`",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "No project orientation file was found during manifest generation. Treat this manifest as an inventory scaffold until a project-specific orientation is added.",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 11,
+          "symbol": "Entrypoints And Validation Clues",
+          "evidence": "## Entrypoints And Validation Clues",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L11"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L8"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- No standard entrypoint was detected. Inspect top-level files and add project-specific validation commands when known.",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L12"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L22"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "revelation-tts-archive",
+          "repo": "Valar05/revelation-tts-archive",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/revelation-tts-archive/blob/main/PROJECT_MANIFEST.md#L22"
+        }
+      ]
+    }
+  }
+}

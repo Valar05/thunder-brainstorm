@@ -1,0 +1,1973 @@
+{
+  "repo": "Valar05/omnitread",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "omnitread",
+    "updatedAt": "2026-06-20T22:48:21Z",
+    "url": "https://github.com/Valar05/omnitread",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "7cce6768f803d54427d14ddb4cd646f7109bb8b2",
+      "size": 2116,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 40,
+      "byte_count": 2116,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/README.md#L3",
+        "https://github.com/Valar05/omnitread/blob/main/README.md#L5",
+        "https://github.com/Valar05/omnitread/blob/main/README.md#L10",
+        "https://github.com/Valar05/omnitread/blob/main/README.md#L11",
+        "https://github.com/Valar05/omnitread/blob/main/README.md#L22",
+        "https://github.com/Valar05/omnitread/blob/main/README.md#L23",
+        "https://github.com/Valar05/omnitread/blob/main/README.md#L24",
+        "https://github.com/Valar05/omnitread/blob/main/README.md#L25"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "00b97f9c6764f21ffa014800805038fdcaf0b982",
+      "size": 552,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 552,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_ORIENTATION.md#L5",
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_ORIENTATION.md#L7"
+      ]
+    },
+    {
+      "path": "docs/generation_contract.md",
+      "mode": "100644",
+      "sha": "c533db7e73a1abd64697650c89f6bb89b522891d",
+      "size": 2353,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 2353,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L3",
+        "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L5",
+        "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L7",
+        "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L12",
+        "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L14",
+        "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L16",
+        "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L18",
+        "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L20"
+      ]
+    },
+    {
+      "path": "docs/pattern_extraction_workflow.md",
+      "mode": "100644",
+      "sha": "433244b25a55b6723ddb877bed02eb21c6881b57",
+      "size": 401,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 9,
+      "byte_count": 401,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/docs/pattern_extraction_workflow.md#L3",
+        "https://github.com/Valar05/omnitread/blob/main/docs/pattern_extraction_workflow.md#L5",
+        "https://github.com/Valar05/omnitread/blob/main/docs/pattern_extraction_workflow.md#L9"
+      ]
+    },
+    {
+      "path": "docs/quality_critique_stack.md",
+      "mode": "100644",
+      "sha": "9d2403b7b5fd5b2564cccac8febeb36ef7465e6c",
+      "size": 3374,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 3374,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L1",
+        "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L3",
+        "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L5",
+        "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L7",
+        "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L9",
+        "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L10",
+        "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L11",
+        "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L12"
+      ]
+    },
+    {
+      "path": "docs/session_context.md",
+      "mode": "100644",
+      "sha": "e3ced181d5b821cc6a6f8684fdbd53c342f9e8c1",
+      "size": 1404,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 1404,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/docs/session_context.md#L8",
+        "https://github.com/Valar05/omnitread/blob/main/docs/session_context.md#L10",
+        "https://github.com/Valar05/omnitread/blob/main/docs/session_context.md#L14",
+        "https://github.com/Valar05/omnitread/blob/main/docs/session_context.md#L15"
+      ]
+    },
+    {
+      "path": "docs/source_cleanup_notes.md",
+      "mode": "100644",
+      "sha": "2e104a2327e12af42fa1fba7f94f6003d988d68b",
+      "size": 268,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 268,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_cleanup_notes.md#L1",
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_cleanup_notes.md#L3"
+      ]
+    },
+    {
+      "path": "docs/source_rights_policy.md",
+      "mode": "100644",
+      "sha": "8816eaa7e7bae22fee2e0006bb1c494b81958b1b",
+      "size": 344,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 344,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_rights_policy.md#L1",
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_rights_policy.md#L3",
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_rights_policy.md#L5"
+      ]
+    },
+    {
+      "path": "docs/source_vibe_guide.md",
+      "mode": "100644",
+      "sha": "ee5041d69e0aa3eb48c5f6612843b0260d8b4744",
+      "size": 7136,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 114,
+      "byte_count": 7136,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L1",
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L3",
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L5",
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L7",
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L9",
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L11",
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L13",
+        "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L15"
+      ]
+    },
+    {
+      "path": "docs/story_engine_schema.md",
+      "mode": "100644",
+      "sha": "d470040b5743ed2296911350d118e18455ba19fe",
+      "size": 2284,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 2284,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/docs/story_engine_schema.md#L3",
+        "https://github.com/Valar05/omnitread/blob/main/docs/story_engine_schema.md#L7",
+        "https://github.com/Valar05/omnitread/blob/main/docs/story_engine_schema.md#L9",
+        "https://github.com/Valar05/omnitread/blob/main/docs/story_engine_schema.md#L10",
+        "https://github.com/Valar05/omnitread/blob/main/docs/story_engine_schema.md#L14",
+        "https://github.com/Valar05/omnitread/blob/main/docs/story_engine_schema.md#L16",
+        "https://github.com/Valar05/omnitread/blob/main/docs/story_engine_schema.md#L18",
+        "https://github.com/Valar05/omnitread/blob/main/docs/story_engine_schema.md#L20"
+      ]
+    },
+    {
+      "path": "docs/war_story_corpus_workflow.md",
+      "mode": "100644",
+      "sha": "cb526c4c9cf7912f120fb75588b64fb887be4dea",
+      "size": 1416,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 25,
+      "byte_count": 1416,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/docs/war_story_corpus_workflow.md#L1",
+        "https://github.com/Valar05/omnitread/blob/main/docs/war_story_corpus_workflow.md#L3",
+        "https://github.com/Valar05/omnitread/blob/main/docs/war_story_corpus_workflow.md#L5",
+        "https://github.com/Valar05/omnitread/blob/main/docs/war_story_corpus_workflow.md#L7",
+        "https://github.com/Valar05/omnitread/blob/main/docs/war_story_corpus_workflow.md#L8",
+        "https://github.com/Valar05/omnitread/blob/main/docs/war_story_corpus_workflow.md#L9",
+        "https://github.com/Valar05/omnitread/blob/main/docs/war_story_corpus_workflow.md#L11",
+        "https://github.com/Valar05/omnitread/blob/main/docs/war_story_corpus_workflow.md#L13"
+      ]
+    },
+    {
+      "path": "tools/local_game_server.py",
+      "mode": "100644",
+      "sha": "a35d92d0b2886c80b9b2fed5ca11cb40d50582d3",
+      "size": 3658,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 96,
+      "byte_count": 3658,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_game_server.py#L1",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_game_server.py#L2",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_game_server.py#L4",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_game_server.py#L5",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_game_server.py#L6",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_game_server.py#L7",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_game_server.py#L8",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_game_server.py#L9"
+      ]
+    },
+    {
+      "path": "tools/local_web_server.py",
+      "mode": "100644",
+      "sha": "6d84008bb833feae91f6dc06c689a3fbc334225c",
+      "size": 3623,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 96,
+      "byte_count": 3623,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_web_server.py#L1",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_web_server.py#L2",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_web_server.py#L4",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_web_server.py#L5",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_web_server.py#L6",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_web_server.py#L7",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_web_server.py#L8",
+        "https://github.com/Valar05/omnitread/blob/main/tools/local_web_server.py#L9"
+      ]
+    },
+    {
+      "path": "tools/omnitread_agent.py",
+      "mode": "100644",
+      "sha": "f280f0123ce428549e58defe042a0c6c96b68e2b",
+      "size": 36668,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 676,
+      "byte_count": 36668,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L2",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L4",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L5",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L6",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L7",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L8",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L9",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L10"
+      ]
+    },
+    {
+      "path": "tools/omnitread_claude_agent.py",
+      "mode": "100644",
+      "sha": "f7fdf54b8d4e63f1e85763f6710d528e4586b1cc",
+      "size": 2598,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 2598,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_claude_agent.py#L1",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_claude_agent.py#L2",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_claude_agent.py#L3",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_claude_agent.py#L4",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_claude_agent.py#L5",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_claude_agent.py#L6",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_claude_agent.py#L7",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_claude_agent.py#L8"
+      ]
+    },
+    {
+      "path": "tools/omnitread_quality_audit.py",
+      "mode": "100644",
+      "sha": "9675e455e95820ca0705769100e096affa8b3a18",
+      "size": 15756,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 360,
+      "byte_count": 15756,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L1",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L2",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L4",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L5",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L6",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L7",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L8",
+        "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L9"
+      ]
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "e357b4855991dda46816627dd8b1210f74b29c8f",
+      "size": 1663,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 45,
+      "byte_count": 1663,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/omnitread/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "corpus/corpus_manifest.json",
+      "mode": "100644",
+      "sha": "594a71b5fb9e3f2ef759ad68c96a45f5eddeac5e",
+      "size": 11329,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 385,
+      "byte_count": 11329,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/corpus/corpus_manifest.json#L1",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/corpus_manifest.json#L2",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/corpus_manifest.json#L3",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/corpus_manifest.json#L4",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/corpus_manifest.json#L5",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/corpus_manifest.json#L6",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/corpus_manifest.json#L7",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/corpus_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "corpus/procedure_sources_manifest.json",
+      "mode": "100644",
+      "sha": "6b77ad10f4f447a488e33ab775f13bac5a9c3179",
+      "size": 11244,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 250,
+      "byte_count": 11244,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L1",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L2",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L3",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L4",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L5",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L6",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L7",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "corpus/war_accounts_manifest.json",
+      "mode": "100644",
+      "sha": "75228c56a3cfd1414dd04ac9cd3cb24bf1f08db6",
+      "size": 7482,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 174,
+      "byte_count": 7482,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/corpus/war_accounts_manifest.json#L1",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/war_accounts_manifest.json#L2",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/war_accounts_manifest.json#L3",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/war_accounts_manifest.json#L4",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/war_accounts_manifest.json#L5",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/war_accounts_manifest.json#L6",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/war_accounts_manifest.json#L7",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/war_accounts_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "actors.json",
+      "mode": "100644",
+      "sha": "61e1a4ae067bc3d6ec6cb3d1fd1c6470b8890775",
+      "size": 10060,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 405,
+      "byte_count": 10060,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/actors.json#L11",
+        "https://github.com/Valar05/omnitread/blob/main/actors.json#L45",
+        "https://github.com/Valar05/omnitread/blob/main/actors.json#L90",
+        "https://github.com/Valar05/omnitread/blob/main/actors.json#L102",
+        "https://github.com/Valar05/omnitread/blob/main/actors.json#L107",
+        "https://github.com/Valar05/omnitread/blob/main/actors.json#L127",
+        "https://github.com/Valar05/omnitread/blob/main/actors.json#L133",
+        "https://github.com/Valar05/omnitread/blob/main/actors.json#L152"
+      ]
+    },
+    {
+      "path": "bootstrap_omnitread.py",
+      "mode": "100644",
+      "sha": "bed10fd1b277fb4ee25a57ec0a83f2621654f7fa",
+      "size": 117,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2,
+      "byte_count": 117,
+      "mechanics": [
+        "text_console_runtime",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/bootstrap_omnitread.py#L1",
+        "https://github.com/Valar05/omnitread/blob/main/bootstrap_omnitread.py#L2"
+      ]
+    },
+    {
+      "path": "causal_chains.json",
+      "mode": "100644",
+      "sha": "d0a02391fc01f3c4d1977a04b0a46c8eb6e35ae2",
+      "size": 12107,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 373,
+      "byte_count": 12107,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L1",
+        "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L2",
+        "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L3",
+        "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L4",
+        "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L5",
+        "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L6",
+        "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L7",
+        "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L8"
+      ]
+    },
+    {
+      "path": "corpus/source_notes/official_procedure_sources.md",
+      "mode": "100644",
+      "sha": "43e09119c69530119379ee409de30a17a1196294",
+      "size": 292,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 292,
+      "mechanics": [
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/omnitread/blob/main/corpus/source_notes/official_procedure_sources.md#L1",
+        "https://github.com/Valar05/omnitread/blob/main/corpus/source_notes/official_procedure_sources.md#L3"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 2205,
+    "by_origin": {
+      "github": 2205
+    },
+    "by_project": {
+      "omnitread": 2205
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 1103,
+      "source_packet_generation": 913,
+      "tts_audio_pipeline": 883,
+      "ai_pressure": 553,
+      "web_choice_player": 327,
+      "validation_pipeline": 323,
+      "text_console_runtime": 264,
+      "pose_animation_tools": 151,
+      "writing_corpus_review": 70,
+      "delayed_consequences": 36,
+      "event_clouds": 29,
+      "deck_pressure": 13,
+      "touch_lane_combat": 12,
+      "resource_upgrade_loop": 7,
+      "vehicle_survival": 2
+    },
+    "examples": {
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Mission-deck interactive adaptation scaffold for the Omnitread story.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Omnitread should start as a focused mission-deck adaptation of a complete story. Main chapters form the required spine; interstitial scenarios come from abstract pattern cards.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `cut`: remove from playable deck unless a concrete job is found.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/war_story_corpus_workflow.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- Official procedure cards provide institutional pressure: incident command, EOC abstraction, cyber incident lifecycle, declaration thresholds, redaction, doctrine language, and...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/war_story_corpus_workflow.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/local_game_server.py",
+          "line": 14,
+          "symbol": "",
+          "evidence": "NAME = \"playable mission deck\"",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/local_game_server.py#L14"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_agent.py",
+          "line": 128,
+          "symbol": "",
+          "evidence": "print(\"Omnitread mission-deck context\")",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L128"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_agent.py",
+          "line": 543,
+          "symbol": "",
+          "evidence": "\"kind\": \"mission_deck_structure\",",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L543"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "> Omnitread should start as a focused mission-deck adaptation of a complete story. Main chapters form the required spine; interstitial scenarios come from abstract pattern cards.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/PROJECT_MANIFEST.md#L11"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This repo uses abstract pattern cards rather than copied war-account prose. Story text is source context; generated rooms should be original and packet-driven.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "python tools/omnitread_agent.py generate-corpus-manifest",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "python tools/omnitread_agent.py seed-packet --seed seed_ch01_beta_invitation_targeting --out generated/source_packets/seed_ch01_beta_invitation_targeting.md",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "The corpus manifest lives at `corpus/corpus_manifest.json` and records source availability, rights/use boundaries, chapter markers, cleanup flags, and external corpus policy.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "War Story Corpus",
+          "evidence": "## War Story Corpus",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "`corpus/war_accounts_manifest.json` tracks sourced accounts and rights status. `corpus/war_pattern_cards.json` holds abstract mechanics extracted from those accounts for procedu...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Codex may create schemas, validators, packets, summaries, pattern cards, and integration code.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "A writing agent should draft final player-facing scenario prose from narrow packets. Preserve choice ids and output flags. Use source text for canon constraints, not copied para...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L5"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This repo uses abstract pattern cards rather than copied war-account prose. Story text is source context; generated rooms should be original and packet-driven.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Do not copy names, myth data, generated rooms, or prose from the previous project into this repo.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/PROJECT_ORIENTATION.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "A writing agent should draft final player-facing scenario prose from narrow packets. Preserve choice ids and output flags. Use source text for canon constraints, not copied para...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "A playable room must earn its screen. Do not promote a room only because the graph needs a pause. If the beat does not introduce a concrete new event, route change, sensory turn...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "Player choices must be in-world actions, not critique labels. Avoid generic pairs such as `lean_into_pressure` / `resist_pressure`, or choices that merely pick success versus fa...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `reroute`: choice consequence contradicts the player action",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "Before promoting or regenerating playable rooms, use `docs/quality_critique_stack.md` as the critique contract and run:",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "The audit checks story-quality failures that schema validation cannot catch: underdeveloped screens, missing parentage, overlong choice labels, generic pressure choices, weak fo...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L36"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This repo uses abstract pattern cards rather than copied war-account prose. Story text is source context; generated rooms should be original and packet-driven.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "python tools/omnitread_agent.py extract-source",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "python tools/omnitread_agent.py generate-corpus-manifest",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "python tools/omnitread_agent.py seed-packet --seed seed_ch01_beta_invitation_targeting --out generated/source_packets/seed_ch01_beta_invitation_targeting.md",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "The corpus manifest lives at `corpus/corpus_manifest.json` and records source availability, rights/use boundaries, chapter markers, cleanup flags, and external corpus policy.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "`plot_beats.json` treats the source as one canonical traversal through a what-if structure. `causal_chains.json` records how alternate outcomes from those beats bend later press...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "`corpus/war_accounts_manifest.json` tracks sourced accounts and rights status. `corpus/war_pattern_cards.json` holds abstract mechanics extracted from those accounts for procedu...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "`plot_beats.json`, `causal_chains.json`, `actors.json`, `parallax_rules.json`, and `ending_routes.json` define the what-if machine. The source story is treated as one traversal ...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L40"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This repo uses abstract pattern cards rather than copied war-account prose. Story text is source context; generated rooms should be original and packet-driven.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "The corpus manifest lives at `corpus/corpus_manifest.json` and records source availability, rights/use boundaries, chapter markers, cleanup flags, and external corpus policy.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "`plot_beats.json` treats the source as one canonical traversal through a what-if structure. `causal_chains.json` records how alternate outcomes from those beats bend later press...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "`corpus/war_accounts_manifest.json` tracks sourced accounts and rights status. `corpus/war_pattern_cards.json` holds abstract mechanics extracted from those accounts for procedu...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/pattern_extraction_workflow.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "3. Track rights status and citation notes.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/pattern_extraction_workflow.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/pattern_extraction_workflow.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Never generate a scenario as a reenactment of a named veteran story. Generate an original Parallax scenario using extracted mechanics.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/pattern_extraction_workflow.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "9. Hardware sensory continuity: do not imply smell or taste output. The current rig can render visual, audio, haptic, treadmill, strap pressure, heat/cold-by-contact, and body r...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/source_rights_policy.md",
+          "line": 1,
+          "symbol": "Source Rights Policy",
+          "evidence": "# Source Rights Policy",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/source_rights_policy.md#L1"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This repo uses abstract pattern cards rather than copied war-account prose. Story text is source context; generated rooms should be original and packet-driven.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "A writing agent should draft final player-facing scenario prose from narrow packets. Preserve choice ids and output flags. Use source text for canon constraints, not copied para...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "Player choices must be in-world actions, not critique labels. Avoid generic pairs such as `lean_into_pressure` / `resist_pressure`, or choices that merely pick success versus fa...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Default Chapter 1 pacing target: 6-9 screens for a mainline run, with additional screens only on meaningful branches or chance outcomes. Archived structural drafts may remain in...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "Critique should identify the failed job of the screen, not just surface polish. Use these categories:",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "Before promoting or regenerating playable rooms, use `docs/quality_critique_stack.md` as the critique contract and run:",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/pattern_extraction_workflow.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Never generate a scenario as a reenactment of a named veteran story. Generate an original Parallax scenario using extracted mechanics.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/pattern_extraction_workflow.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 1,
+          "symbol": "Quality Critique Stack",
+          "evidence": "# Quality Critique Stack",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L1"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python tools/local_web_server.py --host 127.0.0.1 --port 3001",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "python tools/local_game_server.py --host 127.0.0.1 --port 3002",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "A writing agent should draft final player-facing scenario prose from narrow packets. Preserve choice ids and output flags. Use source text for canon constraints, not copied para...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "Player choices must be in-world actions, not critique labels. Avoid generic pairs such as `lean_into_pressure` / `resist_pressure`, or choices that merely pick success versus fa...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `reroute`: choice consequence contradicts the player action",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "The audit checks story-quality failures that schema validation cannot catch: underdeveloped screens, missing parentage, overlong choice labels, generic pressure choices, weak fo...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `regenerate`: premise is valid, but prose, physicality, causality, formatting, or choice language fails.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "1. Development: decision rooms need enough scene mass to establish setup, pressure, and choice. Branch and outcome rooms can be shorter, but still need a visible event or conseq...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L26"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "python tools/omnitread_agent.py validate",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 28,
+          "symbol": "Story Quality Audit",
+          "evidence": "## Story Quality Audit",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "python tools/omnitread_quality_audit.py",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "The audit checks story-quality failures that schema validation cannot catch: underdeveloped screens, missing parentage, overlong choice labels, generic pressure choices, weak fo...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 38,
+          "symbol": "Repeatable Audit",
+          "evidence": "## Repeatable Audit",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "python tools/omnitread_quality_audit.py",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "- `generated/audits/story_quality_audit.json`",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- `generated/audits/story_quality_audit.md`",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L49"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "python tools/omnitread_agent.py generate-corpus-manifest",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "The corpus manifest lives at `corpus/corpus_manifest.json` and records source availability, rights/use boundaries, chapter markers, cleanup flags, and external corpus policy.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "`corpus/war_accounts_manifest.json` tracks sourced accounts and rights status. `corpus/war_pattern_cards.json` holds abstract mechanics extracted from those accounts for procedu...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "9. Hardware sensory continuity: do not imply smell or taste output. The current rig can render visual, audio, haptic, treadmill, strap pressure, heat/cold-by-contact, and body r...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/source_vibe_guide.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Use Evan's sensory field first: screen light, strap pressure, breath inside the headset, sweat under the chest pad, treadmill drag, audio compression, controller absence, vibrat...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/source_vibe_guide.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "Do not imply smell or taste output. The rig has no smell-o-vision; use visual detail, audio, haptics, treadmill resistance, strap pressure, contact heat/cold, and UI uncertainty...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/source_vibe_guide.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- packet loss, audio filter, latency, static, calibration, sensor drift",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/source_vibe_guide.md",
+          "line": 92,
+          "symbol": "Dialogue And TTS Lines",
+          "evidence": "## Dialogue And TTS Lines",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L92"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "The corpus manifest lives at `corpus/corpus_manifest.json` and records source availability, rights/use boundaries, chapter markers, cleanup flags, and external corpus policy.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "`plot_beats.json` treats the source as one canonical traversal through a what-if structure. `causal_chains.json` records how alternate outcomes from those beats bend later press...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "`corpus/war_accounts_manifest.json` tracks sourced accounts and rights status. `corpus/war_pattern_cards.json` holds abstract mechanics extracted from those accounts for procedu...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "`plot_beats.json`, `causal_chains.json`, `actors.json`, `parallax_rules.json`, and `ending_routes.json` define the what-if machine. The source story is treated as one traversal ...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Omnitread should start as a focused mission-deck adaptation of a complete story. Main chapters form the required spine; interstitial scenarios come from abstract pattern cards.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Do not copy long passages from war accounts. Extract mechanics: setup, pressure, reversal, cost, sensory anchors, and residue. Translate those mechanics through Parallax, persis...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "A writing agent should draft final player-facing scenario prose from narrow packets. Preserve choice ids and output flags. Use source text for canon constraints, not copied para...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Avoid actionable real-world tactical instruction. Military/procedural sources are for texture and pressure, not training detail.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L7"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "`corpus/war_accounts_manifest.json` tracks sourced accounts and rights status. `corpus/war_pattern_cards.json` holds abstract mechanics extracted from those accounts for procedu...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/pattern_extraction_workflow.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "1. Use public-domain, government, open-license, or permission-safe accounts.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/pattern_extraction_workflow.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/source_rights_policy.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Preferred order: public-domain accounts, U.S. government records with item-level checks, openly licensed archives, then copyrighted material used only for research notes.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/source_rights_policy.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/source_vibe_guide.md",
+          "line": 114,
+          "symbol": "",
+          "evidence": "The first high-risk Chapter 1 rooms are house infiltration and East Contact. They establish whether Omnitread is a game-shaped trap or a mythic domain with different nouns.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L114"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/story_engine_schema.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- `source_event_seed_id` pointing at the source scenario seed",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/story_engine_schema.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/war_story_corpus_workflow.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- Prefer public-domain and item-level-rights-clean sources.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/war_story_corpus_workflow.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_agent.py",
+          "line": 233,
+          "symbol": "",
+          "evidence": "if room.get(\"source_event_seed_id\") not in seed_ids:",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L233"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_agent.py",
+          "line": 234,
+          "symbol": "",
+          "evidence": "errors.append(f\"outcome room {rid} references missing source_event_seed_id {room.get('source_event_seed_id')}\")",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L234"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/generation_contract.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "Refusal must be respected as a route. It can produce coercion, off-ramp pressure, recontact, capture, or delayed consequences, but it should not silently collapse into obedience...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/generation_contract.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/source_vibe_guide.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- radio call, security light, bodycam angle, witness memory, phone notification, evidence trail",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/source_vibe_guide.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "If an output says death, first kill, body stress, witness memory, or living consequence, the prose must show the physical event that caused it before explaining what it means.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/story_engine_schema.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `actors.json`: actor/system state model and branch mutation hooks.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/story_engine_schema.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_agent.py",
+          "line": 302,
+          "symbol": "",
+          "evidence": "for key in [\"id\", \"trigger_outputs\", \"pressure\", \"likely_next_beats\", \"ending_attractors\", \"scenario_hooks\"]:",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_agent.py#L302"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "corpus/corpus_manifest.json",
+          "line": 51,
+          "symbol": "title",
+          "evidence": "\"title\": \"CHAPTER 3 — ECHOES\"",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/corpus/corpus_manifest.json#L51"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "corpus/war_accounts_manifest.json",
+          "line": 59,
+          "symbol": "",
+          "evidence": "\"domestic memory under fire\",",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/corpus/war_accounts_manifest.json#L59"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "actors.json",
+          "line": 236,
+          "symbol": "memory_continuity",
+          "evidence": "\"memory_continuity\": 0,",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/actors.json#L236"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/quality_critique_stack.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "6. Formatting: player-facing prose should have paragraph breaks around event turns. Avoid giant single blocks, missing sentence spaces, pasted serialized text, and layout-breaki...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/quality_critique_stack.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_claude_agent.py",
+          "line": 21,
+          "symbol": "",
+          "evidence": "data=json.loads(urllib.request.urlopen(req,timeout=180).read().decode()); text=''.join(block.get('text','') for block in data.get('content',[]) if block.get('type')=='text').str...",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_claude_agent.py#L21"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_quality_audit.py",
+          "line": 194,
+          "symbol": "",
+          "evidence": "add_issue(issues, room, \"blocker\", \"runtime_visibility\", \"reroute\", \"Archived interstitial can surface in default play.\", f\"source_seed_id={room.get('source_seed_id')}\")",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L194"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_quality_audit.py",
+          "line": 213,
+          "symbol": "",
+          "evidence": "add_issue(issues, room, \"minor\", \"formatting\", \"regenerate\", \"Long opening renders as one block.\", f\"{word_count} words in {para_count} paragraph\")",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L213"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_quality_audit.py",
+          "line": 248,
+          "symbol": "",
+          "evidence": "add_issue(issues, room, \"blocker\", \"placement\", \"reroute\", \"Room declares a missing parent_room_id.\", f\"parent_room_id={parent_id}\")",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L248"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_quality_audit.py",
+          "line": 272,
+          "symbol": "",
+          "evidence": "add_issue(issues, room, \"blocker\", \"routing\", \"reroute\", \"Choice has no explicit next_room_id or chance route.\", f\"choice_id={cid}\")",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L272"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_quality_audit.py",
+          "line": 293,
+          "symbol": "",
+          "evidence": "key=lambda issue: ({\"blocker\": 0, \"major\": 1, \"minor\": 2}.get(issue[\"severity\"], 9), issue[\"room_id\"] or \"\", issue[\"category\"]),",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L293"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "tools/omnitread_quality_audit.py",
+          "line": 319,
+          "symbol": "",
+          "evidence": "for severity in [\"blocker\", \"major\", \"minor\"]:",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/tools/omnitread_quality_audit.py#L319"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "docs/source_vibe_guide.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "2. The mission frame offers a clear task, route, label, or prompt.",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/docs/source_vibe_guide.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "corpus/procedure_sources_manifest.json",
+          "line": 32,
+          "symbol": "rights_note",
+          "evidence": "\"rights_note\": \"Use for multi-agency coordination and resource/status language.\",",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L32"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "corpus/procedure_sources_manifest.json",
+          "line": 112,
+          "symbol": "setup",
+          "evidence": "\"setup\": \"An operations center turns lived catastrophe into statuses, resources, and unresolved tickets.\",",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L112"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "corpus/procedure_sources_manifest.json",
+          "line": 115,
+          "symbol": "",
+          "evidence": "\"resource scarcity\",",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L115"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "corpus/procedure_sources_manifest.json",
+          "line": 122,
+          "symbol": "",
+          "evidence": "\"Parallax manipulates what counts as a resource\"",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/corpus/procedure_sources_manifest.json#L122"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "causal_chains.json",
+          "line": 225,
+          "symbol": "",
+          "evidence": "\"a safe path is mined by expectation\",",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L225"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "causal_chains.json",
+          "line": 331,
+          "symbol": "pressure",
+          "evidence": "\"pressure\": \"Praise after violence turns competence into contamination and changes what the system offers next.\",",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L331"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "corpus/war_accounts_manifest.json",
+          "line": 60,
+          "symbol": "",
+          "evidence": "\"road-to-front dread\",",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/corpus/war_accounts_manifest.json#L60"
+        },
+        {
+          "origin": "github",
+          "project": "omnitread",
+          "repo": "Valar05/omnitread",
+          "path": "causal_chains.json",
+          "line": 196,
+          "symbol": "pressure",
+          "evidence": "\"pressure\": \"The tutorial mask slips when Parallax forces progress through discomfort, lockout, or sensory manipulation.\",",
+          "source_url": "https://github.com/Valar05/omnitread/blob/main/causal_chains.json#L196"
+        }
+      ]
+    }
+  }
+}

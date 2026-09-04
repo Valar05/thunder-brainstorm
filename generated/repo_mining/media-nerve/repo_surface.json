@@ -1,0 +1,67 @@
+{
+  "repo": "Valar05/media-nerve",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Local-first interactive audio/video companion that feeds authenticated ChatGPT bounded media context with durable evidence.",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "media-nerve",
+    "updatedAt": "2026-08-11T11:49:17Z",
+    "url": "https://github.com/Valar05/media-nerve",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 1,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "9d46a878486ab3ff2b2c4a0465e0c99cfe9849e3",
+      "size": 138,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2,
+      "byte_count": 138,
+      "mechanics": [
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/media-nerve/blob/main/README.md#L2"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1,
+    "by_origin": {
+      "github": 1
+    },
+    "by_project": {
+      "media-nerve": 1
+    },
+    "by_mechanic": {
+      "tts_audio_pipeline": 1
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "media-nerve",
+          "repo": "Valar05/media-nerve",
+          "path": "README.md",
+          "line": 2,
+          "symbol": "",
+          "evidence": "Local-first interactive audio/video companion that feeds authenticated ChatGPT bounded media context with durable evidence.",
+          "source_url": "https://github.com/Valar05/media-nerve/blob/main/README.md#L2"
+        }
+      ]
+    }
+  }
+}

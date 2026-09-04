@@ -1,0 +1,993 @@
+{
+  "repo": "Valar05/goblin-chess-mvp",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "goblin-chess-mvp",
+    "updatedAt": "2026-06-23T19:12:33Z",
+    "url": "https://github.com/Valar05/goblin-chess-mvp",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 2,
+  "selected_files": [
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "17edfb750fd7d04b6afbe449af6f010304e9d8c0",
+      "size": 1405,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 1405,
+      "mechanics": [
+        "delayed_consequences",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L5",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L18",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L22",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L23",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L28"
+      ]
+    },
+    {
+      "path": "game.js",
+      "mode": "100644",
+      "sha": "2e52293265b1e43ba337676755c0fa4bf4ed4372",
+      "size": 72807,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1857,
+      "byte_count": 72807,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L6",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L14",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L26",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L28",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L32",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L40",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L58",
+        "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L70"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 425,
+    "by_origin": {
+      "github": 425
+    },
+    "by_project": {
+      "goblin-chess-mvp": 425
+    },
+    "by_mechanic": {
+      "web_choice_player": 106,
+      "text_console_runtime": 100,
+      "ai_pressure": 100,
+      "writing_corpus_review": 74,
+      "delayed_consequences": 53,
+      "deck_pressure": 24,
+      "touch_lane_combat": 23,
+      "pose_animation_tools": 20,
+      "validation_pipeline": 11,
+      "asset_import_pipeline": 8,
+      "vehicle_survival": 6
+    },
+    "examples": {
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Goblin Chess MVP is the **misunderstanding simulator**. This is the project to validate when the requested behavior is:",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "Use a simple static server rooted at this folder, then open `index.html`. For automated checks, `node --check game.js` plus a DOM/canvas smoke harness should verify that the boa...",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 78,
+          "symbol": "",
+          "evidence": "opportunity: 'A careful repair might create a faster route.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L78"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 125,
+          "symbol": "",
+          "evidence": "id: 'smoke-from-shed',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L125"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 126,
+          "symbol": "",
+          "evidence": "title: 'Smoke from the shed',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L126"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 127,
+          "symbol": "",
+          "evidence": "problem: 'Thin smoke is rising where it should not.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L127"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 497,
+          "symbol": "",
+          "evidence": "const reports = state.goblins.map((goblin) => processGoblinTurn(goblin, parsed));",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L497"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 670,
+          "symbol": "",
+          "evidence": "aarSummaryEl.textContent = 'The goblins will audit themselves after every turn. One verdict is required before the next command unlocks.';",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L670"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- goblins interpret player commands differently",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- a command can become a doctrine, ritual, or bad organizational habit",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `index.html` defines the app shell, evidence board, command input, transcript, receipts panel, memory panel, culture notes, and event log.",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `game.js` owns command parsing, goblin initiative, interpretation, doctrine drift, wizard stress, and board rendering.",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "Use a simple static server rooted at this folder, then open `index.html`. For automated checks, `node --check game.js` plus a DOM/canvas smoke harness should verify that the boa...",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 14,
+          "symbol": "",
+          "evidence": "const COMMAND_HINTS = [",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L14"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 93,
+          "symbol": "",
+          "evidence": "summary: 'Fear has entered the room wearing a civilian voice.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L93"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 190,
+          "symbol": "",
+          "evidence": "const commandForm = document.querySelector('#commandForm');",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L190"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Static HTML/CSS/JavaScript MVP with no build step.",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `index.html` defines the app shell, evidence board, command input, transcript, receipts panel, memory panel, culture notes, and event log.",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `game.js` owns command parsing, goblin initiative, interpretation, doctrine drift, wizard stress, and board rendering.",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "Use a simple static server rooted at this folder, then open `index.html`. For automated checks, `node --check game.js` plus a DOM/canvas smoke harness should verify that the boa...",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 242,
+          "symbol": "",
+          "evidence": "window.addEventListener('load', renderCommandHint);",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L242"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 245,
+          "symbol": "",
+          "evidence": "render();",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L245"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 387,
+          "symbol": "",
+          "evidence": "render();",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L387"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 395,
+          "symbol": "",
+          "evidence": "render();",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L395"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `index.html` defines the app shell, evidence board, command input, transcript, receipts panel, memory panel, culture notes, and event log.",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 211,
+          "symbol": "",
+          "evidence": "const receiptMemoryEl = document.querySelector('#receiptMemory');",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L211"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 216,
+          "symbol": "",
+          "evidence": "const memoryListEl = document.querySelector('#memoryList');",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L216"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 286,
+          "symbol": "",
+          "evidence": "memory: [",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L286"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 309,
+          "symbol": "",
+          "evidence": "memory: [",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L309"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 332,
+          "symbol": "",
+          "evidence": "memory: [",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L332"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 367,
+          "symbol": "",
+          "evidence": "memory: def.memory,",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L367"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 603,
+          "symbol": "",
+          "evidence": "pushMemory(goblin, `AAR approved: ${report.interpretation.text}`);",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L603"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `game.js` owns command parsing, goblin initiative, interpretation, doctrine drift, wizard stress, and board rendering.",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/PROJECT_ORIENTATION.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 28,
+          "symbol": "",
+          "evidence": "summary: 'A loose goat has turned the yard into a live report.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L28"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 287,
+          "symbol": "",
+          "evidence": "'Start: assume the nearest harmless thing is a future report.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L287"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 350,
+          "symbol": "",
+          "evidence": "reports: [],",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L350"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 351,
+          "symbol": "",
+          "evidence": "reportsByGoblin: {},",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L351"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 469,
+          "symbol": "",
+          "evidence": ": text.includes('why') || text.includes('explain') || text.includes('report')",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L469"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 497,
+          "symbol": "",
+          "evidence": "const reports = state.goblins.map((goblin) => processGoblinTurn(goblin, parsed));",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L497"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 498,
+          "symbol": "",
+          "evidence": "state.reports = reports;",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L498"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 6,
+          "symbol": "",
+          "evidence": "'attack nearest enemy',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L6"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 118,
+          "symbol": "",
+          "evidence": "summary: 'A busted cart is blocking the path and the mood.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L118"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 310,
+          "symbol": "",
+          "evidence": "'Start: keep distance and turn confusion into a clean lane.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L310"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 463,
+          "symbol": "",
+          "evidence": ": text.includes('attack') || text.includes('hit') || text.includes('smash')",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L463"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 464,
+          "symbol": "",
+          "evidence": "? 'attack'",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L464"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 777,
+          "symbol": "",
+          "evidence": "if (parsed.intent === 'attack') {",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L777"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 778,
+          "symbol": "",
+          "evidence": "return `You asked for attack pressure, but ${report.goblinName} decided the room itself was the target. The interpretation followed its beliefs and the evidence it noticed first.`;",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L778"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 909,
+          "symbol": "",
+          "evidence": "reason: 'Rain changes the evidence, so the lane matters more than usual.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L909"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 6,
+          "symbol": "",
+          "evidence": "'attack nearest enemy',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L6"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 26,
+          "symbol": "",
+          "evidence": "opportunity: 'The goat trail leads toward a missing feed sack.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L26"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 32,
+          "symbol": "",
+          "evidence": "state.world.villager.complaint += 1;",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L32"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 40,
+          "symbol": "",
+          "evidence": "opportunity: 'The trail runs past the bridge and into the weeds.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L40"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 70,
+          "symbol": "",
+          "evidence": "state.world.barrels.certainty += 1;",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L70"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 78,
+          "symbol": "",
+          "evidence": "opportunity: 'A careful repair might create a faster route.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L78"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 95,
+          "symbol": "",
+          "evidence": "state.world.villager.complaint += 1;",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L95"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 103,
+          "symbol": "",
+          "evidence": "opportunity: 'The crumbs suggest a trail to the culprit.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L103"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 58,
+          "symbol": "",
+          "evidence": "state.world.rock.importance += 1;",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L58"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 343,
+          "symbol": "",
+          "evidence": "rock: { status: 'looks important', importance: 1 },",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L343"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 875,
+          "symbol": "",
+          "evidence": "if (state.world.rock.importance > 0) {",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L875"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 877,
+          "symbol": "",
+          "evidence": "text: 'Inspecting the rock because it looks important.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L877"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 921,
+          "symbol": "",
+          "evidence": "reason: 'A squirrel is not supposed to be important, which makes it suspicious.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L921"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1169,
+          "symbol": "",
+          "evidence": "action.beliefUpdates.push(['goatRisk', 4, 'The bridge and the rock both looked suspiciously important.']);",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1169"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1192,
+          "symbol": "",
+          "evidence": "action.memory = 'Attack means remove the noise source before the noise source becomes doctrine.';",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1192"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1678,
+          "symbol": "",
+          "evidence": "drawNode(nodes.rock, 'Rock', `Status: ${state.world.rock.status}`, '#cec3a3', '#d6b15b', false, 'IMPORTANT');",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1678"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 166,
+          "symbol": "",
+          "evidence": "summary: 'The yard now has to be treated like a hallway with opinions.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L166"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 301,
+          "symbol": "",
+          "evidence": "evidence: 'Someone walked through the mud on purpose.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L301"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 333,
+          "symbol": "",
+          "evidence": "'Start: if it looks like a ritual, it probably becomes one.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L333"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 649,
+          "symbol": "",
+          "evidence": ": 'The wizard remains upright, which counts as success for now.';",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L649"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 679,
+          "symbol": "",
+          "evidence": "? 'What went wrong? The mismatch is now exposed.'",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L679"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 860,
+          "symbol": "",
+          "evidence": "reason: 'Escorts become incidents if nobody stands in the right place.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L860"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 883,
+          "symbol": "",
+          "evidence": "reason: 'Safety feels like a patrol when nobody tells Gribble otherwise.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L883"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 921,
+          "symbol": "",
+          "evidence": "reason: 'A squirrel is not supposed to be important, which makes it suspicious.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L921"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 310,
+          "symbol": "",
+          "evidence": "'Start: keep distance and turn confusion into a clean lane.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L310"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 882,
+          "symbol": "",
+          "evidence": "text: 'Patrolling the wizard without permission slips.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L882"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 909,
+          "symbol": "",
+          "evidence": "reason: 'Rain changes the evidence, so the lane matters more than usual.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L909"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1047,
+          "symbol": "",
+          "evidence": "text: 'Keep a safe lane and watch the footprints.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1047"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1069,
+          "symbol": "",
+          "evidence": "reason: 'Avoidance is a lane, not a feeling.',",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1069"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1213,
+          "symbol": "",
+          "evidence": "action.summary = 'Nix keeps a clean lane and refuses to let the rafters win.';",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1213"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1422,
+          "symbol": "",
+          "evidence": "drawBoard();",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1422"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1612,
+          "symbol": "drawBoard",
+          "evidence": "function drawBoard() {",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1612"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1614,
+          "symbol": "",
+          "evidence": "drawBackdrop();",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1614"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1615,
+          "symbol": "",
+          "evidence": "drawConnectors();",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1615"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1616,
+          "symbol": "",
+          "evidence": "drawEvidenceNodes();",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1616"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1617,
+          "symbol": "",
+          "evidence": "drawGoblinStations();",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1617"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1618,
+          "symbol": "",
+          "evidence": "drawIncidentRibbon();",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1618"
+        },
+        {
+          "origin": "github",
+          "project": "goblin-chess-mvp",
+          "repo": "Valar05/goblin-chess-mvp",
+          "path": "game.js",
+          "line": 1621,
+          "symbol": "drawBackdrop",
+          "evidence": "function drawBackdrop() {",
+          "source_url": "https://github.com/Valar05/goblin-chess-mvp/blob/main/game.js#L1621"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2136 @@
+{
+  "repo": "Valar05/aegis-of-victory",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "aegis-of-victory",
+    "updatedAt": "2026-06-20T22:47:44Z",
+    "url": "https://github.com/Valar05/aegis-of-victory",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "076de5a10db0814ea95e8861f2d2997291c1183b",
+      "size": 2264,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 65,
+      "byte_count": 2264,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L10",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L19",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L22",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L31",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L36",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L37"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "9ba3e27e459741175677f8fd74c7426745828525",
+      "size": 6897,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 133,
+      "byte_count": 6897,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L12",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L21",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L24",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L35",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L36"
+      ]
+    },
+    {
+      "path": "docs/android_html_packaging.md",
+      "mode": "100644",
+      "sha": "2e7b420cc74ede2f71b4d99bd13ab24d806bed7b",
+      "size": 1304,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 1304,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/android_html_packaging.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/android_html_packaging.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/android_html_packaging.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/android_html_packaging.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/android_html_packaging.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/android_html_packaging.md#L10",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/android_html_packaging.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/android_html_packaging.md#L12"
+      ]
+    },
+    {
+      "path": "docs/anthology_corpus_notes.md",
+      "mode": "100644",
+      "sha": "1b446c57cec34c139f85ba499def25962a26ae6a",
+      "size": 1705,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 1705,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L8",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L10",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L12"
+      ]
+    },
+    {
+      "path": "docs/canon_source_map.md",
+      "mode": "100644",
+      "sha": "6521f4ad2844ce7486f630835bbfa15830b75d48",
+      "size": 5464,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 79,
+      "byte_count": 5464,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L12",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L13"
+      ]
+    },
+    {
+      "path": "docs/claude_domain_workflow.md",
+      "mode": "100644",
+      "sha": "068526243085b196f479ed04a41e4d8ff8a4b884",
+      "size": 2561,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 81,
+      "byte_count": 2561,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L13",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L14"
+      ]
+    },
+    {
+      "path": "docs/corpus_driven_room_generation.md",
+      "mode": "100644",
+      "sha": "bd62a2fa4c92ad28dcdffce6c54d0a59781d14ec",
+      "size": 4451,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 68,
+      "byte_count": 4451,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L13",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L15"
+      ]
+    },
+    {
+      "path": "docs/corpus_workflow.md",
+      "mode": "100644",
+      "sha": "76bb975e7683e2e29311e94b0c6554a9220c9ab9",
+      "size": 2436,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 54,
+      "byte_count": 2436,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L10",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L12"
+      ]
+    },
+    {
+      "path": "docs/event_cloud_structure.md",
+      "mode": "100644",
+      "sha": "7fd4942f1ff880a38ab84cd04baef0c1f1baf987",
+      "size": 5655,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 125,
+      "byte_count": 5655,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/event_cloud_structure.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/event_cloud_structure.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/event_cloud_structure.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/event_cloud_structure.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/event_cloud_structure.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/event_cloud_structure.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/event_cloud_structure.md#L13",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/event_cloud_structure.md#L14"
+      ]
+    },
+    {
+      "path": "docs/mythic_source_strategy.md",
+      "mode": "100644",
+      "sha": "de3b044c08ded6cbfe30f48b5202404e7a29e742",
+      "size": 2044,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 47,
+      "byte_count": 2044,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/mythic_source_strategy.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/mythic_source_strategy.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/mythic_source_strategy.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/mythic_source_strategy.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/mythic_source_strategy.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/mythic_source_strategy.md#L10",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/mythic_source_strategy.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/mythic_source_strategy.md#L13"
+      ]
+    },
+    {
+      "path": "docs/source_vibe_guide.md",
+      "mode": "100644",
+      "sha": "77bb39395aac211b4dc147bb64d19851df451761",
+      "size": 7554,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 117,
+      "byte_count": 7554,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L13",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L15"
+      ]
+    },
+    {
+      "path": "tools/local_game_server.py",
+      "mode": "100644",
+      "sha": "4b611b46eb0242c13b14b2b18bcaa53e59ef0b79",
+      "size": 1402,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 46,
+      "byte_count": 1402,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_game_server.py#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_game_server.py#L2",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_game_server.py#L4",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_game_server.py#L6",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_game_server.py#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_game_server.py#L8",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_game_server.py#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_game_server.py#L11"
+      ]
+    },
+    {
+      "path": "tools/local_web_server.py",
+      "mode": "100644",
+      "sha": "e1a51d215e9410193f049b323f6756b3310097a0",
+      "size": 1364,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 46,
+      "byte_count": 1364,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_web_server.py#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_web_server.py#L2",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_web_server.py#L4",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_web_server.py#L6",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_web_server.py#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_web_server.py#L8",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_web_server.py#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/local_web_server.py#L11"
+      ]
+    },
+    {
+      "path": "tools/aegis_domain_agent.py",
+      "mode": "100644",
+      "sha": "d56fd1e1aa90d9b5b859d20b3365e6ebc36a0dc4",
+      "size": 24753,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 581,
+      "byte_count": 24753,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_domain_agent.py#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_domain_agent.py#L2",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_domain_agent.py#L4",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_domain_agent.py#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_domain_agent.py#L6",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_domain_agent.py#L8",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_domain_agent.py#L10",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_domain_agent.py#L11"
+      ]
+    },
+    {
+      "path": "tools/aegis_room_claude_agent.py",
+      "mode": "100644",
+      "sha": "865a7ccc0d362a358053e6c01ec36f8cf90464a8",
+      "size": 8950,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 229,
+      "byte_count": 8950,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_room_claude_agent.py#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_room_claude_agent.py#L2",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_room_claude_agent.py#L4",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_room_claude_agent.py#L6",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_room_claude_agent.py#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_room_claude_agent.py#L8",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_room_claude_agent.py#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_room_claude_agent.py#L10"
+      ]
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "f407df96e20cc9e832f7f27295cacf20fd1eff91",
+      "size": 1698,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 1698,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": ".agent-memory/content_authorship_workflow.md",
+      "mode": "100644",
+      "sha": "efb0187154f981346c2b30be05273994e8ce7e90",
+      "size": 1999,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 50,
+      "byte_count": 1999,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/content_authorship_workflow.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/content_authorship_workflow.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/content_authorship_workflow.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/content_authorship_workflow.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/content_authorship_workflow.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/content_authorship_workflow.md#L10",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/content_authorship_workflow.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/content_authorship_workflow.md#L12"
+      ]
+    },
+    {
+      "path": ".agent-memory/domain_event_contract.md",
+      "mode": "100644",
+      "sha": "fb1bb38d704453ceebc5fbd26eac77b18cccd34d",
+      "size": 4298,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 111,
+      "byte_count": 4298,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/domain_event_contract.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/domain_event_contract.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/domain_event_contract.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/domain_event_contract.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/domain_event_contract.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/domain_event_contract.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/domain_event_contract.md#L12",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/domain_event_contract.md#L13"
+      ]
+    },
+    {
+      "path": ".agent-memory/setting_backbone.md",
+      "mode": "100644",
+      "sha": "0eba346a35710b534325602fdbeb72da87430b9d",
+      "size": 2703,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 52,
+      "byte_count": 2703,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/setting_backbone.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/setting_backbone.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/setting_backbone.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/setting_backbone.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/setting_backbone.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/setting_backbone.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/setting_backbone.md#L12",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/setting_backbone.md#L13"
+      ]
+    },
+    {
+      "path": ".agent-memory/source_packet_workflow.md",
+      "mode": "100644",
+      "sha": "52bd41d122853f0e705d63282c69690351e2155f",
+      "size": 2680,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 69,
+      "byte_count": 2680,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/source_packet_workflow.md#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/source_packet_workflow.md#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/source_packet_workflow.md#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/source_packet_workflow.md#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/source_packet_workflow.md#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/source_packet_workflow.md#L10",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/source_packet_workflow.md#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/source_packet_workflow.md#L12"
+      ]
+    },
+    {
+      "path": "artifacts.json",
+      "mode": "100644",
+      "sha": "03155016284e8672ea714402639daaae31965227",
+      "size": 7114,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 199,
+      "byte_count": 7114,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/artifacts.json#L9",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/artifacts.json#L11",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/artifacts.json#L12",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/artifacts.json#L17",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/artifacts.json#L28",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/artifacts.json#L34",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/artifacts.json#L42",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/artifacts.json#L44"
+      ]
+    },
+    {
+      "path": "domain_event_seeds.json",
+      "mode": "100644",
+      "sha": "cc913ffeb583a9af085178211cb68b4912644276",
+      "size": 56166,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1760,
+      "byte_count": 56166,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_event_seeds.json#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_event_seeds.json#L2",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_event_seeds.json#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_event_seeds.json#L4",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_event_seeds.json#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_event_seeds.json#L6",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_event_seeds.json#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_event_seeds.json#L8"
+      ]
+    },
+    {
+      "path": "domain_progression.json",
+      "mode": "100644",
+      "sha": "53c4ce552f1c2dc3b39a8815ea0d076dad5c0f42",
+      "size": 2624,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 59,
+      "byte_count": 2624,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_progression.json#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_progression.json#L2",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_progression.json#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_progression.json#L4",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_progression.json#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_progression.json#L6",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_progression.json#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domain_progression.json#L8"
+      ]
+    },
+    {
+      "path": "domains.json",
+      "mode": "100644",
+      "sha": "13c3ddd2ce4af00e9a55b0f05d6bf34fc90aabc5",
+      "size": 12678,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 314,
+      "byte_count": 12678,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domains.json#L1",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domains.json#L2",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domains.json#L3",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domains.json#L4",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domains.json#L5",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domains.json#L6",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domains.json#L7",
+        "https://github.com/Valar05/aegis-of-victory/blob/main/domains.json#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 3708,
+    "by_origin": {
+      "github": 3708
+    },
+    "by_project": {
+      "aegis-of-victory": 3708
+    },
+    "by_mechanic": {
+      "ai_pressure": 2957,
+      "event_clouds": 2936,
+      "source_packet_generation": 535,
+      "asset_import_pipeline": 485,
+      "text_console_runtime": 411,
+      "delayed_consequences": 346,
+      "web_choice_player": 243,
+      "pose_animation_tools": 188,
+      "tts_audio_pipeline": 85,
+      "writing_corpus_review": 30,
+      "resource_upgrade_loop": 27,
+      "validation_pipeline": 23,
+      "deck_pressure": 22,
+      "touch_lane_combat": 17,
+      "vehicle_survival": 10
+    },
+    "examples": {
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A local HTML/JS narrative roguelike prototype built around mythic domains, event clouds, interconnected narrative lines, and action/reaction cascades.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- `domains.json`: mythic domain pool.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- `event_lines.json`: event-cloud threads with reactions and cascades.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- `sample_event_cloud_runs.json`: sample run/restart paths.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "- `domain_event_seeds.json`: individually iterable event seed records.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py context",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py validate",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py generate-rooms --domain dionysus_dregs_domain --out generated/rooms/dionysus_room_scaffolds.json",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L61"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A local HTML/JS narrative roguelike prototype built around mythic domains, event clouds, interconnected narrative lines, and action/reaction cascades.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- `domains.json`: mythic domain pool.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "- `domain_event_seeds.json`: individually iterable event seed records.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py context",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py validate",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py generate-rooms --domain dionysus_dregs_domain --out generated/rooms/dionysus_room_scaffolds.json",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py room-packet --rooms generated/rooms/dionysus_room_scaffolds.json --room room_dionysus_culmination_stage_unmasking --out generated/source_packe...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Aegis is now a local HTML/JS narrative roguelike prototype built from mythic domains and event clouds.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L5"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A local HTML/JS narrative roguelike prototype built around mythic domains, event clouds, interconnected narrative lines, and action/reaction cascades.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Aegis is now a local HTML/JS narrative roguelike prototype built from mythic domains and event clouds.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- `run_model.json`: run-level roguelike/event-cloud structure.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- `event_lines.json`: quest-line-like action/reaction/cascade threads.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "Nikia and Theo are taken into Sophion's Ascent because Theo has prophetic vision. Nikia is dismissed into service work, but becomes physically sharper inside Sophion's walls. In...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "Back at Sophion, the Logarenes try to remove Theo's coin to close a Logos Fracture. Nikia interrupts the extraction, Griefshard tears the ritual open, and Nikia and Theo fall th...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "- `.agent-memory/setting_backbone.md`: setting, factions, recurring forces, and run architecture.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 109,
+          "symbol": "",
+          "evidence": "1. Keep Nikia's voice practical, protective, and suspicious of clean philosophical language.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L109"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A local HTML/JS narrative roguelike prototype built around mythic domains, event clouds, interconnected narrative lines, and action/reaction cascades.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Document/review server:",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python tools/local_web_server.py --host 127.0.0.1 --port 3001",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Playable game server:",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "python tools/local_game_server.py --host 127.0.0.1 --port 3002",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "The app is static HTML/CSS/JS under `web/` and reads JSON data from the project root.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "The intended Android path is a native WebView shell or Capacitor-style wrapper that bundles the `web/` app and JSON assets. Prefer Android `WebViewAssetLoader` for bundled local...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Aegis is now a local HTML/JS narrative roguelike prototype built from mythic domains and event clouds.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L5"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- `artifacts.json`: artifact and power hooks.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "- `.agent-memory/domain_event_contract.md`: event cloud quality bar.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "A domain is a pressure arena. It can open with different event lines on different runs. Player actions mutate run memory, unlock or suppress event lines, queue delayed reactions...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 76,
+          "symbol": "",
+          "evidence": "- `thorn_memory_line`: pain becomes memory instead of root.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L76"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "- `.agent-memory/setting_backbone.md`: setting, factions, recurring forces, and run architecture.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 101,
+          "symbol": "",
+          "evidence": "- `.agent-memory/domain_event_contract.md`: quality bar for event clouds and event seeds.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L101"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 102,
+          "symbol": "",
+          "evidence": "- `.agent-memory/content_authorship_workflow.md`: Claude/Codex authorship split.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L102"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 103,
+          "symbol": "",
+          "evidence": "- `.agent-memory/source_packet_workflow.md`: packet-building rules for Claude.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L103"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- `generated/rooms/dionysus_room_scaffolds.json`: generated room scaffolds for document review and Claude handoff.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- `docs/source_vibe_guide.md`: source-grounded vibe guide for generated rooms and packets.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "Claude drafts architecture and event content from narrow source packets. Codex validates, integrates, and keeps local tooling working.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py room-packet --rooms generated/rooms/dionysus_room_scaffolds.json --room room_dionysus_culmination_stage_unmasking --out generated/source_packe...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "Room scaffolds are generated locally from structured seeds. Claude should draft final prose/content from the source packet before promotion.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The source PDF is `Aegis of Victory (1).pdf`. A searchable text extraction lives at `generated/corpus/aegis_of_victory_source.txt`.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- `generated/rooms/dionysus_room_scaffolds.json`: generated room scaffolds for document review and Claude handoff.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- `docs/source_vibe_guide.md`: source-grounded vibe guide for generated rooms and packets.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L44"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- `generated/rooms/dionysus_room_scaffolds.json`: generated room scaffolds for document review and Claude handoff.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- `docs/source_vibe_guide.md`: source-grounded vibe guide for generated rooms and packets.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 58,
+          "symbol": "Room Generation",
+          "evidence": "## Room Generation",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py generate-rooms --domain dionysus_dregs_domain --out generated/rooms/dionysus_room_scaffolds.json",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py room-packet --rooms generated/rooms/dionysus_room_scaffolds.json --room room_dionysus_culmination_stage_unmasking --out generated/source_packe...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "Room scaffolds are generated locally from structured seeds. Claude should draft final prose/content from the source packet before promotion.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- `generated/rooms/dionysus_room_scaffolds.json`: generated room scaffolds for document review and Claude handoff.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- `docs/source_vibe_guide.md`: source-grounded vibe guide for generated rooms and packets.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L44"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- `docs/source_vibe_guide.md`: source-grounded vibe guide for generated rooms and packets.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "Claude drafts architecture and event content from narrow source packets. Codex validates, integrates, and keeps local tooling working.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "The intended Android path is a native WebView shell or Capacitor-style wrapper that bundles the `web/` app and JSON assets. Prefer Android `WebViewAssetLoader` for bundled local...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py room-packet --rooms generated/rooms/dionysus_room_scaffolds.json --room room_dionysus_culmination_stage_unmasking --out generated/source_packe...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "Room scaffolds are generated locally from structured seeds. Claude should draft final prose/content from the source packet before promotion.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The source PDF is `Aegis of Victory (1).pdf`. A searchable text extraction lives at `generated/corpus/aegis_of_victory_source.txt`.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- `docs/source_vibe_guide.md`: source-grounded vibe guide for generated rooms and packets.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "Claude should be used for architecture and event generation the same way the Fleshpunk workflow used it: Codex builds narrow source packets, validates, and integrates; Claude dr...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L81"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "Claude drafts architecture and event content from narrow source packets. Codex validates, integrates, and keeps local tooling working.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py validate",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "Claude should be used for architecture and event generation the same way the Fleshpunk workflow used it: Codex builds narrow source packets, validates, and integrates; Claude dr...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py validate",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/claude_domain_workflow.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Aegis uses Claude for architecture and event content while Codex integrates and validates.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/claude_domain_workflow.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py validate",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/claude_domain_workflow.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "6. Validate locally:",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/claude_domain_workflow.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "python tools/aegis_domain_agent.py validate",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/claude_domain_workflow.md#L46"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "Claude drafts architecture and event content from narrow source packets. Codex validates, integrates, and keeps local tooling working.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "Room scaffolds are generated locally from structured seeds. Claude should draft final prose/content from the source packet before promotion.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "Claude should be used for architecture and event generation the same way the Fleshpunk workflow used it: Codex builds narrow source packets, validates, and integrates; Claude dr...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 115,
+          "symbol": "",
+          "evidence": "7. Event seeds are design units first; draft/revise them individually.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L115"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 133,
+          "symbol": "",
+          "evidence": "Room scaffolds are generated locally from structured seeds. Claude should draft final prose/content from the source packet before promotion.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L133"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/anthology_corpus_notes.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "3. Which god witnessed the original action?",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The document currently covers the prologue, Griefshard binding, Sophion's extraction attempt, the Logos Fracture portal, and a Dionysus/Bacchus realm draft with several `TODO MI...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "- The longer roguelike structure after Dionysus is not yet drafted.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L71"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "Nikia and Theo are taken into Sophion's Ascent because Theo has prophetic vision. Nikia is dismissed into service work, but becomes physically sharper inside Sophion's walls. In...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/anthology_corpus_notes.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "`Greek Anthology epigram mode + shield boss + absent sibling + Ares witness = a boss that blocks one killing blow, but records whether Nikia moved toward Theo or away from him.`",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "4. In the forest, a Poseidon-aligned raider attacks and chains Theo with Griefshard.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "2. Maenads invite them to dance/rest/forget, then attack.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "4. Theo resists a comfort attack by showing truth.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/corpus_workflow.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Riot/ballistic shield tactics: best for cover, lane discipline, threshold movement, visibility cost, and protecting someone behind the shield.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/corpus_workflow.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "For Aegis, buhurt is the most Griefshard-relevant modern discipline because the shield is active: it occupies space, disrupts balance, drives bodies, and participates in the att...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/corpus_workflow.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "= Laurel Sunstring: shows the exact line of an incoming attack, but burns a clearer prophecy into Theo.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L46"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "- `logos_threshold`: prologue/transition cloud around the broken extraction and fracture fall.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L68"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 96,
+          "symbol": "",
+          "evidence": "- `docs/mythic_source_strategy.md`: how to draw on Greek material without copying translation text.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L96"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/anthology_corpus_notes.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- Quest skeletons: impossible task, helper debt, monster threshold, trophy, return cost.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "8. Missing section: likely Theo follows or is drawn to a reflection pool.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/corpus_driven_room_generation.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- Borrow cadence and pressure grammar from `docs/source_vibe_guide.md`.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/corpus_workflow.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Riot/ballistic shield tactics: best for cover, lane discipline, threshold movement, visibility cost, and protecting someone behind the shield.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": ".agent-memory/setting_backbone.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "3. Draw opening event lines from the domain event cloud.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/setting_backbone.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": ".agent-memory/setting_backbone.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "7. If a domain declares a mandatory culmination, route pressure draws that event; otherwise exit when exit pressure is met or severe failure occurs.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/setting_backbone.md#L38"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 105,
+          "symbol": "",
+          "evidence": "- `generated/corpus/`: source manifests, power seeds, artifact generator, and source extraction.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L105"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- Coins: intent/meaning interfaces tied to powers and disciplines. Theo's coin creates/contacts the Logos Fracture. A raider's Poseidon-aligned coin drives water/ice spear work....",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "14. Missing section: likely Bacchus manifestation and escalation.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/corpus_driven_room_generation.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "For required path variants, preserve the required outcome while changing the myth-backed circumstances. In Dionysus, seed acquisition must still produce `blood_sap_seed`; sprout...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/corpus_driven_room_generation.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "Required artifact state changes must happen on the page. For Thorn Rod sprouting, Claude must describe where the seed is, how it cracks or roots, how the shaft and thorns form, ...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_driven_room_generation.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/corpus_workflow.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `generated/corpus/source_manifest.json`: source list with status, URLs, use, and transform focus.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/event_cloud_structure.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "2. Sprout or manifest the Thorn Rod.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/event_cloud_structure.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/source_vibe_guide.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "Important correction: Nikia does not enter with the Thorn Rod. The seed is acquired in-domain. The rod manifests later. The Dionysus encounter is required, but its room circumst...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L92"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 123,
+          "symbol": "",
+          "evidence": "4. Broaden Dionysus pressure beyond surrender: wine, passion, rage, frenzy, insanity, appetite, performance, and riot.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/PROJECT_ORIENTATION.md#L123"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/anthology_corpus_notes.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Berens/Guerber/Bulfinch: broad overview and quick myth routing; cross-check before treating a detail as ancient-source pressure.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/anthology_corpus_notes.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/corpus_workflow.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Riot/ballistic shield tactics: best for cover, lane discipline, threshold movement, visibility cost, and protecting someone behind the shield.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/corpus_workflow.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/source_vibe_guide.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "Theo should not be written as cargo. He is tired, frightened, and vulnerable, but the strongest beats come when he chooses. In the Dionysus domain, his refusal matters because N...",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "tools/aegis_domain_agent.py",
+          "line": 354,
+          "symbol": "",
+          "evidence": "- Do not assume fixed pass/fail planet mission structure.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_domain_agent.py#L354"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "tools/aegis_domain_agent.py",
+          "line": 358,
+          "symbol": "",
+          "evidence": "- Do not write broad mythology exposition instead of concrete pressure/action.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/tools/aegis_domain_agent.py#L358"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": ".agent-memory/source_packet_workflow.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Every Claude architecture/event request must start from a narrow source packet. Do not send broad repo context.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/source_packet_workflow.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": ".agent-memory/source_packet_workflow.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "- No fixed pass/fail planet mission structure unless explicitly requested for one domain mechanic.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/.agent-memory/source_packet_workflow.md#L47"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- Mythic realms: broken divine domains inside or beyond the fracture. Each realm offers a temptation, a pressure, a local artifact, and a way forward.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "9. Reflection pool offers Theo coinless peace; he refuses forgetting.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "13. False banquet offers food, family memory, rest, and relief.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "15. Bacchus fragment offers forgetting to both siblings.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/canon_source_map.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "20. Thales offers to cut away the rod and preserve Nikia's grief as beautiful memory.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/canon_source_map.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/source_vibe_guide.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "2. The domain offers relief, clarity, route, rest, or order.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/source_vibe_guide.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "Avoid starting with myth explanation. Start with something that moves, smells, watches, waits, tightens, sings, or offers a hand.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "aegis-of-victory",
+          "repo": "Valar05/aegis-of-victory",
+          "path": "docs/source_vibe_guide.md",
+          "line": 82,
+          "symbol": "",
+          "evidence": "- 576-646: fall into rotted theater/forest; maenads offer rest and forgetting.",
+          "source_url": "https://github.com/Valar05/aegis-of-victory/blob/main/docs/source_vibe_guide.md#L82"
+        }
+      ]
+    }
+  }
+}

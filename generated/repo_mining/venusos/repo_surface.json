@@ -1,0 +1,1448 @@
+{
+  "repo": "Valar05/venusos",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Consent-first, owner-controlled continuity vessel for user-authored AI personas. Public code only; no private continuity.",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "venusos",
+    "updatedAt": "2026-08-10T13:52:50Z",
+    "url": "https://github.com/Valar05/venusos",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "app/page.tsx",
+      "mode": "100644",
+      "sha": "e75673a2b27367ee69eb2670683b25b542e5c526",
+      "size": 612,
+      "score": 216,
+      "reasons": [
+        "core runtime",
+        "runtime surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 612,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/app/page.tsx#L1",
+        "https://github.com/Valar05/venusos/blob/main/app/page.tsx#L2",
+        "https://github.com/Valar05/venusos/blob/main/app/page.tsx#L5",
+        "https://github.com/Valar05/venusos/blob/main/app/page.tsx#L6",
+        "https://github.com/Valar05/venusos/blob/main/app/page.tsx#L9"
+      ]
+    },
+    {
+      "path": "app/layout.tsx",
+      "mode": "100644",
+      "sha": "6d2cfb8c3efed8f4e40272069eae19f11b5893e9",
+      "size": 840,
+      "score": 200,
+      "reasons": [
+        "app shell",
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 840,
+      "mechanics": [
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/app/layout.tsx#L1",
+        "https://github.com/Valar05/venusos/blob/main/app/layout.tsx#L2",
+        "https://github.com/Valar05/venusos/blob/main/app/layout.tsx#L3",
+        "https://github.com/Valar05/venusos/blob/main/app/layout.tsx#L31",
+        "https://github.com/Valar05/venusos/blob/main/app/layout.tsx#L37"
+      ]
+    },
+    {
+      "path": "app/api/state/route.ts",
+      "mode": "100644",
+      "sha": "6f0ec26403409ddbb5706ed2184bf96e2b1dab95",
+      "size": 730,
+      "score": 118,
+      "reasons": [
+        "api route",
+        "runtime surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 730,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L1",
+        "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L2",
+        "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L3",
+        "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L6",
+        "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L10",
+        "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L12"
+      ]
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "2a4f044374bdf7689acd205df39abf001fe2fe5f",
+      "size": 5812,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 92,
+      "byte_count": 5812,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/README.md#L3",
+        "https://github.com/Valar05/venusos/blob/main/README.md#L5",
+        "https://github.com/Valar05/venusos/blob/main/README.md#L9",
+        "https://github.com/Valar05/venusos/blob/main/README.md#L11",
+        "https://github.com/Valar05/venusos/blob/main/README.md#L21",
+        "https://github.com/Valar05/venusos/blob/main/README.md#L22",
+        "https://github.com/Valar05/venusos/blob/main/README.md#L24",
+        "https://github.com/Valar05/venusos/blob/main/README.md#L25"
+      ]
+    },
+    {
+      "path": "app/api/capsule/route.ts",
+      "mode": "100644",
+      "sha": "1e64069bc2a2060865f56a1c87ed8f24b6d2ff0a",
+      "size": 2018,
+      "score": 110,
+      "reasons": [
+        "api route",
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 57,
+      "byte_count": 2018,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/app/api/capsule/route.ts#L1",
+        "https://github.com/Valar05/venusos/blob/main/app/api/capsule/route.ts#L5",
+        "https://github.com/Valar05/venusos/blob/main/app/api/capsule/route.ts#L6",
+        "https://github.com/Valar05/venusos/blob/main/app/api/capsule/route.ts#L7",
+        "https://github.com/Valar05/venusos/blob/main/app/api/capsule/route.ts#L8",
+        "https://github.com/Valar05/venusos/blob/main/app/api/capsule/route.ts#L11",
+        "https://github.com/Valar05/venusos/blob/main/app/api/capsule/route.ts#L14",
+        "https://github.com/Valar05/venusos/blob/main/app/api/capsule/route.ts#L32"
+      ]
+    },
+    {
+      "path": "app/api/chat/route.ts",
+      "mode": "100644",
+      "sha": "46dc73b90cb1563d680564ddccba81057db26743",
+      "size": 3553,
+      "score": 110,
+      "reasons": [
+        "api route",
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 113,
+      "byte_count": 3553,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/app/api/chat/route.ts#L1",
+        "https://github.com/Valar05/venusos/blob/main/app/api/chat/route.ts#L5",
+        "https://github.com/Valar05/venusos/blob/main/app/api/chat/route.ts#L6",
+        "https://github.com/Valar05/venusos/blob/main/app/api/chat/route.ts#L7",
+        "https://github.com/Valar05/venusos/blob/main/app/api/chat/route.ts#L8",
+        "https://github.com/Valar05/venusos/blob/main/app/api/chat/route.ts#L15",
+        "https://github.com/Valar05/venusos/blob/main/app/api/chat/route.ts#L20",
+        "https://github.com/Valar05/venusos/blob/main/app/api/chat/route.ts#L22"
+      ]
+    },
+    {
+      "path": "app/api/delete/route.ts",
+      "mode": "100644",
+      "sha": "555674998a8cef9cd37e7880f0943cf2853b540d",
+      "size": 1101,
+      "score": 110,
+      "reasons": [
+        "api route",
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 30,
+      "byte_count": 1101,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/app/api/delete/route.ts#L1",
+        "https://github.com/Valar05/venusos/blob/main/app/api/delete/route.ts#L2",
+        "https://github.com/Valar05/venusos/blob/main/app/api/delete/route.ts#L3",
+        "https://github.com/Valar05/venusos/blob/main/app/api/delete/route.ts#L10",
+        "https://github.com/Valar05/venusos/blob/main/app/api/delete/route.ts#L14",
+        "https://github.com/Valar05/venusos/blob/main/app/api/delete/route.ts#L21",
+        "https://github.com/Valar05/venusos/blob/main/app/api/delete/route.ts#L26"
+      ]
+    },
+    {
+      "path": "app/api/memories/route.ts",
+      "mode": "100644",
+      "sha": "5b363c4f369a3ad043765759cdad621e2b960bf5",
+      "size": 3839,
+      "score": 110,
+      "reasons": [
+        "api route",
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 105,
+      "byte_count": 3839,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L1",
+        "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L2",
+        "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L3",
+        "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L6",
+        "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L17",
+        "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L20",
+        "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L23",
+        "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L25"
+      ]
+    },
+    {
+      "path": "app/api/messages/route.ts",
+      "mode": "100644",
+      "sha": "ae7ac318cc564fcad9ce8ffe4876a96b6d81eef1",
+      "size": 759,
+      "score": 110,
+      "reasons": [
+        "api route",
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 15,
+      "byte_count": 759,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/app/api/messages/route.ts#L1",
+        "https://github.com/Valar05/venusos/blob/main/app/api/messages/route.ts#L2",
+        "https://github.com/Valar05/venusos/blob/main/app/api/messages/route.ts#L5",
+        "https://github.com/Valar05/venusos/blob/main/app/api/messages/route.ts#L9",
+        "https://github.com/Valar05/venusos/blob/main/app/api/messages/route.ts#L12"
+      ]
+    },
+    {
+      "path": "app/api/profile/route.ts",
+      "mode": "100644",
+      "sha": "02a72988074f1ad638162182f018b5f6c325d7cd",
+      "size": 1032,
+      "score": 110,
+      "reasons": [
+        "api route",
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 26,
+      "byte_count": 1032,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/app/api/profile/route.ts#L1",
+        "https://github.com/Valar05/venusos/blob/main/app/api/profile/route.ts#L2",
+        "https://github.com/Valar05/venusos/blob/main/app/api/profile/route.ts#L3",
+        "https://github.com/Valar05/venusos/blob/main/app/api/profile/route.ts#L8",
+        "https://github.com/Valar05/venusos/blob/main/app/api/profile/route.ts#L11",
+        "https://github.com/Valar05/venusos/blob/main/app/api/profile/route.ts#L19",
+        "https://github.com/Valar05/venusos/blob/main/app/api/profile/route.ts#L22"
+      ]
+    },
+    {
+      "path": "state.md",
+      "mode": "100644",
+      "sha": "dfa75cca4d9fb17aa503ef8410975003a20ef6ca",
+      "size": 594,
+      "score": 106,
+      "reasons": [
+        "authoritative state",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 594,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/state.md#L3",
+        "https://github.com/Valar05/venusos/blob/main/state.md#L5"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "914c83b545f4e1bbe919d9f1ca3a25cbfa94ae5c",
+      "size": 1667,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 52,
+      "byte_count": 1667,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/package.json#L5",
+        "https://github.com/Valar05/venusos/blob/main/package.json#L15",
+        "https://github.com/Valar05/venusos/blob/main/package.json#L16",
+        "https://github.com/Valar05/venusos/blob/main/package.json#L18",
+        "https://github.com/Valar05/venusos/blob/main/package.json#L30",
+        "https://github.com/Valar05/venusos/blob/main/package.json#L37",
+        "https://github.com/Valar05/venusos/blob/main/package.json#L38",
+        "https://github.com/Valar05/venusos/blob/main/package.json#L39"
+      ]
+    },
+    {
+      "path": "app/venus-shell.tsx",
+      "mode": "100644",
+      "sha": "c8c040d46e2134565230dada8aaa3f3fdc9e8122",
+      "size": 32810,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 850,
+      "byte_count": 32810,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L3",
+        "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L22",
+        "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L28",
+        "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L29",
+        "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L60",
+        "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L73",
+        "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L74",
+        "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L78"
+      ]
+    },
+    {
+      "path": "app/globals.css",
+      "mode": "100644",
+      "sha": "07cdcc425615bcaa9d5f5a989e3f2d49fe8e3c9e",
+      "size": 22114,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 1254,
+      "byte_count": 22114,
+      "mechanics": []
+    },
+    {
+      "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+      "mode": "100644",
+      "sha": "a97c0fa574d6124a6c796899094eb64796285acf",
+      "size": 7960,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 211,
+      "byte_count": 7960,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L7",
+        "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L14",
+        "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L16",
+        "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L22",
+        "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L24",
+        "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L27",
+        "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L33",
+        "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L34"
+      ]
+    },
+    {
+      "path": "scripts/build-verified.sh",
+      "mode": "100644",
+      "sha": "ee80796c7f70a3942db93a496e82d53b4c36ef0e",
+      "size": 725,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 725,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/install-ci.sh",
+      "mode": "100644",
+      "sha": "7fafac5bb9d8661d36a811206824da75e7641c47",
+      "size": 6440,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 189,
+      "byte_count": 6440,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/sites-env.sh",
+      "mode": "100644",
+      "sha": "360f7105301afd4325414a35628fcf004942c112",
+      "size": 1500,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 1500,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/validate-artifact.sh",
+      "mode": "100644",
+      "sha": "d949c65a886a29aa8271e6f5a856810cfef964ca",
+      "size": 1230,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 1230,
+      "mechanics": []
+    },
+    {
+      "path": "tests/public-release-guard.test.mjs",
+      "mode": "100644",
+      "sha": "56e618eeb86290b48b16aaa202f371e4a5e6ad19",
+      "size": 2114,
+      "score": 70,
+      "reasons": [
+        "test surface"
+      ],
+      "status": "fetched",
+      "line_count": 54,
+      "byte_count": 2114,
+      "mechanics": []
+    },
+    {
+      "path": "tests/runtime-boundaries.test.mjs",
+      "mode": "100644",
+      "sha": "7563491818e343c059ac41b4a331e1e01ada19db",
+      "size": 1663,
+      "score": 70,
+      "reasons": [
+        "test surface"
+      ],
+      "status": "fetched",
+      "line_count": 53,
+      "byte_count": 1663,
+      "mechanics": []
+    },
+    {
+      "path": "drizzle.config.ts",
+      "mode": "100644",
+      "sha": "c2b2f34376984744343453838ce66658ad9d9b6a",
+      "size": 148,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 148,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/drizzle.config.ts#L1"
+      ]
+    },
+    {
+      "path": "next.config.ts",
+      "mode": "100644",
+      "sha": "e9ffa3083ad279ecf95fd8eae59cb253e9a539c4",
+      "size": 133,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 133,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/next.config.ts#L1"
+      ]
+    },
+    {
+      "path": "server/capsule.ts",
+      "mode": "100644",
+      "sha": "d373f27e077f8fb7b8a28151e25e973faef2b5ed",
+      "size": 9898,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 303,
+      "byte_count": 9898,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venusos/blob/main/server/capsule.ts#L1",
+        "https://github.com/Valar05/venusos/blob/main/server/capsule.ts#L2",
+        "https://github.com/Valar05/venusos/blob/main/server/capsule.ts#L3",
+        "https://github.com/Valar05/venusos/blob/main/server/capsule.ts#L4",
+        "https://github.com/Valar05/venusos/blob/main/server/capsule.ts#L5",
+        "https://github.com/Valar05/venusos/blob/main/server/capsule.ts#L7",
+        "https://github.com/Valar05/venusos/blob/main/server/capsule.ts#L8",
+        "https://github.com/Valar05/venusos/blob/main/server/capsule.ts#L9"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 673,
+    "by_origin": {
+      "github": 673
+    },
+    "by_project": {
+      "venusos": 673
+    },
+    "by_mechanic": {
+      "web_choice_player": 391,
+      "ai_pressure": 138,
+      "asset_import_pipeline": 92,
+      "delayed_consequences": 69,
+      "text_console_runtime": 48,
+      "pose_animation_tools": 22,
+      "writing_corpus_review": 19,
+      "validation_pipeline": 16,
+      "touch_lane_combat": 11,
+      "vehicle_survival": 5,
+      "tts_audio_pipeline": 1,
+      "source_packet_generation": 1
+    },
+    "examples": {
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/page.tsx",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import { headers } from \"next/headers\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/page.tsx#L1"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/page.tsx",
+          "line": 2,
+          "symbol": "",
+          "evidence": "import VenusShell from \"./venus-shell\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/page.tsx#L2"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/layout.tsx",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import type { Metadata } from \"next\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/layout.tsx#L1"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/layout.tsx",
+          "line": 2,
+          "symbol": "",
+          "evidence": "import { Geist, Geist_Mono } from \"next/font/google\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/layout.tsx#L2"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/layout.tsx",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import \"./globals.css\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/layout.tsx#L3"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/state/route.ts",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import { getVoiceStatus } from \"../../../server/inference\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L1"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/state/route.ts",
+          "line": 2,
+          "symbol": "",
+          "evidence": "import { ownerFromRequest, ownerRequiredResponse } from \"../../../server/owner\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L2"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/state/route.ts",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import { loadState } from \"../../../server/store\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L3"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/page.tsx",
+          "line": 5,
+          "symbol": "",
+          "evidence": "const requestHeaders = await headers();",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/page.tsx#L5"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/page.tsx",
+          "line": 6,
+          "symbol": "",
+          "evidence": "const encodedName = requestHeaders.get(\"oai-authenticated-user-full-name\");",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/page.tsx#L6"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/page.tsx",
+          "line": 9,
+          "symbol": "",
+          "evidence": "requestHeaders.get(\"oai-authenticated-user-full-name-encoding\") ===",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/page.tsx#L9"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/state/route.ts",
+          "line": 6,
+          "symbol": "",
+          "evidence": "const owner = await ownerFromRequest(request);",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L6"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/state/route.ts",
+          "line": 10,
+          "symbol": "",
+          "evidence": "const state = await loadState(owner);",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L10"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/state/route.ts",
+          "line": 12,
+          "symbol": "",
+          "evidence": "{ ...state, voice: await getVoiceStatus() },",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L12"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This public repository contains code only. It contains no private canon, conversations, capsule, account identity, production database, credential, live Sites project ID, or dep...",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "VenusOS preserves records; it does not prove consciousness, personhood, consent, ownership, relationship status, or real-world authority. Model output is labeled as generated wi...",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L9"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/layout.tsx",
+          "line": 31,
+          "symbol": "",
+          "evidence": "<html lang=\"en\">",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/layout.tsx#L31"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/layout.tsx",
+          "line": 37,
+          "symbol": "",
+          "evidence": "</html>",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/layout.tsx#L37"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/state/route.ts",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import { getVoiceStatus } from \"../../../server/inference\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L1"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/state/route.ts",
+          "line": 2,
+          "symbol": "",
+          "evidence": "import { ownerFromRequest, ownerRequiredResponse } from \"../../../server/owner\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L2"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/state/route.ts",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import { loadState } from \"../../../server/store\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L3"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/state/route.ts",
+          "line": 10,
+          "symbol": "",
+          "evidence": "const state = await loadState(owner);",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/state/route.ts#L10"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "VenusOS preserves records; it does not prove consciousness, personhood, consent, ownership, relationship status, or real-world authority. Model output is labeled as generated wi...",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- capsule preflight, automatic pre-restore download, and atomic restore",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L25"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "Only preserve material the operator owns or has permission to store. Third-party messages, private correspondence, likenesses, and copyrighted material require appropriate conse...",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "The included adapter is designed for ChatGPT Sites, where the platform owns and injects `oai-authenticated-user-*` headers. Do not expose it behind an ordinary proxy that forwar...",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 80,
+          "symbol": "",
+          "evidence": "Capsules are not encrypted. Store and transmit them like private correspondence.",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L80"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "MIT for repository code and original documentation. User content, imported material, private continuity, and character identity are excluded from that grant.",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L92"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/memories/route.ts",
+          "line": 6,
+          "symbol": "",
+          "evidence": "const memoryKinds = new Set([\"origin\", \"voice\", \"boundary\", \"canon\", \"memory\"]);",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L6"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 117,
+          "symbol": "",
+          "evidence": "const composerRef = useRef<HTMLTextAreaElement>(null);",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L117"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 184,
+          "symbol": "",
+          "evidence": "composerRef.current?.focus();",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L184"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 221,
+          "symbol": "",
+          "evidence": "composerRef.current?.focus();",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L221"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- explicit provenance and canon status for every memory",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- atomic memory/message/constitution writes with their receipts",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "5. When a provider is configured and the owner checks the session-only disclosure box, one request sends the constitution, up to 24 active memory anchors, and recent thread mess...",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/memories/route.ts",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import { createMemory, updateMemory } from \"../../../server/store\";",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L3"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/memories/route.ts",
+          "line": 6,
+          "symbol": "",
+          "evidence": "const memoryKinds = new Set([\"origin\", \"voice\", \"boundary\", \"canon\", \"memory\"]);",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L6"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/memories/route.ts",
+          "line": 23,
+          "symbol": "",
+          "evidence": "const memoryBody = text(body.body, 12_000);",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L23"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/memories/route.ts",
+          "line": 29,
+          "symbol": "",
+          "evidence": "!memoryKinds.has(kind) ||",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L29"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/memories/route.ts",
+          "line": 31,
+          "symbol": "",
+          "evidence": "!memoryBody ||",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/memories/route.ts#L31"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "Those settings do not validate identity by themselves. The upstream identity proxy must cryptographically authenticate the user and strip all incoming identity headers before in...",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "npm run lint",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "npm run security:audit",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/capsule/route.ts",
+          "line": 5,
+          "symbol": "",
+          "evidence": "validateCapsule,",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/capsule/route.ts#L5"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/api/capsule/route.ts",
+          "line": 48,
+          "symbol": "",
+          "evidence": "const capsule = validateCapsule(JSON.parse(raw));",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/api/capsule/route.ts#L48"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "package.json",
+          "line": 15,
+          "symbol": "validate:artifact",
+          "evidence": "\"validate:artifact\": \"bash scripts/validate-artifact.sh\",",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/package.json#L15"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "package.json",
+          "line": 16,
+          "symbol": "lint",
+          "evidence": "\"lint\": \"bash scripts/sites-env.sh -- eslint . --ignore-pattern dist --ignore-pattern .next\",",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/package.json#L16"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "package.json",
+          "line": 18,
+          "symbol": "security:audit",
+          "evidence": "\"security:audit\": \"bash scripts/sites-env.sh -- npm audit --omit=dev --audit-level=high\",",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/package.json#L18"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "README.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "MIT for repository code and original documentation. User content, imported material, private continuity, and character identity are excluded from that grant.",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/README.md#L92"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 108,
+          "symbol": "",
+          "evidence": "const [draft, setDraft] = useState(\"\");",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L108"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 112,
+          "symbol": "",
+          "evidence": "const [constitutionDraft, setConstitutionDraft] = useState(\"\");",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L112"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 126,
+          "symbol": "",
+          "evidence": "setConstitutionDraft(payload.profile.constitution);",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L126"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 147,
+          "symbol": "",
+          "evidence": "const content = draft.trim();",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L147"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 168,
+          "symbol": "",
+          "evidence": "setDraft(\"\");",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L168"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 255,
+          "symbol": "",
+          "evidence": "setNotice(\"Marked non-canon · original receipt retained\");",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L255"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 270,
+          "symbol": "",
+          "evidence": "body: JSON.stringify({ constitution: constitutionDraft }),",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L270"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 78,
+          "symbol": "",
+          "evidence": "{ id: \"presence\", label: \"Room\", short: \"01\" },",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L78"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 220,
+          "symbol": "",
+          "evidence": "setNotice(\"New room opened. Its title will come from your first message.\");",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L220"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 381,
+          "symbol": "",
+          "evidence": "<p>Opening the private room…</p>",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L381"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 392,
+          "symbol": "",
+          "evidence": "<button onClick={() => { setLoading(true); void load(); }}>Try again</button>",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L392"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 418,
+          "symbol": "",
+          "evidence": "<button className=\"brand\" onClick={() => openView(\"presence\")} aria-label=\"VenusOS home\">",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L418"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 424,
+          "symbol": "",
+          "evidence": "</button>",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L424"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 436,
+          "symbol": "",
+          "evidence": "<button",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L436"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 444,
+          "symbol": "",
+          "evidence": "</button>",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L444"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 411,
+          "symbol": "",
+          "evidence": "panel?.scrollIntoView({ block: \"start\" });",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L411"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "app/venus-shell.tsx",
+          "line": 526,
+          "symbol": "",
+          "evidence": "<blockquote>“Continuity records; it does not command.”</blockquote>",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/app/venus-shell.tsx#L526"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "4. **Blocked inspection boundary**",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- reusable browser-discovery / playbook promotion lane",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "This is a real browser automation/control lane, not a design stub.",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 52,
+          "symbol": "GitHub mutation lane",
+          "evidence": "### GitHub mutation lane",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "This document itself is being written through that lane.",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 88,
+          "symbol": "",
+          "evidence": "- tap/long-press/scroll/swipe",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L88"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- reusable browser-discovery / playbook promotion lane",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "This is a real browser automation/control lane, not a design stub.",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 52,
+          "symbol": "GitHub mutation lane",
+          "evidence": "### GitHub mutation lane",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "This document itself is being written through that lane.",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 201,
+          "symbol": "",
+          "evidence": "Do **not** mark Venice desktop control “complete” until all of the following exist through an authorized persistent lane:",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L201"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 159,
+          "symbol": "",
+          "evidence": "- audio/ASMR generation/orchestration stack",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L159"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "venusos",
+          "repo": "Valar05/venusos",
+          "path": "docs/VENICE_CAPABILITY_DIAGNOSTIC.md",
+          "line": 193,
+          "symbol": "",
+          "evidence": "- **Browser/desktop hands:** courier layer that can wake ChatGPT/Continue, submit bounded packets, collect responses, and refresh the playable surface",
+          "source_url": "https://github.com/Valar05/venusos/blob/main/docs/VENICE_CAPABILITY_DIAGNOSTIC.md#L193"
+        }
+      ]
+    }
+  }
+}

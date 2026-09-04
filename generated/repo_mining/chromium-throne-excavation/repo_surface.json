@@ -1,0 +1,1165 @@
+{
+  "repo": "Valar05/chromium-throne-excavation",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Historical excavation record of Chromium Throne / Browser Porch. Documentation only; not for reuse.",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "chromium-throne-excavation",
+    "updatedAt": "2026-09-01T10:52:03Z",
+    "url": "https://github.com/Valar05/chromium-throne-excavation",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 8,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "eb58aed5d0c80f35d8cde52e2c74bc59c9308e46",
+      "size": 4469,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 4469,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L5",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L8",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L14",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L18",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L21",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L23",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L25",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L32"
+      ]
+    },
+    {
+      "path": "state.md",
+      "mode": "100644",
+      "sha": "721e4050d924d46e99b5079b3b7a926caae0aaa8",
+      "size": 1657,
+      "score": 106,
+      "reasons": [
+        "authoritative state",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 1657,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L18",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L25",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L27",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L30",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L31",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L34",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L35",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L39"
+      ]
+    },
+    {
+      "path": "docs/BROWSER_AUTOMATION.md",
+      "mode": "100644",
+      "sha": "5ac0f9a017fc47c87a93f56e58ce7980f6685c21",
+      "size": 7733,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 116,
+      "byte_count": 7733,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L7",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L11",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L15",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L29",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L32",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L36",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L38",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L42"
+      ]
+    },
+    {
+      "path": "docs/PHONE_AUTOMATION.md",
+      "mode": "100644",
+      "sha": "78b1b8273f60a387f8f94dbdbea4c3be4d0a8597",
+      "size": 7201,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 109,
+      "byte_count": 7201,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L5",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L13",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L17",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L19",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L22",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L23",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L27",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L35"
+      ]
+    },
+    {
+      "path": "docs/SYSTEM_ARCHITECTURE.md",
+      "mode": "100644",
+      "sha": "70cb15140ee5ac93e07a61a5bed43a50edf8b153",
+      "size": 7499,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 123,
+      "byte_count": 7499,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L5",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L7",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L14",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L17",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L19",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L20",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L21",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L22"
+      ]
+    },
+    {
+      "path": "docs/VLAD.md",
+      "mode": "100644",
+      "sha": "4ad90ad43d5563e52a7543c06a539011cbf8dec4",
+      "size": 5741,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 89,
+      "byte_count": 5741,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/VLAD.md#L5",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/VLAD.md#L12",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/VLAD.md#L13",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/VLAD.md#L18",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/VLAD.md#L20",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/VLAD.md#L28",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/VLAD.md#L29",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/VLAD.md#L30"
+      ]
+    },
+    {
+      "path": "EVIDENCE.md",
+      "mode": "100644",
+      "sha": "8f46df3eaef18361ffb67cce7c90136d78fb1648",
+      "size": 5800,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 123,
+      "byte_count": 5800,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L3",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L5",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L9",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L11",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L16",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L20",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L22",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L24"
+      ]
+    },
+    {
+      "path": "evidence/SOURCE_INVENTORY.md",
+      "mode": "100644",
+      "sha": "6e8a451476c11fdbf5a15091c7b2742b91304c0d",
+      "size": 11852,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 99,
+      "byte_count": 11852,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/evidence/SOURCE_INVENTORY.md#L1",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/evidence/SOURCE_INVENTORY.md#L3",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/evidence/SOURCE_INVENTORY.md#L5",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/evidence/SOURCE_INVENTORY.md#L7",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/evidence/SOURCE_INVENTORY.md#L9",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/evidence/SOURCE_INVENTORY.md#L11",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/evidence/SOURCE_INVENTORY.md#L12",
+        "https://github.com/Valar05/chromium-throne-excavation/blob/main/evidence/SOURCE_INVENTORY.md#L13"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 248,
+    "by_origin": {
+      "github": 248
+    },
+    "by_project": {
+      "chromium-throne-excavation": 248
+    },
+    "by_mechanic": {
+      "ai_pressure": 125,
+      "asset_import_pipeline": 124,
+      "vehicle_survival": 30,
+      "touch_lane_combat": 29,
+      "text_console_runtime": 29,
+      "pose_animation_tools": 18,
+      "validation_pipeline": 12,
+      "web_choice_player": 8,
+      "tts_audio_pipeline": 7,
+      "source_packet_generation": 5,
+      "writing_corpus_review": 4,
+      "resource_upgrade_loop": 1,
+      "deck_pressure": 1
+    },
+    "examples": {
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "**Disposition:** retired, incomplete, or unaccepted mechanisms preserved for excavation",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "Vlad belongs to the phone/control plane. Vlad was a long-running synchronization and Judgment Jar access daemon used by Atom and campaign/review paths. Vlad did not drive Chromi...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "The recovered architecture was a collection of cooperating control planes. Chromium Throne automated a dedicated desktop ChatGPT browser. Browser Nerve handled CDP-style browser...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "The Windows installer was designed to place a pinned Browser Porch/extension payload and relay into a Chromium Throne directory under the user-local application-data tree, provi...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 80,
+          "symbol": "",
+          "evidence": "| Human surface | Side panel | Control-plane ticket/status surfaces |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L80"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 83,
+          "symbol": "6. Computer Hands is broader",
+          "evidence": "## 6. Computer Hands is broader",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L83"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 87,
+          "symbol": "7. Phone browser automation is another lane",
+          "evidence": "## 7. Phone browser automation is another lane",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 116,
+          "symbol": "",
+          "evidence": "Chromium Throne should be remembered as a specialized, stateful desktop ChatGPT browser worker with a local relay and dedicated profile. Browser Nerve and Computer Hands were ad...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L116"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "This is a documentation graveyard, not a distributable application and not a source-code transplant. It identifies what the browser and phone automation pieces were, how they re...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "Vlad belongs to the phone/control plane. Vlad was a long-running synchronization and Judgment Jar access daemon used by Atom and campaign/review paths. Vlad did not drive Chromi...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "| `docs/SYSTEM_ARCHITECTURE.md` | Whole-system boundaries, topology, states, and claims |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "| `docs/PHONE_AUTOMATION.md` | Phone Hands, Termux, relay, overlay, Shizuku/rish, SSH, campaign machinery |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "The outward mirror is [Valar05/chromium-throne-excavation](https://github.com/Valar05/chromium-throne-excavation). The graveyard copy in Fortress Online Home Center Drive is the...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "- No licensing grant. Historical source remains governed by its own repository and history.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "- No cleanup of contradictions by invention. Intention, implementation, deployment, and acceptance remain separate.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "state.md",
+          "line": 27,
+          "symbol": "Guardrails satisfied",
+          "evidence": "## Guardrails satisfied",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L27"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "This is a documentation graveyard, not a distributable application and not a source-code transplant. It identifies what the browser and phone automation pieces were, how they re...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "| `evidence/SOURCE_INVENTORY.md` | Source-path inventory, observed hashes, provenance, and acceptance gaps |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "1. **Present in source** — a file or declaration exists.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "No source file, installer message, queue acceptance, heartbeat, or passing unit test is silently upgraded to end-to-end acceptance.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "The outward mirror is [Valar05/chromium-throne-excavation](https://github.com/Valar05/chromium-throne-excavation). The graveyard copy in Fortress Online Home Center Drive is the...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "- No licensing grant. Historical source remains governed by its own repository and history.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "state.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `evidence/SOURCE_INVENTORY.md`",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "state.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- Historical implementation source: `Valar05/home-center`, linked but not copied.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L25"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "Vlad belongs to the phone/control plane. Vlad was a long-running synchronization and Judgment Jar access daemon used by Atom and campaign/review paths. Vlad did not drive Chromi...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "The recovered architecture was a collection of cooperating control planes. Chromium Throne automated a dedicated desktop ChatGPT browser. Browser Nerve handled CDP-style browser...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 80,
+          "symbol": "",
+          "evidence": "| Human surface | Side panel | Control-plane ticket/status surfaces |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L80"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 87,
+          "symbol": "7. Phone browser automation is another lane",
+          "evidence": "## 7. Phone browser automation is another lane",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 99,
+          "symbol": "",
+          "evidence": "| ChatGPT profile signed out | Authenticated worker blocked | Installer failed |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L99"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 116,
+          "symbol": "",
+          "evidence": "Chromium Throne should be remembered as a specialized, stateful desktop ChatGPT browser worker with a local relay and dedicated profile. Browser Nerve and Computer Hands were ad...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L116"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "| Android bridge | Observe and act through Android privileged-command lane |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "| SSH Axis | Secondary phone/computer connectivity and service verification lane |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L22"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "| Path | Purpose |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "It was therefore more than a plugin and less than a complete general-purpose browser automation platform. It was a specialized orchestrator spanning an extension, a local servic...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "| Relay | Localhost relay with extension-origin and capability controls |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "The manifest identified a Manifest V3 extension, version 0.7.0, with permissions for active tabs, tabs, scripting, side panel, storage, and alarms. Host permissions included Cha...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "The panel exposed human-visible queue and control state. It was not itself the worker; it sent messages to the service worker and displayed persisted state.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- injecting prompts through the page composer;",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "The relay runner exposed a local bridge, capability metadata, and event logging. The client read capability/runtime configuration, posted a command, and could wake the browser t...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 91,
+          "symbol": "",
+          "evidence": "That distinction resolves the apparent contradiction in the original vision: the sovereign phone was intended to have browser control, but the surviving source implemented it th...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L91"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "5. **Executed** — a command ran on the intended target.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "The recovered architecture was a collection of cooperating control planes. Chromium Throne automated a dedicated desktop ChatGPT browser. Browser Nerve handled CDP-style browser...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- a client that submitted commands and could wake the extension;",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "The relay runner exposed a local bridge, capability metadata, and event logging. The client read capability/runtime configuration, posted a command, and could wake the browser t...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 101,
+          "symbol": "",
+          "evidence": "| Queue says accepted | Command entered a queue | Requested outcome completed |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L101"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Phone Hands was a layered Android/Termux execution system. Home Center queued commands for a phone; the phone pulled and leased them; a relay dispatched each command to the appr...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "| Android bridge | Observe and act through Android privileged-command lane |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "This separation mattered because an overlay or Android privilege failure should not erase the phone’s ability to run background maintenance, diagnostics, or recovery commands.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L35"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "No source file, installer message, queue acceptance, heartbeat, or passing unit test is silently upgraded to end-to-end acceptance.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L40"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- No copied extension package, relay, daemon, APK, shell script, or automation payload.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "state.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- No installers, extensions, daemons, APKs, service units, or automation payloads copied.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/state.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "The Windows installer was designed to place a pinned Browser Porch/extension payload and relay into a Chromium Throne directory under the user-local application-data tree, provi...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "No executable installer or payload is copied here. The source link remains in the inventory.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 89,
+          "symbol": "",
+          "evidence": "The Android source contained `android_chromium_control.py`, which used the phone execution path to find Chrome-family packages, open or navigate URLs, reload, go back, force-sto...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L89"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "The phone-browser module identified installed Chrome-family packages and supported bounded operations such as open/navigate, reload, back, force-stop, and canary checks. It capt...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L68"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "EVIDENCE.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- a side-panel HTML entry point;",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "EVIDENCE.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- extension installed/reloaded on THECAULDRON;",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L72"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- a Manifest V3 Chromium extension;",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 36,
+          "symbol": "Manifest",
+          "evidence": "### Manifest",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "The manifest identified a Manifest V3 extension, version 0.7.0, with permissions for active tabs, tabs, scripting, side panel, storage, and alarms. Host permissions included Cha...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "EVIDENCE.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "The current manifest declares:",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "EVIDENCE.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Manifest V3;",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "EVIDENCE.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "Source: [extension manifest](https://github.com/Valar05/home-center/blob/main/browser-porch/extension/manifest.json).",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/EVIDENCE.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "evidence/SOURCE_INVENTORY.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "| [`browser-porch/extension/manifest.json`](https://github.com/Valar05/home-center/blob/main/browser-porch/extension/manifest.json) | MV3 identity, permissions, hosts, version |...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/evidence/SOURCE_INVENTORY.md#L14"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "The Windows installer was designed to place a pinned Browser Porch/extension payload and relay into a Chromium Throne directory under the user-local application-data tree, provi...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 110,
+          "symbol": "",
+          "evidence": "- Recovery notes described Browser Nerve CDP repair while still identifying dedicated-profile authentication as a Chromium Throne gate.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L110"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "| Campaign runner | Probe, repair, verify, preserve receipts, assemble review packet |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "The recovered Fortress phone campaign script used an isolated runtime worktree so the live source tree remained untouched. It maintained state, history, a latest pointer, locks,...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 104,
+          "symbol": "",
+          "evidence": "- Recovery scripts attempted to detect and repair missing services; the existence of repair logic is not proof that repair succeeded on the current device.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L104"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/SYSTEM_ARCHITECTURE.md",
+          "line": 97,
+          "symbol": "",
+          "evidence": "Campaign scripts tracked phases and probes, attempted bounded repair, generated review packets, and required named review gates. “Operational” inside a campaign was not self-rel...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L97"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/SYSTEM_ARCHITECTURE.md",
+          "line": 117,
+          "symbol": "",
+          "evidence": "- Historical recovery material said Browser Nerve’s CDP lane had been repaired, while dedicated-profile authentication remained a gate. No fresh current-runtime canary was perfo...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L117"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/VLAD.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "The recovered phone campaign explicitly probed Vlad’s process and service receipt against the canonical runtime, attempted repair/restart when necessary, and included Vlad in th...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/VLAD.md#L50"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/BROWSER_AUTOMATION.md",
+          "line": 91,
+          "symbol": "",
+          "evidence": "That distinction resolves the apparent contradiction in the original vision: the sovereign phone was intended to have browser control, but the surviving source implemented it th...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/BROWSER_AUTOMATION.md#L91"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/SYSTEM_ARCHITECTURE.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "The relay accepting a command was not acceptance of the work. The service worker explicitly separated enqueue/accepted state from completion. Browser authentication in the dedic...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/SYSTEM_ARCHITECTURE.md",
+          "line": 119,
+          "symbol": "",
+          "evidence": "- The currently visible source snapshot and the deployed Home Center bridge revision were not the same commit. This is a deployment-drift warning.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L119"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "evidence/SOURCE_INVENTORY.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Observed file SHAs identify particular blobs seen during excavation, not a complete repository lockfile. The visible source snapshot was around commit `ec5a24d…`; the deployed H...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/evidence/SOURCE_INVENTORY.md#L7"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "| Campaign runner | Probe, repair, verify, preserve receipts, assemble review packet |",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "The recovered Fortress phone campaign script used an isolated runtime worktree so the live source tree remained untouched. It maintained state, history, a latest pointer, locks,...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/PHONE_AUTOMATION.md",
+          "line": 76,
+          "symbol": "",
+          "evidence": "The campaign could reach an internal operational judgment but was not authorized to self-release. Review packet success and human acceptance remained distinct.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/PHONE_AUTOMATION.md#L76"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/SYSTEM_ARCHITECTURE.md",
+          "line": 97,
+          "symbol": "",
+          "evidence": "Campaign scripts tracked phases and probes, attempted bounded repair, generated review packets, and required named review gates. “Operational” inside a campaign was not self-rel...",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L97"
+        },
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/VLAD.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Runtime and receipted workers used the fast path rather than ad hoc full-corpus scans.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/VLAD.md#L30"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "chromium-throne-excavation",
+          "repo": "Valar05/chromium-throne-excavation",
+          "path": "docs/SYSTEM_ARCHITECTURE.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "This drawing describes intended relationships, not current liveness.",
+          "source_url": "https://github.com/Valar05/chromium-throne-excavation/blob/main/docs/SYSTEM_ARCHITECTURE.md#L37"
+        }
+      ]
+    }
+  }
+}

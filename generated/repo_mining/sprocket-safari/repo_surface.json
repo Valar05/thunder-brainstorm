@@ -1,0 +1,263 @@
+{
+  "repo": "Valar05/sprocket-safari",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "A board game of mechanical animals",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "sprocket-safari",
+    "updatedAt": "2024-08-09T21:58:19Z",
+    "url": "https://github.com/Valar05/sprocket-safari",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 3,
+  "selected_files": [
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "148277655d9c99f67cbc79140c7e432812c8c976",
+      "size": 425,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 425,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/sprocket-safari/blob/main/project.godot#L14"
+      ]
+    },
+    {
+      "path": "Camera3D.gd",
+      "mode": "100644",
+      "sha": "d6317d283ae83e1af1e6909a2a6a4019df96e758",
+      "size": 651,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 24,
+      "byte_count": 651,
+      "mechanics": [
+        "pose_animation_tools",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/sprocket-safari/blob/main/Camera3D.gd#L10",
+        "https://github.com/Valar05/sprocket-safari/blob/main/Camera3D.gd#L24"
+      ]
+    },
+    {
+      "path": "World.gd",
+      "mode": "100644",
+      "sha": "0661ff4afcbd8fe46213be9c41a2887bd851f997",
+      "size": 3758,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 135,
+      "byte_count": 3758,
+      "mechanics": [
+        "ai_pressure",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L9",
+        "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L10",
+        "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L11",
+        "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L12",
+        "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L13",
+        "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L14",
+        "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L16",
+        "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L63"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 13,
+    "by_origin": {
+      "github": 13
+    },
+    "by_project": {
+      "sprocket-safari": 13
+    },
+    "by_mechanic": {
+      "ai_pressure": 6,
+      "web_choice_player": 6,
+      "pose_animation_tools": 2,
+      "source_packet_generation": 1
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"res://world.tscn\"",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "var mountain_tile = preload(\"res://Tiles/mountain_tile.tscn\")",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L14"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 16,
+          "symbol": "",
+          "evidence": "enum biome {OCEAN, BEACH, SAVANNAH, JUNGLE, MOUNTAIN, PATH }",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L16"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 63,
+          "symbol": "",
+          "evidence": "return biome.MOUNTAIN",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L63"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 119,
+          "symbol": "",
+          "evidence": "elif value == biome.MOUNTAIN:",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L119"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 120,
+          "symbol": "",
+          "evidence": "tile = mountain_tile.instantiate()",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L120"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "Camera3D.gd",
+          "line": 10,
+          "symbol": "",
+          "evidence": "if Input.is_action_pressed(\"ui_right\"):",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/Camera3D.gd#L10"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "Camera3D.gd",
+          "line": 24,
+          "symbol": "",
+          "evidence": "global_transform.origin += direction * move_speed * delta",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/Camera3D.gd#L24"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "Camera3D.gd",
+          "line": 24,
+          "symbol": "",
+          "evidence": "global_transform.origin += direction * move_speed * delta",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/Camera3D.gd#L24"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 9,
+          "symbol": "",
+          "evidence": "var path_tile = preload(\"res://Tiles/PathTile.tscn\")",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L9"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 10,
+          "symbol": "",
+          "evidence": "var ocean_tile = preload(\"res://Tiles/ocean_tile.tscn\")",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L10"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "var beach_tile = preload(\"res://Tiles/beach_tile.tscn\")",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 12,
+          "symbol": "",
+          "evidence": "var savannah_tile = preload(\"res://Tiles/savannah_tile.tscn\")",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L12"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 13,
+          "symbol": "",
+          "evidence": "var jungle_tile = preload(\"res://Tiles/jungle_tile.tscn\")",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L13"
+        },
+        {
+          "origin": "github",
+          "project": "sprocket-safari",
+          "repo": "Valar05/sprocket-safari",
+          "path": "World.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "var mountain_tile = preload(\"res://Tiles/mountain_tile.tscn\")",
+          "source_url": "https://github.com/Valar05/sprocket-safari/blob/main/World.gd#L14"
+        }
+      ]
+    }
+  }
+}

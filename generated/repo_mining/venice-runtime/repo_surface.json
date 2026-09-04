@@ -1,0 +1,67 @@
+{
+  "repo": "Valar05/venice-runtime",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Authoritative private source owner for Venice Runtime, imported from durable Home Center/Drive source under VBP-00S.",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "venice-runtime",
+    "updatedAt": "2026-08-13T17:57:29Z",
+    "url": "https://github.com/Valar05/venice-runtime",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 1,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "3694e25d5b5b2733588f6e4946a3043ab458ed92",
+      "size": 134,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2,
+      "byte_count": 134,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/venice-runtime/blob/main/README.md#L2"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1,
+    "by_origin": {
+      "github": 1
+    },
+    "by_project": {
+      "venice-runtime": 1
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 1
+    },
+    "examples": {
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "venice-runtime",
+          "repo": "Valar05/venice-runtime",
+          "path": "README.md",
+          "line": 2,
+          "symbol": "",
+          "evidence": "Authoritative private source owner for Venice Runtime, imported from durable Home Center/Drive source under VBP-00S.",
+          "source_url": "https://github.com/Valar05/venice-runtime/blob/main/README.md#L2"
+        }
+      ]
+    }
+  }
+}

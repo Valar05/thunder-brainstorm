@@ -1,0 +1,20 @@
+{
+  "owner": "Valar05",
+  "limit": 1,
+  "repo_count": 1,
+  "selected_file_count": 2,
+  "indexed_records": 27,
+  "mechanic_counts": {
+    "ai_pressure": 19,
+    "asset_import_pipeline": 5,
+    "web_choice_player": 5,
+    "vehicle_survival": 5,
+    "source_packet_generation": 4,
+    "delayed_consequences": 2,
+    "resource_upgrade_loop": 2,
+    "tts_audio_pipeline": 1,
+    "validation_pipeline": 1
+  },
+  "skipped": [],
+  "summary_path": "generated/repo_mining_test2/Valar05_overnight_summary.jsonl"
+}

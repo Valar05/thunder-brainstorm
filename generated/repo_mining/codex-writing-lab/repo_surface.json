@@ -1,0 +1,1066 @@
+{
+  "repo": "Valar05/codex-writing-lab",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "codex-writing-lab",
+    "updatedAt": "2026-06-20T22:47:44Z",
+    "url": "https://github.com/Valar05/codex-writing-lab",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 12,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "666876ea587d0dcf458085faddd43bf356ac743f",
+      "size": 3436,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 140,
+      "byte_count": 3436,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L4",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L12",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L18",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L27",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L28",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L30",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L31",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L32"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "c93ada15567c08719eb6c61e4c3022450ac958a3",
+      "size": 1308,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 42,
+      "byte_count": 1308,
+      "mechanics": [
+        "source_packet_generation",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_ORIENTATION.md#L12",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_ORIENTATION.md#L17",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_ORIENTATION.md#L18",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_ORIENTATION.md#L19",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_ORIENTATION.md#L27",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_ORIENTATION.md#L33"
+      ]
+    },
+    {
+      "path": "tools/start_server_tmux.sh",
+      "mode": "100644",
+      "sha": "5fa4e18f8878eab7a8f14363ee5f6561a696dd46",
+      "size": 381,
+      "score": 76,
+      "reasons": [
+        "helper tooling",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 381,
+      "mechanics": []
+    },
+    {
+      "path": "tools/smoke_mcp_bridge.sh",
+      "mode": "100644",
+      "sha": "e2bb03bb6d8e9538d5034154e3554991a1a39924",
+      "size": 479,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 479,
+      "mechanics": []
+    },
+    {
+      "path": "tools/start_agent_tmux.sh",
+      "mode": "100644",
+      "sha": "8a3218beb60b88c6d4a17e042092321527f2276f",
+      "size": 338,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 9,
+      "byte_count": 338,
+      "mechanics": []
+    },
+    {
+      "path": "tools/tmux_status.sh",
+      "mode": "100644",
+      "sha": "c50ea006a141958cb441f2bd7e007299f54e1412",
+      "size": 297,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 8,
+      "byte_count": 297,
+      "mechanics": []
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "0d860cd9656fe7dd4673bd26af062c614ee1b9f3",
+      "size": 1752,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 1752,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "workspace/agent_context/active.md",
+      "mode": "100644",
+      "sha": "56f5e058d5eadcc55315ff55fc9b3beccf613a9c",
+      "size": 67,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 67,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "workspace/agent_context/project.md",
+      "mode": "100644",
+      "sha": "624f3e95f0b194d21a95c1021ef1ab1d8b0bbde5",
+      "size": 126,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 126,
+      "mechanics": [
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/codex-writing-lab/blob/main/workspace/agent_context/project.md#L1",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/workspace/agent_context/project.md#L3",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/workspace/agent_context/project.md#L4"
+      ]
+    },
+    {
+      "path": "writing_lab_tool_bridge.py",
+      "mode": "100644",
+      "sha": "a5ded65e25822b54df386d3d4937bf81c3bc839d",
+      "size": 2301,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 2301,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tool_bridge.py#L2",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tool_bridge.py#L4",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tool_bridge.py#L5",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tool_bridge.py#L6",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tool_bridge.py#L8",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tool_bridge.py#L10",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tool_bridge.py#L14",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tool_bridge.py#L15"
+      ]
+    },
+    {
+      "path": "writing_lab_tools.py",
+      "mode": "100644",
+      "sha": "f6dce5d35f8cdd70e30b29c14147575ca21001ae",
+      "size": 12090,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 360,
+      "byte_count": 12090,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L1",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L3",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L4",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L5",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L6",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L7",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L24",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L29"
+      ]
+    },
+    {
+      "path": "writing_lab_web.py",
+      "mode": "100644",
+      "sha": "ea66f0380aa9355b0f9872eeb852638d6ff64ef3",
+      "size": 47275,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1106,
+      "byte_count": 47275,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L1",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L2",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L4",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L5",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L6",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L7",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L8",
+        "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L9"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1165,
+    "by_origin": {
+      "github": 1165
+    },
+    "by_project": {
+      "codex-writing-lab": 1165
+    },
+    "by_mechanic": {
+      "web_choice_player": 1065,
+      "asset_import_pipeline": 81,
+      "ai_pressure": 72,
+      "tts_audio_pipeline": 50,
+      "text_console_runtime": 36,
+      "delayed_consequences": 22,
+      "touch_lane_combat": 8,
+      "pose_animation_tools": 7,
+      "validation_pipeline": 4,
+      "event_clouds": 2,
+      "source_packet_generation": 1,
+      "writing_corpus_review": 1
+    },
+    "examples": {
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "Legion workflow shape: document storage, persistent context, saved run history,",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "python writing_lab_web.py --host 127.0.0.1 --port 8811",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "sh tools/start_server_tmux.sh",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Browse saved documents.",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- `workspace/session_runs/`: saved Codex browser runs",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "- `writing_lab_web.py`",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "Server session:",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "sh tools/start_server_tmux.sh",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L69"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- Large browser speech button for prompt capture when speech recognition is",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 137,
+          "symbol": "",
+          "evidence": "- Large talk button for speech input.",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L137"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 126,
+          "symbol": "",
+          "evidence": "for key in (\"text\", \"message\", \"content\", \"summary\", \"output\", \"cmd\", \"command\"):",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L126"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 176,
+          "symbol": "",
+          "evidence": "elif lowered.startswith(\"item.\") and (\"exec\" in item_type.lower() or \"tool\" in item_type.lower() or \"command\" in item_type.lower()):",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L176"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 177,
+          "symbol": "",
+          "evidence": "kind = \"command\"",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L177"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 225,
+          "symbol": "codex_command",
+          "evidence": "def codex_command(output_path: Path, existing_session: str | None) -> list[str]:",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L225"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 383,
+          "symbol": "",
+          "evidence": "codex_command(output_path, run.session_id),",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L383"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 522,
+          "symbol": "",
+          "evidence": "a:focus, button:focus, textarea:focus, select:focus, input:focus {{ outline:3px solid var(--accent-2); outline-offset:2px; }}",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L522"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "available.",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Run Codex against the selected document or excerpt.",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- Mirror daily diagnostics into both `workspace/logs/` and",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "- `workspace/logs/`: primary daily local log file",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "- `workspace/logs_duplicate/`: mirrored copy of the same daily log",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "Status and pane tails:",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 93,
+          "symbol": "",
+          "evidence": "Daily logs are local only and stay inside the project workspace:",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L93"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "Useful entries include server start, run queue/start/complete/failure, Codex",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L100"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Import text by title and pasted content.",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- `workspace/documents/`: imported local text documents",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: codex-writing-lab",
+          "evidence": "# Project Manifest: codex-writing-lab",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/codex-writing-lab`",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/codex-writing-lab`",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Orientation: `PROJECT_ORIENTATION.md`",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L7"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Keep project memory and active context in local files.",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- `workspace/agent_context/`: project memory and active brief",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 111,
+          "symbol": "",
+          "evidence": "- read/write project memory",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L111"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "workspace/agent_context/project.md",
+          "line": 1,
+          "symbol": "Project Memory",
+          "evidence": "# Project Memory",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/workspace/agent_context/project.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_tools.py",
+          "line": 65,
+          "symbol": "",
+          "evidence": "\"name\": \"get_project_memory\",",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L65"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_tools.py",
+          "line": 66,
+          "symbol": "",
+          "evidence": "\"description\": \"Read stable project memory text.\",",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L66"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_tools.py",
+          "line": 70,
+          "symbol": "",
+          "evidence": "\"name\": \"set_project_memory\",",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L70"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_tools.py",
+          "line": 71,
+          "symbol": "",
+          "evidence": "\"description\": \"Replace stable project memory text.\",",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L71"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 107,
+          "symbol": "",
+          "evidence": "The browser app uses the same operations that the stdio bridge exposes:",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L107"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_tools.py",
+          "line": 172,
+          "symbol": "",
+          "evidence": "return text[:limit] + \"\\n\\n[Content clipped by Writing Lab.]\\n\"",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_tools.py#L172"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 58,
+          "symbol": "",
+          "evidence": "return text[:limit] + \"\\n\\n[Content clipped by Writing Lab.]\\n\"",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L58"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 549,
+          "symbol": "",
+          "evidence": ".composer {{ display:grid; gap:14px; }}",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L549"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 835,
+          "symbol": "",
+          "evidence": "<section class=\\\"band composer\\\">",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L835"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 955,
+          "symbol": "",
+          "evidence": "body = \"<section class=\\\"band\\\"><h2>Local Tool Surface</h2><p class=\\\"muted\\\">These app operations are intentionally shaped like future MCP tools.</p><div class=\\\"run-list\\\">\" +...",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L955"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 127,
+          "symbol": "",
+          "evidence": "Smoke test:",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L127"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "README.md",
+          "line": 130,
+          "symbol": "",
+          "evidence": "sh tools/smoke_mcp_bridge.sh",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/README.md#L130"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "sh tools/smoke_mcp_bridge.sh",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "> sh tools/smoke_mcp_bridge.sh",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L23"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "conversations, without requiring the full Legion corpus stack.",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_ORIENTATION.md#L42"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: codex-writing-lab",
+          "evidence": "# Project Manifest: codex-writing-lab",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/codex-writing-lab`",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/codex-writing-lab`",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Orientation: `PROJECT_ORIENTATION.md`",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "> # Codex Writing Lab Orientation",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L10"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/PROJECT_MANIFEST.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 798,
+          "symbol": "",
+          "evidence": "current_block = \"\"",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L798"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 803,
+          "symbol": "",
+          "evidence": "current_block = f\"\"\"",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L803"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 821,
+          "symbol": "",
+          "evidence": "selected_block = \"\"",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L821"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 823,
+          "symbol": "",
+          "evidence": "selected_block = f\"\"\"",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L823"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 882,
+          "symbol": "",
+          "evidence": "{current_block}",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L882"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 883,
+          "symbol": "",
+          "evidence": "{selected_block}",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L883"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 840,
+          "symbol": "",
+          "evidence": "<textarea id=\\\"prompt-input\\\" name=\\\"prompt\\\" placeholder=\\\"Ask Codex to revise, summarize, or draft in a way that reads well aloud.\\\"></textarea>",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L840"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 1000,
+          "symbol": "",
+          "evidence": "event_lines = tools.read_run_artifact(run_id, \"events\")",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L1000"
+        },
+        {
+          "origin": "github",
+          "project": "codex-writing-lab",
+          "repo": "Valar05/codex-writing-lab",
+          "path": "writing_lab_web.py",
+          "line": 1014,
+          "symbol": "",
+          "evidence": "<pre>{esc(event_lines)}</pre>",
+          "source_url": "https://github.com/Valar05/codex-writing-lab/blob/main/writing_lab_web.py#L1014"
+        }
+      ]
+    }
+  }
+}

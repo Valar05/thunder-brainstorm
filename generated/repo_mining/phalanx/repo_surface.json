@@ -1,0 +1,1485 @@
+{
+  "repo": "Valar05/phalanx",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "phalanx",
+    "updatedAt": "2026-06-20T22:48:20Z",
+    "url": "https://github.com/Valar05/phalanx",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 18,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "be4c34fc6401b3def912b69bcf3881a6bc98dd49",
+      "size": 5289,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 57,
+      "byte_count": 5289,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/README.md#L1",
+        "https://github.com/Valar05/phalanx/blob/main/README.md#L5",
+        "https://github.com/Valar05/phalanx/blob/main/README.md#L9",
+        "https://github.com/Valar05/phalanx/blob/main/README.md#L10",
+        "https://github.com/Valar05/phalanx/blob/main/README.md#L11",
+        "https://github.com/Valar05/phalanx/blob/main/README.md#L12",
+        "https://github.com/Valar05/phalanx/blob/main/README.md#L13",
+        "https://github.com/Valar05/phalanx/blob/main/README.md#L14"
+      ]
+    },
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "cd57df4dc41fda9c693a691342244e76c86dfdc2",
+      "size": 589,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 589,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/project.godot#L13",
+        "https://github.com/Valar05/phalanx/blob/main/project.godot#L17",
+        "https://github.com/Valar05/phalanx/blob/main/project.godot#L18",
+        "https://github.com/Valar05/phalanx/blob/main/project.godot#L26",
+        "https://github.com/Valar05/phalanx/blob/main/project.godot#L28"
+      ]
+    },
+    {
+      "path": "docs/PROJECT_HANDOFF.md",
+      "mode": "100644",
+      "sha": "43467a0adae0723cb438f8ce815c80bd1092b086",
+      "size": 11354,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 196,
+      "byte_count": 11354,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L7",
+        "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L9",
+        "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L14",
+        "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L15",
+        "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L16",
+        "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L18",
+        "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L20",
+        "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L24"
+      ]
+    },
+    {
+      "path": "scripts/main.gd",
+      "mode": "100644",
+      "sha": "a9e22308c2c4aa832416cb53a9a0004bf0243082",
+      "size": 77410,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2002,
+      "byte_count": 77410,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L1",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L3",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L4",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L5",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L6",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L7",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L8",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/orbit_viewport_3d.gd",
+      "mode": "100644",
+      "sha": "c9c383dcc1cf3c37177d3cd566f9f9e35aefa4d4",
+      "size": 9117,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 306,
+      "byte_count": 9117,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L1",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L5",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L14",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L57",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L58",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L86",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L87",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L89"
+      ]
+    },
+    {
+      "path": "scripts/stick_rig_2d.gd",
+      "mode": "100644",
+      "sha": "d29497b44da3e1c2b0b842529eb903b8023d1b4f",
+      "size": 20491,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 627,
+      "byte_count": 20491,
+      "mechanics": [
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_2d.gd#L1",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_2d.gd#L2",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_2d.gd#L4",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_2d.gd#L6",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_2d.gd#L7",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_2d.gd#L8",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_2d.gd#L9",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_2d.gd#L10"
+      ]
+    },
+    {
+      "path": "scripts/stick_rig_3d.gd",
+      "mode": "100644",
+      "sha": "f9eb2c07feaa506de7bbf2c29508245f19633bb9",
+      "size": 25133,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 684,
+      "byte_count": 25133,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_3d.gd#L1",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_3d.gd#L2",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_3d.gd#L4",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_3d.gd#L6",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_3d.gd#L7",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_3d.gd#L8",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_3d.gd#L9",
+        "https://github.com/Valar05/phalanx/blob/main/scripts/stick_rig_3d.gd#L10"
+      ]
+    },
+    {
+      "path": "scripts/main.gd.uid",
+      "mode": "100644",
+      "sha": "69b54540ea083630bc453856d108dad87b29105c",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/orbit_viewport_3d.gd.uid",
+      "mode": "100644",
+      "sha": "084baa75215a5e563b66b62c2c984f6c5ce18815",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/stick_rig_2d.gd.uid",
+      "mode": "100644",
+      "sha": "cc57f69117c6d005689915020897a6c2a537f200",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/stick_rig_3d.gd.uid",
+      "mode": "100644",
+      "sha": "321337cdfaed1d4c762ecd935bdeedcae96157cf",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "tools/generate_imported_clips.py",
+      "mode": "100644",
+      "sha": "205c2f9c916b9bbd15a2fc874bd554637d3c1156",
+      "size": 6662,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 156,
+      "byte_count": 6662,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L1",
+        "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L2",
+        "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L4",
+        "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L5",
+        "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L6",
+        "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L7",
+        "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L8",
+        "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L10"
+      ]
+    },
+    {
+      "path": "scenes/main.tscn",
+      "mode": "100644",
+      "sha": "b38d830360e230443976bda00eada736b88769c2",
+      "size": 283,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 283,
+      "mechanics": []
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "b0115db3b2b5e3f9681887e7b08ff32e195a74a8",
+      "size": 1083,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 1083,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/phalanx/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/phalanx/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/phalanx/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/phalanx/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/phalanx/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/phalanx/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/phalanx/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "data/clips/imported/running.json",
+      "mode": "100644",
+      "sha": "6dd951de27f5592c416b05dc4500484a4d04c7b3",
+      "size": 27620,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1112,
+      "byte_count": 27620,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/running.json#L1",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/running.json#L2",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/running.json#L3",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/running.json#L4",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/running.json#L5",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/running.json#L6",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/running.json#L7",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/running.json#L8"
+      ]
+    },
+    {
+      "path": "data/clips/imported/walking.json",
+      "mode": "100644",
+      "sha": "ebf6a9e403fcfea6f527b469efbb4bf13330817e",
+      "size": 38631,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1552,
+      "byte_count": 38631,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/walking.json#L1",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/walking.json#L2",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/walking.json#L3",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/walking.json#L4",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/walking.json#L5",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/walking.json#L6",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/walking.json#L7",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/imported/walking.json#L8"
+      ]
+    },
+    {
+      "path": "data/clips/walk_blockout.json",
+      "mode": "100644",
+      "sha": "e0163ac539f85d53462fa933da8cfc1c7b249e88",
+      "size": 567,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 567,
+      "mechanics": [
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/walk_blockout.json#L1",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/walk_blockout.json#L2",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/walk_blockout.json#L3",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/walk_blockout.json#L4",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/walk_blockout.json#L5",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/walk_blockout.json#L6",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/walk_blockout.json#L7",
+        "https://github.com/Valar05/phalanx/blob/main/data/clips/walk_blockout.json#L8"
+      ]
+    },
+    {
+      "path": "data/skeleton_profiles/ironhelm_biped.json",
+      "mode": "100644",
+      "sha": "329290f84086be95400ed9c336a79be67123a18b",
+      "size": 7000,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 385,
+      "byte_count": 7000,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/phalanx/blob/main/data/skeleton_profiles/ironhelm_biped.json#L1",
+        "https://github.com/Valar05/phalanx/blob/main/data/skeleton_profiles/ironhelm_biped.json#L2",
+        "https://github.com/Valar05/phalanx/blob/main/data/skeleton_profiles/ironhelm_biped.json#L3",
+        "https://github.com/Valar05/phalanx/blob/main/data/skeleton_profiles/ironhelm_biped.json#L4",
+        "https://github.com/Valar05/phalanx/blob/main/data/skeleton_profiles/ironhelm_biped.json#L5",
+        "https://github.com/Valar05/phalanx/blob/main/data/skeleton_profiles/ironhelm_biped.json#L6",
+        "https://github.com/Valar05/phalanx/blob/main/data/skeleton_profiles/ironhelm_biped.json#L7",
+        "https://github.com/Valar05/phalanx/blob/main/data/skeleton_profiles/ironhelm_biped.json#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 6192,
+    "by_origin": {
+      "github": 6192
+    },
+    "by_project": {
+      "phalanx": 6192
+    },
+    "by_mechanic": {
+      "pose_animation_tools": 4917,
+      "tts_audio_pipeline": 2970,
+      "asset_import_pipeline": 2887,
+      "ai_pressure": 1741,
+      "web_choice_player": 59,
+      "touch_lane_combat": 58,
+      "text_console_runtime": 47,
+      "deck_pressure": 40,
+      "source_packet_generation": 36,
+      "writing_corpus_review": 14,
+      "vehicle_survival": 11,
+      "resource_upgrade_loop": 5,
+      "validation_pipeline": 1
+    },
+    "examples": {
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "Phalanx Pose Lab",
+          "evidence": "# Phalanx Pose Lab",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "A Godot 4.5 prototype for authoring reusable 12 fps stepped animation poses against a skeleton profile. The visible authoring rig is now 3D-only.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Loads the Ironhelm Biped skeleton profile generated from the downloaded GLB archive.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Displays a 3D stick rig and always-on-top control overlay whose points are sampled from the loaded model skeleton rest pose, with an optional model preview loaded from the pro...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Uses one-finger drag in the 3D viewport to orbit the camera around the rig center, Blender-style.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Uses two-finger drag in the 3D viewport to pan/zoom the rig view.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- Stores animation as portable pose channels: root, scale, and global humanoid 3D joint offsets.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Defaults to stepped 12 fps pose playback.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L14"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "A Godot 4.5 prototype for authoring reusable 12 fps stepped animation poses against a skeleton profile. The visible authoring rig is now 3D-only.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Double-tap or double-click again on a selected rig element to exit selection mode while keeping the current selection highlighted. Double-tap empty space to clear the selection.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- The control overlay includes hips, chest, head, hand IK, elbow pole, larger foot IK, foot-parented knee pole, heel, and toe handles. These controls are editor geometry, not im...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- Use Mirror to mirror selected left/right controls across the model centerline. If nothing side-specific is selected, Mirror applies to the available pose joints.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "Authored clips are intended to be global: they store edits against shared humanoid joint names such as `left_elbow`, `right_knee`, and `hips`. A skeleton profile maps those name...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "- Replace the current direct segment-to-bone preview retargeter with a fuller IK/constraint pass for cleaner knees, feet, and planted contacts.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "project.godot",
+          "line": 18,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"res://scenes/main.tscn\"",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/project.godot#L18"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "The current test asset is the Meshy/Ironhelm goblin biped in `assets/models/Meshy_AI_Ironhelm_Goblin_biped/` with its profile in `data/skeleton_profiles/ironhelm_biped.json`.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L9"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Loads the Ironhelm Biped skeleton profile generated from the downloaded GLB archive.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Uses one-finger drag in the 3D viewport to orbit the camera around the rig center, Blender-style.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Scans `res://data/clips` and `res://data/clips/imported` for JSON clips.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- Includes generated 12 fps JSON clips from the downloaded GLB walk/run files, sampled from GLB bone rotations into 3D joint positions.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- The control overlay includes hips, chest, head, hand IK, elbow pole, larger foot IK, foot-parented knee pole, heel, and toe handles. These controls are editor geometry, not im...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- Use the clip dropdown in the side panel to load blockout/imported clips.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- Use Model Preview to show/hide the loaded GLB scene behind the editable stick rig.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 45,
+          "symbol": "Model Import",
+          "evidence": "## Model Import",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L45"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Loads the Ironhelm Biped skeleton profile generated from the downloaded GLB archive.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Displays a 3D stick rig and always-on-top control overlay whose points are sampled from the loaded model skeleton rest pose, with an optional model preview loaded from the pro...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- Supports keyframe add, duplicate, delete, mirror, previous/next key, playback, reset pose to the current model rest pose, reset 3D view, new clip creation, clip loading, model...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- Includes generated 12 fps JSON clips from the downloaded GLB walk/run files, sampled from GLB bone rotations into 3D joint positions.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "Saved edits go to:",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- Use the model dropdown to switch skeleton profiles. Current global clips retarget through matching joint names, and the model preview reloads from the selected profile.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- Use the clip dropdown in the side panel to load blockout/imported clips.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- Use Model Preview to show/hide the loaded GLB scene behind the editable stick rig.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L41"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- Supports keyframe add, duplicate, delete, mirror, previous/next key, playback, reset pose to the current model rest pose, reset 3D view, new clip creation, clip loading, model...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Scans `res://data/clips` and `res://data/clips/imported` for JSON clips.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- Includes generated 12 fps JSON clips from the downloaded GLB walk/run files, sampled from GLB bone rotations into 3D joint positions.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- Stores authored edits as global humanoid `joint_offsets_3d` so clips can retarget across skeleton profiles with matching joint names.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "res://data/clips/walk_blockout.local.json",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- Use New Clip to create an empty global retargetable 12 fps clip initialized from the current model rest pose.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- Use the model dropdown to switch skeleton profiles. Current global clips retarget through matching joint names, and the model preview reloads from the selected profile.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- Use the clip dropdown in the side panel to load blockout/imported clips.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L39"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "res://data/clips/walk_blockout.local.json",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- Use the clip dropdown in the side panel to load blockout/imported clips.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "Saved local edits currently go to `data/clips/walk_blockout.local.json` unless the save path logic is changed.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "- Translate: two-finger pan moves the selected control/bone set in the camera plane.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 165,
+          "symbol": "",
+          "evidence": "- `EDIT_TRANSLATION_GAIN := 1.8`: camera-plane edit translation gain.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L165"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "const CLIP_PATH := \"res://data/clips/walk_blockout.json\"",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "const SAVE_PATH := \"res://data/clips/walk_blockout.local.json\"",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L8"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 146,
+          "symbol": "",
+          "evidence": "available_clips.append({\"path\": CLIP_PATH, \"name\": \"Walk Blockout\"})",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L146"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "The profile points at the downloaded walking GLB. The downloaded animation is not autoplayed; the preview is for inspecting the model and rig view first. The Termux headless God...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L47"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "The profile points at the downloaded walking GLB. The downloaded animation is not autoplayed; the preview is for inspecting the model and rig view first. The Termux headless God...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 157,
+          "symbol": "",
+          "evidence": "On this Android/Termux setup, headless Godot may warn about `proot` and may not fully import/show GLB preview resources. The important check is that the scene loads and exits wi...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L157"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 555,
+          "symbol": "",
+          "evidence": "var loaded_resource: Resource = ResourceLoader.load(model_path)",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L555"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 556,
+          "symbol": "",
+          "evidence": "if loaded_resource == null or not loaded_resource is PackedScene:",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L556"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 559,
+          "symbol": "",
+          "evidence": "var packed_scene: PackedScene = loaded_resource",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L559"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "Authored clips are intended to be global: they store edits against shared humanoid joint names such as `left_elbow`, `right_knee`, and `hips`. A skeleton profile maps those name...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "The app stores animation in portable pose data rather than model-specific transforms. Current authored edits use `joint_offsets_3d`, which are offsets from the profile rest join...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 584,
+          "symbol": "",
+          "evidence": "result = _transformed_aabb(mesh_node.get_aabb(), instance_root_relative_transform(mesh_node, node))",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L584"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 598,
+          "symbol": "instance_root_relative_transform",
+          "evidence": "func instance_root_relative_transform(node: Node3D, stop_node: Node) -> Transform3D:",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L598"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 599,
+          "symbol": "",
+          "evidence": "var transform := node.transform",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L599"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 603,
+          "symbol": "",
+          "evidence": "transform = parent.transform * transform",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L603"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 605,
+          "symbol": "",
+          "evidence": "return transform",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L605"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 608,
+          "symbol": "_transformed_aabb",
+          "evidence": "func _transformed_aabb(bounds: AABB, transform: Transform3D) -> AABB:",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L608"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `scripts/stick_rig_3d.gd` draws the editable always-on-top 3D stick rig and control overlay, handles picking, and converts pose dictionaries into joint positions.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "- `display_bones_3d`: ordered parent-child joint pairs used to draw and edit bones",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 89,
+          "symbol": "",
+          "evidence": "- Longwise roll: in rotate mode, two-finger twist with little center movement rolls selected FK bones around their own long axis. The thresholds live in `EDIT_ROLL_DEADZONE` and...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L89"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 173,
+          "symbol": "",
+          "evidence": "- `TAP_MOVE_THRESHOLD`, `DOUBLE_TAP_TIME`, `DOUBLE_TAP_DISTANCE`: selection/tap behavior.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L173"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/orbit_viewport_3d.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "const TAP_MOVE_THRESHOLD := 18.0",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L14"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/orbit_viewport_3d.gd",
+          "line": 89,
+          "symbol": "",
+          "evidence": "if event.position.distance_to(mouse_start_pos) > TAP_MOVE_THRESHOLD:",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L89"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/orbit_viewport_3d.gd",
+          "line": 113,
+          "symbol": "",
+          "evidence": "var was_tap := dragging_mouse and not mouse_moved and event.position.distance_to(mouse_start_pos) <= TAP_MOVE_THRESHOLD",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L113"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/orbit_viewport_3d.gd",
+          "line": 133,
+          "symbol": "",
+          "evidence": "var was_tap := active_touches.size() == 1 and event.index == single_touch_index and not multi_touch_lock and not touch_moved and event.position.distance_to(touch_start_pos) <= T...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/orbit_viewport_3d.gd#L133"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "- Translate: two-finger pan moves the selected control/bone set in the camera plane.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 165,
+          "symbol": "",
+          "evidence": "- `EDIT_TRANSLATION_GAIN := 1.8`: camera-plane edit translation gain.",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L165"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 1254,
+          "symbol": "",
+          "evidence": "var translation := _camera_plane_translation(center_delta, pivot)",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L1254"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 1480,
+          "symbol": "",
+          "evidence": "var translation := _camera_plane_translation(center_delta, pivot) if mode == EDIT_MODE_TRANSLATE else Vector3.ZERO",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L1480"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 1526,
+          "symbol": "",
+          "evidence": "var pole_hint: Vector3 = pole_base + _camera_plane_translation(center_delta, pole_base)",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L1526"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 1608,
+          "symbol": "",
+          "evidence": "var translation := _camera_plane_translation(center_delta, pivot) if edit_mode == EDIT_MODE_TRANSLATE else Vector3.ZERO",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L1608"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 1613,
+          "symbol": "",
+          "evidence": "translation = _camera_plane_translation(center_delta, pivot) if edit_mode == EDIT_MODE_TRANSLATE else Vector3.ZERO",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L1613"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 1623,
+          "symbol": "",
+          "evidence": "translation = _camera_plane_translation(center_delta, pivot) if edit_mode == EDIT_MODE_TRANSLATE else Vector3.ZERO",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L1623"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "docs/PROJECT_HANDOFF.md",
+          "line": 139,
+          "symbol": "",
+          "evidence": "`tools/generate_imported_clips.py` is a custom GLB sampler. It reads GLB JSON/bin chunks directly, samples animation tracks, converts source joint globals into profile-sized edi...",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/docs/PROJECT_HANDOFF.md#L139"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "tools/generate_imported_clips.py",
+          "line": 41,
+          "symbol": "",
+          "evidence": "data=path.read_bytes(); off=12; gltf=None; bin_chunk=b''",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L41"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "tools/generate_imported_clips.py",
+          "line": 43,
+          "symbol": "",
+          "evidence": "length, chunk_type = struct.unpack_from('<II', data, off); off += 8",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L43"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "tools/generate_imported_clips.py",
+          "line": 44,
+          "symbol": "",
+          "evidence": "chunk=data[off:off+length]; off += length",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L44"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "tools/generate_imported_clips.py",
+          "line": 45,
+          "symbol": "",
+          "evidence": "if chunk_type == 0x4E4F534A: gltf=json.loads(chunk.decode())",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L45"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "tools/generate_imported_clips.py",
+          "line": 46,
+          "symbol": "",
+          "evidence": "elif chunk_type == 0x004E4942: bin_chunk=chunk",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L46"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "tools/generate_imported_clips.py",
+          "line": 47,
+          "symbol": "",
+          "evidence": "return gltf, bin_chunk",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L47"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "tools/generate_imported_clips.py",
+          "line": 50,
+          "symbol": "accessor_values",
+          "evidence": "def accessor_values(gltf, bin_chunk, idx):",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/tools/generate_imported_clips.py#L50"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 43,
+          "symbol": "",
+          "evidence": "var profile_option: OptionButton",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L43"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 45,
+          "symbol": "",
+          "evidence": "var model_preview_check: CheckButton",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L45"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 46,
+          "symbol": "",
+          "evidence": "var clip_option: OptionButton",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L46"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 51,
+          "symbol": "",
+          "evidence": "var left_leg_stretch_check: CheckButton",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L51"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 52,
+          "symbol": "",
+          "evidence": "var right_leg_stretch_check: CheckButton",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L52"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 55,
+          "symbol": "",
+          "evidence": "var play_button: Button",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L55"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 105,
+          "symbol": "",
+          "evidence": "for type_name in [\"Button\", \"Label\", \"SpinBox\", \"OptionButton\", \"CheckButton\", \"HSlider\"]:",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L105"
+        },
+        {
+          "origin": "github",
+          "project": "phalanx",
+          "repo": "Valar05/phalanx",
+          "path": "scripts/main.gd",
+          "line": 214,
+          "symbol": "",
+          "evidence": "profile_option = OptionButton.new()",
+          "source_url": "https://github.com/Valar05/phalanx/blob/main/scripts/main.gd#L214"
+        }
+      ]
+    }
+  }
+}

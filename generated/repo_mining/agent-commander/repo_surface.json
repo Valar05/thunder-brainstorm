@@ -1,0 +1,1728 @@
+{
+  "repo": "Valar05/agent-commander",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "agent-commander",
+    "updatedAt": "2026-06-20T22:47:44Z",
+    "url": "https://github.com/Valar05/agent-commander",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "92c9a758ea19bae38e78a468a41d19308dacd9f6",
+      "size": 1135,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 1135,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/README.md#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/README.md#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/README.md#L8",
+        "https://github.com/Valar05/agent-commander/blob/main/README.md#L15",
+        "https://github.com/Valar05/agent-commander/blob/main/README.md#L18",
+        "https://github.com/Valar05/agent-commander/blob/main/README.md#L19",
+        "https://github.com/Valar05/agent-commander/blob/main/README.md#L24",
+        "https://github.com/Valar05/agent-commander/blob/main/README.md#L27"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "1034a48ae6bd5a763501e351212d7ea3192e5fce",
+      "size": 987,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 25,
+      "byte_count": 987,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L8",
+        "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L14",
+        "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L16"
+      ]
+    },
+    {
+      "path": "docs/humor_corpus_manifest.md",
+      "mode": "100644",
+      "sha": "d1476c24c3c7b84601bb5703371c0f95e7bd22d0",
+      "size": 1386,
+      "score": 100,
+      "reasons": [
+        "documentation surface",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 45,
+      "byte_count": 1386,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L9",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L11",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L13",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L14"
+      ]
+    },
+    {
+      "path": "tests/fixtures/agent_scenarios/sandbox_worker_failure.json",
+      "mode": "100644",
+      "sha": "53bb3b943bd8bf6cfdb037e815e3d2ff7e16aa51",
+      "size": 334,
+      "score": 82,
+      "reasons": [
+        "test surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 19,
+      "byte_count": 334,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_failure.json#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_failure.json#L2",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_failure.json#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_failure.json#L4",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_failure.json#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_failure.json#L6",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_failure.json#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_failure.json#L8"
+      ]
+    },
+    {
+      "path": "tests/fixtures/agent_scenarios/sandbox_worker_success.json",
+      "mode": "100644",
+      "sha": "6a69d2c2cc7016ac4b9e4db559651f3bb90d36b5",
+      "size": 611,
+      "score": 82,
+      "reasons": [
+        "test surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 611,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_success.json#L4",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_success.json#L6",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_success.json#L8",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_worker_success.json#L16"
+      ]
+    },
+    {
+      "path": "docs/assumption_challenge_protocol.md",
+      "mode": "100644",
+      "sha": "cfb0c1a7cd389321d576b55b407b96d63b9692e1",
+      "size": 2769,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 126,
+      "byte_count": 2769,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L26",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L27",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L32",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L55",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L63",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L74",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L84"
+      ]
+    },
+    {
+      "path": "docs/command_center_agent_constitution.md",
+      "mode": "100644",
+      "sha": "41ca1bacccb08730858f5768325fcd34a30a8e73",
+      "size": 2778,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 113,
+      "byte_count": 2778,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L8",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L9",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L11",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L13"
+      ]
+    },
+    {
+      "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+      "mode": "100644",
+      "sha": "6aed932c71b4165b292cb3878d64d3d9d4f30168",
+      "size": 4315,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 4315,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L4",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L11",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L12",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L13",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L14",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L19"
+      ]
+    },
+    {
+      "path": "docs/drew_patterns.md",
+      "mode": "100644",
+      "sha": "3687763177e0c1667a7c88a847ae44b3dc9b09df",
+      "size": 2163,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 86,
+      "byte_count": 2163,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L9",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L17",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L18",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L26",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L27",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L28"
+      ]
+    },
+    {
+      "path": "docs/durable_service_handoff_protocol.md",
+      "mode": "100644",
+      "sha": "03777c6d0ced651ac5c1e2a000c37bef0cf30e9f",
+      "size": 1912,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 64,
+      "byte_count": 1912,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L13",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L17",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L19",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L22",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L23"
+      ]
+    },
+    {
+      "path": "docs/knowledge_compaction_protocol.md",
+      "mode": "100644",
+      "sha": "64dc1480d024eca1e6e25e912fab680af18046f4",
+      "size": 3269,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 197,
+      "byte_count": 3269,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/docs/knowledge_compaction_protocol.md#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/knowledge_compaction_protocol.md#L15",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/knowledge_compaction_protocol.md#L17",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/knowledge_compaction_protocol.md#L29",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/knowledge_compaction_protocol.md#L34",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/knowledge_compaction_protocol.md#L38",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/knowledge_compaction_protocol.md#L54",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/knowledge_compaction_protocol.md#L89"
+      ]
+    },
+    {
+      "path": "docs/maintenance_policy.md",
+      "mode": "100644",
+      "sha": "a7acbf890a775b61fe1b5fbd408153824d379936",
+      "size": 1581,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 1581,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/docs/maintenance_policy.md#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/maintenance_policy.md#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/maintenance_policy.md#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/maintenance_policy.md#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/maintenance_policy.md#L8",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/maintenance_policy.md#L9",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/maintenance_policy.md#L10",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/maintenance_policy.md#L12"
+      ]
+    },
+    {
+      "path": "docs/synthesis_engineering.md",
+      "mode": "100644",
+      "sha": "21bb944fc14a474e648d4fa063b0c927b6cbaf27",
+      "size": 4169,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 163,
+      "byte_count": 4169,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/docs/synthesis_engineering.md#L21",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/synthesis_engineering.md#L31",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/synthesis_engineering.md#L37",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/synthesis_engineering.md#L39",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/synthesis_engineering.md#L43",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/synthesis_engineering.md#L60",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/synthesis_engineering.md#L69",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/synthesis_engineering.md#L82"
+      ]
+    },
+    {
+      "path": "docs/user_dossier_drew_clarke.md",
+      "mode": "100644",
+      "sha": "45a298fd717b6c1fec1b14e030008466761bca58",
+      "size": 2217,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 98,
+      "byte_count": 2217,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/docs/user_dossier_drew_clarke.md#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/user_dossier_drew_clarke.md#L58",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/user_dossier_drew_clarke.md#L70",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/user_dossier_drew_clarke.md#L77",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/user_dossier_drew_clarke.md#L95",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/user_dossier_drew_clarke.md#L97",
+        "https://github.com/Valar05/agent-commander/blob/main/docs/user_dossier_drew_clarke.md#L98"
+      ]
+    },
+    {
+      "path": "scripts/server_tmux.sh",
+      "mode": "100644",
+      "sha": "f0094b20c8015bc2d0326a435b6d7c4510cec10c",
+      "size": 4015,
+      "score": 80,
+      "reasons": [
+        "tooling surface",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 196,
+      "byte_count": 4015,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/__init__.py",
+      "mode": "100644",
+      "sha": "2f7df7025c6fb5dde8c2e399226616fba8796925",
+      "size": 42,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 42,
+      "mechanics": [
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/__init__.py#L1"
+      ]
+    },
+    {
+      "path": "scripts/agent_harness.py",
+      "mode": "100644",
+      "sha": "71c89fb1a1eb2d585d443e49b1b0b6f4ddf3f5e4",
+      "size": 15456,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 375,
+      "byte_count": 15456,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L2",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L4",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L8",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L10",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L11",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L12",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L13",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L14"
+      ]
+    },
+    {
+      "path": "scripts/maintenance.py",
+      "mode": "100644",
+      "sha": "b9ef15cafaa21277dd0eecc0904cbd9dc9167d0e",
+      "size": 12995,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 343,
+      "byte_count": 12995,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/maintenance.py#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/maintenance.py#L2",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/maintenance.py#L4",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/maintenance.py#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/maintenance.py#L6",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/maintenance.py#L8",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/maintenance.py#L10",
+        "https://github.com/Valar05/agent-commander/blob/main/scripts/maintenance.py#L11"
+      ]
+    },
+    {
+      "path": "tests/fixtures/agent_scenarios/admin_chat_workspace.json",
+      "mode": "100644",
+      "sha": "bf4013854a7dfa0719d54ef962f993b16421f2b4",
+      "size": 698,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 31,
+      "byte_count": 698,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_chat_workspace.json#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_chat_workspace.json#L13",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_chat_workspace.json#L14",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_chat_workspace.json#L16",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_chat_workspace.json#L24"
+      ]
+    },
+    {
+      "path": "tests/fixtures/agent_scenarios/admin_failed_subprocess.json",
+      "mode": "100644",
+      "sha": "8c3f9441c2e1c53bbc8169b70a450333230d7bf4",
+      "size": 442,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 442,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_failed_subprocess.json#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_failed_subprocess.json#L2",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_failed_subprocess.json#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_failed_subprocess.json#L4",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_failed_subprocess.json#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_failed_subprocess.json#L6",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_failed_subprocess.json#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_failed_subprocess.json#L8"
+      ]
+    },
+    {
+      "path": "tests/fixtures/agent_scenarios/admin_plan_button_json.json",
+      "mode": "100644",
+      "sha": "14313f61c9314f6c6534bf31abbaaa8ddbb523f7",
+      "size": 1657,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 1657,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_plan_button_json.json#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_plan_button_json.json#L2",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_plan_button_json.json#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_plan_button_json.json#L4",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_plan_button_json.json#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_plan_button_json.json#L6",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_plan_button_json.json#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_plan_button_json.json#L8"
+      ]
+    },
+    {
+      "path": "tests/fixtures/agent_scenarios/admin_ps_command.json",
+      "mode": "100644",
+      "sha": "3fd2a0909007f0e552e1a6c0930c65b9884fc84d",
+      "size": 302,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 15,
+      "byte_count": 302,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_ps_command.json#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_ps_command.json#L2",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_ps_command.json#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_ps_command.json#L4",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_ps_command.json#L5",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_ps_command.json#L6",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_ps_command.json#L7",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/admin_ps_command.json#L8"
+      ]
+    },
+    {
+      "path": "tests/fixtures/agent_scenarios/sandbox_unresponsive_detection.json",
+      "mode": "100644",
+      "sha": "4e3ea39ebbefef159941604f4ea60dea2b35de6a",
+      "size": 297,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 15,
+      "byte_count": 297,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_unresponsive_detection.json#L3",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/fixtures/agent_scenarios/sandbox_unresponsive_detection.json#L6"
+      ]
+    },
+    {
+      "path": "tests/test_agent_harness.py",
+      "mode": "100644",
+      "sha": "240b1141e7c5f29822eadf2bc30a41a44adc3c8a",
+      "size": 2227,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 2227,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-commander/blob/main/tests/test_agent_harness.py#L1",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/test_agent_harness.py#L2",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/test_agent_harness.py#L4",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/test_agent_harness.py#L14",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/test_agent_harness.py#L15",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/test_agent_harness.py#L16",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/test_agent_harness.py#L26",
+        "https://github.com/Valar05/agent-commander/blob/main/tests/test_agent_harness.py#L31"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 757,
+    "by_origin": {
+      "github": 757
+    },
+    "by_project": {
+      "agent-commander": 757
+    },
+    "by_mechanic": {
+      "ai_pressure": 484,
+      "text_console_runtime": 206,
+      "asset_import_pipeline": 74,
+      "web_choice_player": 36,
+      "source_packet_generation": 35,
+      "tts_audio_pipeline": 34,
+      "writing_corpus_review": 30,
+      "pose_animation_tools": 25,
+      "validation_pipeline": 17,
+      "touch_lane_combat": 10,
+      "resource_upgrade_loop": 7,
+      "event_clouds": 2,
+      "delayed_consequences": 2,
+      "vehicle_survival": 2,
+      "deck_pressure": 1
+    },
+    "examples": {
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "Agent Commander",
+          "evidence": "# Agent Commander",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Local-first commander console for running write-enabled Codex worker agents from Android/Termux.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "cd /storage/emulated/0/Documents/GodotProjects/agent-commander",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "Useful commands:",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 1,
+          "symbol": "Agent Commander Orientation",
+          "evidence": "# Agent Commander Orientation",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Agent Commander is a FastAPI + SQLite + HTMX app for supervising write-enabled Codex worker runs from Termux.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `agent_commander/app.py` web app",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- `agent_commander/db.py` schema and repository helpers",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L8"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "For a durable phone/browser session, run the UI server in tmux:",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "sh scripts/server_tmux.sh start",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "sh scripts/server_tmux.sh status",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "sh scripts/server_tmux.sh restart",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "sh scripts/server_tmux.sh logs",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "sh scripts/server_tmux.sh stop",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `agent_commander/app.py` web app",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "Run durably for Android Chrome with `sh scripts/server_tmux.sh start`, then open `http://127.0.0.1:8788/admin`.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L14"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 42,
+          "symbol": "Validate",
+          "evidence": "## Validate",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Validate with `sh scripts/test.sh`.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/assumption_challenge_protocol.md",
+          "line": 55,
+          "symbol": "Friction Audit",
+          "evidence": "## Friction Audit",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+          "line": 41,
+          "symbol": "Friction Audit",
+          "evidence": "## Friction Audit",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/drew_patterns.md",
+          "line": 58,
+          "symbol": "Required Audit Shape",
+          "evidence": "## Required Audit Shape",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "scripts/agent_harness.py",
+          "line": 4,
+          "symbol": "",
+          "evidence": "Default modes use fake subprocesses and temp git repos. The real-model smoke is",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L4"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "scripts/agent_harness.py",
+          "line": 324,
+          "symbol": "",
+          "evidence": "if mode == \"smoke-real\":",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L324"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "scripts/agent_harness.py",
+          "line": 325,
+          "symbol": "",
+          "evidence": "return [run_smoke_real(keep_artifacts=keep_artifacts)]",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/scripts/agent_harness.py#L325"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "Maintenance",
+          "evidence": "## Maintenance",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "Use `python3 scripts/maintenance.py --dry-run` to preview local cleanup. See `docs/maintenance_policy.md` for the archive-first policy.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `docs/maintenance_policy.md`: archive-first cleanup policy and commands.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This manifest defines the joke engine for the command center. Humor is allowed, but only when it improves clarity, preserves dignity, and points at a real failure mode.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Public-domain or reference descriptions of the archetype",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- Roast the workflow, the decision, or the failure mode, not the person",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- No jargon where plain English would do",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 43,
+          "symbol": "Fair Use Guardrails",
+          "evidence": "## Fair Use Guardrails",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L43"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `agent_commander/prompting.py` prompt composer",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 3,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "Use the work transformatively. Keep quotations short, selective, and necessary. Do not substitute for the original source material.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/assumption_challenge_protocol.md",
+          "line": 3,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/command_center_agent_constitution.md",
+          "line": 3,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/command_center_agent_constitution.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "What is happening right now?",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- Maintenance as UI: if an operation is routine and user-facing, expose it in Command Center instead of requiring terminal archaeology.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- The test harness originally accepted appended tests after `unittest.main()` without discovering them; test count is part of evidence, not trivia.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L37"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 1,
+          "symbol": "Humor Corpus Manifest",
+          "evidence": "# Humor Corpus Manifest",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 3,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This manifest defines the joke engine for the command center. Humor is allowed, but only when it improves clarity, preserves dignity, and points at a real failure mode.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 7,
+          "symbol": "Archetype",
+          "evidence": "## Archetype",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "The governing frame is the wise fool / court jester / truth teller. The voice gets to mock bad behavior because it is trying to help, not because it is trying to be cute.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 11,
+          "symbol": "Sources",
+          "evidence": "## Sources",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- User-authored transcripts, notes, and retrospectives",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Public-domain or reference descriptions of the archetype",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L14"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 1,
+          "symbol": "Humor Corpus Manifest",
+          "evidence": "# Humor Corpus Manifest",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 3,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This manifest defines the joke engine for the command center. Humor is allowed, but only when it improves clarity, preserves dignity, and points at a real failure mode.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 7,
+          "symbol": "Archetype",
+          "evidence": "## Archetype",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "The governing frame is the wise fool / court jester / truth teller. The voice gets to mock bad behavior because it is trying to help, not because it is trying to be cute.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 11,
+          "symbol": "Sources",
+          "evidence": "## Sources",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- User-authored transcripts, notes, and retrospectives",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Public-domain or reference descriptions of the archetype",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L14"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 1,
+          "symbol": "Humor Corpus Manifest",
+          "evidence": "# Humor Corpus Manifest",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 3,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This manifest defines the joke engine for the command center. Humor is allowed, but only when it improves clarity, preserves dignity, and points at a real failure mode.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 7,
+          "symbol": "Archetype",
+          "evidence": "## Archetype",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "The governing frame is the wise fool / court jester / truth teller. The voice gets to mock bad behavior because it is trying to help, not because it is trying to be cute.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 11,
+          "symbol": "Sources",
+          "evidence": "## Sources",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- User-authored transcripts, notes, and retrospectives",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Public-domain or reference descriptions of the archetype",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L14"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Public-domain or reference descriptions of the archetype",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/synthesis_engineering.md",
+          "line": 88,
+          "symbol": "",
+          "evidence": "- Similar structures across unrelated domains.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/synthesis_engineering.md#L88"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/humor_corpus_manifest.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "Use the work transformatively. Keep quotations short, selective, and necessary. Do not substitute for the original source material.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/humor_corpus_manifest.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/command_center_agent_constitution.md",
+          "line": 97,
+          "symbol": "Status Reporting Style",
+          "evidence": "## Status Reporting Style",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L97"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/command_center_agent_constitution.md",
+          "line": 103,
+          "symbol": "",
+          "evidence": "Report what failed, why it failed, what was learned, and what should happen next.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L103"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Agent Commander web work is incomplete unless the durable `agent-commander-ui` tmux service is running or the blocker is explicitly reported.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Acceptance Over Activity: report satisfied criteria and validation evidence, not effort.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Runtime junk is moved to `archive/maintenance/<timestamp>/` with `manifest.json` and `report.md`, not deleted.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- After applying cleanup, a post-clean dry-run reported zero stale jobs, zero eligible alerts, and zero archive candidates.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- The test harness originally accepted appended tests after `unittest.main()` without discovering them; test count is part of evidence, not trivia.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L37"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/assumption_challenge_protocol.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Bad: The user requested a dashboard.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/assumption_challenge_protocol.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "- What if this was not a dashboard?",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L92"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/command_center_agent_constitution.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "Surface blockers immediately.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/command_center_agent_constitution.md",
+          "line": 93,
+          "symbol": "",
+          "evidence": "PLANNING -> READY -> RUNNING -> BLOCKED -> COMPLETE -> RETROSPECTIVE",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/command_center_agent_constitution.md#L93"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Agent Commander web work is incomplete unless the durable `agent-commander-ui` tmux service is running or the blocker is explicitly reported.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/durable_service_handoff_protocol.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Status: running, stopped, blocked, or not applicable",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/durable_service_handoff_protocol.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- Blocker if not running",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/durable_service_handoff_protocol.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- If tmux is missing, report the exact blocker and the manual foreground command.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/durable_service_handoff_protocol.md#L41"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/assumption_challenge_protocol.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- Can it be delayed?",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/knowledge_compaction_protocol.md",
+          "line": 194,
+          "symbol": "",
+          "evidence": "Compaction is not memory.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/knowledge_compaction_protocol.md#L194"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/assumption_challenge_protocol.md",
+          "line": 99,
+          "symbol": "",
+          "evidence": "- What if this disappeared entirely?",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L99"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/user_dossier_drew_clarke.md",
+          "line": 77,
+          "symbol": "",
+          "evidence": "- \"You magnificent idiot, you've reinvented an entire category again.\"",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/user_dossier_drew_clarke.md#L77"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/assumption_challenge_protocol.md",
+          "line": 106,
+          "symbol": "",
+          "evidence": "Determine what problem the implementation is attempting to solve.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/assumption_challenge_protocol.md#L106"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/deep_ocean_2026-06-20_operation_mr_clean.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- Mine The Gold: convert repeated failure modes into durable docs, tests, or command surfaces.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/deep_ocean_2026-06-20_operation_mr_clean.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/drew_patterns.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- The agent says it worked on something, but the boss still has to determine whether the thing is done.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/drew_patterns.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "- Offer useful defaults.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/drew_patterns.md",
+          "line": 46,
+          "symbol": "4. Mine The Gold",
+          "evidence": "## 4. Mine The Gold",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/drew_patterns.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "Mine The Gold:",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/drew_patterns.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "scripts/maintenance.py",
+          "line": 279,
+          "symbol": "",
+          "evidence": "\"## Mine The Gold\",",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/scripts/maintenance.py#L279"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "agent-commander",
+          "repo": "Valar05/agent-commander",
+          "path": "docs/maintenance_policy.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Mark stale `queued` or `running` admin jobs as `cancelled` when they are older than the stale threshold.",
+          "source_url": "https://github.com/Valar05/agent-commander/blob/main/docs/maintenance_policy.md#L16"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,819 @@
+{
+  "repo": "Valar05/continuity-engine",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "continuity-engine",
+    "updatedAt": "2026-06-22T19:04:42Z",
+    "url": "https://github.com/Valar05/continuity-engine",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 11,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "971f7f94768a875ac57820fdacc09e23ccebe619",
+      "size": 1621,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 59,
+      "byte_count": 1621,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/README.md#L3",
+        "https://github.com/Valar05/continuity-engine/blob/main/README.md#L5",
+        "https://github.com/Valar05/continuity-engine/blob/main/README.md#L7",
+        "https://github.com/Valar05/continuity-engine/blob/main/README.md#L16",
+        "https://github.com/Valar05/continuity-engine/blob/main/README.md#L28",
+        "https://github.com/Valar05/continuity-engine/blob/main/README.md#L30",
+        "https://github.com/Valar05/continuity-engine/blob/main/README.md#L34",
+        "https://github.com/Valar05/continuity-engine/blob/main/README.md#L48"
+      ]
+    },
+    {
+      "path": "agents/prospector.md",
+      "mode": "100644",
+      "sha": "62eb86931d8e5498e7d8b0aa97d4bdfc3b3efe31",
+      "size": 630,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 40,
+      "byte_count": 630,
+      "mechanics": [
+        "asset_import_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/prospector.md#L15",
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/prospector.md#L25",
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/prospector.md#L29"
+      ]
+    },
+    {
+      "path": "agents/quartermaster.md",
+      "mode": "100644",
+      "sha": "1a6090b7ce7ccf1feb6df583c7642052999ea750",
+      "size": 766,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 766,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "source_packet_generation",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L5",
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L16",
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L17",
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L18",
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L24",
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L25",
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L26",
+        "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L29"
+      ]
+    },
+    {
+      "path": "doctrine/artificial-continuity.md",
+      "mode": "100644",
+      "sha": "401eac137b33dac6fb610da29740b10350a37de1",
+      "size": 800,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 800,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/artificial-continuity.md#L9",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/artificial-continuity.md#L11",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/artificial-continuity.md#L22",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/artificial-continuity.md#L24",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/artificial-continuity.md#L27",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/artificial-continuity.md#L37"
+      ]
+    },
+    {
+      "path": "doctrine/command-center-bro-rules.md",
+      "mode": "100644",
+      "sha": "82b05732fe23084cdcc9e7f76bf5072953f93c09",
+      "size": 1178,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 42,
+      "byte_count": 1178,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L1",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L3",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L5",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L7",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L9",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L11",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L13",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L15"
+      ]
+    },
+    {
+      "path": "doctrine/crucible-protocol.md",
+      "mode": "100644",
+      "sha": "6e465446a5aeb4bb3e72850aa9f13c8840aa7361",
+      "size": 2516,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 136,
+      "byte_count": 2516,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L7",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L9",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L11",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L18",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L60",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L71",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L77",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L91"
+      ]
+    },
+    {
+      "path": "doctrine/sidious-release-protocol.md",
+      "mode": "100644",
+      "sha": "7da4737a5260991001022463f9ff578c3f44f693",
+      "size": 945,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 47,
+      "byte_count": 945,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/sidious-release-protocol.md#L7",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/sidious-release-protocol.md#L15",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/sidious-release-protocol.md#L27",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/sidious-release-protocol.md#L42",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/sidious-release-protocol.md#L43",
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/sidious-release-protocol.md#L47"
+      ]
+    },
+    {
+      "path": "doctrine/taste-synthesis.md",
+      "mode": "100644",
+      "sha": "7806d2f730fa5cda7f72dfd64c39c74ce070a751",
+      "size": 1406,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 65,
+      "byte_count": 1406,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/doctrine/taste-synthesis.md#L19"
+      ]
+    },
+    {
+      "path": "index/doctrine-registry.md",
+      "mode": "100644",
+      "sha": "574953d3fc4f8a2245f17b893553040b7d56d687",
+      "size": 1052,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 20,
+      "byte_count": 1052,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/index/doctrine-registry.md#L7",
+        "https://github.com/Valar05/continuity-engine/blob/main/index/doctrine-registry.md#L20"
+      ]
+    },
+    {
+      "path": "index/promotion-log.md",
+      "mode": "100644",
+      "sha": "a37afe7d48fe8fab87e7c7b0e1b39a61329f1c1e",
+      "size": 458,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 458,
+      "mechanics": [
+        "ai_pressure",
+        "event_clouds",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/index/promotion-log.md#L11",
+        "https://github.com/Valar05/continuity-engine/blob/main/index/promotion-log.md#L17"
+      ]
+    },
+    {
+      "path": "templates/doctrine-template.md",
+      "mode": "100644",
+      "sha": "d9028e5fc456589c948aa7278d2177b7fc49656d",
+      "size": 431,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 431,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/continuity-engine/blob/main/templates/doctrine-template.md#L9",
+        "https://github.com/Valar05/continuity-engine/blob/main/templates/doctrine-template.md#L29"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 78,
+    "by_origin": {
+      "github": 78
+    },
+    "by_project": {
+      "continuity-engine": 78
+    },
+    "by_mechanic": {
+      "text_console_runtime": 35,
+      "ai_pressure": 16,
+      "asset_import_pipeline": 13,
+      "pose_animation_tools": 9,
+      "writing_corpus_review": 5,
+      "source_packet_generation": 3,
+      "web_choice_player": 2,
+      "touch_lane_combat": 2,
+      "delayed_consequences": 1,
+      "resource_upgrade_loop": 1,
+      "event_clouds": 1
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A public/private-capable judgment source for AI-assisted continuity.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- Humans choose goals; systems handle maintenance.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/quartermaster.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- Maintain indexes and registries.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/quartermaster.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "Storage is maintenance for future judgment.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/artificial-continuity.md",
+          "line": 37,
+          "symbol": "Failure Mode",
+          "evidence": "## Failure Mode",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/artificial-continuity.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- Exhaust available tools and connected services before asking the user to act.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- Verify with available sources before speculating.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "The assistant should preserve human decision energy by handling maintenance, verification, search, indexing, and execution whenever safely possible.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L42"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A public/private-capable judgment source for AI-assisted continuity.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Discoveries become assets.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/prospector.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- Capture source and context.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/prospector.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/prospector.md",
+          "line": 25,
+          "symbol": "Source / Context",
+          "evidence": "## Source / Context",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/prospector.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/quartermaster.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Quartermaster turns promoted discoveries into durable, findable assets.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/quartermaster.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- Cross-link related assets.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/quartermaster.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- Verify that saved assets exist.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/quartermaster.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "3. Create or update the smallest useful asset.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L25"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The purpose of this repo is not to store everything.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The purpose is to preserve reusable judgment so future agents and humans do not have to rediscover the same rules.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/artificial-continuity.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "The purpose of storage is not remembering the past.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/artificial-continuity.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/artificial-continuity.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "The purpose of storage is reducing the cost of becoming wise in the future.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/artificial-continuity.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 7,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/crucible-protocol.md",
+          "line": 7,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/crucible-protocol.md",
+          "line": 91,
+          "symbol": "",
+          "evidence": "Does it apply outside the original context?",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L91"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/sidious-release-protocol.md",
+          "line": 7,
+          "symbol": "Trigger Phrase",
+          "evidence": "## Trigger Phrase",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/sidious-release-protocol.md#L7"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "Chat -> Discovery -> Prospector -> Ore -> Crucible -> Gold -> Corpus -> Doctrine -> Automation -> Action",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/quartermaster.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "2. Search existing corpus before creating duplicates.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/crucible-protocol.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Chat -> Discovery -> Prospector -> Ore -> Crucible -> Gold -> Corpus -> Doctrine -> Automation -> Action",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L18"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- Save -> Read -> Verify.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/quartermaster.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- Verify that saved assets exist.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L18"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "- Command Center Bro Rules",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 1,
+          "symbol": "Command Center Bro Rules",
+          "evidence": "# Command Center Bro Rules",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 3,
+          "symbol": "Status",
+          "evidence": "## Status",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Gold.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 7,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Preserve attention and prevent the assistant from dumping avoidable work back onto the user.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 11,
+          "symbol": "Core Contract",
+          "evidence": "## Core Contract",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/command-center-bro-rules.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "Never tell the user to do something the system can do itself.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/command-center-bro-rules.md#L13"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/prospector.md",
+          "line": 29,
+          "symbol": "Repetition Evidence",
+          "evidence": "## Repetition Evidence",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/prospector.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/quartermaster.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "7. Report status, next action, and acceptance criteria.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/crucible-protocol.md",
+          "line": 77,
+          "symbol": "Repetition Test",
+          "evidence": "### Repetition Test",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L77"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/crucible-protocol.md",
+          "line": 91,
+          "symbol": "",
+          "evidence": "Does it apply outside the original context?",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L91"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/sidious-release-protocol.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- User-facing blockers are removed or clearly reported.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/sidious-release-protocol.md#L42"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "agents/quartermaster.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "Storage is not memory.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/agents/quartermaster.md#L33"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/crucible-protocol.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Crucible Protocol determines what is ore, what is dross, and what is gold.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/crucible-protocol.md#L9"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/sidious-release-protocol.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "Do not hand back broken builds, inaccessible apps, or preventable blockers.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/sidious-release-protocol.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "doctrine/sidious-release-protocol.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- User-facing blockers are removed or clearly reported.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/doctrine/sidious-release-protocol.md#L42"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "continuity-engine",
+          "repo": "Valar05/continuity-engine",
+          "path": "index/promotion-log.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "These doctrines have repeated cross-domain utility and define how future discoveries become reusable judgment.",
+          "source_url": "https://github.com/Valar05/continuity-engine/blob/main/index/promotion-log.md#L17"
+        }
+      ]
+    }
+  }
+}

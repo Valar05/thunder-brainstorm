@@ -1,0 +1,949 @@
+{
+  "repo": "Valar05/arcanachoir",
+  "branch": "master",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "arcanachoir",
+    "updatedAt": "2026-08-10T13:39:53Z",
+    "url": "https://github.com/Valar05/arcanachoir",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "caa63da54fe35457b1aa63676a057164c0b2fabd",
+      "size": 777,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 777,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L14",
+        "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L18",
+        "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L20",
+        "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L31",
+        "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L33",
+        "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L34"
+      ]
+    },
+    {
+      "path": "scripts/SpriteShader.gdshader",
+      "mode": "100644",
+      "sha": "d688c783e66aaf861a0f2bce68e4d8626d8b5807",
+      "size": 7185,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 170,
+      "byte_count": 7185,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/SpriteShader.gdshader.uid",
+      "mode": "100644",
+      "sha": "7ed997c47d61b34efbe16c1809658623504dc494",
+      "size": 20,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/NoteShader.gdshader",
+      "mode": "100644",
+      "sha": "cc6addb9c802432e56076dea3e097b11525aa996",
+      "size": 382,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 382,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/NoteShader.gdshader.uid",
+      "mode": "100644",
+      "sha": "53fde306cd27c7efdb9901a03c9bb8cd8abc6b95",
+      "size": 19,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/NoteShaderMat.tres",
+      "mode": "100644",
+      "sha": "6626ae6e6dd80179eaeebedbe60414f92e308bab",
+      "size": 288,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 288,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/ScreenDistort.gdshader",
+      "mode": "100644",
+      "sha": "506aace02f4ae44293885f76243f665036e4023b",
+      "size": 2572,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 76,
+      "byte_count": 2572,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/ScreenDistort.gdshader.uid",
+      "mode": "100644",
+      "sha": "e9cedc91b57ccfab711279db18f3ba3e29d724a9",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/archanochoir_portal.gdshader",
+      "mode": "100644",
+      "sha": "7ddae74083ece6697b511596f03acf31bd7560ac",
+      "size": 1132,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 1132,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/archanochoir_portal.gdshader.uid",
+      "mode": "100644",
+      "sha": "10466f9f490c37c709869f0f7d407d339f7c53f4",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/visual_filter.gdshader",
+      "mode": "100644",
+      "sha": "95a5e5f9d641fabf2e60a8227de280c8671c4383",
+      "size": 1182,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 1182,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/visual_filter.gdshader.uid",
+      "mode": "100644",
+      "sha": "c521a3330bf0b65c2c0bb3e71e72bd09d6ec6b32",
+      "size": 19,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/accessibility_tooltip_service.gd",
+      "mode": "100644",
+      "sha": "6030cac0526e7c3753c01a59c9fc0bc2c18d8528",
+      "size": 14000,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 412,
+      "byte_count": 14000,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L7",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L22",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L30",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L32",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L33",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L38",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L63",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L65"
+      ]
+    },
+    {
+      "path": "scripts/game_globals.gd",
+      "mode": "100644",
+      "sha": "60d27cc5f35da610a2abe07b92404824758ff3a6",
+      "size": 83,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 83,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "scripts/note_profiles/aria_note_profile.gd",
+      "mode": "100644",
+      "sha": "ff516f6225e8861f89f318334cc172a1aac67d26",
+      "size": 2241,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 2241,
+      "mechanics": [
+        "ai_pressure",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/aria_note_profile.gd#L7",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/aria_note_profile.gd#L10",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/aria_note_profile.gd#L11",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/aria_note_profile.gd#L12",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/aria_note_profile.gd#L16",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/aria_note_profile.gd#L17",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/aria_note_profile.gd#L22",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/aria_note_profile.gd#L31"
+      ]
+    },
+    {
+      "path": "scripts/note_profiles/choir_note_profile.gd",
+      "mode": "100644",
+      "sha": "0e3aa226624ca59a7e0e4001729da363e726052a",
+      "size": 566,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 566,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/choir_note_profile.gd#L1",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/choir_note_profile.gd#L5",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/choir_note_profile.gd#L8",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/choir_note_profile.gd#L9",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/choir_note_profile.gd#L12",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/choir_note_profile.gd#L16",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/choir_note_profile.gd#L17"
+      ]
+    },
+    {
+      "path": "scripts/note_profiles/default_note_profile.gd",
+      "mode": "100644",
+      "sha": "771d0ad1d6a1cc1c01b7afa2c069459cffc82c34",
+      "size": 1285,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 1285,
+      "mechanics": [
+        "ai_pressure",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/default_note_profile.gd#L6",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/default_note_profile.gd#L12",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/default_note_profile.gd#L13",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/default_note_profile.gd#L19",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/default_note_profile.gd#L21",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/default_note_profile.gd#L23",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/default_note_profile.gd#L32",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/default_note_profile.gd#L37"
+      ]
+    },
+    {
+      "path": "scripts/player_stats.gd",
+      "mode": "100644",
+      "sha": "a225377f3faf3463886bc16c1355562117ef236e",
+      "size": 993,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 45,
+      "byte_count": 993,
+      "mechanics": [
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/player_stats.gd#L1",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/player_stats.gd#L6",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/player_stats.gd#L8",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/player_stats.gd#L10",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/player_stats.gd#L36",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/player_stats.gd#L39",
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/player_stats.gd#L41"
+      ]
+    },
+    {
+      "path": "scripts/status_effects.gd",
+      "mode": "100644",
+      "sha": "de438e162d033837706541f616bf783c95e0ffe3",
+      "size": 213,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 9,
+      "byte_count": 213,
+      "mechanics": [
+        "asset_import_pipeline",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcanachoir/blob/master/scripts/status_effects.gd#L1"
+      ]
+    },
+    {
+      "path": "scripts/accessibility_tooltip_service.gd.uid",
+      "mode": "100644",
+      "sha": "cfb8bcad6f9c4399018d229dccebba00abbf94a9",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/game_globals.gd.uid",
+      "mode": "100644",
+      "sha": "ecaea36bd4ddfaada65da2616fb9cde6c8060be7",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/note_profiles/aria_note_profile.gd.uid",
+      "mode": "100644",
+      "sha": "a4e67c8fcc1826ed69efd677b81c337ea31aca78",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/note_profiles/choir_note_profile.gd.uid",
+      "mode": "100644",
+      "sha": "3aaa354842d26718def5bea79f548f44b7a03e6f",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/note_profiles/default_note_profile.gd.uid",
+      "mode": "100644",
+      "sha": "3506e7bd359f6bc82396c033b3cd9dbf32a69881",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 102,
+    "by_origin": {
+      "github": 102
+    },
+    "by_project": {
+      "arcanachoir": 102
+    },
+    "by_mechanic": {
+      "ai_pressure": 48,
+      "touch_lane_combat": 24,
+      "tts_audio_pipeline": 15,
+      "asset_import_pipeline": 11,
+      "web_choice_player": 5,
+      "pose_animation_tools": 5,
+      "resource_upgrade_loop": 3
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"res://scenes/world.tscn\"",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 30,
+          "symbol": "",
+          "evidence": "static func build_enemy_tooltip(enemy: Node) -> String:",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L30"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 32,
+          "symbol": "",
+          "evidence": "var preview_stats = _get_preview_vitals(enemy)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L32"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 33,
+          "symbol": "",
+          "evidence": "segments.append(_get_display_name(enemy))",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L33"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 38,
+          "symbol": "",
+          "evidence": "var intent_segments = _get_enemy_intent_segments(enemy)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L38"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 71,
+          "symbol": "",
+          "evidence": "var source_enemy = _get_property_value(note, \"accessibility_source_enemy\", null)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L71"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 72,
+          "symbol": "",
+          "evidence": "if source_enemy and is_instance_valid(source_enemy):",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L72"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 73,
+          "symbol": "",
+          "evidence": "var enemy_segments = _get_enemy_note_segments(source_enemy, note_type)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L73"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "project.godot",
+          "line": 18,
+          "symbol": "",
+          "evidence": "[autoload]",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L18"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "project.godot",
+          "line": 31,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L31"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "project.godot",
+          "line": 33,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L33"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "const AccessibilityVoicePlayerScript = preload(\"res://audio/accessibility_voice_player.gd\")",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 235,
+          "symbol": "",
+          "evidence": "label.autowrap_mode = TextServer.AUTOWRAP_WORD_SMART",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L235"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "project.godot",
+          "line": 20,
+          "symbol": "",
+          "evidence": "MusicPlayer=\"*res://audio/music_player.gd\"",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L20"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "const AccessibilityVoicePlayerScript = preload(\"res://audio/accessibility_voice_player.gd\")",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 94,
+          "symbol": "",
+          "evidence": "_play_tooltip_audio(scene_root, clean_text)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L94"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 105,
+          "symbol": "",
+          "evidence": "static func hide_tooltip(scene_root: Node, stop_audio: bool = true) -> void:",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L105"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 108,
+          "symbol": "",
+          "evidence": "if stop_audio:",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L108"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 109,
+          "symbol": "",
+          "evidence": "_stop_tooltip_audio(scene_root)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L109"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 115,
+          "symbol": "",
+          "evidence": "static func is_tooltip_audio_active(scene_root: Node) -> bool:",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L115"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 124,
+          "symbol": "",
+          "evidence": "static func _play_tooltip_audio(scene_root: Node, text: String) -> void:",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L124"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "project.godot",
+          "line": 34,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/project.godot#L34"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 63,
+          "symbol": "",
+          "evidence": "var source_unit = _get_property_value(note, \"accessibility_source_unit\", null)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L63"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 65,
+          "symbol": "",
+          "evidence": "if source_unit and is_instance_valid(source_unit) and source_unit.has_method(\"get_accessibility_note_effect_segments\"):",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L65"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 66,
+          "symbol": "",
+          "evidence": "var player_segments = source_unit.get_accessibility_note_effect_segments(note_type, note_index)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L66"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 71,
+          "symbol": "",
+          "evidence": "var source_enemy = _get_property_value(note, \"accessibility_source_enemy\", null)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L71"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 72,
+          "symbol": "",
+          "evidence": "if source_enemy and is_instance_valid(source_enemy):",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L72"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 73,
+          "symbol": "",
+          "evidence": "var enemy_segments = _get_enemy_note_segments(source_enemy, note_type)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L73"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/note_profiles/choir_note_profile.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Resource",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/choir_note_profile.gd#L1"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 22,
+          "symbol": "",
+          "evidence": "segments.append(\"Damage %d\" % _get_current_attack_value(unit))",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L22"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 308,
+          "symbol": "",
+          "evidence": "var attack_value = _get_int_value(enemy, [\"attack_power\"], 0)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L308"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 309,
+          "symbol": "",
+          "evidence": "segments.append(\"Attack %d\" % (attack_value + max(0, safe_windup_bonus)))",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L309"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 341,
+          "symbol": "",
+          "evidence": "static func _get_current_attack_value(unit: Node) -> int:",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L341"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 342,
+          "symbol": "",
+          "evidence": "if unit and unit.has_method(\"get_current_attack\"):",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L342"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 343,
+          "symbol": "",
+          "evidence": "return max(0, int(unit.get_current_attack()))",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L343"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 344,
+          "symbol": "",
+          "evidence": "return _get_int_value(unit, [\"base_attack\"], 0)",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L344"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/note_profiles/aria_note_profile.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "var attack_value = max(0, int(context.get(\"attack_value\", 0)))",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/aria_note_profile.gd#L7"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 212,
+          "symbol": "",
+          "evidence": "panel.offset_right = -24.0",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L212"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 218,
+          "symbol": "",
+          "evidence": "style.corner_radius_top_right = 12",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L218"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 219,
+          "symbol": "",
+          "evidence": "style.corner_radius_bottom_right = 12",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L219"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 223,
+          "symbol": "",
+          "evidence": "style.border_width_right = 2",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L223"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/accessibility_tooltip_service.gd",
+          "line": 228,
+          "symbol": "",
+          "evidence": "style.content_margin_right = 16.0",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/accessibility_tooltip_service.gd#L228"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/note_profiles/choir_note_profile.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Resource",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/note_profiles/choir_note_profile.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/player_stats.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Resource",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/player_stats.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "arcanachoir",
+          "repo": "Valar05/arcanachoir",
+          "path": "scripts/status_effects.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Resource",
+          "source_url": "https://github.com/Valar05/arcanachoir/blob/master/scripts/status_effects.gd#L1"
+        }
+      ]
+    }
+  }
+}

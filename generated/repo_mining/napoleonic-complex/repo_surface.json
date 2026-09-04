@@ -1,0 +1,1696 @@
+{
+  "repo": "Valar05/napoleonic-complex",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "napoleonic-complex",
+    "updatedAt": "2026-06-20T22:48:16Z",
+    "url": "https://github.com/Valar05/napoleonic-complex",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 17,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "9bb2d72474aac03f2d44026a065e2c4ae1b712f1",
+      "size": 2884,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 2884,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L3",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L13",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L14",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L18",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L20",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L21",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L22"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "596ae01f2e7db011c8f94a4586671c6ae3a0eddb",
+      "size": 2317,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 2317,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L8",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L15",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L16",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L18"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "b0134ae3ec2b6c3b5f0bda3a6335acba2449b73c",
+      "size": 414,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 11,
+      "byte_count": 414,
+      "mechanics": [
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L5",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L8",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L9"
+      ]
+    },
+    {
+      "path": "docs/source_rights_policy.md",
+      "mode": "100644",
+      "sha": "48c1220b267e30af3956f5f72744b6d7fa41268c",
+      "size": 614,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 20,
+      "byte_count": 614,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L1",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L3",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L5",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L8",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L9",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L10",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L11"
+      ]
+    },
+    {
+      "path": "docs/story_engine_schema.md",
+      "mode": "100644",
+      "sha": "4a4a55538a5263a2a9f2bf2efcad7377d2686147",
+      "size": 537,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 537,
+      "mechanics": [
+        "ai_pressure",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/story_engine_schema.md#L10",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/story_engine_schema.md#L11",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/story_engine_schema.md#L13",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/story_engine_schema.md#L15",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/story_engine_schema.md#L19",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/story_engine_schema.md#L23"
+      ]
+    },
+    {
+      "path": "docs/waterloo_contract.md",
+      "mode": "100644",
+      "sha": "eb424cdb2ebde146d49df9856ac2e4cbcba105aa",
+      "size": 5313,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 95,
+      "byte_count": 5313,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L5",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L13",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L18",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L23",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L25",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L35",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L36",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L37"
+      ]
+    },
+    {
+      "path": "docs/waterloo_research_brief.md",
+      "mode": "100644",
+      "sha": "d85e6dd91faafbd9d94bf19b001fa78bb655ab79",
+      "size": 5205,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 58,
+      "byte_count": 5205,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L3",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L9",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L11",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L15",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L17",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L21",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L23"
+      ]
+    },
+    {
+      "path": "tools/local_server.py",
+      "mode": "100644",
+      "sha": "e0c06106c852d02723eac2fb4efc3e584645c6a7",
+      "size": 3774,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 99,
+      "byte_count": 3774,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/local_server.py#L1",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/local_server.py#L2",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/local_server.py#L4",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/local_server.py#L5",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/local_server.py#L6",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/local_server.py#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/local_server.py#L8",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/local_server.py#L10"
+      ]
+    },
+    {
+      "path": "tools/graph_shape_harness.py",
+      "mode": "100644",
+      "sha": "139307520f64932ba175838e785934cf4a79ac85",
+      "size": 9624,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 234,
+      "byte_count": 9624,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/graph_shape_harness.py#L2",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/graph_shape_harness.py#L4",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/graph_shape_harness.py#L5",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/graph_shape_harness.py#L6",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/graph_shape_harness.py#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/graph_shape_harness.py#L12",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/graph_shape_harness.py#L14",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/graph_shape_harness.py#L22"
+      ]
+    },
+    {
+      "path": "tools/lane_report.py",
+      "mode": "100644",
+      "sha": "535102aa7fabf8ee19bba45a733472599112de1e",
+      "size": 4245,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 122,
+      "byte_count": 4245,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L1",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L2",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L4",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L5",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L6",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L9",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L10"
+      ]
+    },
+    {
+      "path": "tools/validate.py",
+      "mode": "100644",
+      "sha": "d01b4ff73676fddc9d8363373af071c850233921",
+      "size": 2574,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 65,
+      "byte_count": 2574,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/validate.py#L1",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/validate.py#L2",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/validate.py#L4",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/validate.py#L5",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/validate.py#L6",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/validate.py#L8",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/validate.py#L11",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/tools/validate.py#L12"
+      ]
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "d6ac7ec9f28695a867545e1183fcf83710c15969",
+      "size": 2630,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 52,
+      "byte_count": 2630,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "corpus/corpus_manifest.json",
+      "mode": "100644",
+      "sha": "f0eed9a271527600f42b65c98c6d6cf36d72e4a2",
+      "size": 4351,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 120,
+      "byte_count": 4351,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L1",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L2",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L3",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L4",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L5",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L6",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "corpus/pattern_cards.json",
+      "mode": "100644",
+      "sha": "f91625fce4127f9dd631d0dde022f3586575c1cb",
+      "size": 7876,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 195,
+      "byte_count": 7876,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/pattern_cards.json#L1",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/pattern_cards.json#L2",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/pattern_cards.json#L3",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/pattern_cards.json#L4",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/pattern_cards.json#L5",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/pattern_cards.json#L6",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/pattern_cards.json#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/pattern_cards.json#L8"
+      ]
+    },
+    {
+      "path": "games/napoleonic-complex/story.json",
+      "mode": "100644",
+      "sha": "af0fbff5a1e15198b1e92c601380a5d5213ba645",
+      "size": 54803,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1245,
+      "byte_count": 54803,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L6",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L7",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L13",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L17",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L30",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L31",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L46",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L50"
+      ]
+    },
+    {
+      "path": "ml/feature_schema.json",
+      "mode": "100644",
+      "sha": "b3940d509104f1b7b9177c253a0101e36b62174a",
+      "size": 2420,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 141,
+      "byte_count": 2420,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/feature_schema.json#L6",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/feature_schema.json#L76",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/feature_schema.json#L84",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/feature_schema.json#L104",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/feature_schema.json#L112",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/feature_schema.json#L129",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/feature_schema.json#L132",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/feature_schema.json#L133"
+      ]
+    },
+    {
+      "path": "ml/model_card.md",
+      "mode": "100644",
+      "sha": "804f9b97ebe1af918726975cd469eb8053b0c40f",
+      "size": 931,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 36,
+      "byte_count": 931,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/model_card.md#L3",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/model_card.md#L6",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/model_card.md#L10",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/model_card.md#L13",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/model_card.md#L22",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/model_card.md#L26",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/model_card.md#L27",
+        "https://github.com/Valar05/napoleonic-complex/blob/main/ml/model_card.md#L31"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1156,
+    "by_origin": {
+      "github": 1156
+    },
+    "by_project": {
+      "napoleonic-complex": 1156
+    },
+    "by_mechanic": {
+      "source_packet_generation": 355,
+      "ai_pressure": 315,
+      "asset_import_pipeline": 264,
+      "text_console_runtime": 243,
+      "touch_lane_combat": 205,
+      "tts_audio_pipeline": 185,
+      "vehicle_survival": 182,
+      "web_choice_player": 172,
+      "writing_corpus_review": 115,
+      "pose_animation_tools": 66,
+      "validation_pipeline": 64,
+      "event_clouds": 7,
+      "delayed_consequences": 4,
+      "deck_pressure": 3,
+      "resource_upgrade_loop": 2
+    },
+    "examples": {
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A research-first web multiple-choice game project about Napoleon trying to turn Waterloo into the first step back toward imperial domination.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "The server reuses the sibling `but-multiple-choice` web player while serving this project's local story and docs from `napoleonic-complex`.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "`napoleonic-complex` is a web multiple-choice project focused on Waterloo as a decision system.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Every choice must be legible as a command decision under uncertainty: time, mud, staff friction, coalition coordination, morale, reserves, terrain, and arrival of the Prussians.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- a command-level choice game where the player acts as Napoleon at Waterloo",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "The game should ask the player to choose under uncertainty and then show the consequence in unit cohesion, momentum, losses, morale, command control, Prussian timing, and follow...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "package.json",
+          "line": 5,
+          "symbol": "description",
+          "evidence": "\"description\": \"Web multiple-choice game scaffold for Napoleonic-era command decisions, corpus manifesting, and ML-style decision ranking.\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/story_engine_schema.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `rooms`",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/story_engine_schema.md#L11"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "A research-first web multiple-choice game project about Napoleon trying to turn Waterloo into the first step back toward imperial domination.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "The server reuses the sibling `but-multiple-choice` web player while serving this project's local story and docs from `napoleonic-complex`.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "`napoleonic-complex` is a web multiple-choice project focused on Waterloo as a decision system.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Every choice must be legible as a command decision under uncertainty: time, mud, staff friction, coalition coordination, morale, reserves, terrain, and arrival of the Prussians.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- a command-level choice game where the player acts as Napoleon at Waterloo",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "package.json",
+          "line": 5,
+          "symbol": "description",
+          "evidence": "\"description\": \"Web multiple-choice game scaffold for Napoleonic-era command decisions, corpus manifesting, and ML-style decision ranking.\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "package.json",
+          "line": 8,
+          "symbol": "serve",
+          "evidence": "\"serve\": \"python tools/local_server.py\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L8"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/story_engine_schema.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- `choices` create active decisions.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/story_engine_schema.md#L15"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "You are Napoleon. Your strategic desire is not modest survival; it is to win at Waterloo, preserve the Empire, break the Seventh Coalition's immediate momentum, and reopen the p...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- Can Hougoumont, La Haye Sainte, Plancenoit, reserves, artillery, cavalry, and the Imperial Guard be sequenced better than history?",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- If the player wins, what credible campaign opening remains after losses, supply strain, political instability, and coalition mass?",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "The Waterloo model is deterministic: no chance gates. The graph changes tactical variables and routes to consequences. `npm run check` validates both the scaffold links and the ...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- The player is Napoleon during the Waterloo campaign.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- The playable scope is deliberately narrow for now: the Waterloo stage, from the pressure created by the Hundred Days and the 15-17 June campaign through the battle and immedia...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Every choice must be legible as a command decision under uncertainty: time, mud, staff friction, coalition coordination, morale, reserves, terrain, and arrival of the Prussians.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- what-if exploration bounded by historical constraints, not wish fulfillment",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L18"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `PROJECT_ORIENTATION.md`: project bootstrap and scope",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- `tools/validate.py`: local structure check",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "The Waterloo model is deterministic: no chance gates. The graph changes tactical variables and routes to consequences. `npm run check` validates both the scaffold links and the ...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "python tools/validate.py",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- `tools/validate.py`: sanity checks for the scaffold",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "Bootstrap order",
+          "evidence": "## Bootstrap order",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "5. Validate the JSON artifacts locally.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "package.json",
+          "line": 7,
+          "symbol": "check",
+          "evidence": "\"check\": \"python tools/validate.py && python tools/graph_shape_harness.py\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L7"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `docs/waterloo_research_brief.md`: compact source-backed research brief for what-if design",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `docs/source_rights_policy.md`: source use rules",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `corpus/corpus_manifest.json`: source family manifest",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `docs/waterloo_research_brief.md`: source-backed Waterloo pressures for generation",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `corpus/corpus_manifest.json`: source families and rights labels",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "3. Read the corpus manifest and pattern cards.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "package.json",
+          "line": 5,
+          "symbol": "description",
+          "evidence": "\"description\": \"Web multiple-choice game scaffold for Napoleonic-era command decisions, corpus manifesting, and ML-style decision ranking.\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/source_rights_policy.md",
+          "line": 1,
+          "symbol": "Source Rights Policy",
+          "evidence": "# Source Rights Policy",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L1"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `docs/source_rights_policy.md`: source use rules",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "The project name uses the normalized spelling `napoleonic-complex`. If you want the folder renamed to match the original typo exactly, say so and I will adjust it.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- a lightweight ML layer for ranking likely actions, not replacing historical judgment",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `corpus/corpus_manifest.json`: source families and rights labels",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/source_rights_policy.md",
+          "line": 1,
+          "symbol": "Source Rights Policy",
+          "evidence": "# Source Rights Policy",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/source_rights_policy.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Keep source use auditable.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/source_rights_policy.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Allowed by default:",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/source_rights_policy.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- public-domain texts",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L7"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `corpus/corpus_manifest.json`: source family manifest",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `corpus/pattern_cards.json`: reusable tactical and strategic pattern cards",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- corpus-backed tactical and strategic reasoning",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `corpus/corpus_manifest.json`: source families and rights labels",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- `corpus/pattern_cards.json`: reusable tactical and Waterloo-specific pattern cards",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "3. Read the corpus manifest and pattern cards.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "package.json",
+          "line": 5,
+          "symbol": "description",
+          "evidence": "\"description\": \"Web multiple-choice game scaffold for Napoleonic-era command decisions, corpus manifesting, and ML-style decision ranking.\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/story_engine_schema.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `corpus`",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/story_engine_schema.md#L10"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `corpus/corpus_manifest.json`: source family manifest",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `corpus/corpus_manifest.json`: source families and rights labels",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "3. Read the corpus manifest and pattern cards.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "package.json",
+          "line": 5,
+          "symbol": "description",
+          "evidence": "\"description\": \"Web multiple-choice game scaffold for Napoleonic-era command decisions, corpus manifesting, and ML-style decision ranking.\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/source_rights_policy.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "Every source manifest entry should state `rights_status` and `usable_for`.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "By 17 June, Wellington retreated to the Mont-Saint-Jean ridge near Waterloo, planning to stand until the Prussians could arrive. The Prussians had not been destroyed; they withd...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "tools/graph_shape_harness.py",
+          "line": 41,
+          "symbol": "",
+          "evidence": "manifest = load_json(ROOT / 'corpus' / 'corpus_manifest.json')",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/tools/graph_shape_harness.py#L41"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "tools/graph_shape_harness.py",
+          "line": 42,
+          "symbol": "",
+          "evidence": "return {card['id'] for card in patterns} | {source['id'] for source in manifest['source_families']}",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/tools/graph_shape_harness.py#L42"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "The Waterloo model is deterministic: no chance gates. The graph changes tactical variables and routes to consequences. `npm run check` validates both the scaffold links and the ...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "package.json",
+          "line": 9,
+          "symbol": "report:lanes",
+          "evidence": "\"report:lanes\": \"python tools/lane_report.py\"",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L9"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_contract.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Blucher's arrival is delayed, blunted, misdirected, or contained long enough for the French main attack to matter.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_contract.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "- Another useful tool is a lane report that shows which tactical variable each branch is really testing: tempo, center pressure, Hougoumont drain, reserve integrity, Prussian ti...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Napoleon returned from Elba in March 1815 and faced a rapidly forming Seventh Coalition. His practical strategic problem was that the coalition's combined strength would become ...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Britannica frames the April decision as an attack on Wellington and Blucher in the southern Netherlands before Austrian and Russian forces could arrive. The National Army Museum...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "The night before the battle brought a severe storm. The battlefield had clay soil, country lanes, wet fields, and heavy going. The rain stopped around first light, but the groun...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "The French attack sequence creates several what-if levers:",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L23"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "The Waterloo model is deterministic: no chance gates. The graph changes tactical variables and routes to consequences. `npm run check` validates both the scaffold links and the ...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- The fantasy goal is to win at Waterloo, preserve imperial power, and reopen the road toward domination of Europe and eventually the world.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/PROJECT_ORIENTATION.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "package.json",
+          "line": 9,
+          "symbol": "report:lanes",
+          "evidence": "\"report:lanes\": \"python tools/lane_report.py\"",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L9"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_contract.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "- rain, mud, wet powder, tired horses, and bad roads make command feel physical",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_contract.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "- Another useful tool is a lane report that shows which tactical variable each branch is really testing: tempo, center pressure, Hougoumont drain, reserve integrity, Prussian ti...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "The night before the battle brought a severe storm. The battlefield had clay soil, country lanes, wet fields, and heavy going. The rain stopped around first light, but the groun...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "Wellington's line used the Mont-Saint-Jean ridge and forward strongpoints. Hougoumont anchored the Allied right and absorbed French effort. La Haye Sainte sat near the centre by...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- wet coats, mud, tired horses, and guns that cannot move as freely as doctrine wants",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L37"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "The project name uses the normalized spelling `napoleonic-complex`. If you want the folder renamed to match the original typo exactly, say so and I will adjust it.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "package.json",
+          "line": 9,
+          "symbol": "report:lanes",
+          "evidence": "\"report:lanes\": \"python tools/lane_report.py\"",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/package.json#L9"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/source_rights_policy.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- user-provided original material",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/source_rights_policy.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- original pattern cards derived from research",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_contract.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "- Another useful tool is a lane report that shows which tactical variable each branch is really testing: tempo, center pressure, Hougoumont drain, reserve integrity, Prussian ti...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "tools/lane_report.py",
+          "line": 1,
+          "symbol": "",
+          "evidence": "#!/usr/bin/env python3",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L1"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "tools/lane_report.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "from __future__ import annotations",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "tools/lane_report.py",
+          "line": 4,
+          "symbol": "",
+          "evidence": "import json",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/tools/lane_report.py#L4"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/source_rights_policy.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- public-domain texts",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/source_rights_policy.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "corpus/corpus_manifest.json",
+          "line": 9,
+          "symbol": "rights_status",
+          "evidence": "\"rights_status\": \"public_domain_or_reference_only\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L9"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "corpus/corpus_manifest.json",
+          "line": 23,
+          "symbol": "rights_status",
+          "evidence": "\"rights_status\": \"public_domain_or_reference_only\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L23"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "corpus/corpus_manifest.json",
+          "line": 37,
+          "symbol": "rights_status",
+          "evidence": "\"rights_status\": \"public_domain_or_reference_only\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/corpus_manifest.json#L37"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "games/napoleonic-complex/story.json",
+          "line": 131,
+          "symbol": "rights_status",
+          "evidence": "\"rights_status\": \"public_domain_or_reference_only\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L131"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "games/napoleonic-complex/story.json",
+          "line": 141,
+          "symbol": "rights_status",
+          "evidence": "\"rights_status\": \"public_domain_or_reference_only\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L141"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "games/napoleonic-complex/story.json",
+          "line": 152,
+          "symbol": "rights_status",
+          "evidence": "\"rights_status\": \"public_domain_or_reference_only\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L152"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_contract.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Blucher's arrival is delayed, blunted, misdirected, or contained long enough for the French main attack to matter.",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_contract.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "By 15 June, Napoleon crossed the Sambre into Belgium. On 16 June, he defeated the Prussians at Ligny while Ney fought Wellington at Quatre Bras. The French opportunity was real ...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "The night before the battle brought a severe storm. The battlefield had clay soil, country lanes, wet fields, and heavy going. The rain stopped around first light, but the groun...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "games/napoleonic-complex/story.json",
+          "line": 98,
+          "symbol": "voice",
+          "evidence": "\"voice\": \"echo\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L98"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "docs/waterloo_research_brief.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "The night before the battle brought a severe storm. The battlefield had clay soil, country lanes, wet fields, and heavy going. The rain stopped around first light, but the groun...",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/docs/waterloo_research_brief.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "corpus/pattern_cards.json",
+          "line": 160,
+          "symbol": "",
+          "evidence": "\"resource_drain\"",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/pattern_cards.json#L160"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "corpus/pattern_cards.json",
+          "line": 153,
+          "symbol": "setup",
+          "evidence": "\"setup\": \"Hougoumont can draw Allied attention, but it can also consume French infantry far beyond the value of a diversion.\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/corpus/pattern_cards.json#L153"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "games/napoleonic-complex/story.json",
+          "line": 639,
+          "symbol": "opening",
+          "evidence": "\"opening\": \"Failure point placeholder: the center attack begins to outrun its artillery and engineer support. The farm draws casualties before it becomes an exploitation point.\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L639"
+        },
+        {
+          "origin": "github",
+          "project": "napoleonic-complex",
+          "repo": "Valar05/napoleonic-complex",
+          "path": "games/napoleonic-complex/story.json",
+          "line": 818,
+          "symbol": "opening",
+          "evidence": "\"opening\": \"Placeholder event: Hougoumont is set as a diversion variable. The tactical layer is discipline: draw Wellington without feeding French strength into a stone sink.\",",
+          "source_url": "https://github.com/Valar05/napoleonic-complex/blob/main/games/napoleonic-complex/story.json#L818"
+        }
+      ]
+    }
+  }
+}

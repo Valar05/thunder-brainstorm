@@ -1,0 +1,1936 @@
+{
+  "repo": "Valar05/vernepunk",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Jules Verne expedition fiction as crew simulation: analog machines, unreliable reports, expedition journals, impossible engineering, and company-scale survival.",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "vernepunk",
+    "updatedAt": "2026-06-22T18:24:46Z",
+    "url": "https://github.com/Valar05/vernepunk",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "docs/doctrine/README.md",
+      "mode": "100644",
+      "sha": "a59e3f5099c2dca97f92d3bef3e323a8dcb49876",
+      "size": 679,
+      "score": 188,
+      "reasons": [
+        "root readme",
+        "documentation surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 679,
+      "mechanics": [
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/README.md#L17"
+      ]
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "57762e43d8c84436795fb110d6aa23e6bc45bdd9",
+      "size": 1912,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 71,
+      "byte_count": 1912,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/README.md#L3",
+        "https://github.com/Valar05/vernepunk/blob/main/README.md#L11",
+        "https://github.com/Valar05/vernepunk/blob/main/README.md#L15",
+        "https://github.com/Valar05/vernepunk/blob/main/README.md#L22",
+        "https://github.com/Valar05/vernepunk/blob/main/README.md#L24",
+        "https://github.com/Valar05/vernepunk/blob/main/README.md#L25",
+        "https://github.com/Valar05/vernepunk/blob/main/README.md#L26",
+        "https://github.com/Valar05/vernepunk/blob/main/README.md#L27"
+      ]
+    },
+    {
+      "path": "capture_service/README.md",
+      "mode": "100644",
+      "sha": "861c0fe4ed02aa7e745b799705ccea11ba83ecc8",
+      "size": 2450,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 103,
+      "byte_count": 2450,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L8",
+        "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L11",
+        "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L13",
+        "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L19",
+        "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L20",
+        "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L35",
+        "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L55",
+        "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L58"
+      ]
+    },
+    {
+      "path": "corpus/README.md",
+      "mode": "100644",
+      "sha": "e9387d01eb2741c6de1d09bf630034f34d6cb9b3",
+      "size": 3177,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 112,
+      "byte_count": 3177,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L1",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L3",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L8",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L9",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L10",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L12"
+      ]
+    },
+    {
+      "path": "corpus/sources/verne/README.md",
+      "mode": "100644",
+      "sha": "117c60add484774a599c0155b4677a99acf17126",
+      "size": 617,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 617,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L1",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L3",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L8",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L9",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L11",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L13"
+      ]
+    },
+    {
+      "path": "corpus/sources/wells/README.md",
+      "mode": "100644",
+      "sha": "6f5a441da09c634492938445fc98fdbedaba2bbf",
+      "size": 526,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 526,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/README.md#L1",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/README.md#L3",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/README.md#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/README.md#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/README.md#L8",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/README.md#L9",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/README.md#L11",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/README.md#L13"
+      ]
+    },
+    {
+      "path": "game/README.md",
+      "mode": "100644",
+      "sha": "dcbcd1bea750bd397ff9b59550204ad13458ad93",
+      "size": 847,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 847,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/game/README.md#L3",
+        "https://github.com/Valar05/vernepunk/blob/main/game/README.md#L15",
+        "https://github.com/Valar05/vernepunk/blob/main/game/README.md#L21",
+        "https://github.com/Valar05/vernepunk/blob/main/game/README.md#L22",
+        "https://github.com/Valar05/vernepunk/blob/main/game/README.md#L27",
+        "https://github.com/Valar05/vernepunk/blob/main/game/README.md#L32",
+        "https://github.com/Valar05/vernepunk/blob/main/game/README.md#L51"
+      ]
+    },
+    {
+      "path": "ml/README.md",
+      "mode": "100644",
+      "sha": "f666e7816c8d9df4ba5c77b9f008ecf37526a422",
+      "size": 1219,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 47,
+      "byte_count": 1219,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L12",
+        "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L24",
+        "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L30",
+        "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L32",
+        "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L33",
+        "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L35",
+        "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L37"
+      ]
+    },
+    {
+      "path": "docs/doctrine/company-journal-voice.md",
+      "mode": "100644",
+      "sha": "96df6972d5a850fa2d2ca138ebfb26be688fc665",
+      "size": 1467,
+      "score": 92,
+      "reasons": [
+        "documentation surface",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 64,
+      "byte_count": 1467,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L3",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L11",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L19",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L28",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L30",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L41",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L46"
+      ]
+    },
+    {
+      "path": "docs/doctrine/shared-brain-governance.md",
+      "mode": "100644",
+      "sha": "d52fbed19ec010ccd0e28f8cd8c924149747c432",
+      "size": 1809,
+      "score": 92,
+      "reasons": [
+        "documentation surface",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 94,
+      "byte_count": 1809,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "source_packet_generation",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/shared-brain-governance.md#L1",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/shared-brain-governance.md#L3",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/shared-brain-governance.md#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/shared-brain-governance.md#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/shared-brain-governance.md#L9",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/shared-brain-governance.md#L11",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/shared-brain-governance.md#L13",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/shared-brain-governance.md#L15"
+      ]
+    },
+    {
+      "path": "docs/doctrine/analog-machine-simulation.md",
+      "mode": "100644",
+      "sha": "3391327291ef6352d5d475cbbd46a16aad9b973e",
+      "size": 1427,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 85,
+      "byte_count": 1427,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L13",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L17",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L19",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L20",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L40",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L43"
+      ]
+    },
+    {
+      "path": "docs/doctrine/expedition-awareness.md",
+      "mode": "100644",
+      "sha": "d39771cdfbfe022faae1a141456e77e030018191",
+      "size": 1233,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 1233,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/expedition-awareness.md#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/expedition-awareness.md#L9",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/expedition-awareness.md#L13",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/expedition-awareness.md#L15",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/expedition-awareness.md#L18",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/expedition-awareness.md#L21",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/expedition-awareness.md#L44",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/expedition-awareness.md#L45"
+      ]
+    },
+    {
+      "path": "docs/doctrine/verne-ingestion-discoveries.md",
+      "mode": "100644",
+      "sha": "9fe542755a330b881638ece7e586457b956098e2",
+      "size": 6003,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 168,
+      "byte_count": 6003,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L19",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L22",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L24",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L27",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L28",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L31",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L34",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L36"
+      ]
+    },
+    {
+      "path": "docs/doctrine/vernepunk-core.md",
+      "mode": "100644",
+      "sha": "58e581d40fb64f6821bc9b6400c787ca658363b8",
+      "size": 1495,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 58,
+      "byte_count": 1495,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/vernepunk-core.md#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/vernepunk-core.md#L17",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/vernepunk-core.md#L21",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/vernepunk-core.md#L27",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/vernepunk-core.md#L32",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/vernepunk-core.md#L38",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/vernepunk-core.md#L43"
+      ]
+    },
+    {
+      "path": "docs/doctrine/wwvd-layer.md",
+      "mode": "100644",
+      "sha": "e1819a7f419e155a198c26d5d174db47cf278130",
+      "size": 1836,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 70,
+      "byte_count": 1836,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-layer.md#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-layer.md#L14",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-layer.md#L20",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-layer.md#L22",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-layer.md#L24",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-layer.md#L39",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-layer.md#L41",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-layer.md#L43"
+      ]
+    },
+    {
+      "path": "docs/doctrine/wwvd-runtime-protocol.md",
+      "mode": "100644",
+      "sha": "77e54a4ba9b5282d5ce1316d671699ac48a56637",
+      "size": 3731,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 189,
+      "byte_count": 3731,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-runtime-protocol.md#L8",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-runtime-protocol.md#L25",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-runtime-protocol.md#L30",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-runtime-protocol.md#L36",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-runtime-protocol.md#L47",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-runtime-protocol.md#L53",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-runtime-protocol.md#L92",
+        "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-runtime-protocol.md#L95"
+      ]
+    },
+    {
+      "path": "tools/ingest_verne.py",
+      "mode": "100644",
+      "sha": "ede6e975f550f49ffd9e3d67029882e5dc155f24",
+      "size": 33169,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 677,
+      "byte_count": 33169,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L2",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L4",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L6",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L8",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L9",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L10"
+      ]
+    },
+    {
+      "path": "tools/ingest_wells.py",
+      "mode": "100644",
+      "sha": "064c2f8a653c23baf0c74822152e9ca6b506218a",
+      "size": 23480,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 513,
+      "byte_count": 23480,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_wells.py#L2",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_wells.py#L4",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_wells.py#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_wells.py#L6",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_wells.py#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_wells.py#L8",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_wells.py#L9",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_wells.py#L10"
+      ]
+    },
+    {
+      "path": "tools/wwvd_query.py",
+      "mode": "100644",
+      "sha": "01c1eecfddfb6a9979cb4e4e9da2ae627d41824a",
+      "size": 9231,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 237,
+      "byte_count": 9231,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/tools/wwvd_query.py#L2",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/wwvd_query.py#L4",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/wwvd_query.py#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/wwvd_query.py#L6",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/wwvd_query.py#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/wwvd_query.py#L8",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/wwvd_query.py#L11",
+        "https://github.com/Valar05/vernepunk/blob/main/tools/wwvd_query.py#L12"
+      ]
+    },
+    {
+      "path": "CORPUS_MANIFEST.md",
+      "mode": "100644",
+      "sha": "79ce15fb275d6e1c1ec0154108bf07d1c77a5c52",
+      "size": 4761,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 190,
+      "byte_count": 4761,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/CORPUS_MANIFEST.md#L1",
+        "https://github.com/Valar05/vernepunk/blob/main/CORPUS_MANIFEST.md#L3",
+        "https://github.com/Valar05/vernepunk/blob/main/CORPUS_MANIFEST.md#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/CORPUS_MANIFEST.md#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/CORPUS_MANIFEST.md#L9",
+        "https://github.com/Valar05/vernepunk/blob/main/CORPUS_MANIFEST.md#L10",
+        "https://github.com/Valar05/vernepunk/blob/main/CORPUS_MANIFEST.md#L11",
+        "https://github.com/Valar05/vernepunk/blob/main/CORPUS_MANIFEST.md#L12"
+      ]
+    },
+    {
+      "path": "corpus/sources/verne/manifest.json",
+      "mode": "100644",
+      "sha": "89b644ecf7bd0e2d6590e7dc608332656b0b8e71",
+      "size": 9897,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 267,
+      "byte_count": 9897,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/manifest.json#L1",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/manifest.json#L2",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/manifest.json#L3",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/manifest.json#L4",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/manifest.json#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/manifest.json#L6",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/manifest.json#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/manifest.json#L8"
+      ]
+    },
+    {
+      "path": "corpus/sources/wells/manifest.json",
+      "mode": "100644",
+      "sha": "e452de29865978b760ddc23a14e0c8b9001f3e04",
+      "size": 6915,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 204,
+      "byte_count": 6915,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/manifest.json#L1",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/manifest.json#L2",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/manifest.json#L3",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/manifest.json#L4",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/manifest.json#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/manifest.json#L6",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/manifest.json#L7",
+        "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/manifest.json#L8"
+      ]
+    },
+    {
+      "path": "REPO_DOCTRINE.md",
+      "mode": "100644",
+      "sha": "1357896f287c89f9cedc81b5a758145cb2763a9b",
+      "size": 3052,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 152,
+      "byte_count": 3052,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/vernepunk/blob/main/REPO_DOCTRINE.md#L5",
+        "https://github.com/Valar05/vernepunk/blob/main/REPO_DOCTRINE.md#L9",
+        "https://github.com/Valar05/vernepunk/blob/main/REPO_DOCTRINE.md#L19",
+        "https://github.com/Valar05/vernepunk/blob/main/REPO_DOCTRINE.md#L34",
+        "https://github.com/Valar05/vernepunk/blob/main/REPO_DOCTRINE.md#L36",
+        "https://github.com/Valar05/vernepunk/blob/main/REPO_DOCTRINE.md#L37",
+        "https://github.com/Valar05/vernepunk/blob/main/REPO_DOCTRINE.md#L38",
+        "https://github.com/Valar05/vernepunk/blob/main/REPO_DOCTRINE.md#L42"
+      ]
+    },
+    {
+      "path": "capture_service/__init__.py",
+      "mode": "100644",
+      "sha": "084380c95ad5167467719871b0d9392813e36f42",
+      "size": 43,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 43,
+      "mechanics": [],
+      "source_line_refs": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1427,
+    "by_origin": {
+      "github": 1427
+    },
+    "by_project": {
+      "vernepunk": 1427
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 893,
+      "source_packet_generation": 761,
+      "tts_audio_pipeline": 626,
+      "ai_pressure": 327,
+      "writing_corpus_review": 171,
+      "web_choice_player": 98,
+      "event_clouds": 97,
+      "pose_animation_tools": 65,
+      "delayed_consequences": 34,
+      "text_console_runtime": 24,
+      "vehicle_survival": 19,
+      "validation_pipeline": 17,
+      "resource_upgrade_loop": 7,
+      "deck_pressure": 4
+    },
+    "examples": {
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "If a design decision appears twice, consider capturing it here. If it affects simulation, UI, corpus, or agent workflow, it probably belongs here.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- doctrine-first corpus building",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "CORPUS_MANIFEST.md",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "corpus/",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "If a discovery changes the game model, corpus, or workflow, capture it as doctrine. If it only adds flavor, put it in the corpus. If it changes both, put it in both.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 1,
+          "symbol": "Corpus",
+          "evidence": "# Corpus",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder holds source-backed material for Vernepunk.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 5,
+          "symbol": "Folders",
+          "evidence": "## Folders",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L5"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Jules Verne expedition fiction as crew simulation: analog machines, unreliable reports, expedition journals, impossible engineering, and company-scale survival.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "The player is not a lone hero with magic powers. The player manages a company, crew, or expedition operating dangerous analog machines in impossible environments. Truth arrives ...",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- report latency",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- The report has confidence/uncertainty.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- `report`",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "- `corpus/sources/verne/<source_id>/chunks.json`",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 75,
+          "symbol": "",
+          "evidence": "- `corpus/sources/wells/<source_id>/chunks.json`",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L75"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/sources/verne/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `chunks.json` for stable retrieval units",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L17"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "The player is not a lone hero with magic powers. The player manages a company, crew, or expedition operating dangerous analog machines in impossible environments. Truth arrives ...",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "> The machine is analog. The memory is human. The truth arrives late.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- memory reconstruction",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/company-journal-voice.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The journal is the memory engine of Vernepunk.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/company-journal-voice.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- roster memory",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/shared-brain-governance.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Conversation memory, project corpus, and judgment systems drift apart.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/shared-brain-governance.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/shared-brain-governance.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "Level 1: Memory",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/shared-brain-governance.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/analog-machine-simulation.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- delayed response",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L81"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- observer-sourced awareness",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "CORPUS_MANIFEST.md",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder holds source-backed material for Vernepunk.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "corpus/sources/ Raw or source-adjacent notes and metadata.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "corpus/distillations/ Reusable cards extracted from sources.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "Every source should eventually produce distillation cards that improve:",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 25,
+          "symbol": "First Source Targets",
+          "evidence": "## First Source Targets",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "Start with public-domain sources and manuals where possible.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L27"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- observer-sourced awareness",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- Validates a discovery payload",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 13,
+          "symbol": "Payload",
+          "evidence": "## Payload",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "- Invalid payloads return `400`.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "Use the repeatable ingestion script to download public-domain Jules Verne texts and turn them into retrieval units:",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "Use `--refresh` to force re-downloads.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "Use the Wells ingestion script to download public-domain H. G. Wells texts and turn them into retrieval units:",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 79,
+          "symbol": "",
+          "evidence": "Use `--refresh` to force re-downloads.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L79"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- uncertainty and misidentification",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- The report has confidence/uncertainty.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "\"body\": \"A tank commander does not command certainty...\"",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "-d '{\"project\":\"tanks-for-the-memories\",\"type\":\"doctrine\",\"title\":\"Vernepunk Commander Doctrine\",\"body\":\"A tank commander does not command certainty.\"}'",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- uncertainty systems",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "Start with public-domain sources and manuals where possible.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- airship/balloon operation references",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "Use the repeatable ingestion script to download public-domain Jules Verne texts and turn them into retrieval units:",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L41"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "CORPUS_MANIFEST.md",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "Suggested first wave:",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- `corpus/sources/verne/manifest.json`",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- `corpus/sources/wells/manifest.json`",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/sources/verne/README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- `corpus/sources/verne/manifest.json`",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/sources/wells/README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- `corpus/sources/wells/manifest.json`",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 17,
+          "symbol": "",
+          "evidence": "MANIFEST_PATH = VERNE_DIR / 'manifest.json'",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L17"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 655,
+          "symbol": "",
+          "evidence": "manifest = {",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L655"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- Validates a discovery payload",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 58,
+          "symbol": "Smoke tests",
+          "evidence": "## Smoke tests",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 101,
+          "symbol": "",
+          "evidence": "- Smoke tests pass locally.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L101"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 83,
+          "symbol": "",
+          "evidence": "The current corpus also includes a judgment pass that filters Wells cards into a high-confidence set, records an audit trail, and exposes a reusable simulation primitive registry:",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L83"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "- `corpus/distillations/wells/wells_card_audit.json`",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 86,
+          "symbol": "",
+          "evidence": "- `corpus/distillations/wells/wells_card_audit.md`",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L86"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/analog-machine-simulation.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- repair actions",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/analog-machine-simulation.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- repair backlog",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L49"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Uses timestamped object names shaped like `project/type/2026-06-22T18-30-00Z.json`",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 83,
+          "symbol": "",
+          "evidence": "The current corpus also includes a judgment pass that filters Wells cards into a high-confidence set, records an audit trail, and exposes a reusable simulation primitive registry:",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L83"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "ml/README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "Useful retrieval should answer questions like:",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "ml/README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- What does a Verne-style machine description sound like?",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "ml/README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- What does unreliable expedition reporting look like?",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/ml/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/company-journal-voice.md",
+          "line": 3,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/analog-machine-simulation.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- purpose",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/expedition-awareness.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "- likely",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/expedition-awareness.md#L45"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "\"title\": \"Vernepunk Commander Doctrine\",",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "\"body\": \"A tank commander does not command certainty...\"",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "-d '{\"project\":\"tanks-for-the-memories\",\"type\":\"doctrine\",\"title\":\"Vernepunk Commander Doctrine\",\"body\":\"A tank commander does not command certainty.\"}'",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "capture_service/README.md",
+          "line": 103,
+          "symbol": "",
+          "evidence": "- Deployment commands exist in this README.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/capture_service/README.md#L103"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/verne-ingestion-discoveries.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Subterranean travel depends on route choice, correction, and recovery after mistakes.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/wwvd-runtime-protocol.md",
+          "line": 151,
+          "symbol": "Command Mode",
+          "evidence": "## Command Mode",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-runtime-protocol.md#L151"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 67,
+          "symbol": "",
+          "evidence": "'summary': 'Expedition command is procedural and social at the same time: a leader decides quickly, but the crew source of knowledge may still resist the trip.',",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L67"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 68,
+          "symbol": "",
+          "evidence": "'game_use': 'Use early expedition decisions as tension between authority, route choice, and reluctant expertise.',",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L68"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "Start with public-domain sources and manuals where possible.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "Use the repeatable ingestion script to download public-domain Jules Verne texts and turn them into retrieval units:",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/README.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "Use the Wells ingestion script to download public-domain H. G. Wells texts and turn them into retrieval units:",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/README.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/sources/verne/README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "The current pipeline uses public-domain Jules Verne texts from Project Gutenberg plus a metadata-only `Fantastic Voyage` contrast reference.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/sources/wells/README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "The current pipeline uses public-domain H. G. Wells texts from Project Gutenberg.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/wells/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 57,
+          "symbol": "",
+          "evidence": "rights_notes='Project Gutenberg states this ebook is public domain in the USA.',",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L57"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 59,
+          "symbol": "",
+          "evidence": "tags=['verne', 'journey', 'subterranean', 'expedition', 'public_domain'],",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L59"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 61,
+          "symbol": "",
+          "evidence": "reliability_notes='Public-domain English translation hosted by Project Gutenberg.',",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L61"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/company-journal-voice.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "A field journal written by a competent, tired expedition chronicler.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/company-journal-voice.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/analog-machine-simulation.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "A Vernepunk machine is not a vehicle skin. It is a crewed pressure system.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/analog-machine-simulation.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- fuel",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/verne-ingestion-discoveries.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Add state for altitude, ballast, fuel, pressure, route drift, and recoverability.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/verne-ingestion-discoveries.md",
+          "line": 77,
+          "symbol": "",
+          "evidence": "- Crew trust and secrecy are part of the vehicle system.",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/verne-ingestion-discoveries.md#L77"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/wwvd-runtime-protocol.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- railroads",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/wwvd-runtime-protocol.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 76,
+          "symbol": "",
+          "evidence": "'find_terms': ['water failed entirely'],",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L76"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 158,
+          "symbol": "",
+          "evidence": "'game_use': 'Treat hidden-mode vehicle identity as a game rule, not just a lore detail.',",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L158"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/analog-machine-simulation.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- resources",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 79,
+          "symbol": "",
+          "evidence": "'mechanics': ['resource_pressure', 'navigation_error', 'near_death', 'rescue'],",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L79"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 114,
+          "symbol": "",
+          "evidence": "'mechanics': ['company_continuity', 'infrastructure', 'resource_conversion', 'camp_building'],",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L114"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 140,
+          "symbol": "",
+          "evidence": "extraction_targets=['crew_procedure', 'machine_grammar', 'watch_report', 'resource_pressure', 'secret_systems'],",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L140"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 169,
+          "symbol": "",
+          "evidence": "'mechanics': ['resource_depletion', 'endurance_timer', 'machine_failure', 'crew_fatigue'],",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L169"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_wells.py",
+          "line": 89,
+          "symbol": "",
+          "evidence": "'game_use': 'Treat experimental power as a moral and social pressure, not just a technical upgrade.',",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_wells.py#L89"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "corpus/sources/verne/manifest.json",
+          "line": 89,
+          "symbol": "",
+          "evidence": "\"resource_pressure\",",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/corpus/sources/verne/manifest.json#L89"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "docs/doctrine/analog-machine-simulation.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "- reduce boiler draw",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/docs/doctrine/analog-machine-simulation.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 149,
+          "symbol": "",
+          "evidence": "'mechanics': ['watch_report', 'status_phrase', 'observation_cadence', 'low_information'],",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L149"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_verne.py",
+          "line": 249,
+          "symbol": "",
+          "evidence": "'mechanics': ['acceleration_risk', 'survivability_threshold', 'launch_constraints', 'crew_preparation'],",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_verne.py#L249"
+        },
+        {
+          "origin": "github",
+          "project": "vernepunk",
+          "repo": "Valar05/vernepunk",
+          "path": "tools/ingest_wells.py",
+          "line": 90,
+          "symbol": "",
+          "evidence": "'mechanics': ['scientific_overreach', 'pain_threshold', 'moral_backlash', 'lab_secrecy'],",
+          "source_url": "https://github.com/Valar05/vernepunk/blob/main/tools/ingest_wells.py#L90"
+        }
+      ]
+    }
+  }
+}

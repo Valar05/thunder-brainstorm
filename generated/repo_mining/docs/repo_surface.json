@@ -1,0 +1,538 @@
+{
+  "repo": "Valar05/docs",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "docs",
+    "updatedAt": "2026-06-20T22:47:53Z",
+    "url": "https://github.com/Valar05/docs",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 2,
+  "selected_files": [
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "8e7bf4e520a08e14599dd3d75c2d7de40afc7774",
+      "size": 985,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 985,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L11"
+      ]
+    },
+    {
+      "path": "meshy_asset_workflow.md",
+      "mode": "100644",
+      "sha": "83afcda943991d63123e112b313b9e798e47c4eb",
+      "size": 2722,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 99,
+      "byte_count": 2722,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L1",
+        "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L3",
+        "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L4",
+        "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L6",
+        "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L8",
+        "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L9",
+        "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L11",
+        "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L12"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 92,
+    "by_origin": {
+      "github": 92
+    },
+    "by_project": {
+      "docs": 92
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 92,
+      "tts_audio_pipeline": 20,
+      "pose_animation_tools": 12,
+      "ai_pressure": 8,
+      "web_choice_player": 6,
+      "text_console_runtime": 2,
+      "touch_lane_combat": 2
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: docs",
+          "evidence": "# Project Manifest: docs",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/docs`",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/docs`",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "No project orientation file was found during manifest generation. Treat this manifest as an inventory scaffold until a project-specific orientation is added.",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 11,
+          "symbol": "Entrypoints And Validation Clues",
+          "evidence": "## Entrypoints And Validation Clues",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L11"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: docs",
+          "evidence": "# Project Manifest: docs",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/docs`",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/docs`",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "No project orientation file was found during manifest generation. Treat this manifest as an inventory scaffold until a project-specific orientation is added.",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 11,
+          "symbol": "Entrypoints And Validation Clues",
+          "evidence": "## Entrypoints And Validation Clues",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L11"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "`MESHY_APIKEY` and the existing typo `MESHY_API_KRY`.",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "--prompt \"stylized hulking biped street fighter, clear limbs, A-pose, game-ready concept art\"",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "--pose-mode a-pose \\",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "Submit and then auto-rig when the image-to-3D task succeeds:",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "--pose-mode a-pose \\",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "--rig \\",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "python3 tools/meshy_asset_workflow.py status rigging TASK_ID --wait --download --project gravity-fist --name alley_brute_01",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L71"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- No standard entrypoint was detected. Inspect top-level files and add project-specific validation commands when known.",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 20,
+          "symbol": "Common Commands",
+          "evidence": "## Common Commands",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L20"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L22"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/docs/blob/main/PROJECT_MANIFEST.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "export OPENAI_API_KEY=...",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "Meshy's no-credit test mode is available with `--test-mode`.",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "Generate a concept image with OpenAI:",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "python3 tools/meshy_asset_workflow.py openai-image \\",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "python3 tools/meshy_asset_workflow.py status image-to-3d TASK_ID --wait",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "python3 tools/meshy_asset_workflow.py status rigging TASK_ID --wait --download --project gravity-fist --name alley_brute_01",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L71"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "Submit a saved image to Meshy:",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "Check or download an existing task:",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "python3 tools/meshy_asset_workflow.py status rigging TASK_ID --wait --download --project gravity-fist --name alley_brute_01",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 83,
+          "symbol": "",
+          "evidence": "ids, request settings, downloaded files, and timestamps. API keys are never",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L83"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 86,
+          "symbol": "",
+          "evidence": "Raw image-to-3D downloads are stored directly in the asset folder. Meshy rigging",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L86"
+        },
+        {
+          "origin": "github",
+          "project": "docs",
+          "repo": "Valar05/docs",
+          "path": "meshy_asset_workflow.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "downloads are stored in `rigged/` so they do not overwrite raw GLB/FBX outputs.",
+          "source_url": "https://github.com/Valar05/docs/blob/main/meshy_asset_workflow.md#L87"
+        }
+      ]
+    }
+  }
+}

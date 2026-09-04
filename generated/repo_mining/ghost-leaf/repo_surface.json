@@ -1,0 +1,551 @@
+{
+  "repo": "Valar05/ghost-leaf",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "ghost-leaf",
+    "updatedAt": "2026-06-20T22:48:00Z",
+    "url": "https://github.com/Valar05/ghost-leaf",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 8,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "a45a17793c35d8cdda72cf90949669f7a8d46aa0",
+      "size": 1144,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 40,
+      "byte_count": 1144,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/ghost-leaf/blob/main/README.md#L10",
+        "https://github.com/Valar05/ghost-leaf/blob/main/README.md#L13"
+      ]
+    },
+    {
+      "path": "testing/README.md",
+      "mode": "100644",
+      "sha": "db5877a22aa6b5c4e57c059d29cb0a187acee248",
+      "size": 294,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 13,
+      "byte_count": 294,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/ghost-leaf/blob/main/testing/README.md#L11"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "4a8ef8dffc8322267cfaae233e47f9b971f70e13",
+      "size": 733,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 733,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_ORIENTATION.md#L6",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_ORIENTATION.md#L14"
+      ]
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "c458424acee55ab540717d91bf1c82e2036e0255",
+      "size": 1715,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 45,
+      "byte_count": 1715,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "categories/category-map.md",
+      "mode": "100644",
+      "sha": "a3d69fd54451a633b3eaff7672528eaadbaefee8",
+      "size": 872,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 872,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/ghost-leaf/blob/main/categories/category-map.md#L3",
+        "https://github.com/Valar05/ghost-leaf/blob/main/categories/category-map.md#L18",
+        "https://github.com/Valar05/ghost-leaf/blob/main/categories/category-map.md#L22",
+        "https://github.com/Valar05/ghost-leaf/blob/main/categories/category-map.md#L27"
+      ]
+    },
+    {
+      "path": "notes/15ml-target.md",
+      "mode": "100644",
+      "sha": "25957d432600b8c01a17d71830c497b8c293b612",
+      "size": 317,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 11,
+      "byte_count": 317,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "notes/first-experiment-tobacco-bold-grumpy-old-bastard.md",
+      "mode": "100644",
+      "sha": "431b04b150f04bad9c5919ba05bcaf30f97d5e1f",
+      "size": 668,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 18,
+      "byte_count": 668,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/ghost-leaf/blob/main/notes/first-experiment-tobacco-bold-grumpy-old-bastard.md#L9"
+      ]
+    },
+    {
+      "path": "templates/mix-log-template.md",
+      "mode": "100644",
+      "sha": "7e029da6e11935e28b0ba361515d97915886fa84",
+      "size": 341,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 30,
+      "byte_count": 341,
+      "mechanics": [],
+      "source_line_refs": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 53,
+    "by_origin": {
+      "github": 53
+    },
+    "by_project": {
+      "ghost-leaf": 53
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 47,
+      "tts_audio_pipeline": 40,
+      "ai_pressure": 7,
+      "pose_animation_tools": 5,
+      "touch_lane_combat": 2,
+      "text_console_runtime": 1,
+      "web_choice_player": 1
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- learn which pairings move from first impression to middle-ground to dominant finish",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Ghost Leaf is a notes-first brainstorm folder for documenting mix experiments with brand-name vape juice products.",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- pairings and combinations",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "> Ghost Leaf is a notes-first brainstorm folder for documenting mix experiments with brand-name vape juice products.",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "> - pairings and combinations",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L44"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- blend percentages",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "testing/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- whether the blend deserves another pass",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/testing/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- blend ratios",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- rules for when a blend shifts from one phase to another",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_ORIENTATION.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: ghost-leaf",
+          "evidence": "# Project Manifest: ghost-leaf",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/ghost-leaf`",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L5"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "The unit of experimentation is not a flavor ingredient but a profile composed from existing products.",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_ORIENTATION.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "> The unit of experimentation is not a flavor ingredient but a profile composed from existing products.",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "categories/category-map.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Use these categories as a starting map, not a rigid taxonomy.",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/categories/category-map.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "categories/category-map.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- sweetener: pushes the blend toward soft or candy-like",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/categories/category-map.md#L22"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: ghost-leaf",
+          "evidence": "# Project Manifest: ghost-leaf",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/ghost-leaf`",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/ghost-leaf`",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Orientation: `PROJECT_ORIENTATION.md`",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "> # Project Orientation",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L10"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- No standard entrypoint was detected. Inspect top-level files and add project-specific validation commands when known.",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L29"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/PROJECT_MANIFEST.md#L44"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "ghost-leaf",
+          "repo": "Valar05/ghost-leaf",
+          "path": "categories/category-map.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- front-loaded: obvious at the start",
+          "source_url": "https://github.com/Valar05/ghost-leaf/blob/main/categories/category-map.md#L27"
+        }
+      ]
+    }
+  }
+}

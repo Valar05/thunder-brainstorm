@@ -1,0 +1,26 @@
+{
+  "repo": "Valar05/Primal-Conflict",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "Primal-Conflict",
+    "updatedAt": "2022-08-18T19:32:56Z",
+    "url": "https://github.com/Valar05/Primal-Conflict",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 0,
+  "selected_files": [],
+  "mechanic_summary": {
+    "record_count": 0,
+    "by_origin": {},
+    "by_project": {},
+    "by_mechanic": {},
+    "examples": {}
+  }
+}

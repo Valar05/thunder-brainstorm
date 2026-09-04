@@ -1,0 +1,1625 @@
+{
+  "repo": "Valar05/agent-closet",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "agent-closet",
+    "updatedAt": "2026-08-14T03:33:17Z",
+    "url": "https://github.com/Valar05/agent-closet",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "5e2b0af72605a4ab56564636b2fab6994777ca70",
+      "size": 4408,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 94,
+      "byte_count": 4408,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/README.md#L10",
+        "https://github.com/Valar05/agent-closet/blob/main/README.md#L12",
+        "https://github.com/Valar05/agent-closet/blob/main/README.md#L18",
+        "https://github.com/Valar05/agent-closet/blob/main/README.md#L21",
+        "https://github.com/Valar05/agent-closet/blob/main/README.md#L23",
+        "https://github.com/Valar05/agent-closet/blob/main/README.md#L35",
+        "https://github.com/Valar05/agent-closet/blob/main/README.md#L37",
+        "https://github.com/Valar05/agent-closet/blob/main/README.md#L38"
+      ]
+    },
+    {
+      "path": "content-factories/README.md",
+      "mode": "100644",
+      "sha": "657fde4e49a03d86380d5a2021c010fb1c8a9799",
+      "size": 59,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 59,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "content-factories/goblin/README.md",
+      "mode": "100644",
+      "sha": "09acdfe020dbb5e09c370834f623a61fcb44d92b",
+      "size": 1969,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 64,
+      "byte_count": 1969,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L9",
+        "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L23",
+        "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L25",
+        "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L30",
+        "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L40",
+        "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L42",
+        "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L43"
+      ]
+    },
+    {
+      "path": "corpus/fiction/observations/README.md",
+      "mode": "100644",
+      "sha": "3423ce2f8474d782aadff821f522f41079b86298",
+      "size": 2048,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 69,
+      "byte_count": 2048,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L1",
+        "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L3",
+        "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L4",
+        "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L7",
+        "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L9",
+        "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L11",
+        "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L13"
+      ]
+    },
+    {
+      "path": "discoveries/drive-corpus/README.md",
+      "mode": "100644",
+      "sha": "6b57e4462cc7f4fec188e0d893fc1e2e7c3bd1a8",
+      "size": 750,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 20,
+      "byte_count": 750,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L1",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L3",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L7",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L8",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L9",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L10",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L11"
+      ]
+    },
+    {
+      "path": "discoveries/fiction-corpus/README.md",
+      "mode": "100644",
+      "sha": "031495596b4ec1ccf658c5e7e4731a3f298fe20a",
+      "size": 963,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 963,
+      "mechanics": [
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/fiction-corpus/README.md#L1",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/fiction-corpus/README.md#L3",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/fiction-corpus/README.md#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/fiction-corpus/README.md#L7",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/fiction-corpus/README.md#L8",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/fiction-corpus/README.md#L9",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/fiction-corpus/README.md#L10",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/fiction-corpus/README.md#L12"
+      ]
+    },
+    {
+      "path": "discoveries/research-corpus/sense-synthesis/README.md",
+      "mode": "100644",
+      "sha": "5e506f9ebfd7441caf4d0da6253e4c454b946d83",
+      "size": 2444,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 75,
+      "byte_count": 2444,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L1",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L3",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L4",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L7",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L9",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L10",
+        "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L11"
+      ]
+    },
+    {
+      "path": "glue/README.md",
+      "mode": "100644",
+      "sha": "b3dfd60c0f42894133a24a84ca793c69fe99c806",
+      "size": 452,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 452,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/glue/README.md#L9",
+        "https://github.com/Valar05/agent-closet/blob/main/glue/README.md#L12"
+      ]
+    },
+    {
+      "path": "known-hazards/README.md",
+      "mode": "100644",
+      "sha": "9dd48e108e2d2c78eeef182a30d7c423c364eee9",
+      "size": 2884,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 130,
+      "byte_count": 2884,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L4",
+        "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L6",
+        "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L32",
+        "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L45",
+        "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L48",
+        "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L60",
+        "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L75",
+        "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L77"
+      ]
+    },
+    {
+      "path": "scratch/README.md",
+      "mode": "100644",
+      "sha": "3e703323a221f0ab1e439c87057151edb4d49bb8",
+      "size": 469,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 15,
+      "byte_count": 469,
+      "mechanics": [
+        "ai_pressure",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/scratch/README.md#L11",
+        "https://github.com/Valar05/agent-closet/blob/main/scratch/README.md#L15"
+      ]
+    },
+    {
+      "path": "sim/goblin/README.md",
+      "mode": "100644",
+      "sha": "ea8634524a824c9384a364f878e0283723c6da90",
+      "size": 138,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 138,
+      "mechanics": [
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/sim/goblin/README.md#L5"
+      ]
+    },
+    {
+      "path": "simulations/engineer-wizard/README.md",
+      "mode": "100644",
+      "sha": "0927f1b86f696bc34452eb1515cec39241f222c7",
+      "size": 405,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 405,
+      "mechanics": [
+        "ai_pressure",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/engineer-wizard/README.md#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/engineer-wizard/README.md#L7"
+      ]
+    },
+    {
+      "path": "simulations/gasket-commentator/README.md",
+      "mode": "100644",
+      "sha": "b9cf141c0b0a5944efbece9d5d80fc3760c93046",
+      "size": 360,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 360,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "simulations/goblin/README.md",
+      "mode": "100644",
+      "sha": "792290ab470928cbbeed0daeaf447d770e774504",
+      "size": 2190,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 84,
+      "byte_count": 2190,
+      "mechanics": [
+        "ai_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/goblin/README.md#L10",
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/goblin/README.md#L12",
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/goblin/README.md#L13",
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/goblin/README.md#L28",
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/goblin/README.md#L39",
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/goblin/README.md#L42",
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/goblin/README.md#L48",
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/goblin/README.md#L51"
+      ]
+    },
+    {
+      "path": "simulations/tank-crew/README.md",
+      "mode": "100644",
+      "sha": "d840778adbf80658c2439754a8273ab461c1c4b2",
+      "size": 361,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 361,
+      "mechanics": [
+        "text_console_runtime",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/tank-crew/README.md#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/tank-crew/README.md#L7"
+      ]
+    },
+    {
+      "path": "simulations/working-dog/README.md",
+      "mode": "100644",
+      "sha": "52c26f76c4d0c263f87a39bb682af733de26c59f",
+      "size": 381,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 381,
+      "mechanics": [
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/simulations/working-dog/README.md#L7"
+      ]
+    },
+    {
+      "path": "tools/drive_corpus_manifest.py",
+      "mode": "100644",
+      "sha": "3f0fad1cc0764aadd82398a4357d2ad8fba5ce20",
+      "size": 2670,
+      "score": 92,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 77,
+      "byte_count": 2670,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L1",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L2",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L4",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L6",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L7",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L8",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L11"
+      ]
+    },
+    {
+      "path": "tools/fiction_corpus_manifest.py",
+      "mode": "100644",
+      "sha": "2c914c61783e6fbfdce373a1d45384bbaf96f65e",
+      "size": 15576,
+      "score": 92,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 403,
+      "byte_count": 15576,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L1",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L2",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L4",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L6",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L7",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L8",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L9"
+      ]
+    },
+    {
+      "path": "tools/mine-chat-export.py",
+      "mode": "100644",
+      "sha": "643648fd52b807084ba6304095f787acca234503",
+      "size": 11821,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 298,
+      "byte_count": 11821,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L1",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L2",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L4",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L6",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L7",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L8",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L9"
+      ]
+    },
+    {
+      "path": "docs/WHAT_IS_AGENT_CLOSET.md",
+      "mode": "100644",
+      "sha": "f29149c0c1e389605d1af3c523382161823d2cdc",
+      "size": 1439,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 68,
+      "byte_count": 1439,
+      "mechanics": [
+        "resource_upgrade_loop",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/docs/WHAT_IS_AGENT_CLOSET.md#L7",
+        "https://github.com/Valar05/agent-closet/blob/main/docs/WHAT_IS_AGENT_CLOSET.md#L67"
+      ]
+    },
+    {
+      "path": "tools/configure-drive-remote.sh",
+      "mode": "100644",
+      "sha": "e335d3e8b10edb7d8b25009ac4c93c027c997ef0",
+      "size": 2405,
+      "score": 76,
+      "reasons": [
+        "helper tooling",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 83,
+      "byte_count": 2405,
+      "mechanics": []
+    },
+    {
+      "path": "tools/validate-scratch-links.py",
+      "mode": "100644",
+      "sha": "41b16fbcfd95674dce57b5296ae536be58a76c96",
+      "size": 2752,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 81,
+      "byte_count": 2752,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-scratch-links.py#L1",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-scratch-links.py#L2",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-scratch-links.py#L4",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-scratch-links.py#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-scratch-links.py#L6",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-scratch-links.py#L8",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-scratch-links.py#L9",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-scratch-links.py#L10"
+      ]
+    },
+    {
+      "path": "tools/validate-sense-synthesis-research.py",
+      "mode": "100644",
+      "sha": "556a18c30c4450a9660a89bf52aed0ac00ece429",
+      "size": 3773,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 101,
+      "byte_count": 3773,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L1",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L2",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L4",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L5",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L6",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L8",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L9",
+        "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L10"
+      ]
+    },
+    {
+      "path": "tools/mine-fiction-work.sh",
+      "mode": "100644",
+      "sha": "896618d7a419a9fedac5b3af0194a3338f8b2420",
+      "size": 7584,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 236,
+      "byte_count": 7584,
+      "mechanics": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1048,
+    "by_origin": {
+      "github": 1048
+    },
+    "by_project": {
+      "agent-closet": 1048
+    },
+    "by_mechanic": {
+      "source_packet_generation": 572,
+      "asset_import_pipeline": 493,
+      "tts_audio_pipeline": 455,
+      "resource_upgrade_loop": 264,
+      "validation_pipeline": 166,
+      "ai_pressure": 85,
+      "text_console_runtime": 34,
+      "pose_animation_tools": 32,
+      "web_choice_player": 21,
+      "writing_corpus_review": 7,
+      "event_clouds": 7,
+      "touch_lane_combat": 2,
+      "delayed_consequences": 2
+    },
+    "examples": {
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- scratch notes that can later be mined into stable doctrine",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "The rule is simple: dump first, then mine the useful parts into shared doctrine or agent packs.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "The source map answers: **Which manuscript source should I mine next, and where should its local export land?**",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "When a new manuscript is mined:",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "scratch/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- mine anything durable into shared doctrine or an agent pack",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/scratch/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/mine-chat-export.py",
+          "line": 1,
+          "symbol": "",
+          "evidence": "#!/usr/bin/env python3",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L1"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/mine-chat-export.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "from __future__ import annotations",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/mine-chat-export.py",
+          "line": 4,
+          "symbol": "",
+          "evidence": "import argparse",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L4"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "There is no app here. No build. No dashboard. Just markdown files.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "4. Read `shared/doctrine/perspective-guided-command.md` for the default command perspective and prompt responsibility model.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "2. Read `shared/index/repository-map.md`, `shared/index/doctrine-index.md`, and `shared/doctrine/perspective-guided-command.md`.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "- `shared/doctrine/perspective-guided-command.md`: default command perspective and prompt responsibility doctrine.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L68"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 90,
+          "symbol": "",
+          "evidence": "Use `tools/configure-drive-remote.sh` once to create the read-only rclone remote, then use `tools/refresh-drive-corpus.sh` as the single refresh command.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L90"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "The goblin feeling appears when the answer is useful and wrong at the same time. The goblin often understands the immediate task, misses the implied constraint, and produces a r...",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "Command",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "4. `command-interpretation.md` - command examples for common goblin profiles.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L43"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "There is no app here. No build. No dashboard. Just markdown files.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/validate-scratch-links.py",
+          "line": 43,
+          "symbol": "",
+          "evidence": "errors.append(f\"{path}: unbalanced fenced code blocks\")",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/validate-scratch-links.py#L43"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "1. Read `MANIFEST.md`.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "1. Read `MANIFEST.md`, `shared/doctrine-registry.md`, `shared/doctrines.md`, `shared/glossary.md`, and the target agent pack.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- `MANIFEST.md`: repo truth and governance map.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "- `discoveries/drive-corpus/`: exported Drive source evidence, manifest, and sync notes.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- long manifestos",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "Manifesto comes later. Merge request comes first.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "1. Read `corpus/fiction/fiction-manifest.md`.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "discoveries/drive-corpus/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Preserve provenance in `manifest.jsonl` and `source-listing.json`.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L11"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "1. Read `MANIFEST.md`.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "1. Read `MANIFEST.md`, `shared/doctrine-registry.md`, `shared/doctrines.md`, `shared/glossary.md`, and the target agent pack.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- `MANIFEST.md`: repo truth and governance map.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "- `discoveries/drive-corpus/`: exported Drive source evidence, manifest, and sync notes.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- long manifestos",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "Manifesto comes later. Merge request comes first.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "2. Fiction source map",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "The source map answers: **Which manuscript source should I mine next, and where should its local export land?**",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L27"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "6. Read `shared/doctrine/visual-truth-authority.md` if the task involves visual output, screenshots, video, cloud visual parity, or a red-build report.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "Exported Drive material is stored under `discoveries/drive-corpus/` so repository workflows can read it locally without touching the original Drive documents.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "discoveries/drive-corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Do not edit the original Drive documents from here.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/drive_corpus_manifest.py",
+          "line": 14,
+          "symbol": "",
+          "evidence": "for chunk in iter(lambda: fh.read(1024 * 1024), b\"\"):",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L14"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/drive_corpus_manifest.py",
+          "line": 15,
+          "symbol": "",
+          "evidence": "h.update(chunk)",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L15"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/fiction_corpus_manifest.py",
+          "line": 164,
+          "symbol": "",
+          "evidence": "for chunk in iter(lambda: fh.read(1024 * 1024), b\"\"):",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L164"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/fiction_corpus_manifest.py",
+          "line": 165,
+          "symbol": "",
+          "evidence": "digest.update(chunk)",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L165"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "How an AI should orient",
+          "evidence": "## How an AI should orient",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- willingness to treat bad ideas as available tools",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "The goblin feeling appears when the answer is useful and wrong at the same time. The goblin often understands the immediate task, misses the implied constraint, and produces a r...",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "1. `attributes.md` - trait sliders and low/medium/high behavior.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "3. `behavior-model.md` - how traits become interpretations and actions.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- trait levels",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "Do not add species history, kingdoms, canon biography, UI, game rules, AI architecture, or simulation categories here.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- `lighter-than-air.md`",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L49"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- `discoveries/`: promoted discovery notes and origin records.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "Exported Drive material is stored under `discoveries/drive-corpus/` so repository workflows can read it locally without touching the original Drive documents.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Purpose: reusable goblin generation rules.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 9,
+          "symbol": "What Makes A Goblin Feel Like A Goblin",
+          "evidence": "## What Makes A Goblin Feel Like A Goblin",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "- likely command interpretations",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "content-factories/goblin/README.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "- likely mistakes",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/content-factories/goblin/README.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 7,
+          "symbol": "Purpose",
+          "evidence": "## Purpose",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "discoveries/drive-corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Do not edit the original Drive documents from here.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/discoveries/drive-corpus/README.md#L9"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "- `discoveries/drive-corpus/`: exported Drive source evidence, manifest, and sync notes.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 86,
+          "symbol": "Google Drive Corpus",
+          "evidence": "## Google Drive Corpus",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L86"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 88,
+          "symbol": "",
+          "evidence": "The Drive corpus workflow lives in `procedures/drive-corpus-sync.md`.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L88"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 90,
+          "symbol": "",
+          "evidence": "Use `tools/configure-drive-remote.sh` once to create the read-only rclone remote, then use `tools/refresh-drive-corpus.sh` as the single refresh command.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L90"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "This is the shared Drive support corpus, not the fiction manuscript corpus.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L92"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "README.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "Exported Drive material is stored under `discoveries/drive-corpus/` so repository workflows can read it locally without touching the original Drive documents.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/README.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 1,
+          "symbol": "Fiction Book Observation Index",
+          "evidence": "# Fiction Book Observation Index",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Status: active evidence layer",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L3"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "These files exist to prevent memory holes and to preserve known cross-corpus hooks. Expand them after direct manuscript mining or version reconciliation.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "corpus/fiction/observations/README.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "Do not promote from chat memory. Promote from artifacts.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/corpus/fiction/observations/README.md#L61"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "discoveries/research-corpus/sense-synthesis/README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "\"safety_domain\": \"none / hydration / alcohol / fermentation / medical / supplement\",",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "discoveries/research-corpus/sense-synthesis/README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "\"rights_note\": \"metadata only / open access / public domain / permission needed\",",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "simulations/goblin/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- What names, dialogue, reactions, and actions fit this substrate?",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/simulations/goblin/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/validate-sense-synthesis-research.py",
+          "line": 19,
+          "symbol": "",
+          "evidence": "\"safety_domain\",",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L19"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/validate-sense-synthesis-research.py",
+          "line": 27,
+          "symbol": "",
+          "evidence": "SAFE_LOCAL_RIGHTS = (\"open access\", \"public domain\", \"permission\", \"repo-owned\")",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L27"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/validate-sense-synthesis-research.py",
+          "line": 76,
+          "symbol": "",
+          "evidence": "safety = record.get(\"safety_domain\")",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L76"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/validate-sense-synthesis-research.py",
+          "line": 78,
+          "symbol": "",
+          "evidence": "errors.append(f\"{path}:{line_no}: safety_domain must be one of {sorted(ALLOWED_SAFETY)}\")",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/validate-sense-synthesis-research.py#L78"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "discoveries/research-corpus/sense-synthesis/README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "\"status\": \"candidate / downloaded / cited / rejected\",",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "known-hazards/README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "observer models",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "known-hazards/README.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "Type: observer model / human-cost exposure",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/drive_corpus_manifest.py",
+          "line": 19,
+          "symbol": "load_listing",
+          "evidence": "def load_listing(path: Path) -> list[dict]:",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L19"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/drive_corpus_manifest.py",
+          "line": 20,
+          "symbol": "",
+          "evidence": "data = json.loads(path.read_text())",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L20"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/drive_corpus_manifest.py",
+          "line": 42,
+          "symbol": "",
+          "evidence": "for item in load_listing(listing_path):",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/drive_corpus_manifest.py#L42"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/fiction_corpus_manifest.py",
+          "line": 169,
+          "symbol": "load_json_array",
+          "evidence": "def load_json_array(path: Path) -> list[dict[str, Any]]:",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L169"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/fiction_corpus_manifest.py",
+          "line": 172,
+          "symbol": "",
+          "evidence": "data = json.loads(path.read_text(encoding=\"utf-8\"))",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/fiction_corpus_manifest.py#L172"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "discoveries/research-corpus/sense-synthesis/README.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "python tools/validate-sense-synthesis-research.py discoveries/research-corpus/sense-synthesis/manifest.jsonl",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "discoveries/research-corpus/sense-synthesis/README.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "python tools/validate-scratch-links.py scratch procedures discoveries/research-corpus",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/discoveries/research-corpus/sense-synthesis/README.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "known-hazards/README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "Status: Active bootstrap",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/known-hazards/README.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "simulations/engineer-wizard/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This future simulation space will model the long-suffering engineer guardian wizard: precise instruments, maintenance magic, calibration, surveying, repair, protective judgment,...",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/simulations/engineer-wizard/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "simulations/engineer-wizard/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Goblin is the current proof artifact. Do not implement engineer-wizard behavior here until the simulation-space pattern has been validated.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/simulations/engineer-wizard/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "simulations/tank-crew/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Goblin is the current proof artifact. Do not implement tank crew behavior here until the simulation-space pattern has been validated through `simulations/goblin/`.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/simulations/tank-crew/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "simulations/working-dog/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Goblin is the current proof artifact. Do not implement working-dog behavior here until the simulation-space pattern has been validated.",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/simulations/working-dog/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "agent-closet",
+          "repo": "Valar05/agent-closet",
+          "path": "tools/mine-chat-export.py",
+          "line": 16,
+          "symbol": "",
+          "evidence": "\"inhalation\": [\"vape\", \"vaping\", \"inhal\", \"smoke\", \"liquid smoke\", \"essential oil\", \"diffuser\", \"mct oil\"],",
+          "source_url": "https://github.com/Valar05/agent-closet/blob/main/tools/mine-chat-export.py#L16"
+        }
+      ]
+    }
+  }
+}

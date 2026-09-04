@@ -1,0 +1,1708 @@
+{
+  "repo": "Valar05/tanks-for-the-memories",
+  "branch": "master",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "description": "WWII life and command simulation corpus for Tanks For The Memories",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "tanks-for-the-memories",
+    "updatedAt": "2026-07-13T09:32:46Z",
+    "url": "https://github.com/Valar05/tanks-for-the-memories",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "1cb5ad4a507235279ee8857b52b0109c4f58b191",
+      "size": 1716,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 1716,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L3",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L7",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L15",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L19",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L21",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L28",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L30",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L32"
+      ]
+    },
+    {
+      "path": "command_doctrine/README.md",
+      "mode": "100644",
+      "sha": "8de4b339694baca1d506cffdffcd0ca70344cf00",
+      "size": 173,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 173,
+      "mechanics": [
+        "source_packet_generation",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/command_doctrine/README.md#L1",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/command_doctrine/README.md#L3",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/command_doctrine/README.md#L4"
+      ]
+    },
+    {
+      "path": "corpus/README.md",
+      "mode": "100644",
+      "sha": "bb46e0c00b0399f9a498aee579997c88f0011690",
+      "size": 125,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 125,
+      "mechanics": [
+        "source_packet_generation",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/corpus/README.md#L1",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/corpus/README.md#L3"
+      ]
+    },
+    {
+      "path": "discoveries/README.md",
+      "mode": "100644",
+      "sha": "2d416f75bd55bd0596f239b251b6c07ebd7d5e8b",
+      "size": 87,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 87,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/discoveries/README.md#L3"
+      ]
+    },
+    {
+      "path": "historical_patterns/README.md",
+      "mode": "100644",
+      "sha": "d7a72926769433d442cb7a58e68976cae034e0e9",
+      "size": 169,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 169,
+      "mechanics": [
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/historical_patterns/README.md#L4"
+      ]
+    },
+    {
+      "path": "mechanic_candidates/README.md",
+      "mode": "100644",
+      "sha": "17207702bd0873b0f39ca9f7a3e77ae4fa16e3ae",
+      "size": 167,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 167,
+      "mechanics": [
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/mechanic_candidates/README.md#L4"
+      ]
+    },
+    {
+      "path": "pressure_systems/README.md",
+      "mode": "100644",
+      "sha": "916934395401194bc6bdf01bdf03106a4754a0cc",
+      "size": 156,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 156,
+      "mechanics": [
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/pressure_systems/README.md#L3",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/pressure_systems/README.md#L4"
+      ]
+    },
+    {
+      "path": "queries/README.md",
+      "mode": "100644",
+      "sha": "81f202f87b5327786e7b20607ff11db17f9ba559",
+      "size": 138,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 138,
+      "mechanics": [
+        "source_packet_generation",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/queries/README.md#L3"
+      ]
+    },
+    {
+      "path": "simulation_variables/README.md",
+      "mode": "100644",
+      "sha": "fbc103d184f7398c1a96765eedbf7c3692f48507",
+      "size": 184,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 184,
+      "mechanics": [
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/simulation_variables/README.md#L4"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "323e7e4ea47214fb467837081ed74ad4e56f189b",
+      "size": 680,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 24,
+      "byte_count": 680,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/package.json#L10",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/package.json#L11",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/package.json#L13",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/package.json#L14",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/package.json#L19"
+      ]
+    },
+    {
+      "path": "scripts/generate-cartesia-audio.mjs",
+      "mode": "100644",
+      "sha": "0f582b902a877a2ceda64969abe8a00cf5f1ffd4",
+      "size": 1611,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 47,
+      "byte_count": 1611,
+      "mechanics": []
+    },
+    {
+      "path": "docs/continuity/alpha-is-lexen-vigil.md",
+      "mode": "100644",
+      "sha": "b84404c00ffad5625a9559cccc17cba7a5ab7c79",
+      "size": 12207,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 231,
+      "byte_count": 12207,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L9",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L10",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L11",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L12",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L16",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L19",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L22",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L24"
+      ]
+    },
+    {
+      "path": "docs/doctrine/archival-memory-visual-doctrine.md",
+      "mode": "100644",
+      "sha": "7d8dea3c08892e34dcd14b6b204ad7c1b64a684c",
+      "size": 1676,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 78,
+      "byte_count": 1676,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L1",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L3",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L5",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L7",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L9",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L11",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L13",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L15"
+      ]
+    },
+    {
+      "path": "docs/doctrine/avre-radio-command-organ.md",
+      "mode": "100644",
+      "sha": "ad4848e4cfaa4bf405953aa2be82f58db6f9103d",
+      "size": 1216,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 20,
+      "byte_count": 1216,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/avre-radio-command-organ.md#L1",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/avre-radio-command-organ.md#L3",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/avre-radio-command-organ.md#L5",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/avre-radio-command-organ.md#L7",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/avre-radio-command-organ.md#L9",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/avre-radio-command-organ.md#L10",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/avre-radio-command-organ.md#L11",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/avre-radio-command-organ.md#L12"
+      ]
+    },
+    {
+      "path": "docs/doctrine/battlefield-awareness-camera.md",
+      "mode": "100644",
+      "sha": "d50b507bc9ef4065573ca7154b539039e31db8fb",
+      "size": 6609,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 235,
+      "byte_count": 6609,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L7",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L9",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L17",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L18",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L19",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L20",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L28",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L30"
+      ]
+    },
+    {
+      "path": "docs/doctrine/repo-crucible-report.md",
+      "mode": "100644",
+      "sha": "fea7e12e22997c301f4aee21486ac6f7d6d242e1",
+      "size": 6850,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 284,
+      "byte_count": 6850,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L1",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L3",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L5",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L7",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L9",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L11",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L13",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L14"
+      ]
+    },
+    {
+      "path": "docs/doctrine/verne-wells-doctrine.md",
+      "mode": "100644",
+      "sha": "02101f999425d6a2886f6d127aab54576c6a260f",
+      "size": 4127,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 163,
+      "byte_count": 4127,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/verne-wells-doctrine.md#L8",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/verne-wells-doctrine.md#L37",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/verne-wells-doctrine.md#L49",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/verne-wells-doctrine.md#L62",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/verne-wells-doctrine.md#L72",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/verne-wells-doctrine.md#L87",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/verne-wells-doctrine.md#L103",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/verne-wells-doctrine.md#L113"
+      ]
+    },
+    {
+      "path": "docs/spinouts/vernepunk-repo-corpus-ml.md",
+      "mode": "100644",
+      "sha": "d0bdcaddef8a36a03e07d6ef50b49ab06e72cdba",
+      "size": 6173,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 285,
+      "byte_count": 6173,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L1",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L3",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L5",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L7",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L9",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L10",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L11",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L12"
+      ]
+    },
+    {
+      "path": "scripts/bootstrap.sh",
+      "mode": "100644",
+      "sha": "86dc66be714a21b7496a378078ba7eb739b3bdc1",
+      "size": 82,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 82,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/browser-acceptance.mjs",
+      "mode": "100644",
+      "sha": "421feddd0d66da8df06098361d5fc2236114b06d",
+      "size": 4407,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 89,
+      "byte_count": 4407,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/build.mjs",
+      "mode": "100644",
+      "sha": "d91f2a5063b9b953fd9b0ea91b6a9e4736945929",
+      "size": 1498,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 1498,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/smoke.mjs",
+      "mode": "100644",
+      "sha": "ae520448b5804faf8a465d4ff84d096bf6aefd9f",
+      "size": 2680,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 65,
+      "byte_count": 2680,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/test-command-compiler.mts",
+      "mode": "100644",
+      "sha": "7c05ba8c9f764c8388763ce114f5741676ee03ef",
+      "size": 1604,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 1604,
+      "mechanics": []
+    },
+    {
+      "path": "CORPUS_MANIFEST.json",
+      "mode": "100644",
+      "sha": "fa6b54f9140d931022f5c6818e3fcd35c2902e0a",
+      "size": 21461,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 620,
+      "byte_count": 21461,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L1",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L2",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L3",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L4",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L5",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L6",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L7",
+        "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1226,
+    "by_origin": {
+      "github": 1226
+    },
+    "by_project": {
+      "tanks-for-the-memories": 1226
+    },
+    "by_mechanic": {
+      "source_packet_generation": 835,
+      "asset_import_pipeline": 645,
+      "tts_audio_pipeline": 630,
+      "writing_corpus_review": 200,
+      "pose_animation_tools": 156,
+      "ai_pressure": 148,
+      "text_console_runtime": 71,
+      "delayed_consequences": 69,
+      "validation_pipeline": 26,
+      "vehicle_survival": 20,
+      "web_choice_player": 13,
+      "touch_lane_combat": 5,
+      "resource_upgrade_loop": 5,
+      "event_clouds": 5
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Static first playable: a text and Cartesia-read audio game about conducting a Churchill AVRE breach through other people's hands.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "Audio",
+          "evidence": "## Audio",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "Authored text is canonical and visible. Cartesia audio is generated during development and served as static WAV files from `public/audio/`.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "CARTESIA_API_KEY='...' CARTESIA_VOICE_ID='...' npm run audio:generate",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "package.json",
+          "line": 13,
+          "symbol": "audio:generate",
+          "evidence": "\"audio:generate\": \"node scripts/generate-cartesia-audio.mjs\",",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/package.json#L13"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 113,
+          "symbol": "Scene Manifest",
+          "evidence": "## Scene Manifest",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L113"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/avre-radio-command-organ.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "Cartesia audio is static content. Authored text is canonical and must remain complete without audio. The browser never receives a Cartesia key.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/avre-radio-command-organ.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 133,
+          "symbol": "",
+          "evidence": "Usually do not seize camera. Use audio, UI marker, radio bark, or optional notification.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L133"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The playable surface is one Royal Engineers operation in a Churchill AVRE. The player is not the driver, gunner, radio operator, or a detached tactical cursor. The player speaks...",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "Commands",
+          "evidence": "## Commands",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "Typed commands and browser speech recognition use the same compiler. Runtime does not use an LLM or autonomous agent.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "See [REPO_DOCTRINE.md](./REPO_DOCTRINE.md) and [AVRE Radio Command Organ](./docs/doctrine/avre-radio-command-organ.md).",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "command_doctrine/README.md",
+          "line": 1,
+          "symbol": "command_doctrine",
+          "evidence": "# command_doctrine",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/command_doctrine/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "command_doctrine/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Scope: Command and decision doctrine distilled for implementation.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/command_doctrine/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "command_doctrine/README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Use: discover and index design-relevant historical evidence from the WWII corpus.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/command_doctrine/README.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "corpus/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder holds the simulation substrate for WWII life, command, logistics, civilians, medical care, and combat.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/corpus/README.md#L3"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "npm run smoke",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "package.json",
+          "line": 10,
+          "symbol": "smoke",
+          "evidence": "\"smoke\": \"node scripts/smoke.mjs\",",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/package.json#L10"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "package.json",
+          "line": 14,
+          "symbol": "bootstrap",
+          "evidence": "\"bootstrap\": \"sh scripts/bootstrap.sh\"",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/package.json#L14"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "`Holding Vigil` establishes Lexen Vigil as a man who distrusts artificial comfort, hungers for something real, and becomes most alive under pain, friction, danger, exhaustion, s...",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 126,
+          "symbol": "",
+          "evidence": "4. **Buying Shoes During Wartime Shortages** — How does material scarcity teach repair, patience, and social obligation?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L126"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 138,
+          "symbol": "",
+          "evidence": "11. **First Cigarette** — When does smoke become a field ritual instead of rebellion?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L138"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 192,
+          "symbol": "",
+          "evidence": "This timeline is not electricity-as-magic and not sleek cyberpunk. It is an analog future: diesel, hydraulic, electromechanical, vacuum-tube, relay-driven, repairable, heavy, lo...",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L192"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 201,
+          "symbol": "",
+          "evidence": "46. **The First Floating District** — What survival problem lifts cities off the ground?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L201"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `report`",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 125,
+          "symbol": "",
+          "evidence": "3. **Alice Writes After a Casualty Report** — How does Alice practice holding vigil before Lexen leaves?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L125"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 182,
+          "symbol": "",
+          "evidence": "36. **First Intelligence Briefing** — What does he think of war fought through maps, projections, and incomplete reports?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L182"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/avre-radio-command-organ.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Physically meaningful commands that are impossible in the current world state are different from garbage. They may route to the correct recipient, who may report the physical ob...",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/avre-radio-command-organ.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Camera events should always come from an in-world observer or report source.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- Messenger or radio report",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "A soldier may report:",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 162,
+          "symbol": "",
+          "evidence": "4. Audio callout or report.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L162"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- `engineers mark the lane`",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 95,
+          "symbol": "",
+          "evidence": "- Blocked by smoke, terrain, weather, and stress",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L95"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/repo-crucible-report.md",
+          "line": 130,
+          "symbol": "",
+          "evidence": "- attack contact",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L130"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "CORPUS_MANIFEST.json",
+          "line": 53,
+          "symbol": "source",
+          "evidence": "\"source\": \"Cross-Channel Attack, Chapter VIII: The Sixth of June\",",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L53"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "CORPUS_MANIFEST.json",
+          "line": 62,
+          "symbol": "source",
+          "evidence": "\"source\": \"Cross-Channel Attack, Chapter IX: The V Corps Lodgment\",",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L62"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- `engineers mark the lane`",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 150,
+          "symbol": "",
+          "evidence": "18. **Waiting for Fuel** — How does logistics control courage?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L150"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 156,
+          "symbol": "",
+          "evidence": "24. **First Replacement Crewman** — How does trust reset inside a vehicle that remembers the missing man?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L156"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 199,
+          "symbol": "",
+          "evidence": "44. **Airship Convoy Over Ruined Rail** — When does the sky become the new road?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L199"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "- Tank kill or catastrophic vehicle damage",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 113,
+          "symbol": "",
+          "evidence": "- New vehicle class spotted",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L113"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/repo-crucible-report.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "Direct vehicle control should remain subordinate to command decisions.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/repo-crucible-report.md",
+          "line": 219,
+          "symbol": "",
+          "evidence": "HQ says the road is open.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L219"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "GitHub Pages is configured through `.github/workflows/pages.yml`. Repository Pages settings must use GitHub Actions as the source. Do not merge or treat production Pages as auth...",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "pressure_systems/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Scope: Pressure loops and resource decay systems.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/pressure_systems/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "package.json",
+          "line": 11,
+          "symbol": "compiler:test",
+          "evidence": "\"compiler:test\": \"node --import tsx scripts/test-command-compiler.mts\",",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/package.json#L11"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "Important observed traits from the Drive manuscript:",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 113,
+          "symbol": "Scene Manifest",
+          "evidence": "## Scene Manifest",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L113"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/archival-memory-visual-doctrine.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "Use short archival-style effects only for important information or memory events:",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 30,
+          "symbol": "Information Sources",
+          "evidence": "## Information Sources",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Camera events should always come from an in-world observer or report source.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L32"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "command_doctrine/README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Use: discover and index design-relevant historical evidence from the WWII corpus.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/command_doctrine/README.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "corpus/README.md",
+          "line": 1,
+          "symbol": "Corpus",
+          "evidence": "# Corpus",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/corpus/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "corpus/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder holds the simulation substrate for WWII life, command, logistics, civilians, medical care, and combat.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/corpus/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "historical_patterns/README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Use: discover and index design-relevant historical evidence from the WWII corpus.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/historical_patterns/README.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "mechanic_candidates/README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Use: discover and index design-relevant historical evidence from the WWII corpus.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/mechanic_candidates/README.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "pressure_systems/README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Use: discover and index design-relevant historical evidence from the WWII corpus.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/pressure_systems/README.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "queries/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Use `answer_engine.py <query_id> --format both` to return markdown and JSON answers from the WWII life and command corpus.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/queries/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "simulation_variables/README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Use: discover and index design-relevant historical evidence from the WWII corpus.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/simulation_variables/README.md#L4"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "discoveries/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder contains the design-changing historical distillation cards.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/discoveries/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `Holding Vigil` remains the later-life / far-future writing corpus for Lexen Vigil.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `Tanks For The Memories` remains the WWII historical foundation and simulation substrate.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Later dieselpunk / ruined-air / Paradise material grows out of this history through accumulated cause and consequence, not by replacing the historical layer.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "The repo doctrine also requires modeling what people knew, when they knew it, what they believed was true, and how delayed or distorted information shaped consequence. Daily lif...",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "Therefore, WWII Lexen cannot enter the repo as a superhero transplant or a lore override. He enters as Alpha: a young Sherman commander under uncertainty, responsibility, fatigu...",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "`Holding Vigil` establishes Lexen Vigil as a man who distrusts artificial comfort, hungers for something real, and becomes most alive under pain, friction, danger, exhaustion, s...",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "Important observed traits from the Drive manuscript:",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L30"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "pressure_systems/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Scope: Pressure loops and resource decay systems.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/pressure_systems/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 101,
+          "symbol": "",
+          "evidence": "Later, when Paradise offers comfort without consequence, Lexen recognizes the shape of the lie because WWII taught it to him first.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L101"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 117,
+          "symbol": "",
+          "evidence": "These are not lore chapters. They are simulation targets. Each scene should observe a concrete moment and let later fiction mine the result.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L117"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/repo-crucible-report.md",
+          "line": 21,
+          "symbol": "1. Information Is The Primary Resource",
+          "evidence": "### 1. Information Is The Primary Resource",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/repo-crucible-report.md",
+          "line": 211,
+          "symbol": "",
+          "evidence": "Any UI that tells the player exact enemy position, exact certainty, or full battlefield state without a modeled source undermines the core game.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L211"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "package.json",
+          "line": 19,
+          "symbol": "playwright-core",
+          "evidence": "\"playwright-core\": \"^1.61.1\",",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/package.json#L19"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "These traits now have a historical root instead of a purely futuristic origin.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "Alpha's competence should be frightening because it is not clean heroism. It is adaptation under pressure.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 121,
+          "symbol": "",
+          "evidence": "Purpose: establish Lexen before Alpha without overexplaining him.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L121"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 123,
+          "symbol": "",
+          "evidence": "1. **Lexen at Home Before the War** — What does ordinary Vigil family life feel like before history reaches the house?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L123"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 128,
+          "symbol": "",
+          "evidence": "6. **The Train to Basic** — What does departure feel like before war has given him a role?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L128"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 133,
+          "symbol": "",
+          "evidence": "Purpose: show Lexen becoming useful before he becomes mythic.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L133"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 137,
+          "symbol": "",
+          "evidence": "10. **First Punishment** — What does imposed pain teach him that home never could?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L137"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "Information -> Order -> Consequence -> Memory",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "The repo doctrine also requires modeling what people knew, when they knew it, what they believed was true, and how delayed or distorted information shaped consequence. Daily lif...",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 106,
+          "symbol": "",
+          "evidence": "Home -> War -> Tank -> Command -> Memory -> False Comfort -> Revolt",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L106"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 147,
+          "symbol": "",
+          "evidence": "Purpose: bind Alpha to the playable WWII simulation: uncertainty, crew memory, fatigue, mail, logistics, and command under partial knowledge.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L147"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/continuity/alpha-is-lexen-vigil.md",
+          "line": 198,
+          "symbol": "",
+          "evidence": "43. **Mechanical Archive** — How does memory become infrastructure before it becomes myth?",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/continuity/alpha-is-lexen-vigil.md#L198"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/archival-memory-visual-doctrine.md",
+          "line": 1,
+          "symbol": "Archival Memory Visual Doctrine",
+          "evidence": "# Archival Memory Visual Doctrine",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/archival-memory-visual-doctrine.md",
+          "line": 3,
+          "symbol": "Core Rule",
+          "evidence": "## Core Rule",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/archival-memory-visual-doctrine.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Do not make Tanks for the Memories literally black and white.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/archival-memory-visual-doctrine.md#L5"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "The player is not a god floating above the war. The player is receiving battlefield knowledge through human observers.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Camera events should always come from an in-world observer or report source.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- Artillery observer callout",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/battlefield-awareness-camera.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "The camera may only reveal what the observer could reasonably perceive.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/battlefield-awareness-camera.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/repo-crucible-report.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "- visibility choices",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/repo-crucible-report.md",
+          "line": 148,
+          "symbol": "",
+          "evidence": "- loader: ammunition and tempo",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/repo-crucible-report.md#L148"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/doctrine/verne-wells-doctrine.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "This is the voice of the commander as engineer, surveyor, mechanic, navigator, and field observer.",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/doctrine/verne-wells-doctrine.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/spinouts/vernepunk-repo-corpus-ml.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- observer-sourced awareness",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L21"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/spinouts/vernepunk-repo-corpus-ml.md",
+          "line": 102,
+          "symbol": "",
+          "evidence": "- Jules Verne public-domain novels",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L102"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/spinouts/vernepunk-repo-corpus-ml.md",
+          "line": 178,
+          "symbol": "",
+          "evidence": "public_domain: true/false",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L178"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "docs/spinouts/vernepunk-repo-corpus-ml.md",
+          "line": 179,
+          "symbol": "",
+          "evidence": "domain: fiction | manual | journal | report",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/docs/spinouts/vernepunk-repo-corpus-ml.md#L179"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "CORPUS_MANIFEST.json",
+          "line": 395,
+          "symbol": "source",
+          "evidence": "\"source\": \"Combat stress reaction\",",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L395"
+        },
+        {
+          "origin": "github",
+          "project": "tanks-for-the-memories",
+          "repo": "Valar05/tanks-for-the-memories",
+          "path": "CORPUS_MANIFEST.json",
+          "line": 397,
+          "symbol": "url",
+          "evidence": "\"url\": \"https://en.wikipedia.org/wiki/Combat_stress_reaction\",",
+          "source_url": "https://github.com/Valar05/tanks-for-the-memories/blob/master/CORPUS_MANIFEST.json#L397"
+        }
+      ]
+    }
+  }
+}

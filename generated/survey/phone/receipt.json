@@ -1,0 +1,8 @@
+{
+  "kind": "thunder-run-one-survey",
+  "created_at": "2026-08-12T17:59:58.332961+00:00",
+  "machine": "localhost",
+  "repo_count": 70,
+  "duplicate_groups": 7,
+  "sha256": "2092c7dcc92f4c1fc04c3659d7127a05a294244a7596d7578eeec49c67cd00d9"
+}

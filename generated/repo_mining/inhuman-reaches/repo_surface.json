@@ -1,0 +1,26 @@
+{
+  "repo": "Valar05/inhuman-reaches",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "a game",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "inhuman-reaches",
+    "updatedAt": "2023-01-12T00:01:22Z",
+    "url": "https://github.com/Valar05/inhuman-reaches",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 0,
+  "selected_files": [],
+  "mechanic_summary": {
+    "record_count": 0,
+    "by_origin": {},
+    "by_project": {},
+    "by_mechanic": {},
+    "examples": {}
+  }
+}

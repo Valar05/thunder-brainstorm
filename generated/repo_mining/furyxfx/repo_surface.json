@@ -1,0 +1,361 @@
+{
+  "repo": "Valar05/furyxfx",
+  "branch": "master",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "furyxfx",
+    "updatedAt": "2019-03-08T14:25:34Z",
+    "url": "https://github.com/Valar05/furyxfx",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 12,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "3ce7cae54bb425f61421ebda0403073df3fc92cd",
+      "size": 10,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 10,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "app/Filters.scala",
+      "mode": "100644",
+      "sha": "a72db50dc18e340bc4daa671a2ff18fe1f6f306d",
+      "size": 1027,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 1027,
+      "mechanics": []
+    },
+    {
+      "path": "app/Module.scala",
+      "mode": "100644",
+      "sha": "ca0e39f72aa1d4a1ac2c295fec586bc86455017e",
+      "size": 982,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 982,
+      "mechanics": []
+    },
+    {
+      "path": "app/controllers/AsyncController.scala",
+      "mode": "100644",
+      "sha": "f1f6ff0fcb9e8565f231eddc646580a5c154e62e",
+      "size": 1304,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 1304,
+      "mechanics": []
+    },
+    {
+      "path": "app/controllers/CountController.scala",
+      "mode": "100644",
+      "sha": "51bd50ebfb61d780974bbc02407a3934a3c16876",
+      "size": 742,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 25,
+      "byte_count": 742,
+      "mechanics": []
+    },
+    {
+      "path": "app/controllers/HomeController.scala",
+      "mode": "100644",
+      "sha": "b515f128dc083e42f4d18088b6c306aa28c03301",
+      "size": 235,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 235,
+      "mechanics": []
+    },
+    {
+      "path": "app/filters/ExampleFilter.scala",
+      "mode": "100644",
+      "sha": "019d1d89d828f9c31e75aafc88233ea62e69c119",
+      "size": 1044,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 1044,
+      "mechanics": []
+    },
+    {
+      "path": "app/services/ApplicationTimer.scala",
+      "mode": "100644",
+      "sha": "7ace7648834952d2eaecf2ad259e70ede41be109",
+      "size": 1525,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 1525,
+      "mechanics": []
+    },
+    {
+      "path": "app/services/Counter.scala",
+      "mode": "100644",
+      "sha": "fe19334ee8cb13288d2ea4245fa51d7675b0f064",
+      "size": 864,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 29,
+      "byte_count": 864,
+      "mechanics": []
+    },
+    {
+      "path": "app/views/index.scala.html",
+      "mode": "100644",
+      "sha": "e42aeea2fe872f14b1e917ac342ea687e8fef757",
+      "size": 632,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 632,
+      "mechanics": []
+    },
+    {
+      "path": "app/views/main.scala.html",
+      "mode": "100644",
+      "sha": "28cdcd8064c91cfaa1daa476ac9f48e3602edcfe",
+      "size": 1896,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 44,
+      "byte_count": 1896,
+      "mechanics": []
+    },
+    {
+      "path": "public/javascripts/game.js",
+      "mode": "100644",
+      "sha": "3029ee6deeafdfc0b069a4ae164f81fb0d02b1f5",
+      "size": 4381,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 164,
+      "byte_count": 4381,
+      "mechanics": [
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L4",
+        "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L12",
+        "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L46",
+        "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L69",
+        "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L73",
+        "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L77",
+        "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L89",
+        "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L122"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 13,
+    "by_origin": {
+      "github": 13
+    },
+    "by_project": {
+      "furyxfx": 13
+    },
+    "by_mechanic": {
+      "pose_animation_tools": 8,
+      "text_console_runtime": 3,
+      "deck_pressure": 1,
+      "web_choice_player": 1
+    },
+    "examples": {
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 4,
+          "symbol": "",
+          "evidence": "var score_right = undefined;",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L4"
+        },
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 12,
+          "symbol": "",
+          "evidence": "score_right = new component(30, 30, \"0-piece\", 435, 30);",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L12"
+        },
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 69,
+          "symbol": "",
+          "evidence": "var right = this.x + (this.width);",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L69"
+        },
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 73,
+          "symbol": "",
+          "evidence": "var wallRight = wall.x + (wall.width);",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L73"
+        },
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 77,
+          "symbol": "",
+          "evidence": "return !((bottom < wallTop) || (top > wallBottom) || (right < wallLeft) || (left > wallRight));",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L77"
+        },
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 122,
+          "symbol": "",
+          "evidence": "score_right.color = scoreArray[1] + \"-piece\";",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L122"
+        },
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 123,
+          "symbol": "",
+          "evidence": "score_right.update();",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L123"
+        },
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 144,
+          "symbol": "",
+          "evidence": "score_right = undefined;",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L144"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 46,
+          "symbol": "",
+          "evidence": "ctx.drawImage(document.getElementById(this.color), 0, 0, this.width, this.height, this.x, this.y, this.width, this.height);",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L46"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 89,
+          "symbol": "",
+          "evidence": "toggleResetButton();",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L89"
+        },
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 151,
+          "symbol": "",
+          "evidence": "toggleResetButton();",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L151"
+        },
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 155,
+          "symbol": "toggleResetButton",
+          "evidence": "function toggleResetButton() {",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L155"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "furyxfx",
+          "repo": "Valar05/furyxfx",
+          "path": "public/javascripts/game.js",
+          "line": 162,
+          "symbol": "",
+          "evidence": "window.onload = function () {",
+          "source_url": "https://github.com/Valar05/furyxfx/blob/master/public/javascripts/game.js#L162"
+        }
+      ]
+    }
+  }
+}
