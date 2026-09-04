@@ -108,3 +108,33 @@ The permanent robustness guardrail is engine-generated, not a single author-pick
 Global deterministic QA now requires a prospective causal-risk packet for enrolled projects. Every planned boundary needs an assumption, bypass/no-op/test-lie mode, ordinary variation, falsifier, and guard; newly touched unmapped boundaries fail closed. The engine derives the served HTML/ESM production graph, injects a Node trace preload, and requires actual shipped-adapter move/jump/step events. It also rejects machine ownership of visual acceptance. This is deliberately bounded: static HTML/ESM and Node tracing cannot universally attest bundlers, dynamic imports, native runtimes, adversarial tests, genuine human foresight, or pixels. User play remains the visual acceptance owner.
 
 Workspace `AGENTS.md` separately requires an agent-authored causal-chain pre-mortem before mutation, plus a post-mutation unknown-boundary audit. The global receipt and the acting-agent receipt are independent gates; neither may self-certify the other. The global aggregate engine test suite also carries a 90-second fail-closed traceback watchdog so buffered output cannot be mistaken for an unbounded green run. Two aggregate runs completed 21/21 in 27.068 seconds and 24.897 seconds.
+
+
+## Binding Supersession: Copy The Existing Accessible Mantle
+
+This section supersedes every earlier statement in this note that makes Product One mantle depend on a queued jump, rising-only contact, a timing window, full-stick input, perfect yaw, rendered hands, or entry into CLIMB. Those were rejected redesign premises, not the commissioned Infinite Brutality mantle. They remain historical false-green evidence only.
+
+### Exact Local Provenance
+
+Local Git identifies commit 3b2ceed3c2bc064f9fb74728ddac809574bd0dd5 (Advance district runtime, climbing, and AI throttle polish) as the introduction point for tryBeginClimb(), startMantleFromClimb(), and updatePlayerMantle() in src/main.js. Commit ac60d95036caacd97ef58ba9f5c5fad439af5ba9 (Add nook storytelling systems and extract runtime modules) moved that owner into src/player-climb.js.
+
+The source-owned mantle is the behavior to reproduce: select and validate a standable top, derive a landing point across the contacted lip with the existing player-radius and mantle-forward inset, interpolate from the current position to that landing over the existing mantle duration with the existing eased lift, keep velocity zero during the constrained motion, then finish exactly on the top in GROUND. The current owner remains src/player-climb.js.
+
+tryBeginClimb() and updatePlayerClimb() are provenance for the older attachment, hang, and top-out glue. Their CLIMB state, cling, shimmy, facing thresholds, and climb-input thresholds are explicitly not part of Product One. The box demo must adapt the smallest contact-to-mantle entry around the copied startMantleFromClimb() target construction and updatePlayerMantle() motion; it must not redesign the trajectory or smuggle the rejected climb mode back in.
+
+### Confirmed Product One Accessibility Contract
+
+Aggressive accessibility preserves the existing mantle's generous success envelope. On the controller-grid surface, ordinary movement into a valid walkable cuboid is the complete action:
+
+- A short valid box automounts through the existing grounded step/autostep owner.
+- Any taller box whose mantle point is within the current player's reachable height automatically begins the copied constrained mantle.
+- Grounded, airborne, rising, and falling contact are all eligible. There is no jump-button, jump-arm, rising-only, camera-pitch, facing-dot, full-stick, or timing-chord burden.
+- The only player-facing mantle rejection is that the mantle point is too high above the player's current reachable height. Valid walkable support, body clearance, and a safe landing are construction invariants the arena/runtime must provide, not extra player burdens.
+- CLIMB/aclimb never activates, and Product One loads, updates, and renders no hands, arms, or weapon.
+- The 28 deterministic random boxes remain real participants in the same rule. Their actual generated dimensions must include short autostep, reachable mantle, and too-high control tiers; a privileged authored mantle box or simulator-only proxy is not proof.
+
+The playable route must naturally expose the step and mantle behaviors without an ideal full-forward/perfect-yaw script. Local deterministic simulation is a guardrail for source ownership, generated box coverage, state transitions, ordinary-input domains, and negative controls. It cannot claim visible success. User play is the visual acceptance owner, and a user-visible no-op keeps the build RED regardless of machine results.
+
+### Commission-Fidelity Boundary
+
+This is a reproduction commission. The authoritative source is the local Infinite Brutality history and current src/player-climb.js owner. Approved deviations are limited to removing hands, removing the separate CLIMB/aclimb behavior, and integrating the copied mantle into the controller-grid cuboids with automatic accessible entry. New jump/rising/facing formulas, generated capability categories, or parallel mantle trajectories are outside the confirmed commission.
