@@ -1,0 +1,894 @@
+{
+  "repo": "Valar05/clarity-engine",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "The Resume chatbot for Andrew Clarke",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "clarity-engine",
+    "updatedAt": "2025-06-12T14:52:43Z",
+    "url": "https://github.com/Valar05/clarity-engine",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 12,
+  "selected_files": [
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "690314bbc581d6913fe113916c1c68eea56a84a1",
+      "size": 693,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 26,
+      "byte_count": 693,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/package.json#L5",
+        "https://github.com/Valar05/clarity-engine/blob/main/package.json#L7",
+        "https://github.com/Valar05/clarity-engine/blob/main/package.json#L9",
+        "https://github.com/Valar05/clarity-engine/blob/main/package.json#L15",
+        "https://github.com/Valar05/clarity-engine/blob/main/package.json#L23"
+      ]
+    },
+    {
+      "path": "postcss.config.js",
+      "mode": "100644",
+      "sha": "12a703d900da8159c30e75acbd2c4d87ae177f62",
+      "size": 83,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 6,
+      "byte_count": 83,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/postcss.config.js#L3"
+      ]
+    },
+    {
+      "path": "server.js",
+      "mode": "100644",
+      "sha": "caf02fae06d8d05a49c91a2f218118c900e10465",
+      "size": 3603,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 3603,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/server.js#L1",
+        "https://github.com/Valar05/clarity-engine/blob/main/server.js#L2",
+        "https://github.com/Valar05/clarity-engine/blob/main/server.js#L3",
+        "https://github.com/Valar05/clarity-engine/blob/main/server.js#L4",
+        "https://github.com/Valar05/clarity-engine/blob/main/server.js#L5",
+        "https://github.com/Valar05/clarity-engine/blob/main/server.js#L7",
+        "https://github.com/Valar05/clarity-engine/blob/main/server.js#L8",
+        "https://github.com/Valar05/clarity-engine/blob/main/server.js#L10"
+      ]
+    },
+    {
+      "path": "tailwind.config.js",
+      "mode": "100644",
+      "sha": "41c8754e96a4a659149f062efe0296b46ec172d5",
+      "size": 206,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 206,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/tailwind.config.js#L1",
+        "https://github.com/Valar05/clarity-engine/blob/main/tailwind.config.js#L2",
+        "https://github.com/Valar05/clarity-engine/blob/main/tailwind.config.js#L3",
+        "https://github.com/Valar05/clarity-engine/blob/main/tailwind.config.js#L4",
+        "https://github.com/Valar05/clarity-engine/blob/main/tailwind.config.js#L5",
+        "https://github.com/Valar05/clarity-engine/blob/main/tailwind.config.js#L6",
+        "https://github.com/Valar05/clarity-engine/blob/main/tailwind.config.js#L7",
+        "https://github.com/Valar05/clarity-engine/blob/main/tailwind.config.js#L8"
+      ]
+    },
+    {
+      "path": "tailwindcss.config.js",
+      "mode": "100644",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 0,
+      "byte_count": 0,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "vite.config.js",
+      "mode": "100644",
+      "sha": "7bd6426685d57baf75f1b00abed1397c10314f57",
+      "size": 336,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 336,
+      "mechanics": [
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/vite.config.js#L1",
+        "https://github.com/Valar05/clarity-engine/blob/main/vite.config.js#L2",
+        "https://github.com/Valar05/clarity-engine/blob/main/vite.config.js#L3",
+        "https://github.com/Valar05/clarity-engine/blob/main/vite.config.js#L12"
+      ]
+    },
+    {
+      "path": "RecruiterQuestions.json",
+      "mode": "100644",
+      "sha": "e7f15ed3ff534938f6f3538426768724c5b908b4",
+      "size": 9875,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 9875,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L4",
+        "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L8",
+        "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L12",
+        "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L16",
+        "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L20",
+        "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L24",
+        "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L28",
+        "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L32"
+      ]
+    },
+    {
+      "path": "main.js",
+      "mode": "100644",
+      "sha": "bda3b7691b3e59f953b53b03d27b1b8c416adc3f",
+      "size": 115,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 115,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/main.js#L1",
+        "https://github.com/Valar05/clarity-engine/blob/main/main.js#L2",
+        "https://github.com/Valar05/clarity-engine/blob/main/main.js#L3",
+        "https://github.com/Valar05/clarity-engine/blob/main/main.js#L5"
+      ]
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "sha": "2db4369f07eb6c4e4b789ef38462f5691492feb5",
+      "size": 134580,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3964,
+      "byte_count": 134580,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L14",
+        "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L22",
+        "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L31",
+        "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L39",
+        "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L41",
+        "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L43",
+        "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L52",
+        "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L57"
+      ]
+    },
+    {
+      "path": "src/App.vue",
+      "mode": "100644",
+      "sha": "308f2948613a6e5eab97555ecf571cc6cae3b68c",
+      "size": 270,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 11,
+      "byte_count": 270,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/src/App.vue#L9",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/App.vue#L10"
+      ]
+    },
+    {
+      "path": "src/components/HeaderSection.vue",
+      "mode": "100644",
+      "sha": "34a32a59bbb05d7677e30f826c932532db54ab36",
+      "size": 689,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 689,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/HeaderSection.vue#L3",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/HeaderSection.vue#L5",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/HeaderSection.vue#L18",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/HeaderSection.vue#L19",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/HeaderSection.vue#L20"
+      ]
+    },
+    {
+      "path": "src/components/Terminal.vue",
+      "mode": "100644",
+      "sha": "1af21bb7ffb22110da15e9f89500a0126071510f",
+      "size": 9325,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 292,
+      "byte_count": 9325,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L21",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L29",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L46",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L61",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L62",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L63",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L64",
+        "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L113"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 537,
+    "by_origin": {
+      "github": 537
+    },
+    "by_project": {
+      "clarity-engine": 537
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 314,
+      "ai_pressure": 100,
+      "web_choice_player": 93,
+      "text_console_runtime": 34,
+      "pose_animation_tools": 25,
+      "touch_lane_combat": 5,
+      "source_packet_generation": 3,
+      "delayed_consequences": 1,
+      "validation_pipeline": 1,
+      "vehicle_survival": 1,
+      "tts_audio_pipeline": 1
+    },
+    "examples": {
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "package.json",
+          "line": 5,
+          "symbol": "dev",
+          "evidence": "\"dev\": \"dotenv -e .envrc -- nodemon server.js\",",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/package.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "package.json",
+          "line": 7,
+          "symbol": "serve",
+          "evidence": "\"serve\": \"node server.js\",",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/package.json#L7"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "const express = require('express');",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L1"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 2,
+          "symbol": "",
+          "evidence": "const { createServer: createViteServer } = require('vite');",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L2"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 3,
+          "symbol": "",
+          "evidence": "const path = require('path');",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L3"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 4,
+          "symbol": "",
+          "evidence": "const { OpenAI } = require('openai');",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L4"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 5,
+          "symbol": "",
+          "evidence": "const fs = require('fs');",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L5"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 7,
+          "symbol": "",
+          "evidence": "// Load recruiter questions at server startup",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L7"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "package.json",
+          "line": 9,
+          "symbol": "deploy",
+          "evidence": "\"deploy\": \"gcloud run deploy clarity-engine --source . --region us-central1 --platform managed --allow-unauthenticated --port 8080\"",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/package.json#L9"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "tailwind.config.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "/** @type {import('tailwindcss').Config} */",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/tailwind.config.js#L1"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "vite.config.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import { defineConfig } from 'vite';",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/vite.config.js#L1"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "vite.config.js",
+          "line": 2,
+          "symbol": "",
+          "evidence": "import vue from '@vitejs/plugin-vue';",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/vite.config.js#L2"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "vite.config.js",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import path from 'path';",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/vite.config.js#L3"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 28,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"You should hire me if you want someone who delivers results and makes it look good. I bring velocity without the mess, polish without the ego, and just enough rebelli...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L28"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 35,
+          "symbol": "question",
+          "evidence": "\"question\": \"Have you ever failed at something important? What did you learn from it?\",",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L35"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "main.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import { createApp } from 'vue'",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/main.js#L1"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "package.json",
+          "line": 15,
+          "symbol": "openai",
+          "evidence": "\"openai\": \"^5.3.0\",",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/package.json#L15"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "package.json",
+          "line": 23,
+          "symbol": "tailwindcss",
+          "evidence": "\"tailwindcss\": \"^3.4.4\",",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/package.json#L23"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "postcss.config.js",
+          "line": 3,
+          "symbol": "",
+          "evidence": "tailwindcss: {},",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/postcss.config.js#L3"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 4,
+          "symbol": "",
+          "evidence": "const { OpenAI } = require('openai');",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L4"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 10,
+          "symbol": "",
+          "evidence": "// OpenAI initialization",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L10"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 11,
+          "symbol": "",
+          "evidence": "const openai = new OpenAI({",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L11"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 12,
+          "symbol": "",
+          "evidence": "apiKey: process.env.OPENAI_API_KEY,",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L12"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 14,
+          "symbol": "",
+          "evidence": "const openaiModel = 'gpt-3.5-turbo'; // or 'gpt-4' if you have access",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L14"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 12,
+          "symbol": "",
+          "evidence": "apiKey: process.env.OPENAI_API_KEY,",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L12"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 4,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"Adaptability is my default mode. I can walk into just about any codebase, pick up the language or framework, and get moving fast. With AI in the mix, I can hit the gr...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 8,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"My biggest weakness is overcommitment to excellence. When I’m in the zone, I go deep—sometimes too deep. I want to understand systems top to bottom, build things the ...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L8"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 12,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"I once had to build web service calls in mainframe COBOL—yes, COBOL. The structure was unforgiving, the tooling ancient, and testing every change felt like rolling a ...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L12"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 36,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"I led the Pendo rollout across dozens of legacy and in-progress apps as our old analytics platform neared retirement. The deadline was tight—three months—and the team...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L36"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 40,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"The skill I’m focused on mastering right now is AI prompting. Not just using AI—but directing it like a tool of precision. Because soon, AI will write our code, organ...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L40"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 44,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"I thrive in environments where the goal is clear, the success criteria are defined—and I’m trusted to get there in the way that works best. I’m flexible with tech sta...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L44"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 48,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"I did a JavaScript bootcamp while working at Dillard’s. It moved fast—brutal pace. I started out barely understanding document selectors, and two weeks later we were ...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L48"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 25,
+          "symbol": "",
+          "evidence": "console.log('[DEBUG] Incoming /chat request:', { message });",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L25"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 27,
+          "symbol": "",
+          "evidence": "console.log('[DEBUG] Invalid message payload');",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L27"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 48,
+          "symbol": "",
+          "evidence": "const reply = completion.choices[0]?.message?.content || '';",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L48"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 52,
+          "symbol": "",
+          "evidence": "console.error('[ERROR] Chat error:', err);",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L52"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "server.js",
+          "line": 70,
+          "symbol": "",
+          "evidence": "console.log(`Express + Vite server running at http://localhost:${port}`);",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/server.js#L70"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "package-lock.json",
+          "line": 39,
+          "symbol": "node_modules/@babel/helper-string-parser",
+          "evidence": "\"node_modules/@babel/helper-string-parser\": {",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L39"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "package-lock.json",
+          "line": 41,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/@babel/helper-string-parser/-/helper-string-parser-7.27.1.tgz\",",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L41"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "package-lock.json",
+          "line": 57,
+          "symbol": "node_modules/@babel/parser",
+          "evidence": "\"node_modules/@babel/parser\": {",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L57"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 16,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"My dream job is one where I can move fast, make smart decisions, and *own* the work—without waiting on a committee to greenlight every step. I thrive in semi-autonomo...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L16"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "src/components/HeaderSection.vue",
+          "line": 19,
+          "symbol": "",
+          "evidence": "from { opacity: 0; transform: translateY(-10px); }",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/src/components/HeaderSection.vue#L19"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "src/components/HeaderSection.vue",
+          "line": 20,
+          "symbol": "",
+          "evidence": "to { opacity: 1; transform: translateY(0); }",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/src/components/HeaderSection.vue#L20"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 20,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"When the pressure’s on, I don’t panic—I prioritize. I strip problems down to their core, cut anything that doesn’t serve the goal, and move with focus. One recent exa...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L20"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 32,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"Leadership pushed for trunk-based deployment—move fast, break things. But we weren’t building ad tech. We were working in healthcare. Insurance. The kind of systems y...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L32"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "RecruiterQuestions.json",
+          "line": 36,
+          "symbol": "answer",
+          "evidence": "\"answer\": \"I led the Pendo rollout across dozens of legacy and in-progress apps as our old analytics platform neared retirement. The deadline was tight—three months—and the team...",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/RecruiterQuestions.json#L36"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "package-lock.json",
+          "line": 3676,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-OZs6gsjF4vMp32qrCbiVSkrFmXtG/AZhY3t0iAMrMBiAZyV9oALtXO8hsrHbMXF9x6L3grlFuwW2oAz7cav+Gw==\",",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/package-lock.json#L3676"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "src/components/HeaderSection.vue",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Code is my second language. <br class=\"hidden sm:block\" /><br/>",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/src/components/HeaderSection.vue#L5"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "src/components/Terminal.vue",
+          "line": 29,
+          "symbol": "",
+          "evidence": "<span class=\"invisible select-none w-full block absolute left-0 top-0 pointer-events-none\">",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L29"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "src/components/Terminal.vue",
+          "line": 46,
+          "symbol": "",
+          "evidence": ":class=\"['cursor-block', { 'animate-blink': showCursor }]\"",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L46"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "src/components/Terminal.vue",
+          "line": 206,
+          "symbol": "",
+          "evidence": ".cursor-block {",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L206"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-engine",
+          "repo": "Valar05/clarity-engine",
+          "path": "src/components/Terminal.vue",
+          "line": 211,
+          "symbol": "",
+          "evidence": "display: inline-block;",
+          "source_url": "https://github.com/Valar05/clarity-engine/blob/main/src/components/Terminal.vue#L211"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1340 @@
+{
+  "repo": "Valar05/generated",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "generated",
+    "updatedAt": "2026-06-20T23:26:52Z",
+    "url": "https://github.com/Valar05/generated",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 7,
+  "selected_files": [
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "0a01cdc4035150b886a79d4297e9df18295cbb77",
+      "size": 1080,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 25,
+      "byte_count": 1080,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L9",
+        "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L11"
+      ]
+    },
+    {
+      "path": "project_manifest_final_cleanup_2026-06-20.json",
+      "mode": "100644",
+      "sha": "24a34b63c1dc110c183f16c28aa640932813bd0c",
+      "size": 10694,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 200,
+      "byte_count": 10694,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L1",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L2",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L3",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L4",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L5",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L6",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L7",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L8"
+      ]
+    },
+    {
+      "path": "project_manifest_git_pass_2026-06-20.json",
+      "mode": "100644",
+      "sha": "c445ce0a027010c7235ccb620155abba550e5346",
+      "size": 136314,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2045,
+      "byte_count": 136314,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L2",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L3",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L4",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L5",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L6",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L7",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L8"
+      ]
+    },
+    {
+      "path": "project_manifest_git_retry_2026-06-20.json",
+      "mode": "100644",
+      "sha": "cf119abc1c2ab91a2efb98c052af93a36743820d",
+      "size": 43076,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 864,
+      "byte_count": 43076,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_retry_2026-06-20.json#L1",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_retry_2026-06-20.json#L2",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_retry_2026-06-20.json#L3",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_retry_2026-06-20.json#L4",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_retry_2026-06-20.json#L5",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_retry_2026-06-20.json#L6",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_retry_2026-06-20.json#L7",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_git_retry_2026-06-20.json#L8"
+      ]
+    },
+    {
+      "path": "project_manifest_post_cleanup_2026-06-20.json",
+      "mode": "100644",
+      "sha": "2488c0995644dd76ca7240d3d098930671482c53",
+      "size": 3180,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 71,
+      "byte_count": 3180,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/generated/blob/main/project_manifest_post_cleanup_2026-06-20.json#L1",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_post_cleanup_2026-06-20.json#L2",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_post_cleanup_2026-06-20.json#L3",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_post_cleanup_2026-06-20.json#L4",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_post_cleanup_2026-06-20.json#L5",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_post_cleanup_2026-06-20.json#L6",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_post_cleanup_2026-06-20.json#L7",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_post_cleanup_2026-06-20.json#L8"
+      ]
+    },
+    {
+      "path": "project_manifest_refresh_2026-06-20.json",
+      "mode": "100644",
+      "sha": "f173057f38f93bdcdee07aab825d4594dc02c653",
+      "size": 51818,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1100,
+      "byte_count": 51818,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/generated/blob/main/project_manifest_refresh_2026-06-20.json#L1",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_refresh_2026-06-20.json#L2",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_refresh_2026-06-20.json#L3",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_refresh_2026-06-20.json#L4",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_refresh_2026-06-20.json#L5",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_refresh_2026-06-20.json#L6",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_refresh_2026-06-20.json#L7",
+        "https://github.com/Valar05/generated/blob/main/project_manifest_refresh_2026-06-20.json#L8"
+      ]
+    },
+    {
+      "path": "visual_qa/latest/visual_qa_report.json",
+      "mode": "100644",
+      "sha": "7f051c2991d92f70067aeece7dfcf80fcca9661c",
+      "size": 3320,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 101,
+      "byte_count": 3320,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/generated/blob/main/visual_qa/latest/visual_qa_report.json#L1",
+        "https://github.com/Valar05/generated/blob/main/visual_qa/latest/visual_qa_report.json#L2",
+        "https://github.com/Valar05/generated/blob/main/visual_qa/latest/visual_qa_report.json#L3",
+        "https://github.com/Valar05/generated/blob/main/visual_qa/latest/visual_qa_report.json#L4",
+        "https://github.com/Valar05/generated/blob/main/visual_qa/latest/visual_qa_report.json#L5",
+        "https://github.com/Valar05/generated/blob/main/visual_qa/latest/visual_qa_report.json#L6",
+        "https://github.com/Valar05/generated/blob/main/visual_qa/latest/visual_qa_report.json#L7",
+        "https://github.com/Valar05/generated/blob/main/visual_qa/latest/visual_qa_report.json#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 4401,
+    "by_origin": {
+      "github": 4401
+    },
+    "by_project": {
+      "generated": 4401
+    },
+    "by_mechanic": {
+      "tts_audio_pipeline": 4300,
+      "asset_import_pipeline": 4300,
+      "ai_pressure": 285,
+      "pose_animation_tools": 216,
+      "delayed_consequences": 174,
+      "writing_corpus_review": 128,
+      "text_console_runtime": 108,
+      "web_choice_player": 72,
+      "validation_pipeline": 16,
+      "touch_lane_combat": 11,
+      "source_packet_generation": 7,
+      "vehicle_survival": 6,
+      "resource_upgrade_loop": 6,
+      "deck_pressure": 2,
+      "event_clouds": 1
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: generated",
+          "evidence": "# Project Manifest: generated",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/generated`",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/generated`",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "No project orientation file was found during manifest generation. Treat this manifest as an inventory scaffold until a project-specific orientation is added.",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 11,
+          "symbol": "Entrypoints And Validation Clues",
+          "evidence": "## Entrypoints And Validation Clues",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L11"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: generated",
+          "evidence": "# Project Manifest: generated",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/generated`",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/generated`",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "No project orientation file was found during manifest generation. Treat this manifest as an inventory scaffold until a project-specific orientation is added.",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 11,
+          "symbol": "Entrypoints And Validation Clues",
+          "evidence": "## Entrypoints And Validation Clues",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L11"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 8,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 21,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/fleshpunk--inner-heart push -u origin HEAD\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L21"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 23,
+          "symbol": "out",
+          "evidence": "\"out\": \"branch 'main' set up to track 'origin/main'.\\n\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L23"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 58,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/revelation push -u origin HEAD\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L58"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 60,
+          "symbol": "out",
+          "evidence": "\"out\": \"branch 'main' set up to track 'origin/main'.\\n\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L60"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 95,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/generated push -u origin HEAD\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L95"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 97,
+          "symbol": "out",
+          "evidence": "\"out\": \"branch 'main' set up to track 'origin/main'.\\n\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L97"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 119,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/gothic-throne push -u origin HEAD:refs/heads/codex/gothic-throne-manifest-2026-06-20\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L119"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- No standard entrypoint was detected. Inspect top-level files and add project-specific validation commands when known.",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 57,
+          "symbol": "project",
+          "evidence": "\"project\": \"agent-commander\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L57"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 58,
+          "symbol": "path",
+          "evidence": "\"path\": \"/storage/emulated/0/Documents/GodotProjects/agent-commander\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L58"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 66,
+          "symbol": "remote",
+          "evidence": "\"remote\": \"https://github.com/Valar05/agent-commander.git\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L66"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 72,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/agent-commander lfs install --local\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L72"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 79,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/agent-commander add -A\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L79"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 86,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/agent-commander commit -m 'Add project manifest and repository hygiene'\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L86"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 93,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/agent-commander push -u origin HEAD\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L93"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 409,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) 2dbed85] Add project manifest and repository hygiene\\n 29 files changed, 2984 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L409"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 467,
+          "symbol": "out",
+          "evidence": "\"out\": \"[codex/combat-feel-tuning 9fe63db] Add project manifest and repository hygiene\\n 50 files changed, 2597 insertions(+), 17 deletions(-)\\n create mode 100644 PROJECT_MANIF...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L467"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 803,
+          "symbol": "out",
+          "evidence": "\"out\": \"[codex/combat-feel-tuning 1d97e32] Add project manifest and repository hygiene\\n 37 files changed, 2797 insertions(+), 21 deletions(-)\\n create mode 100644 PROJECT_MANIF...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L803"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 863,
+          "symbol": "out",
+          "evidence": "\"out\": \"itan_Warrior_0207205605_texture_metallic.png.import\\n create mode 100644 models/textures/Meshy_AI_Titan_Warrior_0207205605_texture_normal.png\\n create mode 100644 models...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L863"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 923,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) ea30030] Add project manifest and repository hygiene\\n 53 files changed, 177724 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 10064...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L923"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1381,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) 53e7f74] Add project manifest and repository hygiene\\n 19 files changed, 2692 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1381"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/generated/blob/main/PROJECT_MANIFEST.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 16,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main 4e2ac90] Refresh project manifest remote metadata\\n 1 file changed, 8 insertions(+), 3 deletions(-)\\n\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L16"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 23,
+          "symbol": "out",
+          "evidence": "\"out\": \"branch 'main' set up to track 'origin/main'.\\n\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L23"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 24,
+          "symbol": "err",
+          "evidence": "\"err\": \"hint: The '.git/hooks/pre-push' hook was ignored because it's not set as executable.\\nhint: You can disable this warning with `git config set advice.ignoredHook false`.\\...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L24"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 53,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main a0ffea2] Refresh project manifest remote metadata\\n 1 file changed, 8 insertions(+), 3 deletions(-)\\n\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L53"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 60,
+          "symbol": "out",
+          "evidence": "\"out\": \"branch 'main' set up to track 'origin/main'.\\n\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L60"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 61,
+          "symbol": "err",
+          "evidence": "\"err\": \"hint: The '.git/hooks/pre-push' hook was ignored because it's not set as executable.\\nhint: You can disable this warning with `git config set advice.ignoredHook false`.\\...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L61"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 17,
+          "symbol": "err",
+          "evidence": "\"err\": \"hint: The '.git/hooks/post-commit' hook was ignored because it's not set as executable.\\nhint: You can disable this warning with `git config set advice.ignoredHook false...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L17"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 24,
+          "symbol": "err",
+          "evidence": "\"err\": \"hint: The '.git/hooks/pre-push' hook was ignored because it's not set as executable.\\nhint: You can disable this warning with `git config set advice.ignoredHook false`.\\...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L24"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 54,
+          "symbol": "err",
+          "evidence": "\"err\": \"hint: The '.git/hooks/post-commit' hook was ignored because it's not set as executable.\\nhint: You can disable this warning with `git config set advice.ignoredHook false...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L54"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 61,
+          "symbol": "err",
+          "evidence": "\"err\": \"hint: The '.git/hooks/pre-push' hook was ignored because it's not set as executable.\\nhint: You can disable this warning with `git config set advice.ignoredHook false`.\\...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L61"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 91,
+          "symbol": "err",
+          "evidence": "\"err\": \"hint: The '.git/hooks/post-commit' hook was ignored because it's not set as executable.\\nhint: You can disable this warning with `git config set advice.ignoredHook false...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L91"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 98,
+          "symbol": "err",
+          "evidence": "\"err\": \"hint: The '.git/hooks/pre-push' hook was ignored because it's not set as executable.\\nhint: You can disable this warning with `git config set advice.ignoredHook false`.\\...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L98"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 122,
+          "symbol": "err",
+          "evidence": "\"err\": \"hint: The '.git/hooks/pre-push' hook was ignored because it's not set as executable.\\nhint: You can disable this warning with `git config set advice.ignoredHook false`.\\...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L122"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 137,
+          "symbol": "err",
+          "evidence": "\"err\": \"hint: The '.git/hooks/pre-push' hook was ignored because it's not set as executable.\\nhint: You can disable this warning with `git config set advice.ignoredHook false`.\\...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L137"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 88,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/generated commit -m 'Record project manifest refresh audit'\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L88"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 90,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main 2599bdb] Record project manifest refresh audit\\n 1 file changed, 1100 insertions(+)\\n create mode 100644 project_manifest_refresh_2026-06-20.json\\n\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L90"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 208,
+          "symbol": "out",
+          "evidence": "\"out\": \"io/generated/narrator/narrator_eb900afe3492fb91.mp3\\n create mode 100644 games/secret-garden/audio/generated/narrator/narrator_ecc85720511e61e6.mp3\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L208"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 275,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) bc42371] Add project manifest and repository hygiene\\n 14 files changed, 1892 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L275"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 923,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) ea30030] Add project manifest and repository hygiene\\n 53 files changed, 177724 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 10064...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L923"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 983,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main 5433023] Add project manifest and repository hygiene\\n 47 files changed, 6196 insertions(+), 293 deletions(-)\\n create mode 100644 .gitattributes\\n create mode 100...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L983"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1161,
+          "symbol": "out",
+          "evidence": "\"out\": \"/joystickPip.png\\n create mode 100644 assets/sprites/joystickPip.png.import\\n create mode 100644 assets/sprites/raidrunner.png\\n create mode 100644 assets/sprites/raidru...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1161"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1381,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) 53e7f74] Add project manifest and repository hygiene\\n 19 files changed, 2692 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1381"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_final_cleanup_2026-06-20.json",
+          "line": 194,
+          "symbol": "out",
+          "evidence": "\"out\": \"git-lfs/3.7.1 (GitHub; android arm64; go 1.25.3)\\ngit version 2.54.0\\n\\nEndpoint=https://github.com/Valar05/home-center.git/info/lfs (auth=none)\\nLocalWorkingDir=/storag...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_final_cleanup_2026-06-20.json#L194"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 141,
+          "symbol": "out",
+          "evidence": "\"out\": \".json\\n create mode 100644 assets/effects/armor_command_effects_sheet_alpha_v1.png\\n create mode 100644 assets/effects/armor_command_effects_sheet_chromakey_v1.png\\n cre...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L141"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 168,
+          "symbol": "project",
+          "evidence": "\"project\": \"but-multiple-choice\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L168"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 169,
+          "symbol": "path",
+          "evidence": "\"path\": \"/storage/emulated/0/Documents/GodotProjects/but-multiple-choice\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L169"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 187,
+          "symbol": "out",
+          "evidence": "\"out\": \"Initialized empty Git repository in /storage/emulated/0/Documents/GodotProjects/but-multiple-choice/.git/\\n\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L187"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 192,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/but-multiple-choice lfs install --local\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L192"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 199,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/but-multiple-choice add -A\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L199"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 206,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/but-multiple-choice commit -m 'Add project manifest and repository hygiene'\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L206"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 141,
+          "symbol": "out",
+          "evidence": "\"out\": \".json\\n create mode 100644 assets/effects/armor_command_effects_sheet_alpha_v1.png\\n create mode 100644 assets/effects/armor_command_effects_sheet_chromakey_v1.png\\n cre...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L141"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 409,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) 2dbed85] Add project manifest and repository hygiene\\n 29 files changed, 2984 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L409"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1161,
+          "symbol": "out",
+          "evidence": "\"out\": \"/joystickPip.png\\n create mode 100644 assets/sprites/joystickPip.png.import\\n create mode 100644 assets/sprites/raidrunner.png\\n create mode 100644 assets/sprites/raidru...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1161"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1381,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) 53e7f74] Add project manifest and repository hygiene\\n 19 files changed, 2692 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1381"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1638,
+          "symbol": "out",
+          "evidence": "\"out\": \"uild/pose_lab_latest.json\\n create mode 100644 pose-critique.html\\n create mode 100644 src/lab-mode.mjs\\n create mode 100644 src/startup-policy.mjs\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1638"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "visual_qa/latest/visual_qa_report.json",
+          "line": 45,
+          "symbol": "readyBroadcast",
+          "evidence": "\"readyBroadcast\": null,",
+          "source_url": "https://github.com/Valar05/generated/blob/main/visual_qa/latest/visual_qa_report.json#L45"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 141,
+          "symbol": "out",
+          "evidence": "\"out\": \".json\\n create mode 100644 assets/effects/armor_command_effects_sheet_alpha_v1.png\\n create mode 100644 assets/effects/armor_command_effects_sheet_chromakey_v1.png\\n cre...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L141"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 863,
+          "symbol": "out",
+          "evidence": "\"out\": \"itan_Warrior_0207205605_texture_metallic.png.import\\n create mode 100644 models/textures/Meshy_AI_Titan_Warrior_0207205605_texture_normal.png\\n create mode 100644 models...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L863"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 983,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main 5433023] Add project manifest and repository hygiene\\n 47 files changed, 6196 insertions(+), 293 deletions(-)\\n create mode 100644 .gitattributes\\n create mode 100...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L983"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1043,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) 6ad6ad8] Add project manifest and repository hygiene\\n 7 files changed, 330 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 100644 .g...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1043"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1448,
+          "symbol": "out",
+          "evidence": "\"out\": \"/texts/verne_antarctic_mystery_pg10339.txt\\n create mode 100644 generated/corpus/texts/verne_journey_into_interior_earth_pg3748.txt\\n create mode 100644 generated/corpus...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1448"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 2018,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) d80f6a1] Add project manifest and repository hygiene\\n 24 files changed, 2000 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L2018"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 208,
+          "symbol": "out",
+          "evidence": "\"out\": \"io/generated/narrator/narrator_eb900afe3492fb91.mp3\\n create mode 100644 games/secret-garden/audio/generated/narrator/narrator_ecc85720511e61e6.mp3\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L208"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 208,
+          "symbol": "out",
+          "evidence": "\"out\": \"io/generated/narrator/narrator_eb900afe3492fb91.mp3\\n create mode 100644 games/secret-garden/audio/generated/narrator/narrator_ecc85720511e61e6.mp3\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L208"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1381,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) 53e7f74] Add project manifest and repository hygiene\\n 19 files changed, 2692 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1381"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1442,
+          "symbol": "err",
+          "evidence": "\"err\": \"warning: in the working copy of 'generated/corpus/texts/lovecraft_at_mountains_of_madness_pg70652.txt', CRLF will be replaced by LF the next time Git touches it\\nwarning...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1442"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1448,
+          "symbol": "out",
+          "evidence": "\"out\": \"/texts/verne_antarctic_mystery_pg10339.txt\\n create mode 100644 generated/corpus/texts/verne_journey_into_interior_earth_pg3748.txt\\n create mode 100644 generated/corpus...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1448"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1506,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main a6ae420] Add project manifest and repository hygiene\\n 32 files changed, 7138 insertions(+), 145 deletions(-)\\n create mode 100644 PROJECT_MANIFEST.md\\n create mod...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1506"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1638,
+          "symbol": "out",
+          "evidence": "\"out\": \"uild/pose_lab_latest.json\\n create mode 100644 pose-critique.html\\n create mode 100644 src/lab-mode.mjs\\n create mode 100644 src/startup-policy.mjs\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1638"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1891,
+          "symbol": "out",
+          "evidence": "\"out\": \"e 100644 generated/external_sources/quake_map_sources/quake-maps-master.zip\\n create mode 100644 generated/external_sources/quake_map_sources/source_manifest.json\\n crea...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1891"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 208,
+          "symbol": "out",
+          "evidence": "\"out\": \"io/generated/narrator/narrator_eb900afe3492fb91.mp3\\n create mode 100644 games/secret-garden/audio/generated/narrator/narrator_ecc85720511e61e6.mp3\\n create mode 100644 ...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L208"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 554,
+          "symbol": "project",
+          "evidence": "\"project\": \"driftfield\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L554"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 555,
+          "symbol": "path",
+          "evidence": "\"path\": \"/storage/emulated/0/Documents/GodotProjects/driftfield\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L555"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 563,
+          "symbol": "remote",
+          "evidence": "\"remote\": \"https://github.com/Valar05/driftfield.git\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L563"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 569,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/driftfield lfs install --local\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L569"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 576,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/driftfield add -A\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L576"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 583,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/driftfield commit -m 'Add project manifest and repository hygiene'\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L583"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 590,
+          "symbol": "cmd",
+          "evidence": "\"cmd\": \"git -c safe.directory=/storage/emulated/0/Documents/GodotProjects/driftfield push -u origin HEAD\",",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L590"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 923,
+          "symbol": "out",
+          "evidence": "\"out\": \"[main (root-commit) ea30030] Add project manifest and repository hygiene\\n 53 files changed, 177724 insertions(+)\\n create mode 100644 .gitattributes\\n create mode 10064...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L923"
+        },
+        {
+          "origin": "github",
+          "project": "generated",
+          "repo": "Valar05/generated",
+          "path": "project_manifest_git_pass_2026-06-20.json",
+          "line": 1448,
+          "symbol": "out",
+          "evidence": "\"out\": \"/texts/verne_antarctic_mystery_pg10339.txt\\n create mode 100644 generated/corpus/texts/verne_journey_into_interior_earth_pg3748.txt\\n create mode 100644 generated/corpus...",
+          "source_url": "https://github.com/Valar05/generated/blob/main/project_manifest_git_pass_2026-06-20.json#L1448"
+        }
+      ]
+    }
+  }
+}

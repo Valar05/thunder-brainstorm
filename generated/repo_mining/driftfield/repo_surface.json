@@ -1,0 +1,1840 @@
+{
+  "repo": "Valar05/driftfield",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "driftfield",
+    "updatedAt": "2026-06-20T22:48:08Z",
+    "url": "https://github.com/Valar05/driftfield",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "965fa702cdc3ce8d5c2c9ae2c303d39f1ab7d544",
+      "size": 13167,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 135,
+      "byte_count": 13167,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L1",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L8",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L12"
+      ]
+    },
+    {
+      "path": "tests/expedition-generation.test.mjs",
+      "mode": "100644",
+      "sha": "c0f7b94235642cbb2cb79e4dfeb11d2ab2558b82",
+      "size": 72228,
+      "score": 70,
+      "reasons": [
+        "test surface"
+      ],
+      "status": "fetched",
+      "line_count": 1511,
+      "byte_count": 72228,
+      "mechanics": []
+    },
+    {
+      "path": "tests/register-three-loader.mjs",
+      "mode": "100644",
+      "sha": "f7ae22dd16f454ff9260482e6875172e98ad3946",
+      "size": 367,
+      "score": 70,
+      "reasons": [
+        "test surface"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 367,
+      "mechanics": []
+    },
+    {
+      "path": "MESHY_PROP_GENERATION_MANIFEST.json",
+      "mode": "100644",
+      "sha": "526fc5338a460f3a479aae74c1f7025e460ba532",
+      "size": 7714,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 211,
+      "byte_count": 7714,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L1",
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L2",
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L3",
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L4",
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L5",
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L6",
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L7",
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L8"
+      ]
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "184971047230e5aa67bf49c59b4b1caa5a0785cf",
+      "size": 3783,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 61,
+      "byte_count": 3783,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "TEXTURE_MANIFEST.json",
+      "mode": "100644",
+      "sha": "1394492a390e92a5afb53bea8900317c7030db73",
+      "size": 6495,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 144,
+      "byte_count": 6495,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/TEXTURE_MANIFEST.json#L1",
+        "https://github.com/Valar05/driftfield/blob/main/TEXTURE_MANIFEST.json#L2",
+        "https://github.com/Valar05/driftfield/blob/main/TEXTURE_MANIFEST.json#L3",
+        "https://github.com/Valar05/driftfield/blob/main/TEXTURE_MANIFEST.json#L4",
+        "https://github.com/Valar05/driftfield/blob/main/TEXTURE_MANIFEST.json#L5",
+        "https://github.com/Valar05/driftfield/blob/main/TEXTURE_MANIFEST.json#L6",
+        "https://github.com/Valar05/driftfield/blob/main/TEXTURE_MANIFEST.json#L7",
+        "https://github.com/Valar05/driftfield/blob/main/TEXTURE_MANIFEST.json#L8"
+      ]
+    },
+    {
+      "path": "src/expedition-rock-shader.js",
+      "mode": "100644",
+      "sha": "bc9dcbff28cc308c58d280b333d7f61866a4f95e",
+      "size": 5691,
+      "score": 16,
+      "reasons": [
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 141,
+      "byte_count": 5691,
+      "mechanics": [
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-rock-shader.js#L1",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-rock-shader.js#L14",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-rock-shader.js#L40",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-rock-shader.js#L134"
+      ]
+    },
+    {
+      "path": "src/shader-error-debug.js",
+      "mode": "100644",
+      "sha": "a7242a2098e5268bad1c503e881ed3d94d0d7868",
+      "size": 1755,
+      "score": 16,
+      "reasons": [
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 47,
+      "byte_count": 1755,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/src/shader-error-debug.js#L1",
+        "https://github.com/Valar05/driftfield/blob/main/src/shader-error-debug.js#L2",
+        "https://github.com/Valar05/driftfield/blob/main/src/shader-error-debug.js#L3",
+        "https://github.com/Valar05/driftfield/blob/main/src/shader-error-debug.js#L4",
+        "https://github.com/Valar05/driftfield/blob/main/src/shader-error-debug.js#L8",
+        "https://github.com/Valar05/driftfield/blob/main/src/shader-error-debug.js#L9",
+        "https://github.com/Valar05/driftfield/blob/main/src/shader-error-debug.js#L11",
+        "https://github.com/Valar05/driftfield/blob/main/src/shader-error-debug.js#L12"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "sha": "302662fe29b41663a1f4b2d410b0304b86dd081f",
+      "size": 2286,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 30,
+      "byte_count": 2286,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/AGENTS.md#L1",
+        "https://github.com/Valar05/driftfield/blob/main/AGENTS.md#L9",
+        "https://github.com/Valar05/driftfield/blob/main/AGENTS.md#L12",
+        "https://github.com/Valar05/driftfield/blob/main/AGENTS.md#L13",
+        "https://github.com/Valar05/driftfield/blob/main/AGENTS.md#L14",
+        "https://github.com/Valar05/driftfield/blob/main/AGENTS.md#L16",
+        "https://github.com/Valar05/driftfield/blob/main/AGENTS.md#L17",
+        "https://github.com/Valar05/driftfield/blob/main/AGENTS.md#L18"
+      ]
+    },
+    {
+      "path": "ART_TEXTURE_STEERING.md",
+      "mode": "100644",
+      "sha": "fca0b9b81a377891d7d75b901c42c1f3bd94e06b",
+      "size": 7748,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 416,
+      "byte_count": 7748,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L1",
+        "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L5",
+        "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L7",
+        "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L17",
+        "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L24",
+        "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L30",
+        "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L35",
+        "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L49"
+      ]
+    },
+    {
+      "path": "ASTEROID_INTERIOR_REBOOT_PLAN.md",
+      "mode": "100644",
+      "sha": "168c2cdf6fe4e0fd443eb1e43c40bfd286ad7f31",
+      "size": 10552,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 402,
+      "byte_count": 10552,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L5",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L14",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L22",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L26",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L29",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L36",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L37",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L45"
+      ]
+    },
+    {
+      "path": "ASTEROID_MINE_GRAMMAR.md",
+      "mode": "100644",
+      "sha": "642deab6f441d2c407a29a0c02ded1f91ee22d3e",
+      "size": 2839,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 58,
+      "byte_count": 2839,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_MINE_GRAMMAR.md#L1",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_MINE_GRAMMAR.md#L3",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_MINE_GRAMMAR.md#L5",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_MINE_GRAMMAR.md#L7",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_MINE_GRAMMAR.md#L9",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_MINE_GRAMMAR.md#L11",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_MINE_GRAMMAR.md#L12",
+        "https://github.com/Valar05/driftfield/blob/main/ASTEROID_MINE_GRAMMAR.md#L13"
+      ]
+    },
+    {
+      "path": "DEVELOPMENT_GUIDE.md",
+      "mode": "100644",
+      "sha": "8c2fb3485958a3c0669ac836ac3b02cd7bdd7494",
+      "size": 14909,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 219,
+      "byte_count": 14909,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L1",
+        "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L3",
+        "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L14",
+        "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L16",
+        "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L18",
+        "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L22",
+        "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L25",
+        "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L26"
+      ]
+    },
+    {
+      "path": "EXPEDITION_MODE_DESIGN.md",
+      "mode": "100644",
+      "sha": "03d5eeccdd9341223c1b4dedc7bb6839689c354f",
+      "size": 10419,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 404,
+      "byte_count": 10419,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/EXPEDITION_MODE_DESIGN.md#L5",
+        "https://github.com/Valar05/driftfield/blob/main/EXPEDITION_MODE_DESIGN.md#L7",
+        "https://github.com/Valar05/driftfield/blob/main/EXPEDITION_MODE_DESIGN.md#L11",
+        "https://github.com/Valar05/driftfield/blob/main/EXPEDITION_MODE_DESIGN.md#L14",
+        "https://github.com/Valar05/driftfield/blob/main/EXPEDITION_MODE_DESIGN.md#L15",
+        "https://github.com/Valar05/driftfield/blob/main/EXPEDITION_MODE_DESIGN.md#L20",
+        "https://github.com/Valar05/driftfield/blob/main/EXPEDITION_MODE_DESIGN.md#L29",
+        "https://github.com/Valar05/driftfield/blob/main/EXPEDITION_MODE_DESIGN.md#L36"
+      ]
+    },
+    {
+      "path": "MESHY_PROP_GENERATION_PLAN.md",
+      "mode": "100644",
+      "sha": "60fbfc0cb8793f4ba885bb88011bd09c0674afbf",
+      "size": 787,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 11,
+      "byte_count": 787,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_PLAN.md#L3",
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_PLAN.md#L5",
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_PLAN.md#L9",
+        "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_PLAN.md#L11"
+      ]
+    },
+    {
+      "path": "REAL_GAME_BRAINSTORM.md",
+      "mode": "100644",
+      "sha": "63c25f2b888a74a219c037b399757be0501c5a86",
+      "size": 4398,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 104,
+      "byte_count": 4398,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/REAL_GAME_BRAINSTORM.md#L1",
+        "https://github.com/Valar05/driftfield/blob/main/REAL_GAME_BRAINSTORM.md#L3",
+        "https://github.com/Valar05/driftfield/blob/main/REAL_GAME_BRAINSTORM.md#L5",
+        "https://github.com/Valar05/driftfield/blob/main/REAL_GAME_BRAINSTORM.md#L7",
+        "https://github.com/Valar05/driftfield/blob/main/REAL_GAME_BRAINSTORM.md#L9",
+        "https://github.com/Valar05/driftfield/blob/main/REAL_GAME_BRAINSTORM.md#L11",
+        "https://github.com/Valar05/driftfield/blob/main/REAL_GAME_BRAINSTORM.md#L12",
+        "https://github.com/Valar05/driftfield/blob/main/REAL_GAME_BRAINSTORM.md#L13"
+      ]
+    },
+    {
+      "path": "assets/concepts/primitive-ship-cave-match-0.1.84.md",
+      "mode": "100644",
+      "sha": "d6fad6f5db7ae6f2b113deb0817afd7fa80734e1",
+      "size": 2839,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 2839,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/assets/concepts/primitive-ship-cave-match-0.1.84.md#L1",
+        "https://github.com/Valar05/driftfield/blob/main/assets/concepts/primitive-ship-cave-match-0.1.84.md#L3",
+        "https://github.com/Valar05/driftfield/blob/main/assets/concepts/primitive-ship-cave-match-0.1.84.md#L5",
+        "https://github.com/Valar05/driftfield/blob/main/assets/concepts/primitive-ship-cave-match-0.1.84.md#L7",
+        "https://github.com/Valar05/driftfield/blob/main/assets/concepts/primitive-ship-cave-match-0.1.84.md#L9",
+        "https://github.com/Valar05/driftfield/blob/main/assets/concepts/primitive-ship-cave-match-0.1.84.md#L11",
+        "https://github.com/Valar05/driftfield/blob/main/assets/concepts/primitive-ship-cave-match-0.1.84.md#L13",
+        "https://github.com/Valar05/driftfield/blob/main/assets/concepts/primitive-ship-cave-match-0.1.84.md#L15"
+      ]
+    },
+    {
+      "path": "assets/models/meshy-twin-turret-cannons-0614224600/ASSET_PROVENANCE.md",
+      "mode": "100644",
+      "sha": "932b4ebcaee45341abd5f44000610a3432769dce",
+      "size": 1222,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 26,
+      "byte_count": 1222,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/assets/models/meshy-twin-turret-cannons-0614224600/ASSET_PROVENANCE.md#L1",
+        "https://github.com/Valar05/driftfield/blob/main/assets/models/meshy-twin-turret-cannons-0614224600/ASSET_PROVENANCE.md#L3",
+        "https://github.com/Valar05/driftfield/blob/main/assets/models/meshy-twin-turret-cannons-0614224600/ASSET_PROVENANCE.md#L5",
+        "https://github.com/Valar05/driftfield/blob/main/assets/models/meshy-twin-turret-cannons-0614224600/ASSET_PROVENANCE.md#L7",
+        "https://github.com/Valar05/driftfield/blob/main/assets/models/meshy-twin-turret-cannons-0614224600/ASSET_PROVENANCE.md#L9",
+        "https://github.com/Valar05/driftfield/blob/main/assets/models/meshy-twin-turret-cannons-0614224600/ASSET_PROVENANCE.md#L11",
+        "https://github.com/Valar05/driftfield/blob/main/assets/models/meshy-twin-turret-cannons-0614224600/ASSET_PROVENANCE.md#L13",
+        "https://github.com/Valar05/driftfield/blob/main/assets/models/meshy-twin-turret-cannons-0614224600/ASSET_PROVENANCE.md#L14"
+      ]
+    },
+    {
+      "path": "data/expedition_mine_patterns.json",
+      "mode": "100644",
+      "sha": "6dde99025d3eb753547b5688414017e62a5a63f1",
+      "size": 18599,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 725,
+      "byte_count": 18599,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/data/expedition_mine_patterns.json#L1",
+        "https://github.com/Valar05/driftfield/blob/main/data/expedition_mine_patterns.json#L2",
+        "https://github.com/Valar05/driftfield/blob/main/data/expedition_mine_patterns.json#L3",
+        "https://github.com/Valar05/driftfield/blob/main/data/expedition_mine_patterns.json#L4",
+        "https://github.com/Valar05/driftfield/blob/main/data/expedition_mine_patterns.json#L5",
+        "https://github.com/Valar05/driftfield/blob/main/data/expedition_mine_patterns.json#L6",
+        "https://github.com/Valar05/driftfield/blob/main/data/expedition_mine_patterns.json#L7",
+        "https://github.com/Valar05/driftfield/blob/main/data/expedition_mine_patterns.json#L8"
+      ]
+    },
+    {
+      "path": "src/asteroid-director.js",
+      "mode": "100644",
+      "sha": "362b04910245c59bde7d0b044bee892db817dcd3",
+      "size": 3721,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 107,
+      "byte_count": 3721,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/src/asteroid-director.js#L1",
+        "https://github.com/Valar05/driftfield/blob/main/src/asteroid-director.js#L16",
+        "https://github.com/Valar05/driftfield/blob/main/src/asteroid-director.js#L23",
+        "https://github.com/Valar05/driftfield/blob/main/src/asteroid-director.js#L26",
+        "https://github.com/Valar05/driftfield/blob/main/src/asteroid-director.js#L28",
+        "https://github.com/Valar05/driftfield/blob/main/src/asteroid-director.js#L33",
+        "https://github.com/Valar05/driftfield/blob/main/src/asteroid-director.js#L36",
+        "https://github.com/Valar05/driftfield/blob/main/src/asteroid-director.js#L38"
+      ]
+    },
+    {
+      "path": "src/camera-effects.js",
+      "mode": "100644",
+      "sha": "1a24adae94ff8b703209aa9689ad535c3c541e67",
+      "size": 5420,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 135,
+      "byte_count": 5420,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/src/camera-effects.js#L1",
+        "https://github.com/Valar05/driftfield/blob/main/src/camera-effects.js#L4",
+        "https://github.com/Valar05/driftfield/blob/main/src/camera-effects.js#L110"
+      ]
+    },
+    {
+      "path": "src/conformal-threat-hud.js",
+      "mode": "100644",
+      "sha": "6658337c98f652119ab541cef2a265de302d169d",
+      "size": 5297,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 148,
+      "byte_count": 5297,
+      "mechanics": [
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/src/conformal-threat-hud.js#L61",
+        "https://github.com/Valar05/driftfield/blob/main/src/conformal-threat-hud.js#L113"
+      ]
+    },
+    {
+      "path": "src/expedition-admin-console.js",
+      "mode": "100644",
+      "sha": "bc8a8fe1f3171eea486de9143c52c5eb4228ded9",
+      "size": 2596,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 101,
+      "byte_count": 2596,
+      "mechanics": [
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-admin-console.js#L1",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-admin-console.js#L2",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-admin-console.js#L3",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-admin-console.js#L4",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-admin-console.js#L5",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-admin-console.js#L6",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-admin-console.js#L7",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-admin-console.js#L8"
+      ]
+    },
+    {
+      "path": "src/expedition-environment.js",
+      "mode": "100644",
+      "sha": "415ded74a26a4fc4e7cb51e937e9e24f10abba1a",
+      "size": 2758,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 78,
+      "byte_count": 2758,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-environment.js#L1",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-environment.js#L3",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-environment.js#L6",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-environment.js#L9",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-environment.js#L10",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-environment.js#L29",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-environment.js#L30",
+        "https://github.com/Valar05/driftfield/blob/main/src/expedition-environment.js#L31"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1783,
+    "by_origin": {
+      "github": 1783
+    },
+    "by_project": {
+      "driftfield": 1783
+    },
+    "by_mechanic": {
+      "resource_upgrade_loop": 818,
+      "asset_import_pipeline": 517,
+      "tts_audio_pipeline": 426,
+      "ai_pressure": 339,
+      "text_console_runtime": 174,
+      "pose_animation_tools": 84,
+      "writing_corpus_review": 54,
+      "web_choice_player": 52,
+      "touch_lane_combat": 31,
+      "vehicle_survival": 21,
+      "validation_pipeline": 19,
+      "source_packet_generation": 11,
+      "delayed_consequences": 5,
+      "deck_pressure": 3
+    },
+    "examples": {
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 1,
+          "symbol": "Driftfield Project Orientation",
+          "evidence": "# Driftfield Project Orientation",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Driftfield is a standalone Three.js cockpit-arcade prototype built in the same browser schema family as `infinite-brutality`: local import-map boot, fullscreen canvas, phone-fir...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- `../thunder-brainstorm/generated/session_learnings/2026-06-14_driftfield_asteroid_mine_grammar.md`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- `../thunder-brainstorm/generated/session_learnings/2026-06-14_driftfield_expedition_cave_meshy_handoff.md`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "- `../thunder-brainstorm/generated/project_links/driftfield_project_links.md`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- `../thunder-brainstorm/generated/source_refs_manual/driftfield_asteroid_mine_source_refs.jsonl`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- `../thunder-brainstorm/generated/source_refs_manual/driftfield_expedition_runtime_source_refs.jsonl`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "- Do not build Driftfield as one monolithic script.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L50"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Driftfield is a standalone Three.js cockpit-arcade prototype built in the same browser schema family as `infinite-brutality`: local import-map boot, fullscreen canvas, phone-fir...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `src/expedition-meshy-props.js`: Meshy-generated pipe/cable kit loader that slices the generated GLB into connected prop components, builds dense connector service-run anchors...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- `src/expedition-textures.js`: generated procedural texture set derived from `TEXTURE_MANIFEST.json` for differentiated wall, floor, ceiling, and trim materials.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- `ART_TEXTURE_STEERING.md`: condensed visual source of truth for Expedition shape language, material families, decals, greeble rules, and screenshot tests.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- `data/expedition_mine_patterns.json`: JSON mirror of the Expedition mine pattern manifest for tests, docs, and Thunder-style corpus review.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- `MESHY_PROP_GENERATION_MANIFEST.json`: tiered Meshy low-poly prop backlog plus generated/runtime-hooked status for prop kits such as `pipe_cable_kit_01`.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- `../thunder-brainstorm/generated/source_refs_manual/driftfield_asteroid_mine_source_refs.jsonl`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- `../thunder-brainstorm/generated/source_refs_manual/driftfield_expedition_runtime_source_refs.jsonl`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L42"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `index.html`: title screen launcher for selecting Arcade Mode or Expedition Mode.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- `arcade.html`: Arcade Mode browser shell, HUD/overlay surface, and script entry.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `expedition.html`: Expedition Mode browser shell, scanner/map HUD, copy-error surface, and script entry.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `src/expedition-meshy-props.js`: Meshy-generated pipe/cable kit loader that slices the generated GLB into connected prop components, builds dense connector service-run anchors...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `src/expedition-hud.js`: object-oriented Expedition Mode HUD, readout, scanner button state, and upgrade-choice overlay control.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 59,
+          "symbol": "",
+          "evidence": "`http://127.0.0.1:8798/driftfield/index.html`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L59"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "`http://127.0.0.1:8798/driftfield/arcade.html`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "`http://127.0.0.1:8798/driftfield/expedition.html`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L64"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `src/main.js`: Arcade Mode Three.js runtime orchestration, asteroid sim, projectile loop, debris, and overlay flow.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `src/expedition-main.js`: Expedition Mode runtime orchestration for procedural facility traversal, encounters, scanner pulses, salvage, and descent progression.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- `src/visuals.js`: object-oriented visual helpers for cockpit geometry, asteroid mesh generation, missile models, and ribbon trails.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- `src/asteroid-director.js`: object-oriented endless spawn pacing, portal face selection, and aimed asteroid injection into the arena.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- `src/expedition-fx.js`: object-oriented Expedition enemy destruction FX with double-sided triangle shards and restrained low-poly burst timing.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- `ASTEROID_INTERIOR_REBOOT_PLAN.md`: replacement generation plan for a seedable cave-first asteroid interior, superseding stitched box-room thinking for Expedition's main envir...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- Thunder Brainstorm mirrors for durable cross-project learning:",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- `../thunder-brainstorm/generated/session_learnings/2026-06-14_driftfield_asteroid_mine_grammar.md`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L38"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- `src/progression.js`: object-oriented score, lives, weapon branching, upgrade-capstone progression state, and endless-run asteroid pressure config.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `src/expedition-mine-patterns.js`: runtime mine/cave/lava pattern corpus that tags Expedition rooms and connectors with purpose, route role, carve hints, hazards, materials, a...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `src/expedition-hud.js`: object-oriented Expedition Mode HUD, readout, scanner button state, and upgrade-choice overlay control.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- `ASTEROID_MINE_GRAMMAR.md`: mine/cave/lava corpus grammar for turning scalar-carved Expedition layers into purposeful asteroid mine systems.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- `data/expedition_mine_patterns.json`: JSON mirror of the Expedition mine pattern manifest for tests, docs, and Thunder-style corpus review.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- `../thunder-brainstorm/generated/session_learnings/2026-06-14_driftfield_asteroid_mine_grammar.md`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- `../thunder-brainstorm/generated/source_refs_manual/driftfield_asteroid_mine_source_refs.jsonl`",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 98,
+          "symbol": "",
+          "evidence": "- `Arcade Mode`: the current Asteroids-like survival branch with omnidirectional threat pressure, score-based upgrades, and constrained arena combat.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L98"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `src/motion-tracker.js`: object-oriented bottom-center 3D radar that shows ship-centered plane anchors, altitude stalks, and danger distance through positional contact approach.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 122,
+          "symbol": "",
+          "evidence": "- Six-direction thrust now preserves a fuller drift slide, with lighter auto-correction, deliberate reverse counterthrust, a stick-flick turbo that records a fresh vector before...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L122"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "MESHY_PROP_GENERATION_MANIFEST.json",
+          "line": 73,
+          "symbol": "placement",
+          "evidence": "\"placement\": \"single-lane surface-snapped lower-sidewall service runs using emitted cave collision triangles; bad-snap, bad-flow, and traversal-core anchors are culled before in...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L73"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "MESHY_PROP_GENERATION_MANIFEST.json",
+          "line": 136,
+          "symbol": "",
+          "evidence": "\"conveyor block\",",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L136"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "> - `src/motion-tracker.js`: object-oriented bottom-center 3D radar that shows ship-centered plane anchors, altitude stalks, and danger distance through positional contact appro...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 59,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L59"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "TEXTURE_MANIFEST.json",
+          "line": 59,
+          "symbol": "",
+          "evidence": "\"per-triangle roughness blocks\",",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/TEXTURE_MANIFEST.json#L59"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `src/motion-tracker.js`: object-oriented bottom-center 3D radar that shows ship-centered plane anchors, altitude stalks, and danger distance through positional contact approach.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "MESHY_PROP_GENERATION_MANIFEST.json",
+          "line": 73,
+          "symbol": "placement",
+          "evidence": "\"placement\": \"single-lane surface-snapped lower-sidewall service runs using emitted cave collision triangles; bad-snap, bad-flow, and traversal-core anchors are culled before in...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L73"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "> - `src/motion-tracker.js`: object-oriented bottom-center 3D radar that shows ship-centered plane anchors, altitude stalks, and danger distance through positional contact appro...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "ART_TEXTURE_STEERING.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "If a surface glows, it should be rare and motivated. Most readability should come from value, silhouette, material tint, and broad surface pattern.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "ART_TEXTURE_STEERING.md",
+          "line": 83,
+          "symbol": "",
+          "evidence": "- broad rectangular panel blocks",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L83"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "ART_TEXTURE_STEERING.md",
+          "line": 214,
+          "symbol": "",
+          "evidence": "- broad panel color variation",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L214"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "ASTEROID_INTERIOR_REBOOT_PLAN.md",
+          "line": 117,
+          "symbol": "",
+          "evidence": "- broad scale and spacing",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L117"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "ASTEROID_INTERIOR_REBOOT_PLAN.md",
+          "line": 153,
+          "symbol": "",
+          "evidence": "- strong silhouette planes",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L153"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- `src/expedition-generator.js`: cave-first Expedition layer wrapper that consumes the seeded asteroid-interior layout, places pickups/enemies/gate anchors, and returns runtime ...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `src/expedition-mine-patterns.js`: runtime mine/cave/lava pattern corpus that tags Expedition rooms and connectors with purpose, route role, carve hints, hazards, materials, a...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `src/expedition-hud.js`: object-oriented Expedition Mode HUD, readout, scanner button state, and upgrade-choice overlay control.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- `src/expedition-map-view.js`: object-oriented paused 3D facility map overlay with player marker, room volumes, touch camera controls, and ship-facing reset/north behavior.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `src/expedition-admin-console.js`: object-oriented Expedition debug/admin console overlay for runtime command entry such as `noclip`.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- `ASTEROID_INTERIOR_REBOOT_PLAN.md`: replacement generation plan for a seedable cave-first asteroid interior, superseding stitched box-room thinking for Expedition's main envir...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "node --check src/expedition-admin-console.js",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 91,
+          "symbol": "",
+          "evidence": "- Left upper/lower buttons: rise and drop along the ship's local vertical axis.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L91"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `src/expedition-mine-patterns.js`: runtime mine/cave/lava pattern corpus that tags Expedition rooms and connectors with purpose, route role, carve hints, hazards, materials, a...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- `ASTEROID_MINE_GRAMMAR.md`: mine/cave/lava corpus grammar for turning scalar-carved Expedition layers into purposeful asteroid mine systems.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- `data/expedition_mine_patterns.json`: JSON mirror of the Expedition mine pattern manifest for tests, docs, and Thunder-style corpus review.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "> - `src/expedition-mine-patterns.js`: runtime mine/cave/lava pattern corpus that tags Expedition rooms and connectors with purpose, route role, carve hints, hazards, materials,...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_MANIFEST.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "src/expedition-rock-shader.js",
+          "line": 40,
+          "symbol": "",
+          "evidence": "vRockWorldPos = (modelMatrix * vec4(transformed, 1.0)).xyz;`,",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/src/expedition-rock-shader.js#L40"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "ART_TEXTURE_STEERING.md",
+          "line": 170,
+          "symbol": "",
+          "evidence": "- downward arrow motifs",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/ART_TEXTURE_STEERING.md#L170"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "ASTEROID_MINE_GRAMMAR.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "These tags are the corpus bridge between Thunder-style design extraction and Expedition's scalar carving system.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/ASTEROID_MINE_GRAMMAR.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "DEVELOPMENT_GUIDE.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `ASTEROID_MINE_GRAMMAR.md` when the task concerns mine/cave/lava pattern language or corpus-backed Expedition generation",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L16"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `src/expedition-mine-patterns.js`: runtime mine/cave/lava pattern corpus that tags Expedition rooms and connectors with purpose, route role, carve hints, hazards, materials, a...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `src/expedition-admin-console.js`: object-oriented Expedition debug/admin console overlay for runtime command entry such as `noclip`.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- `src/styles.css`: fullscreen landscape HUD, stick, right-half look zone, overlays, paused facility map, and cockpit-status styling.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- `ASTEROID_MINE_GRAMMAR.md`: mine/cave/lava corpus grammar for turning scalar-carved Expedition layers into purposeful asteroid mine systems.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "Any local server rooted at `/storage/emulated/0/Documents/GodotProjects` works as long as the import map can resolve `../pose-lab/vendor/three/...`.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "- Right half: drag anywhere to rotate the cockpit.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L92"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 93,
+          "symbol": "",
+          "evidence": "- Smaller fire pad inside the right half: hold there to aim and keep firing.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L93"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 98,
+          "symbol": "",
+          "evidence": "- `Arcade Mode`: the current Asteroids-like survival branch with omnidirectional threat pressure, score-based upgrades, and constrained arena combat.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L98"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `src/expedition-admin-console.js`: object-oriented Expedition debug/admin console overlay for runtime command entry such as `noclip`.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- `src/expedition-textures.js`: generated procedural texture set derived from `TEXTURE_MANIFEST.json` for differentiated wall, floor, ceiling, and trim materials.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- `data/expedition_mine_patterns.json`: JSON mirror of the Expedition mine pattern manifest for tests, docs, and Thunder-style corpus review.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- `MESHY_PROP_GENERATION_MANIFEST.json`: tiered Meshy low-poly prop backlog plus generated/runtime-hooked status for prop kits such as `pipe_cable_kit_01`.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 106,
+          "symbol": "",
+          "evidence": "- Expedition also now has an in-game admin console with `noclip`, `where`, and `goal` commands for route/debug work; `noclip` disables AI, damage, and wall/nav collision.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L106"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 115,
+          "symbol": "",
+          "evidence": "- `TEXTURE_MANIFEST.json` now drives the active procedural Expedition surface set through `src/expedition-textures.js`, differentiating walls, floors, ceilings, and trim while p...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L115"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 123,
+          "symbol": "",
+          "evidence": "- Score-based level-ups now sit on top of a continuous survival run, with a 3-life starting pool and no wave breaks.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L123"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "MESHY_PROP_GENERATION_MANIFEST.json",
+          "line": 1,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L1"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- `MESHY_PROP_GENERATION_MANIFEST.json`: tiered Meshy low-poly prop backlog plus generated/runtime-hooked status for prop kits such as `pipe_cable_kit_01`.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "MESHY_PROP_GENERATION_MANIFEST.json",
+          "line": 28,
+          "symbol": "status",
+          "evidence": "\"status\": \"runtime_hooked\",",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/MESHY_PROP_GENERATION_MANIFEST.json#L28"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "DEVELOPMENT_GUIDE.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "6. `TEXTURE_MANIFEST.json` if the work touches concrete surface families, procedural texture rollout, or runtime material hookup.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "DEVELOPMENT_GUIDE.md",
+          "line": 156,
+          "symbol": "",
+          "evidence": "2. Read `TEXTURE_MANIFEST.json` before changing material direction or runtime surface hookup.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L156"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "DEVELOPMENT_GUIDE.md",
+          "line": 203,
+          "symbol": "",
+          "evidence": "- Structured texture/material manifest derived from the steering doc, including runtime surface hookup and procedural rollout details.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L203"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 114,
+          "symbol": "",
+          "evidence": "- Expedition now uses an ore-body descent segment rather than the old flat loop: entry overlook, ore stope, crusher terrace, security sluice, lower descent gate, coolant/vent br...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L114"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "src/shader-error-debug.js",
+          "line": 17,
+          "symbol": "",
+          "evidence": "const validateStatus = gl.getProgramParameter(program, gl.VALIDATE_STATUS);",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/src/shader-error-debug.js#L17"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "src/shader-error-debug.js",
+          "line": 24,
+          "symbol": "",
+          "evidence": "`VALIDATE_STATUS ${validateStatus}`,",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/src/shader-error-debug.js#L24"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "AGENTS.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "Validate after JS edits:",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/AGENTS.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "ASTEROID_INTERIOR_REBOOT_PLAN.md",
+          "line": 340,
+          "symbol": "",
+          "evidence": "- validate main route vs side route distinction",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/ASTEROID_INTERIOR_REBOOT_PLAN.md#L340"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "DEVELOPMENT_GUIDE.md",
+          "line": 125,
+          "symbol": "",
+          "evidence": "5. Validate code, then request another screenshot if the issue is still visual.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L125"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "DEVELOPMENT_GUIDE.md",
+          "line": 140,
+          "symbol": "",
+          "evidence": "13. Do not infer doorway faces from overlap after placement. Portal tunnels must explicitly declare which wall face they enter on each endpoint room, then validate no collider r...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L140"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "DEVELOPMENT_GUIDE.md",
+          "line": 145,
+          "symbol": "",
+          "evidence": "18. New visible areas must change the structural grammar, not just append a room to the same loop. Add or select a segment archetype, give it world-space and map-space silhouett...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L145"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 124,
+          "symbol": "",
+          "evidence": "- Armor Command-inspired branching upgrades: heavier bolts, heavy-shot cadence, shotgun bursts, drones, tracking missiles, shield tuning, synergies, and tree capstones.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L124"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 134,
+          "symbol": "",
+          "evidence": "- Upgrade choices now pause the run whenever score crosses a level threshold, while the endless portal timer resumes afterward.",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/PROJECT_ORIENTATION.md#L134"
+        },
+        {
+          "origin": "github",
+          "project": "driftfield",
+          "repo": "Valar05/driftfield",
+          "path": "DEVELOPMENT_GUIDE.md",
+          "line": 150,
+          "symbol": "",
+          "evidence": "23. Meshy pipe/cable infrastructure must read as continuous service systems: repeated instanced runs along connector paths, junction boxes at bends and room mouths, clamps at ca...",
+          "source_url": "https://github.com/Valar05/driftfield/blob/main/DEVELOPMENT_GUIDE.md#L150"
+        }
+      ]
+    }
+  }
+}

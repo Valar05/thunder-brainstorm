@@ -1,0 +1,1074 @@
+{
+  "repo": "Valar05/cornfire-convoy",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "cornfire-convoy",
+    "updatedAt": "2026-06-20T22:47:44Z",
+    "url": "https://github.com/Valar05/cornfire-convoy",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 5,
+  "selected_files": [
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "13f2a9c6255b3a2c78341b2cff3063aed1743921",
+      "size": 2417,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 40,
+      "byte_count": 2417,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L15",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L23",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L24",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L29"
+      ]
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "40754c34aa3ec7aa69a1e082f25901d3f4ea5884",
+      "size": 1882,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 47,
+      "byte_count": 1882,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "assets/asset_manifest.json",
+      "mode": "100644",
+      "sha": "57355d92a45d977cda15ae6a6c3b779e7bf4f1c6",
+      "size": 579,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 579,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy/blob/main/assets/asset_manifest.json#L1",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/assets/asset_manifest.json#L2",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/assets/asset_manifest.json#L3",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/assets/asset_manifest.json#L4",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/assets/asset_manifest.json#L5",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/assets/asset_manifest.json#L6",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/assets/asset_manifest.json#L7",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/assets/asset_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "sha": "5da5d4f8f05b751df352408db70aaea2cba7be35",
+      "size": 440,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 440,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy/blob/main/AGENTS.md#L3",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/AGENTS.md#L5"
+      ]
+    },
+    {
+      "path": "src/main.js",
+      "mode": "100644",
+      "sha": "eb43b912494f508c2b295da4fbf2c2e683da87e7",
+      "size": 37802,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1098,
+      "byte_count": 37802,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L1",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L2",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L4",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L5",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L6",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L7",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L8",
+        "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L9"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1106,
+    "by_origin": {
+      "github": 1106
+    },
+    "by_project": {
+      "cornfire-convoy": 1106
+    },
+    "by_mechanic": {
+      "ai_pressure": 1045,
+      "asset_import_pipeline": 62,
+      "vehicle_survival": 60,
+      "tts_audio_pipeline": 60,
+      "web_choice_player": 35,
+      "deck_pressure": 21,
+      "text_console_runtime": 21,
+      "touch_lane_combat": 16,
+      "pose_animation_tools": 16,
+      "validation_pipeline": 5,
+      "resource_upgrade_loop": 4,
+      "delayed_consequences": 2,
+      "source_packet_generation": 1
+    },
+    "examples": {
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Cornfire Convoy is a dependency-free HTML5/canvas mobile prototype exploring a Long Haul-inspired vehicle controller merged with Galaga-like attack patterns. The theme is a verd...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: game loop, procedural road, tap-to-drive vehicle controller, gas/corn/refinery economy, placeholder weapons, enemy attack patterns, and canvas drawing.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Fixed slow forward gun, motorcycle attack runs, truck gun runs, basic score/hull loop.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "> Cornfire Convoy is a dependency-free HTML5/canvas mobile prototype exploring a Long Haul-inspired vehicle controller merged with Galaga-like attack patterns. The theme is a ve...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "> - `src/main.js`: game loop, procedural road, tap-to-drive vehicle controller, gas/corn/refinery economy, placeholder weapons, enemy attack patterns, and canvas drawing.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 168,
+          "symbol": "",
+          "evidence": "<button data-drone=\"rail\" type=\"button\"><strong>Railgun Drone</strong><span>Narrow line. Slow penetrating shots through attack runs.</span></button>",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L168"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Cornfire Convoy is a dependency-free HTML5/canvas mobile prototype exploring a Long Haul-inspired vehicle controller merged with Galaga-like attack patterns. The theme is a verd...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: game loop, procedural road, tap-to-drive vehicle controller, gas/corn/refinery economy, placeholder weapons, enemy attack patterns, and canvas drawing.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- Tap/hold target input commands the car through acceleration, braking, yaw, lateral slip, and forward correction rather than direct dragging.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Hybrid road-bound movement: the road always scrolls, the car cannot rotate past a limited yaw range, and turns settle back toward forward.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Stronger controller tuning: acceleration/braking is interpreted radially inside a box around the car, so far side taps preserve speed and turn harder while close taps feather/...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Gas drains continuously and faster under acceleration, hard launches, slip, and off-road shoulder driving; initial gas lasts about two minutes at cruise.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Corn stalk pickups spawn off the road in reachable shoulder/cornfield rows and become reserve fuel, but only refineries convert corn into gas automatically.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "Future image generation should establish the top-down perspective before detailed production sprites: road/cornfield background, player biofuel car, motorcycle raiders, gun truc...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L40"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Cornfire Convoy is a dependency-free HTML5/canvas mobile prototype exploring a Long Haul-inspired vehicle controller merged with Galaga-like attack patterns. The theme is a verd...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 10,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "> Cornfire Convoy is a dependency-free HTML5/canvas mobile prototype exploring a Long Haul-inspired vehicle controller merged with Galaga-like attack patterns. The theme is a ve...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 162,
+          "symbol": "",
+          "evidence": "<div class=\"title-kicker\">Level rig unlocked</div>",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L162"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 321,
+          "symbol": "",
+          "evidence": "else spawnBike();",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L321"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 325,
+          "symbol": "spawnBike",
+          "evidence": "function spawnBike() {",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L325"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 332,
+          "symbol": "",
+          "evidence": "kind: 'bike', x, y, yaw: fromRear ? 0 : Math.PI, speed: 0, hp: 2, r: 17,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L332"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 511,
+          "symbol": "",
+          "evidence": "if (e.kind === 'bike') updateBike(e, dt);",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L511"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Cornfire Convoy is a dependency-free HTML5/canvas mobile prototype exploring a Long Haul-inspired vehicle controller merged with Galaga-like attack patterns. The theme is a verd...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `index.html`: browser shell and DOM overlay/HUD.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "python -m http.server 8794",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- First drone install choice after early kills: flamethrower, machine gun, or railgun placeholder behavior.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "> Cornfire Convoy is a dependency-free HTML5/canvas mobile prototype exploring a Long Haul-inspired vehicle controller merged with Galaga-like attack patterns. The theme is a ve...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "> - `index.html`: browser shell and DOM overlay/HUD.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "> python -m http.server 8794",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- `index.html`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L38"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: game loop, procedural road, tap-to-drive vehicle controller, gas/corn/refinery economy, placeholder weapons, enemy attack patterns, and canvas drawing.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "> - `src/main.js`: game loop, procedural road, tap-to-drive vehicle controller, gas/corn/refinery economy, placeholder weapons, enemy attack patterns, and canvas drawing.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "AGENTS.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This is a small HTML5/canvas prototype. Keep runtime dependency-free unless the user asks otherwise. Prefer simple canvas drawing until the perspective and movement are proven, ...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/AGENTS.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 742,
+          "symbol": "drawRoad",
+          "evidence": "function drawRoad() {",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L742"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 796,
+          "symbol": "drawWorldObjects",
+          "evidence": "function drawWorldObjects() {",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L796"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 875,
+          "symbol": "drawVehicle",
+          "evidence": "function drawVehicle(x, y, yaw, scale, colors, kind = 'car') {",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L875"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 915,
+          "symbol": "drawPlayer",
+          "evidence": "function drawPlayer() {",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L915"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 917,
+          "symbol": "",
+          "evidence": "drawVehicle(p.x, p.y, p.yaw, 1.06, { body: '#c9e7a2', cab: '#3f6c44', nose: '#f0ffb5', tire: '#10130f', gun: '#22281f', bed: '#668047' });",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L917"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: game loop, procedural road, tap-to-drive vehicle controller, gas/corn/refinery economy, placeholder weapons, enemy attack patterns, and canvas drawing.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "node --check src/main.js",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Gas drains continuously and faster under acceleration, hard launches, slip, and off-road shoulder driving; initial gas lasts about two minutes at cruise.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Corn stalk pickups spawn off the road in reachable shoulder/cornfield rows and become reserve fuel, but only refineries convert corn into gas automatically.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- First drone install choice after early kills: flamethrower, machine gun, or railgun placeholder behavior.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "Future image generation should establish the top-down perspective before detailed production sprites: road/cornfield background, player biofuel car, motorcycle raiders, gun truc...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "> - `src/main.js`: game loop, procedural road, tap-to-drive vehicle controller, gas/corn/refinery economy, placeholder weapons, enemy attack patterns, and canvas drawing.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "> node --check src/main.js",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L25"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: placeholder/provenance notes for future generated art.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: cornfire-convoy",
+          "evidence": "# Project Manifest: cornfire-convoy",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/cornfire-convoy`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/cornfire-convoy`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Orientation: `PROJECT_ORIENTATION.md`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L7"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: placeholder/provenance notes for future generated art.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 38,
+          "symbol": "Asset Direction",
+          "evidence": "## Asset Direction",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: cornfire-convoy",
+          "evidence": "# Project Manifest: cornfire-convoy",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/cornfire-convoy`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/cornfire-convoy`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_MANIFEST.md#L6"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- Tap/hold target input commands the car through acceleration, braking, yaw, lateral slip, and forward correction rather than direct dragging.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- First drone install choice after early kills: flamethrower, machine gun, or railgun placeholder behavior.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 46,
+          "symbol": "",
+          "evidence": "choiceOffered: false,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L46"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 126,
+          "symbol": "",
+          "evidence": "<p class=\"title-note\">Tap to command the car. Corn becomes gas at refineries. Run dry and the convoy ends.</p>",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L126"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 127,
+          "symbol": "",
+          "evidence": "<button id=\"startBtn2\" type=\"button\">Start Run</button>",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L127"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 138,
+          "symbol": "",
+          "evidence": "<button id=\"resumeBtn\" type=\"button\">Resume</button>",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L138"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 139,
+          "symbol": "",
+          "evidence": "<button id=\"newRunBtn\" class=\"secondary\" type=\"button\">New Run</button>",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L139"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 154,
+          "symbol": "",
+          "evidence": "<button id=\"againBtn\" type=\"button\">New Run</button>",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L154"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "AGENTS.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Before runtime edits, check `PROJECT_ORIENTATION.md`. Validate with `node --check src/main.js`. If files are moved or copied for Android-visible use, refresh Android media index...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/AGENTS.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 2,
+          "symbol": "",
+          "evidence": "'use strict';",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L2"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 370,
+          "symbol": "",
+          "evidence": "const radialIntent = clamp(Math.max(Math.abs(nx), Math.abs(ny)), 0, 1);",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L370"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 373,
+          "symbol": "",
+          "evidence": "? (behindIntent ? -lerp(45, 230, radialIntent) : lerp(45, 320 + Math.max(0, ny) * 30, radialIntent))",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L373"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 394,
+          "symbol": "",
+          "evidence": "? clamp(nx, -1, 1) * (0.38 + radialIntent * 0.62)",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L394"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 46,
+          "symbol": "",
+          "evidence": "choiceOffered: false,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L46"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 191,
+          "symbol": "",
+          "evidence": "state.choiceOffered = false;",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L191"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 626,
+          "symbol": "",
+          "evidence": "if (!state.choiceOffered && state.player.kills >= 3) {",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L626"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 627,
+          "symbol": "",
+          "evidence": "state.choiceOffered = true;",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L627"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 67,
+          "symbol": "",
+          "evidence": "ctx.setTransform(dpr, 0, 0, dpr, 0, 0);",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L67"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 159,
+          "symbol": "showDroneChoice",
+          "evidence": "function showDroneChoice() {",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L159"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy",
+          "repo": "Valar05/cornfire-convoy",
+          "path": "src/main.js",
+          "line": 629,
+          "symbol": "",
+          "evidence": "if (state.mode === 'running') showDroneChoice();",
+          "source_url": "https://github.com/Valar05/cornfire-convoy/blob/main/src/main.js#L629"
+        }
+      ]
+    }
+  }
+}

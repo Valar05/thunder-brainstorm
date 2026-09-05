@@ -1,0 +1,1279 @@
+{
+  "repo": "Valar05/choice-craft-vue",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "choice-craft-vue",
+    "updatedAt": "2024-11-07T15:52:05Z",
+    "url": "https://github.com/Valar05/choice-craft-vue",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 18,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "830d25d77252524fa6962c34e5b48f87bdcd4479",
+      "size": 589,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 589,
+      "mechanics": [
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/README.md#L1",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/README.md#L19",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/README.md#L31",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/README.md#L34"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "93fcace1b98854a7f085d4d20c093d9d971bc455",
+      "size": 697,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 697,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L2",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L10",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L16",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L23",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L24"
+      ]
+    },
+    {
+      "path": "jsconfig.json",
+      "mode": "100644",
+      "sha": "5a1f2d222a302a174e710614c6d76531b7bda926",
+      "size": 116,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 8,
+      "byte_count": 116,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "vite.config.js",
+      "mode": "100644",
+      "sha": "26a21a9e3e36f191cb2f687358aed56d34cb55c4",
+      "size": 379,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 18,
+      "byte_count": 379,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/vite.config.js#L1",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/vite.config.js#L3",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/vite.config.js#L4",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/vite.config.js#L5",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/vite.config.js#L15"
+      ]
+    },
+    {
+      "path": ".vscode/extensions.json",
+      "mode": "100644",
+      "sha": "64db0b2ec2c73f86aca3de5b4c2bf449e2b4e62f",
+      "size": 77,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 6,
+      "byte_count": 77,
+      "mechanics": [
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/.vscode/extensions.json#L4"
+      ]
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "sha": "4b812a7b0751583efcb9d0187d44622b085ac5cf",
+      "size": 146671,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4054,
+      "byte_count": 146671,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L8",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L14",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L21",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L22",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L43",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L65",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L74"
+      ]
+    },
+    {
+      "path": "src/App.vue",
+      "mode": "100644",
+      "sha": "b122e43dc4a66f65a393fe1140dee7b0913e959b",
+      "size": 2869,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 116,
+      "byte_count": 2869,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/App.vue#L2",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/App.vue#L3",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/App.vue#L4",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/App.vue#L15",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/App.vue#L26",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/App.vue#L29",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/App.vue#L36",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/App.vue#L42"
+      ]
+    },
+    {
+      "path": "src/components/ChatGptPrompt.vue",
+      "mode": "100644",
+      "sha": "0477b2fa361da386bcbd7951e2588fc96d8fde2f",
+      "size": 8284,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 288,
+      "byte_count": 8284,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L2",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L3",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L5",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L10",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L15",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L21",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L22",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L28"
+      ]
+    },
+    {
+      "path": "src/components/HelloWorld.vue",
+      "mode": "100644",
+      "sha": "5fb372c9c9e8ad63c632a14fb0323627dbdf6bb1",
+      "size": 700,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 44,
+      "byte_count": 700,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "src/components/SpeechComponent.vue",
+      "mode": "100644",
+      "sha": "4b7ecf1b0e05eb0210f68d996031d13fcc671fa1",
+      "size": 1664,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 75,
+      "byte_count": 1664,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L4",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L5",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L14",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L20",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L25",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L33",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L34",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L36"
+      ]
+    },
+    {
+      "path": "src/components/TheWelcome.vue",
+      "mode": "100644",
+      "sha": "dab95367d4cb1dfe39b9c898fcd087ee3eda35b6",
+      "size": 3282,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 88,
+      "byte_count": 3282,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/TheWelcome.vue#L2",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/TheWelcome.vue#L3",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/TheWelcome.vue#L4",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/TheWelcome.vue#L5",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/TheWelcome.vue#L6",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/TheWelcome.vue#L7",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/TheWelcome.vue#L29",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/TheWelcome.vue#L33"
+      ]
+    },
+    {
+      "path": "src/components/WelcomeItem.vue",
+      "mode": "100644",
+      "sha": "6d7086aea08fbb770b2f570dbeb4f8fcd86cb291",
+      "size": 1414,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 87,
+      "byte_count": 1414,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/WelcomeItem.vue#L6",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/WelcomeItem.vue#L22"
+      ]
+    },
+    {
+      "path": "src/components/icons/IconCommunity.vue",
+      "mode": "100644",
+      "sha": "2dc8b055253af30fb797037e2fe260505f0cf711",
+      "size": 1054,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 1054,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "src/components/icons/IconDocumentation.vue",
+      "mode": "100644",
+      "sha": "6d4791cfbcf2782b3e5ffbabd042d4c47b2fbbed",
+      "size": 1254,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 1254,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "src/components/icons/IconEcosystem.vue",
+      "mode": "100644",
+      "sha": "c3a4f078c0bd340a33c61ea9ecd8a755d03571ed",
+      "size": 1977,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 1977,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "src/components/icons/IconSupport.vue",
+      "mode": "100644",
+      "sha": "7452834d3ef961ce24c3a072ddba2620b6158bae",
+      "size": 288,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 288,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "src/components/icons/IconTooling.vue",
+      "mode": "100644",
+      "sha": "660598d7c76644ffe126a1a1feb1606650bfb937",
+      "size": 913,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 19,
+      "byte_count": 913,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/icons/IconTooling.vue#L1"
+      ]
+    },
+    {
+      "path": "src/main.js",
+      "mode": "100644",
+      "sha": "0e0937a41101f2dda82bdf6269f7aef1dd502706",
+      "size": 287,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 13,
+      "byte_count": 287,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/main.js#L1",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/main.js#L3",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/main.js#L4",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/main.js#L5",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/main.js#L7",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/main.js#L9",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/main.js#L10",
+        "https://github.com/Valar05/choice-craft-vue/blob/main/src/main.js#L11"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 332,
+    "by_origin": {
+      "github": 332
+    },
+    "by_project": {
+      "choice-craft-vue": 332
+    },
+    "by_mechanic": {
+      "ai_pressure": 100,
+      "asset_import_pipeline": 66,
+      "text_console_runtime": 55,
+      "validation_pipeline": 49,
+      "pose_animation_tools": 28,
+      "web_choice_player": 26,
+      "source_packet_generation": 9,
+      "tts_audio_pipeline": 9,
+      "delayed_consequences": 7,
+      "touch_lane_combat": 6,
+      "vehicle_survival": 1,
+      "deck_pressure": 1,
+      "resource_upgrade_loop": 1
+    },
+    "examples": {
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "choice-craft-vue",
+          "evidence": "# choice-craft-vue",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package.json",
+          "line": 2,
+          "symbol": "name",
+          "evidence": "\"name\": \"choice-craft-vue\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2,
+          "symbol": "name",
+          "evidence": "\"name\": \"choice-craft-vue\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 8,
+          "symbol": "name",
+          "evidence": "\"name\": \"choice-craft-vue\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L8"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 83,
+          "symbol": "@babel/parser",
+          "evidence": "\"@babel/parser\": \"^7.25.0\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L83"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 300,
+          "symbol": "node_modules/@babel/helper-string-parser",
+          "evidence": "\"node_modules/@babel/helper-string-parser\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L300"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 302,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/@babel/helper-string-parser/-/helper-string-parser-7.24.8.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L302"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 424,
+          "symbol": "node_modules/@babel/parser",
+          "evidence": "\"node_modules/@babel/parser\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L424"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "choice-craft-vue",
+          "evidence": "# choice-craft-vue",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "Compile and Hot-Reload for Development",
+          "evidence": "### Compile and Hot-Reload for Development",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package.json",
+          "line": 2,
+          "symbol": "name",
+          "evidence": "\"name\": \"choice-craft-vue\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2,
+          "symbol": "name",
+          "evidence": "\"name\": \"choice-craft-vue\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 8,
+          "symbol": "name",
+          "evidence": "\"name\": \"choice-craft-vue\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L8"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 1440,
+          "symbol": "html-tags",
+          "evidence": "\"html-tags\": \"^3.3.1\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L1440"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 1607,
+          "symbol": "node_modules/@vue/server-renderer",
+          "evidence": "\"node_modules/@vue/server-renderer\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L1607"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 1609,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/@vue/server-renderer/-/server-renderer-3.4.38.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L1609"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "Lint with [ESLint](https://eslint.org/)",
+          "evidence": "### Lint with [ESLint](https://eslint.org/)",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "npm run lint",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package.json",
+          "line": 10,
+          "symbol": "lint",
+          "evidence": "\"lint\": \"eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore\"",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L10"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package.json",
+          "line": 23,
+          "symbol": "eslint",
+          "evidence": "\"eslint\": \"^8.57.0\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L23"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package.json",
+          "line": 24,
+          "symbol": "eslint-plugin-vue",
+          "evidence": "\"eslint-plugin-vue\": \"^9.23.0\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L24"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": ".vscode/extensions.json",
+          "line": 4,
+          "symbol": "",
+          "evidence": "\"dbaeumer.vscode-eslint\"",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/.vscode/extensions.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 21,
+          "symbol": "eslint",
+          "evidence": "\"eslint\": \"^8.57.0\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L21"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 22,
+          "symbol": "eslint-plugin-vue",
+          "evidence": "\"eslint-plugin-vue\": \"^9.23.0\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L22"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package.json",
+          "line": 16,
+          "symbol": "openai",
+          "evidence": "\"openai\": \"^4.67.3\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package.json#L16"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 14,
+          "symbol": "openai",
+          "evidence": "\"openai\": \"^4.67.3\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L14"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 43,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-+562v9k4aI80m1+VuMHehNJWLOFjBnXn3tdOitzD0il5b7smkSBal4+a3oKiQTbrwMmN/TBUMDvbdoWDehgOww==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L43"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 128,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-BaDeOonYvhdKw+JoMVkAixAAJzG2jVPIwWoKBPdYuY9b452e2rPuI9QPYh3KpofZ3pW2akOmwZLOiOsHMiqRAg==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L128"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 277,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-zBAIvbCMh5Ts+b86r/CjU+4XGYIs+R1j951gxI3KmmxBMhCg4oQMsv6ZXQ64XOm/cvzfU1FmoCyt6+owc5QMYg==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L277"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 319,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-xb8t9tD1MHLungh/AIoWYN+gVHaB9kwlu8gffXGSt3FFEIT7RjS+xWbc2vUD1UTZdIpKj/ab3rdqJ7ufngyi2Q==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L319"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 382,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L382"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 590,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-/l42B1qxpG6RdfYf343Uw1vmDjeNhneUXtzhojE7pDgfpEypmRhI6j1kr17XCVv4Cgl9HdAiQY2x0GwKm7rWCw==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L590"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "vite.config.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import { fileURLToPath, URL } from 'node:url'",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/vite.config.js#L1"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "vite.config.js",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import { defineConfig } from 'vite'",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/vite.config.js#L3"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "vite.config.js",
+          "line": 4,
+          "symbol": "",
+          "evidence": "import vue from '@vitejs/plugin-vue'",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/vite.config.js#L4"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "vite.config.js",
+          "line": 5,
+          "symbol": "",
+          "evidence": "import vueDevTools from 'vite-plugin-vue-devtools'",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/vite.config.js#L5"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "vite.config.js",
+          "line": 15,
+          "symbol": "",
+          "evidence": "'@': fileURLToPath(new URL('./src', import.meta.url))",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/vite.config.js#L15"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 87,
+          "symbol": "convert-source-map",
+          "evidence": "\"convert-source-map\": \"^2.0.0\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L87"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 205,
+          "symbol": "node_modules/@babel/helper-module-imports",
+          "evidence": "\"node_modules/@babel/helper-module-imports\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L205"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 207,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/@babel/helper-module-imports/-/helper-module-imports-7.24.7.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L207"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 65,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-+LGRog6RAsCJrrrg/IO6LGmpphNe5DiK30dGjCoxxeGv49B10/3XYGxPsAwrDlMFcFEvdAUavDT8r9k/hSyQqQ==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L65"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 74,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-BBt3opiCOxUr9euZ5/ro/Xv8/V7yJ5bjYMqG/C1YAo8MIKAnumZalCN+msbci3Pigy4lIQfPUpfMM27HMGaYEA==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L74"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 140,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-U2U5LsSaZ7TAt3cfaymQ8WHh0pxvdHoEk6HVpaexxixjyEquMh0L0YNJNM6CTGKMXV1iksi0iZkGw4AcFkPaaw==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L140"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 221,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-BjyRAbix6j/wv83ftcVJmBt72QtHI56C7JXZoG2xATiLpmoC7dpd8WnkikExHDVPpi/3qCmO6WY1EaXOluiecQ==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L221"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 311,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-rR+PBcQ1SMQDDyF6X0wxtG8QyLCgUB0eRAGguqRLfkCA87l7yAP7ehq8SNj96OOGTO8OBV70KhuFYcIkHXOg0w==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L311"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 341,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-EStJpq4OuY8xYfhGVXngigBJRWxftKX9ksiGDnmlY3o7B/V7KIAc9X4oiK87uPJSc/vs5L869bem5fhZa8caZw==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L341"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 382,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-QfAUtd+vFdAtFQcC8CCyYt1fYWxSqAiK2cSD6zDB8N3cpsEBAvRxp9zOGg6G/SHHJYAT88/az/IuDGALsNVbGg==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L382"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 441,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-RL9GR0pUG5Kc8BUWLNDm2T5OpYwSX15r98I0IkgmRQTXuELq/OynH8xtMTMvTJFjXbMWFVTKtYkTaYQsuAwQlQ==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L441"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 81,
+          "symbol": "@babel/helper-module-transforms",
+          "evidence": "\"@babel/helper-module-transforms\": \"^7.25.2\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L81"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 218,
+          "symbol": "node_modules/@babel/helper-module-transforms",
+          "evidence": "\"node_modules/@babel/helper-module-transforms\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L218"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 220,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/@babel/helper-module-transforms/-/helper-module-transforms-7.25.2.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L220"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 527,
+          "symbol": "node_modules/@babel/plugin-transform-typescript",
+          "evidence": "\"node_modules/@babel/plugin-transform-typescript\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L527"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 529,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/@babel/plugin-transform-typescript/-/plugin-transform-typescript-7.25.2.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L529"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 1419,
+          "symbol": "node_modules/@vue/babel-helper-vue-transform-on",
+          "evidence": "\"node_modules/@vue/babel-helper-vue-transform-on\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L1419"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 1421,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/@vue/babel-helper-vue-transform-on/-/babel-helper-vue-transform-on-1.2.2.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L1421"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 1437,
+          "symbol": "@vue/babel-helper-vue-transform-on",
+          "evidence": "\"@vue/babel-helper-vue-transform-on\": \"1.2.2\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L1437"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 1172,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-fSuPrt0ZO8uXeS+xP3b+yYTCBUd05MoSp2N/MFOgjhhUhMmchXlpTQrTpI8T+YAwAQuK7MafsCOxW7VrPMrJcg==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L1172"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 1563,
+          "symbol": "hookable",
+          "evidence": "\"hookable\": \"^5.5.3\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L1563"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 1884,
+          "symbol": "delayed-stream",
+          "evidence": "\"delayed-stream\": \"~1.0.0\"",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L1884"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2016,
+          "symbol": "node_modules/delayed-stream",
+          "evidence": "\"node_modules/delayed-stream\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2016"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2018,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2018"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2558,
+          "symbol": "node_modules/hookable",
+          "evidence": "\"node_modules/hookable\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2558"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2560,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/hookable/-/hookable-5.5.3.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2560"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2631,
+          "symbol": "deprecated",
+          "evidence": "\"deprecated\": \"This module is not supported, and leaks memory. Do not use it. Check out lru-cache if you want a good and tested way to coalesce async requests by a key value, wh...",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2631"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2159,
+          "symbol": "lodash.merge",
+          "evidence": "\"lodash.merge\": \"^4.6.2\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2159"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2871,
+          "symbol": "node_modules/lodash",
+          "evidence": "\"node_modules/lodash\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2871"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2873,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2873"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2877,
+          "symbol": "node_modules/lodash.merge",
+          "evidence": "\"node_modules/lodash.merge\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2877"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2879,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/lodash.merge/-/lodash.merge-4.6.2.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2879"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 3942,
+          "symbol": "lodash",
+          "evidence": "\"lodash\": \"^4.17.21\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L3942"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 2936,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-ZDY+bPm5zTTF+YpCrAU9nK0UgICYPT0QtT1NZWFv4s++TNkcgVaT0g6+4R2uI4MjQjzysHB1zxuWL50hzaeXiw==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L2936"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 3110,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-1FlR+gjXK7X+AsAHso35MnyN5KqGwJRi/31ft6x0M194ht7S+rWAvd7PHss9xSKMzE0asv1pyIHaJYq+BbacAQ==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L3110"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "package-lock.json",
+          "line": 3236,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-AVbw3UJ2e9bq64vSaS9Am0fje1Pa8pbGqTTsmXfaIiMpnr5DlDhfJOuLj9Sf95ZPVDAUerDfEk88MPmPe7UCQg==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/package-lock.json#L3236"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "src/components/ChatGptPrompt.vue",
+          "line": 158,
+          "symbol": "",
+          "evidence": "const audioUrl = URL.createObjectURL(blob);",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L158"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "src/components/ChatGptPrompt.vue",
+          "line": 159,
+          "symbol": "",
+          "evidence": "const audio = new Audio(audioUrl);",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L159"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "src/components/ChatGptPrompt.vue",
+          "line": 160,
+          "symbol": "",
+          "evidence": "audio.play();",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/ChatGptPrompt.vue#L160"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "src/components/SpeechComponent.vue",
+          "line": 5,
+          "symbol": "",
+          "evidence": "<audio v-if=\"audioUrl\" :src=\"audioUrl\" controls class=\"audio-player\"></audio>",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L5"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "src/components/SpeechComponent.vue",
+          "line": 14,
+          "symbol": "",
+          "evidence": "audioUrl: null",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L14"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "src/components/SpeechComponent.vue",
+          "line": 34,
+          "symbol": "",
+          "evidence": "this.audioUrl = URL.createObjectURL(blob);",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/SpeechComponent.vue#L34"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "choice-craft-vue",
+          "repo": "Valar05/choice-craft-vue",
+          "path": "src/components/TheWelcome.vue",
+          "line": 55,
+          "symbol": "",
+          "evidence": "you need more resources, we suggest paying",
+          "source_url": "https://github.com/Valar05/choice-craft-vue/blob/main/src/components/TheWelcome.vue#L55"
+        }
+      ]
+    }
+  }
+}

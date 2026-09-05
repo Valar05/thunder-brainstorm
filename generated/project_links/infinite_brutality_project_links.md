@@ -11,6 +11,7 @@ Date: 2026-06-08
 - Orientation: `/storage/emulated/0/Documents/GodotProjects/infinite-brutality/PROJECT_ORIENTATION.md`
 - Local Thunder pointer: `/storage/emulated/0/Documents/GodotProjects/infinite-brutality/THUNDER_LINKS.md`
 - Local level-design workflow: `/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/LEVEL_DESIGN_WORKFLOW.md`
+- Rock shape grammar: `/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/ROCK_SHAPE_GRAMMAR.md`
 - Vertical district realization plan: `/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/VERTICAL_DISTRICT_REALIZATION_PLAN.md`
 
 ## Local URLs
@@ -27,6 +28,8 @@ Date: 2026-06-08
 - Manual source refs: `/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/source_refs_manual/infinite_brutality_source_refs.jsonl`
 - Meshy/PBR rendering handoff: `/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-15_infinite_brutality_meshy_pbr_rendering_handoff.md`
 - Meshy/PBR rendering source refs: `/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/source_refs_manual/infinite_brutality_meshy_pbr_rendering_source_refs.jsonl`
+- Rock shape grammar handoff: `/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-15_infinite_brutality_rock_shape_grammar.md`
+- Rock shape grammar source refs: `/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/source_refs_manual/infinite_brutality_rock_shape_grammar_source_refs.jsonl`
 - Precursor Arcane/FPS platformer brainstorm: `/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-07_fps_platformer_arcane_ik_brainstorm.md`
 - Quake/touch movement brainstorm: `/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-08_quake_movement_touch_speedrun_brainstorm.md`
 - Quake route grammar curriculum: `/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/quake_route_grammar/quake_route_grammar_curriculum.md`
@@ -42,7 +45,7 @@ Date: 2026-06-08
 
 ## Build Context
 
-Current documented runtime build: `0.8.28`. The page cache-buster should point at `src/main.js?v=0.8.28`.
+Current documented runtime build: `0.8.175`. The page cache-buster should point at `src/main.js?v=0.8.175`.
 
 Serve from the GodotProjects root:
 
@@ -82,3 +85,11 @@ A real generated bitmap skybox now lives at `../infinite-brutality/assets/textur
 ## Build 0.8.3 Physical Gauntlet Fix
 
 A screenshot of build `0.8.1` exposed two generator failures: every room collapsed into a one-bridge room and surfaces depth-fought because pads/bridges shared planes with the base floor. Build `0.8.3` changes generated rooms to floor-first compact chambers, removes the default global side void, raises overlays off the base plane, and builds all 48 rooms into one physical gauntlet connected by walkable spans. Ordinary room exits no longer teleport/rebuild the next room.
+
+## Build 0.8.174 Sandstone Mesh Harness
+
+Active sandstone terrain now uses manifold exposed voxel faces generated from the same collision voxel field. The fix removes diagonal-only voxel contacts before meshing and extends `tools/test_island_mesh_integrity_contract.mjs` to check the active sedimentary island and bridge mesh paths, not just the legacy surface-net path.
+
+## Build 0.8.175 Visual Weathering
+
+The sandstone mesh remains collision-backed and manifold, but its visible vertices now receive deterministic sediment shear and erosion offsets so it does not read as exact kitbashed cubes. The rock grammar contract records this as an off-grid visual vertex ratio check.

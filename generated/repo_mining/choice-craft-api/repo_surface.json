@@ -1,0 +1,626 @@
+{
+  "repo": "Valar05/choice-craft-api",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "choice-craft-api",
+    "updatedAt": "2024-09-05T13:53:27Z",
+    "url": "https://github.com/Valar05/choice-craft-api",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 4,
+  "selected_files": [
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "b5814dc035966fb6da650a6842976d11ab3c115b",
+      "size": 611,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 24,
+      "byte_count": 611,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L2",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L5",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L8",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L12",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L20"
+      ]
+    },
+    {
+      "path": ".vscode/launch.json",
+      "mode": "100644",
+      "sha": "e5588e03ccfd3b1ae63dc98f7c6ed0d1d8729c7b",
+      "size": 630,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 630,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "index.js",
+      "mode": "100644",
+      "sha": "e905b3cbcd874bc0ac98b05c1a04f2320ba67120",
+      "size": 4309,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 142,
+      "byte_count": 4309,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L15",
+        "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L20",
+        "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L21",
+        "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L32",
+        "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L33",
+        "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L50",
+        "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L67",
+        "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L71"
+      ]
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "sha": "d315652d5f84e6e789d9c070e0b757f01666dd93",
+      "size": 74616,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2004,
+      "byte_count": 74616,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L2",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L8",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L10",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L18",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L62",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L65",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L227",
+        "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L240"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 91,
+    "by_origin": {
+      "github": 91
+    },
+    "by_project": {
+      "choice-craft-api": 91
+    },
+    "by_mechanic": {
+      "web_choice_player": 28,
+      "ai_pressure": 28,
+      "text_console_runtime": 17,
+      "pose_animation_tools": 13,
+      "delayed_consequences": 4,
+      "asset_import_pipeline": 3,
+      "deck_pressure": 3,
+      "tts_audio_pipeline": 2,
+      "validation_pipeline": 2
+    },
+    "examples": {
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package.json",
+          "line": 2,
+          "symbol": "name",
+          "evidence": "\"name\": \"choice-craft-api\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 94,
+          "symbol": "",
+          "evidence": "console.log(`Server running on http://localhost:${PORT}`);",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L94"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 122,
+          "symbol": "",
+          "evidence": "var response = data.choices[0].message.content",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L122"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 128,
+          "symbol": "",
+          "evidence": "console.error('Error sending message to ChatGPT:', error);",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L128"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 2,
+          "symbol": "name",
+          "evidence": "\"name\": \"choice-craft-api\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 8,
+          "symbol": "name",
+          "evidence": "\"name\": \"choice-craft-api\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L8"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 62,
+          "symbol": "fast-xml-parser",
+          "evidence": "\"fast-xml-parser\": \"^4.4.1\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L62"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 301,
+          "symbol": "node_modules/body-parser",
+          "evidence": "\"node_modules/body-parser\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L301"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package.json",
+          "line": 2,
+          "symbol": "name",
+          "evidence": "\"name\": \"choice-craft-api\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 32,
+          "symbol": "",
+          "evidence": "resave: false,",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L32"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 33,
+          "symbol": "",
+          "evidence": "saveUninitialized: false,",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L33"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 50,
+          "symbol": "",
+          "evidence": "// In a real app, you'd save the user to your database here",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L50"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 91,
+          "symbol": "",
+          "evidence": "// Start the server",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L91"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 94,
+          "symbol": "",
+          "evidence": "console.log(`Server running on http://localhost:${PORT}`);",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L94"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 122,
+          "symbol": "",
+          "evidence": "var response = data.choices[0].message.content",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L122"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 124,
+          "symbol": "",
+          "evidence": "await saveConversationHistory(conversationHistory, filename);",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L124"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package.json",
+          "line": 5,
+          "symbol": "main",
+          "evidence": "\"main\": \"index.js\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package.json",
+          "line": 20,
+          "symbol": "openai",
+          "evidence": "\"openai\": \"^4.56.2\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L20"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 67,
+          "symbol": "",
+          "evidence": "passport.authenticate('google', { scope: ['profile', 'email'], state: state })(req, res, next);",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L67"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 71,
+          "symbol": "",
+          "evidence": "passport.authenticate('google', { failureRedirect: '/' }),",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L71"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 76,
+          "symbol": "",
+          "evidence": "// user: { name: req.user.displayName, email: req.user.emails[0].value }",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L76"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 105,
+          "symbol": "",
+          "evidence": "const chatCompletion = await fetch('https://api.openai.com/v1/chat/completions', {",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L105"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 109,
+          "symbol": "",
+          "evidence": "'Authorization': `Bearer ${process.env.OPENAI_API_KEY}`,",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L109"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 121,
+          "symbol": "",
+          "evidence": "const data = await chatCompletion.json();",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L121"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package.json",
+          "line": 8,
+          "symbol": "test",
+          "evidence": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L8"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 403,
+          "symbol": "delayed-stream",
+          "evidence": "\"delayed-stream\": \"~1.0.0\"",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L403"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 482,
+          "symbol": "node_modules/delayed-stream",
+          "evidence": "\"node_modules/delayed-stream\": {",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L482"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 484,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L484"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package.json",
+          "line": 12,
+          "symbol": "license",
+          "evidence": "\"license\": \"ISC\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package.json#L12"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 10,
+          "symbol": "license",
+          "evidence": "\"license\": \"ISC\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L10"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 1677,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-XGuRDNjXUijsUL0vl6nSD7cwURuzEgglbOaFuZM9g3kwDXOWVTck0jLzjPzGD+TazWbboZYu52/9/XPdUgne9g==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L1677"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 15,
+          "symbol": "",
+          "evidence": "const allowedOrigins = ['http://localhost:5173'];",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L15"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 20,
+          "symbol": "",
+          "evidence": "origin: function (origin, callback) {",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L20"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "index.js",
+          "line": 21,
+          "symbol": "",
+          "evidence": "if (allowedOrigins.indexOf(origin) !== -1 || !origin) {",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/index.js#L21"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 347,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-zRpUiDwd/xk6ADqPMATG8vc9VPrkck7T07OIx0gnjmJAnHnTVXNQG3vfvWNuiZIkwu9KrKdA1iJKfsfTVxE6NA==\"",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L347"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 786,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-LDODD4TMYx7XXdpwxAVRAIAuB0bzv0s+ywFonY46k126qzQHT9ygyoa9tncmOiQmmDrik65UYsEkv3lbfqQ3yQ==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L786"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 881,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-pCcEwRi+TKpMlxAQObHDQ56KawURgyAf6jtIY046fJ5tIv3zDe/LEIubckAO8fj6JnAxLdmWkUfNyulQ2iKdEw==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L881"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 1020,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-1e4Wqeblerz+tMKPIq2EMGiiWW1dIjZOksyHWSUm1rmuvw/how9hBHZ38lAGj5ID4Ik6EdkOw7NmWPy6LAwalw==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L1020"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 1072,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-Ius2VYcGNk7T90CppJqcIkS5ooHUZyIQK+ClZfMfMNFEF9VSE73Fq+906u/CWu92x4gzZMWOwfFYckPObzdEbA==\"",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L1072"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 227,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-PCVAQswWemu6UdxsDFFX/+gVeYqKAod3D3UVm91jHwynguOwAvYPhx8nNlM++NqRcK6CxxpUafjmhIdKiHibqg==\"",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L227"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 1385,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-5VIG9ktyKm3WhJ24Qmp362DYQswZl7PLRF5CeJS95vCWp1Lm78AdlKUKOajCqNtAhXP+2XPRGmbcF4XAslWXDg==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L1385"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 360,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-GHTSNSYICQ7scH7sZ+M2rFopRoLh8t2bLSW6BbgrtLsahOIB5iyAVJf9GjWK3cYTDaMj4XdBpM1cA6pIS0Kv2w==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L360"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 757,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-zJ2mQYM18rEFOudeV4GShTGIQ7RbzA7ozbU9I/XBpm7kqgMywgmylMwXHxZJmkVoYkna9d2pVXVXPdYTP9ej8Q==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L757"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 1206,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-ZDY+bPm5zTTF+YpCrAU9nK0UgICYPT0QtT1NZWFv4s++TNkcgVaT0g6+4R2uI4MjQjzysHB1zxuWL50hzaeXiw==\",",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L1206"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 674,
+          "symbol": "url",
+          "evidence": "\"url\": \"https://github.com/sponsors/NaturalIntelligence\"",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L674"
+        },
+        {
+          "origin": "github",
+          "project": "choice-craft-api",
+          "repo": "Valar05/choice-craft-api",
+          "path": "package-lock.json",
+          "line": 678,
+          "symbol": "url",
+          "evidence": "\"url\": \"https://paypal.me/naturalintelligence\"",
+          "source_url": "https://github.com/Valar05/choice-craft-api/blob/main/package-lock.json#L678"
+        }
+      ]
+    }
+  }
+}

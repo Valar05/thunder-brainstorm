@@ -1,0 +1,1839 @@
+{
+  "repo": "Valar05/pose-lab-v2",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "pose-lab-v2",
+    "updatedAt": "2026-07-31T18:39:32Z",
+    "url": "https://github.com/Valar05/pose-lab-v2",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "f8d3d5e329f1b85433df7914999d0e06f4399e4a",
+      "size": 19928,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 427,
+      "byte_count": 19928,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L5",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L12",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L13",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L15"
+      ]
+    },
+    {
+      "path": "authoring/vanguard_muramasa_canary/README.md",
+      "mode": "100644",
+      "sha": "f1e167c85c9eeb839b83af7018fd77aedb8d2c01",
+      "size": 2717,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 20,
+      "byte_count": 2717,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/authoring/vanguard_muramasa_canary/README.md#L3",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/authoring/vanguard_muramasa_canary/README.md#L5",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/authoring/vanguard_muramasa_canary/README.md#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/authoring/vanguard_muramasa_canary/README.md#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/authoring/vanguard_muramasa_canary/README.md#L12",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/authoring/vanguard_muramasa_canary/README.md#L14",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/authoring/vanguard_muramasa_canary/README.md#L16",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/authoring/vanguard_muramasa_canary/README.md#L18"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "3717fc82878cf332bc081572bc6f1659d8314c33",
+      "size": 5226,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 141,
+      "byte_count": 5226,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L13",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L14",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L16"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "b754ce6f3bae9b00bad5c5a7a069cc5663d173ba",
+      "size": 7033,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 85,
+      "byte_count": 7033,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/package.json#L2",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/package.json#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/package.json#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/package.json#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/package.json#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/package.json#L11",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/package.json#L12",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/package.json#L13"
+      ]
+    },
+    {
+      "path": "vendor/three/package.json",
+      "mode": "100644",
+      "sha": "dc6049b87f7f661f5a7ad2de7ab15a2bf9a2c202",
+      "size": 4292,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 126,
+      "byte_count": 4292,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/vendor/three/package.json#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/vendor/three/package.json#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/vendor/three/package.json#L29",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/vendor/three/package.json#L44",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/vendor/three/package.json#L49",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/vendor/three/package.json#L50",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/vendor/three/package.json#L51",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/vendor/three/package.json#L52"
+      ]
+    },
+    {
+      "path": "docs/CLOUD_WORKER_ANIMATION_SURFACE.md",
+      "mode": "100644",
+      "sha": "a57ac3d4e6756c42704d566c91c81a2481dadb99",
+      "size": 3837,
+      "score": 88,
+      "reasons": [
+        "documentation surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 118,
+      "byte_count": 3837,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_ANIMATION_SURFACE.md#L3",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_ANIMATION_SURFACE.md#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_ANIMATION_SURFACE.md#L5",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_ANIMATION_SURFACE.md#L11",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_ANIMATION_SURFACE.md#L16",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_ANIMATION_SURFACE.md#L18",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_ANIMATION_SURFACE.md#L20",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_ANIMATION_SURFACE.md#L25"
+      ]
+    },
+    {
+      "path": "docs/CLOUD_WORKER_OUTPUT_CONTRACT.md",
+      "mode": "100644",
+      "sha": "48ae24c8601fd4a734a87f50416b9f6de3f77c75",
+      "size": 1574,
+      "score": 88,
+      "reasons": [
+        "documentation surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 60,
+      "byte_count": 1574,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_OUTPUT_CONTRACT.md#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_OUTPUT_CONTRACT.md#L12",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_OUTPUT_CONTRACT.md#L14",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_OUTPUT_CONTRACT.md#L17",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_OUTPUT_CONTRACT.md#L20",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_OUTPUT_CONTRACT.md#L25",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_OUTPUT_CONTRACT.md#L26",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/CLOUD_WORKER_OUTPUT_CONTRACT.md#L29"
+      ]
+    },
+    {
+      "path": "scripts/export-swarmling-idle.mjs",
+      "mode": "100644",
+      "sha": "7c4b65850eb620a8ccd3791ffe7a5ced2a69923c",
+      "size": 1078,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 46,
+      "byte_count": 1078,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/export-vanguard-idle.mjs",
+      "mode": "100644",
+      "sha": "075eb1ac482a9db1c9a390f79a088b2430a875bf",
+      "size": 1120,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 1120,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/render-crimson-vanguard-shared-rest-compare.mjs",
+      "mode": "100644",
+      "sha": "6ed73ad5f4a244e8feb6966afaffc3509329d6f6",
+      "size": 744,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 11,
+      "byte_count": 744,
+      "mechanics": []
+    },
+    {
+      "path": "tools/export_swarmling_idle_game_blender.py",
+      "mode": "100644",
+      "sha": "f951222b4ee26fafb09827cf7c1123b7b1ea737a",
+      "size": 14013,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 371,
+      "byte_count": 14013,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_swarmling_idle_game_blender.py#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_swarmling_idle_game_blender.py#L2",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_swarmling_idle_game_blender.py#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_swarmling_idle_game_blender.py#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_swarmling_idle_game_blender.py#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_swarmling_idle_game_blender.py#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_swarmling_idle_game_blender.py#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_swarmling_idle_game_blender.py#L10"
+      ]
+    },
+    {
+      "path": "tools/export_vanguard_idle_game_blender.py",
+      "mode": "100644",
+      "sha": "48854257993ccdf185d4fa435149c036a663b505",
+      "size": 17153,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 476,
+      "byte_count": 17153,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_vanguard_idle_game_blender.py#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_vanguard_idle_game_blender.py#L2",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_vanguard_idle_game_blender.py#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_vanguard_idle_game_blender.py#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_vanguard_idle_game_blender.py#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_vanguard_idle_game_blender.py#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_vanguard_idle_game_blender.py#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/export_vanguard_idle_game_blender.py#L11"
+      ]
+    },
+    {
+      "path": "tools/finalize_swarmling_idle_export.py",
+      "mode": "100644",
+      "sha": "4e83de718e6845a2d4ce4230917c274f595bdc54",
+      "size": 9369,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 242,
+      "byte_count": 9369,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_swarmling_idle_export.py#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_swarmling_idle_export.py#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_swarmling_idle_export.py#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_swarmling_idle_export.py#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_swarmling_idle_export.py#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_swarmling_idle_export.py#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_swarmling_idle_export.py#L11",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_swarmling_idle_export.py#L13"
+      ]
+    },
+    {
+      "path": "tools/finalize_vanguard_idle_export.py",
+      "mode": "100644",
+      "sha": "644b94b042d17cd8d3354e3f26c4b471331ff054",
+      "size": 15166,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 435,
+      "byte_count": 15166,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_vanguard_idle_export.py#L2",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_vanguard_idle_export.py#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_vanguard_idle_export.py#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_vanguard_idle_export.py#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_vanguard_idle_export.py#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_vanguard_idle_export.py#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_vanguard_idle_export.py#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_vanguard_idle_export.py#L12"
+      ]
+    },
+    {
+      "path": "tools/import_swarmling/export_swarmling_glb.py",
+      "mode": "100644",
+      "sha": "cd2a6085049689c32fac05fcbd61cea63702c1eb",
+      "size": 4134,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 136,
+      "byte_count": 4134,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_swarmling/export_swarmling_glb.py#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_swarmling/export_swarmling_glb.py#L2",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_swarmling/export_swarmling_glb.py#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_swarmling/export_swarmling_glb.py#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_swarmling/export_swarmling_glb.py#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_swarmling/export_swarmling_glb.py#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_swarmling/export_swarmling_glb.py#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_swarmling/export_swarmling_glb.py#L10"
+      ]
+    },
+    {
+      "path": "tools/import_vanguard/export_vanguard_glb.py",
+      "mode": "100644",
+      "sha": "357c77c7a83b1b6b813ec3934d6980d38374a56b",
+      "size": 1971,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 46,
+      "byte_count": 1971,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_glb.py#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_glb.py#L2",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_glb.py#L3",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_glb.py#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_glb.py#L5",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_glb.py#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_glb.py#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_glb.py#L8"
+      ]
+    },
+    {
+      "path": "tools/import_vanguard/export_vanguard_root_motion.py",
+      "mode": "100644",
+      "sha": "1327ca48f4c875b4f2a8401e7b9448084702d675",
+      "size": 4291,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 111,
+      "byte_count": 4291,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_root_motion.py#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_root_motion.py#L2",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_root_motion.py#L3",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_root_motion.py#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_root_motion.py#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_root_motion.py#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_root_motion.py#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/import_vanguard/export_vanguard_root_motion.py#L9"
+      ]
+    },
+    {
+      "path": "tools/render_crimson_vanguard_shared_rest_compare_blender.py",
+      "mode": "100644",
+      "sha": "6bf2743c6f0264323b1453a9931e3023ab6ea015",
+      "size": 11636,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 275,
+      "byte_count": 11636,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L2",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L10"
+      ]
+    },
+    {
+      "path": "tools/test_vanguard_idle_export.py",
+      "mode": "100644",
+      "sha": "1e3cd466341dc0b67f098a076a8102616cf78de8",
+      "size": 7408,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 256,
+      "byte_count": 7408,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/test_vanguard_idle_export.py#L2",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/test_vanguard_idle_export.py#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/test_vanguard_idle_export.py#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/test_vanguard_idle_export.py#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/test_vanguard_idle_export.py#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/test_vanguard_idle_export.py#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/test_vanguard_idle_export.py#L12",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/tools/test_vanguard_idle_export.py#L43"
+      ]
+    },
+    {
+      "path": "docs/ANIMATION_POSE_IS_GOD_PIPELINE.md",
+      "mode": "100644",
+      "sha": "7887cd355b8aa672558828fb107b960e9a8ff4fd",
+      "size": 3831,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 120,
+      "byte_count": 3831,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ANIMATION_POSE_IS_GOD_PIPELINE.md#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ANIMATION_POSE_IS_GOD_PIPELINE.md#L3",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ANIMATION_POSE_IS_GOD_PIPELINE.md#L5",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ANIMATION_POSE_IS_GOD_PIPELINE.md#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ANIMATION_POSE_IS_GOD_PIPELINE.md#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ANIMATION_POSE_IS_GOD_PIPELINE.md#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ANIMATION_POSE_IS_GOD_PIPELINE.md#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ANIMATION_POSE_IS_GOD_PIPELINE.md#L11"
+      ]
+    },
+    {
+      "path": "docs/ATTACK_AUTHORING_LEARNINGS.md",
+      "mode": "100644",
+      "sha": "f0a40005dbfe4e2186cd7f95e4f419e4a682f359",
+      "size": 3179,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 86,
+      "byte_count": 3179,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ATTACK_AUTHORING_LEARNINGS.md#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ATTACK_AUTHORING_LEARNINGS.md#L3",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ATTACK_AUTHORING_LEARNINGS.md#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ATTACK_AUTHORING_LEARNINGS.md#L5",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ATTACK_AUTHORING_LEARNINGS.md#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ATTACK_AUTHORING_LEARNINGS.md#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ATTACK_AUTHORING_LEARNINGS.md#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ATTACK_AUTHORING_LEARNINGS.md#L11"
+      ]
+    },
+    {
+      "path": "docs/COMMAND_CENTER_DISPATCH_PROMPT.md",
+      "mode": "100644",
+      "sha": "65511b188b140ba25725bfde4afb86de06373cb1",
+      "size": 1427,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 54,
+      "byte_count": 1427,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/COMMAND_CENTER_DISPATCH_PROMPT.md#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/COMMAND_CENTER_DISPATCH_PROMPT.md#L3",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/COMMAND_CENTER_DISPATCH_PROMPT.md#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/COMMAND_CENTER_DISPATCH_PROMPT.md#L6",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/COMMAND_CENTER_DISPATCH_PROMPT.md#L8",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/COMMAND_CENTER_DISPATCH_PROMPT.md#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/COMMAND_CENTER_DISPATCH_PROMPT.md#L12",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/COMMAND_CENTER_DISPATCH_PROMPT.md#L13"
+      ]
+    },
+    {
+      "path": "docs/LOCAL_BLENDER_ANIMATION_MUSCLE.md",
+      "mode": "100644",
+      "sha": "83ffa5bb8d929a3eabed6c998f4b17bced62db41",
+      "size": 4438,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 116,
+      "byte_count": 4438,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/LOCAL_BLENDER_ANIMATION_MUSCLE.md#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/LOCAL_BLENDER_ANIMATION_MUSCLE.md#L3",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/LOCAL_BLENDER_ANIMATION_MUSCLE.md#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/LOCAL_BLENDER_ANIMATION_MUSCLE.md#L5",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/LOCAL_BLENDER_ANIMATION_MUSCLE.md#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/LOCAL_BLENDER_ANIMATION_MUSCLE.md#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/LOCAL_BLENDER_ANIMATION_MUSCLE.md#L10",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/LOCAL_BLENDER_ANIMATION_MUSCLE.md#L11"
+      ]
+    },
+    {
+      "path": "docs/POSE_IS_GOD.md",
+      "mode": "100644",
+      "sha": "aeeb254f5cd73445136f491b943d8819be0a034d",
+      "size": 6206,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 180,
+      "byte_count": 6206,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L1",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L3",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L4",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L5",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L7",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L9",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L11",
+        "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L12"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 2337,
+    "by_origin": {
+      "github": 2337
+    },
+    "by_project": {
+      "pose-lab-v2": 2337
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 1578,
+      "pose_animation_tools": 513,
+      "web_choice_player": 413,
+      "ai_pressure": 268,
+      "touch_lane_combat": 162,
+      "text_console_runtime": 103,
+      "tts_audio_pipeline": 79,
+      "writing_corpus_review": 65,
+      "source_packet_generation": 63,
+      "validation_pipeline": 47,
+      "vehicle_survival": 19,
+      "deck_pressure": 6,
+      "resource_upgrade_loop": 4,
+      "delayed_consequences": 1
+    },
+    "examples": {
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "Pose Lab V2",
+          "evidence": "# Pose Lab V2",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- the Meshy A-pose/standing source GLB used as the visible character;",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- one baked Meshy `Ready` pose preset generated from the old FPS",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "`OneHandReady` reference through source-orientation retargeting and IK hand",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "It is not a Pose Lab fork. It does not include runtime retargeting, runtime",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "FK/IK solvers, debug bridges, visual metric gates, case systems, or numeric",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "stepping, onion-skin deltas, zoom, ground guide, and multiple review",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "backgrounds. Space toggles playback; Left/Right step; Home/End jump to the",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L44"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This repo contains only:",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "`Meshy_AI_Meshy_Character_Sheet_0705152059_texture.glb`;",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 104,
+          "symbol": "",
+          "evidence": "poseclip/evidence pair can be compared with an optional tripod recording before",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L104"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 118,
+          "symbol": "",
+          "evidence": "not a rig-space proxy. Anticipation must show the sabre tip trailing left of the",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L118"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 124,
+          "symbol": "",
+          "evidence": "Joint-pinned review is available as a quarantined authoring aid:",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L124"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 144,
+          "symbol": "",
+          "evidence": "public/assets/davin/davin_wingsworth_kestrel_man_rigged_pbr_tail3.glb",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L144"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 149,
+          "symbol": "",
+          "evidence": "channels from the downloaded textured GLB. The original merged source remains at",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L149"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 150,
+          "symbol": "",
+          "evidence": "`public/assets/davin/davin_wingsworth_kestrel_man_rigged_pbr.glb`; the default runtime asset adds a real `Tail01` -> `Tail02` -> `Tail03` chain for spring-bone tests. Other impo...",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L150"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- the Meshy A-pose/standing source GLB used as the visible character;",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "`Meshy_AI_Meshy_Character_Sheet_0705152059_texture.glb`;",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- the real Meshy sabre GLB;",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "`OneHandReady` reference through source-orientation retargeting and IK hand",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "`public/assets/vanguard/fleshpunk/animations.json`. It does not assemble or",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "otherwise edits the source frames.",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "Their exact 512x512 frame bytes, timing, hashes, source metadata, and contact",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "sheets live under `public/assets/vanguard/fleshpunk/`. Verify that contract",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L54"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- an `Attack1` review target, currently quarantined because no accepted Meshy",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "`OneHandAttack1` bake exists in repo truth.",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- an `Attack2` quarantined combo review candidate that starts from Attack1",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "?view=2d&animation=swordattack1",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "The initial shippable set is Fleshpunk Vanguard `Idle` and `SwordAttack1`.",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- `Move` to drag it in the camera plane;",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 76,
+          "symbol": "",
+          "evidence": "`Attack1` now opens a manual first-person authoring draft by default: every",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L76"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 79,
+          "symbol": "",
+          "evidence": "`?pose=attack1&candidate=attack1-candidate-1`; that route is for visual review",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L79"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- `Move` to drag it in the camera plane;",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "lane uses a video clip ledger, keyed contact sheets, saved-pose composition, and",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 162,
+          "symbol": "",
+          "evidence": "or the real sabre placement lane unless the Meshy model is explicitly selected.",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L162"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 189,
+          "symbol": "",
+          "evidence": "The new Meshy downloads are imported as a staged Crimson authoring lane:",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L189"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 249,
+          "symbol": "",
+          "evidence": "presence, and runtime wiring. It is a guardrail. The normal hosted evidence lane",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L249"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 290,
+          "symbol": "",
+          "evidence": "lane never automates an appearance provider.",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L290"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 311,
+          "symbol": "Davin Screenshot Idle Lane",
+          "evidence": "## Davin Screenshot Idle Lane",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L311"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 325,
+          "symbol": "",
+          "evidence": "The candidate module is `src/review-candidates/davin-idle-screenshot-1.js`; ignored diagnostics render under `generated/davin-idle/screenshot-1/`. The review command now also wr...",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L325"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "- `Copy Export` to copy the current transform JSON.",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 108,
+          "symbol": "",
+          "evidence": "surface materializes the learning packet inputs into a generated job bundle for",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L108"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 238,
+          "symbol": "",
+          "evidence": "`crimson_sword_calibration.json` grip/sword-local contract. Manual transform",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L238"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 242,
+          "symbol": "",
+          "evidence": "extracted as timing and relationship reference only; its `Weapon.R` transforms",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L242"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 245,
+          "symbol": "",
+          "evidence": "be authored as a quarantined candidate after grip/orientation review. Model-viewer constraints are now a fail-closed contract in `public/assets/crimson/crimson_model_viewer_cons...",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L245"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 285,
+          "symbol": "",
+          "evidence": "The resumable multi-clip appearance handoff extends the same native pose-packet",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L285"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 393,
+          "symbol": "",
+          "evidence": "npm run test:learning-packet",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L393"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "authoring/vanguard_muramasa_canary/README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "Attempt 2 synchronized result: cloud run `30582812601`, capture `2c45cfce48e12477885cb0d17e5a1d62259b1b827029a80ecd888703c8a93c49`, remains RED. It demonstrates facing, foreshor...",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/authoring/vanguard_muramasa_canary/README.md#L8"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "for rotate-only posing. Pose mode does not add IK, retargeting, animation clips,",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "lane uses a video clip ledger, keyed contact sheets, saved-pose composition, and",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 104,
+          "symbol": "",
+          "evidence": "poseclip/evidence pair can be compared with an optional tripod recording before",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L104"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 114,
+          "symbol": "",
+          "evidence": "FPV, tap `Save Key`, and `Export Clip` once for the whole animation. The export",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L114"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 147,
+          "symbol": "",
+          "evidence": "It is derived from the merged rig/skin and walking/running clips from the downloaded biped zip",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L147"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 157,
+          "symbol": "",
+          "evidence": "?model=vanguard&clip=SwordAttack1",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L157"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 196,
+          "symbol": "",
+          "evidence": "public/assets/crimson/crimson_review_assets_manifest.json",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L196"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 265,
+          "symbol": "",
+          "evidence": "The manifest must match the current `crimson-sword-<git-sha>` cache token and",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L265"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "upper-body pose preset in memory; it does not run a retargeter or animate the",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L74"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 76,
+          "symbol": "",
+          "evidence": "`Attack1` now opens a manual first-person authoring draft by default: every",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L76"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 82,
+          "symbol": "",
+          "evidence": "Accepted pose modules are listed in `src/pose-status.js`. Draft animations must",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L82"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 149,
+          "symbol": "",
+          "evidence": "channels from the downloaded textured GLB. The original merged source remains at",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L149"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 245,
+          "symbol": "",
+          "evidence": "be authored as a quarantined candidate after grip/orientation review. Model-viewer constraints are now a fail-closed contract in `public/assets/crimson/crimson_model_viewer_cons...",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L245"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 281,
+          "symbol": "",
+          "evidence": "original albedo files are still not present. Root",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L281"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 369,
+          "symbol": "",
+          "evidence": "`?fistHands=1`, parents it under the real hand bones, and hides original FPV",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L369"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 403,
+          "symbol": "",
+          "evidence": "required evidence order before reporting visual progress.",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L403"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- Draft animation candidates live under ignored `generated/pose-candidates/` and",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L18"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "saved per key. A quarantined review candidate can still be loaded with",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "lane uses a video clip ledger, keyed contact sheets, saved-pose composition, and",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 101,
+          "symbol": "",
+          "evidence": "Blender-rendered truth artifacts under ignored `generated/` paths. It is",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L101"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 114,
+          "symbol": "",
+          "evidence": "FPV, tap `Save Key`, and `Export Clip` once for the whole animation. The export",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L114"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 147,
+          "symbol": "",
+          "evidence": "It is derived from the merged rig/skin and walking/running clips from the downloaded biped zip",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L147"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 149,
+          "symbol": "",
+          "evidence": "channels from the downloaded textured GLB. The original merged source remains at",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L149"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 180,
+          "symbol": "",
+          "evidence": "rendered ground-contact row moves more than two pixels. The exporter samples",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L180"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 189,
+          "symbol": "",
+          "evidence": "The new Meshy downloads are imported as a staged Crimson authoring lane:",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L189"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 109,
+          "symbol": "",
+          "evidence": "Home Center Command Center MCP one-shot Codex workers, so workers do not depend",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L109"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 173,
+          "symbol": "",
+          "evidence": "The command uses Vanguard's embedded native `Idle` action, one locked",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L173"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 256,
+          "symbol": "",
+          "evidence": "That command prints the exact cache-busted Crimson URL, waits for the current",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L256"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 286,
+          "symbol": "",
+          "evidence": "truth through one repository command: `npm run refinery:vanguard --`. See",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L286"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 325,
+          "symbol": "",
+          "evidence": "The candidate module is `src/review-candidates/davin-idle-screenshot-1.js`; ignored diagnostics render under `generated/davin-idle/screenshot-1/`. The review command now also wr...",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L325"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "self-contained job bundles for Home Center Command Center MCP one-shot Codex",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "`docs/COMMAND_CENTER_DISPATCH_PROMPT.md`.",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 115,
+          "symbol": "Verification Commands",
+          "evidence": "## Verification Commands",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L115"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 121,
+          "symbol": "",
+          "evidence": "smoke run does not make a candidate visually acceptable if those relationships",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L121"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 206,
+          "symbol": "",
+          "evidence": "npm run validate:crimson-model-viewer-constraints",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L206"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 212,
+          "symbol": "",
+          "evidence": "npm run validate:crimson-sword-intake",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L212"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 215,
+          "symbol": "",
+          "evidence": "npm run validate:crimson-sword",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L215"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 245,
+          "symbol": "",
+          "evidence": "be authored as a quarantined candidate after grip/orientation review. Model-viewer constraints are now a fail-closed contract in `public/assets/crimson/crimson_model_viewer_cons...",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L245"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 247,
+          "symbol": "",
+          "evidence": "Crimson sword checks are deliberately split. `npm run validate:crimson-sword-intake`",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L247"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 269,
+          "symbol": "",
+          "evidence": "localhost captures, Blender renders, deploy success, build output, smoke",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L269"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "README.md",
+          "line": 363,
+          "symbol": "",
+          "evidence": "npm run validate:fist-hands",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/README.md#L363"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 59,
+          "symbol": "",
+          "evidence": "Old Pose Lab may be mined for source assets, source clips, or lessons learned.",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/PROJECT_ORIENTATION.md#L59"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "docs/POSE_IS_GOD.md",
+          "line": 82,
+          "symbol": "",
+          "evidence": "- page, module, character, and weapon resource status;",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L82"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "docs/POSE_IS_GOD.md",
+          "line": 140,
+          "symbol": "",
+          "evidence": "\"resources\": [",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L140"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "docs/POSE_IS_GOD.md",
+          "line": 174,
+          "symbol": "",
+          "evidence": "- any required resource is not HTTP 200;",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/docs/POSE_IS_GOD.md#L174"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "tools/finalize_vanguard_idle_export.py",
+          "line": 321,
+          "symbol": "",
+          "evidence": "\"alphaThreshold\": 8,",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/tools/finalize_vanguard_idle_export.py#L321"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "tools/render_crimson_vanguard_shared_rest_compare_blender.py",
+          "line": 140,
+          "symbol": "",
+          "evidence": "for logical, target, threshold in LANDMARKS:",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L140"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "tools/render_crimson_vanguard_shared_rest_compare_blender.py",
+          "line": 148,
+          "symbol": "",
+          "evidence": "landmark_errors.append({\"logical\": logical, \"error\": round(error, 4), \"threshold\": threshold})",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L148"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "tools/render_crimson_vanguard_shared_rest_compare_blender.py",
+          "line": 150,
+          "symbol": "",
+          "evidence": "pose_failures = [item for item in landmark_errors if item[\"error\"] > item[\"threshold\"]]",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/tools/render_crimson_vanguard_shared_rest_compare_blender.py#L150"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "docs/ANIMATION_POSE_IS_GOD_PIPELINE.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "All five have identical dimensions and frame order. The geometry grid draws the",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ANIMATION_POSE_IS_GOD_PIPELINE.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab-v2",
+          "repo": "Valar05/pose-lab-v2",
+          "path": "docs/ANIMATION_POSE_IS_GOD_PIPELINE.md",
+          "line": 115,
+          "symbol": "",
+          "evidence": "stylized pixels. `--overlay-out` draws the native joints and weapon axis over",
+          "source_url": "https://github.com/Valar05/pose-lab-v2/blob/main/docs/ANIMATION_POSE_IS_GOD_PIPELINE.md#L115"
+        }
+      ]
+    }
+  }
+}

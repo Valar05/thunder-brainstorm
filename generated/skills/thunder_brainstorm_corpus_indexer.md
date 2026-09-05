@@ -40,6 +40,7 @@ Use this skill when the user asks to index projects as corpus, fold new sources 
    ```
 4. For Cauldron, use the `cauldron-remote-workspace-inspector` skill first, then merge `index_cauldron` into `index_combined`.
 5. When answering extraction questions, cite source records by origin, project/repo, path, line, symbol, and evidence.
+6. When a corpus-backed design pass produces durable project-specific writing or setting rules, preserve them as both a Thunder `generated/session_learnings/...` note and a matching `generated/source_refs_manual/...jsonl` file instead of leaving them only in chat.
 
 ## Search
 

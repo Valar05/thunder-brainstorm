@@ -1,0 +1,2006 @@
+{
+  "repo": "Valar05/fatal-vow-exception",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "A free, public, forkable Fatal Vow game: scar-bearing terrain, shovel kata, and stepped 3D performance.",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "fatal-vow-exception",
+    "updatedAt": "2026-08-03T14:45:47Z",
+    "url": "https://github.com/Valar05/fatal-vow-exception",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "433e5f9cf41b50eb107dfe104b1f8933f6f3bdd8",
+      "size": 2081,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 2081,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L13",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L16",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L29",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L30",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L31",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L35"
+      ]
+    },
+    {
+      "path": "state.md",
+      "mode": "100644",
+      "sha": "f2114721b5bcce8f685d25017e50f793d5ff0a04",
+      "size": 8693,
+      "score": 106,
+      "reasons": [
+        "authoritative state",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 111,
+      "byte_count": 8693,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L11",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L13",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L19",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L20",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L26",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L30",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L31"
+      ]
+    },
+    {
+      "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+      "mode": "100644",
+      "sha": "748b7e90847b5810da8b703bbcf8386d7f386428",
+      "size": 5957,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 94,
+      "byte_count": 5957,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L19",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L21",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L25",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L26",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L28",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L30",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L35"
+      ]
+    },
+    {
+      "path": "docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md",
+      "mode": "100644",
+      "sha": "34377482d3f44e575d1153fef7d1374fca21b70c",
+      "size": 4636,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 86,
+      "byte_count": 4636,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L11",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L14",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L15",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L16",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L17"
+      ]
+    },
+    {
+      "path": "docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md",
+      "mode": "100644",
+      "sha": "706e96dd36f22a8160ba6145d5aae703a68b52d5",
+      "size": 3071,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 3071,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L8",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L9",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L10",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L11"
+      ]
+    },
+    {
+      "path": "docs/POSE_GRAMMAR.md",
+      "mode": "100644",
+      "sha": "778942249325f040b458eac1f418ad6090750aad",
+      "size": 7088,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 131,
+      "byte_count": 7088,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L9",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L11",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L13"
+      ]
+    },
+    {
+      "path": "scripts/build_trenchmaker_card6.py",
+      "mode": "100644",
+      "sha": "f9ba8f9adde9955a7a7d896fb8a0bbbb373a657b",
+      "size": 14134,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 302,
+      "byte_count": 14134,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L10",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L12",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L13",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L14",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L15"
+      ]
+    },
+    {
+      "path": "scripts/build_vertex_hand_carrier.py",
+      "mode": "100644",
+      "sha": "e96134ef0964e3e3290dff0e4e839f178bc05487",
+      "size": 21993,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 498,
+      "byte_count": 21993,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L9",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L11",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L14",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L16",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L17",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L18"
+      ]
+    },
+    {
+      "path": "scripts/compose_pose_sentence.py",
+      "mode": "100644",
+      "sha": "885f6e5249be018054f5dccd24ad30f6122fca61",
+      "size": 7315,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 186,
+      "byte_count": 7315,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/compose_pose_sentence.py#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/compose_pose_sentence.py#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/compose_pose_sentence.py#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/compose_pose_sentence.py#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/compose_pose_sentence.py#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/compose_pose_sentence.py#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/compose_pose_sentence.py#L9",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/compose_pose_sentence.py#L11"
+      ]
+    },
+    {
+      "path": "scripts/mine_pose_grammar.py",
+      "mode": "100644",
+      "sha": "41e6ea69a02ad260ab23a2080a8f47fef30de4ac",
+      "size": 13416,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 378,
+      "byte_count": 13416,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L9",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L11"
+      ]
+    },
+    {
+      "path": "scripts/render_local_weapon_bank.py",
+      "mode": "100644",
+      "sha": "0dd7dd60e7c9c5d4f332d4e92a6c61afe388d350",
+      "size": 21451,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 527,
+      "byte_count": 21451,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L9",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L11"
+      ]
+    },
+    {
+      "path": "scripts/test_trenchmaker_card6.py",
+      "mode": "100644",
+      "sha": "e8f588dd2ea03d9a2f224069855a3f99395b0287",
+      "size": 1456,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 1456,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_trenchmaker_card6.py#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_trenchmaker_card6.py#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_trenchmaker_card6.py#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_trenchmaker_card6.py#L8",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_trenchmaker_card6.py#L10",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_trenchmaker_card6.py#L14",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_trenchmaker_card6.py#L21",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_trenchmaker_card6.py#L22"
+      ]
+    },
+    {
+      "path": "scripts/test_vertex_hand_carrier.py",
+      "mode": "100644",
+      "sha": "a3eed3605d15557a06affabba960103389675662",
+      "size": 3660,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 94,
+      "byte_count": 3660,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_vertex_hand_carrier.py#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_vertex_hand_carrier.py#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_vertex_hand_carrier.py#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_vertex_hand_carrier.py#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_vertex_hand_carrier.py#L8",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_vertex_hand_carrier.py#L10",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_vertex_hand_carrier.py#L14",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_vertex_hand_carrier.py#L15"
+      ]
+    },
+    {
+      "path": "tools/build_fatal_vow_shovel_packet.py",
+      "mode": "100644",
+      "sha": "c4dfe223b0cf2fdebe2e7162eedc660f2a12a22e",
+      "size": 14192,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 312,
+      "byte_count": 14192,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/build_fatal_vow_shovel_packet.py#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/build_fatal_vow_shovel_packet.py#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/build_fatal_vow_shovel_packet.py#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/build_fatal_vow_shovel_packet.py#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/build_fatal_vow_shovel_packet.py#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/build_fatal_vow_shovel_packet.py#L8",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/build_fatal_vow_shovel_packet.py#L9",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/build_fatal_vow_shovel_packet.py#L10"
+      ]
+    },
+    {
+      "path": "tools/extract_fpsplayer_motions.py",
+      "mode": "100644",
+      "sha": "d8df6576b3440110c576aa6dfcb0bb88da5d157c",
+      "size": 13874,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 320,
+      "byte_count": 13874,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/extract_fpsplayer_motions.py#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/extract_fpsplayer_motions.py#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/extract_fpsplayer_motions.py#L8",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/extract_fpsplayer_motions.py#L10",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/extract_fpsplayer_motions.py#L11",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/extract_fpsplayer_motions.py#L12",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/extract_fpsplayer_motions.py#L13",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/extract_fpsplayer_motions.py#L14"
+      ]
+    },
+    {
+      "path": "data/infinite_brutality_motion_manifest.json",
+      "mode": "100644",
+      "sha": "8988615e75f9ba0eec2ea272b754553d346edc60",
+      "size": 14239,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 575,
+      "byte_count": 14239,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/infinite_brutality_motion_manifest.json#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/infinite_brutality_motion_manifest.json#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/infinite_brutality_motion_manifest.json#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/infinite_brutality_motion_manifest.json#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/infinite_brutality_motion_manifest.json#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/infinite_brutality_motion_manifest.json#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/infinite_brutality_motion_manifest.json#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/infinite_brutality_motion_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "evidence/onehandattack2-grammar-bank-material/onehandattack2-local-weapon-bank.manifest.json",
+      "mode": "100644",
+      "sha": "a468f57bd19b0b69d34a40bfa7af80046ccc1660",
+      "size": 6905,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 257,
+      "byte_count": 6905,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-material/onehandattack2-local-weapon-bank.manifest.json#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-material/onehandattack2-local-weapon-bank.manifest.json#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-material/onehandattack2-local-weapon-bank.manifest.json#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-material/onehandattack2-local-weapon-bank.manifest.json#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-material/onehandattack2-local-weapon-bank.manifest.json#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-material/onehandattack2-local-weapon-bank.manifest.json#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-material/onehandattack2-local-weapon-bank.manifest.json#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-material/onehandattack2-local-weapon-bank.manifest.json#L8"
+      ]
+    },
+    {
+      "path": "evidence/onehandattack2-grammar-bank-semantic/onehandattack2-local-weapon-bank.manifest.json",
+      "mode": "100644",
+      "sha": "03d17204e48f53a6ef56afa940471fcee1d65aca",
+      "size": 6898,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 257,
+      "byte_count": 6898,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-semantic/onehandattack2-local-weapon-bank.manifest.json#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-semantic/onehandattack2-local-weapon-bank.manifest.json#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-semantic/onehandattack2-local-weapon-bank.manifest.json#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-semantic/onehandattack2-local-weapon-bank.manifest.json#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-semantic/onehandattack2-local-weapon-bank.manifest.json#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-semantic/onehandattack2-local-weapon-bank.manifest.json#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-semantic/onehandattack2-local-weapon-bank.manifest.json#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-grammar-bank-semantic/onehandattack2-local-weapon-bank.manifest.json#L8"
+      ]
+    },
+    {
+      "path": "evidence/onehandattack2-hand-carrier/onehandattack2-hand-carrier.manifest.json",
+      "mode": "100644",
+      "sha": "d2daf32176d6bd3b2d71e57e1a329acad230e7a7",
+      "size": 10695,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 344,
+      "byte_count": 10695,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-hand-carrier/onehandattack2-hand-carrier.manifest.json#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-hand-carrier/onehandattack2-hand-carrier.manifest.json#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-hand-carrier/onehandattack2-hand-carrier.manifest.json#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-hand-carrier/onehandattack2-hand-carrier.manifest.json#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-hand-carrier/onehandattack2-hand-carrier.manifest.json#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-hand-carrier/onehandattack2-hand-carrier.manifest.json#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-hand-carrier/onehandattack2-hand-carrier.manifest.json#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-hand-carrier/onehandattack2-hand-carrier.manifest.json#L8"
+      ]
+    },
+    {
+      "path": "evidence/onehandattack2-local-weapon-bank/onehandattack2-local-weapon-bank.manifest.json",
+      "mode": "100644",
+      "sha": "ad94d4a445af19c545e271a963f8b216895be2ee",
+      "size": 8923,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 408,
+      "byte_count": 8923,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-local-weapon-bank/onehandattack2-local-weapon-bank.manifest.json#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-local-weapon-bank/onehandattack2-local-weapon-bank.manifest.json#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-local-weapon-bank/onehandattack2-local-weapon-bank.manifest.json#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-local-weapon-bank/onehandattack2-local-weapon-bank.manifest.json#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-local-weapon-bank/onehandattack2-local-weapon-bank.manifest.json#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-local-weapon-bank/onehandattack2-local-weapon-bank.manifest.json#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-local-weapon-bank/onehandattack2-local-weapon-bank.manifest.json#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/onehandattack2-local-weapon-bank/onehandattack2-local-weapon-bank.manifest.json#L8"
+      ]
+    },
+    {
+      "path": "evidence/trenchmaker-card6/trenchmaker-card6.manifest.json",
+      "mode": "100644",
+      "sha": "34c0d3a012cb29ab381f37efd498f7f61011e45f",
+      "size": 2151,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 78,
+      "byte_count": 2151,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/trenchmaker-card6/trenchmaker-card6.manifest.json#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/trenchmaker-card6/trenchmaker-card6.manifest.json#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/trenchmaker-card6/trenchmaker-card6.manifest.json#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/trenchmaker-card6/trenchmaker-card6.manifest.json#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/trenchmaker-card6/trenchmaker-card6.manifest.json#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/trenchmaker-card6/trenchmaker-card6.manifest.json#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/trenchmaker-card6/trenchmaker-card6.manifest.json#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/evidence/trenchmaker-card6/trenchmaker-card6.manifest.json#L8"
+      ]
+    },
+    {
+      "path": "data/grammar_sentences/onehandattack2_minimal_v0.compiled.json",
+      "mode": "100644",
+      "sha": "a05b98e9088fcbcec928913a84d21eae03b0b58b",
+      "size": 7321,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 265,
+      "byte_count": 7321,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.compiled.json#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.compiled.json#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.compiled.json#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.compiled.json#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.compiled.json#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.compiled.json#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.compiled.json#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.compiled.json#L8"
+      ]
+    },
+    {
+      "path": "data/grammar_sentences/onehandattack2_minimal_v0.json",
+      "mode": "100644",
+      "sha": "2088d9b57d14f9fbc40dfcaea95a853ef74e579a",
+      "size": 3402,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 75,
+      "byte_count": 3402,
+      "mechanics": [
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.json#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.json#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.json#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.json#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.json#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.json#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.json#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/grammar_sentences/onehandattack2_minimal_v0.json#L8"
+      ]
+    },
+    {
+      "path": "data/onehandattack2_grip_adapter_verdict.json",
+      "mode": "100644",
+      "sha": "f2bfdaba08fda90c1e3eb6dfeb090dd56723c632",
+      "size": 2365,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 52,
+      "byte_count": 2365,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/onehandattack2_grip_adapter_verdict.json#L1",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/onehandattack2_grip_adapter_verdict.json#L2",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/onehandattack2_grip_adapter_verdict.json#L3",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/onehandattack2_grip_adapter_verdict.json#L4",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/onehandattack2_grip_adapter_verdict.json#L5",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/onehandattack2_grip_adapter_verdict.json#L6",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/onehandattack2_grip_adapter_verdict.json#L7",
+        "https://github.com/Valar05/fatal-vow-exception/blob/main/data/onehandattack2_grip_adapter_verdict.json#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 4186,
+    "by_origin": {
+      "github": 4186
+    },
+    "by_project": {
+      "fatal-vow-exception": 4186
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 2264,
+      "tts_audio_pipeline": 2018,
+      "touch_lane_combat": 1846,
+      "pose_animation_tools": 805,
+      "web_choice_player": 596,
+      "resource_upgrade_loop": 358,
+      "source_packet_generation": 339,
+      "ai_pressure": 218,
+      "text_console_runtime": 49,
+      "deck_pressure": 37,
+      "writing_corpus_review": 15,
+      "vehicle_survival": 13,
+      "event_clouds": 13,
+      "validation_pipeline": 7
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "> A free, public, forkable game where the shovel makes decisions remain in the ground.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "3. `scar_voxel_authority_v0_1.mjs` turns shovel intent into atomic, conserved, append-only terrain history.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- **3D world, 3D bodies, 2D timing.** Drew remains the actor. Contact sheets remain the animation source, approval surface, and correction language.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Terrain state and append-only scar events are authority. Meshes, particles, telemetry, and renderer quality are presentation.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "The player may change the world. The game must tell the truth about who chose, who could refuse, who paid, what remained changed, and which surface owns the scar.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "Authoritative home: https://github.com/Valar05/fatal-vow-exception/blob/main/state.md",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "Build an independent, public, forkable Fatal Vow game where embodied labor, shovel-kata, mutable terrain, choosing inhabitants, and provenance-bearing consequences remain true t...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "Current campaign: port useful motion mechanisms from Muramasa, Shank, and the deprecated Infinite Brutality specimen into Vow Exception, then invent native shovel-kata through a...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L13"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "The witness above is generated by the contour module from two authoritative chunk revisions. Its shovel transaction moves six occupied cells into a spoil bank: none are created ...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- Novel truth is not fleshpunk. Grotesque rendering may apply pressure; it may not invent technology, materials, institutions, causality, or combat grammar.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Terrain state and append-only scar events are authority. Meshes, particles, telemetry, and renderer quality are presentation.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "Build an independent, public, forkable Fatal Vow game where embodied labor, shovel-kata, mutable terrain, choosing inhabitants, and provenance-bearing consequences remain true t...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- Local-only rendering for the current proof.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "- The world is not literally fleshpunk. Rendering may borrow material pressure; causality remains faithful to the novels.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "Trenchmaker Card 6 v0 connects Cards 1, 2, 6, and 7 as a six-pose `load → slide → catch → drive → brake → extract` sentence. The review board carries material, ownership, collis...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 96,
+          "symbol": "",
+          "evidence": "Known candidate limits: both hands reuse one accepted grip atom from the hero plate; the source shovel render remains coarse; the specimen is a first-person proof rather than ru...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L96"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "The witness above is generated by the contour module from two authoritative chunk revisions. Its shovel transaction moves six occupied cells into a spoil bank: none are created ...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- each channel's original `STEP` or `LINEAR` interpolation;",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "2. The first 3×3 sheet preserved aspect but enlarged/recentered early poses and completed offscreen shovel geometry: motion and tool drift.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/compose_pose_sentence.py",
+          "line": 5,
+          "symbol": "",
+          "evidence": "interrupt routes. It reports missing runtime layers as a separate blocked",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/compose_pose_sentence.py#L5"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/render_local_weapon_bank.py",
+          "line": 25,
+          "symbol": "",
+          "evidence": "JSON_CHUNK = 0x4E4F534A",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L25"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/render_local_weapon_bank.py",
+          "line": 26,
+          "symbol": "",
+          "evidence": "BIN_CHUNK = 0x004E4942",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L26"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/render_local_weapon_bank.py",
+          "line": 66,
+          "symbol": "",
+          "evidence": "chunks: dict[int, bytes] = {}",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L66"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/render_local_weapon_bank.py",
+          "line": 71,
+          "symbol": "",
+          "evidence": "chunks[kind] = payload[offset : offset + length]",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L71"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- **3D world, 3D bodies, 2D timing.** Drew remains the actor. Contact sheets remain the animation source, approval surface, and correction language.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "Build an independent, public, forkable Fatal Vow game where embodied labor, shovel-kata, mutable terrain, choosing inhabitants, and provenance-bearing consequences remain true t...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- 405 source-exact v1 candidate pose atoms in 33 families.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "- 3D world and bodies; 2D timing. Contact sheets remain source, approval surface, and correction language.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- Trenchmaker v0 manifest: `evidence/trenchmaker-card6/trenchmaker-card6.manifest.json`",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 96,
+          "symbol": "",
+          "evidence": "Known candidate limits: both hands reuse one accepted grip atom from the hero plate; the source shovel render remains coarse; the specimen is a first-person proof rather than ru...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L96"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "Present Trenchmaker Card 6 v0 for Drew's visual ruling. Do not promote it from candidate evidence. If grip ownership and pose chronology read, advance the remaining Stage 1 card...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "Do not build every animation as an isolated strip. Mine reusable source-exact pose atoms, classify their contacts and constraints, and compose performances as scores over pose r...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L21"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- 38 Infinite Brutality donor clips / 5,427 channels extracted.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- Aubreigh Fujita narrator casting: Gemini 3.1 Flash TTS voice Pulcherrima, pitch-preserving 1.20× master accepted under Drew’s direct canon order. Canon artifact: `Aubreigh-Fuj...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 81,
+          "symbol": "",
+          "evidence": "- Trenchmaker v0 manifest: `evidence/trenchmaker-card6/trenchmaker-card6.manifest.json`",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L81"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- The exact corpus contains 38 clips and 5,427 native transform channels with no resampling.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "1. Mine candidate pose atoms from native source transforms. Preserve clip, sample index, time, coordinate basis, and weapon registration.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 89,
+          "symbol": "",
+          "evidence": "- Source motion extraction: implemented and tested for 38 clips / 5,427 channels.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L89"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "The source contains 38 embedded glTF animation clips. Their native key grid is 24 FPS. The exact extraction preserves:",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "The compact repository manifest is `motion_manifest.json`. The exact 2.9 MB full corpus is stored in ChatGPT Library as `motion_corpus.json`, stable identity `libfile_eff00dae99...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L20"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- 38 Infinite Brutality donor clips / 5,427 channels extracted.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- 405 source-exact v1 candidate pose atoms in 33 families.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- First Stage 1 Trenchmaker v0 visual specimen: accepted-pixel two-hand carrier, six-pose sentence, shovel-path/collision diagnostic, silhouette review, normal review GIF, and d...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- Compostable pose grammar.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- Do not build isolated finished attack strips. Mine pose atoms, contacts, layers, transitions, and timing; compose performances as scores over recipes.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "- Every move begins pose-only. No effects may compensate for a wrong pose.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- Grammar: `docs/POSE_GRAMMAR.md`",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "- Catalog: `data/pose_grammar.v1.json`",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L73"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- `onehandattack2.s000` as the prior guard role because its near-camera D-handle hid the forearm.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- The material and semantic `onehandattack2` hand-carrier watchdowns as a visual pass. Drew's ruling: the sprite hand needs work and the animation needs more shovel kata.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- Do not build isolated finished attack strips. Mine pose atoms, contacts, layers, transitions, and timing; compose performances as scores over recipes.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "- Whiff, flesh, armor, block, and earth are separate outcomes.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 75,
+          "symbol": "",
+          "evidence": "- Rejected carrier evidence: `evidence/onehandattack2-hand-carrier/`",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L75"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 76,
+          "symbol": "",
+          "evidence": "- Carrier verdict: `data/onehandattack2_hand_carrier_verdict.json`",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L76"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "The durable board defines twelve mechanism cards: authored extremes; selective tween; anticipation compression; directional scale/stretch/shear; atlas-safe morph; two-hand grip ...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L92"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "Trenchmaker Card 6 v0 connects Cards 1, 2, 6, and 7 as a six-pose `load → slide → catch → drive → brake → extract` sentence. The review board carries material, ownership, collis...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L94"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- Do not build isolated finished attack strips. Mine pose atoms, contacts, layers, transitions, and timing; compose performances as scores over recipes.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "Do not build every animation as an isolated strip. Mine reusable source-exact pose atoms, classify their contacts and constraints, and compose performances as scores over pose r...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "1. Mine candidate pose atoms from native source transforms. Preserve clip, sample index, time, coordinate basis, and weapon registration.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 90,
+          "symbol": "",
+          "evidence": "- Pose grammar miner: implemented and deterministic.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L90"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 91,
+          "symbol": "",
+          "evidence": "- Mined pose catalog: 297 source-exact candidates in 33 semantic families; not visually accepted as a set.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L91"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/POSE_GRAMMAR.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Status: architecture adopted; mined catalog is candidate evidence",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/POSE_GRAMMAR.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Do not build animation clips as isolated finished objects. Mine useful source-exact poses, classify them, and compose performances from a shared grammar.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/POSE_GRAMMAR.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "1. select one or more mined donor atoms;",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L49"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- After Chapter 7, audience votes cannot move Tetsuya's body. Momo-chan chooses; she is not a command wheel. The sealed conclusion remains protected.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_trenchmaker_card6.py",
+          "line": 239,
+          "symbol": "",
+          "evidence": "parser = argparse.ArgumentParser()",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L239"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_trenchmaker_card6.py",
+          "line": 240,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--hero-plate\", required=True, type=Path)",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L240"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_trenchmaker_card6.py",
+          "line": 241,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--output\", type=Path,",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L241"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_trenchmaker_card6.py",
+          "line": 243,
+          "symbol": "",
+          "evidence": "args = parser.parse_args()",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L243"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_vertex_hand_carrier.py",
+          "line": 299,
+          "symbol": "",
+          "evidence": "parser = argparse.ArgumentParser()",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L299"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_vertex_hand_carrier.py",
+          "line": 300,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--accepted-proof\", type=Path, required=True)",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L300"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_vertex_hand_carrier.py",
+          "line": 301,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--hero-plate\", type=Path, required=True)",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L301"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 82,
+          "symbol": "",
+          "evidence": "- Exact motion corpus: ChatGPT Library `libfile_eff00dae99a88191b64658eff5315c74`",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L82"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- The exact corpus contains 38 clips and 5,427 native transform channels with no resampling.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "1. `FPSPlayer.glb (5)` and `motion_corpus.json` as source performance evidence.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "1. Mine candidate pose atoms from native source transforms. Preserve clip, sample index, time, coordinate basis, and weapon registration.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "Register the hand/cuff to the weapon socket and the forearm to an explicit wrist-to-frame-edge exit; one rigid transform is insufficient for first-person foreshortening.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- `Weapon.R` and `Weapon.L` local transforms;",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- derived weapon transforms in model space;",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- derived weapon transforms relative to the animated `Camera` node;",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/INFINITE_BRUTALITY_MOTION_INVENTORY.md#L17"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "The durable board defines twelve mechanism cards: authored extremes; selective tween; anticipation compression; directional scale/stretch/shear; atlas-safe morph; two-hand grip ...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L92"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "Trenchmaker Card 6 v0 connects Cards 1, 2, 6, and 7 as a six-pose `load → slide → catch → drive → brake → extract` sentence. The review board carries material, ownership, collis...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_trenchmaker_card6.py",
+          "line": 262,
+          "symbol": "",
+          "evidence": "make_sheet(silhouette, \"TRENCHMAKER — SILHOUETTE / COLLISION PLANE\", paths[\"silhouette_sheet\"])",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L262"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_trenchmaker_card6.py",
+          "line": 279,
+          "symbol": "",
+          "evidence": "\"collision_plane_y\": 276,",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L279"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_vertex_hand_carrier.py",
+          "line": 465,
+          "symbol": "",
+          "evidence": "\"authorized_lane\": \"local_only\",",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L465"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/render_local_weapon_bank.py",
+          "line": 474,
+          "symbol": "",
+          "evidence": "\"authorized_lane\": \"local_only\",",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/render_local_weapon_bank.py#L474"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "tools/build_fatal_vow_shovel_packet.py",
+          "line": 264,
+          "symbol": "",
+          "evidence": "\"critical_reason\": \"fast re-entry plus weapon reversal, grip foreshortening, and broad silhouette change\",",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/build_fatal_vow_shovel_packet.py#L264"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "tools/build_fatal_vow_shovel_packet.py",
+          "line": 281,
+          "symbol": "",
+          "evidence": "identity_lock = \"\"\"# Fatal Vow first-person hand identity lock\\n\\n- Authority: Medieval Fleshpunk Hand Turnaround Sheet.png\\n- Preserve rugged medieval flesh, broad knuckles, na...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/tools/build_fatal_vow_shovel_packet.py#L281"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "Present Trenchmaker Card 6 v0 for Drew's visual ruling. Do not promote it from candidate evidence. If grip ownership and pose chronology read, advance the remaining Stage 1 card...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "state.md",
+          "line": 111,
+          "symbol": "",
+          "evidence": "- Drew accepted Aubreigh’s Gemini narrator casting after an exact 20% speed increase. Adam caught that the first 1.20× resampling candidate raised pitch, quarantined it, and rep...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/state.md#L111"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "3. The strict edit preserved source composition much better, but k001–k003 retain open or ambiguous right-hand closure and the full-sheet k004 grip is weaker than the frozen acc...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/POSE_GRAMMAR.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "The generated `data/pose_grammar.v1.json` retains exact clip, sample index, time, weapon registration, selection reason, and reconstruction recipe for every atom. The v0 compact...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_vertex_hand_carrier.py",
+          "line": 110,
+          "symbol": "",
+          "evidence": "# Topology repair must not resurrect the removed donor tool inside the",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_vertex_hand_carrier.py#L110"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/test_vertex_hand_carrier.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "\"\"\"Validate the published vertex-hand-carrier evidence contract.\"\"\"",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/test_vertex_hand_carrier.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "data/onehandattack2_grip_adapter_verdict.json",
+          "line": 14,
+          "symbol": "strict_sheet",
+          "evidence": "\"strict_sheet\": \"Rugged Medieval Hands and Shovel Contact Sheet.png\"",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/data/onehandattack2_grip_adapter_verdict.json#L14"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "2. Classify candidates by domain, role hint, grip class, contact, visibility, and constraint needs. A label such as `contact_candidate` is navigation, not acceptance.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/mine_pose_grammar.py",
+          "line": 146,
+          "symbol": "domain_for",
+          "evidence": "def domain_for(category: str) -> str:",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L146"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/mine_pose_grammar.py",
+          "line": 172,
+          "symbol": "role_hint",
+          "evidence": "def role_hint(domain: str, phase: float) -> str:",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L172"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/mine_pose_grammar.py",
+          "line": 173,
+          "symbol": "",
+          "evidence": "anchors = ROLE_ANCHORS[domain]",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L173"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/mine_pose_grammar.py",
+          "line": 195,
+          "symbol": "",
+          "evidence": "domain: str,",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L195"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/mine_pose_grammar.py",
+          "line": 209,
+          "symbol": "",
+          "evidence": "for anchor_phase, anchor_role in ROLE_ANCHORS[domain]:",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L209"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/mine_pose_grammar.py",
+          "line": 251,
+          "symbol": "",
+          "evidence": "domain = domain_for(clip[\"category\"])",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L251"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/mine_pose_grammar.py",
+          "line": 252,
+          "symbol": "",
+          "evidence": "indices, energy, reasons = select_indices(clip, maximum, domain)",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/mine_pose_grammar.py#L252"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "6. Render contact sheets and a first-person watchdown at intended cadence.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md",
+          "line": 83,
+          "symbol": "",
+          "evidence": "- Low-frame timing reads as intentional arcade cadence.",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/FIRST_PERSON_HAND_WEAPON_ARCADE_WORKFLOW.md#L83"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "The single load-bearing k004 redraw passed the premise: readable five-finger closure, accepted wrist/cuff identity, source camera, and shovel contact. SHA-256: `e5b472dbe5dc97c8...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/ONEHANDATTACK2_SHOVEL_SOURCE_REVIEW.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/POSE_GRAMMAR.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "These are logical draw passes, not a requirement to paint three unrelated",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/POSE_GRAMMAR.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "A novel pose is a recipe, not an untracked redraw:",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/POSE_GRAMMAR.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "7. watch it at intended cadence;",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "docs/POSE_GRAMMAR.md",
+          "line": 119,
+          "symbol": "",
+          "evidence": "The proof passes only when the composed first-person watchdown preserves hand identity, weapon path, grip ownership, camera, frame-edge exits, readable low-FPS cadence, and inte...",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/docs/POSE_GRAMMAR.md#L119"
+        },
+        {
+          "origin": "github",
+          "project": "fatal-vow-exception",
+          "repo": "Valar05/fatal-vow-exception",
+          "path": "scripts/build_trenchmaker_card6.py",
+          "line": 19,
+          "symbol": "",
+          "evidence": "from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont",
+          "source_url": "https://github.com/Valar05/fatal-vow-exception/blob/main/scripts/build_trenchmaker_card6.py#L19"
+        }
+      ]
+    }
+  }
+}

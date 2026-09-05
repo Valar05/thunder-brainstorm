@@ -1,0 +1,51 @@
+{
+  "tools_used": [
+    "get_pr_metadata",
+    "list_pr_files",
+    "get_pr_diff",
+    "list_ci_checks",
+    "read_file_at_ref",
+    "search_repo_at_ref",
+    "read_file_at_ref",
+    "read_file_at_ref",
+    "search_repo_at_ref",
+    "read_file_at_ref",
+    "read_file_at_ref",
+    "search_repo_at_ref",
+    "read_file_at_ref",
+    "read_file_at_ref",
+    "read_file_at_ref",
+    "read_file_at_ref",
+    "read_file_at_ref"
+  ],
+  "files_read": [
+    "generated/workflow_state/meshy_fps_accepted_baseline.json",
+    "src/rig-profiles.js",
+    "tools/pose_lab_workflow_lib.mjs",
+    "tools/pose_lab_workflow_status.mjs",
+    "tools/test_meshy_joint_fk_onehand_ready_contract.mjs",
+    "tools/test_meshy_ready_weapon_fk_follow_contract.mjs",
+    "tools/test_meshy_ready_workbench_contract.mjs",
+    "tools/test_meshy_sabre_selection_contract.mjs",
+    "tools/test_pose_lab_no_bad_promotions.mjs"
+  ],
+  "metadata": {
+    "number": 3,
+    "title": "[codex] Harden Meshy Ready offline web parity gate",
+    "state": "open",
+    "html_url": "https://github.com/Valar05/pose-lab/pull/3",
+    "base": {
+      "ref": "main",
+      "sha": "4dbca80248ca60e8d9def3b3d0137c290267b212"
+    },
+    "head": {
+      "ref": "codex/meshy-pose-salvage-from-main",
+      "sha": "a8e96f7959a1087d8d32b6d94b57436e8045026c"
+    },
+    "user": "Valar05"
+  },
+  "checks": {
+    "total_count": 0,
+    "check_runs": []
+  }
+}

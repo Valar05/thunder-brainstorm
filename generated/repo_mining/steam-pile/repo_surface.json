@@ -1,0 +1,1092 @@
+{
+  "repo": "Valar05/steam-pile",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "steam-pile",
+    "updatedAt": "2026-06-20T22:48:38Z",
+    "url": "https://github.com/Valar05/steam-pile",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "4b0d5e34f7783ebc338f5f9be93409f325598bf6",
+      "size": 667,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 29,
+      "byte_count": 667,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/steam-pile/blob/main/project.godot#L14",
+        "https://github.com/Valar05/steam-pile/blob/main/project.godot#L26",
+        "https://github.com/Valar05/steam-pile/blob/main/project.godot#L28",
+        "https://github.com/Valar05/steam-pile/blob/main/project.godot#L29"
+      ]
+    },
+    {
+      "path": "scripts/world.gd",
+      "mode": "100644",
+      "sha": "7d4d23caf8180573563b8e34e0a655011d98aa4a",
+      "size": 67632,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2120,
+      "byte_count": 67632,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L14",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L15",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L16",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L17",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L18",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L20",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L46",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L47"
+      ]
+    },
+    {
+      "path": "scripts/world/crystal_system.gd",
+      "mode": "100644",
+      "sha": "08873c685f20be960ee853db5831ee2335619425",
+      "size": 8185,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 217,
+      "byte_count": 8185,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L1",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L4",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L5",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L6",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L8",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L9",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L10",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L11"
+      ]
+    },
+    {
+      "path": "scripts/world/map_generator.gd",
+      "mode": "100644",
+      "sha": "daedb69643431edb3abe26315be53a8f34704194",
+      "size": 8538,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 315,
+      "byte_count": 8538,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/map_generator.gd#L29",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/map_generator.gd#L91",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/map_generator.gd#L94",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/map_generator.gd#L100",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/map_generator.gd#L103",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/map_generator.gd#L104",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/map_generator.gd#L229",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/map_generator.gd#L230"
+      ]
+    },
+    {
+      "path": "scripts/world/mine_system.gd",
+      "mode": "100644",
+      "sha": "9f9ad6945a560bfa5f05c019b322bfd443de9c16",
+      "size": 9139,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 329,
+      "byte_count": 9139,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/mine_system.gd#L1",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/mine_system.gd#L4",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/mine_system.gd#L5",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/mine_system.gd#L6",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/mine_system.gd#L8",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/mine_system.gd#L9",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/mine_system.gd#L11",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/mine_system.gd#L12"
+      ]
+    },
+    {
+      "path": "scripts/world/red_ghost_system.gd",
+      "mode": "100644",
+      "sha": "de278fc12779c309ed527e33ade6f25ae1002cb6",
+      "size": 7858,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 259,
+      "byte_count": 7858,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/red_ghost_system.gd#L4",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/red_ghost_system.gd#L8",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/red_ghost_system.gd#L10",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/red_ghost_system.gd#L21",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/red_ghost_system.gd#L22",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/red_ghost_system.gd#L83",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/red_ghost_system.gd#L84",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/red_ghost_system.gd#L101"
+      ]
+    },
+    {
+      "path": "scripts/world/shop_system.gd",
+      "mode": "100644",
+      "sha": "ca9ed26bc98ba31cec91baecaaa49ac3f0284287",
+      "size": 6503,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 179,
+      "byte_count": 6503,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shop_system.gd#L1",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shop_system.gd#L4",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shop_system.gd#L5",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shop_system.gd#L6",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shop_system.gd#L8",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shop_system.gd#L9",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shop_system.gd#L10",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shop_system.gd#L11"
+      ]
+    },
+    {
+      "path": "scripts/world/shovel_fist_system.gd",
+      "mode": "100644",
+      "sha": "0b14665f016b0e5828d7296dff24e588f4a21f28",
+      "size": 13346,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 375,
+      "byte_count": 13346,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L5",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L34",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L89",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L90",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L91",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L92",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L93",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L95"
+      ]
+    },
+    {
+      "path": "scripts/world/upgrade_system.gd",
+      "mode": "100644",
+      "sha": "a8d1478e2ce403f7633e0db2302efbca07823219",
+      "size": 7001,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 260,
+      "byte_count": 7001,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/upgrade_system.gd#L1",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/upgrade_system.gd#L4",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/upgrade_system.gd#L5",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/upgrade_system.gd#L6",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/upgrade_system.gd#L7",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/upgrade_system.gd#L8",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/upgrade_system.gd#L9",
+        "https://github.com/Valar05/steam-pile/blob/main/scripts/world/upgrade_system.gd#L10"
+      ]
+    },
+    {
+      "path": "scripts/world.gd.uid",
+      "mode": "100644",
+      "sha": "b49337979cb9ed9f51519f2cfe689fbde23aa0d9",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world/crystal_system.gd.uid",
+      "mode": "100644",
+      "sha": "22fca16534a7175d26cc2a02bd7c85a68b0a6e9e",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world/map_generator.gd.uid",
+      "mode": "100644",
+      "sha": "238bb87c909b23ad1f9acb866a60fb300ea547b5",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world/mine_system.gd.uid",
+      "mode": "100644",
+      "sha": "c7ac3ff3a231be1f7ace1fb9facec1f2c71b77aa",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world/red_ghost_system.gd.uid",
+      "mode": "100644",
+      "sha": "febd81d4b6d7f0bc1ef0a1156cac7e261dc35761",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world/shop_system.gd.uid",
+      "mode": "100644",
+      "sha": "603f92ae3469124724d5482b94e93513f267754b",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world/shovel_fist_system.gd.uid",
+      "mode": "100644",
+      "sha": "9b50233b6212ec1413b5cc072e91cd2b1da4d20e",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world/upgrade_system.gd.uid",
+      "mode": "100644",
+      "sha": "bbfcc879931b782b3df251a8afa73e00714f0a11",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/actors/Exit.tscn",
+      "mode": "100644",
+      "sha": "75486a6ea8020ac962382d862b7801fc4e36ce04",
+      "size": 350,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 350,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/actors/Player.tscn",
+      "mode": "100644",
+      "sha": "4b994860f957c3e4e20cbcad163fd72e74372d46",
+      "size": 355,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 355,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/actors/RedGhost.tscn",
+      "mode": "100644",
+      "sha": "0e9948c11348ed1e2b411cabc2e90b8f93e9b51c",
+      "size": 380,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 380,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/effects/mine_explosion.tscn",
+      "mode": "100644",
+      "sha": "0a1cd08eb6f5702efba378c83c7ac3be62834946",
+      "size": 295,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 295,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/effects/shovel_fist.tscn",
+      "mode": "100644",
+      "sha": "b234bcb7f8be4fb2340ed7e6d8ad14a57ea0e17e",
+      "size": 301,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 8,
+      "byte_count": 301,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/items/OFL.txt",
+      "mode": "100644",
+      "sha": "88e2d734cdc2b18ce75e40e889521cf1630b8a6a",
+      "size": 4394,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 94,
+      "byte_count": 4394,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/items/Rye-Regular.ttf",
+      "mode": "100644",
+      "sha": "45be05186fc41889508624ecb3cd606dab04fc50",
+      "size": 131,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 131,
+      "mechanics": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1254,
+    "by_origin": {
+      "github": 1254
+    },
+    "by_project": {
+      "steam-pile": 1254
+    },
+    "by_mechanic": {
+      "resource_upgrade_loop": 933,
+      "ai_pressure": 216,
+      "text_console_runtime": 183,
+      "pose_animation_tools": 88,
+      "web_choice_player": 20,
+      "asset_import_pipeline": 15,
+      "touch_lane_combat": 13
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"res://world.tscn\"",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 20,
+          "symbol": "",
+          "evidence": "const ENEMY_MOVE_DURATION: float = 0.125",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L20"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 69,
+          "symbol": "",
+          "evidence": "const ENEMY_HIGHLIGHT_FILL: Color = Color(1.0, 0.0, 0.0, 0.5)",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L69"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 70,
+          "symbol": "",
+          "evidence": "const ENEMY_HIGHLIGHT_BORDER: Color = Color(0.35, 0.0, 0.0, 0.95)",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L70"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 119,
+          "symbol": "",
+          "evidence": "var available_mines: int = 0",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L119"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 121,
+          "symbol": "",
+          "evidence": "var available_shovel_fists: int = DEFAULT_SHOVEL_FIST_CHARGES",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L121"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 133,
+          "symbol": "",
+          "evidence": "var enemy_highlight_layer: CanvasLayer = null",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L133"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 134,
+          "symbol": "",
+          "evidence": "var enemy_highlight_root: Control = null",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L134"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "project.godot",
+          "line": 26,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/project.godot#L26"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "project.godot",
+          "line": 28,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/project.godot#L28"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 71,
+          "symbol": "",
+          "evidence": "const RYE_FONT: FontFile = preload(\"res://Rye-Regular.ttf\")",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L71"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 72,
+          "symbol": "",
+          "evidence": "const EXIT_SCENE: PackedScene = preload(\"res://scenes/actors/Exit.tscn\")",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L72"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 73,
+          "symbol": "",
+          "evidence": "const PLAYER_SCENE: PackedScene = preload(\"res://scenes/actors/Player.tscn\")",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L73"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 74,
+          "symbol": "",
+          "evidence": "const RED_GHOST_SCENE: PackedScene = preload(\"res://scenes/actors/RedGhost.tscn\")",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L74"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 75,
+          "symbol": "",
+          "evidence": "const ROCK_SCENE: PackedScene = preload(\"res://Rock.tscn\")",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L75"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 76,
+          "symbol": "",
+          "evidence": "const CRYSTAL_BIG_SCENE: PackedScene = preload(\"res://scenes/items/crystal_big.tscn\")",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L76"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "project.godot",
+          "line": 29,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/project.godot#L29"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 546,
+          "symbol": "_update_resource_labels",
+          "evidence": "func _update_resource_labels() -> void:",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L546"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 547,
+          "symbol": "",
+          "evidence": "CRYSTAL_SYSTEM.update_resource_labels(self)",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L547"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 2002,
+          "symbol": "",
+          "evidence": "_update_resource_labels()",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L2002"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 2064,
+          "symbol": "",
+          "evidence": "_update_resource_labels()",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L2064"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world/crystal_system.gd",
+          "line": 73,
+          "symbol": "",
+          "evidence": "update_resource_labels(world)",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L73"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world/crystal_system.gd",
+          "line": 83,
+          "symbol": "",
+          "evidence": "static func update_resource_labels(world) -> void:",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L83"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world/crystal_system.gd",
+          "line": 182,
+          "symbol": "",
+          "evidence": "update_resource_labels(world)",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world/crystal_system.gd#L182"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "const MIN_ROOM_COUNT: int = 2",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L14"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 15,
+          "symbol": "",
+          "evidence": "const MAX_ROOM_COUNT: int = 4",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L15"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 16,
+          "symbol": "",
+          "evidence": "const MOVE_BUTTON_THICKNESS: float = 54.0",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L16"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 17,
+          "symbol": "",
+          "evidence": "const MOVE_BUTTON_LENGTH_RATIO: float = 1.2",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L17"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 18,
+          "symbol": "",
+          "evidence": "const MOVE_BUTTON_PLAYER_GAP: float = 10.0",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L18"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 97,
+          "symbol": "",
+          "evidence": "var move_buttons: Dictionary = {}",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L97"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 98,
+          "symbol": "",
+          "evidence": "var move_button_rects: Dictionary = {}",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L98"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 138,
+          "symbol": "",
+          "evidence": "var movement_button_layer: CanvasLayer = null",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L138"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 46,
+          "symbol": "",
+          "evidence": "const MIN_MAP_MINES: int = 1",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L46"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 47,
+          "symbol": "",
+          "evidence": "const MAX_MAP_MINES: int = 3",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L47"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 48,
+          "symbol": "",
+          "evidence": "const MIN_SMALL_CRYSTALS_PER_MAP: int = 1",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L48"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 49,
+          "symbol": "",
+          "evidence": "const MAX_SMALL_CRYSTALS_PER_MAP: int = 3",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L49"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 50,
+          "symbol": "",
+          "evidence": "const CRYSTAL_POPUP_GROW_DURATION: float = 0.16",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L50"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 51,
+          "symbol": "",
+          "evidence": "const CRYSTAL_POPUP_FADE_DURATION: float = 0.22",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L51"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 52,
+          "symbol": "",
+          "evidence": "const CRYSTAL_POPUP_RISE_DISTANCE: float = 34.0",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L52"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 76,
+          "symbol": "",
+          "evidence": "const CRYSTAL_BIG_SCENE: PackedScene = preload(\"res://scenes/items/crystal_big.tscn\")",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L76"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 159,
+          "symbol": "",
+          "evidence": "var floor_spiked_armor_hits_remaining: int = 0",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L159"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 281,
+          "symbol": "",
+          "evidence": "return [Vector2i.LEFT, Vector2i.RIGHT, Vector2i.UP, Vector2i.DOWN]",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L281"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 343,
+          "symbol": "",
+          "evidence": "player_highlight_root.offset_right = 0.0",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L343"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 362,
+          "symbol": "",
+          "evidence": "enemy_highlight_root.offset_right = 0.0",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L362"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 382,
+          "symbol": "",
+          "evidence": "exit_ping_root.offset_right = 0.0",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L382"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 396,
+          "symbol": "",
+          "evidence": "ring_style.corner_radius_top_right = 999",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L396"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 397,
+          "symbol": "",
+          "evidence": "ring_style.corner_radius_bottom_right = 999",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L397"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 421,
+          "symbol": "_trigger_exit_ping",
+          "evidence": "func _trigger_exit_ping(is_wide: bool = false) -> void:",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L421"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 1116,
+          "symbol": "_animate_shovel_fist_attack",
+          "evidence": "func _animate_shovel_fist_attack(ghost_index: int, duration: float) -> void:",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L1116"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 1117,
+          "symbol": "",
+          "evidence": "SHOVEL_FIST_SYSTEM.animate_shovel_fist_attack(self, ghost_index, duration)",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L1117"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 1124,
+          "symbol": "_on_shovel_collision_impact",
+          "evidence": "func _on_shovel_collision_impact(incoming_ghost: Node2D, blocker_ghost: Node2D, push_direction: Vector2i, push_duration: float) -> void:",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L1124"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world.gd",
+          "line": 1125,
+          "symbol": "",
+          "evidence": "SHOVEL_FIST_SYSTEM.handle_shovel_collision_impact(self, incoming_ghost, blocker_ghost, push_direction, push_duration)",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world.gd#L1125"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world/shovel_fist_system.gd",
+          "line": 93,
+          "symbol": "",
+          "evidence": "var action_duration: float = animate_shovel_fist_attack(world, ghost_index, world.PLAYER_MOVE_DURATION)",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L93"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world/shovel_fist_system.gd",
+          "line": 104,
+          "symbol": "",
+          "evidence": "static func animate_shovel_fist_attack(world, ghost_index: int, duration: float) -> float:",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L104"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world/shovel_fist_system.gd",
+          "line": 171,
+          "symbol": "",
+          "evidence": "var blocker_ghost: Node2D = world.red_ghosts[collision_ghost_index]",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L171"
+        },
+        {
+          "origin": "github",
+          "project": "steam-pile",
+          "repo": "Valar05/steam-pile",
+          "path": "scripts/world/shovel_fist_system.gd",
+          "line": 176,
+          "symbol": "",
+          "evidence": "var impact_position_target: Vector2 = get_shovel_fist_block_impact_position(world, collision_cell, push_direction)",
+          "source_url": "https://github.com/Valar05/steam-pile/blob/main/scripts/world/shovel_fist_system.gd#L176"
+        }
+      ]
+    }
+  }
+}

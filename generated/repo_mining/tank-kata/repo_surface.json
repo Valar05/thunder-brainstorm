@@ -1,0 +1,393 @@
+{
+  "repo": "Valar05/tank-kata",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "tank-kata",
+    "updatedAt": "2026-07-23T18:02:36Z",
+    "url": "https://github.com/Valar05/tank-kata",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 5,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "f73b713331d1d797a3c2d6415c7b96b97253ec92",
+      "size": 378,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 378,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "1b33e259de9f77ecb2f69860a7b5d40eef11b054",
+      "size": 710,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 24,
+      "byte_count": 710,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tank-kata/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/tank-kata/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/tank-kata/blob/main/PROJECT_ORIENTATION.md#L8",
+        "https://github.com/Valar05/tank-kata/blob/main/PROJECT_ORIENTATION.md#L10"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "cbf6cecdb190b408237ac7d1a9e781ae82b1a8c0",
+      "size": 179,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 179,
+      "mechanics": [
+        "ai_pressure",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tank-kata/blob/main/package.json#L3",
+        "https://github.com/Valar05/tank-kata/blob/main/package.json#L4"
+      ]
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "sha": "eb61f3c72355f9c38ec04d90cfeae3d7c87573df",
+      "size": 474,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 19,
+      "byte_count": 474,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tank-kata/blob/main/package-lock.json#L16"
+      ]
+    },
+    {
+      "path": "src/main.js",
+      "mode": "100644",
+      "sha": "16b4cd3df2b01839c47e635e502ec82b0543c730",
+      "size": 1999,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 68,
+      "byte_count": 1999,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L1",
+        "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L3",
+        "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L4",
+        "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L5",
+        "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L6",
+        "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L7",
+        "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L9",
+        "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L10"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 63,
+    "by_origin": {
+      "github": 63
+    },
+    "by_project": {
+      "tank-kata": 63
+    },
+    "by_mechanic": {
+      "ai_pressure": 58,
+      "web_choice_player": 8,
+      "asset_import_pipeline": 4,
+      "touch_lane_combat": 2,
+      "vehicle_survival": 1
+    },
+    "examples": {
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Tank Kata is a static Three.js browser game scaffold under the GodotProjects workspace. It intentionally avoids Vite or other bundlers because Android shared storage blocks syml...",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 20,
+          "symbol": "",
+          "evidence": "new THREE.PlaneGeometry(24, 24, 24, 24),",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L20"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `index.html`: browser shell and import map for Three.js.",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `.gitattributes`: Git LFS routing for binary game assets.",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "package-lock.json",
+          "line": 16,
+          "symbol": "license",
+          "evidence": "\"license\": \"MIT\"",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/package-lock.json#L16"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import * as THREE from 'three';",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L1"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `index.html`: browser shell and import map for Three.js.",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "package.json",
+          "line": 3,
+          "symbol": "dev",
+          "evidence": "\"dev\": \"python3 -m http.server 8792\",",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/package.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 4,
+          "symbol": "",
+          "evidence": "const renderer = new THREE.WebGLRenderer({ canvas, antialias: true });",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 5,
+          "symbol": "",
+          "evidence": "renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L5"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 6,
+          "symbol": "",
+          "evidence": "renderer.setSize(window.innerWidth, window.innerHeight);",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L6"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 7,
+          "symbol": "",
+          "evidence": "renderer.setClearColor(0x151915, 1);",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L7"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 57,
+          "symbol": "",
+          "evidence": "renderer.setSize(width, height);",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L57"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 64,
+          "symbol": "",
+          "evidence": "renderer.render(scene, camera);",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L64"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- `src/main.js`: Three.js scene setup and first playable tank placeholder.",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/PROJECT_ORIENTATION.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "package.json",
+          "line": 4,
+          "symbol": "check",
+          "evidence": "\"check\": \"node --check src/main.js\"",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/package.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import * as THREE from 'three';",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L1"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 3,
+          "symbol": "",
+          "evidence": "const canvas = document.querySelector('#game');",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L3"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 4,
+          "symbol": "",
+          "evidence": "const renderer = new THREE.WebGLRenderer({ canvas, antialias: true });",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L4"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 5,
+          "symbol": "",
+          "evidence": "renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L5"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 6,
+          "symbol": "",
+          "evidence": "renderer.setSize(window.innerWidth, window.innerHeight);",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L6"
+        },
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 7,
+          "symbol": "",
+          "evidence": "renderer.setClearColor(0x151915, 1);",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L7"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "tank-kata",
+          "repo": "Valar05/tank-kata",
+          "path": "src/main.js",
+          "line": 20,
+          "symbol": "",
+          "evidence": "new THREE.PlaneGeometry(24, 24, 24, 24),",
+          "source_url": "https://github.com/Valar05/tank-kata/blob/main/src/main.js#L20"
+        }
+      ]
+    }
+  }
+}

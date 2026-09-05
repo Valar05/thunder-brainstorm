@@ -1,0 +1,1076 @@
+{
+  "repo": "Valar05/labyrinth_protocol",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "labyrinth_protocol",
+    "updatedAt": "2024-09-25T21:35:43Z",
+    "url": "https://github.com/Valar05/labyrinth_protocol",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "aab5d958edd8c6c74c319219e55e8153cabdd9ea",
+      "size": 689,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 29,
+      "byte_count": 689,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/project.godot#L14",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/project.godot#L26",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/project.godot#L28",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/project.godot#L29"
+      ]
+    },
+    {
+      "path": "scenes/spells/Distortion.gdshader",
+      "mode": "100644",
+      "sha": "45b106d09533d28733d7563b51a5156ff82ba0f3",
+      "size": 2601,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 76,
+      "byte_count": 2601,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/spells/Shockwave.gdshader",
+      "mode": "100644",
+      "sha": "2ab22b725468b13797ce996de41dfa683b0664b8",
+      "size": 1220,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 31,
+      "byte_count": 1220,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/ExitButton.gd",
+      "mode": "100644",
+      "sha": "769ff061ddebf69969c164e98e2fc525488b4df2",
+      "size": 80,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 80,
+      "mechanics": [
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/ExitButton.gd#L1",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/ExitButton.gd#L3",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/ExitButton.gd#L4",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/ExitButton.gd#L5"
+      ]
+    },
+    {
+      "path": "scripts/PlayButton.gd",
+      "mode": "100644",
+      "sha": "f459ede66a96119b2b8147bea7238d4b46c1c30a",
+      "size": 102,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 102,
+      "mechanics": [
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayButton.gd#L1",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayButton.gd#L3",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayButton.gd#L4"
+      ]
+    },
+    {
+      "path": "scripts/PlayerData.gd",
+      "mode": "100644",
+      "sha": "539955b1e690064864456401b669750967c469a3",
+      "size": 449,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 449,
+      "mechanics": [
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayerData.gd#L1",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayerData.gd#L5",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayerData.gd#L6",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayerData.gd#L11",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayerData.gd#L12",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayerData.gd#L18",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayerData.gd#L19"
+      ]
+    },
+    {
+      "path": "scenes/GameScreen.gd",
+      "mode": "100644",
+      "sha": "2b7dee4a769ab0523e769bf3aa37fd1a3dbaf904",
+      "size": 5477,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 198,
+      "byte_count": 5477,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L4",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L5",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L10",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L18",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L19",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L21",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L22",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L23"
+      ]
+    },
+    {
+      "path": "scenes/RuneList.gd",
+      "mode": "100644",
+      "sha": "e8f9beb954fc645215c3bebccdb8a8dfd8e41cd0",
+      "size": 1907,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 61,
+      "byte_count": 1907,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L7",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L20",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L26",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L28",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L30",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L32",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L33",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L37"
+      ]
+    },
+    {
+      "path": "scenes/Terminal.gd",
+      "mode": "100644",
+      "sha": "094753a674fbc8916dc0ba3b8a598350323784dd",
+      "size": 1673,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 68,
+      "byte_count": 1673,
+      "mechanics": [
+        "ai_pressure",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L17",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L19",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L20",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L21",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L22",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L23",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L24",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L25"
+      ]
+    },
+    {
+      "path": "scenes/characters/Calystria_battle.gd",
+      "mode": "100644",
+      "sha": "55017f53c1720020155ac309ef872cb116e60a85",
+      "size": 156,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 156,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "scenes/characters/enemies/Enemy.gd",
+      "mode": "100644",
+      "sha": "0efad52b9a6c470239d7d808163955e201e9664b",
+      "size": 137,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 6,
+      "byte_count": 137,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/characters/enemies/Enemy.gd#L1",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/characters/enemies/Enemy.gd#L4",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/characters/enemies/Enemy.gd#L5",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/characters/enemies/Enemy.gd#L6"
+      ]
+    },
+    {
+      "path": "scenes/RuneList.tscn",
+      "mode": "100644",
+      "sha": "27bbe6fde20e68a0f69e810b6df1aae01cd9e1da",
+      "size": 3694,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 124,
+      "byte_count": 3694,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/Terminal.tscn",
+      "mode": "100644",
+      "sha": "d2a3e28c911dc8355b3acd66b20af4019d376a4b",
+      "size": 2362,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 72,
+      "byte_count": 2362,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/characters/Calystria_battle.tscn",
+      "mode": "100644",
+      "sha": "d75eac7adadad06169fdaead3fd29f13fdf6f288",
+      "size": 3218,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 63,
+      "byte_count": 3218,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/characters/enemies/Kikimora.tscn",
+      "mode": "100644",
+      "sha": "838117a409f435de8261f76794740c09a2c37083",
+      "size": 3861,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 139,
+      "byte_count": 3861,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/gam201A.tmp",
+      "mode": "100644",
+      "sha": "c60056870b7f1d14f3592e39f562ed2032659c90",
+      "size": 5067,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 150,
+      "byte_count": 5067,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/game_screen.tscn",
+      "mode": "100644",
+      "sha": "5bc2eec679253d0a51a096e3b1c772f2444c1f08",
+      "size": 5863,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 172,
+      "byte_count": 5863,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/ignis_lancea.tscn",
+      "mode": "100644",
+      "sha": "72f3000d02311eb30ddb0e1c28ff44d3fb059e75",
+      "size": 332,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 9,
+      "byte_count": 332,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/spells/ImpulsusReflecto.tscn",
+      "mode": "100644",
+      "sha": "4985e0ff413850fb93ab548b93157a6c2c5ef670",
+      "size": 2547,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 85,
+      "byte_count": 2547,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/spells/ImpulsusUnus.tscn",
+      "mode": "100644",
+      "sha": "26bb0073ca860567b6a8106df45ac88ffaa4b9f4",
+      "size": 12385,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 409,
+      "byte_count": 12385,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/start_screen.tscn",
+      "mode": "100644",
+      "sha": "1e611b05acf2ab67be4fffb2cd9167fd0fcfbd1a",
+      "size": 2662,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 2662,
+      "mechanics": []
+    },
+    {
+      "path": "artsources/armature_export.json",
+      "mode": "100644",
+      "sha": "8ffbae20729cead2b0cef05834c6aabb6ded8103",
+      "size": 9366,
+      "score": 16,
+      "reasons": [
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 394,
+      "byte_count": 9366,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L1",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L2",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L3",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L4",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L5",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L6",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L7",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L8"
+      ]
+    },
+    {
+      "path": "data/enemies.json",
+      "mode": "100644",
+      "sha": "6623b44dea24f9b5bfcf7499fce7de4a396048fe",
+      "size": 81,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 6,
+      "byte_count": 81,
+      "mechanics": [
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/data/enemies.json#L2",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/data/enemies.json#L3"
+      ]
+    },
+    {
+      "path": "data/rooms.json",
+      "mode": "100644",
+      "sha": "4a69d8fd6a6f6aa2499e2bdd41c2e3b57d943d07",
+      "size": 5157,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 36,
+      "byte_count": 5157,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L1",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L2",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L3",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L4",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L5",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L6",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L7",
+        "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 545,
+    "by_origin": {
+      "github": 545
+    },
+    "by_project": {
+      "labyrinth_protocol": 545
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 396,
+      "text_console_runtime": 100,
+      "ai_pressure": 57,
+      "web_choice_player": 35,
+      "tts_audio_pipeline": 13,
+      "pose_animation_tools": 7,
+      "resource_upgrade_loop": 4,
+      "deck_pressure": 2,
+      "writing_corpus_review": 1
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"res://scenes/start_screen.tscn\"",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 90,
+          "symbol": "",
+          "evidence": "print(\"Failed to load audio from: \" + file_path)",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L90"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 162,
+          "symbol": "",
+          "evidence": "var next_action = action.case.success if meets_condition else action.case.failure",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L162"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/RuneList.gd",
+          "line": 26,
+          "symbol": "",
+          "evidence": "populate_list(verbis, $VerbisList/ScrollContainer/VBoxContainer)",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L26"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/RuneList.gd",
+          "line": 28,
+          "symbol": "",
+          "evidence": "populate_list(essentia, $EssentialList/ScrollContainer/VBoxContainer)",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L28"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/RuneList.gd",
+          "line": 30,
+          "symbol": "",
+          "evidence": "populate_list(forma, $FormaList/ScrollContainer/VBoxContainer)",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L30"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/RuneList.gd",
+          "line": 32,
+          "symbol": "populate_list",
+          "evidence": "func populate_list(list, container):",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L32"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/RuneList.gd",
+          "line": 33,
+          "symbol": "",
+          "evidence": "for child in container.get_children():",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/RuneList.gd#L33"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "project.godot",
+          "line": 26,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/project.godot#L26"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "project.godot",
+          "line": 28,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/project.godot#L28"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 24,
+          "symbol": "",
+          "evidence": "save_player()",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L24"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 35,
+          "symbol": "",
+          "evidence": "$RoomArea/ScenePicture.texture = load(curr_room.image)",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L35"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 42,
+          "symbol": "save_player",
+          "evidence": "func save_player():",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L42"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 43,
+          "symbol": "",
+          "evidence": "save_data_to_json(player.export(), user_file)",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L43"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 55,
+          "symbol": "",
+          "evidence": "$ChoiceArea.visible = true",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L55"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 58,
+          "symbol": "",
+          "evidence": "var button = $ChoiceArea.get_child(i)",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L58"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "project.godot",
+          "line": 29,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/project.godot#L29"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scripts/PlayerData.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Resource",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayerData.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "artsources/armature_export.json",
+          "line": 1,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L1"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "artsources/armature_export.json",
+          "line": 2,
+          "symbol": "Root",
+          "evidence": "\"Root\": {",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "artsources/armature_export.json",
+          "line": 3,
+          "symbol": "name",
+          "evidence": "\"name\": \"Root\",",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "artsources/armature_export.json",
+          "line": 4,
+          "symbol": "head",
+          "evidence": "\"head\": [",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "artsources/armature_export.json",
+          "line": 5,
+          "symbol": "",
+          "evidence": "0.0,",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L5"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "artsources/armature_export.json",
+          "line": 6,
+          "symbol": "",
+          "evidence": "0.0,",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/artsources/armature_export.json#L6"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scripts/ExitButton.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Button",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/ExitButton.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scripts/ExitButton.gd",
+          "line": 3,
+          "symbol": "_on_Button_pressed",
+          "evidence": "func _on_Button_pressed():",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/ExitButton.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scripts/ExitButton.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "# Exits the game",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/ExitButton.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scripts/ExitButton.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "get_tree().quit()",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/ExitButton.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scripts/PlayButton.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Button",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayButton.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scripts/PlayButton.gd",
+          "line": 3,
+          "symbol": "_on_pressed",
+          "evidence": "func _on_pressed():",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayButton.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scripts/PlayButton.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "get_tree().change_scene_to_file(\"res://scenes/game_screen.tscn\")",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayButton.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scripts/PlayerData.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "@export var curr_room = \"start_room\"",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayerData.gd#L5"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scripts/PlayerData.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Resource",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scripts/PlayerData.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/Terminal.gd",
+          "line": 17,
+          "symbol": "",
+          "evidence": "determine_available_saves()",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L17"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/Terminal.gd",
+          "line": 19,
+          "symbol": "determine_available_saves",
+          "evidence": "func determine_available_saves():",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L19"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/Terminal.gd",
+          "line": 64,
+          "symbol": "",
+          "evidence": "determine_available_saves()",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/Terminal.gd#L64"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 32,
+          "symbol": "",
+          "evidence": "if !curr_room.id in player.visited_rooms && curr_room.has(\"description_audio\"):",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L32"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 33,
+          "symbol": "",
+          "evidence": "play_audio(curr_room.description_audio)",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L33"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 81,
+          "symbol": "",
+          "evidence": "# Function to load and play the audio file",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L81"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 82,
+          "symbol": "play_audio",
+          "evidence": "func play_audio(file_path: String):",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L82"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 83,
+          "symbol": "",
+          "evidence": "# Load the audio file as a Stream",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L83"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 84,
+          "symbol": "",
+          "evidence": "var audio_stream = load(file_path) as AudioStream",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L84"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 85,
+          "symbol": "",
+          "evidence": "if audio_stream:",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L85"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "scenes/GameScreen.gd",
+          "line": 86,
+          "symbol": "",
+          "evidence": "$AudioStreamPlayer2D.stream = audio_stream # Set the stream on the AudioStreamPlayer",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/scenes/GameScreen.gd#L86"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "data/enemies.json",
+          "line": 2,
+          "symbol": "kikimora",
+          "evidence": "\"kikimora\":{",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/data/enemies.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "data/enemies.json",
+          "line": 3,
+          "symbol": "scene",
+          "evidence": "\"scene\":\"res://scenes/characters/enemies/Kikimora.tscn\",",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/data/enemies.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "data/rooms.json",
+          "line": 4,
+          "symbol": "description",
+          "evidence": "\"description\":\"I blink into the darkness, my VR rig humming softly. I’m Calystria, a pagan witch, though in today’s world, magic means code. I drift through the Dark Web, past f...",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "data/rooms.json",
+          "line": 11,
+          "symbol": "description",
+          "evidence": "\"description\" : \"I step into the room, the stone walls glowing faintly with unfamiliar runes. The air hums with energy. It’s medium-sized, with a low ceiling that gives off an o...",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L11"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "data/rooms.json",
+          "line": 15,
+          "symbol": "",
+          "evidence": "{\"type\":\"interact\",\"label\":\"Inspect obelisk\", \"learn\":\"vis\", \"description\":\"The shattered obelisk hums with latent energy, cracks glowing faintly. As I approach, a surge of powe...",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L15"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "data/rooms.json",
+          "line": 19,
+          "symbol": "",
+          "evidence": "{\"type\":\"condition\",\"label\":\"Inspect terminal\", \"description\":\"The terminal hums softly, its screen flickering to life. Lines of code scroll quickly before settling on a prompt....",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L19"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "data/rooms.json",
+          "line": 34,
+          "symbol": "enemies",
+          "evidence": "\"enemies\":[{\"type\":\"kikimora\",\"row\":\"Row2\",\"pos\":\"Pos1\"}]",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L34"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "data/rooms.json",
+          "line": 4,
+          "symbol": "description",
+          "evidence": "\"description\":\"I blink into the darkness, my VR rig humming softly. I’m Calystria, a pagan witch, though in today’s world, magic means code. I drift through the Dark Web, past f...",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "data/rooms.json",
+          "line": 18,
+          "symbol": "",
+          "evidence": "{\"type\":\"interact\",\"label\":\"Inspect the box\", \"learn\":\"ego\", \"description\":\"As I approach the box, its surface shimmers faintly, reflecting the light around it. The simple, poli...",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L18"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "labyrinth_protocol",
+          "repo": "Valar05/labyrinth_protocol",
+          "path": "data/rooms.json",
+          "line": 4,
+          "symbol": "description",
+          "evidence": "\"description\":\"I blink into the darkness, my VR rig humming softly. I’m Calystria, a pagan witch, though in today’s world, magic means code. I drift through the Dark Web, past f...",
+          "source_url": "https://github.com/Valar05/labyrinth_protocol/blob/main/data/rooms.json#L4"
+        }
+      ]
+    }
+  }
+}

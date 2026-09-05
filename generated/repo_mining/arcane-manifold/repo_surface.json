@@ -1,0 +1,1449 @@
+{
+  "repo": "Valar05/arcane-manifold",
+  "branch": "master",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "description": "A survivorlike fps",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "arcane-manifold",
+    "updatedAt": "2025-10-22T15:34:48Z",
+    "url": "https://github.com/Valar05/arcane-manifold",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "6927ab729738db189bb730176a0f55fb90280945",
+      "size": 758,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 36,
+      "byte_count": 758,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L14",
+        "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L18",
+        "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L22",
+        "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L33",
+        "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L35",
+        "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L36"
+      ]
+    },
+    {
+      "path": "scripts/audio_manager.gd",
+      "mode": "100644",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "score": 88,
+      "reasons": [
+        "tooling surface",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 0,
+      "byte_count": 0,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "scripts/Distortion.gdshader",
+      "mode": "100644",
+      "sha": "cfe5ada4d4a51408dc27d0da61ff814b1ab784b6",
+      "size": 2899,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 86,
+      "byte_count": 2899,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/Distortion.gdshader.uid",
+      "mode": "100644",
+      "sha": "66ac907866a2b33a94a000daef4827143347a78c",
+      "size": 20,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/audio_manager.gd.uid",
+      "mode": "100644",
+      "sha": "60cc821f5176a0f139ca580bbc57f1bbda17578b",
+      "size": 20,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/Enemy.gdshader",
+      "mode": "100644",
+      "sha": "da2e36031565c129b2c967d892bd9f92d1eb6304",
+      "size": 4625,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 126,
+      "byte_count": 4625,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/Enemy.gdshader.uid",
+      "mode": "100644",
+      "sha": "c8b2ebea5a591bc63478c651741761c2340029dc",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/glow-transparent.gdshader",
+      "mode": "100644",
+      "sha": "4fb0030b8821bf4b4205ec4fd1404e47d474747d",
+      "size": 4332,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 120,
+      "byte_count": 4332,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/glow-transparent.gdshader.uid",
+      "mode": "100644",
+      "sha": "49f27a537304f67521281819bd96232d9fc87fba",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/aim_area.gd",
+      "mode": "100644",
+      "sha": "cbad12f088e8f8addc711671c4b74a267a911865",
+      "size": 701,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 701,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L1",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L3",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L4",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L5",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L6",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L7",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L8",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L10"
+      ]
+    },
+    {
+      "path": "scripts/joystick.gd",
+      "mode": "100644",
+      "sha": "756242775876f72066b25e1c5b9ea96dab2c1a04",
+      "size": 1705,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 53,
+      "byte_count": 1705,
+      "mechanics": [
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L5",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L11",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L21",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L23",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L28",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L29",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L30",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L38"
+      ]
+    },
+    {
+      "path": "scripts/player.gd",
+      "mode": "100644",
+      "sha": "dc9ff68a65a107f3a28c3b110079cb939e7922fc",
+      "size": 18095,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 555,
+      "byte_count": 18095,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L24",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L25",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L26",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L33",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L34",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L42",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L52",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L53"
+      ]
+    },
+    {
+      "path": "scripts/projectile.gd",
+      "mode": "100644",
+      "sha": "ac1e3f2c8d4facb47bfbee7c4fa58b99c000924e",
+      "size": 8902,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 269,
+      "byte_count": 8902,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/projectile.gd#L24",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/projectile.gd#L37",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/projectile.gd#L48",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/projectile.gd#L70",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/projectile.gd#L71",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/projectile.gd#L94",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/projectile.gd#L97",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/projectile.gd#L98"
+      ]
+    },
+    {
+      "path": "scripts/radar.gd",
+      "mode": "100644",
+      "sha": "9d7f9848c1057bbbba5cab94b3112da2a45c8519",
+      "size": 4608,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 146,
+      "byte_count": 4608,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/radar.gd#L20",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/radar.gd#L41",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/radar.gd#L46",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/radar.gd#L70",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/radar.gd#L72",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/radar.gd#L78",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/radar.gd#L86",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/radar.gd#L87"
+      ]
+    },
+    {
+      "path": "scripts/voxel_chunk.gd",
+      "mode": "100644",
+      "sha": "cccad06bc326843491e3e617b28d5c61e7398e3c",
+      "size": 27614,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 621,
+      "byte_count": 27614,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L1",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L2",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L4",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L5",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L6",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L7",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L8",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/world_generator.gd",
+      "mode": "100644",
+      "sha": "16542bab3bf575f4daa2bc001babb5d6c0507986",
+      "size": 17994,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 486,
+      "byte_count": 17994,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L4",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L5",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L7",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L8",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L9",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L10",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L12",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L18"
+      ]
+    },
+    {
+      "path": "scripts/aim_area.gd.uid",
+      "mode": "100644",
+      "sha": "d6f0112c238ad82fca3b13e3b58b3c86e753e893",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/joystick.gd.uid",
+      "mode": "100644",
+      "sha": "2c9b701eac0fa46a9972ddbadcc500eabe8ca0c4",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/player.gd.uid",
+      "mode": "100644",
+      "sha": "9e8638fa1cc0e0584496914a895486beb3eea3ab",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/projectile.gd.uid",
+      "mode": "100644",
+      "sha": "ebff3cb7d14f436ddf21336d700b2eb24a32ba33",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/radar.gd.uid",
+      "mode": "100644",
+      "sha": "f18dd310d0600ab7e011b2fb987734297706d2fc",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/voxel_chunk.gd.uid",
+      "mode": "100644",
+      "sha": "f9ec24a9d8b1094be4daee388803f4b8556d3618",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world_generator.gd.uid",
+      "mode": "100644",
+      "sha": "71b0687c37096dbd98dfe6a1fce826e836120606",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/block_button.gd",
+      "mode": "100644",
+      "sha": "6efa5419970f775123dc4af663fdedd982ea4759",
+      "size": 741,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 741,
+      "mechanics": [
+        "text_console_runtime",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/arcane-manifold/blob/master/scenes/block_button.gd#L1",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scenes/block_button.gd#L3",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scenes/block_button.gd#L4",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scenes/block_button.gd#L5",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scenes/block_button.gd#L6",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scenes/block_button.gd#L7",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scenes/block_button.gd#L8",
+        "https://github.com/Valar05/arcane-manifold/blob/master/scenes/block_button.gd#L9"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 920,
+    "by_origin": {
+      "github": 920
+    },
+    "by_project": {
+      "arcane-manifold": 920
+    },
+    "by_mechanic": {
+      "writing_corpus_review": 605,
+      "ai_pressure": 90,
+      "text_console_runtime": 82,
+      "touch_lane_combat": 54,
+      "pose_animation_tools": 42,
+      "tts_audio_pipeline": 35,
+      "resource_upgrade_loop": 31,
+      "source_packet_generation": 18,
+      "web_choice_player": 16,
+      "deck_pressure": 9,
+      "vehicle_survival": 4,
+      "event_clouds": 2,
+      "asset_import_pipeline": 1,
+      "validation_pipeline": 1
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"uid://li6vq0nfttst\"",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "project.godot",
+          "line": 18,
+          "symbol": "",
+          "evidence": "[audio]",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L18"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 42,
+          "symbol": "",
+          "evidence": "@export var blast_shot : AudioStream",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L42"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 52,
+          "symbol": "",
+          "evidence": "# ─── Audio pooling",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L52"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 53,
+          "symbol": "",
+          "evidence": "var audio_pool: Array[AudioStreamPlayer3D] = []",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L53"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 54,
+          "symbol": "",
+          "evidence": "const AUDIO_POOL_SIZE: int = 10",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L54"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 119,
+          "symbol": "",
+          "evidence": "_initialize_audio_pool()",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L119"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 184,
+          "symbol": "",
+          "evidence": "var audio_player = _get_pooled_audio()",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L184"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"uid://li6vq0nfttst\"",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/aim_area.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Sprite2D",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/aim_area.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "@export",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/aim_area.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "var touch_radius := 256",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/aim_area.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "var is_pressed = false",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/aim_area.gd",
+          "line": 6,
+          "symbol": "",
+          "evidence": "var touch_index = -1",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L6"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/aim_area.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "signal aim_area_touched(touch_pos)",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/aim_area.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "signal aim_area_released()",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/aim_area.gd#L8"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "project.godot",
+          "line": 22,
+          "symbol": "",
+          "evidence": "[autoload]",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L22"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "project.godot",
+          "line": 33,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L33"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "project.godot",
+          "line": 35,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L35"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 121,
+          "symbol": "",
+          "evidence": "# Load upgrades data",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L121"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 122,
+          "symbol": "",
+          "evidence": "_load_upgrades_data()",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L122"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 303,
+          "symbol": "_load_upgrades_data",
+          "evidence": "func _load_upgrades_data():",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L303"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 326,
+          "symbol": "",
+          "evidence": "print(\"Loaded \", upgrades_data.size(), \" upgrades from \", file_path)",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L326"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 350,
+          "symbol": "",
+          "evidence": "get_tree().reload_current_scene()",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L350"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "project.godot",
+          "line": 36,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/project.godot#L36"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/joystick.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "@export var hide_threshold: float = 2.0",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/joystick.gd",
+          "line": 48,
+          "symbol": "",
+          "evidence": "if pip.global_position.distance_to(base.global_position) < hide_threshold:",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L48"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 306,
+          "symbol": "",
+          "evidence": "render_mode unshaded, cull_disabled, depth_draw_opaque;",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L306"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/world_generator.gd",
+          "line": 39,
+          "symbol": "",
+          "evidence": "@export var room_threshold: float = 0.52",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L39"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/world_generator.gd",
+          "line": 58,
+          "symbol": "",
+          "evidence": "@export var small_noise_thresh: float = 0.72 # threshold to appear",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L58"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/world_generator.gd",
+          "line": 59,
+          "symbol": "",
+          "evidence": "@export var small_noise_band: float = 0.06 # soft edge width around threshold",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L59"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/world_generator.gd",
+          "line": 216,
+          "symbol": "",
+          "evidence": "var w_raw: float = 1.0 - _smoothstep(room_threshold - room_band, room_threshold + room_band, n01)",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L216"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/world_generator.gd",
+          "line": 254,
+          "symbol": "",
+          "evidence": "# --- SMALL ROCKS: carve blobs directly from cavern_noise (soft threshold) ---",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L254"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/joystick.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "var origin_pos: Vector2 = Vector2.ZERO",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/joystick.gd",
+          "line": 28,
+          "symbol": "",
+          "evidence": "origin_pos = event.position",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L28"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/joystick.gd",
+          "line": 29,
+          "symbol": "",
+          "evidence": "base.global_position = origin_pos",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L29"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/joystick.gd",
+          "line": 30,
+          "symbol": "",
+          "evidence": "pip.global_position = origin_pos",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L30"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/joystick.gd",
+          "line": 38,
+          "symbol": "",
+          "evidence": "var delta = event.position - origin_pos",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L38"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/joystick.gd",
+          "line": 41,
+          "symbol": "",
+          "evidence": "pip.global_position = origin_pos + clamped",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L41"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 25,
+          "symbol": "",
+          "evidence": "var is_right_button_pushed := false",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L25"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 72,
+          "symbol": "",
+          "evidence": "@onready var bone_handler: Node = $Model",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L72"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/joystick.gd",
+          "line": 21,
+          "symbol": "",
+          "evidence": "var pause_button = $\"../CanvasLayer/PauseButton\"",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L21"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/joystick.gd",
+          "line": 23,
+          "symbol": "",
+          "evidence": "if (pause_button.position - event.position).length() < pause_button.click_radius:",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/joystick.gd#L23"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 24,
+          "symbol": "",
+          "evidence": "var jump_button",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L24"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 25,
+          "symbol": "",
+          "evidence": "var is_right_button_pushed := false",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L25"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 108,
+          "symbol": "",
+          "evidence": "jump_button = $CanvasLayer/JumpButton",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L108"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 351,
+          "symbol": "",
+          "evidence": "is_right_button_pushed = false",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L351"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 409,
+          "symbol": "_is_touch_inside_button",
+          "evidence": "func _is_touch_inside_button(button: TouchScreenButton, global_point: Vector2) -> bool:",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L409"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 410,
+          "symbol": "",
+          "evidence": "if button and button.shape:",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L410"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 26,
+          "symbol": "",
+          "evidence": "var attack_number = 0",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L26"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 33,
+          "symbol": "",
+          "evidence": "var is_blocking",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L33"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 34,
+          "symbol": "",
+          "evidence": "var current_block",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L34"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 60,
+          "symbol": "",
+          "evidence": "var parry_time = 0.0",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L60"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 61,
+          "symbol": "",
+          "evidence": "var parry_window = 0.5",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L61"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 78,
+          "symbol": "_project_on_plane",
+          "evidence": "func _project_on_plane(v: Vector3, n: Vector3) -> Vector3:",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L78"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 83,
+          "symbol": "",
+          "evidence": "var f := _project_on_plane(forward, u)",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L83"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 111,
+          "symbol": "",
+          "evidence": "$CanvasLayer/ShieldIcon.connect(\"block_area_touched\", on_block_area_touched)",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L111"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 69,
+          "symbol": "",
+          "evidence": "# ─── Upgrades system",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L69"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 70,
+          "symbol": "",
+          "evidence": "var upgrades_data: Array = []",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L70"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 121,
+          "symbol": "",
+          "evidence": "# Load upgrades data",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L121"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 122,
+          "symbol": "",
+          "evidence": "_load_upgrades_data()",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L122"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 302,
+          "symbol": "",
+          "evidence": "# ─── Upgrades System ───",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L302"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 303,
+          "symbol": "_load_upgrades_data",
+          "evidence": "func _load_upgrades_data():",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L303"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 304,
+          "symbol": "",
+          "evidence": "var file_path = \"res://data/upgrades.json\"",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L304"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 307,
+          "symbol": "",
+          "evidence": "print(\"Upgrades file not found: \", file_path)",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L307"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 78,
+          "symbol": "_project_on_plane",
+          "evidence": "func _project_on_plane(v: Vector3, n: Vector3) -> Vector3:",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L78"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 83,
+          "symbol": "",
+          "evidence": "var f := _project_on_plane(forward, u)",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L83"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/world_generator.gd",
+          "line": 33,
+          "symbol": "",
+          "evidence": "@export var top_noise_repeat_m: float = 48.0 # larger = broader bumps",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L33"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/world_generator.gd",
+          "line": 34,
+          "symbol": "",
+          "evidence": "@export var top_noise_power: float = 1.0 # >1 emphasizes peaks (1 = linear)",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L34"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 95,
+          "symbol": "",
+          "evidence": "var q_from := Quaternion(global_transform.basis).normalized()",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L95"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 98,
+          "symbol": "",
+          "evidence": "global_transform.basis = Basis(q).orthonormalized()",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L98"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 217,
+          "symbol": "",
+          "evidence": "# Set transform - use complete transform assignment",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L217"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 242,
+          "symbol": "",
+          "evidence": "# Set the complete global transform",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L242"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 243,
+          "symbol": "",
+          "evidence": "new_projectile.global_transform = Transform3D(projectile_basis, spawn_pos)",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L243"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 362,
+          "symbol": "",
+          "evidence": "var cur_forward := -global_transform.basis.z",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L362"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/player.gd",
+          "line": 375,
+          "symbol": "",
+          "evidence": "var yaw := global_transform.basis.get_euler().y",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/player.gd#L375"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/projectile.gd",
+          "line": 48,
+          "symbol": "",
+          "evidence": "# set_as_top_level(true) # uncomment if parent transforms are funky",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/projectile.gd#L48"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/projectile.gd",
+          "line": 94,
+          "symbol": "",
+          "evidence": "# Acquire/validate target",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/projectile.gd#L94"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Node3D",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 2,
+          "symbol": "",
+          "evidence": "class_name VoxelChunk",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L2"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "@export var CHUNK_SIZE:int = 32",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "@export var VOXEL_SIZE:float = 4.0",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 6,
+          "symbol": "",
+          "evidence": "@export var world_node:NodePath",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L6"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "@export var triplanar_material:Material",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "@export var snap_to_grid_on_ready:bool = true",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L8"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 9,
+          "symbol": "",
+          "evidence": "@export var build_collision:bool = true",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/voxel_chunk.gd#L9"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/world_generator.gd",
+          "line": 86,
+          "symbol": "",
+          "evidence": "var room_warp_noise: FastNoiseLite # domain warp",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L86"
+        },
+        {
+          "origin": "github",
+          "project": "arcane-manifold",
+          "repo": "Valar05/arcane-manifold",
+          "path": "scripts/world_generator.gd",
+          "line": 205,
+          "symbol": "",
+          "evidence": "# optional domain warp",
+          "source_url": "https://github.com/Valar05/arcane-manifold/blob/master/scripts/world_generator.gd#L205"
+        }
+      ]
+    }
+  }
+}

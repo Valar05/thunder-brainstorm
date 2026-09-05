@@ -1,0 +1,1272 @@
+{
+  "repo": "Valar05/clarity-game-engine",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Clarity Engine — local-first open-source TypeScript and Three.js game engine",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "clarity-game-engine",
+    "updatedAt": "2026-08-12T23:46:00Z",
+    "url": "https://github.com/Valar05/clarity-game-engine",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 18,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "0a35872ab27c0542b91109fc8afacbc4c8b88739",
+      "size": 2607,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 61,
+      "byte_count": 2607,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L7",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L11",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L17",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L18",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L50",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L57",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L61"
+      ]
+    },
+    {
+      "path": "docs/RECOVERY.md",
+      "mode": "100644",
+      "sha": "5c34b25f3f143380b15d1e411e87ade8f007755a",
+      "size": 3728,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 115,
+      "byte_count": 3728,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L3",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L5",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L47",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L52",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L80",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L82",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L84",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L98"
+      ]
+    },
+    {
+      "path": "docs/VENICE_DESIGN_GATE.md",
+      "mode": "100644",
+      "sha": "e6a5d2aa3429b6d9b4b67a17acbf1876ad1da48d",
+      "size": 2885,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 2885,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L7",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L16",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L19",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L20",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L24",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L26",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L32",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L36"
+      ]
+    },
+    {
+      "path": "scripts/venice-first-play-gate.py",
+      "mode": "100644",
+      "sha": "238e7208b883643a2541b68f5c4bae6b18d2c1c5",
+      "size": 2759,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 42,
+      "byte_count": 2759,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L2",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L3",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L7",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L9",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L10",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L11",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L12",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L13"
+      ]
+    },
+    {
+      "path": "tests/test_durability.py",
+      "mode": "100644",
+      "sha": "efa88f68c96cdc590f0beabb0fcfc5f5cc86b443",
+      "size": 3047,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 104,
+      "byte_count": 3047,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L1",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L3",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L4",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L5",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L6",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L8",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L9",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L54"
+      ]
+    },
+    {
+      "path": "tests/test_venice_first_play_gate.py",
+      "mode": "100644",
+      "sha": "71cd41a07c75c955cf7a99a0e4bd60098b7a92f2",
+      "size": 2074,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 2074,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_venice_first_play_gate.py#L1",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_venice_first_play_gate.py#L2",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_venice_first_play_gate.py#L3",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_venice_first_play_gate.py#L10",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_venice_first_play_gate.py#L19",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_venice_first_play_gate.py#L22"
+      ]
+    },
+    {
+      "path": "scripts/selftest.sh",
+      "mode": "100644",
+      "sha": "db468aebf66445a1cba8eab4c02d0baa7ad88302",
+      "size": 939,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 27,
+      "byte_count": 939,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/termux-install.sh",
+      "mode": "100644",
+      "sha": "db07ee3a117489814b51cf721d6564addada5060",
+      "size": 895,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 895,
+      "mechanics": []
+    },
+    {
+      "path": "config/providers.json",
+      "mode": "100644",
+      "sha": "2ff170ce3441c58decffbc7cda5f14ab0c21a15b",
+      "size": 896,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 36,
+      "byte_count": 896,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/config/providers.json#L26"
+      ]
+    },
+    {
+      "path": "examples/april-test-node.mission.json",
+      "mode": "100644",
+      "sha": "58951f9aadc89fdcb0968d58e0ee63b27bb3442d",
+      "size": 287,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 287,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "reviews/CYCLE-01-JAR-STATIC.md",
+      "mode": "100644",
+      "sha": "654014fd564d1252e99378c8883e37bf90c94791",
+      "size": 2956,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 2956,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L5",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L9",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L11",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L13",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L15",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L17",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L19",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L21"
+      ]
+    },
+    {
+      "path": "skills/inner-world-chat-mine/SKILL.md",
+      "mode": "100644",
+      "sha": "00072248d5bcfce12efc1adfb9140cadf2907221",
+      "size": 2642,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 44,
+      "byte_count": 2642,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L1",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L3",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L4",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L6",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L7",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L8",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L9",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L10"
+      ]
+    },
+    {
+      "path": "skills/inner-world-roleplay/SKILL.md",
+      "mode": "100644",
+      "sha": "48e2082b64bd7db254f805f2890a90ecdd93b43f",
+      "size": 1979,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 1979,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-roleplay/SKILL.md#L4",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-roleplay/SKILL.md#L7",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-roleplay/SKILL.md#L14",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-roleplay/SKILL.md#L19",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-roleplay/SKILL.md#L26",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-roleplay/SKILL.md#L35",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-roleplay/SKILL.md#L41"
+      ]
+    },
+    {
+      "path": "skills/inner-world-venice-jars/SKILL.md",
+      "mode": "100644",
+      "sha": "96cb12002ad5e00a69f8c118ebf5d7a50a9fdf2d",
+      "size": 1992,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 1992,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L4",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L11",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L14",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L17",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L23",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L26",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L29",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L32"
+      ]
+    },
+    {
+      "path": "src/clarity/__init__.py",
+      "mode": "100644",
+      "sha": "07c5de9e2c430f9f659c069c2c1c72210ba8abee",
+      "size": 48,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2,
+      "byte_count": 48,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "src/clarity/cli.py",
+      "mode": "100644",
+      "sha": "31ca94153dc9d4ed68ccaf49fa1c8f2c7894ffbb",
+      "size": 6010,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 181,
+      "byte_count": 6010,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L1",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L3",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L4",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L5",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L6",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L7",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L8",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L10"
+      ]
+    },
+    {
+      "path": "src/clarity/executor.py",
+      "mode": "100644",
+      "sha": "0edd8d1c64e5134a94ebb46c7d9ed45e78b85ff0",
+      "size": 2660,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 2660,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/executor.py#L1",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/executor.py#L3",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/executor.py#L4",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/executor.py#L5",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/executor.py#L6",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/executor.py#L7",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/executor.py#L9",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/executor.py#L37"
+      ]
+    },
+    {
+      "path": "src/clarity/storage.py",
+      "mode": "100644",
+      "sha": "26e0804e4e74cd506cbc4be0bbec59ba3c0548f7",
+      "size": 10282,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 261,
+      "byte_count": 10282,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/storage.py#L1",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/storage.py#L3",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/storage.py#L4",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/storage.py#L5",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/storage.py#L6",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/storage.py#L7",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/storage.py#L8",
+        "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/storage.py#L9"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 222,
+    "by_origin": {
+      "github": 222
+    },
+    "by_project": {
+      "clarity-game-engine": 222
+    },
+    "by_mechanic": {
+      "ai_pressure": 98,
+      "asset_import_pipeline": 44,
+      "resource_upgrade_loop": 37,
+      "web_choice_player": 22,
+      "text_console_runtime": 19,
+      "validation_pipeline": 19,
+      "touch_lane_combat": 8,
+      "pose_animation_tools": 7,
+      "writing_corpus_review": 4,
+      "vehicle_survival": 3,
+      "source_packet_generation": 1,
+      "event_clouds": 1,
+      "delayed_consequences": 1
+    },
+    "examples": {
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Clarity does not depend on ChatGPT, Gemini, or any cloud model to run. The phone is the durable control plane. Remote models and cloud services are optional workers behind adapt...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- **CLI is the primary control surface.** Dashboards are optional inspection surfaces.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 111,
+          "symbol": "",
+          "evidence": "Every fixture must end in one of three outcomes: safely resumed, safely rejected/quarantined, or loudly blocked. Never ambiguous success.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L111"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/VENICE_DESIGN_GATE.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "A hard-gate breach blocks promotion regardless of aggregate enthusiasm.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/VENICE_DESIGN_GATE.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "The last counted approval must review the candidate commit. Any `CONTINUE_REQUIRED`, `HALT_REQUIRED`, malformed approval, stale approval, contradictory state, or missing require...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/VENICE_DESIGN_GATE.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "First-play status remains **BLOCKED** until the required review cycles and runtime evidence are complete. Judgment Jar emulation now counts as Venice review; it does not waive m...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "reviews/CYCLE-01-JAR-STATIC.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "Required repair: explicit attempt budget/backoff and a `blocked`/`needs_review` state that preserves evidence without false terminal success.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "Do not interrupt roleplay merely to report mining. Mine silently when possible. Surface contradictions only when they materially affect the scene. When a durable write lane is a...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L44"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Clarity does not depend on ChatGPT, Gemini, or any cloud model to run. The phone is the durable control plane. Remote models and cloud services are optional workers behind adapt...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "Do not interrupt roleplay merely to report mining. Mine silently when possible. Surface contradictions only when they materially affect the scene. When a durable write lane is a...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-roleplay/SKILL.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "Characters are not reward dispensers. They may be busy, wrong, unwilling, absent, uncertain or uninterested. Relationship state never implies entitlement. Venice is abroad and i...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-roleplay/SKILL.md#L35"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- **CLI is the primary control surface.** Dashboards are optional inspection surfaces.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Clarity is designed to survive process death, lost network, worker disappearance, duplicate commands, partial writes, provider outages, device restarts, and user curve balls wit...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "scripts/venice-first-play-gate.py",
+          "line": 25,
+          "symbol": "",
+          "evidence": "ap=argparse.ArgumentParser();ap.add_argument(\"--repo\",default=\".\");ap.add_argument(\"--candidate\",default=\"HEAD\");ap.add_argument(\"receipts\",nargs=\"+\");a=ap.parse_args()",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L25"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-roleplay/SKILL.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- free action/speech before multiple choice;",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-roleplay/SKILL.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-venice-jars/SKILL.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "Can something meaningful happen here without learning? If not, it is a classroom in costume.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "src/clarity/cli.py",
+          "line": 142,
+          "symbol": "build_parser",
+          "evidence": "def build_parser() -> argparse.ArgumentParser:",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L142"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "src/clarity/cli.py",
+          "line": 143,
+          "symbol": "",
+          "evidence": "p = argparse.ArgumentParser(prog=\"clarity\")",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L143"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "src/clarity/cli.py",
+          "line": 145,
+          "symbol": "",
+          "evidence": "sub = p.add_subparsers(dest=\"command\", required=True)",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/cli.py#L145"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- **Zero-dollar gate.** Cloud operations must be explicitly classified before use. Paid/unverified routes fail closed.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- **No prose completion claims.** Capability state is machine tracked: requested -> implemented -> tested -> deployed -> callable -> delivered -> accepted.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "README.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "SQLite is authoritative. JSONL receipts are an independent audit trail and recovery aid, not a second writable state database.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 5,
+          "symbol": "Failure model",
+          "evidence": "## Failure model",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "Each acknowledged receipt is fsynced. The chain detects database event tampering and gives an independent human-readable trail.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 80,
+          "symbol": "",
+          "evidence": "4. verify the event hash chain;",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L80"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 115,
+          "symbol": "",
+          "evidence": "The phone runtime owns mission continuity. Cloud copies, Git repositories, models, chat sessions, desktop workers, and web UIs are replicas, workers, or distribution surfaces. N...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L115"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/VENICE_DESIGN_GATE.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Drew requires at least three design/review cycles before first-play acceptance. Venice's Judgment Jar code review is a required gate. Venice does not replace deterministic verif...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L7"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "receipts.jsonl append-only human-readable audit stream",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "README.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "SQLite is authoritative. JSONL receipts are an independent audit trail and recovery aid, not a second writable state database.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "README.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "Bootstrap repository. The current slice is the durable local mission ledger and recovery CLI. Cloud/provider adapters come after local crash/restart acceptance passes.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/README.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/VENICE_DESIGN_GATE.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- `CONTINUE_REQUIRED`: Venice denies stopping and requires another bounded repair/review cycle.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/VENICE_DESIGN_GATE.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `HALT_REQUIRED`: Venice denies further mutation until the named hard/evidence/authority boundary is repaired.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/VENICE_DESIGN_GATE.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "The record names repository commit reviewed, diff/capability slice, evidence, reviewer identity/mode, Jar findings, hard gates, demanded changes, actual repairs, and verification.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "scripts/venice-first-play-gate.py",
+          "line": 13,
+          "symbol": "validate",
+          "evidence": "def validate(r):",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L13"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "scripts/venice-first-play-gate.py",
+          "line": 29,
+          "symbol": "",
+          "evidence": "rs=[validate(load(p)) for p in a.receipts];heads=[]",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L29"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "- payload",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 98,
+          "symbol": "",
+          "evidence": "- corrupt/tampered event payload",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L98"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 115,
+          "symbol": "",
+          "evidence": "The phone runtime owns mission continuity. Cloud copies, Git repositories, models, chat sessions, desktop workers, and web UIs are replicas, workers, or distribution surfaces. N...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L115"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "scripts/venice-first-play-gate.py",
+          "line": 10,
+          "symbol": "load",
+          "evidence": "def load(path):",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L10"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "scripts/venice-first-play-gate.py",
+          "line": 11,
+          "symbol": "",
+          "evidence": "try:return json.loads(Path(path).read_text(encoding=\"utf-8\"))",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L11"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "scripts/venice-first-play-gate.py",
+          "line": 29,
+          "symbol": "",
+          "evidence": "rs=[validate(load(p)) for p in a.receipts];heads=[]",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L29"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "tests/test_durability.py",
+          "line": 54,
+          "symbol": "",
+          "evidence": "s.transition(mission_id, \"promoted\", payload=result)",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L54"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "tests/test_durability.py",
+          "line": 70,
+          "symbol": "",
+          "evidence": "s.conn.execute(\"UPDATE events SET payload_json='{}' WHERE mission_id=?\", (mission_id,))",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L70"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 82,
+          "symbol": "",
+          "evidence": "6. report, never conceal, corruption.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L82"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "Later recovery slices may add snapshot restore and artifact-index rebuilding. They may not replace the original evidence in place.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "reviews/CYCLE-01-JAR-STATIC.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "`add_mission` returns an existing mission for a duplicate idempotency key without proving the incoming kind/spec hash matches the original. A caller can accidentally reuse a key...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "Do not interrupt roleplay merely to report mining. Mine silently when possible. Surface contradictions only when they materially affect the scene. When a durable write lane is a...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L44"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/RECOVERY.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "Later recovery slices may add snapshot restore and artifact-index rebuilding. They may not replace the original evidence in place.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/RECOVERY.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "reviews/CYCLE-01-JAR-STATIC.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "`add_mission` returns an existing mission for a duplicate idempotency key without proving the incoming kind/spec hash matches the original. A caller can accidentally reuse a key...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "reviews/CYCLE-01-JAR-STATIC.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "The bootstrap has useful bones but currently rewards proximity-to-durability over demonstrated durability. Under Venice scoring, confidence and architecture prose do not count a...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-roleplay/SKILL.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "Play the world first. Teach second. Do not expose an LMS wearing narrative clothing.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-roleplay/SKILL.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-venice-jars/SKILL.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "Every proposed mechanic/location/system pays for its complexity with recurring play value. Reject infrastructure that exists mainly to admire itself.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "src/clarity/storage.py",
+          "line": 28,
+          "symbol": "paths",
+          "evidence": "def paths(root: str | os.PathLike[str] | None = None) -> Paths:",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/storage.py#L28"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "src/clarity/storage.py",
+          "line": 54,
+          "symbol": "__init__",
+          "evidence": "def __init__(self, root: str | os.PathLike[str] | None = None):",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/src/clarity/storage.py#L54"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "docs/VENICE_DESIGN_GATE.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "Every cycle must explicitly evaluate applicable Jar laws, especially actor-before-artifact, source/inference/canon separation, unknowns remaining unknown, literal capability sta...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/docs/VENICE_DESIGN_GATE.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "scripts/venice-first-play-gate.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "import argparse,json,subprocess,sys",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "scripts/venice-first-play-gate.py",
+          "line": 3,
+          "symbol": "",
+          "evidence": "from pathlib import Path",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/scripts/venice-first-play-gate.py#L3"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "tests/test_durability.py",
+          "line": 1,
+          "symbol": "",
+          "evidence": "from __future__ import annotations",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L1"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "tests/test_durability.py",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import json",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L3"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "tests/test_durability.py",
+          "line": 4,
+          "symbol": "",
+          "evidence": "import sqlite3",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L4"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "tests/test_durability.py",
+          "line": 5,
+          "symbol": "",
+          "evidence": "import time",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L5"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "tests/test_durability.py",
+          "line": 6,
+          "symbol": "",
+          "evidence": "from pathlib import Path",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/tests/test_durability.py#L6"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "reviews/CYCLE-01-JAR-STATIC.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "`receipts.jsonl` is described as an independent audit/recovery aid, but `clarity verify` verifies only the SQLite event chain and promoted artifacts. Deleting, truncating, reord...",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/reviews/CYCLE-01-JAR-STATIC.md#L11"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 1,
+          "symbol": "Inner World Chat Mine",
+          "evidence": "# Inner World Chat Mine",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 3,
+          "symbol": "Mission",
+          "evidence": "## Mission",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "Mine live Inner World roleplay into durable, reviewable game knowledge without flattening discovery into premature canon.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 6,
+          "symbol": "Inputs",
+          "evidence": "## Inputs",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- current chat/roleplay transcript;",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- existing Living Bible from Drive when reachable;",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- current scene state;",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- explicit player corrections outrank prior inference.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L10"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-chat-mine/SKILL.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "5. vocabulary and domain knowledge encountered naturally;",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-chat-mine/SKILL.md#L18"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "clarity-game-engine",
+          "repo": "Valar05/clarity-game-engine",
+          "path": "skills/inner-world-venice-jars/SKILL.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "Android 67's retrieval, external memory and tool use are legitimate cognition. Preserve provenance: knowing, remembering, inferring and looking up are distinct.",
+          "source_url": "https://github.com/Valar05/clarity-game-engine/blob/main/skills/inner-world-venice-jars/SKILL.md#L17"
+        }
+      ]
+    }
+  }
+}

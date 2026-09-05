@@ -129,6 +129,8 @@ def category_for(path: Path) -> str:
     value = rel(path)
     if value == "README.md":
         return "Orientation"
+    if value.startswith("generated/galleries/"):
+        return "Galleries"
     if value.startswith("generated/page_assets/"):
         return "Page Assets"
     if value.startswith("generated/project_links/"):
@@ -190,7 +192,16 @@ def group_docs() -> dict[str, list[Path]]:
 
 
 def default_sidebar() -> str:
-    return '<div class="brand">Thunder Brainstorm</div><p class="side-note">Local document server</p><a class="side-link" href="/">Index</a>'
+    return '<div class="brand">Thunder Brainstorm</div><p class="side-note">Local document server</p><a class="side-link" href="/">Index</a><a class="side-link" href="/gallery/fleshpunk-maze">Fleshpunk Gallery</a>'
+
+
+def gallery_page(raw_slug: str) -> Path:
+    if not re.fullmatch(r"[a-z0-9][a-z0-9-]{0,79}", raw_slug):
+        raise ValueError("invalid gallery slug")
+    path = (GENERATED / "galleries" / raw_slug / "index.html").resolve()
+    if not path.is_relative_to(GENERATED) or not path.is_file():
+        raise FileNotFoundError(raw_slug)
+    return path
 
 
 def layout(title: str, body: str, sidebar: str = "") -> bytes:
@@ -243,7 +254,7 @@ pre {{ white-space:pre-wrap; overflow-wrap:anywhere; background:#202a30; color:#
 def render_index() -> bytes:
     groups = group_docs()
     cards = []
-    order = ["Page Assets", "Project Links", "Session Learnings", "Manual Source Refs", "Game Stubs", "Assets", "Source Packets", "Release Packets", "Skills", "Corpus Indexes", "Cauldron", "Pattern Data", "Orientation", "Generated"]
+    order = ["Galleries", "Page Assets", "Project Links", "Session Learnings", "Manual Source Refs", "Game Stubs", "Assets", "Source Packets", "Release Packets", "Skills", "Corpus Indexes", "Cauldron", "Pattern Data", "Orientation", "Generated"]
     for group in order:
         docs = groups.get(group, [])
         if not docs:
@@ -461,6 +472,10 @@ class Handler(BaseHTTPRequestHandler):
             if parsed.path == "/" or parsed.path == "/index.html" or parsed.path.startswith("/doc/"):
                 self.send_head_only()
                 return
+            if parsed.path.startswith("/gallery/"):
+                page = gallery_page(parsed.path[len("/gallery/"):])
+                self.send_head_only(length=page.stat().st_size)
+                return
             if parsed.path.startswith("/raw/"):
                 path = safe_path(parsed.path[len("/raw/"):])
                 guessed = mimetypes.guess_type(path.name)[0]
@@ -483,6 +498,9 @@ class Handler(BaseHTTPRequestHandler):
             if parsed.path == "/" or parsed.path == "/index.html":
                 self.send_bytes(render_index())
                 return
+            if parsed.path.startswith("/gallery/"):
+                self.send_bytes(gallery_page(parsed.path[len("/gallery/"):]).read_bytes())
+                return
             if parsed.path.startswith("/doc/"):
                 query = parse_qs(parsed.query).get("q", [""])[0]
                 self.send_bytes(render_doc(parsed.path[len("/doc/"):], query=query))
@@ -498,7 +516,7 @@ class Handler(BaseHTTPRequestHandler):
         except FileNotFoundError as exc:
             self.send_bytes(layout("Not Found", f"<h1>Not Found</h1><p>{esc(exc)}</p>"), status=404)
             return
-        except (TimeoutError, socket.timeout):
+        except (TimeoutError, socket.timeout, ConnectionResetError, BrokenPipeError):
             return
         except Exception as exc:
             self.send_bytes(layout("Server Error", f"<h1>Server Error</h1><pre>{esc(type(exc).__name__ + ': ' + str(exc))}</pre>"), status=500)

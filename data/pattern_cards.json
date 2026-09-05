@@ -1255,6 +1255,75 @@
         "dynamic_upgrade_note",
         "drone_branch_additive_traits"
       ]
+    },
+    {
+      "id": "authored_graph_to_scalar_mass",
+      "kind": "structure",
+      "name": "Authored graph to scalar mass",
+      "summary": "Start from a semantic anchor-and-connector graph, then turn it into a scalar field whose carved void and outer shell both inherit that authored structure.",
+      "usable_when": [
+        "procedural level massing",
+        "cave interiors",
+        "floating ruins",
+        "3D traversal spaces"
+      ],
+      "ingredients": [
+        "anchor chambers",
+        "connector radii",
+        "shell constraint",
+        "field sampler",
+        "same-pass collision truth"
+      ],
+      "questions": [
+        "Which gameplay anchors deserve their own lobes?",
+        "Which connectors should read as throats versus galleries?",
+        "Does the visible mass still explain the route network?"
+      ],
+      "risks": [
+        "Semantic graph can disappear if carve noise dominates silhouette",
+        "If collision diverges from the shell the whole idea collapses"
+      ],
+      "source_signals": [
+        "scalar_field_layout",
+        "cave_shell",
+        "connector_radius",
+        "collision_triangles"
+      ]
+    },
+    {
+      "id": "inverted_lobe_bridge_field",
+      "kind": "geometry",
+      "name": "Inverted lobe and bridge field",
+      "summary": "Build a mass from separated lobe solids and explicit bridge solids, then sample it as one field so the result reads like a connected floating body rather than a stack of rooms.",
+      "usable_when": [
+        "voxel prototypes",
+        "stylized floating islands",
+        "inside-out cave masses",
+        "chunked terrain experiments"
+      ],
+      "ingredients": [
+        "separated centers",
+        "mst graph",
+        "extra edges",
+        "noisy tops",
+        "capsule bridges"
+      ],
+      "questions": [
+        "How far apart should lobes be before they stop reading as one object?",
+        "Which extra edges create memorable silhouette bridges?",
+        "How much noise is enough before the mass becomes mush?"
+      ],
+      "risks": [
+        "Too many edges create a tangled blob",
+        "Top noise can destroy landmark readability",
+        "Bridges can feel decorative unless they support real traversal"
+      ],
+      "source_signals": [
+        "mst_indices",
+        "bridge_strength",
+        "room_core_radius",
+        "chunked_voxel_world"
+      ]
     }
   ]
 }

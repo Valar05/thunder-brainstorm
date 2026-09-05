@@ -1,0 +1,27 @@
+{
+  "verified": [
+    {
+      "severity": "medium",
+      "path": "src/pose-lab.js",
+      "line": 3860,
+      "side": "RIGHT",
+      "issue": "Null dereference on `rightHand` when `handFkParent` is true but `rightHand` is null",
+      "impact": "If `config.parentMode === 'hand-fk'` is set but `config.handBone` resolves to a bone that cannot be found (rightHand === null), the guard at line 3831 (`if (!rightHand && !sourceSocket) return null`) only short-circuits when *both* are null. If `sourceSocket` is non-null and `rightHand` is null, execution reaches `else if (handFkParent) rightHand.add(root)` and throws a TypeError at runtime, crashing weapon proxy construction.",
+      "evidence": "Line 3831 (base): `if (!rightHand && !sourceSocket) return null;` — only guards the case where both are absent. Line 3860 (new): `else if (handFkParent) rightHand.add(root);` — unconditionally calls `.add()` on `rightHand`. The `meshyCharacter` profile sets `handBone: 'RightHand'` and no `sourceSocketBone`, so the current profile is safe, but the guard is not defensive for future callers.",
+      "recommendation": "Add a null check before the new branch: `else if (handFkParent && rightHand) rightHand.add(root); else if (handFkParent) { console.warn('hand-fk parentMode requires a valid handBone'); return null; }`. Alternatively, extend the early-return guard to also cover the `hand-fk` case: `if (!rightHand && !sourceSocket && !handFkParent) return null; if (handFkParent && !rightHand) return null;`.",
+      "confidence": "high"
+    },
+    {
+      "severity": "low",
+      "path": "tools/test_meshy_hand_fk_hilt_trace.mjs",
+      "line": 55,
+      "side": "RIGHT",
+      "issue": "Dead function `worldPosition` is defined but never called",
+      "impact": "Dead code increases maintenance surface and may confuse future readers into thinking it is part of the validation logic. No functional impact.",
+      "evidence": "Lines 55-58: `function worldPosition(THREE, node) { const out = new THREE.Vector3(); node.getWorldPosition(out); return out; }` — a search of the file shows this function is never invoked anywhere in the script.",
+      "recommendation": "Remove the unused `worldPosition` function, or replace the manual `localPointFromWorld` call with it if that was the original intent.",
+      "confidence": "high"
+    }
+  ],
+  "rejected": []
+}

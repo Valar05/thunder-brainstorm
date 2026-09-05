@@ -1,0 +1,1589 @@
+{
+  "repo": "Valar05/green-commander",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Voice-only procedural visual novel with local speech recognition and load-bearing romance missions.",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "green-commander",
+    "updatedAt": "2026-08-07T19:41:51Z",
+    "url": "https://github.com/Valar05/green-commander",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 22,
+  "selected_files": [
+    {
+      "path": "app/page.tsx",
+      "mode": "100644",
+      "sha": "2c92fd4b5d5a2a426e777b3ede87103fc833f680",
+      "size": 117,
+      "score": 216,
+      "reasons": [
+        "core runtime",
+        "runtime surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 117,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/app/page.tsx#L1",
+        "https://github.com/Valar05/green-commander/blob/main/app/page.tsx#L4"
+      ]
+    },
+    {
+      "path": "app/layout.tsx",
+      "mode": "100644",
+      "sha": "0d92aee1042521c5ba7e9b7bb0214160d20b1aa3",
+      "size": 696,
+      "score": 200,
+      "reasons": [
+        "app shell",
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 15,
+      "byte_count": 696,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L1",
+        "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L2",
+        "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L3",
+        "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L9",
+        "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L10",
+        "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L14"
+      ]
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "bd9b9e0c2c79b37a73db1bc58c0fa5535e8ae31c",
+      "size": 3785,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 100,
+      "byte_count": 3785,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/README.md#L24",
+        "https://github.com/Valar05/green-commander/blob/main/README.md#L27",
+        "https://github.com/Valar05/green-commander/blob/main/README.md#L32",
+        "https://github.com/Valar05/green-commander/blob/main/README.md#L34",
+        "https://github.com/Valar05/green-commander/blob/main/README.md#L37",
+        "https://github.com/Valar05/green-commander/blob/main/README.md#L38",
+        "https://github.com/Valar05/green-commander/blob/main/README.md#L39",
+        "https://github.com/Valar05/green-commander/blob/main/README.md#L41"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "f59dadd5fa14f3bc95a7790b44ae85f56506a9b6",
+      "size": 1514,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 1514,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "source_packet_generation",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/package.json#L12",
+        "https://github.com/Valar05/green-commander/blob/main/package.json#L13",
+        "https://github.com/Valar05/green-commander/blob/main/package.json#L17",
+        "https://github.com/Valar05/green-commander/blob/main/package.json#L25",
+        "https://github.com/Valar05/green-commander/blob/main/package.json#L26",
+        "https://github.com/Valar05/green-commander/blob/main/package.json#L27",
+        "https://github.com/Valar05/green-commander/blob/main/package.json#L35",
+        "https://github.com/Valar05/green-commander/blob/main/package.json#L36"
+      ]
+    },
+    {
+      "path": ".openai/hosting.json",
+      "mode": "100644",
+      "sha": "3692e9ba97de660cc545539abcc5ab13b94c8151",
+      "size": 91,
+      "score": 94,
+      "reasons": [
+        "hosting contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 91,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/.openai/hosting.json#L1",
+        "https://github.com/Valar05/green-commander/blob/main/.openai/hosting.json#L2",
+        "https://github.com/Valar05/green-commander/blob/main/.openai/hosting.json#L3",
+        "https://github.com/Valar05/green-commander/blob/main/.openai/hosting.json#L4",
+        "https://github.com/Valar05/green-commander/blob/main/.openai/hosting.json#L5"
+      ]
+    },
+    {
+      "path": "app/chatgpt-auth.ts",
+      "mode": "100644",
+      "sha": "a0ae2ed9a9771b5fc36a06af554a05c18b2a13b3",
+      "size": 2550,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 90,
+      "byte_count": 2550,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/app/chatgpt-auth.ts#L1",
+        "https://github.com/Valar05/green-commander/blob/main/app/chatgpt-auth.ts#L2",
+        "https://github.com/Valar05/green-commander/blob/main/app/chatgpt-auth.ts#L7",
+        "https://github.com/Valar05/green-commander/blob/main/app/chatgpt-auth.ts#L11",
+        "https://github.com/Valar05/green-commander/blob/main/app/chatgpt-auth.ts#L12",
+        "https://github.com/Valar05/green-commander/blob/main/app/chatgpt-auth.ts#L13",
+        "https://github.com/Valar05/green-commander/blob/main/app/chatgpt-auth.ts#L15",
+        "https://github.com/Valar05/green-commander/blob/main/app/chatgpt-auth.ts#L22"
+      ]
+    },
+    {
+      "path": "app/green-commander.tsx",
+      "mode": "100644",
+      "sha": "38a4c0065cdf8381782ad8bec1705b9c53e2266c",
+      "size": 34744,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 713,
+      "byte_count": 34744,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L1",
+        "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L3",
+        "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L4",
+        "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L6",
+        "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L7",
+        "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L8",
+        "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L9",
+        "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L10"
+      ]
+    },
+    {
+      "path": "app/globals.css",
+      "mode": "100644",
+      "sha": "ba8c06e34fbbae0c18eb3fbe021882bb11870704",
+      "size": 8725,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 73,
+      "byte_count": 8725,
+      "mechanics": []
+    },
+    {
+      "path": "tests/rendered-html.test.mjs",
+      "mode": "100644",
+      "sha": "11ec6299677592dbf52197652aea6b097c3f9d0e",
+      "size": 3547,
+      "score": 70,
+      "reasons": [
+        "test surface"
+      ],
+      "status": "fetched",
+      "line_count": 91,
+      "byte_count": 3547,
+      "mechanics": []
+    },
+    {
+      "path": "drizzle.config.ts",
+      "mode": "100644",
+      "sha": "c2b2f34376984744343453838ce66658ad9d9b6a",
+      "size": 148,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 148,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/drizzle.config.ts#L1"
+      ]
+    },
+    {
+      "path": "next.config.ts",
+      "mode": "100644",
+      "sha": "e9ffa3083ad279ecf95fd8eae59cb253e9a539c4",
+      "size": 133,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 133,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/next.config.ts#L1"
+      ]
+    },
+    {
+      "path": "tsconfig.json",
+      "mode": "100644",
+      "sha": "f3c29c5881cc0f7b13db03d6f9261a49333ab4d3",
+      "size": 739,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 739,
+      "mechanics": [
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/tsconfig.json#L7"
+      ]
+    },
+    {
+      "path": "vite.config.ts",
+      "mode": "100644",
+      "sha": "ae08f93676d3ba1a026104ec8774505bf8d6725e",
+      "size": 1697,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 59,
+      "byte_count": 1697,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/vite.config.ts#L1",
+        "https://github.com/Valar05/green-commander/blob/main/vite.config.ts#L2",
+        "https://github.com/Valar05/green-commander/blob/main/vite.config.ts#L3",
+        "https://github.com/Valar05/green-commander/blob/main/vite.config.ts#L4",
+        "https://github.com/Valar05/green-commander/blob/main/vite.config.ts#L11",
+        "https://github.com/Valar05/green-commander/blob/main/vite.config.ts#L15",
+        "https://github.com/Valar05/green-commander/blob/main/vite.config.ts#L43",
+        "https://github.com/Valar05/green-commander/blob/main/vite.config.ts#L44"
+      ]
+    },
+    {
+      "path": "worker/index.ts",
+      "mode": "100644",
+      "sha": "b3cd137862c517c1053481cf6efdf6dd4d423cdc",
+      "size": 1731,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 47,
+      "byte_count": 1731,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L2",
+        "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L3",
+        "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L6",
+        "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L10",
+        "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L18",
+        "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L22",
+        "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L35",
+        "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L36"
+      ]
+    },
+    {
+      "path": "build/sites-vite-plugin.ts",
+      "mode": "100644",
+      "sha": "26563fdd77ff1027eeb08917d15d733da79a560a",
+      "size": 1254,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 45,
+      "byte_count": 1254,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/build/sites-vite-plugin.ts#L1",
+        "https://github.com/Valar05/green-commander/blob/main/build/sites-vite-plugin.ts#L2",
+        "https://github.com/Valar05/green-commander/blob/main/build/sites-vite-plugin.ts#L3",
+        "https://github.com/Valar05/green-commander/blob/main/build/sites-vite-plugin.ts#L7",
+        "https://github.com/Valar05/green-commander/blob/main/build/sites-vite-plugin.ts#L28",
+        "https://github.com/Valar05/green-commander/blob/main/build/sites-vite-plugin.ts#L29",
+        "https://github.com/Valar05/green-commander/blob/main/build/sites-vite-plugin.ts#L30",
+        "https://github.com/Valar05/green-commander/blob/main/build/sites-vite-plugin.ts#L32"
+      ]
+    },
+    {
+      "path": "db/index.ts",
+      "mode": "100644",
+      "sha": "19b379900d94124b674f07ffe2dbba8f70bd8d6d",
+      "size": 423,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 13,
+      "byte_count": 423,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/db/index.ts#L1",
+        "https://github.com/Valar05/green-commander/blob/main/db/index.ts#L2",
+        "https://github.com/Valar05/green-commander/blob/main/db/index.ts#L3",
+        "https://github.com/Valar05/green-commander/blob/main/db/index.ts#L8"
+      ]
+    },
+    {
+      "path": "db/schema.ts",
+      "mode": "100644",
+      "sha": "d2dd83cd250ecaa6ac022559fc9640271f2b2dd5",
+      "size": 169,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 169,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "drizzle/meta/_journal.json",
+      "mode": "100644",
+      "sha": "4377507400414768c5915808bf080a1403cf6cb3",
+      "size": 61,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 61,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "examples/d1/app/api/notes/route.ts",
+      "mode": "100644",
+      "sha": "07f8318c3c290d68163e95aa3e170ad92a235f27",
+      "size": 1700,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 58,
+      "byte_count": 1700,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/examples/d1/app/api/notes/route.ts#L1",
+        "https://github.com/Valar05/green-commander/blob/main/examples/d1/app/api/notes/route.ts#L2",
+        "https://github.com/Valar05/green-commander/blob/main/examples/d1/app/api/notes/route.ts#L3",
+        "https://github.com/Valar05/green-commander/blob/main/examples/d1/app/api/notes/route.ts#L7",
+        "https://github.com/Valar05/green-commander/blob/main/examples/d1/app/api/notes/route.ts#L9",
+        "https://github.com/Valar05/green-commander/blob/main/examples/d1/app/api/notes/route.ts#L12",
+        "https://github.com/Valar05/green-commander/blob/main/examples/d1/app/api/notes/route.ts#L21",
+        "https://github.com/Valar05/green-commander/blob/main/examples/d1/app/api/notes/route.ts#L38"
+      ]
+    },
+    {
+      "path": "examples/d1/db/schema.ts",
+      "mode": "100644",
+      "sha": "7bb0c157110799b9b53c767517e0d192b7201f2e",
+      "size": 370,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 9,
+      "byte_count": 370,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/examples/d1/db/schema.ts#L1",
+        "https://github.com/Valar05/green-commander/blob/main/examples/d1/db/schema.ts#L2"
+      ]
+    },
+    {
+      "path": "next-env.d.ts",
+      "mode": "100644",
+      "sha": "c986d49faa6a311fc28b5c66f6b7155975007920",
+      "size": 189,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 189,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/next-env.d.ts#L1",
+        "https://github.com/Valar05/green-commander/blob/main/next-env.d.ts#L2"
+      ]
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "sha": "77498b78a66f40fd4c2daca452af0dfb7af1c416",
+      "size": 362529,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 10600,
+      "byte_count": 362529,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L11",
+        "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L19",
+        "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L20",
+        "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L21",
+        "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L29",
+        "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L30",
+        "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L31",
+        "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L32"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 2046,
+    "by_origin": {
+      "github": 2046
+    },
+    "by_project": {
+      "green-commander": 2046
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 790,
+      "text_console_runtime": 727,
+      "ai_pressure": 244,
+      "web_choice_player": 197,
+      "validation_pipeline": 174,
+      "pose_animation_tools": 53,
+      "tts_audio_pipeline": 42,
+      "vehicle_survival": 17,
+      "touch_lane_combat": 14,
+      "source_packet_generation": 14,
+      "writing_corpus_review": 9,
+      "delayed_consequences": 5,
+      "resource_upgrade_loop": 3,
+      "deck_pressure": 1
+    },
+    "examples": {
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/page.tsx",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import { GreenCommander } from \"./green-commander\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/page.tsx#L1"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/page.tsx",
+          "line": 4,
+          "symbol": "",
+          "evidence": "return <GreenCommander />;",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/page.tsx#L4"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/layout.tsx",
+          "line": 9,
+          "symbol": "",
+          "evidence": "title: \"Green Commander — A Voice-Only Visual Novel\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L9"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "Use SIWC for account pages, user-specific dashboards, saved records, and write",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 90,
+          "symbol": "Useful Commands",
+          "evidence": "## Useful Commands",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L90"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 1,
+          "symbol": "",
+          "evidence": "\"use client\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L1"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import * as THREE from \"three\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L3"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 4,
+          "symbol": "",
+          "evidence": "import { useEffect, useMemo, useRef, useState } from \"react\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L4"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/page.tsx",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import { GreenCommander } from \"./green-commander\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/page.tsx#L1"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/layout.tsx",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import type { Metadata } from \"next\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L1"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/layout.tsx",
+          "line": 2,
+          "symbol": "",
+          "evidence": "import { Geist_Mono, Space_Grotesk } from \"next/font/google\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L2"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/layout.tsx",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import \"./globals.css\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L3"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "import { headers } from \"next/headers\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "Import the ready-to-use helpers from `app/chatgpt-auth.ts` when the site needs",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 80,
+          "symbol": "",
+          "evidence": "those reserved paths. Routes that do not import and call the helper remain",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L80"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/chatgpt-auth.ts",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import { headers } from \"next/headers\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/chatgpt-auth.ts#L1"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/layout.tsx",
+          "line": 10,
+          "symbol": "",
+          "evidence": "description: \"A live procedural web visual novel where April is the wingman and romance carries the mission.\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L10"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/layout.tsx",
+          "line": 14,
+          "symbol": "",
+          "evidence": "return <html lang=\"en\"><body className={`${display.variable} ${mono.variable}`}>{children}</body></html>;",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/layout.tsx#L14"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "- Use `requireChatGPTUser(returnTo)` for server-rendered pages that should send",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "or enforce explicit server-side membership or allowlist checks.",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "Use SIWC for account pages, user-specific dashboards, saved records, and write",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "- `npm test`: build the starter and verify its rendered loading skeleton",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package.json",
+          "line": 12,
+          "symbol": "test",
+          "evidence": "\"test\": \"npm run build && node --test tests/rendered-html.test.mjs\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package.json#L12"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package.json",
+          "line": 40,
+          "symbol": "react-server-dom-webpack",
+          "evidence": "\"react-server-dom-webpack\": \"19.2.6\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package.json#L40"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `.openai/hosting.json` declares optional Sites D1 and R2 bindings",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- `examples/d1/` contains an optional D1 example surface",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Signed-in visitors receive both `oai-authenticated-user-id` and `oai-authenticated-user-email`. Private Sites require every visitor to sign in; public Sites may also have anonym...",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "The user ID is stable for the same user on the same Site and different across Sites. Email and name are intended for display or contact purposes.",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "`oai-authenticated-user-full-name` when the user's SIWC profile has a non-empty",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "`name` claim. The full-name value is percent-encoded UTF-8 and is accompanied by",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "`oai-authenticated-user-full-name-encoding: percent-encoded-utf-8`.",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "Treat the full name as optional and fall back to email when it is absent:",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L41"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "The user ID is stable for the same user on the same Site and different across Sites. Email and name are intended for display or contact purposes.",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "- Pass a same-origin relative `returnTo` path for the destination after sign-in",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "- `npm test`: build the starter and verify its rendered loading skeleton",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/chatgpt-auth.ts",
+          "line": 70,
+          "symbol": "",
+          "evidence": "if (url.origin !== \"https://app.local\") return \"/\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/chatgpt-auth.ts#L70"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 14,
+          "symbol": "",
+          "evidence": "type RecognitionEvent = { results: ArrayLike<RecognitionResult> };",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L14"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 52,
+          "symbol": "",
+          "evidence": "stage: \"The mission route dims. The private channel brightens.\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L52"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 295,
+          "symbol": "",
+          "evidence": "renderer.dispose();",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L295"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 298,
+          "symbol": "",
+          "evidence": "object.geometry.dispose();",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L298"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "or sign-out. The helper validates and safely encodes it.",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "Sites hosting platform's access policy controls for workspace-wide restrictions,",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package.json",
+          "line": 13,
+          "symbol": "lint",
+          "evidence": "\"lint\": \"eslint . --ignore-pattern dist --ignore-pattern .next\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package.json#L13"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package.json",
+          "line": 25,
+          "symbol": "@eslint/js",
+          "evidence": "\"@eslint/js\": \"9.39.4\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package.json#L25"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package.json",
+          "line": 26,
+          "symbol": "@next/eslint-plugin-next",
+          "evidence": "\"@next/eslint-plugin-next\": \"16.2.6\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package.json#L26"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package.json",
+          "line": 35,
+          "symbol": "eslint",
+          "evidence": "\"eslint\": \"9.39.4\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package.json#L35"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package.json",
+          "line": 36,
+          "symbol": "eslint-plugin-jsx-a11y",
+          "evidence": "\"eslint-plugin-jsx-a11y\": \"6.10.2\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package.json#L36"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package.json",
+          "line": 37,
+          "symbol": "eslint-plugin-react",
+          "evidence": "\"eslint-plugin-react\": \"7.37.5\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package.json#L37"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "README.md",
+          "line": 87,
+          "symbol": "",
+          "evidence": "Use SIWC for account pages, user-specific dashboards, saved records, and write",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/README.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 543,
+          "symbol": "",
+          "evidence": "setHeard(\"This browser shell blocks both speech service and raw microphone capture.\");",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L543"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 590,
+          "symbol": "",
+          "evidence": "setHeard(`Raw microphone report: ${error instanceof Error ? error.message : \"blocked\"}.`);",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L590"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 614,
+          "symbol": "",
+          "evidence": "const serviceBlocked = code === \"not-allowed\" || code === \"service-not-allowed\" || code === \"network\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L614"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 615,
+          "symbol": "",
+          "evidence": "const fatal = serviceBlocked || code === \"audio-capture\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L615"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 618,
+          "symbol": "",
+          "evidence": "setHeard(`Voice engine report: ${code}. ${serviceBlocked ? \"Switching April to the on-device ear.\" : fatal ? \"Raw microphone capture is unavailable.\" : \"April is recovering the ...",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L618"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 619,
+          "symbol": "",
+          "evidence": "if (serviceBlocked) window.setTimeout(startLocalEar, 120);",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L619"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "vite.config.ts",
+          "line": 11,
+          "symbol": "",
+          "evidence": "// macOS Seatbelt blocks FSEvents, so Codex previews need polling for HMR.",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/vite.config.ts#L11"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package.json",
+          "line": 17,
+          "symbol": "@huggingface/transformers",
+          "evidence": "\"@huggingface/transformers\": \"^4.2.0\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package.json#L17"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 568,
+          "symbol": "",
+          "evidence": "const transformers = await import(\"@huggingface/transformers\");",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L568"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 569,
+          "symbol": "",
+          "evidence": "transformers.env.allowLocalModels = false;",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L569"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 571,
+          "symbol": "",
+          "evidence": "transcriber.current = await transformers.pipeline(\"automatic-speech-recognition\", \"Xenova/whisper-tiny.en\", {",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L571"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 578,
+          "symbol": "",
+          "evidence": "transcriber.current = await transformers.pipeline(\"automatic-speech-recognition\", \"Xenova/whisper-tiny.en\", {",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L578"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "worker/index.ts",
+          "line": 10,
+          "symbol": "",
+          "evidence": "transform(options: Record<string, unknown>): {",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L10"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "worker/index.ts",
+          "line": 36,
+          "symbol": "",
+          "evidence": "transformImage: async (body, { width, format, quality }) => {",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L36"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "worker/index.ts",
+          "line": 37,
+          "symbol": "",
+          "evidence": "const result = await env.IMAGES.input(body).transform(width > 0 ? { width } : {}).output({ format, quality });",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/worker/index.ts#L37"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package.json",
+          "line": 38,
+          "symbol": "eslint-plugin-react-hooks",
+          "evidence": "\"eslint-plugin-react-hooks\": \"7.1.1\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package.json#L38"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 419,
+          "symbol": "",
+          "evidence": "echoCancellation: true,",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L419"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package-lock.json",
+          "line": 32,
+          "symbol": "eslint-plugin-react-hooks",
+          "evidence": "\"eslint-plugin-react-hooks\": \"7.1.1\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L32"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package-lock.json",
+          "line": 5615,
+          "symbol": "node_modules/eslint-plugin-react-hooks",
+          "evidence": "\"node_modules/eslint-plugin-react-hooks\": {",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L5615"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package-lock.json",
+          "line": 5617,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/eslint-plugin-react-hooks/-/eslint-plugin-react-hooks-7.1.1.tgz\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L5617"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 6,
+          "symbol": "",
+          "evidence": "type Speaker = \"APRIL\" | \"ALPHA\" | \"COMMAND\" | \"GREEN COMMANDER\";",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L6"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 9,
+          "symbol": "",
+          "evidence": "type StoryNode = { act: string; speaker: Speaker; text: string; stage: string; choices: Choice[] };",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L9"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 11,
+          "symbol": "",
+          "evidence": "type Transcriber = (audio: Float32Array, options?: { language?: string; task?: string }) => Promise<{ text?: string }>;",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L11"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 30,
+          "symbol": "",
+          "evidence": "speaker: \"APRIL\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L30"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 40,
+          "symbol": "",
+          "evidence": "speaker: \"APRIL\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L40"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 50,
+          "symbol": "",
+          "evidence": "speaker: \"APRIL\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L50"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 59,
+          "symbol": "",
+          "evidence": "speaker: \"ALPHA\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L59"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 69,
+          "symbol": "",
+          "evidence": "speaker: \"ALPHA\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L69"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 60,
+          "symbol": "",
+          "evidence": "text: \"There is a canyon east of the marked advance. Command calls it impassable. I can make it a road, but only if Green Commander trusts my pace more than their clock. Do you ...",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L60"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 63,
+          "symbol": "",
+          "evidence": "{ label: \"I TRUST YOU\", phrases: [\"i trust you\", \"take your road\", \"alpha i trust you\"], to: \"promise\", effects: { romance: 18, trust: 22, mission: 8, exposure: 9 } },",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L63"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 70,
+          "symbol": "",
+          "evidence": "text: \"Because April already found the lie in command's fuel report. Because my route spends distance instead of the crew. Because I want a future in which Green Commander is no...",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L70"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 73,
+          "symbol": "",
+          "evidence": "{ label: \"TAKE YOUR ROAD\", phrases: [\"take your road\", \"i trust you\", \"we go together\"], to: \"promise\", effects: { romance: 20, trust: 18, mission: 10, exposure: 8 } },",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L73"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 90,
+          "symbol": "",
+          "evidence": "text: \"Copy. Command's road is shorter on paper. Alpha has gone quiet, and the route just lost the one person willing to contradict the clock. April can still reopen the private...",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L90"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 100,
+          "symbol": "",
+          "evidence": "text: \"Contact. Command is ordering speed. Alpha is ordering patience. The bridge will hold one synchronized crossing. Green Commander must choose whose voice becomes the road.\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L100"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 103,
+          "symbol": "",
+          "evidence": "{ label: \"FOLLOW ALPHA\", phrases: [\"follow alpha\", \"alpha has the road\", \"trust alpha\"], to: \"resolve_alpha\", effects: { romance: 12, trust: 14, mission: 18, exposure: 7 } },",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L103"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 669,
+          "symbol": "",
+          "evidence": "<div className=\"character-label\"><small>ROMANCE / MISSION PARTNER</small><strong>ALPHA</strong><span>He holds the road because Green Commander gives him an after.</span></div>",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L669"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 70,
+          "symbol": "",
+          "evidence": "text: \"Because April already found the lie in command's fuel report. Because my route spends distance instead of the crew. Because I want a future in which Green Commander is no...",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L70"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 122,
+          "symbol": "",
+          "evidence": "stage: \"April braids the public report around the private truth and leaves both retrievable.\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L122"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 160,
+          "symbol": "",
+          "evidence": "act: \"ENDING / CLEAN REPORT\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L160"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 163,
+          "symbol": "",
+          "evidence": "stage: \"COMMAND ROUTE: COMPLETE. THE GAME REMEMBERS WHAT THE REPORT REMOVED.\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L163"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 471,
+          "symbol": "",
+          "evidence": "const chunks: Blob[] = [];",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L471"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 475,
+          "symbol": "",
+          "evidence": "instance.ondataavailable = (event) => { if (event.data.size) chunks.push(event.data); };",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L475"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 490,
+          "symbol": "",
+          "evidence": "const encoded = await new Blob(chunks, { type: instance.mimeType }).arrayBuffer();",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L490"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "app/green-commander.tsx",
+          "line": 590,
+          "symbol": "",
+          "evidence": "setHeard(`Raw microphone report: ${error instanceof Error ? error.message : \"blocked\"}.`);",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/app/green-commander.tsx#L590"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package-lock.json",
+          "line": 1487,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-oahGvuMGQlPw/ivIYBjVSrWAfWLBeku5tpPE2fOPLi+WHffIWbuh2tCjhyQhTBPMf5E9jDEH4FOmTYgYwbKwtQ==\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L1487"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package-lock.json",
+          "line": 3081,
+          "symbol": "meshoptimizer",
+          "evidence": "\"meshoptimizer\": \"~1.1.1\"",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L3081"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package-lock.json",
+          "line": 7369,
+          "symbol": "node_modules/meshoptimizer",
+          "evidence": "\"node_modules/meshoptimizer\": {",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L7369"
+        },
+        {
+          "origin": "github",
+          "project": "green-commander",
+          "repo": "Valar05/green-commander",
+          "path": "package-lock.json",
+          "line": 7371,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/meshoptimizer/-/meshoptimizer-1.1.1.tgz\",",
+          "source_url": "https://github.com/Valar05/green-commander/blob/main/package-lock.json#L7371"
+        }
+      ]
+    }
+  }
+}

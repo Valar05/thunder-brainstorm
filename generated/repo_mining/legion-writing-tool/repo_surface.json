@@ -1,0 +1,1836 @@
+{
+  "repo": "Valar05/legion-writing-tool",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Local-first Android/Termux writing tool",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "legion-writing-tool",
+    "updatedAt": "2026-06-15T20:55:48Z",
+    "url": "https://github.com/Valar05/legion-writing-tool",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "048df49ff28cfc711f9a27ea5f0b7faed2cb4e01",
+      "size": 7096,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 145,
+      "byte_count": 7096,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L10",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L11",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L12",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L17",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L18",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L19"
+      ]
+    },
+    {
+      "path": "installer/README.md",
+      "mode": "100644",
+      "sha": "5bddb4e5e1fc38e59949b97135e0ddfad01a0b9c",
+      "size": 1890,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 65,
+      "byte_count": 1890,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L10",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L15",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L17",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L23",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L29"
+      ]
+    },
+    {
+      "path": "tools/legion_audiobook_sample.py",
+      "mode": "100644",
+      "sha": "7a18dc6b94c1c86051ad4eea860ee67162d0d81c",
+      "size": 20692,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 524,
+      "byte_count": 20692,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L2",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L10"
+      ]
+    },
+    {
+      "path": "docs/architecture.md",
+      "mode": "100644",
+      "sha": "974410c3bbf4187b5195dfb92c54c471d377a804",
+      "size": 7273,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 138,
+      "byte_count": 7273,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/docs/architecture.md#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/docs/architecture.md#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/docs/architecture.md#L11",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/docs/architecture.md#L13",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/docs/architecture.md#L14",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/docs/architecture.md#L15",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/docs/architecture.md#L16",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/docs/architecture.md#L24"
+      ]
+    },
+    {
+      "path": "tools/corpus_tool.py",
+      "mode": "100644",
+      "sha": "f6a97a33f5dc281e3e2be250d3e06b92beed13c6",
+      "size": 18201,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 478,
+      "byte_count": 18201,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L2",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L10"
+      ]
+    },
+    {
+      "path": "tools/legion_cli.py",
+      "mode": "100644",
+      "sha": "7e152a629abb94319894f7a3f91e2ab5f7f2b2c5",
+      "size": 24287,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 644,
+      "byte_count": 24287,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_cli.py#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_cli.py#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_cli.py#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_cli.py#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_cli.py#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_cli.py#L10",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_cli.py#L11",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_cli.py#L12"
+      ]
+    },
+    {
+      "path": "tools/legion_review_agent.py",
+      "mode": "100644",
+      "sha": "3d29cc82028b2783310ab62fe04350541c80d914",
+      "size": 29080,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 742,
+      "byte_count": 29080,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_review_agent.py#L2",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_review_agent.py#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_review_agent.py#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_review_agent.py#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_review_agent.py#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_review_agent.py#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_review_agent.py#L10",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_review_agent.py#L11"
+      ]
+    },
+    {
+      "path": "tools/legion_session_web.py",
+      "mode": "100644",
+      "sha": "ce006dff7aebc706cd840f115c366b918c0dc226",
+      "size": 31332,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 821,
+      "byte_count": 31332,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_session_web.py#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_session_web.py#L2",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_session_web.py#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_session_web.py#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_session_web.py#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_session_web.py#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_session_web.py#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_session_web.py#L10"
+      ]
+    },
+    {
+      "path": "tools/web_app.py",
+      "mode": "100644",
+      "sha": "3b2e0934eae707024360d013b8c37efb59f7b53d",
+      "size": 33977,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 888,
+      "byte_count": 33977,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/web_app.py#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/web_app.py#L2",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/web_app.py#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/web_app.py#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/web_app.py#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/web_app.py#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/web_app.py#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/tools/web_app.py#L10"
+      ]
+    },
+    {
+      "path": "workspace/audiobook_sample/tts_manifest.json",
+      "mode": "100644",
+      "sha": "8c1a111b85a6e38655fd6e838d460836b441e521",
+      "size": 25309,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 533,
+      "byte_count": 25309,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_manifest.json#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_manifest.json#L2",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_manifest.json#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_manifest.json#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_manifest.json#L5",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_manifest.json#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_manifest.json#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "workspace/audiobook_sample/tts_script.json",
+      "mode": "100644",
+      "sha": "8f4035cff25f61c9cbb30512026cf9e02fb8d805",
+      "size": 54225,
+      "score": 16,
+      "reasons": [
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1313,
+      "byte_count": 54225,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_script.json#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_script.json#L2",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_script.json#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_script.json#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_script.json#L5",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_script.json#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_script.json#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/audiobook_sample/tts_script.json#L8"
+      ]
+    },
+    {
+      "path": "workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md",
+      "mode": "100644",
+      "sha": "4d1bf121b4c606136b3130a20d4bf105a077c678",
+      "size": 9379,
+      "score": 16,
+      "reasons": [
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 129,
+      "byte_count": 9379,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L5",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L11",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L13",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L14"
+      ]
+    },
+    {
+      "path": "workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/answer.md",
+      "mode": "100644",
+      "sha": "865d4b5770b8ff80366e7f5649becba88bf97027",
+      "size": 831,
+      "score": 16,
+      "reasons": [
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7,
+      "byte_count": 831,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/answer.md#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/answer.md#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/answer.md#L5",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/answer.md#L7"
+      ]
+    },
+    {
+      "path": "workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md",
+      "mode": "100644",
+      "sha": "544d8502dd26ef6116ce30b9662f93d5aa15c1f9",
+      "size": 3860,
+      "score": 16,
+      "reasons": [
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 88,
+      "byte_count": 3860,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md#L11",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md#L13"
+      ]
+    },
+    {
+      "path": "workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json",
+      "mode": "100644",
+      "sha": "ea7c059036758d2ca1084693e4451a67c8b8829c",
+      "size": 22536,
+      "score": 16,
+      "reasons": [
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 559,
+      "byte_count": 22536,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json#L2",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json#L5",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json#L8"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "sha": "892a0610a18a6cb4b19799887cb480bfa76a63a8",
+      "size": 1408,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 19,
+      "byte_count": 1408,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/AGENTS.md#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/AGENTS.md#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/AGENTS.md#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/AGENTS.md#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/AGENTS.md#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/AGENTS.md#L10",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/AGENTS.md#L11",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/AGENTS.md#L12"
+      ]
+    },
+    {
+      "path": "session_static/app.js",
+      "mode": "100644",
+      "sha": "c5ef56e579e637d89ce1fa77bab623cb16bb9cda",
+      "size": 23078,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 617,
+      "byte_count": 23078,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/session_static/app.js#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/session_static/app.js#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/session_static/app.js#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/session_static/app.js#L17",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/session_static/app.js#L21",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/session_static/app.js#L26",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/session_static/app.js#L45",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/session_static/app.js#L46"
+      ]
+    },
+    {
+      "path": "static/app.js",
+      "mode": "100644",
+      "sha": "a38a2dc07f836bd958f0faf4fd67874f575b8775",
+      "size": 15224,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 416,
+      "byte_count": 15224,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/static/app.js#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/static/app.js#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/static/app.js#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/static/app.js#L13",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/static/app.js#L17",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/static/app.js#L26",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/static/app.js#L27",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/static/app.js#L28"
+      ]
+    },
+    {
+      "path": "workspace/agent_context/active.md",
+      "mode": "100644",
+      "sha": "c637cd0ff13f6747ebe10230da7aa679d89a49f0",
+      "size": 493,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 10,
+      "byte_count": 493,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/active.md#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/active.md#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/active.md#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/active.md#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/active.md#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/active.md#L10"
+      ]
+    },
+    {
+      "path": "workspace/agent_context/compacted.md",
+      "mode": "100644",
+      "sha": "67732df54903840b706424e13c23595c516936b4",
+      "size": 27,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2,
+      "byte_count": 27,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "workspace/agent_context/memory.md",
+      "mode": "100644",
+      "sha": "839c32bb93f18609835e884931d8888f5d46d536",
+      "size": 4856,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 30,
+      "byte_count": 4856,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/memory.md#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/memory.md#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/memory.md#L5",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/memory.md#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/memory.md#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/memory.md#L10",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/memory.md#L12",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/memory.md#L14"
+      ]
+    },
+    {
+      "path": "workspace/agent_context/project.md",
+      "mode": "100644",
+      "sha": "9c00a3f6fa50cbdd35fad4f7563aec55cb4f220c",
+      "size": 1068,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 1068,
+      "mechanics": [
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/project.md#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/project.md#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/project.md#L8",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/project.md#L10",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/project.md#L12",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/project.md#L14",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/project.md#L15",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/project.md#L16"
+      ]
+    },
+    {
+      "path": "workspace/agent_runs/20260530-122835-smoke-test/prompt.md",
+      "mode": "100644",
+      "sha": "3526a73d708b822eabaf1743936fa8710dab2956",
+      "size": 1305,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 40,
+      "byte_count": 1305,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/prompt.md#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/prompt.md#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/prompt.md#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/prompt.md#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/prompt.md#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/prompt.md#L9",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/prompt.md#L10",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/prompt.md#L12"
+      ]
+    },
+    {
+      "path": "workspace/agent_runs/20260530-122835-smoke-test/status.json",
+      "mode": "100644",
+      "sha": "02e1ef4fbe0b4f431700c09ea2d6020c5e04bc51",
+      "size": 400,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 14,
+      "byte_count": 400,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/status.json#L1",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/status.json#L2",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/status.json#L3",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/status.json#L4",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/status.json#L5",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/status.json#L6",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/status.json#L7",
+        "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_runs/20260530-122835-smoke-test/status.json#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 5756,
+    "by_origin": {
+      "github": 5756
+    },
+    "by_project": {
+      "legion-writing-tool": 5756
+    },
+    "by_mechanic": {
+      "tts_audio_pipeline": 2460,
+      "web_choice_player": 2406,
+      "writing_corpus_review": 971,
+      "asset_import_pipeline": 868,
+      "source_packet_generation": 568,
+      "ai_pressure": 436,
+      "pose_animation_tools": 171,
+      "delayed_consequences": 161,
+      "text_console_runtime": 150,
+      "validation_pipeline": 60,
+      "touch_lane_combat": 6,
+      "deck_pressure": 6,
+      "resource_upgrade_loop": 4,
+      "vehicle_survival": 2
+    },
+    "examples": {
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Local-first writing corpus tools for Android/Termux.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The first pass is a command-line corpus importer and analyzer. It treats copied RTF files as manually uploaded source documents, preserves immutable originals, extracts plain te...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python tools/corpus_tool.py import *.rtf",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "python tools/corpus_tool.py scan",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "python tools/corpus_tool.py search \"Eve voice\" --limit 5",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- `workspace/db/corpus.sqlite3`: local full-text corpus index.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "Open `http://127.0.0.1:8765` on the device. The UI can browse the corpus, save nondestructive drafts, run Codex, edit persistent project context, compact previous runs, and show...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 122,
+          "symbol": "",
+          "evidence": "Codex now treats the Review Expert as an internal tool. For corpus critique, repetition cleanup, drift/lost-material analysis, or passage revision, the normal chat can choose to...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L122"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The first pass is a command-line corpus importer and analyzer. It treats copied RTF files as manually uploaded source documents, preserves immutable originals, extracts plain te...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "Useful commands inside the prompt:",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 88,
+          "symbol": "",
+          "evidence": "The wrapper now streams Codex JSON events while a turn is running. The terminal shows public agent state such as session start, agent updates, command/tool activity, turn comple...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L88"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 106,
+          "symbol": "",
+          "evidence": "- upload/import document button at the top",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L106"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 110,
+          "symbol": "",
+          "evidence": "- Send, Stop, New Session, and Read Summary buttons",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L110"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 140,
+          "symbol": "",
+          "evidence": "Android cannot silently install Termux and run shell commands inside it from a normal web page or file. Install official Termux first, then run:",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L140"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "installer/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Android will not let a normal web page or file silently install Termux and then run commands inside it. The minimal reliable installer is therefore two-stage:",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/legion_audiobook_sample.py",
+          "line": 506,
+          "symbol": "",
+          "evidence": "parser = argparse.ArgumentParser(description=__doc__)",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L506"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The first pass is a command-line corpus importer and analyzer. It treats copied RTF files as manually uploaded source documents, preserves immutable originals, extracts plain te...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `workspace/text/`: extracted plain text used for analysis.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "3. Add lost-material detection by matching older chunks against newer chunks.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "speak Speak the last summary again.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "copy Copy the last answer to clipboard if available.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 128,
+          "symbol": "",
+          "evidence": "With `--claude auto`, the review agent sends the packet to Claude only when the request benefits from prose-specialist revision and `ANTHROPIC_API_KEY` plus `ANTHROPIC_MODEL` ar...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L128"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "installer/README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "Avoid the Google Play build for this project. Termux maintainers still list F-Droid and GitHub as the official release sources, and the Play Store build has different behavior a...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "installer/README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "Secrets such as `OPENAI_API_KEY` and `ANTHROPIC_API_KEY` belong in `~/.bashrc`, not in this repo.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L65"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The first pass is a command-line corpus importer and analyzer. It treats copied RTF files as manually uploaded source documents, preserves immutable originals, extracts plain te...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "python tools/corpus_tool.py import *.rtf",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `workspace/originals/`: immutable imported source files, grouped by content hash.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "4. Add a local FastAPI server and mobile web UI for import, search, reports, and review.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 106,
+          "symbol": "",
+          "evidence": "- upload/import document button at the top",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L106"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 122,
+          "symbol": "",
+          "evidence": "Codex now treats the Review Expert as an internal tool. For corpus critique, repetition cleanup, drift/lost-material analysis, or passage revision, the normal chat can choose to...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L122"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 130,
+          "symbol": "",
+          "evidence": "`sh legion-session` and `sh legion` source `$HOME/.bashrc` through Bash, then load `workspace/config/legion.env`. Keep secrets such as `ANTHROPIC_API_KEY` in `.bashrc`; keep non...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L130"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "installer/README.md",
+          "line": 8,
+          "symbol": "Correct Termux Source",
+          "evidence": "## Correct Termux Source",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L8"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The first pass is a command-line corpus importer and analyzer. It treats copied RTF files as manually uploaded source documents, preserves immutable originals, extracts plain te...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `workspace/originals/`: immutable imported source files, grouped by content hash.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `inventory.md`: document sizes, extracted text locations, original locations.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "copy Copy the last answer to clipboard if available.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 128,
+          "symbol": "",
+          "evidence": "With `--claude auto`, the review agent sends the packet to Claude only when the request benefits from prose-specialist revision and `ANTHROPIC_API_KEY` plus `ANTHROPIC_MODEL` ar...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L128"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/legion_audiobook_sample.py",
+          "line": 61,
+          "symbol": "",
+          "evidence": "\"delivery\": \"male, controlled, distracted, clipped under pressure\",",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L61"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/legion_audiobook_sample.py",
+          "line": 138,
+          "symbol": "",
+          "evidence": "marker = '\"You know, this is supposed to be our honeymoon'",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L138"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/legion_audiobook_sample.py",
+          "line": 172,
+          "symbol": "",
+          "evidence": "if q.startswith(\"good evening\") or q.startswith(\"my apologies\") or q.startswith(\"of course\") or \"would you like me\" in q:",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L172"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The first pass is a command-line corpus importer and analyzer. It treats copied RTF files as manually uploaded source documents, preserves immutable originals, extracts plain te...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "4. Add a local FastAPI server and mobile web UI for import, search, reports, and review.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "Web UI",
+          "evidence": "## Web UI",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "Start the local Android/Termux web app:",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "python tools/web_app.py --host 127.0.0.1 --port 8765",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "Open `http://127.0.0.1:8765` on the device. The UI can browse the corpus, save nondestructive drafts, run Codex, edit persistent project context, compact previous runs, and show...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 86,
+          "symbol": "",
+          "evidence": "The wrapper saves each run under `workspace/cli_runs/`, writes a short `summary.txt`, stores the full answer as `answer.md`, and uses `termux-tts-speak` for concise spoken statu...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L86"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 90,
+          "symbol": "Minimal Codex Session Web App",
+          "evidence": "## Minimal Codex Session Web App",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L90"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The first pass is a command-line corpus importer and analyzer. It treats copied RTF files as manually uploaded source documents, preserves immutable originals, extracts plain te...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `workspace/originals/`: immutable imported source files, grouped by content hash.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `workspace/reports/`: generated Markdown reports.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 22,
+          "symbol": "Reports",
+          "evidence": "## Reports",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `inventory.md`: document sizes, extracted text locations, original locations.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- `repetition.md`: repeated phrases and repeated sentences.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `version_drift.md`: draft-to-draft word deltas and rough textual similarity.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "1. Add explicit draft ordering metadata so version drift is based on known draft lineage rather than file timestamps.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L30"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "5. Add nondestructive proposal folders for critique plans, diffs, accepted changes, and TTS summaries.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "copy Copy the last answer to clipboard if available.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 86,
+          "symbol": "",
+          "evidence": "The wrapper saves each run under `workspace/cli_runs/`, writes a short `summary.txt`, stores the full answer as `answer.md`, and uses `termux-tts-speak` for concise spoken statu...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L86"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 88,
+          "symbol": "",
+          "evidence": "The wrapper now streams Codex JSON events while a turn is running. The terminal shows public agent state such as session start, agent updates, command/tool activity, turn comple...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L88"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 113,
+          "symbol": "",
+          "evidence": "- short Termux TTS summaries, not full log narration",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L113"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/legion_audiobook_sample.py",
+          "line": 1,
+          "symbol": "",
+          "evidence": "#!/usr/bin/env python3",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L1"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/legion_audiobook_sample.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "\"\"\"Build and optionally generate a small Final chapter-1 audiobook sample.\"\"\"",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/legion_audiobook_sample.py",
+          "line": 4,
+          "symbol": "",
+          "evidence": "from __future__ import annotations",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L4"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "Open `http://127.0.0.1:8765` on the device. The UI can browse the corpus, save nondestructive drafts, run Codex, edit persistent project context, compact previous runs, and show...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 46,
+          "symbol": "Agent Memory",
+          "evidence": "## Agent Memory",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "Codex runs receive these memory layers:",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "- `workspace/agent_context/project.md`: stable project memory editable in the UI.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "- `workspace/agent_context/memory.md`: learned memories generated from structured JSONL entries.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "During a run, Codex can append durable memory candidates to `workspace/agent_context/memory_inbox.jsonl` or `workspace/agent_runs/<run_id>/memory.jsonl`. The backend ingests the...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "memory Print learned project memory.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 115,
+          "symbol": "",
+          "evidence": "- memory/context display",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L115"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 134,
+          "symbol": "",
+          "evidence": "A two-stage Android/Termux bootstrap lives under `installer/`:",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L134"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 137,
+          "symbol": "",
+          "evidence": "- `installer/bootstrap-termux.sh`: Termux-side setup script that installs `git`, `nodejs`, `python`, `termux-api`, and the configurable Codex npm package, then copies the projec...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L137"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "README.md",
+          "line": 144,
+          "symbol": "",
+          "evidence": "sh ~/storage/documents/GodotProjects/legion-writing-tool/installer/bootstrap-termux.sh --start",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/README.md#L144"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "installer/README.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "2. Open Termux and run `installer/bootstrap-termux.sh` to install packages, copy this project into Termux home, and create launchers.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "installer/README.md",
+          "line": 17,
+          "symbol": "One-Time Bootstrap",
+          "evidence": "## One-Time Bootstrap",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "installer/README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "sh ~/storage/documents/GodotProjects/legion-writing-tool/installer/bootstrap-termux.sh",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "installer/README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "LEGION_PROJECT_SRC=/sdcard/path/to/legion-writing-tool sh /sdcard/path/to/legion-writing-tool/installer/bootstrap-termux.sh",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "installer/README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "sh ~/storage/documents/GodotProjects/legion-writing-tool/installer/bootstrap-termux.sh --start",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/installer/README.md#L35"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/legion_audiobook_sample.py",
+          "line": 209,
+          "symbol": "",
+          "evidence": "if after_clean.startswith((\"kamal greeted\", \"kamal continued\", \"kamal offered\", \"kamal paused\")):",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_audiobook_sample.py#L209"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md",
+          "line": 87,
+          "symbol": "The shopping/drive scene changes who repairs the mood",
+          "evidence": "### The shopping/drive scene changes who repairs the mood",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L87"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md",
+          "line": 89,
+          "symbol": "",
+          "evidence": "In OG, Isaac contributes to the good mood: he has snacks/beverages ready after shopping, and the car ride includes tequila, joints, snacks, and loud music. Evidence: `workspace/...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L89"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md",
+          "line": 115,
+          "symbol": "",
+          "evidence": "- The emotional function: this should be the first concrete proof that Isaac can still choose Stasya, even if the next morning undermines it.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L115"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/corpus_tool.py",
+          "line": 43,
+          "symbol": "",
+          "evidence": "\"par\": \"\\n\", \"line\": \"\\n\", \"tab\": \"\\t\", \"emdash\": \"--\", \"endash\": \"-\",",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L43"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/corpus_tool.py",
+          "line": 79,
+          "symbol": "",
+          "evidence": "for block in iter(lambda: f.read(1024 * 1024), b\"\"):",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L79"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/corpus_tool.py",
+          "line": 80,
+          "symbol": "",
+          "evidence": "h.update(block)",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L80"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/web_app.py",
+          "line": 537,
+          "symbol": "",
+          "evidence": "- For longer work, write brief public progress notes to workspace/agent_runs/{run_id}/progress.md. These should be status updates, decisions, files inspected, files changed, and...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/web_app.py#L537"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md",
+          "line": 103,
+          "symbol": "",
+          "evidence": "Editorial judgment: if V3 is used as source material, do not copy the whole veranda block forward without deduping.",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L103"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "session_static/app.js",
+          "line": 274,
+          "symbol": "",
+          "evidence": "if (options.scroll && active) active.scrollIntoView({ block: 'start', behavior: 'smooth' });",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/session_static/app.js#L274"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/corpus_tool.py",
+          "line": 360,
+          "symbol": "",
+          "evidence": "lines.append(\"No high-frequency five-word phrases found at the current threshold.\")",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L360"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/corpus_tool.py",
+          "line": 368,
+          "symbol": "",
+          "evidence": "lines.append(\"No repeated full sentences found at the current threshold.\")",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/corpus_tool.py#L368"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "tools/legion_review_agent.py",
+          "line": 482,
+          "symbol": "",
+          "evidence": "lines.append(\"- No high-frequency repeated phrases found at this threshold.\")",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/tools/legion_review_agent.py#L482"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "`Copy of Vacation, V2` sets up the jacuzzi during the veranda reveal: wide deck, jacuzzi nestled into the structure, and Lady framing it as exclusive/private. Evidence: `workspa...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/cli_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/chapter1_content_drift.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json",
+          "line": 164,
+          "symbol": "detail",
+          "evidence": "\"detail\": \"/bin/sh -lc 'rg -n -i \\\"hot tub|hottub|jacuzzi|spa|deck|tequila|bottle|private lounge|home for the next month|Lady guided|Welcome to your VIP\\\" workspace/text/*.txt'\",",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json#L164"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json",
+          "line": 172,
+          "symbol": "detail",
+          "evidence": "\"detail\": \"/bin/sh -lc 'rg -n -i \\\"hot tub|hottub|jacuzzi|spa|deck|tequila|bottle|private lounge|home for the next month|Lady guided|Welcome to your VIP\\\" workspace/text/*.txt'\",",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/status.json#L172"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "The preferred user-facing interface is now `tools/legion_session_web.py`, launched with `sh legion-session --host 127.0.0.1 --port 8787`. It is intentionally thin: prompt input,...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/session_web_runs/20260530-131452-analyze-content-drift-in-chapter-1-between-version/prompt.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "legion-writing-tool",
+          "repo": "Valar05/legion-writing-tool",
+          "path": "workspace/agent_context/project.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "The preferred user-facing interface is now `tools/legion_session_web.py`, launched with `sh legion-session --host 127.0.0.1 --port 8787`. It is intentionally thin: prompt input,...",
+          "source_url": "https://github.com/Valar05/legion-writing-tool/blob/main/workspace/agent_context/project.md#L21"
+        }
+      ]
+    }
+  }
+}

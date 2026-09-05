@@ -1,0 +1,2060 @@
+{
+  "repo": "Valar05/nightmare-voyage",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "nightmare-voyage",
+    "updatedAt": "2026-06-20T22:48:19Z",
+    "url": "https://github.com/Valar05/nightmare-voyage",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "audio/README.md",
+      "mode": "100644",
+      "sha": "a3e6c2bb13291e2b9d40bfec07366570976af604",
+      "size": 213,
+      "score": 124,
+      "reasons": [
+        "root readme",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 213,
+      "mechanics": [
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/audio/README.md#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/audio/README.md#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/audio/README.md#L5"
+      ]
+    },
+    {
+      "path": "generated/corpus/README.md",
+      "mode": "100644",
+      "sha": "65fb16817d4fadd47b918b67dfaad37a089b3e2e",
+      "size": 930,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 930,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L5",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L11",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L13",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L15"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "dae8f3889799ebeb9b613811d2f7ead15d663fef",
+      "size": 3972,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 89,
+      "byte_count": 3972,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L5",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L17",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L18",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L19",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L20",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L21"
+      ]
+    },
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "a0be5b56128ca6460e4f1b34879e3f6bb1c3d60a",
+      "size": 790,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 790,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/project.godot#L13",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/project.godot#L18",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/project.godot#L22",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/project.godot#L35",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/project.godot#L37"
+      ]
+    },
+    {
+      "path": "tools/tts_manifest.py",
+      "mode": "100644",
+      "sha": "6ae3dd63f8186bd0cdade99a734a79defce27cb7",
+      "size": 23003,
+      "score": 92,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 628,
+      "byte_count": 23003,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L2",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L4",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L10"
+      ]
+    },
+    {
+      "path": "tools/tts_audio_smoke.gd",
+      "mode": "100644",
+      "sha": "1a5f906cbe6bebdc9bed9380a63a186472f8a3dc",
+      "size": 1725,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 67,
+      "byte_count": 1725,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_audio_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_audio_smoke.gd#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_audio_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_audio_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_audio_smoke.gd#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_audio_smoke.gd#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_audio_smoke.gd#L10",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_audio_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/story_state_override_smoke.gd",
+      "mode": "100644",
+      "sha": "190e1ee7452125ddb5abd5f72aa37d0b0da4a4eb",
+      "size": 1367,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 40,
+      "byte_count": 1367,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/story_state_override_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/story_state_override_smoke.gd#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/story_state_override_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/story_state_override_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/story_state_override_smoke.gd#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/story_state_override_smoke.gd#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/story_state_override_smoke.gd#L11",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/story_state_override_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/tts_audio_smoke.gd.uid",
+      "mode": "100644",
+      "sha": "2872f8c7365c18aeb5dd44b814bca2b0b851a5d6",
+      "size": 20,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "tools/story_state_override_smoke.gd.uid",
+      "mode": "100644",
+      "sha": "6fd08153552096e8f5f68c04e7af58b6fd5d7d58",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "helper tooling",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "tools/SCENARIO_AGENT.md",
+      "mode": "100644",
+      "sha": "1c63d0e90a066d7bf5d95cccb2b752149ff9b4e3",
+      "size": 6858,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 183,
+      "byte_count": 6858,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L13",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L24",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L27",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L30",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L33",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L36"
+      ]
+    },
+    {
+      "path": "tools/amar_creepstride_smoke.gd",
+      "mode": "100644",
+      "sha": "d7fae5c60fc9b209b4c0dab9926786dfd4a8b2d3",
+      "size": 3134,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 78,
+      "byte_count": 3134,
+      "mechanics": [
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/amar_creepstride_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/amar_creepstride_smoke.gd#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/amar_creepstride_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/amar_creepstride_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/amar_creepstride_smoke.gd#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/amar_creepstride_smoke.gd#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/amar_creepstride_smoke.gd#L10",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/amar_creepstride_smoke.gd#L11"
+      ]
+    },
+    {
+      "path": "tools/brined_lifeboat_followup_smoke.gd",
+      "mode": "100644",
+      "sha": "16f5fc636038065f2315e78dcbf65802a640fdef",
+      "size": 3772,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 104,
+      "byte_count": 3772,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/brined_lifeboat_followup_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/brined_lifeboat_followup_smoke.gd#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/brined_lifeboat_followup_smoke.gd#L5",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/brined_lifeboat_followup_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/brined_lifeboat_followup_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/brined_lifeboat_followup_smoke.gd#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/brined_lifeboat_followup_smoke.gd#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/brined_lifeboat_followup_smoke.gd#L10"
+      ]
+    },
+    {
+      "path": "tools/cadence_and_endings_smoke.gd",
+      "mode": "100644",
+      "sha": "b9ef493e3a71bc414baa6b6021562a07c831d4a9",
+      "size": 3167,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 84,
+      "byte_count": 3167,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L10",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L11",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/corpus_agent.py",
+      "mode": "100644",
+      "sha": "afbcfe159c24dad8c18fcbd1194d00fc42ef1ab4",
+      "size": 82298,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1571,
+      "byte_count": 82298,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L2",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L4",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L10"
+      ]
+    },
+    {
+      "path": "tools/director_smoke.gd",
+      "mode": "100644",
+      "sha": "694d478c30ba8361379243c9a541081a1f879dd4",
+      "size": 4577,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 139,
+      "byte_count": 4577,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/director_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/director_smoke.gd#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/director_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/director_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/director_smoke.gd#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/director_smoke.gd#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/director_smoke.gd#L11",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/director_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/flow_smoke.gd",
+      "mode": "100644",
+      "sha": "09cfb1d67f46b9f0116760c3e43f1185f057db1e",
+      "size": 1951,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 1951,
+      "mechanics": [
+        "ai_pressure",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/flow_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/flow_smoke.gd#L4",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/flow_smoke.gd#L5",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/flow_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/flow_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/flow_smoke.gd#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/flow_smoke.gd#L10",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/flow_smoke.gd#L11"
+      ]
+    },
+    {
+      "path": "tools/integrate_room_candidate.py",
+      "mode": "100644",
+      "sha": "5710ae005949619231281f3f729654b19a60dc96",
+      "size": 7687,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 207,
+      "byte_count": 7687,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/integrate_room_candidate.py#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/integrate_room_candidate.py#L2",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/integrate_room_candidate.py#L4",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/integrate_room_candidate.py#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/integrate_room_candidate.py#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/integrate_room_candidate.py#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/integrate_room_candidate.py#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/integrate_room_candidate.py#L12"
+      ]
+    },
+    {
+      "path": "tools/lifeboat_thread_smoke.gd",
+      "mode": "100644",
+      "sha": "070cf0efa29e754fb989056cad8f9c905437bd66",
+      "size": 2019,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 58,
+      "byte_count": 2019,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/lifeboat_thread_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/lifeboat_thread_smoke.gd#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/lifeboat_thread_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/lifeboat_thread_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/lifeboat_thread_smoke.gd#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/lifeboat_thread_smoke.gd#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/lifeboat_thread_smoke.gd#L10",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/lifeboat_thread_smoke.gd#L11"
+      ]
+    },
+    {
+      "path": "tools/mechanics_agent.py",
+      "mode": "100644",
+      "sha": "d5ab7c5186052479f68ea2efa71abb6a8c54062e",
+      "size": 28838,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 681,
+      "byte_count": 28838,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/mechanics_agent.py#L2",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/mechanics_agent.py#L4",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/mechanics_agent.py#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/mechanics_agent.py#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/mechanics_agent.py#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/mechanics_agent.py#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/mechanics_agent.py#L10",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/mechanics_agent.py#L11"
+      ]
+    },
+    {
+      "path": "tools/new_character_arcs_smoke.gd",
+      "mode": "100644",
+      "sha": "558b06ec00c7d18d2a964751515b96df26c46acf",
+      "size": 3652,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 103,
+      "byte_count": 3652,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/new_character_arcs_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/new_character_arcs_smoke.gd#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/new_character_arcs_smoke.gd#L5",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/new_character_arcs_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/new_character_arcs_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/new_character_arcs_smoke.gd#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/new_character_arcs_smoke.gd#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/new_character_arcs_smoke.gd#L10"
+      ]
+    },
+    {
+      "path": "tools/nightmare_claude_tools.py",
+      "mode": "100644",
+      "sha": "055046b4561fb41699c703335d213661e1297f4d",
+      "size": 45974,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 988,
+      "byte_count": 45974,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/nightmare_claude_tools.py#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/nightmare_claude_tools.py#L2",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/nightmare_claude_tools.py#L4",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/nightmare_claude_tools.py#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/nightmare_claude_tools.py#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/nightmare_claude_tools.py#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/nightmare_claude_tools.py#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/nightmare_claude_tools.py#L10"
+      ]
+    },
+    {
+      "path": "tools/operation_resolver_smoke.gd",
+      "mode": "100644",
+      "sha": "4d49f9fd15356fb1cffaaf6f7a6484ce717b6472",
+      "size": 2164,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 66,
+      "byte_count": 2164,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/operation_resolver_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/operation_resolver_smoke.gd#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/operation_resolver_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/operation_resolver_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/operation_resolver_smoke.gd#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/operation_resolver_smoke.gd#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/operation_resolver_smoke.gd#L11",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/operation_resolver_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/post_update_room_smoke.gd",
+      "mode": "100644",
+      "sha": "80c2fee0b358aad7fee954d9238969f0452739fd",
+      "size": 1874,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 1874,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/post_update_room_smoke.gd#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/post_update_room_smoke.gd#L3",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/post_update_room_smoke.gd#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/post_update_room_smoke.gd#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/post_update_room_smoke.gd#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/post_update_room_smoke.gd#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/post_update_room_smoke.gd#L11",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/post_update_room_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/project_bootstrap.py",
+      "mode": "100644",
+      "sha": "f0df238282c6f3e5cc03b2762d9289d38bf9d0e6",
+      "size": 26569,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 667,
+      "byte_count": 26569,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/project_bootstrap.py#L1",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/project_bootstrap.py#L2",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/project_bootstrap.py#L4",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/project_bootstrap.py#L6",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/project_bootstrap.py#L7",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/project_bootstrap.py#L8",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/project_bootstrap.py#L9",
+        "https://github.com/Valar05/nightmare-voyage/blob/main/tools/project_bootstrap.py#L10"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 4663,
+    "by_origin": {
+      "github": 4663
+    },
+    "by_project": {
+      "nightmare-voyage": 4663
+    },
+    "by_mechanic": {
+      "source_packet_generation": 2409,
+      "validation_pipeline": 1362,
+      "text_console_runtime": 848,
+      "asset_import_pipeline": 799,
+      "tts_audio_pipeline": 609,
+      "delayed_consequences": 358,
+      "ai_pressure": 345,
+      "web_choice_player": 312,
+      "pose_animation_tools": 179,
+      "deck_pressure": 123,
+      "writing_corpus_review": 74,
+      "resource_upgrade_loop": 53,
+      "touch_lane_combat": 21,
+      "vehicle_survival": 20,
+      "event_clouds": 18
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "audio/README.md",
+          "line": 1,
+          "symbol": "Nightmare Voyage Audio",
+          "evidence": "# Nightmare Voyage Audio",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/audio/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "audio/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "TTS audio from the legacy project was not copied.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/audio/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "audio/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Keep the project text-first until the first Nightmare Voyage vertical slice is accepted, then regenerate audio from the new event text.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/audio/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- TTS audio files were intentionally not copied. Regenerate audio only after the first Nightmare Voyage text slice is accepted.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 1,
+          "symbol": "",
+          "evidence": "#!/usr/bin/env python3",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L1"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "\"\"\"Build, audit, and generate phrase-sized TTS clips for Nightmare Voyage.\"\"\"",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 4,
+          "symbol": "",
+          "evidence": "from __future__ import annotations",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L4"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 6,
+          "symbol": "",
+          "evidence": "import argparse",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L6"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 1,
+          "symbol": "Public-Domain Inspiration Corpus",
+          "evidence": "# Public-Domain Inspiration Corpus",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Each text was acquired from Project Gutenberg from an eBook page that identifies the work as public domain in the USA. The raw files keep the Project Gutenberg header and licens...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "See `public_domain_sources.json` for title, author, eBook number, source page, download URL, local file path, and Fleshpunk fit notes.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Public-domain Verne/Lovecraft corpus files were copied into `generated/corpus/`.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/corpus_agent.py",
+          "line": 20,
+          "symbol": "",
+          "evidence": "SOURCES_PATH = CORPUS_DIR / \"public_domain_sources.json\"",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L20"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/corpus_agent.py",
+          "line": 309,
+          "symbol": "",
+          "evidence": "\"id\": \"sealed_vessel_pressure_domain\",",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L309"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/corpus_agent.py",
+          "line": 312,
+          "symbol": "",
+          "evidence": "\"source_circumstance\": \"A sealed vessel survives a hostile pressure domain through compartments, apparatus, and command discipline.\",",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L312"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/corpus_agent.py",
+          "line": 313,
+          "symbol": "",
+          "evidence": "\"room_seed\": \"An intercepted vessel or ship subsystem behaves like a pressure domain with legible apparatus but alien priorities.\",",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L313"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 1,
+          "symbol": "Public-Domain Inspiration Corpus",
+          "evidence": "# Public-Domain Inspiration Corpus",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder contains raw Project Gutenberg source texts for private/local inspiration and extraction tooling.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "These files are not runtime game content. Use them to extract motifs, structures, character functions, pressure patterns, and transformed Fleshpunk concepts. Do not paste source...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 7,
+          "symbol": "Sourcing Rule",
+          "evidence": "## Sourcing Rule",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Each text was acquired from Project Gutenberg from an eBook page that identifies the work as public domain in the USA. The raw files keep the Project Gutenberg header and licens...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "If distributing the raw corpus, follow the Project Gutenberg license/trademark terms included in each text. If distributing only transformed game content, keep transformations o...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 13,
+          "symbol": "Files",
+          "evidence": "## Files",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "See `public_domain_sources.json` for title, author, eBook number, source page, download URL, local file path, and Fleshpunk fit notes.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L15"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 1,
+          "symbol": "Public-Domain Inspiration Corpus",
+          "evidence": "# Public-Domain Inspiration Corpus",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder contains raw Project Gutenberg source texts for private/local inspiration and extraction tooling.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Each text was acquired from Project Gutenberg from an eBook page that identifies the work as public domain in the USA. The raw files keep the Project Gutenberg header and licens...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "See `public_domain_sources.json` for title, author, eBook number, source page, download URL, local file path, and Fleshpunk fit notes.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The goal is to keep the working Godot/text-choice/OpenAI-agent stack, but retarget the creative surface and room structure:",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Verne inside the ship: procedure, compartments, pressure, repairs, route calculation, crew work, instruments, constrained resources.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- Lovecraft outside the airlock: old evidence, impossible signals, contaminated records, alien ruins, pressure on perception, dread by accumulation.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- Main scene is still `res://world.tscn`.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L17"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder contains raw Project Gutenberg source texts for private/local inspiration and extraction tooling.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "These files are not runtime game content. Use them to extract motifs, structures, character functions, pressure patterns, and transformed Fleshpunk concepts. Do not paste source...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Each text was acquired from Project Gutenberg from an eBook page that identifies the work as public domain in the USA. The raw files keep the Project Gutenberg header and licens...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "If distributing the raw corpus, follow the Project Gutenberg license/trademark terms included in each text. If distributing only transformed game content, keep transformations o...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "See `public_domain_sources.json` for title, author, eBook number, source page, download URL, local file path, and Fleshpunk fit notes.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Verne inside the ship: procedure, compartments, pressure, repairs, route calculation, crew work, instruments, constrained resources.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- `run_manager.gd`: resource counters, action handlers, deck construction, delayed follow-ups.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 1,
+          "symbol": "",
+          "evidence": "#!/usr/bin/env python3",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L1"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Each text was acquired from Project Gutenberg from an eBook page that identifies the work as public domain in the USA. The raw files keep the Project Gutenberg header and licens...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "- `ship_dashboard.gd`: console UI, renamed from the inherited Fleshpunk dashboard script.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 231,
+          "symbol": "",
+          "evidence": "add(f\"Barrier blocked {value}.\")",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L231"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 232,
+          "symbol": "",
+          "evidence": "add(f\"Armor blocked {value}.\")",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L232"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 432,
+          "symbol": "",
+          "evidence": "block_align = 2",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L432"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 444,
+          "symbol": "",
+          "evidence": "+ block_align.to_bytes(2, \"little\")",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L444"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/corpus_agent.py",
+          "line": 83,
+          "symbol": "",
+          "evidence": "\"pursuit_or_hunt\": [\"pursuit\", \"hunt\", \"chase\", \"attack\", \"enemy\", \"monster\", \"beast\", \"track\"],",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L83"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/corpus_agent.py",
+          "line": 130,
+          "symbol": "",
+          "evidence": "\"pressure_system\": [\"vent_red_split\", \"push_through_spikes\", \"break_spike_lane\"],",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L130"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "If distributing the raw corpus, follow the Project Gutenberg license/trademark terms included in each text. If distributing only transformed game content, keep transformations o...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "- `.agent-memory/nightmare_voyage_setting_backbone.md`: setting and progression backbone.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "project.godot",
+          "line": 13,
+          "symbol": "",
+          "evidence": "compatibility/default_parent_skeleton_in_mesh_instance_3d=true",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/project.godot#L13"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "\"\"\"Build, audit, and generate phrase-sized TTS clips for Nightmare Voyage.\"\"\"",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 32,
+          "symbol": "",
+          "evidence": "\"Low, controlled field report. Clipped phrasing. Natural pacing. \"",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L32"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 48,
+          "symbol": "",
+          "evidence": "SYSTEM_CLIPS = [",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L48"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 76,
+          "symbol": "",
+          "evidence": "return value or \"clip\"",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L76"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 91,
+          "symbol": "clip_hash",
+          "evidence": "def clip_hash(clip: dict[str, Any]) -> str:",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L91"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "If distributing the raw corpus, follow the Project Gutenberg license/trademark terms included in each text. If distributing only transformed game content, keep transformations o...",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- The forward \"room\" unit is now a captain-facing encounter packet: detection, officer reports, captain authorization, operation result, and delayed ship/crew consequence.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "- `.agent-memory/hymn_corpus_voice.md`: still used by tooling, retargeted here as the ship-report voice guide.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 32,
+          "symbol": "",
+          "evidence": "\"Low, controlled field report. Clipped phrasing. Natural pacing. \"",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L32"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 51,
+          "symbol": "",
+          "evidence": "(\"system_status_header\", \"Status report.\"),",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L51"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 52,
+          "symbol": "",
+          "evidence": "(\"system_inventory_header\", \"Inventory report.\"),",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L52"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "Critique a patch or the current event file against the vibe guide:",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "python tools/scenario_agent.py critique --patch generated/scenario_patch.json --out generated/patch_critique.json",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L56"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "generated/corpus/README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "See `public_domain_sources.json` for title, author, eBook number, source page, download URL, local file path, and Fleshpunk fit notes.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/generated/corpus/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The goal is to keep the working Godot/text-choice/OpenAI-agent stack, but retarget the creative surface and room structure:",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- Runtime scripts, data loaders, command input, text console, combat fallback, follow-up scheduler, and scenario tooling were copied from Fleshpunk.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "- Choices change a ship system, crew state, route state, exposure state, or future signal/contamination pressure.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 88,
+          "symbol": "",
+          "evidence": "- The prose remains short enough for mobile text-choice play.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L88"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "project.godot",
+          "line": 22,
+          "symbol": "",
+          "evidence": "[autoload]",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/project.godot#L22"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "project.godot",
+          "line": 35,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/project.godot#L35"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "project.godot",
+          "line": 37,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/project.godot#L37"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The goal is to keep the working Godot/text-choice/OpenAI-agent stack, but retarget the creative surface and room structure:",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- Runtime scripts, data loaders, command input, text console, combat fallback, follow-up scheduler, and scenario tooling were copied from Fleshpunk.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- Fleshpunk room, event, deck, enemy, mutation, and symbiote data has been removed from the active data layer. New Nightmare Voyage content starts from scratch.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- The forward \"room\" unit is now a captain-facing encounter packet: detection, officer reports, captain authorization, operation result, and delayed ship/crew consequence.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "Build a 10-room vertical slice before broad conversion.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "- `world.gd`: presentation and command routing. Keep the text-first console loop.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "- `ship_dashboard.gd`: console UI, renamed from the inherited Fleshpunk dashboard script.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "- `room_dialogue.json`, `events.json`, `encounter_decks.json`: compatibility stubs only.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L57"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Verne inside the ship: procedure, compartments, pressure, repairs, route calculation, crew work, instruments, constrained resources.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- `repair`",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "python tools/project_bootstrap.py",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "python tools/corpus_agent.py validate generated/corpus/fleshpunk_seeds.json",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "\"\"\"Build, audit, and generate phrase-sized TTS clips for Nightmare Voyage.\"\"\"",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 328,
+          "symbol": "audit_manifest",
+          "evidence": "def audit_manifest(payload: dict[str, Any]) -> list[dict[str, str]]:",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L328"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 473,
+          "symbol": "cmd_audit",
+          "evidence": "def cmd_audit(args: argparse.Namespace) -> int:",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L473"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_manifest.py",
+          "line": 475,
+          "symbol": "",
+          "evidence": "findings = audit_manifest(manifest)",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_manifest.py#L475"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Verne inside the ship: procedure, compartments, pressure, repairs, route calculation, crew work, instruments, constrained resources.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- `run_manager.gd`: resource counters, action handlers, deck construction, delayed follow-ups.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_audio_smoke.gd",
+          "line": 37,
+          "symbol": "",
+          "evidence": "if not ResourceLoader.exists(clip_file) and not FileAccess.file_exists(clip_file):",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_audio_smoke.gd#L37"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/tts_audio_smoke.gd",
+          "line": 56,
+          "symbol": "",
+          "evidence": "if ResourceLoader.exists(clip_file):",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/tts_audio_smoke.gd#L56"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 10,
+          "symbol": "",
+          "evidence": "if str(opening.get(\"event_id\", \"\")) != \"symbiote_host_offer\":",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L10"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "push_error(\"Expected initial symbiote_host_offer; got %s.\" % str(opening.get(\"event_id\", \"\")))",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 31,
+          "symbol": "",
+          "evidence": "if str(next_encounter.get(\"event_id\", \"\")) == \"symbiote_host_offer\":",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L31"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 32,
+          "symbol": "",
+          "evidence": "push_error(\"Symbiote offer repeated after the initial opening choice.\")",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L32"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- Fleshpunk room, event, deck, enemy, mutation, and symbiote data has been removed from the active data layer. New Nightmare Voyage content starts from scratch.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- `run_manager.gd`: resource counters, action handlers, deck construction, delayed follow-ups.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "- `room_dialogue.json`, `events.json`, `encounter_decks.json`: compatibility stubs only.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "- `rooms_post_update.json`, `events_post_update.json`, `encounter_decks_post_update.json`: active Nightmare Voyage starter packet set.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "Rebuild spoken alias clouds across the current deck:",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends SceneTree",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "const RunManagerScript := preload(\"res://run_manager.gd\")",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/cadence_and_endings_smoke.gd",
+          "line": 6,
+          "symbol": "_init",
+          "evidence": "func _init() -> void:",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/cadence_and_endings_smoke.gd#L6"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- The forward \"room\" unit is now a captain-facing encounter packet: detection, officer reports, captain authorization, operation result, and delayed ship/crew consequence.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- `run_manager.gd`: resource counters, action handlers, deck construction, delayed follow-ups.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 59,
+          "symbol": "",
+          "evidence": "- `.agent-memory/content_strategy.md`: forward creative strategy.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L59"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "- `.agent-memory/hymn_corpus_voice.md`: still used by tooling, retargeted here as the ship-report voice guide.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 61,
+          "symbol": "",
+          "evidence": "- `.agent-memory/nightmare_voyage_brief.md`: foundational design brief.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L61"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "- `.agent-memory/nightmare_voyage_mechanics.md`: first-pass officer stress, operation plans, chance, and outcome machinery.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- `.agent-memory/nightmare_voyage_style.md`: compact style rules for this fork.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "- `.agent-memory/nightmare_voyage_setting_backbone.md`: setting and progression backbone.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L64"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "Build a 10-room vertical slice before broad conversion.",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/story_state_override_smoke.gd",
+          "line": 30,
+          "symbol": "",
+          "evidence": "if str(buttons[0].get(\"label\", \"\")) != \"Hold the count and slip\":",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/story_state_override_smoke.gd#L30"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/story_state_override_smoke.gd",
+          "line": 31,
+          "symbol": "",
+          "evidence": "push_error(\"Soft Captain override did not expose the authored slip option.\")",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/story_state_override_smoke.gd#L31"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Generate within a broad category:",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/SCENARIO_AGENT.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/corpus_agent.py",
+          "line": 130,
+          "symbol": "",
+          "evidence": "\"pressure_system\": [\"vent_red_split\", \"push_through_spikes\", \"break_spike_lane\"],",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L130"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/corpus_agent.py",
+          "line": 333,
+          "symbol": "",
+          "evidence": "\"refusing it costs fuel or certainty\"",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L333"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/corpus_agent.py",
+          "line": 335,
+          "symbol": "",
+          "evidence": "\"ship_state_hooks\": [\"navigation_certainty\", \"fuel\", \"oxygen\", \"doctrine\"],",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L335"
+        },
+        {
+          "origin": "github",
+          "project": "nightmare-voyage",
+          "repo": "Valar05/nightmare-voyage",
+          "path": "tools/corpus_agent.py",
+          "line": 443,
+          "symbol": "",
+          "evidence": "\"terms\": [\"pump\", \"bucket\", \"hold\", \"leak\", \"water\", \"hands\", \"crew\", \"watch\", \"tired\"],",
+          "source_url": "https://github.com/Valar05/nightmare-voyage/blob/main/tools/corpus_agent.py#L443"
+        }
+      ]
+    }
+  }
+}

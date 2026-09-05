@@ -1,0 +1,41 @@
+{
+  "schema": "thunder-brainstorm.external_source_manifest.v1",
+  "source_name": "Original Quake Map Sources",
+  "source_type": "GPL Quake .map source archive",
+  "source_page_url": "https://valvedev.info/tools/quake-map-sources-and-original-wads/",
+  "archive_repo_url": "https://code.nephatrine.net/QuakeArchive/quake-maps",
+  "download_url": "https://code.nephatrine.net/QuakeArchive/quake-maps/archive/master.zip",
+  "downloaded_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+  "downloaded_bytes": 2436372,
+  "sha256": "e292ad5b2e256cc39ca26e1163ddbf6f818f35a6b6a367443614cdeb259b3301",
+  "local_readme": "quake-maps/release_readme.txt",
+  "license_claim": "Valve Developer Union mirror states John Romero released the Quake map sources under the GPL; included release_readme says the files are original Quake map sources released by John Romero in October 2006.",
+  "rights_boundary": [
+    "Keep original .map archive under Thunder external_sources only.",
+    "Do not copy Quake geometry, map layouts, texture names as art direction, WADs, or compiled assets into Infinite Brutality.",
+    "Use only abstract route grammar, feature counts, and generator biases.",
+    "Generated Infinite Brutality rooms must be new layouts using project-owned art and mechanics."
+  ],
+  "ingest_result": {
+    "levels_processed": 63,
+    "playable_levels_trained": 41,
+    "prefab_or_item_sources_metadata_only": 22,
+    "templates_written": 41,
+    "feature_counts": {
+      "entity_vertical_pressure": 41,
+      "long_acceleration_lanes": 40,
+      "vertical_layering": 40,
+      "reward_breadcrumbing": 40,
+      "teleport_recontextualization": 38,
+      "lock_or_gate_pacing": 37,
+      "switch_route_change": 34,
+      "dense_combat_pressure": 32
+    },
+    "archetype_counts": {
+      "gate_loop_return": 34,
+      "layered_read": 6,
+      "vertical_bridge_line": 1
+    }
+  },
+  "generated_at_utc": "2026-06-09T02:11:37.339038+00:00"
+}

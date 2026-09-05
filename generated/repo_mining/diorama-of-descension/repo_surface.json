@@ -1,0 +1,1595 @@
+{
+  "repo": "Valar05/diorama-of-descension",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "diorama-of-descension",
+    "updatedAt": "2026-05-04T13:35:53Z",
+    "url": "https://github.com/Valar05/diorama-of-descension",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "f8267d25dda02e973b212107666d283a36faf084",
+      "size": 3844,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 94,
+      "byte_count": 3844,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L5",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L9",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L10",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L11",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L16",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L17",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L19",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L23"
+      ]
+    },
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "2df4d0611f647ca598542a2e2b5eeaa0f84d3003",
+      "size": 779,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 36,
+      "byte_count": 779,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L13",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L18",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L22",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L33",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L35",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L36"
+      ]
+    },
+    {
+      "path": "scripts/Slash3D.gdshader",
+      "mode": "100644",
+      "sha": "ad12aa1e5b3e9c15ed42054e701e1ce657076bc5",
+      "size": 2258,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 83,
+      "byte_count": 2258,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/Slash3D.gdshader.uid",
+      "mode": "100644",
+      "sha": "007a22a005d4d011ebc863546d3b6d1e778659e6",
+      "size": 19,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/SpriteShader.gdshader",
+      "mode": "100644",
+      "sha": "015846d4153109aecba5756041ae84ccde611c9f",
+      "size": 5885,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 148,
+      "byte_count": 5885,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/SpriteShader.gdshader.uid",
+      "mode": "100644",
+      "sha": "4fec9a46bc655aab3805f6307908a5adc74f955b",
+      "size": 20,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "docs/COMBAT.md",
+      "mode": "100644",
+      "sha": "d74c610fa2fa9f7bd8814286d2eacb5e56539e59",
+      "size": 4009,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 131,
+      "byte_count": 4009,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L3",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L11",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L14",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L15",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L16",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L19",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L21",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L23"
+      ]
+    },
+    {
+      "path": "scenes/Slash.gdshader",
+      "mode": "100644",
+      "sha": "8855a4e353331e3d6c0b6b706338b9162fe059ae",
+      "size": 913,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 913,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/Slash.gdshader.uid",
+      "mode": "100644",
+      "sha": "ec26fe5597402727ff590901f63960d8d8114c8e",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/ai_conductor.gd",
+      "mode": "100644",
+      "sha": "b99847ff13ce85199d72e73641fc930187f62f77",
+      "size": 11321,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 303,
+      "byte_count": 11321,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_conductor.gd#L1",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_conductor.gd#L3",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_conductor.gd#L4",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_conductor.gd#L5",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_conductor.gd#L6",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_conductor.gd#L7",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_conductor.gd#L8",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_conductor.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/ai_trace_logger.gd",
+      "mode": "100644",
+      "sha": "126a0ab3127e3ca21579c1d68d4724a22392ad59",
+      "size": 2726,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 98,
+      "byte_count": 2726,
+      "mechanics": [
+        "ai_pressure",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_trace_logger.gd#L1",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_trace_logger.gd#L3",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_trace_logger.gd#L4",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_trace_logger.gd#L5",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_trace_logger.gd#L6",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_trace_logger.gd#L8",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_trace_logger.gd#L9",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_trace_logger.gd#L10"
+      ]
+    },
+    {
+      "path": "scripts/create_polygon2d.gd",
+      "mode": "100644",
+      "sha": "86e7df85ddc3fafa6860999cfe3c7e7641de4306",
+      "size": 2582,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 108,
+      "byte_count": 2582,
+      "mechanics": [
+        "deck_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L13",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L37",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L38",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L53",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L59",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L70",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L74",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L81"
+      ]
+    },
+    {
+      "path": "scripts/hit_slow.gd",
+      "mode": "100644",
+      "sha": "1bd0bba8ebf2c9806c9f82e16567593f79c9b96c",
+      "size": 4768,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 116,
+      "byte_count": 4768,
+      "mechanics": [
+        "pose_animation_tools",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L14",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L19",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L36",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L54",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L63",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L87",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L90",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L93"
+      ]
+    },
+    {
+      "path": "scripts/joystick.gd",
+      "mode": "100644",
+      "sha": "c2a23c700e71ed20f7cd959684a57c701f5e7abb",
+      "size": 2305,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 74,
+      "byte_count": 2305,
+      "mechanics": [
+        "deck_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/joystick.gd#L5",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/joystick.gd#L13",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/joystick.gd#L27",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/joystick.gd#L28",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/joystick.gd#L29",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/joystick.gd#L37",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/joystick.gd#L44",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/joystick.gd#L52"
+      ]
+    },
+    {
+      "path": "scripts/melee_enemy.gd",
+      "mode": "100644",
+      "sha": "8afd5764c5a7661a5504b434e204c37317423d1a",
+      "size": 37966,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 983,
+      "byte_count": 37966,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L1",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L3",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L4",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L5",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L6",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L7",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L8",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/player.gd",
+      "mode": "100644",
+      "sha": "bfaabb60f0450ee6bf73a3f973e5ce61556997da",
+      "size": 113821,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2866,
+      "byte_count": 113821,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L1",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L6",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L16",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L18",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L19",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L20",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L22",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L23"
+      ]
+    },
+    {
+      "path": "scripts/ai_conductor.gd.uid",
+      "mode": "100644",
+      "sha": "0854948f21b002ef296b5b064f009f5a0dcd9892",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/ai_trace_logger.gd.uid",
+      "mode": "100644",
+      "sha": "405f7b64a2f97a446a6048b1c99cef632e1cc0bc",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/create_polygon2d.gd.uid",
+      "mode": "100644",
+      "sha": "5bbd469b3616987502cbeb8f7e9646378c141f3d",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/hit_slow.gd.uid",
+      "mode": "100644",
+      "sha": "418921778e843d9cadcf0e3aaef3383e3b1fa8c8",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/joystick.gd.uid",
+      "mode": "100644",
+      "sha": "b5d71a9bd2f555ae01585008e380e7aaa0591d8e",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/melee_enemy.gd.uid",
+      "mode": "100644",
+      "sha": "3dd64c1354840a371b83d009bd6a2f1eed8f8914",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/player.gd.uid",
+      "mode": "100644",
+      "sha": "d85e7ea42355ba1c790ff8e49ff43b5f24c27681",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "tools/enemy_facing_test.gd",
+      "mode": "100644",
+      "sha": "8583f0463e6956ff6cb9090fbf588239c564feca",
+      "size": 3287,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 85,
+      "byte_count": 3287,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-of-descension/blob/main/tools/enemy_facing_test.gd#L1",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/tools/enemy_facing_test.gd#L4",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/tools/enemy_facing_test.gd#L5",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/tools/enemy_facing_test.gd#L8",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/tools/enemy_facing_test.gd#L9",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/tools/enemy_facing_test.gd#L12",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/tools/enemy_facing_test.gd#L13",
+        "https://github.com/Valar05/diorama-of-descension/blob/main/tools/enemy_facing_test.gd#L14"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 2582,
+    "by_origin": {
+      "github": 2582
+    },
+    "by_project": {
+      "diorama-of-descension": 2582
+    },
+    "by_mechanic": {
+      "ai_pressure": 1444,
+      "touch_lane_combat": 1262,
+      "pose_animation_tools": 136,
+      "delayed_consequences": 75,
+      "deck_pressure": 33,
+      "web_choice_player": 29,
+      "asset_import_pipeline": 19,
+      "writing_corpus_review": 14,
+      "event_clouds": 11,
+      "resource_upgrade_loop": 9,
+      "validation_pipeline": 6,
+      "source_packet_generation": 5,
+      "tts_audio_pipeline": 4,
+      "vehicle_survival": 2,
+      "text_console_runtime": 1
+    },
+    "examples": {
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This repo is the Downloads copy that should be used for active work and editor import. It is the sibling project to Gravity Fist, but this one is the 2D/diorama branch.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Flat 2D sprite combat, not Blender-dependent.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 55,
+          "symbol": "Important Files",
+          "evidence": "## Important Files",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "project.godot",
+          "line": 36,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L36"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "Important state groups:",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 2244,
+          "symbol": "",
+          "evidence": "# IMPORTANT: treat input_vector as DIRECTION unless you *know* it contains magnitude",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L2244"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 2326,
+          "symbol": "",
+          "evidence": "var facing_source = \"none\"",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L2326"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 2336,
+          "symbol": "",
+          "evidence": "facing_source = \"slash\"",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L2336"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This repo is the Downloads copy that should be used for active work and editor import. It is the sibling project to Gravity Fist, but this one is the 2D/diorama branch.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "Use these from the Downloads copy:",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "- Use the Downloads copy for active work.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "project.godot",
+          "line": 22,
+          "symbol": "",
+          "evidence": "[autoload]",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L22"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "project.godot",
+          "line": 33,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L33"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "project.godot",
+          "line": 35,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L35"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This document is the fast orientation map for the combat code in the Downloads copy.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- The light attack string is loaded from `player_attacks.json`.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L23"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Character-action pacing with a combo string, dash attacks, parries, and launcher states.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- The player has a light attack string of 5 attacks.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- The 5th light attack is the downward slash, `SlashDown`.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- no combo in progress: `Launcher`",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- Hold during an active light attack buffers the heavy branch until that light attack finishes.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- The follow-up tap has its own generous input window after `Boot`, and it tolerates a slightly longer release than normal light-attack taps.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- Dash has a meter.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- When the dash meter is full, the next qualifying dash slash deals 2x standard attack damage.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L29"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Enemies should feel threatening through AI coordination, not just raw numbers.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Parry still kills the enemy on contact.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Parry bounce does not let the player pass through the enemy; it bounces the player back.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- The bounce follows the original dash course, not the enemy position.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "AI Direction",
+          "evidence": "## AI Direction",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- `scripts/ai_conductor.gd` coordinates enemy pressure and attack ownership.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "- `scripts/melee_enemy.gd` owns local enemy behavior, but it now obeys conductor control.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "- flee when wounded",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L46"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- Hold uses a `0.2s` activation threshold for the heavy branch.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Releasing after crossing that threshold still resolves the heavy branch, so late release does not drop `Boot`.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- The hold threshold is `0.2s` so `Boot` activates intentionally while staying responsive on mobile touch.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Releasing after crossing that hold threshold still counts, so late release does not drop the buffered `Boot` branch.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/create_polygon2d.gd",
+          "line": 108,
+          "symbol": "",
+          "evidence": "queue_redraw()",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L108"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/joystick.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "@export var hide_threshold: float = 2.0",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/joystick.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 963,
+          "symbol": "",
+          "evidence": "var stop_threshold := 5.0",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L963"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 975,
+          "symbol": "",
+          "evidence": "elif velocity.length() < stop_threshold:",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L975"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- The bounce follows the original dash course, not the enemy position.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Parry now triggers `SlashDown` immediately and suppresses the attack dash for that follow-up.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "project.godot",
+          "line": 13,
+          "symbol": "",
+          "evidence": "compatibility/default_parent_skeleton_in_mesh_instance_3d=true",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/project.godot#L13"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "- the bounce follows the original dash course, not enemy position",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/ai_conductor.gd",
+          "line": 125,
+          "symbol": "",
+          "evidence": "away = Vector2.RIGHT",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_conductor.gd#L125"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/ai_conductor.gd",
+          "line": 133,
+          "symbol": "",
+          "evidence": "away = Vector2.RIGHT",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/ai_conductor.gd#L133"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/create_polygon2d.gd",
+          "line": 13,
+          "symbol": "",
+          "evidence": "@export var center_on_origin: bool = true : set = _set_center_on_origin",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L13"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/create_polygon2d.gd",
+          "line": 37,
+          "symbol": "_set_center_on_origin",
+          "evidence": "func _set_center_on_origin(v: bool) -> void:",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/create_polygon2d.gd#L37"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- The bounce follows the original dash course, not the enemy position.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "- the bounce follows the original dash course, not enemy position",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "- This avoids wall-clock timing drift during attack delay windows.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/hit_slow.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "var _original_scene_pos := Vector2.ZERO",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L14"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/hit_slow.gd",
+          "line": 19,
+          "symbol": "",
+          "evidence": "@export var recenter_duration := 0.15 # seconds to lerp back to original position when overlapping shakes",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L19"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/hit_slow.gd",
+          "line": 36,
+          "symbol": "",
+          "evidence": "_scene_to_shake.position = _original_scene_pos",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L36"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/hit_slow.gd",
+          "line": 54,
+          "symbol": "",
+          "evidence": "_scene_to_shake.position = _recenter_start_pos.lerp(_original_scene_pos, rt)",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L54"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/hit_slow.gd",
+          "line": 63,
+          "symbol": "",
+          "evidence": "_scene_to_shake.position = _original_scene_pos + Vector2(ox, oy)",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/hit_slow.gd#L63"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 64,
+          "symbol": "Tests And Smoke Checks",
+          "evidence": "## Tests And Smoke Checks",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "sh tools/smoke_test_launch.sh",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "- If launch fails, run `tools/smoke_test_launch.sh` before doing anything else.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 112,
+          "symbol": "",
+          "evidence": "sh tools/smoke_test_launch.sh",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L112"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 131,
+          "symbol": "",
+          "evidence": "- If the project fails to boot, run the smoke test first.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L131"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 754,
+          "symbol": "",
+          "evidence": "# Restrict touch-based gameplay inputs to the right half of the screen.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L754"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "README.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "sh tools/parry_followup_test.sh",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/README.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- The follow-up tap uses `boot_followup_input_window`, separate from the normal light-combo reset, and accepts a slightly longer tap release than standard light-attack taps.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 116,
+          "symbol": "",
+          "evidence": "sh tools/parry_followup_test.sh",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L116"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 35,
+          "symbol": "",
+          "evidence": "var boot_followup_armed := false",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L35"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 36,
+          "symbol": "",
+          "evidence": "var boot_followup_use_multi := false",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L36"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 37,
+          "symbol": "",
+          "evidence": "var boot_followup_timer := 0.0",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L37"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 38,
+          "symbol": "",
+          "evidence": "var boot_followup_input_timer := 0.0",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L38"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 39,
+          "symbol": "",
+          "evidence": "var boot_followup_kind := \"\"",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L39"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "docs/COMBAT.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Hit reaction",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/docs/COMBAT.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 62,
+          "symbol": "",
+          "evidence": "# Hit reaction state",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L62"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 237,
+          "symbol": "",
+          "evidence": "# Build tween: ease out into pose, then ease back over hit reaction duration",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L237"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 544,
+          "symbol": "",
+          "evidence": "# Apply knockback/hit reaction for non-launcher hits regardless of current attack state",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L544"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 595,
+          "symbol": "",
+          "evidence": "# Hit reaction slide and facing",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L595"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 605,
+          "symbol": "",
+          "evidence": "# Face the player when knockback/hit reaction ends",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L605"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 183,
+          "symbol": "",
+          "evidence": "# Hit reaction state",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L183"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 1562,
+          "symbol": "",
+          "evidence": "# Hit reaction slide and facing",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L1562"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 140,
+          "symbol": "",
+          "evidence": "# skip its subtree entirely.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L140"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 841,
+          "symbol": "",
+          "evidence": "# Enemy is parryable for the entirety of the attacking state",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L841"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 216,
+          "symbol": "",
+          "evidence": "# Determine hit side relative to hitter (player)",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L216"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 574,
+          "symbol": "",
+          "evidence": "# Determine facing direction (NESW) towards the hitter",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L574"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 633,
+          "symbol": "",
+          "evidence": "# Determine facing direction (NESW) towards the hitter",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L633"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 842,
+          "symbol": "",
+          "evidence": "# Determine swipe direction",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L842"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 1384,
+          "symbol": "",
+          "evidence": "# Determine if cross slash should be used (must be declared before _spawn_slash call)",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L1384"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 1918,
+          "symbol": "",
+          "evidence": "# Determine current stick vector (direction * magnitude) if joystick present",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L1918"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 2105,
+          "symbol": "",
+          "evidence": "# Determine residual distance to original tap target (tap_position may be beyond our clamped target)",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L2105"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 2573,
+          "symbol": "",
+          "evidence": "# determine damage/intensity and knockback multiplier",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L2573"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 553,
+          "symbol": "",
+          "evidence": "# If this damage was caused by a launcher attack, start elevation wave",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L553"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 1348,
+          "symbol": "",
+          "evidence": "# Activate elevation wave for launcher: start timer and lock visuals",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L1348"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 1789,
+          "symbol": "",
+          "evidence": "# Tie elevation wave length to the current attack duration so it matches animation.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L1789"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 1851,
+          "symbol": "",
+          "evidence": "# finish elevation wave when timer exceeds effective duration AND we're back on ground height",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L1851"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 666,
+          "symbol": "",
+          "evidence": "if body and body.get_global_transform():",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L666"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/melee_enemy.gd",
+          "line": 667,
+          "symbol": "",
+          "evidence": "_dbg_global_scale = body.get_global_transform().get_scale()",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/melee_enemy.gd#L667"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 2680,
+          "symbol": "",
+          "evidence": "# Convert canvas rect corners to world coordinates using the viewport's canvas transform",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L2680"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 2694,
+          "symbol": "",
+          "evidence": "var inv = get_viewport().get_canvas_transform().affine_inverse()",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L2694"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 2695,
+          "symbol": "",
+          "evidence": "# Use operator * to transform point by Transform2D/CanvasTransform if available",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L2695"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "diorama-of-descension",
+          "repo": "Valar05/diorama-of-descension",
+          "path": "scripts/player.gd",
+          "line": 2373,
+          "symbol": "",
+          "evidence": "# tap vectors from biasing the facing choice toward X or Y.",
+          "source_url": "https://github.com/Valar05/diorama-of-descension/blob/main/scripts/player.gd#L2373"
+        }
+      ]
+    }
+  }
+}

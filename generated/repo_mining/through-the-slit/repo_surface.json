@@ -1,0 +1,1869 @@
+{
+  "repo": "Valar05/through-the-slit",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "A slit-view Three.js crossing of no man's land in the original war machine.",
+    "homepageUrl": "https://through-the-slit.dclarke1005.chatgpt.site",
+    "isPrivate": false,
+    "name": "through-the-slit",
+    "updatedAt": "2026-08-05T20:01:42Z",
+    "url": "https://github.com/Valar05/through-the-slit",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "app/page.tsx",
+      "mode": "100644",
+      "sha": "56a96b7a31bdab707517238d15ed67d1fbb142c4",
+      "size": 107,
+      "score": 216,
+      "reasons": [
+        "core runtime",
+        "runtime surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 107,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/page.tsx#L1"
+      ]
+    },
+    {
+      "path": "app/layout.tsx",
+      "mode": "100644",
+      "sha": "b789acd449c5e5a50b06debfb384039f68f9a53a",
+      "size": 996,
+      "score": 200,
+      "reasons": [
+        "app shell",
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 996,
+      "mechanics": [
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/layout.tsx#L1",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/layout.tsx#L2",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/layout.tsx#L3",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/layout.tsx#L41",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/layout.tsx#L47"
+      ]
+    },
+    {
+      "path": "public/voice/renee/README.md",
+      "mode": "100644",
+      "sha": "7d469a7f4fb77100f83c781e1186e2c3ef6d9e1d",
+      "size": 5757,
+      "score": 124,
+      "reasons": [
+        "root readme",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 5757,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L5",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L7",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L9",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L11",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L20",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L21",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L26",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L27"
+      ]
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "d4a98878b4b719ba2e0443fcecef392acf94a0c9",
+      "size": 8127,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 175,
+      "byte_count": 8127,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/README.md#L12",
+        "https://github.com/Valar05/through-the-slit/blob/main/README.md#L13",
+        "https://github.com/Valar05/through-the-slit/blob/main/README.md#L23",
+        "https://github.com/Valar05/through-the-slit/blob/main/README.md#L24",
+        "https://github.com/Valar05/through-the-slit/blob/main/README.md#L27",
+        "https://github.com/Valar05/through-the-slit/blob/main/README.md#L30",
+        "https://github.com/Valar05/through-the-slit/blob/main/README.md#L31",
+        "https://github.com/Valar05/through-the-slit/blob/main/README.md#L32"
+      ]
+    },
+    {
+      "path": "public/ost/README.md",
+      "mode": "100644",
+      "sha": "1a98ff6a03bb119c6c11755efe9ec871b10ed817",
+      "size": 1475,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 1475,
+      "mechanics": [
+        "asset_import_pipeline",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L13",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L15",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L16",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L17",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L18",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L19",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L20",
+        "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L21"
+      ]
+    },
+    {
+      "path": "state.md",
+      "mode": "100644",
+      "sha": "a13e75799573dfb651c03298038c74bf89f7663f",
+      "size": 11306,
+      "score": 106,
+      "reasons": [
+        "authoritative state",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 129,
+      "byte_count": 11306,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/state.md#L6",
+        "https://github.com/Valar05/through-the-slit/blob/main/state.md#L10",
+        "https://github.com/Valar05/through-the-slit/blob/main/state.md#L14",
+        "https://github.com/Valar05/through-the-slit/blob/main/state.md#L15",
+        "https://github.com/Valar05/through-the-slit/blob/main/state.md#L17",
+        "https://github.com/Valar05/through-the-slit/blob/main/state.md#L18",
+        "https://github.com/Valar05/through-the-slit/blob/main/state.md#L19",
+        "https://github.com/Valar05/through-the-slit/blob/main/state.md#L24"
+      ]
+    },
+    {
+      "path": "app/tank-kata-voice.ts",
+      "mode": "100644",
+      "sha": "13f3ff1a87ab2e15136c9f835f08f642b54336b4",
+      "size": 5932,
+      "score": 100,
+      "reasons": [
+        "runtime surface",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 206,
+      "byte_count": 5932,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/tank-kata-voice.ts#L1",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/tank-kata-voice.ts#L2",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/tank-kata-voice.ts#L15",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/tank-kata-voice.ts#L17",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/tank-kata-voice.ts#L19",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/tank-kata-voice.ts#L20",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/tank-kata-voice.ts#L32",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/tank-kata-voice.ts#L33"
+      ]
+    },
+    {
+      "path": "app/care-audio.mjs",
+      "mode": "100644",
+      "sha": "159c95115e07fef649b3cc48a40633dfd71b3f7f",
+      "size": 4908,
+      "score": 96,
+      "reasons": [
+        "runtime surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 144,
+      "byte_count": 4908,
+      "mechanics": []
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "a7c19155d654599130631d5e3b93f07b0b355c41",
+      "size": 1698,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 1698,
+      "mechanics": [
+        "ai_pressure",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/package.json#L12",
+        "https://github.com/Valar05/through-the-slit/blob/main/package.json#L15",
+        "https://github.com/Valar05/through-the-slit/blob/main/package.json#L16",
+        "https://github.com/Valar05/through-the-slit/blob/main/package.json#L30",
+        "https://github.com/Valar05/through-the-slit/blob/main/package.json#L37",
+        "https://github.com/Valar05/through-the-slit/blob/main/package.json#L38",
+        "https://github.com/Valar05/through-the-slit/blob/main/package.json#L39",
+        "https://github.com/Valar05/through-the-slit/blob/main/package.json#L40"
+      ]
+    },
+    {
+      "path": ".openai/hosting.json",
+      "mode": "100644",
+      "sha": "c425c4191e82984ee42111e8c54b188690479b2f",
+      "size": 91,
+      "score": 94,
+      "reasons": [
+        "hosting contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 91,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/.openai/hosting.json#L1",
+        "https://github.com/Valar05/through-the-slit/blob/main/.openai/hosting.json#L2",
+        "https://github.com/Valar05/through-the-slit/blob/main/.openai/hosting.json#L3",
+        "https://github.com/Valar05/through-the-slit/blob/main/.openai/hosting.json#L4",
+        "https://github.com/Valar05/through-the-slit/blob/main/.openai/hosting.json#L5"
+      ]
+    },
+    {
+      "path": "app/browser-shell.tsx",
+      "mode": "100644",
+      "sha": "fe130408d68b1c6984719ddbe63caefb7cedf365",
+      "size": 3327,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 126,
+      "byte_count": 3327,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/browser-shell.tsx#L3",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/browser-shell.tsx#L12",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/browser-shell.tsx#L14",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/browser-shell.tsx#L15",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/browser-shell.tsx#L22",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/browser-shell.tsx#L23",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/browser-shell.tsx#L25",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/browser-shell.tsx#L27"
+      ]
+    },
+    {
+      "path": "app/canonization-plate.tsx",
+      "mode": "100644",
+      "sha": "66d61a150ea5cb68eb3b4787b75f45fb9fe0ec32",
+      "size": 1198,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 1198,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/canonization-plate.tsx#L7",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/canonization-plate.tsx#L9",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/canonization-plate.tsx#L12"
+      ]
+    },
+    {
+      "path": "app/chatgpt-auth.ts",
+      "mode": "100644",
+      "sha": "8d1fb3534463fb53fc0ff10ce6d5eccebf5964fa",
+      "size": 2404,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 86,
+      "byte_count": 2404,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/chatgpt-auth.ts#L1",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/chatgpt-auth.ts#L2",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/chatgpt-auth.ts#L6",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/chatgpt-auth.ts#L10",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/chatgpt-auth.ts#L11",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/chatgpt-auth.ts#L13",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/chatgpt-auth.ts#L20",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/chatgpt-auth.ts#L21"
+      ]
+    },
+    {
+      "path": "app/game-client.tsx",
+      "mode": "100644",
+      "sha": "0ffd03d2d511e7f3670ab1ac24f44ba1524def36",
+      "size": 283154,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 7888,
+      "byte_count": 283154,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L3",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L4",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L5",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L8",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L12",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L18",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L19",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L20"
+      ]
+    },
+    {
+      "path": "app/graft-catalog.tsx",
+      "mode": "100644",
+      "sha": "d8659d837a5bc5258fa4a2c68df9317d2d071556",
+      "size": 9281,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 113,
+      "byte_count": 9281,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/graft-catalog.tsx#L5",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/graft-catalog.tsx#L10",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/graft-catalog.tsx#L16",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/graft-catalog.tsx#L26",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/graft-catalog.tsx#L29",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/graft-catalog.tsx#L32",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/graft-catalog.tsx#L36",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/graft-catalog.tsx#L39"
+      ]
+    },
+    {
+      "path": "app/intro-content.ts",
+      "mode": "100644",
+      "sha": "ede4cbba3512b1e00eefd4a4d41dc21f3f12e2c1",
+      "size": 1570,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 1570,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-content.ts#L7",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-content.ts#L10",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-content.ts#L11",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-content.ts#L13",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-content.ts#L17",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-content.ts#L27"
+      ]
+    },
+    {
+      "path": "app/intro-experience.tsx",
+      "mode": "100644",
+      "sha": "55d3b952ccd45fafbfdd3a1ad107d378284ae34d",
+      "size": 8048,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 217,
+      "byte_count": 8048,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-experience.tsx#L3",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-experience.tsx#L4",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-experience.tsx#L8",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-experience.tsx#L9",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-experience.tsx#L35",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-experience.tsx#L36",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-experience.tsx#L58",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/intro-experience.tsx#L65"
+      ]
+    },
+    {
+      "path": "app/mendel-judgment.tsx",
+      "mode": "100644",
+      "sha": "8ac3863407cb25719bbd9c201723eb1eb1d6daa1",
+      "size": 9226,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 261,
+      "byte_count": 9226,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/mendel-judgment.tsx#L3",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/mendel-judgment.tsx#L4",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/mendel-judgment.tsx#L7",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/mendel-judgment.tsx#L8",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/mendel-judgment.tsx#L14",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/mendel-judgment.tsx#L28",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/mendel-judgment.tsx#L32",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/mendel-judgment.tsx#L40"
+      ]
+    },
+    {
+      "path": "app/music-engine.ts",
+      "mode": "100644",
+      "sha": "5b6d854730178b29b723ea4c297cefc40de5f95b",
+      "size": 9316,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 294,
+      "byte_count": 9316,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/music-engine.ts#L2",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/music-engine.ts#L3",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/music-engine.ts#L4",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/music-engine.ts#L5",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/music-engine.ts#L6",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/music-engine.ts#L7",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/music-engine.ts#L8",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/music-engine.ts#L13"
+      ]
+    },
+    {
+      "path": "app/sound-engine.ts",
+      "mode": "100644",
+      "sha": "081b08f5ccbc8c92265ae0dd5556274742008695",
+      "size": 34857,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 923,
+      "byte_count": 34857,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/through-the-slit/blob/main/app/sound-engine.ts#L1",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/sound-engine.ts#L2",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/sound-engine.ts#L20",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/sound-engine.ts#L39",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/sound-engine.ts#L96",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/sound-engine.ts#L101",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/sound-engine.ts#L109",
+        "https://github.com/Valar05/through-the-slit/blob/main/app/sound-engine.ts#L112"
+      ]
+    },
+    {
+      "path": "app/acre-director.mjs",
+      "mode": "100644",
+      "sha": "a0680cbf6db281ac53a4646a1578b9978c38fd3e",
+      "size": 4061,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 151,
+      "byte_count": 4061,
+      "mechanics": []
+    },
+    {
+      "path": "app/combat-model.mjs",
+      "mode": "100644",
+      "sha": "7956b0d992e3b0633f7c0d6767117f8546e615c3",
+      "size": 15997,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 470,
+      "byte_count": 15997,
+      "mechanics": []
+    },
+    {
+      "path": "app/correction-runtime.mjs",
+      "mode": "100644",
+      "sha": "7aed7f60e6fec7c1fb6e072d3b04e03642de1bcf",
+      "size": 436,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 436,
+      "mechanics": []
+    },
+    {
+      "path": "app/defense-depth-model.mjs",
+      "mode": "100644",
+      "sha": "32d606d5bf0fa13f975fcbc192d9ee336f6dd69a",
+      "size": 8356,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 189,
+      "byte_count": 8356,
+      "mechanics": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1870,
+    "by_origin": {
+      "github": 1870
+    },
+    "by_project": {
+      "through-the-slit": 1870
+    },
+    "by_mechanic": {
+      "ai_pressure": 857,
+      "web_choice_player": 259,
+      "pose_animation_tools": 249,
+      "asset_import_pipeline": 207,
+      "text_console_runtime": 154,
+      "tts_audio_pipeline": 121,
+      "writing_corpus_review": 121,
+      "deck_pressure": 88,
+      "touch_lane_combat": 56,
+      "validation_pipeline": 39,
+      "vehicle_survival": 31,
+      "resource_upgrade_loop": 31,
+      "source_packet_generation": 8,
+      "delayed_consequences": 5,
+      "event_clouds": 4
+    },
+    "examples": {
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/page.tsx",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import BrowserShell from \"./browser-shell\";",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/page.tsx#L1"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/layout.tsx",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import type { Metadata, Viewport } from \"next\";",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/layout.tsx#L1"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/layout.tsx",
+          "line": 2,
+          "symbol": "",
+          "evidence": "import { Geist, Geist_Mono } from \"next/font/google\";",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/layout.tsx#L2"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/layout.tsx",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import \"./globals.css\";",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/layout.tsx#L3"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "Current source truth",
+          "evidence": "## Current source truth",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "The release-candidate source implements:",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 92,
+          "symbol": "",
+          "evidence": "This checkout is the source lineage bound by `.openai/hosting.json` to the",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L92"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "mirror and may lag the Sites source.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L94"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/layout.tsx",
+          "line": 41,
+          "symbol": "",
+          "evidence": "<html lang=\"en\">",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/layout.tsx#L41"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/layout.tsx",
+          "line": 47,
+          "symbol": "",
+          "evidence": "</html>",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/layout.tsx#L47"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "These mono WAV files were rendered on 2026-08-05 with Cartesia `sonic-3.5`, 24 kHz PCM, and a -1 semitone presentation shift. The synthesis request used voice ID `4af7c703-f2a9-...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "| `artillery-flare` | Observer's calling the sky. Find the flare. | `19f7567daa2f4ab5bb88e4ba7f54ffae0b50f61b22a65d6f81e88b57c981e8eb` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "- a seeded, chunked terrain model shared by rendering, grounding, collision,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "- prepared defense echelons with infantry, machine guns, flankers, observers,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "- a successful Sites deployment proves that a saved version reached the",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 123,
+          "symbol": "",
+          "evidence": "self-contained browser engine so Three.js and WebGL do not leak into the",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L123"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Renee is Ferravine's caretaker and translator. The runtime rule is simple: Renee speaks only when authored events or Ferravine's state gives her cause; Ferravine's body Foley re...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The bank contains **29 spoken cues**, **three humming-loop candidates**, and a playable nine-action tending scene paired with **12 designed Ferravine body responses**. Care Fole...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "| `formation-reconnected` | There they are. One body again. | `6df3df68dc6cb05a3eede4f3c72aec1d1191599be3b1a96b88dd640dbe14aa35` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "| `repair` | Scar suits Ferravine better than a wound. | `83000ee2658b5586dda10245ef5edd3decab002dd0f69156cd74f034593f3e6c` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "| `maintenance-complete` | Two taps. Feed closed. Armor honest. Move. | `d111a81ea36b66cd9bb9837cb592fa0e620df06c64c8b321095a41a1a9590b5e` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "legibility, and deployment failures. Future mechanics belong in the v1.1",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "2. **Cross** with the war party close enough to remain a formation.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "3. **Consolidate** the acre after its screen, main, support, and reserve",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L24"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The bank contains **29 spoken cues**, **three humming-loop candidates**, and a playable nine-action tending scene paired with **12 designed Ferravine body responses**. Care Fole...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- An itch.io release is requested but not yet implemented or deployed. `ITCH.md` records the current Butler finding and form packet.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- Itch/Butler packet: `ITCH.md`",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "- The candidate bank contains 29 Renee clips (24 systemic and five intimate care phrases), 12 Ferravine body responses, three quarantined humming loops, five care-Foley families...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 2840,
+          "symbol": "",
+          "evidence": "context.setTransform(runtime.dpr, 0, 0, runtime.dpr, 0, 0);",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L2840"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 5972,
+          "symbol": "",
+          "evidence": "context.setTransform(runtime.dpr, 0, 0, runtime.dpr, 0, 0);",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L5972"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 7740,
+          "symbol": "",
+          "evidence": "29 RENEE CUES · 12 FERRAVINE RESPONSES · 3 QUARANTINED HUM LOOPS · TWO-TAP MOTIF",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L7740"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/graft-catalog.tsx",
+          "line": 26,
+          "symbol": "",
+          "evidence": "description:\"Grow one forward needle-mouth. Its single missile is the root body every later Arsenal mutation must transform.\",",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/graft-catalog.tsx#L26"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "These mono WAV files were rendered on 2026-08-05 with Cartesia `sonic-3.5`, 24 kHz PCM, and a -1 semitone presentation shift. The synthesis request used voice ID `4af7c703-f2a9-...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "This runtime could verify bytes, decode metadata, and SHA-256 but could not accept native audio input. Adam therefore did **not** hear or artistically judge these performances. ...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "candidate changes are limited to crash, corruption, viewport, control, audio,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 119,
+          "symbol": "",
+          "evidence": "| Audio | `app/sound-engine.ts`, `app/music-engine.ts`, `public/sfx/`, `public/ost/` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L119"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 134,
+          "symbol": "",
+          "evidence": "| Rendered shell, browser/Worker split, asset contracts, UI copy, audio policy, and accessibility hooks | `tests/rendered-html.test.mjs` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L134"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/ost/README.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "| `iron-bellows.mp3` | `Iron_Bellows.mp3` | `5c099721964045c7aa78b9b35331979ca9dcbaf8bd0b51a12e204e413a8f67a2` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/ost/README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "| `iron-bellows-ii.mp3` | `Iron_Bellows(1).mp3` | `61daaa855b6547d7e5b3d669f8cd69a76767223ca87949bbea3cc6271e472a53` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/ost/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "| `bellows-grit.mp3` | `Bellows-Grit.mp3` | `d981a637dbf296a0e5801894ec86f570ba8bd541e69965319e6a9078cde2d717` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/ost/README.md#L17"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "| `first-motion` | Both treads are answering. Take the road gently. | `76d2449d914233396c697ab09ebb5c0db05f9b87d68c0329d9d81deccbed1f07` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "| `combat-begins` | Head down. Ferravine remembers the road. | `981d898bc61d9a20ea72885d6fa40dce154d89781214e60f11bb19f68244d9d6` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "| `formation-separated` | Ferravine outran her people. Open them a road. | `7ef430a6917b31e1e94794409c12ff65117003058205c5add5274624df6e8a66` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "| `care-fuel` | Slow mouthfuls. Taste it first. | `8fed8a87e31007df940ed92db6581a80ef992993c0b6cd4d3e6836935f8ed611` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "roads, and keeping threats inside living weapon arcs. A run ends when the",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "| Formation | Ram open roads, reconnect separated infantry through the breach wake, and occupy ground together. |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "Ship and preserve a public, forkable first-person Great War landship game viewed through an armored slit. Maintain the accepted battlefield while improving release integrity, ac...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- RC changes are limited to crash, corruption, viewport, control, audio, legibility, accessibility, and deployment failures. Future mechanics belong in the v1.1 foster-care lane.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L15"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "| `left-tread-wound` | Left tread is hurting. Give her room. | `ebbbfce035b72af91b7bcffbdc6e04a4997230857f7f25fe806c0d32419a023f` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "menus and settings use native buttons and focus states, and the simulation can",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 156,
+          "symbol": "",
+          "evidence": "Useful commands:",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L156"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Current production lineage: Sites version 100 at commit `5b3dc24872ff4b42beaa1f415ba6e5ad0b7ecdc1`; this includes the accepted intro successor, Tank Kata conductor, and Regnet...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Equal-authority choices: safer static presentation, full motion, or refuse and continue.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 58,
+          "symbol": "Regnet command voice — production candidate",
+          "evidence": "## Regnet command voice — production candidate",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "- Drew commissioned high-quality Rene voice clips and made Regnet the voice of command.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "- Six 48 kHz mono WAV candidates replace only the six command performances. Trigger states, words, captions, priorities, cooldowns, 92 BPM synchronization, warning immediacy, an...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L62"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "| `right-tread-wound` | Right tread is hurting. Ease the turn. | `547e558f116dfaf98ec1daa56b73f90b6f1245c3295e20c60e4753803da33b9b` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "| Touch | Drag up or down on the left and right edges to drive each tread. Wide touch zones are enabled by default. |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "| Keyboard | `W` / `S` drive the left tread. `↑` / `↓` drive the right tread. |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "responsibility, releases it from the player's custody, tests it in an unlike",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "The combat canvas exposes a descriptive label, status changes use live regions,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- The warning names graphic violence, blood/death/corpses, fleshy war-machine anatomy/body horror, artillery/weapon impacts, abrupt brightness changes, and intense sound.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "- Drew commissioned high-quality Rene voice clips and made Regnet the voice of command.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "- Six 48 kHz mono WAV candidates replace only the six command performances. Trigger states, words, captions, priorities, cooldowns, 92 BPM synchronization, warning immediacy, an...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L62"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "public/voice/renee/README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "| `repair` | Scar suits Ferravine better than a wound. | `83000ee2658b5586dda10245ef5edd3decab002dd0f69156cd74f034593f3e6c` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/public/voice/renee/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 139,
+          "symbol": "",
+          "evidence": "artifact, validates the Sites output, runs all Node tests, then runs both",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L139"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 162,
+          "symbol": "",
+          "evidence": "npm run lint",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L162"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- The corrected intro source is published to GitHub main through audited Home Center file mutations. The cinematic was imported by successful workflow run `30765890586` at commi...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "GitHub now contains a genuine standalone itch build and a manual Butler workflow. GitHub run `30767662743` proved the secret is present, rebuilt and validated the 77-file/80.5 M...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "- Candidate audio is generated, durably read back, transferred byte-exactly, and auditioned by Adam. Drew's audible verdict remains the acceptance gate.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "- Draft PR `#1` on `agent/renee-audio-director-rc1` contains a playable nine-action parked care scene: approach, intake preparation, fuel care, contamination rejection, satisfac...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L68"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- The combined Renee, Ferravine, Regnet, and Tank Kata lineage passes the production build, all 66 automated tests, deterministic combat simulations, and lint with zero errors. ...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L72"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "battle. Acre capture does not mint a second upgrade offer.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 125,
+          "symbol": "",
+          "evidence": "canPresentGraftOffer,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L125"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 601,
+          "symbol": "",
+          "evidence": "offeredAt: number;",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L601"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 670,
+          "symbol": "",
+          "evidence": "pendingOfferTokens: number;",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L670"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 761,
+          "symbol": "",
+          "evidence": "const chooseOffers = (runtime: Runtime): GraftKey[] => {",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L761"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 762,
+          "symbol": "",
+          "evidence": "if (runtime.offeredAt === 0) {",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L762"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 1454,
+          "symbol": "",
+          "evidence": "offeredAt: 0,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L1454"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 1535,
+          "symbol": "",
+          "evidence": "pendingOfferTokens: 0,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L1535"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "- a seeded, chunked terrain model shared by rendering, grounding, collision,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "GitHub now contains a genuine standalone itch build and a manual Butler workflow. GitHub run `30767662743` proved the secret is present, rebuilt and validated the 77-file/80.5 M...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "- Draft PR `#1` on `agent/renee-audio-director-rc1` contains a playable nine-action parked care scene: approach, intake preparation, fuel care, contamination rejection, satisfac...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L68"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "- Renee's rendered voice identity is unresolved: the requested provider voice ID was catalogued as Lila while every synthesis receipt reported Katie. These files and all three h...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "- Production Sites version 100 remains unchanged. The candidate is code-complete on the draft review branch only.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "- PR #1, `audio: let Renee answer Ferravine's body`, is merged into GitHub `main`. Earlier prose describing it as a draft branch is retained as lineage and no longer describes r...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 82,
+          "symbol": "",
+          "evidence": "- Renee's temporary voice remains a human casting gate. The requested provider ID is catalogued as Lila while synthesis receipts report Katie. The files are technically verified...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L82"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 84,
+          "symbol": "",
+          "evidence": "// Keep the rendering engine in its own browser chunk, but let the game module",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L84"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "README.md",
+          "line": 134,
+          "symbol": "",
+          "evidence": "| Rendered shell, browser/Worker split, asset contracts, UI copy, audio policy, and accessibility hooks | `tests/rendered-html.test.mjs` |",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/README.md#L134"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 1733,
+          "symbol": "",
+          "evidence": "let followupFrame = 0;",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L1733"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 1750,
+          "symbol": "",
+          "evidence": "cancelAnimationFrame(followupFrame);",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L1750"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 1751,
+          "symbol": "",
+          "evidence": "followupFrame = requestAnimationFrame(() => {",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L1751"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 1765,
+          "symbol": "",
+          "evidence": "cancelAnimationFrame(followupFrame);",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L1765"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "Ship and preserve a public, forkable first-person Great War landship game viewed through an armored slit. Maintain the accepted battlefield while improving release integrity, ac...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- RC changes are limited to crash, corruption, viewport, control, audio, legibility, accessibility, and deployment failures. Future mechanics belong in the v1.1 foster-care lane.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Refusal is remembered on-device, never blocks play, and voluntary replay remains in the menu.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- Captions are phrase-level with an outline-led presentation rather than stacked faux-dub blocks.",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "GitHub now contains a genuine standalone itch build and a manual Butler workflow. GitHub run `30767662743` proved the secret is present, rebuilt and validated the 77-file/80.5 M...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 91,
+          "symbol": "",
+          "evidence": "Drew replied “accepteed” after the bounded Renee audition. Adam interprets the clear ordinary typo as “accepted.” Renee's rendered voice identity is now accepted by Drew for the...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L91"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 8,
+          "symbol": "",
+          "evidence": "getCaptureBlockers,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L8"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 47,
+          "symbol": "",
+          "evidence": "terrainBlocksSegment,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L47"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "state.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "- Six 48 kHz mono WAV candidates replace only the six command performances. Trigger states, words, captions, priorities, cooldowns, 92 BPM synchronization, warning immediacy, an...",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/state.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 111,
+          "symbol": "",
+          "evidence": "friendlyVolleyCadence,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L111"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 113,
+          "symbol": "",
+          "evidence": "suppressedFireCadenceMultiplier,",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L113"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 547,
+          "symbol": "",
+          "evidence": "cadence: number;",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L547"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 2357,
+          "symbol": "",
+          "evidence": "// mobile shader could fail before its first draw; Three's built-in toon",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L2357"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 2376,
+          "symbol": "",
+          "evidence": "pixelGroundContext.drawImage(groundImage, 0, 0, 96, 96);",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L2376"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 2574,
+          "symbol": "",
+          "evidence": "const drawAtlasCell = (",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L2574"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 2604,
+          "symbol": "",
+          "evidence": "context.drawImage(",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L2604"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 1885,
+          "symbol": "",
+          "evidence": "const performCareAction = useCallback(() => {",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L1885"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 6076,
+          "symbol": "",
+          "evidence": "\"muzzle-projectile-impact-reaction-rupture-cause-chain\";",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L6076"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/game-client.tsx",
+          "line": 7733,
+          "symbol": "",
+          "evidence": "<button type=\"button\" onClick={performCareAction} disabled={careBusy}>",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/game-client.tsx#L7733"
+        },
+        {
+          "origin": "github",
+          "project": "through-the-slit",
+          "repo": "Valar05/through-the-slit",
+          "path": "app/sound-engine.ts",
+          "line": 109,
+          "symbol": "",
+          "evidence": "* Hybrid recorded/designed Foley. Provenance-locked public-domain and CC0",
+          "source_url": "https://github.com/Valar05/through-the-slit/blob/main/app/sound-engine.ts#L109"
+        }
+      ]
+    }
+  }
+}

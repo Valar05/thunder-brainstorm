@@ -1,0 +1,44 @@
+{
+  "repo": "Valar05/ferravine-radio",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Ferravine Radio — humane, consent-first local media for Android Auto.",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "ferravine-radio",
+    "updatedAt": "2026-08-05T05:38:42Z",
+    "url": "https://github.com/Valar05/ferravine-radio",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 1,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "ed4f5a405c888d3530b8b42965f503c5fcc76eca",
+      "size": 90,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2,
+      "byte_count": 90,
+      "mechanics": [],
+      "source_line_refs": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 0,
+    "by_origin": {},
+    "by_project": {},
+    "by_mechanic": {},
+    "examples": {}
+  }
+}

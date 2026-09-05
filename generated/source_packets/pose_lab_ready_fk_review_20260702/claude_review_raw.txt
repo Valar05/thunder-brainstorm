@@ -1,0 +1,82 @@
+```json
+{
+  "summary": "fb9277f reorders updateWeaponProxyVisibility after reapplyBoneEdits in both clip-start and per-frame update paths, adds a new contract test asserting that source order, and bumps cache tokens. The reordering is plausible as a real fix, but the only evidence artifacts are pre-fix screenshots that already recorded the failure. No post-fix screenshot exists. The new test validates source-code ordering only — it cannot prove the weapon visually follows the final FK pose at runtime. This is static code churn with an unverified runtime claim.",
+  "verdict": "plausible-fix-but-unverified",
+  "findings": [
+    {
+      "severity": "critical",
+      "title": "No post-fix screenshot — visual bug unproven fixed",
+      "file": "generated/visual_red_build/meshy_ready_weapon_fk_follow_latest.json",
+      "line_hint": "readyCapturePath / visualAssertions.freshPostFixScreenshotRequired",
+      "evidence": "The JSON artifact sets freshPostFixScreenshotRequired: true and readySwordNotFollowingFinalFk: true. Both screenshot paths reference pre-fix captures timestamped 20260702-130642/130645. The commit adds no new screenshot. The user's complaint is explicitly 'no new screenshots'.",
+      "impact": "The red build is still open. The commit cannot be accepted as a fix without a post-fix screenshot showing the sabre following the right-hand FK pose in the Ready clip.",
+      "recommendation": "Load the URL in nextVerificationUrl with weaponDebug=1, capture a fresh Android screenshot of the Ready pose, and attach it as a new artifact before closing the build."
+    },
+    {
+      "severity": "high",
+      "title": "Contract test asserts source order only — not runtime weapon follow",
+      "file": "tools/test_meshy_ready_weapon_fk_follow_contract.mjs",
+      "line_hint": "assertOrdered calls at lines 34-44 and 46-53",
+      "evidence": "Both assertOrdered blocks grep the raw JS source string for textual marker order. They do not instantiate PoseActor, drive the mixer, or inspect the resulting proxy.root.quaternion. The test passes if the strings appear in order in the file, regardless of whether the runtime actually executes them in that order or whether updateWeaponProxyVisibility reads the correct bone state.",
+      "impact": "A passing test gives false confidence. The weapon could still lag or read a stale bone transform if, for example, reapplyBoneEdits does not flush to world matrices before updateWeaponProxyVisibility reads worldQuaternionOf(proxy.rightHand).",
+      "recommendation": "Add a headless unit test that constructs a minimal THREE.Skeleton, calls reapplyBoneEdits then updateWeaponProxyVisibility, and asserts proxy.root.quaternion matches the expected right-hand world quaternion. Alternatively, add a console.assert inside updateWeaponProxyVisibility that fires when the delta between proxy rotation and hand world rotation exceeds a threshold."
+    },
+    {
+      "severity": "high",
+      "title": "updateWeaponProxyVisibility may read stale world matrices even after reorder",
+      "file": "src/pose-lab.js",
+      "line_hint": "update(dt) block — worldQuaternionOf(proxy.rightHand) call",
+      "evidence": "The diff moves updateWeaponProxyVisibility after reapplyBoneEdits and applyGrounding, which is the correct intent. However, THREE.js bone world matrices are only guaranteed current after scene.updateMatrixWorld() or skeleton.update(). Neither call is visible in the diff. If worldQuaternionOf calls getWorldQuaternion on a bone whose matrixWorld has not been recomputed since the mixer tick, the proxy will still read the pre-edit transform.",
+      "impact": "The reorder is a necessary but possibly insufficient condition. The sword could still stay in rest orientation if world matrices are stale.",
+      "recommendation": "Confirm that reapplyBoneEdits or the code immediately before updateWeaponProxyVisibility calls skeleton.update() or scene.updateMatrixWorld(true). If not, add an explicit skeleton.update() call between reapplyBoneEdits and updateWeaponProxyVisibility."
+    },
+    {
+      "severity": "medium",
+      "title": "meshy-ready-runtime.mjs import still pinned to stale cache token pose-editor-130",
+      "file": "src/pose-lab.js",
+      "line_hint": "import { buildMeshyFpsVisualIkReadyClip } from './meshy-ready-runtime.mjs?v=pose-editor-130'",
+      "evidence": "The diff bumps LAB_CACHE_TOKEN and rig-profiles.js to pose-editor-131, but the meshy-ready-runtime.mjs import query string remains pose-editor-130. If the browser or service worker caches by query string, the old runtime module may be served.",
+      "impact": "If meshy-ready-runtime.mjs contains any weapon-follow logic, the browser could execute the old version despite the cache bump.",
+      "recommendation": "Update the meshy-ready-runtime.mjs import query string to ?v=pose-editor-131 to match the rest of the bump."
+    },
+    {
+      "severity": "medium",
+      "title": "Evidence artifact records pre-fix failure as current state — misleading schema",
+      "file": "generated/visual_red_build/meshy_ready_weapon_fk_follow_latest.json",
+      "line_hint": "visualAssertions.readySwordNotFollowingFinalFk: true",
+      "evidence": "The artifact is committed with readySwordNotFollowingFinalFk: true and currentFixCacheToken: pose-editor-131. The contract test asserts this field equals true. This means the test will continue to pass even after the bug is fixed, because the field is never flipped to false and no post-fix artifact replaces it.",
+      "impact": "Future reviewers cannot distinguish a pre-fix evidence file from a post-fix one by reading the artifact. The contract test provides no signal about whether the fix actually worked.",
+      "recommendation": "After capturing a post-fix screenshot, update the artifact: set readySwordNotFollowingFinalFk: false, add readySwordFollowingFinalFkConfirmed: true, and update the capture paths to the new screenshots. Update the contract test to assert the confirmed field."
+    },
+    {
+      "severity": "low",
+      "title": "Cache token bump without meshy-ready-runtime.mjs change is misleading",
+      "file": "pose-lab.html",
+      "line_hint": "pose-editor-131 version strings",
+      "evidence": "The HTML bumps rig-profiles.js and pose-lab.js to 131 but meshy-ready-runtime.mjs stays at 130. The branch diff stat shows meshy-ready-runtime.mjs has 540 added lines from main, but the latest commit diff does not touch it. It is unclear whether the runtime module needed a change for this fix.",
+      "impact": "Minor cache inconsistency; low risk unless the runtime module is involved in weapon follow.",
+      "recommendation": "Confirm whether meshy-ready-runtime.mjs participates in the weapon proxy update path. If yes, bump its token. If no, document why it is excluded."
+    }
+  ],
+  "missing_evidence": [
+    "Post-fix Android screenshot of the Ready pose showing the sabre following the right-hand FK orientation",
+    "Confirmation that skeleton.update() or scene.updateMatrixWorld() is called before worldQuaternionOf(proxy.rightHand) inside updateWeaponProxyVisibility",
+    "Runtime test or console output showing proxy.root.quaternion matches right-hand world quaternion after the reorder",
+    "Explanation of why meshy-ready-runtime.mjs was not bumped to pose-editor-131",
+    "Test run output (pass/fail log) for test_meshy_ready_weapon_fk_follow_contract.mjs against the new commit"
+  ],
+  "questions_for_codex": [
+    "Does updateWeaponProxyVisibility call getWorldQuaternion on a bone, and is skeleton.update() or scene.updateMatrixWorld() guaranteed to have run before that call in both the clip-start and per-frame paths after your reorder?",
+    "Why is the meshy-ready-runtime.mjs import still pinned to pose-editor-130 when all other modules were bumped to 131?",
+    "The contract test assertOrdered checks source text, not execution. Can you add even a minimal headless assertion that the proxy quaternion changes when a bone edit is applied before updateWeaponProxyVisibility?",
+    "After the fix, what should the evidence artifact's readySwordNotFollowingFinalFk field be set to, and when will you update it?",
+    "Is there any path in updateWeaponProxyVisibility that early-returns or skips the quaternion copy when the clip is a pose-only clip, which could cause the weapon to stay in rest orientation regardless of call order?"
+  ],
+  "do_not_claim_fixed_until": [
+    "A fresh Android screenshot is captured after loading pose-editor-131 in the browser, showing the sabre visually rotated to match the right-hand FK pose in the Ready clip",
+    "The evidence artifact is updated with the post-fix screenshot path and readySwordFollowingFinalFkConfirmed: true",
+    "A code review or console log confirms skeleton.update() or equivalent is called before worldQuaternionOf reads bone world matrices in the updated call order",
+    "test_meshy_ready_weapon_fk_follow_contract.mjs passes with the updated evidence artifact reflecting a confirmed fix, not a recorded failure"
+  ]
+}
+```

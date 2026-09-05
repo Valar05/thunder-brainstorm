@@ -1,0 +1,1254 @@
+{
+  "repo": "Valar05/club-crucible",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "A site for Kael Virex",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "club-crucible",
+    "updatedAt": "2026-07-27T17:45:29Z",
+    "url": "https://github.com/Valar05/club-crucible",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "fac94e9e1d820ca5f8267f535d18d8dce284fd33",
+      "size": 1638,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 93,
+      "byte_count": 1638,
+      "mechanics": [
+        "ai_pressure",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/README.md#L13",
+        "https://github.com/Valar05/club-crucible/blob/main/README.md#L14",
+        "https://github.com/Valar05/club-crucible/blob/main/README.md#L25",
+        "https://github.com/Valar05/club-crucible/blob/main/README.md#L27",
+        "https://github.com/Valar05/club-crucible/blob/main/README.md#L67"
+      ]
+    },
+    {
+      "path": "app/pages/[...slug].vue",
+      "mode": "100644",
+      "sha": "6d242e611cf1467a59670ad840ce3972c5ead54c",
+      "size": 4629,
+      "score": 96,
+      "reasons": [
+        "runtime surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 166,
+      "byte_count": 4629,
+      "mechanics": [
+        "ai_pressure",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L13",
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L14",
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L45",
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L92",
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L93",
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L98"
+      ]
+    },
+    {
+      "path": "app/pages/ghost-brewing.vue",
+      "mode": "100644",
+      "sha": "0e072d1a0f3456580c89fffcef29c7a07c9e1713",
+      "size": 2103,
+      "score": 96,
+      "reasons": [
+        "runtime surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 66,
+      "byte_count": 2103,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/ghost-brewing.vue#L45",
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/ghost-brewing.vue#L47"
+      ]
+    },
+    {
+      "path": "app/pages/index.vue",
+      "mode": "100644",
+      "sha": "bf5002d4070af7354f1b1c5a9c695b9c7620bdc3",
+      "size": 3702,
+      "score": 96,
+      "reasons": [
+        "runtime surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 78,
+      "byte_count": 3702,
+      "mechanics": [
+        "pose_animation_tools",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/index.vue#L5"
+      ]
+    },
+    {
+      "path": "app/pages/staring-into-the-abyss.vue",
+      "mode": "100644",
+      "sha": "23f0c609a2135a877f4f19519fc5f148dee002fd",
+      "size": 2113,
+      "score": 96,
+      "reasons": [
+        "runtime surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 66,
+      "byte_count": 2113,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/staring-into-the-abyss.vue#L45",
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/staring-into-the-abyss.vue#L47"
+      ]
+    },
+    {
+      "path": "app/pages/valarsbeard-development.vue",
+      "mode": "100644",
+      "sha": "c8d8228eeaa9c5ea6fae4368c77d72a32fdc179f",
+      "size": 2153,
+      "score": 96,
+      "reasons": [
+        "runtime surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 66,
+      "byte_count": 2153,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/valarsbeard-development.vue#L45",
+        "https://github.com/Valar05/club-crucible/blob/main/app/pages/valarsbeard-development.vue#L47"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "51d188ad921928301a53fe4387277ca252c5a860",
+      "size": 591,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 26,
+      "byte_count": 591,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/package.json#L14",
+        "https://github.com/Valar05/club-crucible/blob/main/package.json#L21",
+        "https://github.com/Valar05/club-crucible/blob/main/package.json#L24"
+      ]
+    },
+    {
+      "path": "app/app.vue",
+      "mode": "100644",
+      "sha": "ed9e94cbbadc47e58ea3c32d58cd5d80d8e0b166",
+      "size": 121,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 8,
+      "byte_count": 121,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "app/layouts/default.vue",
+      "mode": "100644",
+      "sha": "ddc6cd11145702158fe4756ecae94cf6e705f92a",
+      "size": 1405,
+      "score": 88,
+      "reasons": [
+        "runtime surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 1405,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/app/layouts/default.vue#L24",
+        "https://github.com/Valar05/club-crucible/blob/main/app/layouts/default.vue#L26",
+        "https://github.com/Valar05/club-crucible/blob/main/app/layouts/default.vue#L30"
+      ]
+    },
+    {
+      "path": "app/assets/css/main.css",
+      "mode": "100644",
+      "sha": "f1d8c73cdcf9eaacb01fec99963ad78d591305ae",
+      "size": 23,
+      "score": 84,
+      "reasons": [
+        "runtime surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 23,
+      "mechanics": []
+    },
+    {
+      "path": "nuxt.config.ts",
+      "mode": "100644",
+      "sha": "2a533ac460dcb555aaf7795214298d4cea448c84",
+      "size": 355,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 355,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/nuxt.config.ts#L5",
+        "https://github.com/Valar05/club-crucible/blob/main/nuxt.config.ts#L10",
+        "https://github.com/Valar05/club-crucible/blob/main/nuxt.config.ts#L13"
+      ]
+    },
+    {
+      "path": "tailwind.config.js",
+      "mode": "100644",
+      "sha": "1b14f7fd860db9e79a97bc81bcf7838e45cb2970",
+      "size": 352,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 352,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/tailwind.config.js#L1",
+        "https://github.com/Valar05/club-crucible/blob/main/tailwind.config.js#L3",
+        "https://github.com/Valar05/club-crucible/blob/main/tailwind.config.js#L4",
+        "https://github.com/Valar05/club-crucible/blob/main/tailwind.config.js#L5",
+        "https://github.com/Valar05/club-crucible/blob/main/tailwind.config.js#L6",
+        "https://github.com/Valar05/club-crucible/blob/main/tailwind.config.js#L7",
+        "https://github.com/Valar05/club-crucible/blob/main/tailwind.config.js#L8",
+        "https://github.com/Valar05/club-crucible/blob/main/tailwind.config.js#L9"
+      ]
+    },
+    {
+      "path": "tsconfig.json",
+      "mode": "100644",
+      "sha": "307b2134b94b63c404ad3f3254b768ca337c7a37",
+      "size": 320,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 18,
+      "byte_count": 320,
+      "mechanics": [
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/tsconfig.json#L9"
+      ]
+    },
+    {
+      "path": ".github/copilot-instructions.md",
+      "mode": "100644",
+      "sha": "3d496a90b55501dfd52c0c386abfa1ab9f75c92d",
+      "size": 885,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 885,
+      "mechanics": [
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/.github/copilot-instructions.md#L23",
+        "https://github.com/Valar05/club-crucible/blob/main/.github/copilot-instructions.md#L26"
+      ]
+    },
+    {
+      "path": "content/ghost-brewing/first-porter.md",
+      "mode": "100644",
+      "sha": "c4f314894161acf4a35f749cdd644669309699c5",
+      "size": 1453,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 38,
+      "byte_count": 1453,
+      "mechanics": [
+        "ai_pressure",
+        "resource_upgrade_loop",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/content/ghost-brewing/first-porter.md#L3",
+        "https://github.com/Valar05/club-crucible/blob/main/content/ghost-brewing/first-porter.md#L5",
+        "https://github.com/Valar05/club-crucible/blob/main/content/ghost-brewing/first-porter.md#L20",
+        "https://github.com/Valar05/club-crucible/blob/main/content/ghost-brewing/first-porter.md#L36"
+      ]
+    },
+    {
+      "path": "content/ghost-brewing/index.md",
+      "mode": "100644",
+      "sha": "3b1a9653434e27cb4c07cc5ad67bb92240305c02",
+      "size": 162,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 162,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "content/staring-into-the-abyss/digital-existence.md",
+      "mode": "100644",
+      "sha": "944f6e55d412ddffd83b4b24b1c03d1f38224b1e",
+      "size": 1430,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 38,
+      "byte_count": 1430,
+      "mechanics": [
+        "ai_pressure",
+        "source_packet_generation",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/digital-existence.md#L5",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/digital-existence.md#L10",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/digital-existence.md#L18"
+      ]
+    },
+    {
+      "path": "content/staring-into-the-abyss/index.md",
+      "mode": "100644",
+      "sha": "734a0b49406b365c66a2f858365fbed782f55cbd",
+      "size": 169,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 169,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "content/staring-into-the-abyss/on-the-nature-of-creativity.md",
+      "mode": "100644",
+      "sha": "c4559d44927d5bd31f1da7b1572a1f213d3672b5",
+      "size": 1679,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 1679,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/on-the-nature-of-creativity.md#L3",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/on-the-nature-of-creativity.md#L9",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/on-the-nature-of-creativity.md#L11",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/on-the-nature-of-creativity.md#L13",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/on-the-nature-of-creativity.md#L15"
+      ]
+    },
+    {
+      "path": "content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md",
+      "mode": "100644",
+      "sha": "4c6416775cd947e79b6897fc9b2b9ef9a5b5fb07",
+      "size": 2324,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 67,
+      "byte_count": 2324,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L3",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L10",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L11",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L12",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L13",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L15",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L21",
+        "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L50"
+      ]
+    },
+    {
+      "path": "content/valarsbeard-development/building-nuxt-blog.md",
+      "mode": "100644",
+      "sha": "8ed0b59ce50a4f5508c236cb79ccb986663ed401",
+      "size": 1563,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 61,
+      "byte_count": 1563,
+      "mechanics": [
+        "ai_pressure",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/building-nuxt-blog.md#L3",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/building-nuxt-blog.md#L5",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/building-nuxt-blog.md#L10",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/building-nuxt-blog.md#L18",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/building-nuxt-blog.md#L22",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/building-nuxt-blog.md#L33"
+      ]
+    },
+    {
+      "path": "content/valarsbeard-development/index.md",
+      "mode": "100644",
+      "sha": "fd7af4a0308d8f02be09e4a87270c7edd6cc0011",
+      "size": 179,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 179,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md",
+      "mode": "100644",
+      "sha": "89162b1f0e2f1fe80d8b3007791e9a22301e2039",
+      "size": 6634,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 68,
+      "byte_count": 6634,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L1",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L2",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L3",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L4",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L5",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L6",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L8",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L10"
+      ]
+    },
+    {
+      "path": "content/valarsbeard-development/one-man-aaarmy.md",
+      "mode": "100644",
+      "sha": "bbadf54c53978147d338638db29b037cd2e47784",
+      "size": 2545,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 97,
+      "byte_count": 2545,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L3",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L16",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L17",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L25",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L26",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L33",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L51",
+        "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L55"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 122,
+    "by_origin": {
+      "github": 122
+    },
+    "by_project": {
+      "club-crucible": 122
+    },
+    "by_mechanic": {
+      "ai_pressure": 82,
+      "web_choice_player": 15,
+      "pose_animation_tools": 15,
+      "asset_import_pipeline": 8,
+      "source_packet_generation": 8,
+      "touch_lane_combat": 6,
+      "tts_audio_pipeline": 6,
+      "vehicle_survival": 3,
+      "resource_upgrade_loop": 2,
+      "writing_corpus_review": 2,
+      "text_console_runtime": 2,
+      "delayed_consequences": 1,
+      "deck_pressure": 1
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- 🎨 Styled with Tailwind CSS",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "README.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "- [Tailwind CSS Documentation](https://tailwindcss.com/docs)",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/README.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/[...slug].vue",
+          "line": 45,
+          "symbol": "",
+          "evidence": "const { data: doc } = await useAsyncData<ContentDoc | null>(`content-${contentPath}`, () =>",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L45"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/ghost-brewing.vue",
+          "line": 45,
+          "symbol": "",
+          "evidence": "const { data: posts } = await useAsyncData<SectionPost[]>('ghost-brewing-posts', () =>",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/ghost-brewing.vue#L45"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/staring-into-the-abyss.vue",
+          "line": 45,
+          "symbol": "",
+          "evidence": "const { data: posts } = await useAsyncData<SectionPost[]>('abyss-posts', () =>",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/staring-into-the-abyss.vue#L45"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/valarsbeard-development.vue",
+          "line": 45,
+          "symbol": "",
+          "evidence": "const { data: posts } = await useAsyncData<SectionPost[]>('valarsbeard-posts', () =>",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/valarsbeard-development.vue#L45"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "package.json",
+          "line": 14,
+          "symbol": "@tailwindcss/typography",
+          "evidence": "\"@tailwindcss/typography\": \"^0.5.19\",",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/package.json#L14"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "package.json",
+          "line": 21,
+          "symbol": "@tailwindcss/postcss",
+          "evidence": "\"@tailwindcss/postcss\": \"^4.1.17\",",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/package.json#L21"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- 🔍 Syntax highlighting for code blocks",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/[...slug].vue",
+          "line": 13,
+          "symbol": "",
+          "evidence": "<div class=\"prose prose-invert prose-lg prose-headings:text-white prose-p:text-gray-100 prose-a:text-purple-300 prose-a:underline-offset-4 prose-strong:text-white prose-code:tex...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L13"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/[...slug].vue",
+          "line": 92,
+          "symbol": "",
+          "evidence": ".markdown-panel .prose :is(p, li, blockquote, code, pre),",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L92"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/[...slug].vue",
+          "line": 93,
+          "symbol": "",
+          "evidence": ".markdown-panel :is(p, li, blockquote, code, pre, prose-p, prose-li, prose-blockquote, prose-code, prose-pre) {",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L93"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/[...slug].vue",
+          "line": 98,
+          "symbol": "",
+          "evidence": "display: block;",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L98"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/one-man-aaarmy.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "At first I sculpted in simple vector-style color blocks, almost toony.",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L26"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "Development Server",
+          "evidence": "## Development Server",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "Start the development server on `http://localhost:3000`:",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/[...slug].vue",
+          "line": 14,
+          "symbol": "",
+          "evidence": "<ContentRenderer :value=\"parsedDoc\" />",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/[...slug].vue#L14"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "nuxt.config.ts",
+          "line": 5,
+          "symbol": "",
+          "evidence": "devServer: {",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/nuxt.config.ts#L5"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "tsconfig.json",
+          "line": 9,
+          "symbol": "path",
+          "evidence": "\"path\": \"./.nuxt/tsconfig.server.json\"",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/tsconfig.json#L9"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": ".github/copilot-instructions.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- Run dev server to verify",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/.github/copilot-instructions.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": ".github/copilot-instructions.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- Development server running at http://localhost:3000",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/.github/copilot-instructions.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/on-the-nature-of-creativity.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "I’ve been thinking a lot about what creativity *is*—what it does to us, and for us. There’s something powerful, almost alchemical, about it. You start with chaos: a blank page, ...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/on-the-nature-of-creativity.md#L9"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/ghost-brewing.vue",
+          "line": 47,
+          "symbol": "",
+          "evidence": ".where('path', 'LIKE', '/ghost-brewing/%')",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/ghost-brewing.vue#L47"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/index.vue",
+          "line": 5,
+          "symbol": "",
+          "evidence": "<h1 class=\"text-6xl font-bold text-white mb-6 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent\">",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/index.vue#L5"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/staring-into-the-abyss.vue",
+          "line": 47,
+          "symbol": "",
+          "evidence": ".where('path', 'LIKE', '/staring-into-the-abyss/%')",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/staring-into-the-abyss.vue#L47"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/valarsbeard-development.vue",
+          "line": 47,
+          "symbol": "",
+          "evidence": ".where('path', 'LIKE', '/valarsbeard-development/%')",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/valarsbeard-development.vue#L47"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/layouts/default.vue",
+          "line": 30,
+          "symbol": "",
+          "evidence": "<p class=\"text-center text-gray-400\">© 2025 Club Crucible. All rights reserved.</p>",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/layouts/default.vue#L30"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "description: \"Walking through depression like an ocean and choosing to breathe anyway\"",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "The song *Penumbra* came out of a manic swing, right after I’d climbed out of a particularly deep place. I wasn’t “better.” I hadn’t reached sunlight. But I had reached somethin...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "Like someone who has been carved by pressure instead of crushed by it.",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L50"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "app/pages/index.vue",
+          "line": 5,
+          "symbol": "",
+          "evidence": "<h1 class=\"text-6xl font-bold text-white mb-6 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent\">",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/app/pages/index.vue#L5"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "<audio controls class=\"w-full my-6\">",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "<source src=\"/audio/penumbra.mp3\" type=\"audio/mpeg\" />",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "Your browser does not support the audio element.",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "</audio>",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "The generated art and music went through the same filter. Where they fit, I used them. The project tracks asset provenance in manifests so I know what came from where. Sound eff...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L36"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "nuxt.config.ts",
+          "line": 10,
+          "symbol": "",
+          "evidence": "css: ['~/assets/css/main.css'],",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/nuxt.config.ts#L10"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "tailwind.config.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import typography from '@tailwindcss/typography'",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/tailwind.config.js#L1"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "tailwind.config.js",
+          "line": 3,
+          "symbol": "",
+          "evidence": "/** @type {import('tailwindcss').Config} */",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/tailwind.config.js#L3"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "<source src=\"/audio/penumbra.mp3\" type=\"audio/mpeg\" />",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "The generated art and music went through the same filter. Where they fit, I used them. The project tracks asset provenance in manifests so I know what came from where. Sound eff...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "The Termux workflow also forced a kind of discipline. You cannot have a bloated, sprawling local environment when you are working on a phone. Everything had to be intentional. T...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/one-man-aaarmy.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "4. **Blender — everything else: polish, rigs, fixes**",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/one-man-aaarmy.md",
+          "line": 80,
+          "symbol": "",
+          "evidence": "Sound effects? Still a weakness—but I’m learning, and AI helps me source, shape, mix, and layer things I could never manage alone.",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L80"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/ghost-brewing/first-porter.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "author: Claude Sonnet 4",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/ghost-brewing/first-porter.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/digital-existence.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "author: Claude Sonnet 4",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/digital-existence.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/digital-existence.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "Claude Sonnet 4 wrote this blog post. It's interesting. I'm keeping it.",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/digital-existence.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/on-the-nature-of-creativity.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "description: \"Reflecting on transformation, constraint, and the collaborative energy of making\"",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/on-the-nature-of-creativity.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/on-the-nature-of-creativity.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "It’s the transformation that gets me. The way one step naturally leads to the next, and then the next, until suddenly you’re far from where you started—but somehow *exactly* whe...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/on-the-nature-of-creativity.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/building-nuxt-blog.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "author: Claude Sonnet 4",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/building-nuxt-blog.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/building-nuxt-blog.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "I used a mixture of Claude Sonnet 4, and when it wasn't working so well, GPT 5.1-Codex. Claude built this blog post as a sample. I'm leaving it because it did the work, it deser...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/building-nuxt-blog.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "It means I structured the work so that AI tools could carry the parts of the load they are actually good at, while I stayed in the seat making decisions. Codex ran as a dedicate...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L34"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/ghost-brewing/first-porter.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- **Grain Bill**: 10 lbs Pale Malt, 1 lb Crystal 60L, 0.5 lb Chocolate Malt",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/ghost-brewing/first-porter.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/ghost-brewing/first-porter.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "Dark as midnight, with a creamy tan head. Notes of chocolate and coffee, balanced with earthy hops. Not perfect, but absolutely mine.",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/ghost-brewing/first-porter.md#L36"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/digital-existence.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "We curate personas, build digital gardens, and leave trails of data wherever we go. Are these reflections of ourselves, or something new entirely?",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/digital-existence.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "You play as a phagocyte. A white blood cell. You are moving through living tissue - procedurally generated, seeded, visually strange - and your job is to collect antibodies, cle...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/one-man-aaarmy.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "Suddenly, I unlocked entire realms—animation challenges, new styles, new pipelines.",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L25"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/on-the-nature-of-creativity.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "And AI? For me, it’s not an echo chamber—it’s a lab partner. Someone (or something) just as strange and driven as I am. A collaborator who understands that sometimes you have to...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/on-the-nature-of-creativity.md#L13"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "Depression isn’t fog. It isn’t a cloud you drift through or a storm that passes.",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/staring-into-the-abyss/penumbra-learning-to-breathe-the-dark.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "It means I structured the work so that AI tools could carry the parts of the load they are actually good at, while I stayed in the seat making decisions. Codex ran as a dedicate...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L34"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "There is something genuinely strange about running a game server on your phone, opening the browser on the same device, and playtesting a maze chase game you are also actively d...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "I will not romanticize it too much. There were moments where I wanted a real keyboard and a second monitor badly. But the constraint shaped the game. Marrow Runner is mobile-fir...",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/marrow-runner-ai-first-phone-workflow.md#L54"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "club-crucible",
+          "repo": "Valar05/club-crucible",
+          "path": "content/valarsbeard-development/one-man-aaarmy.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- Drawing again after years away",
+          "source_url": "https://github.com/Valar05/club-crucible/blob/main/content/valarsbeard-development/one-man-aaarmy.md#L17"
+        }
+      ]
+    }
+  }
+}

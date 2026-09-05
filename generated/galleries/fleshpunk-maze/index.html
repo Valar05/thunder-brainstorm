@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0a0908">
+<title>Fleshpunk Maze Progression — Thunder Gallery</title>
+<style>
+:root{--ink:#11100e;--bone:#f3eee3;--paper:#fffdf7;--blood:#a52020;--rust:#8a4c2b;--line:#c9bdab;font-family:Inter,ui-sans-serif,system-ui,sans-serif;color-scheme:light}
+*{box-sizing:border-box}body{margin:0;background:var(--bone);color:var(--ink)}a{color:inherit}
+header{min-height:64vh;display:grid;align-content:end;padding:clamp(22px,6vw,80px);color:white;background:radial-gradient(circle at 75% 25%,#542015 0,transparent 38%),linear-gradient(135deg,#090909,#1e1713 70%,#44130f)}
+.kicker{font:800 .76rem/1.2 ui-monospace,monospace;letter-spacing:.18em;color:#e78a6e}.marker{font:700 .68rem ui-monospace,monospace;opacity:.5}
+h1{font-size:clamp(3rem,11vw,9rem);line-height:.78;letter-spacing:-.065em;margin:.18em 0;max-width:12ch;text-transform:uppercase}header p{max-width:680px;font-size:clamp(1rem,2vw,1.3rem);color:#d8cec3}
+.sticky{position:sticky;top:0;z-index:8;background:rgba(243,238,227,.94);backdrop-filter:blur(12px);border-bottom:2px solid var(--ink);padding:10px max(16px,4vw);display:flex;gap:8px;overflow:auto}
+.sticky button{flex:0 0 auto;border:1px solid var(--ink);background:transparent;padding:10px 13px;font:750 .72rem ui-monospace,monospace;text-transform:uppercase}.sticky button:hover,.sticky button:focus{background:var(--blood);color:white}
+main{padding:clamp(20px,5vw,72px);max-width:1500px;margin:auto}.intro{display:grid;grid-template-columns:1fr 1fr;gap:30px;margin-bottom:50px}.intro strong{font-size:clamp(2rem,6vw,5rem);line-height:.9}.intro p{font-size:1.08rem;max-width:58ch}
+.timeline{display:grid;gap:52px}.stage{background:var(--paper);border:2px solid var(--ink);box-shadow:10px 10px 0 var(--ink);display:grid;grid-template-columns:minmax(0,1.45fr) minmax(270px,.55fr);scroll-margin-top:76px}.visual{min-height:340px;background:#fff;display:grid;place-items:center;border-right:2px solid var(--ink);overflow:hidden;cursor:zoom-in}.visual img{display:block;width:100%;height:auto;max-height:76vh;object-fit:contain}.copy{padding:clamp(20px,4vw,42px);display:flex;flex-direction:column}.number{font:900 4rem/.8 ui-monospace,monospace;color:var(--blood)}h2{font-size:clamp(1.55rem,3vw,2.8rem);line-height:1;margin:.45em 0}.verdict{align-self:flex-start;border:1px solid;padding:5px 8px;font:800 .7rem ui-monospace,monospace}.verdict[data-tone=bad]{color:#fff;background:var(--blood)}.verdict[data-tone=good]{color:#fff;background:#2d612c}.facts{margin-top:auto;padding-top:24px;font:650 .72rem/1.6 ui-monospace,monospace;overflow-wrap:anywhere;color:#584d43}.change{border-left:4px solid var(--rust);padding-left:12px;font-weight:700}
+.compare{margin:80px 0 20px}.compare h2{max-width:14ch}.compare-box{--reveal:50%;position:relative;aspect-ratio:3/2;background:#fff;border:2px solid;overflow:hidden}.compare-box img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain}.compare-box .after{clip-path:inset(0 calc(100% - var(--reveal)) 0 0);background:white}.compare input{width:100%;accent-color:var(--blood)}.compare-labels{display:flex;justify-content:space-between;font:800 .75rem ui-monospace,monospace}
+dialog{width:min(96vw,1500px);height:min(94vh,1100px);border:0;padding:0;background:#fff;box-shadow:0 0 0 100vmax rgba(0,0,0,.85)}dialog::backdrop{background:rgba(0,0,0,.85)}dialog img{width:100%;height:calc(100% - 56px);object-fit:contain}dialog button{width:100%;height:56px;border:0;background:#111;color:#fff;font-weight:800}
+footer{padding:50px max(20px,5vw);background:#111;color:#ddd;font:700 .75rem ui-monospace,monospace}
+@media(max-width:800px){header{min-height:54vh}.intro{grid-template-columns:1fr}.stage{grid-template-columns:1fr;box-shadow:6px 6px 0}.visual{border-right:0;border-bottom:2px solid;min-height:240px}.copy{min-height:300px}.stage:nth-child(even) .visual{order:0}}
+</style>
+</head>
+<body>
+<header><div class="kicker">THUNDER / VISUAL ARCHAEOLOGY</div><h1>Flesh learns machinery.</h1><p>Six preserved gates from the first deterministic diagram to a useful, exploded tendon-and-valve machine. Rejection is part of the record.</p><div class="marker">THUNDER_FLESHPUNK_GALLERY_V2</div></header>
+<nav class="sticky" id="stageNav" aria-label="Progression stages"></nav>
+<main>
+<section class="intro"><strong>06 stages. Nothing is hidden.</strong><p>The ugly stages stay visible. Every plate carries its source hash, verdict, and the exact reason it advanced or died. Tap any image for the full-resolution artifact.</p></section>
+<section class="timeline" id="timeline" aria-live="polite"></section>
+<section class="compare"><div class="kicker" style="color:var(--blood)">OPTICAL AUTOPSY</div><h2>Drag from baseline to champion.</h2><div class="compare-box" id="compareBox"><img id="beforeImage" alt="Initial deterministic baseline"><img class="after" id="afterImage" alt="Current clean line master"></div><input id="reveal" type="range" min="0" max="100" value="50" aria-label="Reveal current champion over initial baseline"><div class="compare-labels"><span>01 / TOY</span><span>05 / MACHINE</span></div></section>
+</main>
+<dialog id="viewer"><img alt=""><button type="button">Close full-resolution view</button></dialog>
+<footer>Thunder Brainstorm · deterministic progression record · final training acceptance remains USER_ONLY</footer>
+<script>
+const rawBase='/raw/generated/galleries/fleshpunk-maze/';
+const tone=v=>/REJECT|QUARANTINED|MIXED/.test(v)?'bad':/PROCEED|CHAMPION/.test(v)?'good':'wait';
+const el=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n};
+const viewer=document.getElementById('viewer');
+viewer.querySelector('button').onclick=()=>viewer.close();
+viewer.onclick=e=>{if(e.target===viewer)viewer.close()};
+fetch(rawBase+'gallery.json?v=THUNDER_FLESHPUNK_GALLERY_V2',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('manifest '+r.status);return r.json()}).then(g=>{
+ if(g.marker!=='THUNDER_FLESHPUNK_GALLERY_V2')throw Error('wrong gallery marker');
+ if(g.stage_count!==6||g.stages.length!==6)throw Error('expected exactly six stages');
+ document.title=g.title+' — Thunder Gallery';
+ const timeline=document.getElementById('timeline'),nav=document.getElementById('stageNav');
+ g.stages.forEach(s=>{
+  const id='stage-'+String(s.stage).padStart(2,'0');
+  const b=el('button','',String(s.stage).padStart(2,'0')+' '+s.title);b.onclick=()=>document.getElementById(id).scrollIntoView({behavior:'smooth'});nav.append(b);
+  const card=el('article','stage');card.id=id;
+  const visual=el('button','visual');visual.type='button';visual.setAttribute('aria-label','Open '+s.title+' full resolution');
+  const img=el('img');img.loading=s.stage<3?'eager':'lazy';img.src=s.raw_url+'?v='+g.build_fingerprint;img.alt=String(s.stage).padStart(2,'0')+' of 06 — '+s.title+': '+s.critique;visual.append(img);
+  visual.onclick=()=>{viewer.querySelector('img').src=img.src;viewer.querySelector('img').alt=img.alt;viewer.showModal()};
+  const copy=el('div','copy');copy.append(el('div','number',String(s.stage).padStart(2,'0')));
+  const badge=el('div','verdict',s.verdict);badge.dataset.tone=tone(s.verdict);copy.append(badge,el('h2','',s.title),el('p','change',s.change),el('p','',s.critique));
+  copy.append(el('div','facts',s.dimensions.join(' × ')+' PX · '+s.bytes.toLocaleString()+' BYTES\nSHA-256 '+s.gallery_sha256));
+  card.append(visual,copy);timeline.append(card);
+ });
+ const first=g.stages[0],champ=g.stages.find(s=>s.verdict==='CURRENT_CHAMPION')||g.stages.at(-1);
+ document.getElementById('beforeImage').src=first.raw_url+'?v='+g.build_fingerprint;document.getElementById('afterImage').src=champ.raw_url+'?v='+g.build_fingerprint;
+}).catch(err=>document.getElementById('timeline').textContent='Gallery failed closed: '+err.message);
+document.getElementById('reveal').addEventListener('input',e=>document.getElementById('compareBox').style.setProperty('--reveal',e.target.value+'%'));
+</script>
+</body></html>

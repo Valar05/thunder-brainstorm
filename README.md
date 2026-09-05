@@ -47,6 +47,11 @@ python thunder_brainstorm.py generate --count 5 --seed 17
 python thunder_brainstorm.py generate --focus "mobile action" --count 3
 python thunder_brainstorm.py inspect-local --root .. --out generated/local_scan.json
 python thunder_brainstorm.py inspect-gh --owner Valar05 --out generated/gh_scan.json
+python thunder_brainstorm.py mine-gh-repo --owner Valar05 --repo motion-dungeon --out-dir generated/repo_mining
+python thunder_brainstorm.py mine-gh-owner --owner Valar05 --out-dir generated/repo_mining --max-files 24
+python thunder_brainstorm.py critical-manifest --summary generated/repo_mining/Valar05_overnight_summary.json --out-dir generated/critical_thunder_manifest
+python thunder_brainstorm.py compose-motion-dungeon
+python thunder_brainstorm.py export-motion-dungeon-targets
 python thunder_brainstorm.py index-corpus --root .. --out-dir generated/index
 python thunder_brainstorm.py index-corpus --root .. --include-gh --owner Valar05 --gh-limit 20 --out-dir generated/index_full
 python thunder_brainstorm.py index-corpus --skip-local --include-gh --owner Valar05 --gh-limit 10 --max-gh-files-per-repo 25 --out-dir generated/index_github
@@ -56,6 +61,19 @@ python thunder_brainstorm.py search-index "rearm gap" --index generated/index_gi
 python thunder_brainstorm.py search-index --mechanic touch_lane_combat --project gravity-fist --index generated/index/mechanic_source_refs.jsonl
 python thunder_brainstorm.py search-index "phoenix" --project Phoenix-Simulator --index generated/index_combined/mechanic_source_refs.jsonl
 ```
+
+## Thunder-First JIT Source Transactions
+
+`tools/thunder_source_transaction.py` is the offline transaction half of Thunder-first engineering. `gap` reuses the existing combined-index search and emits `NEEDS_THUNDER_SOURCE` only after owner evidence and a sealed local `NO_REUSABLE_SOURCE`. GitHub lookup remains an external read-only intake ordered as Valar05 first, then bounded authoritative public repositories. `publish` accepts only a provenance-complete packet matching that gap, validates in an isolated worktree, creates exactly one local commit, and fast-forwards a still-clean canonical checkout. It never pushes or accesses the network.
+
+```sh
+python tools/thunder_source_transaction.py gap --repo . --query "missing capability" --capability capability-id --project project-id --owner-evidence path/to/owner.py:42 --out /absolute/temp/gap.json
+python tools/thunder_source_transaction.py publish --repo . --gap /absolute/temp/gap.json --packet /absolute/temp/packet.json --recovery-dir /absolute/temp/recovery
+python tools/thunder_source_transaction.py recover-lock --repo .
+python tools/test_thunder_source_transaction.py
+```
+
+Canonical Thunder must be clean at entry and exit. Live or ambiguous portable locks fail closed. Dead-lock recovery requires matching owner/journal state and unchanged clean HEAD. The add-to-commit dirty window defaults to 60 seconds; an overrun aborts before publication and preserves an external recovery receipt.
 
 ## Second-Pass Coverage
 
@@ -102,6 +120,18 @@ Cauldron laptop workspace records use origin `cauldron` and `ssh://dclar@192.168
 ## Boundary
 
 The included pattern cards are derived from structural observations: file names, docs categories, function/key names, repo descriptions, and repeated workflows. Do not paste repository code into pattern cards. If the extractor scans code, keep only abstract signals such as identifier names, file categories, schema keys, and concept tags.
+
+## Claude PR Code Review
+
+Thunder owns the Claude-backed PR review runner for independent code critique. The runner gives Claude read-only GitHub tools instead of source packets; if the repo or PR cannot be read, the run fails rather than synthesizing a review from pasted context. Dry-run is the default, and inline GitHub review comments are posted only with `--post` after mechanical verification maps findings to changed diff lines.
+
+```sh
+python tools/claude_code_review.py --pr Valar05/example#123
+python tools/claude_code_review.py --pr Valar05/example#123 --post
+python tools/capture_pr_review_fixture.py --pr Valar05/example#123 --out generated/code_reviews/fixtures/example_pr_123
+```
+
+Artifacts are written under `generated/code_reviews/` with the mission, tool transcript, read log, Claude JSON, verified findings, GitHub payload, and Markdown report. Use `tools/capture_pr_review_fixture.py` to capture a real PR once for offline `--mock-github` review-driver tests.
 
 ## Doc Server
 
@@ -192,3 +222,38 @@ A new first-person action platformer direction is captured in:
 - `generated/project_links/fps_platformer_arcane_ik_project_links.md`: local copied Blender assets, Arcane Manifold source pointers, and Three.js reference project links.
 
 The design target is a phone-first landscape Three.js runtime: arms sell weapon variety, while procedural foot planting, landing compression, slope contact, and body/camera yaw separation sell platforming feel.
+
+## Infinite Brutality Prototype Learnings
+
+Infinite Brutality runtime and design notes are preserved for future first-person melee/platformer passes:
+
+- `generated/session_learnings/2026-06-08_infinite_brutality_prototype_lessons.md`: creative direction, room/level bible, movement goals, runtime build state, low-poly visual lessons, dungeon graph direction, and diegetic lighting plan.
+- `generated/project_links/infinite_brutality_project_links.md`: local project paths, play URL, Thunder docs URL, and related notes.
+- `generated/source_refs_manual/infinite_brutality_source_refs.jsonl`: manual source-reference records for runtime systems that normal indexing may skip or flatten.
+- `generated/skills/level_design_environment_grammar.md`: general environment-first level-design workflow and critique-improvement loop.
+- `../infinite-brutality/docs/LEVEL_DESIGN_WORKFLOW.md`: Infinite Brutality-specific companion workflow note.
+- `../infinite-brutality/docs/VERTICAL_DISTRICT_REALIZATION_PLAN.md`: corrective implementation plan for moving Infinite Brutality from a flat graph with room garnish to a true 3D district spine.
+- Local play URL: `http://127.0.0.1:8798/infinite-brutality/index.html`
+
+
+## Quake Route Grammar Curriculum
+
+Infinite Brutality now has a route-grammar extractor and bootstrap curriculum for Quake-style level generation without copying Quake layouts or data:
+
+- `tools/quake_route_grammar.py`: sequential extractor for local `.map`, `.bsp`, Quake `.pak`, and `.pk3`/`.zip` sources.
+- `generated/quake_route_grammar/quake_route_grammar_curriculum.md`: abstract route-template report.
+- `generated/quake_route_grammar/quake_route_grammar_curriculum.json`: generator-facing curriculum data.
+- `../infinite-brutality/LEVEL_GENERATION_CONTRACT.md`: project-local hard rules.
+- `../infinite-brutality/data/level_route_templates.json`: current route templates.
+
+Current curriculum is trained from the legal Quake map-source archive isolated under `generated/external_sources/quake_map_sources/`: 63 total sources, 41 playable maps trained, 22 item/prefab sources metadata-only. Infinite Brutality consumes only abstract route sentences and ML level-design lessons, not Quake geometry or assets.
+
+## Fleshpunk Maze Progression Gallery
+
+Thunder serves the content-addressed Fleshpunk visual archaeology at `http://127.0.0.1:8765/gallery/fleshpunk-maze`. It preserves six ordered stages, including rejected work, deterministic source selection, the current full-resolution pressure-valve champion, and its binary training projection. Rebuild the mirror with:
+
+```sh
+python tools/build_fleshpunk_gallery.py --source-root ../infinite-brutality
+```
+
+The durable server session is named `thunder-gallery`.

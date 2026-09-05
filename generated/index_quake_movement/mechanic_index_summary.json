@@ -1,0 +1,1263 @@
+{
+  "record_count": 14437,
+  "by_origin": {
+    "local": 14437
+  },
+  "by_project": {
+    "generated": 7379,
+    "prototypes": 4960,
+    "data": 746,
+    "thunder_brainstorm.py": 646,
+    "tools": 621,
+    "README.md": 85
+  },
+  "by_mechanic": {
+    "ai_pressure": 6959,
+    "asset_import_pipeline": 4270,
+    "source_packet_generation": 2842,
+    "pose_animation_tools": 2346,
+    "tts_audio_pipeline": 1880,
+    "text_console_runtime": 1536,
+    "web_choice_player": 1432,
+    "writing_corpus_review": 724,
+    "vehicle_survival": 466,
+    "touch_lane_combat": 433,
+    "resource_upgrade_loop": 369,
+    "deck_pressure": 346,
+    "validation_pipeline": 320,
+    "delayed_consequences": 297,
+    "event_clouds": 221
+  },
+  "examples": {
+    "ai_pressure": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 1,
+        "symbol": "Thunder Brainstorm",
+        "evidence": "# Thunder Brainstorm",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 3,
+        "symbol": "",
+        "evidence": "Thunder Brainstorm is a local game-idea engine built from generalized patterns observed across this workspace and GitHub repository metadata. It is intentionally not a repo copi...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 17,
+        "symbol": "",
+        "evidence": "- `generated/session_learnings/2026-06-05_armor_command_prototype_lessons.md`: prototype lessons from the Armor Command pivot, input tuning, sprite atlas, generated assets, WebA...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 27,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py list",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 28,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py generate --count 5 --seed 17",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 29,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py generate --focus \"mobile action\" --count 3",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 30,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py inspect-local --root .. --out generated/local_scan.json",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 31,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py inspect-gh --owner Valar05 --out generated/gh_scan.json",
+        "source_url": ""
+      }
+    ],
+    "asset_import_pipeline": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 3,
+        "symbol": "",
+        "evidence": "Thunder Brainstorm is a local game-idea engine built from generalized patterns observed across this workspace and GitHub repository metadata. It is intentionally not a repo copi...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 5,
+        "symbol": "Armor Command / Page Assets",
+        "evidence": "## Armor Command / Page Assets",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 9,
+        "symbol": "",
+        "evidence": "- `generated/page_assets/armor_command_page_copy.md`: actual Armor Command itch/page copy.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 10,
+        "symbol": "",
+        "evidence": "- `generated/page_assets/armor_command_icon_512.png`: actual 512px Armor Command icon.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 11,
+        "symbol": "",
+        "evidence": "- `generated/page_assets/armor_command_icon_1024.png`: actual 1024px Armor Command icon.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 12,
+        "symbol": "",
+        "evidence": "- `generated/page_assets/armor_command_page_assets_manifest.json`: Thunder mirror manifest for the page copy and icon files.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 15,
+        "symbol": "",
+        "evidence": "- `generated/project_links/armor_command_project_links.md`: Armor Command copy, icon paths, release asset links, and current pitch.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 16,
+        "symbol": "",
+        "evidence": "- `generated/project_links/armor_command_project_links.json`: machine-readable paths for page copy and icon assets.",
+        "source_url": ""
+      }
+    ],
+    "text_console_runtime": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 5,
+        "symbol": "Armor Command / Page Assets",
+        "evidence": "## Armor Command / Page Assets",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 9,
+        "symbol": "",
+        "evidence": "- `generated/page_assets/armor_command_page_copy.md`: actual Armor Command itch/page copy.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 10,
+        "symbol": "",
+        "evidence": "- `generated/page_assets/armor_command_icon_512.png`: actual 512px Armor Command icon.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 11,
+        "symbol": "",
+        "evidence": "- `generated/page_assets/armor_command_icon_1024.png`: actual 1024px Armor Command icon.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 12,
+        "symbol": "",
+        "evidence": "- `generated/page_assets/armor_command_page_assets_manifest.json`: Thunder mirror manifest for the page copy and icon files.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 13,
+        "symbol": "",
+        "evidence": "- `generated/release_packets/armor_command_itch/DEVLOG_v1.0.0.md`: Armor Command v1.0 devlog copy in the Marrow Runner scribe style.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 14,
+        "symbol": "",
+        "evidence": "- `generated/release_packets/armor_command_itch/TWITTER_v1.0.0.md`: Armor Command v1.0 Twitter/X post copy with a 280-character primary version.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 15,
+        "symbol": "",
+        "evidence": "- `generated/project_links/armor_command_project_links.md`: Armor Command copy, icon paths, release asset links, and current pitch.",
+        "source_url": ""
+      }
+    ],
+    "tts_audio_pipeline": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 12,
+        "symbol": "",
+        "evidence": "- `generated/page_assets/armor_command_page_assets_manifest.json`: Thunder mirror manifest for the page copy and icon files.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 17,
+        "symbol": "",
+        "evidence": "- `generated/session_learnings/2026-06-05_armor_command_prototype_lessons.md`: prototype lessons from the Armor Command pivot, input tuning, sprite atlas, generated assets, WebA...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "- `long-haul`: highway vehicle survivorlike, cockpit HUD zones, pursuer rearm gaps, layered vehicle audio, CC asset sourcing.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 56,
+        "symbol": "",
+        "evidence": "- Validation-first content pipelines, TTS manifests, and nondestructive writing labs.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 141,
+        "symbol": "",
+        "evidence": "The workspace CLI is `../tools/meshy_asset_workflow.py`. Use it to generate or track DALL-E/OpenAI concept images, Meshy image-to-3D tasks, Meshy rigging tasks, downloads, and p...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 151,
+        "symbol": "",
+        "evidence": "- `web_audio_buffer_sfx_bus`",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 19,
+        "symbol": "",
+        "evidence": "STOP_DIRS = {\".git\", \".godot\", \"generated\", \"audio\", \"assets\", \"models\", \"music\", \"node_modules\", \"__pycache__\"}",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 30,
+        "symbol": "",
+        "evidence": "\"tts_audio_pipeline\": [\"tts\", \"audio\", \"manifest\", \"speaker\", \"clip\", \"mp3\", \"wav\"],",
+        "source_url": ""
+      }
+    ],
+    "source_packet_generation": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 13,
+        "symbol": "",
+        "evidence": "- `generated/release_packets/armor_command_itch/DEVLOG_v1.0.0.md`: Armor Command v1.0 devlog copy in the Marrow Runner scribe style.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 14,
+        "symbol": "",
+        "evidence": "- `generated/release_packets/armor_command_itch/TWITTER_v1.0.0.md`: Armor Command v1.0 Twitter/X post copy with a 280-character primary version.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 32,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py index-corpus --root .. --out-dir generated/index",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 33,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py index-corpus --root .. --include-gh --owner Valar05 --gh-limit 20 --out-dir generated/index_full",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 34,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py index-corpus --skip-local --include-gh --owner Valar05 --gh-limit 10 --max-gh-files-per-repo 25 --out-dir generated/index_github",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 35,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py index-corpus --skip-local --include-gh --owner Valar05 --repo long-haul --max-gh-files-per-repo 30 --out-dir generated/index_long_haul",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 36,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py index-corpus --root .. --include-generated --out-dir generated/index_with_generated",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 47,
+        "symbol": "",
+        "evidence": "- Current workspace projects: Godot text-choice stacks, event-cloud web prototypes, combat/action prototypes, Phalanx pose lab, SteamPile resource microloops, and Legion writing...",
+        "source_url": ""
+      }
+    ],
+    "web_choice_player": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 17,
+        "symbol": "",
+        "evidence": "- `generated/session_learnings/2026-06-05_armor_command_prototype_lessons.md`: prototype lessons from the Armor Command pivot, input tuning, sprite atlas, generated assets, WebA...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 18,
+        "symbol": "",
+        "evidence": "- `generated/skills/armor_command_html5_release_operator.md`: Thunder-visible workflow skill note for Armor Command-style HTML5/canvas release operations.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 47,
+        "symbol": "",
+        "evidence": "- Current workspace projects: Godot text-choice stacks, event-cloud web prototypes, combat/action prototypes, Phalanx pose lab, SteamPile resource microloops, and Legion writing...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 55,
+        "symbol": "",
+        "evidence": "- Text-console choice runtimes, local review surfaces, and web choice players.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 88,
+        "symbol": "Doc Server",
+        "evidence": "## Doc Server",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 93,
+        "symbol": "",
+        "evidence": "python tools/doc_server.py --host 127.0.0.1 --port 8765",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 96,
+        "symbol": "",
+        "evidence": "Open `http://127.0.0.1:8765/`. JSON files render as structured documents, Markdown/text files render as readable pages, and large JSONL indexes include a search preview instead ...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 121,
+        "symbol": "",
+        "evidence": "A first playable HTML canvas prototype lives in `prototypes/immune-maze-canvas/`. Run it with:",
+        "source_url": ""
+      }
+    ],
+    "touch_lane_combat": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 38,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py search-index --mechanic touch_lane_combat --project gravity-fist --index generated/index/mechanic_source_refs.jsonl",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 54,
+        "symbol": "",
+        "evidence": "- Godot mobile combat, touch lanes, handoff-to-duel presentation, and survivorlike offer loops.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 117,
+        "symbol": "",
+        "evidence": "New generalized pattern cards from this pass include `mobile_canvas_release_workbench`, `recursive_knockback_dash_core`, `bounded_ai_release_scribe`, and `generated_asset_proven...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 137,
+        "symbol": "",
+        "evidence": "- `generated/session_learnings/2026-06-07_gravity_fist_threejs_dash_pushback_parity.md`",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 29,
+        "symbol": "",
+        "evidence": "\"text_console_runtime\": [\"dashboard\", \"console\", \"command\", \"parser\", \"choice\", \"button\", \"room\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 31,
+        "symbol": "",
+        "evidence": "\"touch_lane_combat\": [\"swipe\", \"lane\", \"attack\", \"dash\", \"block\", \"parry\", \"hitbox\", \"combo\", \"stomp\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 33,
+        "symbol": "",
+        "evidence": "\"vehicle_survival\": [\"vehicle\", \"road\", \"lane\", \"mph\", \"rpm\", \"tire\", \"slip\", \"skid\", \"fuel\", \"chaser\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 46,
+        "symbol": "",
+        "evidence": "\"mobile\": [\"touch_lane_combat\", \"text_console_choice_runtime\", \"audio_manifest_sync\"],",
+        "source_url": ""
+      }
+    ],
+    "vehicle_survival": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 38,
+        "symbol": "",
+        "evidence": "python thunder_brainstorm.py search-index --mechanic touch_lane_combat --project gravity-fist --index generated/index/mechanic_source_refs.jsonl",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "- `long-haul`: highway vehicle survivorlike, cockpit HUD zones, pursuer rearm gaps, layered vehicle audio, CC asset sourcing.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 54,
+        "symbol": "",
+        "evidence": "- Godot mobile combat, touch lanes, handoff-to-duel presentation, and survivorlike offer loops.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 102,
+        "symbol": "",
+        "evidence": "- `generated/session_learnings/2026-06-05_armor_command_prototype_lessons.md`: vehicle pivot, touch/missile input tuning, per-rack cooldowns, generated sprite-sheet atlas pitfal...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 160,
+        "symbol": "",
+        "evidence": "Last Convoy source-parity and canvas-port learnings are preserved for future vehicle/snake-convoy prototypes:",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 31,
+        "symbol": "",
+        "evidence": "\"touch_lane_combat\": [\"swipe\", \"lane\", \"attack\", \"dash\", \"block\", \"parry\", \"hitbox\", \"combo\", \"stomp\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 33,
+        "symbol": "",
+        "evidence": "\"vehicle_survival\": [\"vehicle\", \"road\", \"lane\", \"mph\", \"rpm\", \"tire\", \"slip\", \"skid\", \"fuel\", \"chaser\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 46,
+        "symbol": "",
+        "evidence": "\"mobile\": [\"touch_lane_combat\", \"text_console_choice_runtime\", \"audio_manifest_sync\"],",
+        "source_url": ""
+      }
+    ],
+    "pose_animation_tools": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 46,
+        "symbol": "",
+        "evidence": "- `long-haul`: highway vehicle survivorlike, cockpit HUD zones, pursuer rearm gaps, layered vehicle audio, CC asset sourcing.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 47,
+        "symbol": "",
+        "evidence": "- Current workspace projects: Godot text-choice stacks, event-cloud web prototypes, combat/action prototypes, Phalanx pose lab, SteamPile resource microloops, and Legion writing...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 54,
+        "symbol": "",
+        "evidence": "- Godot mobile combat, touch lanes, handoff-to-duel presentation, and survivorlike offer loops.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 75,
+        "symbol": "",
+        "evidence": "- `mechanic_index_summary.json`: counts by mechanic, project, origin, and representative examples.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 78,
+        "symbol": "",
+        "evidence": "Each source record includes the origin, project/repo, path, line number, symbol/key/heading when detected, mechanic tags, and a compact evidence line. This is the audit trail fo...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 82,
+        "symbol": "",
+        "evidence": "Cauldron laptop workspace records use origin `cauldron` and `ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/...#L...` source URLs. The generated catalog lives in `generated...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 100,
+        "symbol": "",
+        "evidence": "Armor Command learnings from the missile-command survivorlike prototype are preserved for future brainstorming passes:",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 141,
+        "symbol": "",
+        "evidence": "The workspace CLI is `../tools/meshy_asset_workflow.py`. Use it to generate or track DALL-E/OpenAI concept images, Meshy image-to-3D tasks, Meshy rigging tasks, downloads, and p...",
+        "source_url": ""
+      }
+    ],
+    "resource_upgrade_loop": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 47,
+        "symbol": "",
+        "evidence": "- Current workspace projects: Godot text-choice stacks, event-cloud web prototypes, combat/action prototypes, Phalanx pose lab, SteamPile resource microloops, and Legion writing...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 54,
+        "symbol": "",
+        "evidence": "- Godot mobile combat, touch lanes, handoff-to-duel presentation, and survivorlike offer loops.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 112,
+        "symbol": "",
+        "evidence": "- `generated/session_learnings/2026-06-06_marrow_runner_upgrade_leakfix_rc4.md`: upgrade branch/capstone/synergy implementation, New Run choppiness lifecycle fix, rc4 itch targe...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 167,
+        "symbol": "",
+        "evidence": "New generalized pattern cards from this pass include `snake_convoy_upgrade_chain`, `source_parity_canvas_port`, `canvas_webgl_shader_bridge`, `textured_fragmentation_port`, and ...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 36,
+        "symbol": "",
+        "evidence": "\"resource_upgrade_loop\": [\"mine\", \"shop\", \"upgrade\", \"crystal\", \"resource\", \"harvest\", \"offer\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 47,
+        "symbol": "",
+        "evidence": "\"action\": [\"touch_lane_combat\", \"contact_to_duel_handoff\", \"survivorlike_offer_loop\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 62,
+        "symbol": "",
+        "evidence": "\"mining\": [\"mining_shop_upgrade_microloop\", \"deck_pressure_run_manager\", \"survivorlike_offer_loop\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 149,
+        "symbol": "",
+        "evidence": "nouns = [\"pressure\", \"debt\", \"signals\", \"bodies\", \"routes\", \"relics\", \"reports\", \"storms\", \"offers\", \"thresholds\"]",
+        "source_url": ""
+      }
+    ],
+    "deck_pressure": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 52,
+        "symbol": "",
+        "evidence": "- Pressure arenas, event clouds, delayed consequences, and deck-driven pacing.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 25,
+        "symbol": "",
+        "evidence": "\"deck_pressure\": [\"deck\", \"bpm\", \"threshold\", \"cadence\", \"draw\", \"outcome_attractor\", \"state_axis\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 50,
+        "symbol": "",
+        "evidence": "\"roguelike\": [\"pressure_arena_event_cloud\", \"deck_pressure_run_manager\", \"artifact_recipe_unlocks\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 55,
+        "symbol": "",
+        "evidence": "\"board\": [\"board_creature_ecosystem\", \"deck_pressure_run_manager\", \"artifact_recipe_unlocks\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 62,
+        "symbol": "",
+        "evidence": "\"mining\": [\"mining_shop_upgrade_microloop\", \"deck_pressure_run_manager\", \"survivorlike_offer_loop\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 66,
+        "symbol": "",
+        "evidence": "\"Pressure\", \"Relic\", \"Signal\", \"Ash\", \"Glass\", \"Iron\", \"Morrow\", \"Pulse\", \"Threshold\", \"Circuit\",",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 71,
+        "symbol": "",
+        "evidence": "\"Wardens\", \"Procession\", \"Engine\", \"Witnesses\", \"Deck\", \"Vault\", \"Frontier\", \"Choir\", \"Garrison\", \"Exile\",",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 149,
+        "symbol": "",
+        "evidence": "nouns = [\"pressure\", \"debt\", \"signals\", \"bodies\", \"routes\", \"relics\", \"reports\", \"storms\", \"offers\", \"thresholds\"]",
+        "source_url": ""
+      }
+    ],
+    "delayed_consequences": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 52,
+        "symbol": "",
+        "evidence": "- Pressure arenas, event clouds, delayed consequences, and deck-driven pacing.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 26,
+        "symbol": "",
+        "evidence": "\"delayed_consequences\": [\"followup\", \"follow_up\", \"payoff\", \"hook\", \"delayed\", \"echo\", \"memory\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 49,
+        "symbol": "",
+        "evidence": "\"narrative\": [\"pressure_arena_event_cloud\", \"delayed_consequence_stack\", \"source_packet_pipeline\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 67,
+        "symbol": "",
+        "evidence": "\"Wake\", \"Cinder\", \"Vow\", \"Drift\", \"Engine\", \"Hollow\", \"Echo\", \"Rift\", \"Beacon\", \"Debt\",",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 155,
+        "symbol": "",
+        "evidence": "\"Resolve a later echo that proves the previous choice mattered.\"",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 189,
+        "symbol": "",
+        "evidence": "\"Two resource axes and one delayed consequence queue.\",",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 241,
+        "symbol": "",
+        "evidence": "if name in DOC_NAMES or \"/docs/\" in rel or \"/.agent-memory/\" in rel:",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 291,
+        "symbol": "",
+        "evidence": "\"delayed-consequence\": [\"followup\", \"payoff\", \"hook\"],",
+        "source_url": ""
+      }
+    ],
+    "writing_corpus_review": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 76,
+        "symbol": "",
+        "evidence": "- `mechanic_index_report.md`: readable mechanic headings with source examples.",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 80,
+        "symbol": "",
+        "evidence": "Generated folders are skipped by default to keep the index focused on code, docs, schemas, and project metadata. Use `--include-generated` when you want generated content patche...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 90,
+        "symbol": "",
+        "evidence": "Run a local document browser for generated stubs, source packets, corpus reports, and index files:",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 38,
+        "symbol": "",
+        "evidence": "\"writing_corpus_review\": [\"draft\", \"report\", \"drift\", \"repetition\", \"chunk\", \"critique\", \"original\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 67,
+        "symbol": "",
+        "evidence": "\"Wake\", \"Cinder\", \"Vow\", \"Drift\", \"Engine\", \"Hollow\", \"Echo\", \"Rift\", \"Beacon\", \"Debt\",",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 149,
+        "symbol": "",
+        "evidence": "nouns = [\"pressure\", \"debt\", \"signals\", \"bodies\", \"routes\", \"relics\", \"reports\", \"storms\", \"offers\", \"thresholds\"]",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 599,
+        "symbol": "write_index_report",
+        "evidence": "def write_index_report(path: Path, summary: dict[str, Any]) -> None:",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 637,
+        "symbol": "",
+        "evidence": "write_index_report(out_dir / \"mechanic_index_report.md\", summary)",
+        "source_url": ""
+      }
+    ],
+    "validation_pipeline": [
+      {
+        "origin": "local",
+        "project": "README.md",
+        "repo": "",
+        "path": "README.md",
+        "line": 78,
+        "symbol": "",
+        "evidence": "Each source record includes the origin, project/repo, path, line number, symbol/key/heading when detected, mechanic tags, and a compact evidence line. This is the audit trail fo...",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 28,
+        "symbol": "",
+        "evidence": "\"validation_pipeline\": [\"validate\", \"audit\", \"smoke\", \"bootstrap\", \"strict\", \"lint\", \"repair\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 148,
+        "symbol": "",
+        "evidence": "verbs = [\"authorize\", \"survive\", \"interpret\", \"route\", \"interrupt\", \"repair\", \"commit\", \"trade\", \"extract\", \"withstand\"]",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 168,
+        "symbol": "",
+        "evidence": "\"Generate 6-10 sample records and run an action-ID/dangling-reference audit.\",",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 296,
+        "symbol": "",
+        "evidence": "\"validation\": [\"validate\", \"audit\", \"smoke\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "data",
+        "repo": "",
+        "path": "data/pattern_cards.json",
+        "line": 52,
+        "symbol": "",
+        "evidence": "\"payoff audit\"",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "data",
+        "repo": "",
+        "path": "data/pattern_cards.json",
+        "line": 66,
+        "symbol": "",
+        "evidence": "\"audit-payoffs\"",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "data",
+        "repo": "",
+        "path": "data/pattern_cards.json",
+        "line": 89,
+        "symbol": "",
+        "evidence": "\"How will the returned patch be validated?\"",
+        "source_url": ""
+      }
+    ],
+    "event_clouds": [
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 24,
+        "symbol": "",
+        "evidence": "\"event_clouds\": [\"event_cloud\", \"event_line\", \"event_seed\", \"domain\", \"reaction\", \"cascade\", \"cross_domain\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 49,
+        "symbol": "",
+        "evidence": "\"narrative\": [\"pressure_arena_event_cloud\", \"delayed_consequence_stack\", \"source_packet_pipeline\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 50,
+        "symbol": "",
+        "evidence": "\"roguelike\": [\"pressure_arena_event_cloud\", \"deck_pressure_run_manager\", \"artifact_recipe_unlocks\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "thunder_brainstorm.py",
+        "repo": "",
+        "path": "thunder_brainstorm.py",
+        "line": 289,
+        "symbol": "",
+        "evidence": "\"event-cloud\": [\"event_lines\", \"event_seeds\", \"domain\"],",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "data",
+        "repo": "",
+        "path": "data/pattern_cards.json",
+        "line": 6,
+        "symbol": "id",
+        "evidence": "\"id\": \"pressure_arena_event_cloud\",",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "data",
+        "repo": "",
+        "path": "data/pattern_cards.json",
+        "line": 9,
+        "symbol": "summary",
+        "evidence": "\"summary\": \"A run enters a thematic arena that samples event threads, reactions, cascades, and exits based on state rather than following a fixed mission list.\",",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "data",
+        "repo": "",
+        "path": "data/pattern_cards.json",
+        "line": 12,
+        "symbol": "",
+        "evidence": "\"domain-based progression\",",
+        "source_url": ""
+      },
+      {
+        "origin": "local",
+        "project": "data",
+        "repo": "",
+        "path": "data/pattern_cards.json",
+        "line": 18,
+        "symbol": "",
+        "evidence": "\"reaction rules\",",
+        "source_url": ""
+      }
+    ]
+  }
+}

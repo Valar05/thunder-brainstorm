@@ -1,0 +1,1291 @@
+{
+  "repo": "Valar05/cornfire-convoy-fp",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "cornfire-convoy-fp",
+    "updatedAt": "2026-06-20T22:47:53Z",
+    "url": "https://github.com/Valar05/cornfire-convoy-fp",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 8,
+  "selected_files": [
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "2919ffca87e991ba11bd16730cf27c4b3318c406",
+      "size": 2603,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 39,
+      "byte_count": 2603,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L15",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L23",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L24",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L29"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "2589425a7543eb9a20ea8644fca46d297dcba43c",
+      "size": 301,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 16,
+      "byte_count": 301,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/package.json#L5",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/package.json#L7",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/package.json#L11"
+      ]
+    },
+    {
+      "path": "tools/chromium_screenshot.sh",
+      "mode": "100644",
+      "sha": "602b53cb627b1944b67b1243b9d03c0312bc56f8",
+      "size": 995,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 995,
+      "mechanics": []
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "fd86b6fff8100ad4f1f60bdc51b336b43b477249",
+      "size": 2078,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 53,
+      "byte_count": 2078,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "assets/asset_manifest.json",
+      "mode": "100644",
+      "sha": "7ba42156bec716292cb5399d24b8964e31d78267",
+      "size": 7511,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 156,
+      "byte_count": 7511,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L1",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L2",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L3",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L4",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L5",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L6",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L7",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "sha": "5da5d4f8f05b751df352408db70aaea2cba7be35",
+      "size": 440,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 440,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/AGENTS.md#L3",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/AGENTS.md#L5"
+      ]
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "sha": "c1179b9b38eaf75246bb615db681935bf2f18de3",
+      "size": 562,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 562,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/package-lock.json#L10",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/package-lock.json#L19"
+      ]
+    },
+    {
+      "path": "src/main.js",
+      "mode": "100644",
+      "sha": "9b9905f3677e23b1bb7731cbf192831e73a6ed0e",
+      "size": 98764,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2407,
+      "byte_count": 98764,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L1",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L3",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L4",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L6",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L7",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L8",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L9",
+        "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L11"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 2464,
+    "by_origin": {
+      "github": 2464
+    },
+    "by_project": {
+      "cornfire-convoy-fp": 2464
+    },
+    "by_mechanic": {
+      "ai_pressure": 2260,
+      "asset_import_pipeline": 251,
+      "tts_audio_pipeline": 206,
+      "vehicle_survival": 179,
+      "web_choice_player": 137,
+      "pose_animation_tools": 108,
+      "resource_upgrade_loop": 79,
+      "writing_corpus_review": 50,
+      "touch_lane_combat": 47,
+      "text_console_runtime": 46,
+      "deck_pressure": 13,
+      "delayed_consequences": 7,
+      "validation_pipeline": 3,
+      "source_packet_generation": 1
+    },
+    "examples": {
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Cornfire Convoy FP is a sibling fork of `cornfire-convoy` that pivots the same green-apocalypse vehicle/Galaga concept into a first-person cockpit view. It keeps the dependency-...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: first-person road projection, tap/hold driving intent, gas/corn/refinery economy, cockpit/dash rendering, enemy attack runs, and placeholder weapon/drone logic.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- First-person windshield road view with curved highway, verdant shoulders, corn stalks, trees, refinery gates, hood, steering wheel, gun muzzle, and visual-only road-flow bands...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Long Haul-inspired feel hooks: separate steering and pedal zones, visible hood/dash pitch feedback for acceleration, turbo, braking, and reverse, gear changes tied to speed ba...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Gas drains continuously and faster under hard acceleration, slip, and shoulder/cornfield driving; initial gas lasts about two minutes at cruise.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Corn stalks spawn off-road as harvestable shoulder pressure; refineries convert stored corn into gas automatically when passed.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- Galaga-inspired raider behavior: motorcycles and trucks form at depth, telegraph, dive across lanes, fire, pass, and rearm.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "Future image generation should start with cockpit/windshield perspective: biofuel dash, hood-mounted gun, curved green highway, cornfield shoulders, raider motorcycles, gun truc...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L39"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Cornfire Convoy FP is a sibling fork of `cornfire-convoy` that pivots the same green-apocalypse vehicle/Galaga concept into a first-person cockpit view. It keeps the dependency-...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `index.html`: browser shell and DOM overlay/HUD.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: first-person road projection, tap/hold driving intent, gas/corn/refinery economy, cockpit/dash rendering, enemy attack runs, and placeholder weapon/drone logic.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "python -m http.server 8795",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Fixed forward gun auto-fires through the windshield; first drone choice appears after early kills with flamethrower, machine gun, or railgun placeholder behavior.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "> Cornfire Convoy FP is a sibling fork of `cornfire-convoy` that pivots the same green-apocalypse vehicle/Galaga concept into a first-person cockpit view. It keeps the dependenc...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "> - `index.html`: browser shell and DOM overlay/HUD.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "> - `src/main.js`: first-person road projection, tap/hold driving intent, gas/corn/refinery economy, cockpit/dash rendering, enemy attack runs, and placeholder weapon/drone logic.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L16"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: first-person road projection, tap/hold driving intent, gas/corn/refinery economy, cockpit/dash rendering, enemy attack runs, and placeholder weapon/drone logic.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Long Haul-inspired feel hooks: separate steering and pedal zones, visible hood/dash pitch feedback for acceleration, turbo, braking, and reverse, gear changes tied to speed ba...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- Galaga-inspired raider behavior: motorcycles and trucks form at depth, telegraph, dive across lanes, fire, pass, and rearm.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "Future image generation should start with cockpit/windshield perspective: biofuel dash, hood-mounted gun, curved green highway, cornfield shoulders, raider motorcycles, gun truc...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "> - `src/main.js`: first-person road projection, tap/hold driving intent, gas/corn/refinery economy, cockpit/dash rendering, enemy attack runs, and placeholder weapon/drone logic.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "assets/asset_manifest.json",
+          "line": 24,
+          "symbol": "path",
+          "evidence": "\"path\": \"assets/longhaul/dashboard.png\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L24"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: first-person road projection, tap/hold driving intent, gas/corn/refinery economy, cockpit/dash rendering, enemy attack runs, and placeholder weapon/drone logic.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "node --check src/main.js",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Gas drains continuously and faster under hard acceleration, slip, and shoulder/cornfield driving; initial gas lasts about two minutes at cruise.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Corn stalks spawn off-road as harvestable shoulder pressure; refineries convert stored corn into gas automatically when passed.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- Galaga-inspired raider behavior: motorcycles and trucks form at depth, telegraph, dive across lanes, fire, pass, and rearm.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Fixed forward gun auto-fires through the windshield; first drone choice appears after early kills with flamethrower, machine gun, or railgun placeholder behavior.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "Future image generation should start with cockpit/windshield perspective: biofuel dash, hood-mounted gun, curved green highway, cornfield shoulders, raider motorcycles, gun truc...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "package.json",
+          "line": 5,
+          "symbol": "main",
+          "evidence": "\"main\": \"index.js\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/package.json#L5"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: placeholder/provenance notes for future generated art.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: cornfire-convoy-fp",
+          "evidence": "# Project Manifest: cornfire-convoy-fp",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/cornfire-convoy-fp`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Git remote: `https://github.com/Valar05/cornfire-convoy-fp`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Orientation: `PROJECT_ORIENTATION.md`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L7"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: placeholder/provenance notes for future generated art.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "Asset Direction",
+          "evidence": "## Asset Direction",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "package.json",
+          "line": 11,
+          "symbol": "license",
+          "evidence": "\"license\": \"ISC\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/package.json#L11"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 1,
+          "symbol": "Project Manifest: cornfire-convoy-fp",
+          "evidence": "# Project Manifest: cornfire-convoy-fp",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "- Generated: 2026-06-20T17:47:30-05:00",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "- Workspace path: `/storage/emulated/0/Documents/GodotProjects/cornfire-convoy-fp`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Git repository: yes",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L5"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Two-zone driving controls: left side is steering, right side is the pedal with top acceleration/turbo and bottom brake/reverse. Optional phone gyro can steer only when the lef...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 10,
+          "symbol": "Purpose Snapshot",
+          "evidence": "## Purpose Snapshot",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "assets/asset_manifest.json",
+          "line": 10,
+          "symbol": "origin",
+          "evidence": "\"origin\": \"Long Haul imported runtime texture\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L10"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "assets/asset_manifest.json",
+          "line": 18,
+          "symbol": "origin",
+          "evidence": "\"origin\": \"Long Haul imported runtime texture\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L18"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "assets/asset_manifest.json",
+          "line": 26,
+          "symbol": "origin",
+          "evidence": "\"origin\": \"Long Haul imported runtime texture\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L26"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "assets/asset_manifest.json",
+          "line": 34,
+          "symbol": "origin",
+          "evidence": "\"origin\": \"Long Haul imported runtime texture\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L34"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "assets/asset_manifest.json",
+          "line": 42,
+          "symbol": "origin",
+          "evidence": "\"origin\": \"Long Haul imported runtime texture\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L42"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "assets/asset_manifest.json",
+          "line": 50,
+          "symbol": "origin",
+          "evidence": "\"origin\": \"Long Haul imported runtime texture\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L50"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Long Haul-inspired feel hooks: separate steering and pedal zones, visible hood/dash pitch feedback for acceleration, turbo, braking, and reverse, gear changes tied to speed ba...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "package.json",
+          "line": 7,
+          "symbol": "test",
+          "evidence": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/package.json#L7"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- `test`: `echo \"Error: no test specified\" && exit 1`",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_MANIFEST.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 1154,
+          "symbol": "applyUpgradeChoice",
+          "evidence": "function applyUpgradeChoice(option) {",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L1154"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 1175,
+          "symbol": "showUpgradeChoice",
+          "evidence": "function showUpgradeChoice() {",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L1175"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 1192,
+          "symbol": "",
+          "evidence": "button.addEventListener('click', () => applyUpgradeChoice(options[Number(button.dataset.upgradeIndex)]));",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L1192"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 2146,
+          "symbol": "",
+          "evidence": "setTimeout(() => { if (state.mode === 'running') showUpgradeChoice(); }, 130);",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L2146"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Corn stalks spawn off-road as harvestable shoulder pressure; refineries convert stored corn into gas automatically when passed.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 163,
+          "symbol": "",
+          "evidence": "choiceOffered: false,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L163"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 514,
+          "symbol": "",
+          "evidence": "const UPGRADE_TRIGGERS = [",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L514"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 525,
+          "symbol": "",
+          "evidence": "const UPGRADE_VERBS = [",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L525"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 526,
+          "symbol": "",
+          "evidence": "{ id: 'mine', label: 'Drop Mine', rarity: 1.1, amount: 'blast radius and damage', capstone: 'the mine becomes a chain mine that jumps to a second target' },",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L526"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 536,
+          "symbol": "",
+          "evidence": "{ id: 'corn_magnet', label: 'Run Harvester Magnet', rarity: 1.05, amount: 'corn pickup reach', capstone: 'magnetized corn also scores road salvage' },",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L536"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 539,
+          "symbol": "",
+          "evidence": "const TRIGGER_BY_ID = Object.fromEntries(UPGRADE_TRIGGERS.map(trigger => [trigger.id, trigger]));",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L539"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 540,
+          "symbol": "",
+          "evidence": "const VERB_BY_ID = Object.fromEntries(UPGRADE_VERBS.map(verb => [verb.id, verb]));",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L540"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Fixed forward gun auto-fires through the windshield; first drone choice appears after early kills with flamethrower, machine gun, or railgun placeholder behavior.",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/PROJECT_ORIENTATION.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "assets/asset_manifest.json",
+          "line": 24,
+          "symbol": "path",
+          "evidence": "\"path\": \"assets/longhaul/dashboard.png\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L24"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "assets/asset_manifest.json",
+          "line": 29,
+          "symbol": "use",
+          "evidence": "\"use\": \"cockpit dashboard plane\"",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L29"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "assets/asset_manifest.json",
+          "line": 145,
+          "symbol": "",
+          "evidence": "\"first-person biofuel cockpit dashboard\",",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/assets/asset_manifest.json#L145"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 16,
+          "symbol": "",
+          "evidence": "let debugPanel = document.getElementById('debugConsole');",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L16"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 19,
+          "symbol": "",
+          "evidence": "debugPanel.id = 'debugConsole';",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L19"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 163,
+          "symbol": "",
+          "evidence": "choiceOffered: false,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L163"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 348,
+          "symbol": "",
+          "evidence": "dashboard: loadTexture('assets/longhaul/dashboard.png'),",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L348"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "AGENTS.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This is a small HTML5/canvas prototype. Keep runtime dependency-free unless the user asks otherwise. Prefer simple canvas drawing until the perspective and movement are proven, ...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/AGENTS.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 108,
+          "symbol": "",
+          "evidence": "driftSpeedThresholdMph: 62,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L108"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 116,
+          "symbol": "",
+          "evidence": "driftEngageSteerThreshold: 0.45,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L116"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 117,
+          "symbol": "",
+          "evidence": "driftHeadingHoldSteerThreshold: 0.72,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L117"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 517,
+          "symbol": "",
+          "evidence": "{ id: 'every_13_shots', label: 'Every 13 Shots', event: 'shot', every: 13, rarity: 1.35, note: 'heavier cadence with better payout', capstone: 'banks one extra charge between fi...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L517"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 1556,
+          "symbol": "",
+          "evidence": "if (speedMph <= LH.driftSpeedThresholdMph) return 0;",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L1556"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 1557,
+          "symbol": "",
+          "evidence": "return Math.pow(inverseLerp(LH.driftSpeedThresholdMph, LH.driftFullEffectMph, speedMph), LH.driftSpeedCurveExponent);",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L1557"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 1575,
+          "symbol": "",
+          "evidence": "const threshold = FORWARD_GEAR_SPEEDS_MPH[p.gear - 2] * (1 - LH.downshiftHysteresis);",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L1575"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "AGENTS.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Before runtime edits, check `PROJECT_ORIENTATION.md`. Validate with `node --check src/main.js`. If files are moved or copied for Android-visible use, refresh Android media index...",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/AGENTS.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 4,
+          "symbol": "",
+          "evidence": "'use strict';",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L4"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 534,
+          "symbol": "",
+          "evidence": "{ id: 'weld_patch', label: 'Weld Patch', rarity: 1.55, amount: 'hull repaired', capstone: 'overheals into scrap armor when hull is full' },",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L534"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 108,
+          "symbol": "",
+          "evidence": "driftSpeedThresholdMph: 62,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L108"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 109,
+          "symbol": "",
+          "evidence": "driftFullEffectMph: 92,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L109"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 110,
+          "symbol": "",
+          "evidence": "driftSpeedCurveExponent: 1.8,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L110"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 111,
+          "symbol": "",
+          "evidence": "driftSlipStrength: 0.18,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L111"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 112,
+          "symbol": "",
+          "evidence": "driftBuildRate: 4.5,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L112"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 113,
+          "symbol": "",
+          "evidence": "driftRecoveryRate: 6.5,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L113"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 114,
+          "symbol": "",
+          "evidence": "driftTurnBonus: 0.18,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L114"
+        },
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 115,
+          "symbol": "",
+          "evidence": "driftMaxLateralMps: 2.2,",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L115"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "cornfire-convoy-fp",
+          "repo": "Valar05/cornfire-convoy-fp",
+          "path": "src/main.js",
+          "line": 900,
+          "symbol": "",
+          "evidence": "overlayCanvasCtx.setTransform(state.dpr, 0, 0, state.dpr, 0, 0);",
+          "source_url": "https://github.com/Valar05/cornfire-convoy-fp/blob/main/src/main.js#L900"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1133 @@
+{
+  "repo": "Valar05/lava-landing",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "lava-landing",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "lava-landing",
+    "updatedAt": "2025-10-22T15:35:58Z",
+    "url": "https://github.com/Valar05/lava-landing",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "fe511c76fc24d91e9031d79978737205912d4dd4",
+      "size": 812,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 42,
+      "byte_count": 812,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/project.godot#L14",
+        "https://github.com/Valar05/lava-landing/blob/main/project.godot#L18",
+        "https://github.com/Valar05/lava-landing/blob/main/project.godot#L22",
+        "https://github.com/Valar05/lava-landing/blob/main/project.godot#L34",
+        "https://github.com/Valar05/lava-landing/blob/main/project.godot#L36"
+      ]
+    },
+    {
+      "path": "Scripts/OutlineShader.gdshader",
+      "mode": "100644",
+      "sha": "3946fc9e99e30ffb7ac00cf5cb523e6499a87a82",
+      "size": 808,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 808,
+      "mechanics": []
+    },
+    {
+      "path": "Scripts/OutlineShader.gdshader.uid",
+      "mode": "100644",
+      "sha": "ce56dc30ac5db830305ce74d407b7a6f0731ef04",
+      "size": 20,
+      "score": 84,
+      "reasons": [
+        "tooling surface",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "Scripts/CopyAnims.gd",
+      "mode": "100644",
+      "sha": "06308bd1de9ba598367adf5c452f97c3178b7559",
+      "size": 2677,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 71,
+      "byte_count": 2677,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L14",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L18",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L28",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L66",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L67",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L71"
+      ]
+    },
+    {
+      "path": "Scripts/joystick.gd",
+      "mode": "100644",
+      "sha": "3c0be68a466bc29be0ee84596f57b158e486c6ab",
+      "size": 1784,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 1784,
+      "mechanics": [
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L5",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L11",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L22",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L24",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L25",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L30",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L31",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L32"
+      ]
+    },
+    {
+      "path": "Scripts/jump_button.gd",
+      "mode": "100644",
+      "sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391",
+      "size": 0,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 0,
+      "byte_count": 0,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "Scripts/lava_ball.gd",
+      "mode": "100644",
+      "sha": "e6362d33040c4ef6aed1422b0c23c7ca67dc5ce3",
+      "size": 3047,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 102,
+      "byte_count": 3047,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L1",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L11",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L15",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L18",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L29",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L46",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L47",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L82"
+      ]
+    },
+    {
+      "path": "Scripts/lava_floor.gd",
+      "mode": "100644",
+      "sha": "fe35cdfcbc2fb062f35251d63562fba963f47c93",
+      "size": 7540,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 220,
+      "byte_count": 7540,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L8",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L16",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L22",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L29",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L30",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L31",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L32",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L43"
+      ]
+    },
+    {
+      "path": "Scripts/platform.gd",
+      "mode": "100644",
+      "sha": "1669ababbc46e1a603effc8bbe0357697c4cc486",
+      "size": 535,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 20,
+      "byte_count": 535,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "Scripts/player.gd",
+      "mode": "100644",
+      "sha": "a5eb25a5afa6dfd672ffaf254dc1bb15a58e4d8f",
+      "size": 13856,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 410,
+      "byte_count": 13856,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L25",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L31",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L33",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L46",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L52",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L53",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L55",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L57"
+      ]
+    },
+    {
+      "path": "Scripts/touch_button.gd",
+      "mode": "100644",
+      "sha": "a8fec33b47ea03eb0a1325b754b72c8f7384aa6a",
+      "size": 435,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 435,
+      "mechanics": [
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/touch_button.gd#L1",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/touch_button.gd#L3",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/touch_button.gd#L4",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/touch_button.gd#L6",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/touch_button.gd#L8",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/touch_button.gd#L9",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/touch_button.gd#L10",
+        "https://github.com/Valar05/lava-landing/blob/main/Scripts/touch_button.gd#L11"
+      ]
+    },
+    {
+      "path": "Scripts/CopyAnims.gd.uid",
+      "mode": "100644",
+      "sha": "e8642f702d4c383eba6757b60487d0598cc19db7",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "Scripts/joystick.gd.uid",
+      "mode": "100644",
+      "sha": "449c210efb99f1938f7978edf9d88d9daf35f181",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "Scripts/jump_button.gd.uid",
+      "mode": "100644",
+      "sha": "fbfd8bfb08c3a1f70cddf34f7734c494eda1f362",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "Scripts/lava_ball.gd.uid",
+      "mode": "100644",
+      "sha": "096fffc5ba7f6dc23710b1f1fa691f41fb7a8d5d",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "Scripts/lava_floor.gd.uid",
+      "mode": "100644",
+      "sha": "ab88948bc2a42c9c1519f1253bdfaaa8eea1a147",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "Scripts/platform.gd.uid",
+      "mode": "100644",
+      "sha": "e1affa4d7de018cc419dab690b9465ea73e5e2db",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "Scripts/player.gd.uid",
+      "mode": "100644",
+      "sha": "282d7c3a736509536a4f48e2e6ca60101565b2fb",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "Scripts/touch_button.gd.uid",
+      "mode": "100644",
+      "sha": "7625d5f63860d003568138008454e9fb15488e88",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "Scenes/GameManager.gd",
+      "mode": "100644",
+      "sha": "f498dc78f3e70055c311ab50cad6bc1330d6ed86",
+      "size": 3213,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 112,
+      "byte_count": 3213,
+      "mechanics": [
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/GameManager.gd#L3",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/GameManager.gd#L5",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/GameManager.gd#L23",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/GameManager.gd#L25",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/GameManager.gd#L26",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/GameManager.gd#L28",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/GameManager.gd#L37",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/GameManager.gd#L43"
+      ]
+    },
+    {
+      "path": "Scenes/PauseButton.gd",
+      "mode": "100644",
+      "sha": "901fea2cfd59591b9489e873965bc563c7336ee1",
+      "size": 515,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 25,
+      "byte_count": 515,
+      "mechanics": [
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/PauseButton.gd#L1",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/PauseButton.gd#L3",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/PauseButton.gd#L4",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/PauseButton.gd#L6",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/PauseButton.gd#L8",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/PauseButton.gd#L10",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/PauseButton.gd#L11",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/PauseButton.gd#L12"
+      ]
+    },
+    {
+      "path": "Scenes/exit_button.gd",
+      "mode": "100644",
+      "sha": "00c6e759db67d5b2f811fb5a4dfe9cdabdeb92da",
+      "size": 262,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 11,
+      "byte_count": 262,
+      "mechanics": [
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/exit_button.gd#L1",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/exit_button.gd#L4",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/exit_button.gd#L5",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/exit_button.gd#L6",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/exit_button.gd#L9",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/exit_button.gd#L10",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/exit_button.gd#L11"
+      ]
+    },
+    {
+      "path": "Scenes/kill_zone.gd",
+      "mode": "100644",
+      "sha": "8ff6417ac7a4cf38ac8eb5d036bee28145cc9616",
+      "size": 625,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 625,
+      "mechanics": [
+        "ai_pressure",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/kill_zone.gd#L13",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/kill_zone.gd#L15",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/kill_zone.gd#L18",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/kill_zone.gd#L21"
+      ]
+    },
+    {
+      "path": "Scenes/music_player.gd",
+      "mode": "100644",
+      "sha": "43b60c9ea749a692fb17db604b14327b78506a49",
+      "size": 1062,
+      "score": 68,
+      "reasons": [
+        "scene carrier",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 1062,
+      "mechanics": [
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/music_player.gd#L1",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/music_player.gd#L3",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/music_player.gd#L4",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/music_player.gd#L5",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/music_player.gd#L6",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/music_player.gd#L7",
+        "https://github.com/Valar05/lava-landing/blob/main/Scenes/music_player.gd#L17"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 247,
+    "by_origin": {
+      "github": 247
+    },
+    "by_project": {
+      "lava-landing": 247
+    },
+    "by_mechanic": {
+      "pose_animation_tools": 104,
+      "text_console_runtime": 50,
+      "ai_pressure": 44,
+      "web_choice_player": 33,
+      "tts_audio_pipeline": 29,
+      "asset_import_pipeline": 5,
+      "resource_upgrade_loop": 3,
+      "deck_pressure": 3,
+      "writing_corpus_review": 2,
+      "vehicle_survival": 1,
+      "source_packet_generation": 1
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"uid://cxtpkjlxid6vq\"",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 71,
+          "symbol": "",
+          "evidence": "print(\"Failed to save AnimationTree with nested state machine!\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L71"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_ball.gd",
+          "line": 82,
+          "symbol": "",
+          "evidence": "await expire()",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L82"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_ball.gd",
+          "line": 101,
+          "symbol": "",
+          "evidence": "await get_tree().create_timer(0.6).timeout",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L101"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_floor.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "@export var spawn_items: Array[PackedScene] = []",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L8"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_floor.gd",
+          "line": 16,
+          "symbol": "",
+          "evidence": "var platform_container: Node2D",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L16"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_floor.gd",
+          "line": 22,
+          "symbol": "",
+          "evidence": "# Spawn tracking",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L22"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_floor.gd",
+          "line": 29,
+          "symbol": "",
+          "evidence": "platform_container = Node2D.new()",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L29"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "project.godot",
+          "line": 18,
+          "symbol": "",
+          "evidence": "[audio]",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/project.godot#L18"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_ball.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "var fireball_sfx_stream = preload(\"res://Audio/LavaFire.wav\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_ball.gd",
+          "line": 15,
+          "symbol": "",
+          "evidence": "var fireball_bounce_sfx_stream = preload(\"res://Audio/fireball-bounce.wav\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L15"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_ball.gd",
+          "line": 18,
+          "symbol": "",
+          "evidence": "var fireball_explosion_sfx_stream = preload(\"res://Audio/LavaBallExplosion.wav\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L18"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/player.gd",
+          "line": 53,
+          "symbol": "",
+          "evidence": "var death_sfx_stream = preload(\"res://Audio/LavaDeath.wav\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L53"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/player.gd",
+          "line": 55,
+          "symbol": "",
+          "evidence": "var fireball_sfx_stream = preload(\"res://Audio/LavaFire.wav\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L55"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/player.gd",
+          "line": 57,
+          "symbol": "",
+          "evidence": "var footstep_sfx_stream = preload(\"res://Audio/SkipGravel.wav\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L57"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/player.gd",
+          "line": 58,
+          "symbol": "",
+          "evidence": "var jump_sfx_stream = preload(\"res://Audio/JumpGravel.ogg\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L58"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "project.godot",
+          "line": 22,
+          "symbol": "",
+          "evidence": "[autoload]",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/project.godot#L22"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "project.godot",
+          "line": 34,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/project.godot#L34"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 66,
+          "symbol": "",
+          "evidence": "# Save the entire AnimationTree as a .tres file",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L66"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 67,
+          "symbol": "",
+          "evidence": "var result: int = ResourceSaver.save(anim_tree, new_nested_state_machine_path)",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L67"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 71,
+          "symbol": "",
+          "evidence": "print(\"Failed to save AnimationTree with nested state machine!\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L71"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_ball.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "var fireball_sfx_stream = preload(\"res://Audio/LavaFire.wav\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_ball.gd",
+          "line": 15,
+          "symbol": "",
+          "evidence": "var fireball_bounce_sfx_stream = preload(\"res://Audio/fireball-bounce.wav\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L15"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_ball.gd",
+          "line": 18,
+          "symbol": "",
+          "evidence": "var fireball_explosion_sfx_stream = preload(\"res://Audio/LavaBallExplosion.wav\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L18"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "project.godot",
+          "line": 36,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/project.godot#L36"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "new_sm.resource_local_to_scene = true",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L14"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 18,
+          "symbol": "",
+          "evidence": "nested_sm.resource_local_to_scene = true",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L18"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 67,
+          "symbol": "",
+          "evidence": "var result: int = ResourceSaver.save(anim_tree, new_nested_state_machine_path)",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L67"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/player.gd",
+          "line": 400,
+          "symbol": "",
+          "evidence": "# Triggers the shoot oneshot in the AnimationTree blend tree",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L400"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 14,
+          "symbol": "",
+          "evidence": "new_sm.resource_local_to_scene = true",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L14"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 18,
+          "symbol": "",
+          "evidence": "nested_sm.resource_local_to_scene = true",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L18"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 67,
+          "symbol": "",
+          "evidence": "var result: int = ResourceSaver.save(anim_tree, new_nested_state_machine_path)",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L67"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 28,
+          "symbol": "",
+          "evidence": "# Copy all nodes from the original to the nested state machine",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L28"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 11,
+          "symbol": "",
+          "evidence": "var origin_pos: Vector2 = Vector2.ZERO",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L11"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 30,
+          "symbol": "",
+          "evidence": "origin_pos = event.position",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L30"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 31,
+          "symbol": "",
+          "evidence": "base.global_position = origin_pos",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L31"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 32,
+          "symbol": "",
+          "evidence": "pip.global_position = origin_pos",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L32"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 40,
+          "symbol": "",
+          "evidence": "var delta = event.position - origin_pos",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L40"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 43,
+          "symbol": "",
+          "evidence": "pip.global_position = origin_pos + clamped",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L43"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_ball.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends RigidBody2D",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L1"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 28,
+          "symbol": "",
+          "evidence": "# Copy all nodes from the original to the nested state machine",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L28"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_ball.gd",
+          "line": 29,
+          "symbol": "",
+          "evidence": "max_contacts_reported = 8",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_ball.gd#L29"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/CopyAnims.gd",
+          "line": 66,
+          "symbol": "",
+          "evidence": "# Save the entire AnimationTree as a .tres file",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/CopyAnims.gd#L66"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "@export var hide_threshold: float = 2.0",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 50,
+          "symbol": "",
+          "evidence": "if pip.global_position.distance_to(base.global_position) < hide_threshold:",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L50"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/lava_floor.gd",
+          "line": 216,
+          "symbol": "",
+          "evidence": "child.material.set(\"shader_parameter/alpha_threshold\", cycle)",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/lava_floor.gd#L216"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 22,
+          "symbol": "",
+          "evidence": "var pause_button = $\"../CanvasLayer/PauseButton\"",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L22"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 24,
+          "symbol": "",
+          "evidence": "print(pause_button.click_radius)",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L24"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/joystick.gd",
+          "line": 25,
+          "symbol": "",
+          "evidence": "if (pause_button.position - event.position).length() < pause_button.click_radius:",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/joystick.gd#L25"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/player.gd",
+          "line": 103,
+          "symbol": "",
+          "evidence": "# Connect jump button signal",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L103"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/player.gd",
+          "line": 104,
+          "symbol": "",
+          "evidence": "var jump_button = get_parent().get_node(\"JumpButton\")",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L104"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/player.gd",
+          "line": 105,
+          "symbol": "",
+          "evidence": "jump_button.connect(\"jump_pressed\", Callable(self, \"receive_jump_input\"))",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L105"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/touch_button.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Sprite2D",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/touch_button.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/touch_button.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "@export var click_radius: float = 64.0",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/touch_button.gd#L3"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "lava-landing",
+          "repo": "Valar05/lava-landing",
+          "path": "Scripts/player.gd",
+          "line": 255,
+          "symbol": "",
+          "evidence": "query.transform = Transform2D(0, shape_node.global_position)",
+          "source_url": "https://github.com/Valar05/lava-landing/blob/main/Scripts/player.gd#L255"
+        }
+      ]
+    }
+  }
+}

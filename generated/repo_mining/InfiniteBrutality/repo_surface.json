@@ -1,0 +1,740 @@
+{
+  "repo": "Valar05/InfiniteBrutality",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "InfiniteBrutality",
+    "updatedAt": "2025-01-08T21:25:53Z",
+    "url": "https://github.com/Valar05/InfiniteBrutality",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 10,
+  "selected_files": [
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "f03a0c69b3d949895f7b374bb60814aef9b97bff",
+      "size": 613,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 27,
+      "byte_count": 613,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/project.godot#L14",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/project.godot#L24",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/project.godot#L26",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/project.godot#L27"
+      ]
+    },
+    {
+      "path": ".vscode/launch.json",
+      "mode": "100644",
+      "sha": "a6335674ca381c83b4560bcee69c4986ab359056",
+      "size": 587,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 19,
+      "byte_count": 587,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": ".vscode/settings.json",
+      "mode": "100644",
+      "sha": "9179003de023b93905a36985594def641c332e30",
+      "size": 131,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 131,
+      "mechanics": [
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/.vscode/settings.json#L2"
+      ]
+    },
+    {
+      "path": "EnemyController.gd",
+      "mode": "100644",
+      "sha": "38ffe8188ff7a66ad0bc10788d1095f44859ab3c",
+      "size": 6619,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 195,
+      "byte_count": 6619,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L1",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L2",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L3",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L5",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L7",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L8",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L9",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L10"
+      ]
+    },
+    {
+      "path": "MoveStick.gd",
+      "mode": "100644",
+      "sha": "278ae10c69ec7d32a7e77dda52cf1158dedf03f8",
+      "size": 1530,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 1530,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "Player.gd",
+      "mode": "100644",
+      "sha": "6276f197842944054b9e1cdb929e4cbae4f799bf",
+      "size": 6363,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 204,
+      "byte_count": 6363,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/Player.gd#L5",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/Player.gd#L8",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/Player.gd#L12",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/Player.gd#L13",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/Player.gd#L15",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/Player.gd#L16",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/Player.gd#L18",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/Player.gd#L23"
+      ]
+    },
+    {
+      "path": "SpawnController.gd",
+      "mode": "100644",
+      "sha": "fc3ebb79017f83aa5d19a7ea691cfb031c37feef",
+      "size": 1465,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 53,
+      "byte_count": 1465,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/SpawnController.gd#L1",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/SpawnController.gd#L3",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/SpawnController.gd#L4",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/SpawnController.gd#L5",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/SpawnController.gd#L6",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/SpawnController.gd#L7",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/SpawnController.gd#L8",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/SpawnController.gd#L9"
+      ]
+    },
+    {
+      "path": "TouchCamera3D.gd",
+      "mode": "100644",
+      "sha": "ff2e06ff372077a2b34c4c901d09fa3222ff4416",
+      "size": 3704,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 89,
+      "byte_count": 3704,
+      "mechanics": [
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L6",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L26",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L32",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L45",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L46",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L63",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L64",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L86"
+      ]
+    },
+    {
+      "path": "data/attacks.json",
+      "mode": "100644",
+      "sha": "2b871e3e74df39f997c0b75cc3f1203fcedc0392",
+      "size": 812,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 812,
+      "mechanics": [
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/data/attacks.json#L1",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/data/attacks.json#L2",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/data/attacks.json#L3",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/data/attacks.json#L4",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/data/attacks.json#L5",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/data/attacks.json#L6",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/data/attacks.json#L7",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/data/attacks.json#L8"
+      ]
+    },
+    {
+      "path": "enemies.json",
+      "mode": "100644",
+      "sha": "0e0d8596eb41461c878240d3bf310c434227341b",
+      "size": 343,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 24,
+      "byte_count": 343,
+      "mechanics": [
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/enemies.json#L5",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/enemies.json#L8",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/enemies.json#L10",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/enemies.json#L13",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/enemies.json#L16",
+        "https://github.com/Valar05/InfiniteBrutality/blob/main/enemies.json#L19"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 388,
+    "by_origin": {
+      "github": 388
+    },
+    "by_project": {
+      "InfiniteBrutality": 388
+    },
+    "by_mechanic": {
+      "ai_pressure": 241,
+      "touch_lane_combat": 169,
+      "pose_animation_tools": 24,
+      "source_packet_generation": 14,
+      "web_choice_player": 7,
+      "deck_pressure": 3,
+      "asset_import_pipeline": 1,
+      "text_console_runtime": 1
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"res://game.tscn\"",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends CharacterBody3D",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 2,
+          "symbol": "",
+          "evidence": "class_name EnemyController",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L2"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "signal enemy_died # Custom signal for when the enemy dies",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "enum State { IDLE, DAMAGED, MOVING, ATTACKING, COMBAT_IDLE, STRAFE } # Remove STRAFE_EXTRA state",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "var anim_p",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "var health",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L8"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 9,
+          "symbol": "",
+          "evidence": "var dead = false",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L9"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "project.godot",
+          "line": 24,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/project.godot#L24"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "project.godot",
+          "line": 26,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/project.godot#L26"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": ".vscode/settings.json",
+          "line": 2,
+          "symbol": "godotTools.editorPath.godot4",
+          "evidence": "\"godotTools.editorPath.godot4\": \"c:\\\\Users\\\\dclar\\\\Downloads\\\\Godot_v4.2.1-stable_win64.exe\\\\Godot_v4.2.1-stable_win64.exe\"",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/.vscode/settings.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 184,
+          "symbol": "",
+          "evidence": "previous_state = state # Save the current state before changing to damaged",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L184"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "Player.gd",
+          "line": 204,
+          "symbol": "",
+          "evidence": "get_tree().reload_current_scene()",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/Player.gd#L204"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "SpawnController.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "var enemy_scene = preload(\"res://Orc.tscn\")",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/SpawnController.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "TouchCamera3D.gd",
+          "line": 26,
+          "symbol": "",
+          "evidence": "last_touch_position = event.position # Save the initial touch position",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L26"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "project.godot",
+          "line": 27,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/project.godot#L27"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "enum State { IDLE, DAMAGED, MOVING, ATTACKING, COMBAT_IDLE, STRAFE } # Remove STRAFE_EXTRA state",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 13,
+          "symbol": "",
+          "evidence": "var attack_range",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L13"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 19,
+          "symbol": "",
+          "evidence": "var attack_index = 0",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L19"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 20,
+          "symbol": "",
+          "evidence": "var attacks = []",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L20"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 21,
+          "symbol": "",
+          "evidence": "var attack_cooldown = 0.0",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L21"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 24,
+          "symbol": "",
+          "evidence": "var active_hitbox",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L24"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 26,
+          "symbol": "",
+          "evidence": "var strafe_time = 1.5 # Time to keep strafing after no longer blocked",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L26"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 38,
+          "symbol": "",
+          "evidence": "attack_range = enemy_data.attack_range",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L38"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 59,
+          "symbol": "",
+          "evidence": "var pos = player.global_transform.origin",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L59"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 61,
+          "symbol": "",
+          "evidence": "if global_transform.origin.distance_to(player.global_transform.origin) <= attack_range:",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L61"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 77,
+          "symbol": "",
+          "evidence": "look_at(player.global_transform.origin, Vector3.UP)",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L77"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 100,
+          "symbol": "",
+          "evidence": "if global_transform.origin.distance_to(player.global_transform.origin) > attack_range:",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L100"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 111,
+          "symbol": "",
+          "evidence": "look_at(player.global_transform.origin, Vector3.UP)",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L111"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 115,
+          "symbol": "",
+          "evidence": "var local_strafe_direction = global_transform.basis.x * strafe_direction.x # Transform to local space",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L115"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 135,
+          "symbol": "",
+          "evidence": "var direction = (next_position - global_transform.origin).normalized()",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L135"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 138,
+          "symbol": "",
+          "evidence": "look_at(velocity + global_transform.origin, Vector3.UP)",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L138"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 59,
+          "symbol": "",
+          "evidence": "var pos = player.global_transform.origin",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L59"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 61,
+          "symbol": "",
+          "evidence": "if global_transform.origin.distance_to(player.global_transform.origin) <= attack_range:",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L61"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 77,
+          "symbol": "",
+          "evidence": "look_at(player.global_transform.origin, Vector3.UP)",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L77"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 100,
+          "symbol": "",
+          "evidence": "if global_transform.origin.distance_to(player.global_transform.origin) > attack_range:",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L100"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 105,
+          "symbol": "",
+          "evidence": "strafe_direction = Vector3.LEFT if randf() < 0.5 else Vector3.RIGHT # Choose direction once",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L105"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 111,
+          "symbol": "",
+          "evidence": "look_at(player.global_transform.origin, Vector3.UP)",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L111"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 118,
+          "symbol": "",
+          "evidence": "anim_p.play(\"WalkLeft\" if strafe_direction == Vector3.LEFT else \"WalkRight\")",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L118"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "EnemyController.gd",
+          "line": 135,
+          "symbol": "",
+          "evidence": "var direction = (next_position - global_transform.origin).normalized()",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/EnemyController.gd#L135"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "Player.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "@onready var joystick = $CanvasLayer/DirectionButtons # Reference to the joystick node",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/Player.gd#L8"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "TouchCamera3D.gd",
+          "line": 6,
+          "symbol": "",
+          "evidence": "@export var tap_time_threshold: float = 0.2 # Time in seconds that distinguishes a tap from a hold",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L6"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "TouchCamera3D.gd",
+          "line": 45,
+          "symbol": "",
+          "evidence": "if touch_active and (Time.get_ticks_msec() / 1000.0 - touch_start_time) > tap_time_threshold:",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L45"
+        },
+        {
+          "origin": "github",
+          "project": "InfiniteBrutality",
+          "repo": "Valar05/InfiniteBrutality",
+          "path": "TouchCamera3D.gd",
+          "line": 63,
+          "symbol": "",
+          "evidence": "if time_held <= tap_time_threshold and last_touch_position.distance_to(end_position) <= max_tap_distance:",
+          "source_url": "https://github.com/Valar05/InfiniteBrutality/blob/main/TouchCamera3D.gd#L63"
+        }
+      ]
+    }
+  }
+}

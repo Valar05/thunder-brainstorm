@@ -1,0 +1,49 @@
+{
+  "verified": [
+    {
+      "severity": "medium",
+      "path": "src/pose-lab.js",
+      "line": 3897,
+      "side": "RIGHT",
+      "issue": "`modelLocalOffset` added in hand-local space despite its name implying model space",
+      "impact": "In `hand-fk` mode the weapon bone is a child of `rightHand`, so all position offsets are in hand-local space. Adding `modelLocalOffset` (which is named and documented as a model-space correction) in this local frame will produce incorrect placement whenever the hand is not at the model origin or is rotated. The profile currently sets `modelLocalOffset: [-0.11512, 0.00773, -0.01127]`, which was tuned for the two-hand-center world-space path and will produce a different result in hand-local space.",
+      "evidence": "New block at diff line +3897: `if (Array.isArray(proxy.config.modelLocalOffset)) proxy.root.position.add(new THREE.Vector3().fromArray(proxy.config.modelLocalOffset));` — the bone is parented to `rightHand` (line +3863), so this offset is applied in hand-local coordinates, not model/world coordinates as the field name implies. The existing two-hand-center path applies `modelLocalOffset` after converting to world space via `this.model.updateMatrixWorld(true)` and explicit world-to-local transforms.",
+      "recommendation": "Either (a) rename the field to `handLocalOffset2` / `handExtraOffset` to make the space explicit, (b) document clearly that in `hand-fk` mode both `handLocalOffset` and `modelLocalOffset` are summed in hand-local space, or (c) transform `modelLocalOffset` from model space to hand-local space before adding it, consistent with how the two-hand-center path handles it.",
+      "confidence": "medium"
+    },
+    {
+      "severity": "low",
+      "path": "tools/test_meshy_hand_fk_hilt_trace.mjs",
+      "line": 52,
+      "side": "RIGHT",
+      "issue": "`worldPosition` helper function is defined but never called",
+      "impact": "Dead code increases maintenance surface and may confuse future readers into thinking it is part of the verification logic. It is not exercised by any assertion in the file.",
+      "evidence": "Lines 52-55 define `function worldPosition(THREE, node) { ... }`. A search of the rest of the file finds no call site for `worldPosition`. The actual world-position work is done inline via `sabreMesh.localToWorld(...)` and `localPointFromWorld(...)`.",
+      "recommendation": "Remove the unused `worldPosition` function, or use it in place of the inline `localToWorld` calls to reduce duplication.",
+      "confidence": "high"
+    },
+    {
+      "severity": "low",
+      "path": "tools/test_meshy_hand_fk_hilt_trace.mjs",
+      "line": 176,
+      "side": "RIGHT",
+      "issue": "`--compare` mode asserts that the baseline and current MUST differ, making the test fail if run twice against the same output",
+      "impact": "If a developer captures a baseline and then immediately runs `--compare` against it (or if the profile values are unchanged), the assertion `assert(payload.comparison.numericallyChangedFromBaseline, 'offline main vs salvage did not numerically change at profile gripLocalPosition')` will throw. This is an unusual invariant for a regression test and will produce confusing failures in CI or iterative development.",
+      "evidence": "Lines 173-179: `payload.comparison = { ..., numericallyChangedFromBaseline: !arrayClose(current, previous) }; assert(payload.comparison.numericallyChangedFromBaseline, 'offline main vs salvage did not numerically change at profile gripLocalPosition');`",
+      "recommendation": "Reconsider the assertion direction. A regression test should assert that the current value matches the baseline (i.e., `assert(!numericallyChangedFromBaseline, ...)`), or the `--compare` flag should be documented as a 'verify change was applied' mode with a clear comment explaining why divergence is required.",
+      "confidence": "high"
+    },
+    {
+      "severity": "low",
+      "path": "tools/test_meshy_hand_fk_hilt_trace.mjs",
+      "line": 155,
+      "side": "RIGHT",
+      "issue": "`rightHand.updateMatrixWorld(true)` is called after `localToWorld` operations that depend on up-to-date world matrices",
+      "impact": "The `sabreMesh.localToWorld(gripLocal.clone())` and `sabreMesh.localToWorld(tipLocal.clone())` calls at lines 148-149 require `sabreMesh`'s world matrix to be current. `rightHand.updateMatrixWorld(true)` is called at line 155, after these operations. If the scene graph has not been updated before the `localToWorld` calls, the computed world positions may be stale. In practice `rightHand.updateMatrixWorld(true)` is called at line 130 before `weaponGrip` is added, so the matrices may be stale after the `add` calls.",
+      "evidence": "Line 130: `rightHand.updateMatrixWorld(true)` — called before `rightHand.add(weaponGrip)`. Lines 133-145: `weaponGrip` and `sabreMesh` are added and configured. Lines 148-149: `sabreMesh.localToWorld(...)` called without an intervening `updateMatrixWorld`. Line 155: `rightHand.updateMatrixWorld(true)` called after the fact.",
+      "recommendation": "Move `rightHand.updateMatrixWorld(true)` to immediately before the `localToWorld` calls (after all scene-graph mutations are complete), or call it once after all `add`/`position`/`quaternion` mutations and before any world-space queries.",
+      "confidence": "medium"
+    }
+  ],
+  "rejected": []
+}

@@ -1,0 +1,1852 @@
+{
+  "repo": "Valar05/grounded-motion-mcp",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Agent-free whole-body motion tracking MCP with deterministic review evidence.",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "grounded-motion-mcp",
+    "updatedAt": "2026-07-29T18:58:56Z",
+    "url": "https://github.com/Valar05/grounded-motion-mcp",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "85add80e31a163ba54c7b459c8b7047d2c8393a6",
+      "size": 9456,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 197,
+      "byte_count": 9456,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L4",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L13",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L16",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L17",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L20",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L23",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L24"
+      ]
+    },
+    {
+      "path": "tests/test_vanguard_worker_contract.py",
+      "mode": "100644",
+      "sha": "d54b3c9513c3b07b4beaac1a05d6e4a60a1b6ca5",
+      "size": 3542,
+      "score": 82,
+      "reasons": [
+        "test surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 87,
+      "byte_count": 3542,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L4",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L14",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L19",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L25"
+      ]
+    },
+    {
+      "path": "scripts/http_smoke.py",
+      "mode": "100755",
+      "sha": "c2aca7bc4129680fbbf014a675db7ddfe6421206",
+      "size": 2326,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 87,
+      "byte_count": 2326,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/http_smoke.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/http_smoke.py#L2",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/http_smoke.py#L4",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/http_smoke.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/http_smoke.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/http_smoke.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/http_smoke.py#L9",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/http_smoke.py#L10"
+      ]
+    },
+    {
+      "path": "scripts/materialize_vanguard_canary.py",
+      "mode": "100755",
+      "sha": "023058999e7f07dc846bc0bce03b7aaa96c04724",
+      "size": 3804,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 103,
+      "byte_count": 3804,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L4",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L9",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L10",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L11",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L12"
+      ]
+    },
+    {
+      "path": "scripts/mcp_smoke.py",
+      "mode": "100755",
+      "sha": "b0445df7f641192530c9d628f113bc16e21b85dd",
+      "size": 738,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 738,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/mcp_smoke.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/mcp_smoke.py#L2",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/mcp_smoke.py#L4",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/mcp_smoke.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/mcp_smoke.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/mcp_smoke.py#L10",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/mcp_smoke.py#L12",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/mcp_smoke.py#L13"
+      ]
+    },
+    {
+      "path": "scripts/stdio_smoke.py",
+      "mode": "100755",
+      "sha": "42eba0c1c2a486f466e6125e13ef0acefceb4eaf",
+      "size": 1184,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 45,
+      "byte_count": 1184,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/stdio_smoke.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/stdio_smoke.py#L2",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/stdio_smoke.py#L4",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/stdio_smoke.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/stdio_smoke.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/stdio_smoke.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/stdio_smoke.py#L10",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/stdio_smoke.py#L11"
+      ]
+    },
+    {
+      "path": "tests/test_audit.py",
+      "mode": "100644",
+      "sha": "356a8afd20f84689fccd2c72fd36bf39180c875d",
+      "size": 9598,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 279,
+      "byte_count": 9598,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L9",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L10"
+      ]
+    },
+    {
+      "path": "tests/test_mcp.py",
+      "mode": "100644",
+      "sha": "bc0fff44252519f455b5cc4b38118a8b78ed9a66",
+      "size": 469,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 19,
+      "byte_count": 469,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_mcp.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_mcp.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_mcp.py#L4",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_mcp.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_mcp.py#L12",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_mcp.py#L15"
+      ]
+    },
+    {
+      "path": "tests/test_normalize.py",
+      "mode": "100644",
+      "sha": "6955146eb84fd7c715ab8330a4971aa8ac1062a3",
+      "size": 7536,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 219,
+      "byte_count": 7536,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_normalize.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_normalize.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_normalize.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_normalize.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_normalize.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_normalize.py#L12",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_normalize.py#L28",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_normalize.py#L41"
+      ]
+    },
+    {
+      "path": "tests/test_paths.py",
+      "mode": "100644",
+      "sha": "dd34e950238fb33e5becc47251d9e64b94520a74",
+      "size": 477,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 18,
+      "byte_count": 477,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_paths.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_paths.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_paths.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_paths.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_paths.py#L15",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_paths.py#L16"
+      ]
+    },
+    {
+      "path": "tests/test_service.py",
+      "mode": "100644",
+      "sha": "8fae54934a3c190ec9c413051a9a1fd13ae4f6d6",
+      "size": 3063,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 87,
+      "byte_count": 3063,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_service.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_service.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_service.py#L4",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_service.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_service.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_service.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_service.py#L9",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_service.py#L23"
+      ]
+    },
+    {
+      "path": "tests/test_vanguard_cloud.py",
+      "mode": "100644",
+      "sha": "4719e8528256476a8e4a880401dd703c5d44480d",
+      "size": 12840,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 361,
+      "byte_count": 12840,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L4",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L10",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L11"
+      ]
+    },
+    {
+      "path": "tests/fixtures/source.mp4",
+      "mode": "100644",
+      "sha": "a7bcd577e86b77dca3e241a579bc7f34421c17eb",
+      "size": 1869,
+      "score": 70,
+      "reasons": [
+        "test surface"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 1770,
+      "mechanics": []
+    },
+    {
+      "path": "src/grounded_motion_mcp/preflight_worker.py",
+      "mode": "100644",
+      "sha": "aff78b3a79fbeb7a381859a2a16515e9c4aea27d",
+      "size": 14874,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 408,
+      "byte_count": 14874,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/preflight_worker.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/preflight_worker.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/preflight_worker.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/preflight_worker.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/preflight_worker.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/preflight_worker.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/preflight_worker.py#L9",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/preflight_worker.py#L10"
+      ]
+    },
+    {
+      "path": "src/grounded_motion_mcp/production_server.py",
+      "mode": "100644",
+      "sha": "13dbaa8adfe2c80c9201ee1e9c53e7fe79e505bc",
+      "size": 18374,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 503,
+      "byte_count": 18374,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/production_server.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/production_server.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/production_server.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/production_server.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/production_server.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/production_server.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/production_server.py#L9",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/production_server.py#L11"
+      ]
+    },
+    {
+      "path": "src/grounded_motion_mcp/server.py",
+      "mode": "100644",
+      "sha": "84360cd6a834af5b90c991a297ffa15b01a9d33c",
+      "size": 4388,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 146,
+      "byte_count": 4388,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/server.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/server.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/server.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/server.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/server.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/server.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/server.py#L10",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/server.py#L12"
+      ]
+    },
+    {
+      "path": "src/grounded_motion_mcp/vanguard_worker.py",
+      "mode": "100644",
+      "sha": "cf241a5dfb5576bc3d45ebef1d2dc1c305ca70ac",
+      "size": 24236,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 595,
+      "byte_count": 24236,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/vanguard_worker.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/vanguard_worker.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/vanguard_worker.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/vanguard_worker.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/vanguard_worker.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/vanguard_worker.py#L9",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/vanguard_worker.py#L10",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/vanguard_worker.py#L11"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "sha": "d8a2d293fb02bd36a8edb2389fbdc443be4aff42",
+      "size": 1437,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 30,
+      "byte_count": 1437,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/AGENTS.md#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/AGENTS.md#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/AGENTS.md#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/AGENTS.md#L13",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/AGENTS.md#L17",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/AGENTS.md#L23",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/AGENTS.md#L24",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/AGENTS.md#L25"
+      ]
+    },
+    {
+      "path": "src/grounded_motion_mcp/__init__.py",
+      "mode": "100644",
+      "sha": "86be9a4b7803ff1147fefcdef31790728d7e8590",
+      "size": 88,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4,
+      "byte_count": 88,
+      "mechanics": [
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/__init__.py#L1"
+      ]
+    },
+    {
+      "path": "src/grounded_motion_mcp/artifacts.py",
+      "mode": "100644",
+      "sha": "40ebd44cc30f55d4e1867794b0d61d83ef780fe9",
+      "size": 2849,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 86,
+      "byte_count": 2849,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/artifacts.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/artifacts.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/artifacts.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/artifacts.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/artifacts.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/artifacts.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/artifacts.py#L10",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/artifacts.py#L11"
+      ]
+    },
+    {
+      "path": "src/grounded_motion_mcp/audit.py",
+      "mode": "100644",
+      "sha": "ac8289b6327872d729239a6d509463e3c3e4ead8",
+      "size": 31522,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 843,
+      "byte_count": 31522,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L10",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L11"
+      ]
+    },
+    {
+      "path": "src/grounded_motion_mcp/backend.py",
+      "mode": "100644",
+      "sha": "63654065f39844c49b6218dd46a3f13173d799ab",
+      "size": 839,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 839,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/backend.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/backend.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/backend.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/backend.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/backend.py#L9",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/backend.py#L31"
+      ]
+    },
+    {
+      "path": "src/grounded_motion_mcp/cli.py",
+      "mode": "100644",
+      "sha": "cd0947822cbda7a0ca8e6a795ba5708305eaa0f5",
+      "size": 3978,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 121,
+      "byte_count": 3978,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/cli.py#L1",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/cli.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/cli.py#L5",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/cli.py#L6",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/cli.py#L7",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/cli.py#L8",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/cli.py#L10",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/cli.py#L16"
+      ]
+    },
+    {
+      "path": "src/grounded_motion_mcp/constants.py",
+      "mode": "100644",
+      "sha": "23a74436e6785a681fff2bcc530203700cd48956",
+      "size": 4254,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 146,
+      "byte_count": 4254,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/constants.py#L3",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/constants.py#L13",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/constants.py#L16",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/constants.py#L18",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/constants.py#L19",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/constants.py#L24",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/constants.py#L26",
+        "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/constants.py#L28"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 2348,
+    "by_origin": {
+      "github": 2348
+    },
+    "by_project": {
+      "grounded-motion-mcp": 2348
+    },
+    "by_mechanic": {
+      "validation_pipeline": 1196,
+      "web_choice_player": 692,
+      "asset_import_pipeline": 462,
+      "ai_pressure": 213,
+      "pose_animation_tools": 114,
+      "writing_corpus_review": 110,
+      "tts_audio_pipeline": 51,
+      "touch_lane_combat": 43,
+      "vehicle_survival": 30,
+      "resource_upgrade_loop": 30,
+      "text_console_runtime": 26,
+      "source_packet_generation": 19,
+      "deck_pressure": 12,
+      "delayed_consequences": 1
+    },
+    "examples": {
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 4,
+          "symbol": "",
+          "evidence": "MMPose RTMW whole-body inference, preserves all 133 raw landmarks and their exact detector scores,",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L4"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `pose-track.json` — normalized landmarks with provenance.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `pose-track-report.json` — structural and production-gate findings.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "MMPose inference requires OpenMMLab's compiled runtime. The repeatable path is the supplied",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "/absolute/path/workspace/grounded-motion/jobs/<job-id>/pose-track.json \\",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 113,
+          "symbol": "",
+          "evidence": "The endpoint is `/mcp`. Do not expose it publicly without authentication and an origin policy.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L113"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 117,
+          "symbol": "",
+          "evidence": "Production uses MMPose 1.3.2 RTMW-X Cocktail14 at 384×288:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L117"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 120,
+          "symbol": "",
+          "evidence": "- Apache-2.0 MMPose code.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L120"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "feet, pelvis/root, hands, detector score, occlusion, and source chronology. RTMW SimCC scores are",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `manifest.json` — artifact paths, sizes, and SHA-256 hashes.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "enabled fails until every required hip, foot, and body-wrist landmark is source-witnessed, the",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "/absolute/path/source.mp4 \\",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 77,
+          "symbol": "",
+          "evidence": "Use `--crop x,y,width,height` to lock a single subject crop. Coordinates are source pixels.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L77"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "The entire source interval is decoded without resampling.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 151,
+          "symbol": "",
+          "evidence": "- `start_motion_tracking(source_file, expected_sha256?, crop?, minimum_score?, request_id?)`",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L151"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 160,
+          "symbol": "",
+          "evidence": "The GPU worker runs the pinned RTMDet-m + RTMW-X stack and publishes immutable raw predictions, a multi-person track set, conservative identity findings, overlays with stable su...",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L160"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "Every content-addressed job contains:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "enabled fails until every required hip, foot, and body-wrist landmark is source-witnessed, the",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "review attestations are present, and the event map is reviewed and locked. A claimed review flag",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "without witnessed landmark coverage fails closed.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "container:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 117,
+          "symbol": "",
+          "evidence": "Production uses MMPose 1.3.2 RTMW-X Cocktail14 at 384×288:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L117"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 122,
+          "symbol": "",
+          "evidence": "- The fixed Vanguard canary retains whole-image single-subject inference.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L122"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 144,
+          "symbol": "",
+          "evidence": "fixtures, all 42 detailed COCO hand landmarks remain in raw and normalized evidence but are",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L144"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `pose-track-report.json` — structural and production-gate findings.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 162,
+          "symbol": "",
+          "evidence": "Review is a separate authenticated, human-only promotion. Every detector segment must be explicitly included or excluded with a reason. Included identities require interval, con...",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L162"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 19,
+          "symbol": "",
+          "evidence": "for chunk in iter(lambda: stream.read(1024 * 1024), b\"\"):",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L19"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 20,
+          "symbol": "",
+          "evidence": "digest.update(chunk)",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L20"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_audit.py",
+          "line": 105,
+          "symbol": "",
+          "evidence": "report = audit.validate_track(track(), production=False)",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L105"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_audit.py",
+          "line": 106,
+          "symbol": "",
+          "evidence": "assert report[\"pass\"], report",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L106"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_audit.py",
+          "line": 110,
+          "symbol": "",
+          "evidence": "report = audit.validate_track(track(), production=True)",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L110"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_audit.py",
+          "line": 111,
+          "symbol": "",
+          "evidence": "assert not report[\"pass\"]",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_audit.py#L111"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `manifest.json` — artifact paths, sizes, and SHA-256 hashes.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 160,
+          "symbol": "",
+          "evidence": "The GPU worker runs the pinned RTMDet-m + RTMW-X stack and publishes immutable raw predictions, a multi-person track set, conservative identity findings, overlays with stable su...",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L160"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 172,
+          "symbol": "",
+          "evidence": "used by the CLI, verifies both manifests, runs the existing mechanical comparison, and publishes",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L172"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 24,
+          "symbol": "manifest",
+          "evidence": "def manifest() -> dict:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L24"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 81,
+          "symbol": "",
+          "evidence": "fixture = manifest()",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L81"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_service.py",
+          "line": 6,
+          "symbol": "",
+          "evidence": "from grounded_motion_mcp.artifacts import verify_manifest",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_service.py#L6"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_service.py",
+          "line": 74,
+          "symbol": "",
+          "evidence": "assert verify_manifest(job_path)[\"pass\"]",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_service.py#L74"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_cloud.py",
+          "line": 14,
+          "symbol": "",
+          "evidence": "load_canary_manifest,",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L14"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "Inference deliberately ends in `tracked/unreviewed`. `validate_track` with the production gate",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- `validate_track`",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 69,
+          "symbol": "",
+          "evidence": "uv run grounded-motion --workspace /absolute/path/workspace validate \\",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L69"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 162,
+          "symbol": "",
+          "evidence": "Review is a separate authenticated, human-only promotion. Every detector segment must be explicitly included or excluded with a reason. Included identities require interval, con...",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L162"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 190,
+          "symbol": "",
+          "evidence": "Infrastructure is prepared by `infra/bootstrap_gcp.sh` inside the existing billed",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L190"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 193,
+          "symbol": "",
+          "evidence": "`github-actions` WIF pool. The bootstrap refuses to continue unless the exact materialized videos",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L193"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_worker_contract.py",
+          "line": 67,
+          "symbol": "",
+          "evidence": "bootstrap = (root / \"infra\" / \"bootstrap_gcp.sh\").read_text()",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L67"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_worker_contract.py",
+          "line": 69,
+          "symbol": "",
+          "evidence": "for source in (bootstrap, workflow):",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L69"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "The default transport is local STDIO. The optional Streamable HTTP lane uses the same service",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 138,
+          "symbol": "",
+          "evidence": "`mechanical_pass`; `judgment_status=blocked` always returns `mechanical_pass=null` with explicit",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L138"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 139,
+          "symbol": "",
+          "evidence": "per-lane blockers. Structural inference is never silently promoted into judgment.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L139"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 142,
+          "symbol": "",
+          "evidence": "each lane's per-frame pelvis and normalize by that lane's hip-to-ankle scale before comparing hips,",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L142"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 176,
+          "symbol": "",
+          "evidence": "the canary honestly returns `judgment_status=blocked`, `mechanical_pass=null`, and",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L176"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_worker_contract.py",
+          "line": 25,
+          "symbol": "test_publish_tree_keeps_lane_and_object_identity",
+          "evidence": "def test_publish_tree_keeps_lane_and_object_identity(tmp_path: Path):",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L25"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_worker_contract.py",
+          "line": 30,
+          "symbol": "",
+          "evidence": "assert all(item[\"lane\"] == \"source\" for item in artifacts)",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L30"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 29,
+          "symbol": "materialize_lane",
+          "evidence": "def materialize_lane(lane: dict, frames_root: Path, output: Path, spec: dict) -> dict:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L29"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "The default transport is local STDIO. The optional Streamable HTTP lane uses the same service",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "The entire source interval is decoded without resampling.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 139,
+          "symbol": "",
+          "evidence": "per-lane blockers. Structural inference is never silently promoted into judgment.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L139"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 142,
+          "symbol": "",
+          "evidence": "each lane's per-frame pelvis and normalize by that lane's hip-to-ankle scale before comparing hips,",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L142"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_worker_contract.py",
+          "line": 25,
+          "symbol": "test_publish_tree_keeps_lane_and_object_identity",
+          "evidence": "def test_publish_tree_keeps_lane_and_object_identity(tmp_path: Path):",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L25"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_worker_contract.py",
+          "line": 30,
+          "symbol": "",
+          "evidence": "assert all(item[\"lane\"] == \"source\" for item in artifacts)",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_worker_contract.py#L30"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 29,
+          "symbol": "materialize_lane",
+          "evidence": "def materialize_lane(lane: dict, frames_root: Path, output: Path, spec: dict) -> dict:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L29"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 30,
+          "symbol": "",
+          "evidence": "frames = lane[\"frames\"]",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L30"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "Core tools and MCP server:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 86,
+          "symbol": "",
+          "evidence": "\"mcpServers\": {",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L86"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 123,
+          "symbol": "",
+          "evidence": "- Arbitrary uploads use the hash-pinned RTMDet-m COCO-person detector and preserve every detected person in conservative identity segments. Ambiguous crossings, gaps, exits, and...",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L123"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 125,
+          "symbol": "",
+          "evidence": "The preset records the upstream config and checkpoint URL in every receipt. Downloaded weights",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L125"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 141,
+          "symbol": "",
+          "evidence": "Render registration and pelvis/root translation are diagnostics. Root-relative mechanics subtract",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L141"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 143,
+          "symbol": "",
+          "evidence": "feet, and COCO body wrists. Render registration never moves root-relative mechanics. For sprite",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L143"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 149,
+          "symbol": "",
+          "evidence": "The production profile accepts arbitrary hash-locked MP4s through either a ChatGPT attachment or a direct signed upload:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L149"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 152,
+          "symbol": "",
+          "evidence": "- `create_motion_upload(file_name, size_bytes, sha256, request_id?)`",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L152"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 88,
+          "symbol": "",
+          "evidence": "\"command\": \"uv\",",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L88"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 76,
+          "symbol": "",
+          "evidence": "parser = argparse.ArgumentParser()",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L76"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 77,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--source-frames\", type=Path, required=True)",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L77"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 78,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--candidate-frames\", type=Path, required=True)",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L78"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 79,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--output-dir\", type=Path, required=True)",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L79"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 80,
+          "symbol": "",
+          "evidence": "args = parser.parse_args()",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L80"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/stdio_smoke.py",
+          "line": 26,
+          "symbol": "",
+          "evidence": "command=sys.executable,",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/stdio_smoke.py#L26"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/cli.py",
+          "line": 1,
+          "symbol": "",
+          "evidence": "\"\"\"Command-line interface for the deterministic service.\"\"\"",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/cli.py#L1"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "README.md",
+          "line": 187,
+          "symbol": "",
+          "evidence": "the production `/mcp` resource, carry `grounded-motion:vanguard-canary`, and identify",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/README.md#L187"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 12,
+          "symbol": "",
+          "evidence": "from importlib.resources import files",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L12"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 25,
+          "symbol": "",
+          "evidence": "resource = files(\"grounded_motion_mcp.data\").joinpath(\"vanguard_canary.json\")",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L25"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/materialize_vanguard_canary.py",
+          "line": 26,
+          "symbol": "",
+          "evidence": "return json.loads(resource.read_text(encoding=\"utf-8\"))",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/materialize_vanguard_canary.py#L26"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_cloud.py",
+          "line": 193,
+          "symbol": "",
+          "evidence": "monkeypatch.setenv(\"GROUNDED_MOTION_RESOURCE\", \"https://motion.example.test/mcp\")",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L193"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_cloud.py",
+          "line": 302,
+          "symbol": "test_home_center_verifier_binds_email_resource_issuer_and_scope",
+          "evidence": "def test_home_center_verifier_binds_email_resource_issuer_and_scope(monkeypatch):",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L302"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_cloud.py",
+          "line": 304,
+          "symbol": "",
+          "evidence": "resource = \"https://motion.example.test/mcp\"",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L304"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "tests/test_vanguard_cloud.py",
+          "line": 313,
+          "symbol": "",
+          "evidence": "\"resource\": resource,",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/tests/test_vanguard_cloud.py#L313"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "scripts/mcp_smoke.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "\"\"\"In-memory MCP smoke test for all required tool registrations.\"\"\"",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/scripts/mcp_smoke.py#L2"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "AGENTS.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- No pose graph, no redraw.",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/AGENTS.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 46,
+          "symbol": "usable",
+          "evidence": "def usable(value: dict[str, Any] | None, threshold: float = 0.0) -> bool:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L46"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 58,
+          "symbol": "",
+          "evidence": "return score is not None and float(score) >= threshold",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L58"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 218,
+          "symbol": "",
+          "evidence": "threshold = float(track.get(\"minimum_score\", 0.5))",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L218"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 315,
+          "symbol": "",
+          "evidence": "if usable(value, threshold):",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L315"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 504,
+          "symbol": "",
+          "evidence": "thresholds = {\"hips\": 0.04, \"feet\": 0.03, \"wrists\": 0.035, \"hands\": 0.025}",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L504"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 505,
+          "symbol": "",
+          "evidence": "thresholds.update(source.get(\"comparison_thresholds\", {}))",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L505"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 606,
+          "symbol": "",
+          "evidence": "threshold = float(thresholds[group])",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L606"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 453,
+          "symbol": "_apply_transform",
+          "evidence": "def _apply_transform(",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L453"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 454,
+          "symbol": "",
+          "evidence": "value: dict[str, Any], transform: dict[str, Any] | None",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L454"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 456,
+          "symbol": "",
+          "evidence": "if not transform:",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L456"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 460,
+          "symbol": "",
+          "evidence": "\"x\": float(value[\"x\"]) * float(transform[\"scale_x\"])",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L460"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 461,
+          "symbol": "",
+          "evidence": "+ float(transform[\"offset_x\"]),",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L461"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 462,
+          "symbol": "",
+          "evidence": "\"y\": float(value[\"y\"]) * float(transform[\"scale_y\"])",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L462"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 463,
+          "symbol": "",
+          "evidence": "+ float(transform[\"offset_y\"]),",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L463"
+        },
+        {
+          "origin": "github",
+          "project": "grounded-motion-mcp",
+          "repo": "Valar05/grounded-motion-mcp",
+          "path": "src/grounded_motion_mcp/audit.py",
+          "line": 526,
+          "symbol": "",
+          "evidence": "transform = candidate.get(\"judgment\", {}).get(\"render_registration_to_source\")",
+          "source_url": "https://github.com/Valar05/grounded-motion-mcp/blob/main/src/grounded_motion_mcp/audit.py#L526"
+        }
+      ]
+    }
+  }
+}

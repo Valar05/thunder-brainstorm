@@ -1,0 +1,1147 @@
+{
+  "repo": "Valar05/armorture",
+  "branch": "master",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "armorture",
+    "updatedAt": "2026-06-14T15:25:33Z",
+    "url": "https://github.com/Valar05/armorture",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 20,
+  "selected_files": [
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "27df4b36ecfdf1a7cce5c5f3f32b0fc959badc67",
+      "size": 665,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 31,
+      "byte_count": 665,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armorture/blob/master/project.godot#L14",
+        "https://github.com/Valar05/armorture/blob/master/project.godot#L28",
+        "https://github.com/Valar05/armorture/blob/master/project.godot#L30",
+        "https://github.com/Valar05/armorture/blob/master/project.godot#L31"
+      ]
+    },
+    {
+      "path": "scripts/collision_object.gd",
+      "mode": "100644",
+      "sha": "108057dc855e6ab2fbdb2e11dd528fdbbe1cc9ab",
+      "size": 142,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 8,
+      "byte_count": 142,
+      "mechanics": [
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armorture/blob/master/scripts/collision_object.gd#L1"
+      ]
+    },
+    {
+      "path": "scripts/joystick.gd",
+      "mode": "100644",
+      "sha": "7f739e6d779757628cb38fa8873399a36ca733b1",
+      "size": 1692,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 51,
+      "byte_count": 1692,
+      "mechanics": [
+        "deck_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L5",
+        "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L12",
+        "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L26",
+        "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L27",
+        "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L28",
+        "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L36",
+        "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L39",
+        "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L46"
+      ]
+    },
+    {
+      "path": "scripts/mc_tables_facefixed.gd",
+      "mode": "100644",
+      "sha": "7975bfd168d2e23c86375aae01c61f2eccc36518",
+      "size": 32105,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 560,
+      "byte_count": 32105,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armorture/blob/master/scripts/mc_tables_facefixed.gd#L314"
+      ]
+    },
+    {
+      "path": "scripts/player.gd",
+      "mode": "100644",
+      "sha": "469c98d42f3efa466b95a62b39eb7401b836207a",
+      "size": 8379,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 233,
+      "byte_count": 8379,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L15",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L27",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L47",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L50",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L53",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L54",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L59",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L63"
+      ]
+    },
+    {
+      "path": "scripts/player.js",
+      "mode": "100644",
+      "sha": "621e46b4b7b4e3ce4274d3707ce9ff933cf2b042",
+      "size": 651,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 20,
+      "byte_count": 651,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L1",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L5",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L6",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L13",
+        "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L19"
+      ]
+    },
+    {
+      "path": "scripts/voxel_chunk.gd",
+      "mode": "100644",
+      "sha": "2b2c19f8e43f8fb99288a2fce34632d0868a0888",
+      "size": 27433,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 615,
+      "byte_count": 27433,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L1",
+        "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L2",
+        "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L4",
+        "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L5",
+        "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L6",
+        "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L7",
+        "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L8",
+        "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/weapon_hitbox.gd",
+      "mode": "100644",
+      "sha": "2d4bb9a243cb1631dcb6bbc47e8363c74f31adb9",
+      "size": 1795,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 63,
+      "byte_count": 1795,
+      "mechanics": [
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armorture/blob/master/scripts/weapon_hitbox.gd#L1",
+        "https://github.com/Valar05/armorture/blob/master/scripts/weapon_hitbox.gd#L3",
+        "https://github.com/Valar05/armorture/blob/master/scripts/weapon_hitbox.gd#L4",
+        "https://github.com/Valar05/armorture/blob/master/scripts/weapon_hitbox.gd#L5",
+        "https://github.com/Valar05/armorture/blob/master/scripts/weapon_hitbox.gd#L6",
+        "https://github.com/Valar05/armorture/blob/master/scripts/weapon_hitbox.gd#L7",
+        "https://github.com/Valar05/armorture/blob/master/scripts/weapon_hitbox.gd#L8",
+        "https://github.com/Valar05/armorture/blob/master/scripts/weapon_hitbox.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/world_generator.gd",
+      "mode": "100644",
+      "sha": "6df4a08c6246ce5534585ebf2f6da22f63cbae20",
+      "size": 12404,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 347,
+      "byte_count": 12404,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L3",
+        "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L4",
+        "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L6",
+        "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L7",
+        "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L8",
+        "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L9",
+        "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L11",
+        "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L27"
+      ]
+    },
+    {
+      "path": "scripts/collision_object.gd.uid",
+      "mode": "100644",
+      "sha": "01f8dcbe5363b603535f9a2af30f52a101560002",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/joystick.gd.uid",
+      "mode": "100644",
+      "sha": "199716c2845f5fccc398b62154051a5a991b1750",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/mc_tables_facefixed.gd.uid",
+      "mode": "100644",
+      "sha": "1000088dd1a9e4ae2c9f3ee9980da4a796f7ee36",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/player.gd.uid",
+      "mode": "100644",
+      "sha": "771f9e97cc98222e92d03dc98ab452d040c04eb9",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/voxel_chunk.gd.uid",
+      "mode": "100644",
+      "sha": "bb29e7e340b7ef07294e374fb9d6d790eea0f93d",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/weapon_hitbox.gd.uid",
+      "mode": "100644",
+      "sha": "63febba9fc884fb39e4afefc538c1691de4e47bf",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world_generator.gd.uid",
+      "mode": "100644",
+      "sha": "d369b177bda41cb9194ee2af32ea020944002c5b",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/Player.tscn",
+      "mode": "100644",
+      "sha": "403322080dd3ca74ae01d11d4c40c707155a3263",
+      "size": 6902,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 153,
+      "byte_count": 6902,
+      "mechanics": []
+    },
+    {
+      "path": "scenes/main.tscn",
+      "mode": "100644",
+      "sha": "381fc1bdaa445551b637927fae9142762cca4d91",
+      "size": 3541,
+      "score": 64,
+      "reasons": [
+        "scene carrier"
+      ],
+      "status": "fetched",
+      "line_count": 73,
+      "byte_count": 3541,
+      "mechanics": []
+    },
+    {
+      "path": ".vscode/settings.json",
+      "mode": "100644",
+      "sha": "884e6922bc160b36d7218a1c36e41b10b586970a",
+      "size": 131,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 131,
+      "mechanics": [
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armorture/blob/master/.vscode/settings.json#L2"
+      ]
+    },
+    {
+      "path": "data/player_animations.json",
+      "mode": "100644",
+      "sha": "39d3516961b874d6be1d0e20a44808f8ca12533b",
+      "size": 918,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 64,
+      "byte_count": 918,
+      "mechanics": [],
+      "source_line_refs": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 765,
+    "by_origin": {
+      "github": 765
+    },
+    "by_project": {
+      "armorture": 765
+    },
+    "by_mechanic": {
+      "writing_corpus_review": 585,
+      "touch_lane_combat": 75,
+      "text_console_runtime": 61,
+      "pose_animation_tools": 30,
+      "ai_pressure": 21,
+      "source_packet_generation": 13,
+      "web_choice_player": 9,
+      "deck_pressure": 5,
+      "asset_import_pipeline": 3,
+      "vehicle_survival": 1,
+      "event_clouds": 1,
+      "validation_pipeline": 1
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "project.godot",
+          "line": 14,
+          "symbol": "run/main_scene",
+          "evidence": "run/main_scene=\"uid://l7vjg2302d1i\"",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/project.godot#L14"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 71,
+          "symbol": "",
+          "evidence": "push_error(\"Failed to parse player_animations.json\")",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L71"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 150,
+          "symbol": "",
+          "evidence": "# No auto-leveling or roll constraints: character can roll freely if pitch/yaw input causes it",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L150"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 215,
+          "symbol": "",
+          "evidence": "await get_tree().create_timer(current_anim.windup/30.00).timeout",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L215"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 217,
+          "symbol": "",
+          "evidence": "await get_tree().create_timer(current_anim.active/30.00).timeout",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L217"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 219,
+          "symbol": "",
+          "evidence": "await get_tree().create_timer((current_anim.can_transition - ( current_anim.windup + current_anim.active))/30.00).timeout",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L219"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 65,
+          "symbol": "",
+          "evidence": "_thread.wait_to_finish()",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L65"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/world_generator.gd",
+          "line": 68,
+          "symbol": "",
+          "evidence": "var room_warp_noise: FastNoiseLite # optional domain warp",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L68"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "project.godot",
+          "line": 28,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/project.godot#L28"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "project.godot",
+          "line": 30,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/project.godot#L30"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 63,
+          "symbol": "",
+          "evidence": "# Load player_animations.json",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L63"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.js",
+          "line": 5,
+          "symbol": "",
+          "evidence": "// Function to load player_animations.json into an object",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L5"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.js",
+          "line": 6,
+          "symbol": "loadPlayerAnimations",
+          "evidence": "function loadPlayerAnimations() {",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L6"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.js",
+          "line": 13,
+          "symbol": "",
+          "evidence": "console.error('Error loading player_animations.json:', err);",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L13"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.js",
+          "line": 19,
+          "symbol": "",
+          "evidence": "const playerAnimations = loadPlayerAnimations();",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L19"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 300,
+          "symbol": "",
+          "evidence": "render_mode unshaded, cull_disabled, depth_draw_opaque;",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L300"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "project.godot",
+          "line": 31,
+          "symbol": "",
+          "evidence": "textures/vram_compression/import_etc2_astc=true",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/project.godot#L31"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/mc_tables_facefixed.gd",
+          "line": 314,
+          "symbol": "",
+          "evidence": "# IMPORTANT: These ALTs assume the same edge numbering as the standard table above.",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/mc_tables_facefixed.gd#L314"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "// Import Node.js 'fs' module to read files",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L1"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/collision_object.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends RigidBody3D",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/collision_object.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/joystick.gd",
+          "line": 12,
+          "symbol": "",
+          "evidence": "var origin_pos: Vector2 = Vector2.ZERO",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L12"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/joystick.gd",
+          "line": 26,
+          "symbol": "",
+          "evidence": "origin_pos = event.position",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L26"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/joystick.gd",
+          "line": 27,
+          "symbol": "",
+          "evidence": "base.global_position = origin_pos",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L27"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/joystick.gd",
+          "line": 28,
+          "symbol": "",
+          "evidence": "pip.global_position = origin_pos",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L28"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/joystick.gd",
+          "line": 36,
+          "symbol": "",
+          "evidence": "var delta = event.position - origin_pos",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L36"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/joystick.gd",
+          "line": 39,
+          "symbol": "",
+          "evidence": "pip.global_position = origin_pos + clamped",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L39"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 47,
+          "symbol": "",
+          "evidence": "var inputRight",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L47"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/joystick.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "@export var hide_threshold: float = 2.0",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/joystick.gd",
+          "line": 46,
+          "symbol": "",
+          "evidence": "if pip.global_position.distance_to(base.global_position) < hide_threshold:",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/joystick.gd#L46"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 300,
+          "symbol": "",
+          "evidence": "render_mode unshaded, cull_disabled, depth_draw_opaque;",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L300"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/world_generator.gd",
+          "line": 38,
+          "symbol": "",
+          "evidence": "@export var room_threshold: float = 0.53",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L38"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/world_generator.gd",
+          "line": 152,
+          "symbol": "",
+          "evidence": "var w_raw: float = 1.0 - _smoothstep(room_threshold - room_band, room_threshold + room_band, n01)",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L152"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 15,
+          "symbol": "",
+          "evidence": "@export var DECEL_PASSIVE := 18.0 # how fast we kill drift when no stick (higher = snappier)",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L15"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 27,
+          "symbol": "",
+          "evidence": "# Optional auto-level for pitch drift (since we have no roll)",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L27"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends Node3D",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 2,
+          "symbol": "",
+          "evidence": "class_name VoxelChunk",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L2"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 4,
+          "symbol": "",
+          "evidence": "@export var CHUNK_SIZE:int = 32",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L4"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 5,
+          "symbol": "",
+          "evidence": "@export var VOXEL_SIZE:float = 4.0",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L5"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 6,
+          "symbol": "",
+          "evidence": "@export var world_node:NodePath",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L6"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "@export var triplanar_material:Material",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L7"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 50,
+          "symbol": "",
+          "evidence": "var attack_number = 1",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L50"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 53,
+          "symbol": "",
+          "evidence": "var is_attacking = false",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L53"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 54,
+          "symbol": "",
+          "evidence": "var attack_buffering = false",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L54"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 187,
+          "symbol": "",
+          "evidence": "# Pitch relative to world XZ plane, derived from the forward vector",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L187"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 191,
+          "symbol": "",
+          "evidence": "if !is_attacking and attack_buffering:",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L191"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 192,
+          "symbol": "",
+          "evidence": "attack_buffering = false",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L192"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 193,
+          "symbol": "",
+          "evidence": "_on_attack_button_pushed()",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L193"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 195,
+          "symbol": "_on_attack_button_pushed",
+          "evidence": "func _on_attack_button_pushed():",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L195"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 129,
+          "symbol": "",
+          "evidence": "velocity = global_transform.basis * _vel_local",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L129"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 188,
+          "symbol": "",
+          "evidence": "var f := -global_transform.basis.z",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L188"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 229,
+          "symbol": "",
+          "evidence": "return global_transform.basis * Vector3(current_anim.dir[0],current_anim.dir[1],current_anim.dir[2])",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L229"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 43,
+          "symbol": "",
+          "evidence": "var rel:Vector3 = (global_transform.origin - world.WORLD_ORIGIN) / VOXEL_SIZE",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L43"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 51,
+          "symbol": "",
+          "evidence": "global_transform.origin = world.WORLD_ORIGIN + Vector3(chunk_voxel_origin) * VOXEL_SIZE",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L51"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 249,
+          "symbol": "",
+          "evidence": "# Transform world normals into local space of this chunk",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L249"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/voxel_chunk.gd",
+          "line": 250,
+          "symbol": "",
+          "evidence": "var xform: Transform3D = global_transform.affine_inverse()",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/voxel_chunk.gd#L250"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/weapon_hitbox.gd",
+          "line": 12,
+          "symbol": "",
+          "evidence": "prev_start = global_transform.origin",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/weapon_hitbox.gd#L12"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 187,
+          "symbol": "",
+          "evidence": "# Pitch relative to world XZ plane, derived from the forward vector",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L187"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 193,
+          "symbol": "",
+          "evidence": "_on_attack_button_pushed()",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L193"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.gd",
+          "line": 195,
+          "symbol": "_on_attack_button_pushed",
+          "evidence": "func _on_attack_button_pushed():",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.gd#L195"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/player.js",
+          "line": 13,
+          "symbol": "",
+          "evidence": "console.error('Error loading player_animations.json:', err);",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/player.js#L13"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/world_generator.gd",
+          "line": 27,
+          "symbol": "",
+          "evidence": "# =================== Organic rooms (windowed noise) =========",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L27"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/world_generator.gd",
+          "line": 29,
+          "symbol": "",
+          "evidence": "@export var target_room_count: int = 8",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L29"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/world_generator.gd",
+          "line": 32,
+          "symbol": "",
+          "evidence": "# window limiting each room's influence (prevents blob-merging)",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L32"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/world_generator.gd",
+          "line": 33,
+          "symbol": "",
+          "evidence": "@export var room_core_radius_m: float = 16.0 # full-strength radius",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L33"
+        },
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/world_generator.gd",
+          "line": 34,
+          "symbol": "",
+          "evidence": "@export var room_soft_m: float = 10.0 # fades to 0 outside core",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L34"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/world_generator.gd",
+          "line": 68,
+          "symbol": "",
+          "evidence": "var room_warp_noise: FastNoiseLite # optional domain warp",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L68"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "armorture",
+          "repo": "Valar05/armorture",
+          "path": "scripts/world_generator.gd",
+          "line": 296,
+          "symbol": "",
+          "evidence": "# fallback if too strict",
+          "source_url": "https://github.com/Valar05/armorture/blob/master/scripts/world_generator.gd#L296"
+        }
+      ]
+    }
+  }
+}

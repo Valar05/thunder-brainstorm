@@ -1,0 +1,1715 @@
+{
+  "repo": "Valar05/pose-lab",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "pose-lab",
+    "updatedAt": "2026-06-30T18:20:05Z",
+    "url": "https://github.com/Valar05/pose-lab",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "0f4cbe6c22100b94bd984d7c4e6ef18b443349d2",
+      "size": 1379,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 58,
+      "byte_count": 1379,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/README.md#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/README.md#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/README.md#L14",
+        "https://github.com/Valar05/pose-lab/blob/main/README.md#L20",
+        "https://github.com/Valar05/pose-lab/blob/main/README.md#L23",
+        "https://github.com/Valar05/pose-lab/blob/main/README.md#L28",
+        "https://github.com/Valar05/pose-lab/blob/main/README.md#L29",
+        "https://github.com/Valar05/pose-lab/blob/main/README.md#L30"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "435722527996f644edd1284fd565bb882eee03ea",
+      "size": 13827,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 144,
+      "byte_count": 13827,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L8",
+        "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L12"
+      ]
+    },
+    {
+      "path": "vendor/three/package.json",
+      "mode": "100644",
+      "sha": "b1fb3a05dd6475d4459b336005b1020d0f39efb0",
+      "size": 198,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 198,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/vendor/three/package.json#L1"
+      ]
+    },
+    {
+      "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+      "mode": "100644",
+      "sha": "607a90d53cc20e1d2e91be9bc9d009e1174cdfda",
+      "size": 18368,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 270,
+      "byte_count": 18368,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L8",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L11",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L13",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L16",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L17",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L20",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L25"
+      ]
+    },
+    {
+      "path": "docs/GANONDORF_REFERENCE.md",
+      "mode": "100644",
+      "sha": "91f700f28706c362ccf314512d0c12ab83f7c8b6",
+      "size": 2353,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 95,
+      "byte_count": 2353,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/docs/GANONDORF_REFERENCE.md#L6",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/GANONDORF_REFERENCE.md#L10",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/GANONDORF_REFERENCE.md#L19",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/GANONDORF_REFERENCE.md#L23",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/GANONDORF_REFERENCE.md#L35",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/GANONDORF_REFERENCE.md#L39",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/GANONDORF_REFERENCE.md#L43",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/GANONDORF_REFERENCE.md#L45"
+      ]
+    },
+    {
+      "path": "docs/MOTIVATED_MODE.md",
+      "mode": "100644",
+      "sha": "f9854cc6c512bbb813753eeb24e26b98d67bd19e",
+      "size": 1602,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 1602,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/docs/MOTIVATED_MODE.md#L9",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/MOTIVATED_MODE.md#L17",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/MOTIVATED_MODE.md#L18",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/MOTIVATED_MODE.md#L23",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/MOTIVATED_MODE.md#L25",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/MOTIVATED_MODE.md#L33",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/MOTIVATED_MODE.md#L39",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/MOTIVATED_MODE.md#L42"
+      ]
+    },
+    {
+      "path": "docs/ORC_IMPORT_AND_MERGE_WORKFLOW.md",
+      "mode": "100644",
+      "sha": "2a671d0169f2c8cab2b8942b1242be572684ba23",
+      "size": 1319,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 29,
+      "byte_count": 1319,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ORC_IMPORT_AND_MERGE_WORKFLOW.md#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ORC_IMPORT_AND_MERGE_WORKFLOW.md#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ORC_IMPORT_AND_MERGE_WORKFLOW.md#L5",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ORC_IMPORT_AND_MERGE_WORKFLOW.md#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ORC_IMPORT_AND_MERGE_WORKFLOW.md#L8",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ORC_IMPORT_AND_MERGE_WORKFLOW.md#L9",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ORC_IMPORT_AND_MERGE_WORKFLOW.md#L10",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/ORC_IMPORT_AND_MERGE_WORKFLOW.md#L12"
+      ]
+    },
+    {
+      "path": "docs/POSE_LAB_INTERACTION_FAILURE_20260619.md",
+      "mode": "100644",
+      "sha": "721227dfa4cfd9a106d6e0d10cf0f189b1c24f75",
+      "size": 7477,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 106,
+      "byte_count": 7477,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_INTERACTION_FAILURE_20260619.md#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_INTERACTION_FAILURE_20260619.md#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_INTERACTION_FAILURE_20260619.md#L5",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_INTERACTION_FAILURE_20260619.md#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_INTERACTION_FAILURE_20260619.md#L9",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_INTERACTION_FAILURE_20260619.md#L11",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_INTERACTION_FAILURE_20260619.md#L12",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_INTERACTION_FAILURE_20260619.md#L14"
+      ]
+    },
+    {
+      "path": "docs/POSE_LAB_MODULE_FAILURE_20260619.md",
+      "mode": "100644",
+      "sha": "c712ba809853384c144626a56e888e8e8b1dd9b5",
+      "size": 723,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 11,
+      "byte_count": 723,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_MODULE_FAILURE_20260619.md#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_MODULE_FAILURE_20260619.md#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_MODULE_FAILURE_20260619.md#L5",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_MODULE_FAILURE_20260619.md#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_MODULE_FAILURE_20260619.md#L9",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_MODULE_FAILURE_20260619.md#L11"
+      ]
+    },
+    {
+      "path": "docs/SF2_ANIMATION_CRITIQUE_GUIDE.md",
+      "mode": "100644",
+      "sha": "16f9583f52ce8d7e2f1f31dadb95d0efc2ffcf17",
+      "size": 4064,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 151,
+      "byte_count": 4064,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SF2_ANIMATION_CRITIQUE_GUIDE.md#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SF2_ANIMATION_CRITIQUE_GUIDE.md#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SF2_ANIMATION_CRITIQUE_GUIDE.md#L5",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SF2_ANIMATION_CRITIQUE_GUIDE.md#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SF2_ANIMATION_CRITIQUE_GUIDE.md#L9",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SF2_ANIMATION_CRITIQUE_GUIDE.md#L11",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SF2_ANIMATION_CRITIQUE_GUIDE.md#L13",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SF2_ANIMATION_CRITIQUE_GUIDE.md#L15"
+      ]
+    },
+    {
+      "path": "docs/SMASH_REALISTIC_ANIMATION_STEERING_GUIDE.md",
+      "mode": "100644",
+      "sha": "4b49657e9259e17f30871c6b9e57ef3c29f25256",
+      "size": 3444,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 117,
+      "byte_count": 3444,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SMASH_REALISTIC_ANIMATION_STEERING_GUIDE.md#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SMASH_REALISTIC_ANIMATION_STEERING_GUIDE.md#L17",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SMASH_REALISTIC_ANIMATION_STEERING_GUIDE.md#L25",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SMASH_REALISTIC_ANIMATION_STEERING_GUIDE.md#L29",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SMASH_REALISTIC_ANIMATION_STEERING_GUIDE.md#L33",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SMASH_REALISTIC_ANIMATION_STEERING_GUIDE.md#L48",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SMASH_REALISTIC_ANIMATION_STEERING_GUIDE.md#L52",
+        "https://github.com/Valar05/pose-lab/blob/main/docs/SMASH_REALISTIC_ANIMATION_STEERING_GUIDE.md#L62"
+      ]
+    },
+    {
+      "path": "tools/no_cache_http_server.py",
+      "mode": "100644",
+      "sha": "887c7d65e6bf99616c0ad89fc29b04e87c480437",
+      "size": 936,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 27,
+      "byte_count": 936,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/tools/no_cache_http_server.py#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/no_cache_http_server.py#L2",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/no_cache_http_server.py#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/no_cache_http_server.py#L4",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/no_cache_http_server.py#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/no_cache_http_server.py#L8",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/no_cache_http_server.py#L9",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/no_cache_http_server.py#L10"
+      ]
+    },
+    {
+      "path": "tools/render_bone_orientation_inspector.mjs",
+      "mode": "100644",
+      "sha": "d06fe97b46272a323ebef01def2c5af76d8d5f76",
+      "size": 23914,
+      "score": 76,
+      "reasons": [
+        "helper tooling",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 533,
+      "byte_count": 23914,
+      "mechanics": []
+    },
+    {
+      "path": "tools/test_bone_orientation_inspector.mjs",
+      "mode": "100644",
+      "sha": "30664f850dbb1684383d22725d8a3c525444f901",
+      "size": 3983,
+      "score": 76,
+      "reasons": [
+        "helper tooling",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 45,
+      "byte_count": 3983,
+      "mechanics": []
+    },
+    {
+      "path": "tools/test_no_cache_server_contract.mjs",
+      "mode": "100644",
+      "sha": "ce47cb1feb2dcdfd39b63774ec0b5986edf2c88d",
+      "size": 1772,
+      "score": 76,
+      "reasons": [
+        "helper tooling",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 26,
+      "byte_count": 1772,
+      "mechanics": []
+    },
+    {
+      "path": "tools/test_pose_lab_state_persistence.mjs",
+      "mode": "100644",
+      "sha": "5ec471da3aaccbf7ef8f4403116465244090736e",
+      "size": 1683,
+      "score": 76,
+      "reasons": [
+        "helper tooling",
+        "contract surface"
+      ],
+      "status": "fetched",
+      "line_count": 38,
+      "byte_count": 1683,
+      "mechanics": []
+    },
+    {
+      "path": "tools/audit_bad_frames.py",
+      "mode": "100644",
+      "sha": "afd09f6b40fdd49bc648913021b06c1ebf670a15",
+      "size": 5991,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 156,
+      "byte_count": 5991,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/tools/audit_bad_frames.py#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/audit_bad_frames.py#L2",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/audit_bad_frames.py#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/audit_bad_frames.py#L4",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/audit_bad_frames.py#L5",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/audit_bad_frames.py#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/audit_bad_frames.py#L10",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/audit_bad_frames.py#L11"
+      ]
+    },
+    {
+      "path": "tools/batch_openai_critiques.py",
+      "mode": "100644",
+      "sha": "283f1264712967519d4af3475777ccccea2cb836",
+      "size": 3685,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 108,
+      "byte_count": 3685,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/tools/batch_openai_critiques.py#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/batch_openai_critiques.py#L2",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/batch_openai_critiques.py#L4",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/batch_openai_critiques.py#L5",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/batch_openai_critiques.py#L6",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/batch_openai_critiques.py#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/batch_openai_critiques.py#L8",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/batch_openai_critiques.py#L10"
+      ]
+    },
+    {
+      "path": "tools/build_before_after_packet.py",
+      "mode": "100644",
+      "sha": "ba28739979e7a31bac7fe712755ffa0a9cf03696",
+      "size": 2117,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 2117,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_before_after_packet.py#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_before_after_packet.py#L2",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_before_after_packet.py#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_before_after_packet.py#L4",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_before_after_packet.py#L5",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_before_after_packet.py#L6",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_before_after_packet.py#L9",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_before_after_packet.py#L10"
+      ]
+    },
+    {
+      "path": "tools/build_critique_packet.py",
+      "mode": "100644",
+      "sha": "030b6c674965696c2a7584465f2973945d35208d",
+      "size": 2449,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 54,
+      "byte_count": 2449,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_critique_packet.py#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_critique_packet.py#L2",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_critique_packet.py#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_critique_packet.py#L4",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_critique_packet.py#L5",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_critique_packet.py#L6",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_critique_packet.py#L9",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/build_critique_packet.py#L10"
+      ]
+    },
+    {
+      "path": "tools/call_codex_critique.py",
+      "mode": "100644",
+      "sha": "9c650f48dfbeea759a94a8a916e2dcca4d8802c6",
+      "size": 10252,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 251,
+      "byte_count": 10252,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_codex_critique.py#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_codex_critique.py#L2",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_codex_critique.py#L4",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_codex_critique.py#L5",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_codex_critique.py#L6",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_codex_critique.py#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_codex_critique.py#L8",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_codex_critique.py#L9"
+      ]
+    },
+    {
+      "path": "tools/call_openai_critique.py",
+      "mode": "100644",
+      "sha": "358a0b7dc7ae14e0b22c683423d4d445a2f60763",
+      "size": 16099,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 411,
+      "byte_count": 16099,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_openai_critique.py#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_openai_critique.py#L2",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_openai_critique.py#L4",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_openai_critique.py#L5",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_openai_critique.py#L6",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_openai_critique.py#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_openai_critique.py#L8",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/call_openai_critique.py#L9"
+      ]
+    },
+    {
+      "path": "tools/classify_attack_grammar.py",
+      "mode": "100644",
+      "sha": "52bc4f6c1a64f38ba8c4e7ba582f6d03179cf1a1",
+      "size": 3999,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 96,
+      "byte_count": 3999,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L2",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L4",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L6",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L8",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L9"
+      ]
+    },
+    {
+      "path": "tools/compare_poseclip_versions.py",
+      "mode": "100644",
+      "sha": "901dca01824b3223da492695a453a0c8fd946071",
+      "size": 1836,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 1836,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/pose-lab/blob/main/tools/compare_poseclip_versions.py#L1",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/compare_poseclip_versions.py#L2",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/compare_poseclip_versions.py#L3",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/compare_poseclip_versions.py#L4",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/compare_poseclip_versions.py#L7",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/compare_poseclip_versions.py#L8",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/compare_poseclip_versions.py#L9",
+        "https://github.com/Valar05/pose-lab/blob/main/tools/compare_poseclip_versions.py#L10"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1424,
+    "by_origin": {
+      "github": 1424
+    },
+    "by_project": {
+      "pose-lab": 1424
+    },
+    "by_mechanic": {
+      "writing_corpus_review": 870,
+      "ai_pressure": 608,
+      "pose_animation_tools": 359,
+      "tts_audio_pipeline": 223,
+      "asset_import_pipeline": 182,
+      "web_choice_player": 153,
+      "validation_pipeline": 153,
+      "source_packet_generation": 151,
+      "touch_lane_combat": 132,
+      "text_console_runtime": 110,
+      "vehicle_survival": 7,
+      "delayed_consequences": 5,
+      "deck_pressure": 1
+    },
+    "examples": {
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "Pose Lab",
+          "evidence": "# Pose Lab",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Pose Lab is a mobile-first 3D posing and animation tool focused on touch workflows, reusable pose libraries, rapid iteration, and accessible animation authoring.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "Pose Lab explores a different idea:",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "The goal is to make creating, saving, reusing, and sharing poses dramatically faster than traditional workflows.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- FK and IK manipulation",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- Reusable pose libraries",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Cross-character pose reuse",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Animation composition from saved poses",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L31"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "In a waiting room.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 116,
+          "symbol": "",
+          "evidence": "First-person view mode uses Arcane Manifold's copied `Player.tscn` camera data: `Model/Armature/Skeleton3D/Head/Camera3D`, local position `(-0.0286048, 0.0880932, 0.076746)`, FO...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L116"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This lab now has a small command-line toolchain for reducing credit spend and avoiding repeated visual-guess loops while tuning SF2-style poseclips.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 79,
+          "symbol": "",
+          "evidence": "Meshy/FPS ready, saber, and retarget experiments are candidate-only by default. The status command reports the protected accepted baseline, current cache token, latest evidence ...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L79"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 145,
+          "symbol": "",
+          "evidence": "Critique mode is viewport-first. It should boot with no large sheet open: the model stays visible, and the bare player timeline carries the scrub rail, jump controls, and critiq...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L145"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 173,
+          "symbol": "",
+          "evidence": "The browser page can also be inspected directly from the devtools console with `window.poseLabDebug.exec('status')`, `window.poseLabDebug.exec('actor orc')`, `window.poseLabDebu...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L173"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "tools/no_cache_http_server.py",
+          "line": 16,
+          "symbol": "",
+          "evidence": "parser = argparse.ArgumentParser(description=\"Serve Pose Lab with no-cache headers for visual QA.\")",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/tools/no_cache_http_server.py#L16"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "tools/no_cache_http_server.py",
+          "line": 17,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--port\", type=int, default=8798)",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/tools/no_cache_http_server.py#L17"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "In a waiting room.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "- AI-assisted animation tooling",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `assets/models/ruined_air/Scavenger_new.fbx`: Ruined Air canonical visible full-body player rig with sabre clips.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `assets/models/ruined_air/Animations/Animation_*.fbx`: Ruined Air native walk/back/turn clips loaded onto the Ruined Air actor.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- `assets/source/ruined_air/`: copied Ruined Air player scene and controller scripts for provenance and procedural-walk mining.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- `assets/models/meshy_sabre/Meshy_AI_A_French_revolution_c_0628223518_texture.glb`: static PBR Meshy gun-sword/sabre prop attached to `WeaponGrip`; FPS Arms inherits `WeaponGri...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "tail -80 /storage/emulated/0/Documents/GodotProjects/pose-lab/generated/server_logs/pose-lab-server-8798.log",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "If the session already exists, do not restart it unnecessarily unless a visual red build shows stale cached output. Verify the tmux session, HTTP response, no-cache headers, and...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L48"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Animation composition from saved poses",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `pose-lab.html`: browser lab UI.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- `pose-lab.html`: critique-first entry by default; use `?mode=standard` for the fuller lab chrome.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `pose-critique.html`: explicit critique alias that opens the same lab with the 3D viewport as the priority surface.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `assets/models/arcane/Animation_*.fbx`: Arcane Manifold native leg/turn animation clips loaded onto the full rig.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `assets/models/ruined_air/Animations/Animation_*.fbx`: Ruined Air native walk/back/turn clips loaded onto the Ruined Air actor.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `assets/source/meshy_character_sheet/`: original Meshy download zip and extracted animated GLBs for provenance.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "python -m http.server 8797",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L31"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 40,
+          "symbol": "",
+          "evidence": "- Retargetable motion assets",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L40"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This is a standalone browser Pose Lab seeded from the newer `gravity-fist-threejs` pose lab. It is for inspecting imported GLB/Blend animation assets before they become runtime ...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- `assets/models/FPSPlayer.glb`: runtime GLB exported from `FPSPlayer.blend`.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- `assets/source/FPSPlayer.blend`: copied source blend for provenance.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- `assets/models/arcane/Forgeborn.glb`: Arcane Manifold full-body player rig copied from THECAULDRON.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `assets/models/arcane/Animation_*.fbx`: Arcane Manifold native leg/turn animation clips loaded onto the full rig.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `assets/models/ruined_air/Scavenger_new.fbx`: Ruined Air canonical visible full-body player rig with sabre clips.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `assets/models/ruined_air/Animations/Animation_*.fbx`: Ruined Air native walk/back/turn clips loaded onto the Ruined Air actor.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L18"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "Pose Lab treats poses, motion fragments, and animation decisions as reusable building blocks.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "The FPSPlayer GLB was validated with Three GLTFLoader: 55 clips, `Arms` SkinnedMesh, `placeholderWeapon`, and bones including `WeaponR`, `WeaponL`, `Camera`, `HitboxHandR`, and ...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 99,
+          "symbol": "",
+          "evidence": "The lab now loads an `Orc Cleanup` actor before the older FPS/Arcane actors. It uses `assets/models/orc_berserker/standing_idle.fbx` as the active Infinite Brutality enemy rig a...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L99"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 112,
+          "symbol": "",
+          "evidence": "The imported FPS clips must be retargeted from the exported model/bind pose, not from animation keyframe zero. Many attack clips start already in a weapon-ready/combat pose, so ...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L112"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 116,
+          "symbol": "",
+          "evidence": "First-person view mode uses Arcane Manifold's copied `Player.tscn` camera data: `Model/Armature/Skeleton3D/Head/Camera3D`, local position `(-0.0286048, 0.0880932, 0.076746)`, FO...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L116"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 132,
+          "symbol": "",
+          "evidence": "Meshy/FPS experiments now default to the candidate lane. Before editing startup clips, aliases, visible clip patterns, or claiming a candidate is accepted, run:",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L132"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 138,
+          "symbol": "",
+          "evidence": "Promotion requires `tools/promote_pose_candidate.mjs` with fresh visual evidence and metric evidence. The accepted baseline is recorded in `generated/workflow_state/meshy_fps_ac...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L138"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "Use this before touching the live Pose Lab viewport when comparing FPS Arms saber motion to Meshy Character. The `fpsPlayer` preset loads `assets/models/FPSPlayer.glb`, samples ...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L52"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- `pose-lab.html`: critique-first entry by default; use `?mode=standard` for the fuller lab chrome.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `pose-critique.html`: explicit critique alias that opens the same lab with the 3D viewport as the priority surface.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `tools/call_codex_critique.py`: Codex-backed critique runner that consumes a poseclip packet and writes prompt/run artifacts under `generated/codex_critiques/`.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- `assets/source/meshy_character_sheet/`: original Meshy download zip and extracted animated GLBs for provenance.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "Open `http://127.0.0.1:8797/pose-lab.html` for the critique-first landing page, or `pose-lab.html?mode=standard` for the full lab surface.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "The critique path is Pose Lab first; Legion is not the backend for this workflow.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "3. Verify the selected actor in the startup resolver before chasing panel visibility or clip search logic. In critique mode, the default should be Ares if it is available.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 112,
+          "symbol": "",
+          "evidence": "The imported FPS clips must be retargeted from the exported model/bind pose, not from animation keyframe zero. Many attack clips start already in a weapon-ready/combat pose, so ...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L112"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `tools/call_codex_critique.py`: Codex-backed critique runner that consumes a poseclip packet and writes prompt/run artifacts under `generated/codex_critiques/`.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `src/pose-lab.js`: Gravity Fist-derived lab runtime with clip, bone, transform, and retarget panels.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 38,
+          "symbol": "Critique Packets",
+          "evidence": "## Critique Packets",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "python3 tools/build_critique_packet.py --poseclip assets/pose_indexes/ares_axekick_sf2.poseclip.json --out generated/pose_renders/ares_axekick_packet --view xz",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "Builds a render manifest, stickframe PNGs, and critique packet using `tools/render_poseclip_stickframes.py`. Critique packets default to 30 fps so the tagged frames line up with...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 95,
+          "symbol": "",
+          "evidence": "- Missing tool: there was no in-viewport weapon transform gizmo, so small visual placement changes took many text-edit/screenshot loops.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L95"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 153,
+          "symbol": "",
+          "evidence": "Use this when you want a compact grease-pencil style note attached to a single capture slot. The note is stored in the visual evidence JSON next to the frame it refers to, and b...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L153"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 163,
+          "symbol": "",
+          "evidence": "Builds the existing critique packet, picks a small frame subset, and prepares an OpenAI Responses API request with image inputs. Use `--dry-run` to verify the packet before spen...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L163"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `tools/call_codex_critique.py`: Codex-backed critique runner that consumes a poseclip packet and writes prompt/run artifacts under `generated/codex_critiques/`.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `src/pose-lab.js`: Gravity Fist-derived lab runtime with clip, bone, transform, and retarget panels.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `assets/models/arcane/Animation_*.fbx`: Arcane Manifold native leg/turn animation clips loaded onto the full rig.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `assets/models/ruined_air/Scavenger_new.fbx`: Ruined Air canonical visible full-body player rig with sabre clips.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- `assets/models/ruined_air/Animations/Animation_*.fbx`: Ruined Air native walk/back/turn clips loaded onto the Ruined Air actor.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- `Meshy Character` now prefers FPS Arms sword upper-body `[FPS-SWORD-UPPER]` clips converted from `FPSPlayer.glb` `OneHand*` authored keyframes onto the Meshy rig using `fps-up...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: asset source and processing notes.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "2. Confirm the browser is on the intended entry path and mode, including any query-string overrides such as `actor`, `qaActor`, `clip`, `mode`, or visual-QA flags.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L55"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "tmux new-session -d -s pose-lab-server-8798 \"while true; do echo \\\"[\\$(date -Is)] starting no-cache Pose Lab server 8798 cwd=/storage/emulated/0/Documents/GodotProjects\\\"; cd /s...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 91,
+          "symbol": "",
+          "evidence": "Cleanup mode has an `Open Files` control that accepts local `.fbx`, `.glb`, and `.gltf` files from the browser. Select a model file plus any animation FBX files together; Pose L...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L91"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 96,
+          "symbol": "",
+          "evidence": "- Missing test: earlier tests proved strings existed, not that the operator had a real visual control loop. `tools/test_weapon_gizmo_controls.mjs` now protects the panel, drag h...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L96"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "tools/classify_attack_grammar.py",
+          "line": 16,
+          "symbol": "",
+          "evidence": "'coreRules': ['early windup', 'dense chamber', 'held chamber', 'delayed extension'],",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L16"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "tools/classify_attack_grammar.py",
+          "line": 50,
+          "symbol": "",
+          "evidence": "elif attack_style == 'punch' or any(token in name for token in ['jab', 'cross', 'hook', 'uppercut', 'backfist', 'punch']):",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L50"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "5. The visual-QA harness should emit a ready-to-view Android broadcast after the first rendered beacon so the browser can be reopened from automation without guessing.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 112,
+          "symbol": "",
+          "evidence": "The imported FPS clips must be retargeted from the exported model/bind pose, not from animation keyframe zero. Many attack clips start already in a weapon-ready/combat pose, so ...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L112"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 132,
+          "symbol": "",
+          "evidence": "Meshy/FPS experiments now default to the candidate lane. Before editing startup clips, aliases, visible clip patterns, or claiming a candidate is accepted, run:",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L132"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 233,
+          "symbol": "",
+          "evidence": "Critique mode now treats corrected poses as editable overlay keys stored in `localStorage` under `pose-lab:pose-corrections:v1`. The base player view must stay clean: no always-...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L233"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/GANONDORF_REFERENCE.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "- `AxeKick`, `AxleKick`, `LowBackKick`, `SpinningHighKick`: use Ganondorf as a heavy-attack reference. Emphasize compression, commitment, and silhouette.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/GANONDORF_REFERENCE.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/POSE_LAB_INTERACTION_FAILURE_20260619.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "- only `twist` mode writes `worldQuat` FK rotation corrections using the old projected screen-plane pattern.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/POSE_LAB_INTERACTION_FAILURE_20260619.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "tools/classify_attack_grammar.py",
+          "line": 59,
+          "symbol": "",
+          "evidence": "'heavy_chamber_kick': 'This kick reads from a denser chamber before release rather than a broad held contact.',",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/tools/classify_attack_grammar.py#L59"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 85,
+          "symbol": "",
+          "evidence": "The FPSPlayer GLB was validated with Three GLTFLoader: 55 clips, `Arms` SkinnedMesh, `placeholderWeapon`, and bones including `WeaponR`, `WeaponL`, `Camera`, `HitboxHandR`, and ...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L85"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 124,
+          "symbol": "",
+          "evidence": "The same contract now includes an Initiative Audit: check, document, and test the cheap follow-up work before you stop.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/PROJECT_ORIENTATION.md#L124"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 54,
+          "symbol": "FPS Weapon Basis Audit",
+          "evidence": "## FPS Weapon Basis Audit",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 57,
+          "symbol": "",
+          "evidence": "node tools/meshy_fps_weapon_basis_audit.mjs",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "Use this when Meshy saber rotation looks sideways or rolled. It compares the rejected raw wrist-relative `Weapon.R` orientation against the accepted frame-solved weapon basis at...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L60"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 93,
+          "symbol": "Friction Audit",
+          "evidence": "### Friction Audit",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L93"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 116,
+          "symbol": "",
+          "evidence": "This keeps parse failures, actor bootstrapping, and dock visibility from masking each other.",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L116"
+        },
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 175,
+          "symbol": "Critique Snapshot Audit",
+          "evidence": "## Critique Snapshot Audit",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L175"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "pose-lab",
+          "repo": "Valar05/pose-lab",
+          "path": "docs/ANIMATION_WORKFLOW_TOOLING.md",
+          "line": 145,
+          "symbol": "",
+          "evidence": "Critique mode is viewport-first. It should boot with no large sheet open: the model stays visible, and the bare player timeline carries the scrub rail, jump controls, and critiq...",
+          "source_url": "https://github.com/Valar05/pose-lab/blob/main/docs/ANIMATION_WORKFLOW_TOOLING.md#L145"
+        }
+      ]
+    }
+  }
+}

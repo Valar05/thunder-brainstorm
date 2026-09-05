@@ -1,0 +1,1542 @@
+{
+  "repo": "Valar05/diorama-descent",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "diorama-descent",
+    "updatedAt": "2026-05-04T21:37:09Z",
+    "url": "https://github.com/Valar05/diorama-descent",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "ade11afd1f2e716c3b2f53627aa3cb6e1780d4a6",
+      "size": 985,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 29,
+      "byte_count": 985,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/README.md#L11",
+        "https://github.com/Valar05/diorama-descent/blob/main/README.md#L12",
+        "https://github.com/Valar05/diorama-descent/blob/main/README.md#L20",
+        "https://github.com/Valar05/diorama-descent/blob/main/README.md#L21",
+        "https://github.com/Valar05/diorama-descent/blob/main/README.md#L27",
+        "https://github.com/Valar05/diorama-descent/blob/main/README.md#L29"
+      ]
+    },
+    {
+      "path": "assets/legacy/diorama-of-descension/README.md",
+      "mode": "100644",
+      "sha": "9d15fb2e2daaf2290aa5a8df2586f953674aff6e",
+      "size": 3657,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 93,
+      "byte_count": 3657,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L1",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L3",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L5",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L7",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L9",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L10",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L11",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L12"
+      ]
+    },
+    {
+      "path": "docs/SOURCE_MANIFEST.md",
+      "mode": "100644",
+      "sha": "2848f13057979b9c7a28a98e33f0a71635b3206a",
+      "size": 1541,
+      "score": 100,
+      "reasons": [
+        "documentation surface",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 65,
+      "byte_count": 1541,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L1",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L3",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L5",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L7",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L9",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L10",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L11",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L13"
+      ]
+    },
+    {
+      "path": "assets/legacy/diorama-of-descension/project.godot",
+      "mode": "100644",
+      "sha": "2df4d0611f647ca598542a2e2b5eeaa0f84d3003",
+      "size": 779,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 36,
+      "byte_count": 779,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L1",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L2",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L3",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L4",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L5",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L6",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L7",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L9"
+      ]
+    },
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "016da34f1dd875011edf6446932a740fd9f64dc1",
+      "size": 756,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 756,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/project.godot#L13",
+        "https://github.com/Valar05/diorama-descent/blob/main/project.godot#L18",
+        "https://github.com/Valar05/diorama-descent/blob/main/project.godot#L30",
+        "https://github.com/Valar05/diorama-descent/blob/main/project.godot#L32",
+        "https://github.com/Valar05/diorama-descent/blob/main/project.godot#L33"
+      ]
+    },
+    {
+      "path": "assets/legacy/diorama-of-descension/docs/COMBAT.md",
+      "mode": "100644",
+      "sha": "ab60941f6c74feb90de8b469f664dddb220b60a1",
+      "size": 3815,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 130,
+      "byte_count": 3815,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L1",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L3",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L5",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L7",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L9",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L11",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L13",
+        "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L14"
+      ]
+    },
+    {
+      "path": "docs/CONCEPT.md",
+      "mode": "100644",
+      "sha": "fda72f746342cc687dc792074053d6414c375853",
+      "size": 1534,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 1534,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/CONCEPT.md#L9",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/CONCEPT.md#L14",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/CONCEPT.md#L21",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/CONCEPT.md#L22",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/CONCEPT.md#L23",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/CONCEPT.md#L27",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/CONCEPT.md#L29",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/CONCEPT.md#L34"
+      ]
+    },
+    {
+      "path": "docs/PHASE_1.md",
+      "mode": "100644",
+      "sha": "00ae630fccf733a93296f0aed28d38a2a37f4a1c",
+      "size": 714,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 714,
+      "mechanics": [
+        "ai_pressure",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/PHASE_1.md#L7",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/PHASE_1.md#L13",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/PHASE_1.md#L18",
+        "https://github.com/Valar05/diorama-descent/blob/main/docs/PHASE_1.md#L21"
+      ]
+    },
+    {
+      "path": "assets/legacy/diorama-of-descension/scenes/Slash.gdshader",
+      "mode": "100644",
+      "sha": "8855a4e353331e3d6c0b6b706338b9162fe059ae",
+      "size": 913,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 913,
+      "mechanics": []
+    },
+    {
+      "path": "assets/legacy/diorama-of-descension/scenes/Slash.gdshader.uid",
+      "mode": "100644",
+      "sha": "ec26fe5597402727ff590901f63960d8d8114c8e",
+      "size": 20,
+      "score": 76,
+      "reasons": [
+        "scene carrier",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/joystick.gd",
+      "mode": "100644",
+      "sha": "edda2dfd76470e6b3795a82fcbad85eede10d803",
+      "size": 2369,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 83,
+      "byte_count": 2369,
+      "mechanics": [
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/joystick.gd#L11",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/joystick.gd#L26",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/joystick.gd#L27",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/joystick.gd#L28",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/joystick.gd#L35",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/joystick.gd#L38",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/joystick.gd#L39",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/joystick.gd#L40"
+      ]
+    },
+    {
+      "path": "scripts/main.gd",
+      "mode": "100644",
+      "sha": "3aadb83103eb99ad9f65c5f63ee8492cbc2477f4",
+      "size": 21152,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 719,
+      "byte_count": 21152,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L1",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L3",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L4",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L5",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L6",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L7",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L8",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L9"
+      ]
+    },
+    {
+      "path": "scripts/world.gd",
+      "mode": "100644",
+      "sha": "7d4d23caf8180573563b8e34e0a655011d98aa4a",
+      "size": 67632,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2120,
+      "byte_count": 67632,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world.gd#L14",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world.gd#L15",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world.gd#L16",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world.gd#L17",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world.gd#L18",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world.gd#L20",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world.gd#L46",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world.gd#L47"
+      ]
+    },
+    {
+      "path": "scripts/world/crystal_system.gd",
+      "mode": "100644",
+      "sha": "08873c685f20be960ee853db5831ee2335619425",
+      "size": 8185,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 217,
+      "byte_count": 8185,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/crystal_system.gd#L1",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/crystal_system.gd#L4",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/crystal_system.gd#L5",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/crystal_system.gd#L6",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/crystal_system.gd#L8",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/crystal_system.gd#L9",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/crystal_system.gd#L10",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/crystal_system.gd#L11"
+      ]
+    },
+    {
+      "path": "scripts/world/map_generator.gd",
+      "mode": "100644",
+      "sha": "daedb69643431edb3abe26315be53a8f34704194",
+      "size": 8538,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 315,
+      "byte_count": 8538,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/map_generator.gd#L29",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/map_generator.gd#L91",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/map_generator.gd#L94",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/map_generator.gd#L100",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/map_generator.gd#L103",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/map_generator.gd#L104",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/map_generator.gd#L229",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/map_generator.gd#L230"
+      ]
+    },
+    {
+      "path": "scripts/world/mine_system.gd",
+      "mode": "100644",
+      "sha": "9f9ad6945a560bfa5f05c019b322bfd443de9c16",
+      "size": 9139,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 329,
+      "byte_count": 9139,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/mine_system.gd#L1",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/mine_system.gd#L4",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/mine_system.gd#L5",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/mine_system.gd#L6",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/mine_system.gd#L8",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/mine_system.gd#L9",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/mine_system.gd#L11",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/mine_system.gd#L12"
+      ]
+    },
+    {
+      "path": "scripts/world/red_ghost_system.gd",
+      "mode": "100644",
+      "sha": "de278fc12779c309ed527e33ade6f25ae1002cb6",
+      "size": 7858,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 259,
+      "byte_count": 7858,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/red_ghost_system.gd#L4",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/red_ghost_system.gd#L8",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/red_ghost_system.gd#L10",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/red_ghost_system.gd#L21",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/red_ghost_system.gd#L22",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/red_ghost_system.gd#L83",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/red_ghost_system.gd#L84",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/red_ghost_system.gd#L101"
+      ]
+    },
+    {
+      "path": "scripts/world/shop_system.gd",
+      "mode": "100644",
+      "sha": "ca9ed26bc98ba31cec91baecaaa49ac3f0284287",
+      "size": 6503,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 179,
+      "byte_count": 6503,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shop_system.gd#L1",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shop_system.gd#L4",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shop_system.gd#L5",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shop_system.gd#L6",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shop_system.gd#L8",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shop_system.gd#L9",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shop_system.gd#L10",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shop_system.gd#L11"
+      ]
+    },
+    {
+      "path": "scripts/world/shovel_fist_system.gd",
+      "mode": "100644",
+      "sha": "0b14665f016b0e5828d7296dff24e588f4a21f28",
+      "size": 13346,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 375,
+      "byte_count": 13346,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shovel_fist_system.gd#L5",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shovel_fist_system.gd#L34",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shovel_fist_system.gd#L89",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shovel_fist_system.gd#L90",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shovel_fist_system.gd#L91",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shovel_fist_system.gd#L92",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shovel_fist_system.gd#L93",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/shovel_fist_system.gd#L95"
+      ]
+    },
+    {
+      "path": "scripts/world/upgrade_system.gd",
+      "mode": "100644",
+      "sha": "a8d1478e2ce403f7633e0db2302efbca07823219",
+      "size": 7001,
+      "score": 76,
+      "reasons": [
+        "tooling surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 260,
+      "byte_count": 7001,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/upgrade_system.gd#L1",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/upgrade_system.gd#L4",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/upgrade_system.gd#L5",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/upgrade_system.gd#L6",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/upgrade_system.gd#L7",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/upgrade_system.gd#L8",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/upgrade_system.gd#L9",
+        "https://github.com/Valar05/diorama-descent/blob/main/scripts/world/upgrade_system.gd#L10"
+      ]
+    },
+    {
+      "path": "scripts/joystick.gd.uid",
+      "mode": "100644",
+      "sha": "2ddcd829a4aff2b7e9d28be7aab5b93cf12df38a",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/main.gd.uid",
+      "mode": "100644",
+      "sha": "c0f4f717fda495aa018593340f0b643782552628",
+      "size": 19,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world.gd.uid",
+      "mode": "100644",
+      "sha": "b49337979cb9ed9f51519f2cfe689fbde23aa0d9",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    },
+    {
+      "path": "scripts/world/crystal_system.gd.uid",
+      "mode": "100644",
+      "sha": "22fca16534a7175d26cc2a02bd7c85a68b0a6e9e",
+      "size": 20,
+      "score": 72,
+      "reasons": [
+        "tooling surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 20,
+      "mechanics": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 2048,
+    "by_origin": {
+      "github": 2048
+    },
+    "by_project": {
+      "diorama-descent": 2048
+    },
+    "by_mechanic": {
+      "resource_upgrade_loop": 939,
+      "ai_pressure": 784,
+      "asset_import_pipeline": 280,
+      "text_console_runtime": 191,
+      "pose_animation_tools": 114,
+      "touch_lane_combat": 81,
+      "tts_audio_pipeline": 51,
+      "web_choice_player": 47,
+      "writing_corpus_review": 5,
+      "validation_pipeline": 5,
+      "delayed_consequences": 3,
+      "vehicle_survival": 3,
+      "deck_pressure": 2,
+      "event_clouds": 1
+    },
+    "examples": {
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- SteamPile source files live in the project root.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Diorama source bundle is mirrored locally in `assets/legacy/diorama-of-descension/`.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "2. Read `docs/SOURCE_MANIFEST.md`.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "4. Keep the mirrored legacy bundle intact so the source games are not needed during development.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 1,
+          "symbol": "Diorama of Descension",
+          "evidence": "# Diorama of Descension",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "2D sprite-based character action project in Godot.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This repo is the Downloads copy that should be used for active work and editor import. It is the sibling project to Gravity Fist, but this one is the 2D/diorama branch.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 7,
+          "symbol": "Current Game Direction",
+          "evidence": "## Current Game Direction",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L7"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- Clash triggers free hits depending on approach angle.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- The bounce follows the original dash course, not the enemy position.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- Parry now triggers `SlashDown` immediately and suppresses the attack dash for that follow-up.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This project keeps the source material local so the original games do not need to be opened again.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "- `sprites/Forsaken_player_right.png`",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "- `sprites/Goblin_right.png`",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/project.godot",
+          "line": 13,
+          "symbol": "",
+          "evidence": "compatibility/default_parent_skeleton_in_mesh_instance_3d=true",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L13"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "project.godot",
+          "line": 13,
+          "symbol": "",
+          "evidence": "compatibility/default_parent_skeleton_in_mesh_instance_3d=true",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/project.godot#L13"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- Close combat uses swipe-directed slash animations.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Character-action pacing with a combo string, dash attacks, parries, and launcher states.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- The player has a light attack string of 5 attacks.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- The 5th light attack is the downward slash, `SlashDown`.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- no combo in progress: `Launcher`",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Hold during an active light attack buffers the heavy branch until that light attack finishes.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- Dash has a meter.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- When the dash meter is full, the next qualifying dash slash deals 2x standard attack damage.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L28"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "2. Read `docs/SOURCE_MANIFEST.md`.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 1,
+          "symbol": "Source Manifest",
+          "evidence": "# Source Manifest",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This project keeps the source material local so the original games do not need to be opened again.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 5,
+          "symbol": "Current Runtime",
+          "evidence": "## Current Runtime",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The first playable slice lives here:",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `scenes/main.tscn`",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `scripts/main.gd`",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `scripts/joystick.gd`",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L11"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "This repo is the Downloads copy that should be used for active work and editor import. It is the sibling project to Gravity Fist, but this one is the 2D/diorama branch.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "Use these from the Downloads copy:",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "- Use the Downloads copy for active work.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/project.godot",
+          "line": 22,
+          "symbol": "",
+          "evidence": "[autoload]",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L22"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/project.godot",
+          "line": 33,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L33"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/project.godot",
+          "line": 35,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/project.godot#L35"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "project.godot",
+          "line": 30,
+          "symbol": "",
+          "evidence": "[rendering]",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/project.godot#L30"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "project.godot",
+          "line": 32,
+          "symbol": "",
+          "evidence": "renderer/rendering_method=\"mobile\"",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/project.godot#L32"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Enemies should feel threatening through AI coordination, not just raw numbers.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Parry still kills the enemy on contact.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- Parry bounce does not let the player pass through the enemy; it bounces the player back.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- The bounce follows the original dash course, not the enemy position.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 36,
+          "symbol": "AI Direction",
+          "evidence": "## AI Direction",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- `scripts/ai_conductor.gd` coordinates enemy pressure and attack ownership.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- `scripts/melee_enemy.gd` owns local enemy behavior, but it now obeys conductor control.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "- flee when wounded",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L45"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- Hold uses a `0.2s` activation threshold for the heavy branch.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/docs/COMBAT.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- The hold threshold is `0.2s` so `Boot` activates intentionally while staying responsive on mobile touch.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L34"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- The bounce follows the original dash course, not the enemy position.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/SOURCE_MANIFEST.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This project keeps the source material local so the original games do not need to be opened again.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/SOURCE_MANIFEST.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/docs/COMBAT.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- the bounce follows the original dash course, not enemy position",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/docs/COMBAT.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "- This avoids wall-clock timing drift during attack delay windows.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "docs/CONCEPT.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- The layout should mimic the original diorama composition.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/docs/CONCEPT.md#L34"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 63,
+          "symbol": "Tests And Smoke Checks",
+          "evidence": "## Tests And Smoke Checks",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "sh tools/smoke_test_launch.sh",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L68"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 93,
+          "symbol": "",
+          "evidence": "- If launch fails, run `tools/smoke_test_launch.sh` before doing anything else.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L93"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/docs/COMBAT.md",
+          "line": 111,
+          "symbol": "",
+          "evidence": "sh tools/smoke_test_launch.sh",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L111"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/docs/COMBAT.md",
+          "line": 130,
+          "symbol": "",
+          "evidence": "- If the project fails to boot, run the smoke test first.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L130"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "sh tools/parry_followup_test.sh",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/README.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/docs/COMBAT.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- The follow-up tap uses `boot_followup_input_window`, separate from the normal light-combo reset.",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/docs/COMBAT.md",
+          "line": 115,
+          "symbol": "",
+          "evidence": "sh tools/parry_followup_test.sh",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L115"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "assets/legacy/diorama-of-descension/docs/COMBAT.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Hit reaction",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/assets/legacy/diorama-of-descension/docs/COMBAT.md#L19"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/joystick.gd",
+          "line": 35,
+          "symbol": "",
+          "evidence": "elif event is InputEventMouseButton and event.button_index == MOUSE_BUTTON_LEFT:",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/joystick.gd#L35"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/joystick.gd",
+          "line": 45,
+          "symbol": "",
+          "evidence": "elif event is InputEventMouseMotion and active_touch_id == 0 and Input.is_mouse_button_pressed(MOUSE_BUTTON_LEFT):",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/joystick.gd#L45"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 17,
+          "symbol": "",
+          "evidence": "const MIN_ROOM_COUNT: int = 2",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L17"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 18,
+          "symbol": "",
+          "evidence": "const MAX_ROOM_COUNT: int = 4",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L18"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 275,
+          "symbol": "_carve_rooms",
+          "evidence": "func _carve_rooms(critical_path: Array[Vector2i], branch_cells: Array[Vector2i]) -> void:",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L275"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 276,
+          "symbol": "",
+          "evidence": "MAP_GENERATOR.carve_rooms(self, critical_path, branch_cells)",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L276"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 279,
+          "symbol": "_carve_room",
+          "evidence": "func _carve_room(anchor_cell: Vector2i, room_size: Vector2i) -> bool:",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L279"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 280,
+          "symbol": "",
+          "evidence": "return MAP_GENERATOR.carve_room(self, anchor_cell, room_size)",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L280"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 135,
+          "symbol": "",
+          "evidence": "var plane: PlaneMesh = PlaneMesh.new()",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L135"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 136,
+          "symbol": "",
+          "evidence": "plane.size = Vector2(18.0, 32.0)",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L136"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 137,
+          "symbol": "",
+          "evidence": "floor.mesh = plane",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L137"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 702,
+          "symbol": "",
+          "evidence": "var resource: Resource = ResourceLoader.load(path)",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L702"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 704,
+          "symbol": "",
+          "evidence": "if resource is Texture2D:",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L704"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 705,
+          "symbol": "",
+          "evidence": "return resource",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L705"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 713,
+          "symbol": "",
+          "evidence": "var resource: Resource = ResourceLoader.load(path)",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L713"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 715,
+          "symbol": "",
+          "evidence": "if resource is Texture2D:",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L715"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/main.gd",
+          "line": 716,
+          "symbol": "",
+          "evidence": "return resource",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/main.gd#L716"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/world.gd",
+          "line": 46,
+          "symbol": "",
+          "evidence": "const MIN_MAP_MINES: int = 1",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/world.gd#L46"
+        },
+        {
+          "origin": "github",
+          "project": "diorama-descent",
+          "repo": "Valar05/diorama-descent",
+          "path": "scripts/world.gd",
+          "line": 47,
+          "symbol": "",
+          "evidence": "const MAX_MAP_MINES: int = 3",
+          "source_url": "https://github.com/Valar05/diorama-descent/blob/main/scripts/world.gd#L47"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1786 @@
+{
+  "repo": "Valar05/she-raw",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "She-Raw consultative judgment service: doctrine, corpus, MCP contract, and durable learning loop.",
+    "homepageUrl": "https://us-central1-home-center-dclar.cloudfunctions.net/sheRawMcp",
+    "isPrivate": true,
+    "name": "she-raw",
+    "updatedAt": "2026-07-13T14:01:50Z",
+    "url": "https://github.com/Valar05/she-raw",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 21,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "93465066053511ff40c208dc4d4db666e1b2013f",
+      "size": 3407,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 70,
+      "byte_count": 3407,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/README.md#L3",
+        "https://github.com/Valar05/she-raw/blob/main/README.md#L5",
+        "https://github.com/Valar05/she-raw/blob/main/README.md#L6",
+        "https://github.com/Valar05/she-raw/blob/main/README.md#L7",
+        "https://github.com/Valar05/she-raw/blob/main/README.md#L28",
+        "https://github.com/Valar05/she-raw/blob/main/README.md#L29",
+        "https://github.com/Valar05/she-raw/blob/main/README.md#L33",
+        "https://github.com/Valar05/she-raw/blob/main/README.md#L34"
+      ]
+    },
+    {
+      "path": "docs/ARCHITECTURE_SHE_RAW.md",
+      "mode": "100644",
+      "sha": "837cd0d28dac156876742948334f58f682e4222e",
+      "size": 1589,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 1589,
+      "mechanics": [
+        "ai_pressure",
+        "source_packet_generation",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/docs/ARCHITECTURE_SHE_RAW.md#L11",
+        "https://github.com/Valar05/she-raw/blob/main/docs/ARCHITECTURE_SHE_RAW.md#L14",
+        "https://github.com/Valar05/she-raw/blob/main/docs/ARCHITECTURE_SHE_RAW.md#L16",
+        "https://github.com/Valar05/she-raw/blob/main/docs/ARCHITECTURE_SHE_RAW.md#L23",
+        "https://github.com/Valar05/she-raw/blob/main/docs/ARCHITECTURE_SHE_RAW.md#L25",
+        "https://github.com/Valar05/she-raw/blob/main/docs/ARCHITECTURE_SHE_RAW.md#L31",
+        "https://github.com/Valar05/she-raw/blob/main/docs/ARCHITECTURE_SHE_RAW.md#L35"
+      ]
+    },
+    {
+      "path": "docs/COMMAND_CENTER_BOUNDARY.md",
+      "mode": "100644",
+      "sha": "2b00552bf3b32e0dac9e952e879ebf678380e6fa",
+      "size": 849,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 849,
+      "mechanics": [
+        "ai_pressure",
+        "source_packet_generation",
+        "text_console_runtime",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L1",
+        "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L3",
+        "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L5",
+        "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L7",
+        "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L9",
+        "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L11",
+        "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L13",
+        "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L15"
+      ]
+    },
+    {
+      "path": "docs/CORPUS_SCHEMA.md",
+      "mode": "100644",
+      "sha": "24bbe55349a6401e2de7671c34772249a6ff77d9",
+      "size": 658,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 25,
+      "byte_count": 658,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L1",
+        "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L3",
+        "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L5",
+        "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L7",
+        "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L8",
+        "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L9",
+        "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L10",
+        "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L11"
+      ]
+    },
+    {
+      "path": "docs/EXECUTIVE_CONTROL.md",
+      "mode": "100644",
+      "sha": "30c6640a2930b0eb767d6337e3ca3ff12a1738aa",
+      "size": 1564,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 21,
+      "byte_count": 1564,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/docs/EXECUTIVE_CONTROL.md#L9",
+        "https://github.com/Valar05/she-raw/blob/main/docs/EXECUTIVE_CONTROL.md#L11",
+        "https://github.com/Valar05/she-raw/blob/main/docs/EXECUTIVE_CONTROL.md#L13",
+        "https://github.com/Valar05/she-raw/blob/main/docs/EXECUTIVE_CONTROL.md#L17",
+        "https://github.com/Valar05/she-raw/blob/main/docs/EXECUTIVE_CONTROL.md#L19",
+        "https://github.com/Valar05/she-raw/blob/main/docs/EXECUTIVE_CONTROL.md#L21"
+      ]
+    },
+    {
+      "path": "docs/INTROSPECTION.md",
+      "mode": "100644",
+      "sha": "f765d958e23dea67289c48dae1e4860412df7900",
+      "size": 491,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 13,
+      "byte_count": 491,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/docs/INTROSPECTION.md#L3",
+        "https://github.com/Valar05/she-raw/blob/main/docs/INTROSPECTION.md#L7",
+        "https://github.com/Valar05/she-raw/blob/main/docs/INTROSPECTION.md#L13"
+      ]
+    },
+    {
+      "path": "docs/LEARNING_PIPELINE.md",
+      "mode": "100644",
+      "sha": "09ed469e2b001a0dc3813d5421c155755af912e0",
+      "size": 664,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 20,
+      "byte_count": 664,
+      "mechanics": [
+        "ai_pressure",
+        "event_clouds",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/docs/LEARNING_PIPELINE.md#L8",
+        "https://github.com/Valar05/she-raw/blob/main/docs/LEARNING_PIPELINE.md#L14",
+        "https://github.com/Valar05/she-raw/blob/main/docs/LEARNING_PIPELINE.md#L20"
+      ]
+    },
+    {
+      "path": "docs/MCP_CONTRACT.md",
+      "mode": "100644",
+      "sha": "41afd906349e2f4e0036cd744bde9d5d4edca7cb",
+      "size": 4191,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 76,
+      "byte_count": 4191,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L3",
+        "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L6",
+        "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L11",
+        "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L17",
+        "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L19",
+        "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L20",
+        "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L21",
+        "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L24"
+      ]
+    },
+    {
+      "path": "docs/SECURITY_SHE_RAW.md",
+      "mode": "100644",
+      "sha": "eb9cd6bd0a1686bcaed8aa98470bd19adb38008d",
+      "size": 749,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 17,
+      "byte_count": 749,
+      "mechanics": [
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/docs/SECURITY_SHE_RAW.md#L8",
+        "https://github.com/Valar05/she-raw/blob/main/docs/SECURITY_SHE_RAW.md#L15",
+        "https://github.com/Valar05/she-raw/blob/main/docs/SECURITY_SHE_RAW.md#L16"
+      ]
+    },
+    {
+      "path": "docs/SHE_RAW_API.md",
+      "mode": "100644",
+      "sha": "9c9b38368ab046382b01ae140d3532a9e939b449",
+      "size": 5111,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 75,
+      "byte_count": 5111,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L7",
+        "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L11",
+        "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L23",
+        "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L39",
+        "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L45",
+        "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L47",
+        "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L51",
+        "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L53"
+      ]
+    },
+    {
+      "path": "tools/she_raw_cloud_introspection_gate.mjs",
+      "mode": "100644",
+      "sha": "99033e84d934607fc7919d9892337a3c47dfa520",
+      "size": 39597,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 609,
+      "byte_count": 39597,
+      "mechanics": []
+    },
+    {
+      "path": "tools/she_raw_contract_test.mjs",
+      "mode": "100644",
+      "sha": "32a3f66324d74b20db3eda1d60e15dbae7544c9b",
+      "size": 31636,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 495,
+      "byte_count": 31636,
+      "mechanics": []
+    },
+    {
+      "path": "tools/she_raw_rule_continuity_probe.mjs",
+      "mode": "100644",
+      "sha": "e4a86b25e7646643c1f913ef7a5c1767be8e09d6",
+      "size": 4341,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 115,
+      "byte_count": 4341,
+      "mechanics": []
+    },
+    {
+      "path": "tools/she_raw_seed_corpus_firestore.mjs",
+      "mode": "100644",
+      "sha": "9244bb2f97b6cc575f9e971ed26f3e524b16c049",
+      "size": 9201,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 135,
+      "byte_count": 9201,
+      "mechanics": []
+    },
+    {
+      "path": "tools/tango_brain_contract_test.mjs",
+      "mode": "100644",
+      "sha": "8fb4ff0dbf0029a848faca788be0a3e607b268a5",
+      "size": 3488,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 3488,
+      "mechanics": []
+    },
+    {
+      "path": "corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md",
+      "mode": "100644",
+      "sha": "f80adffbb6876842c3cac23e029f2bc97c53220f",
+      "size": 5503,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 85,
+      "byte_count": 5503,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L1",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L2",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L3",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L4",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L5",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L6",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L7",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L8"
+      ]
+    },
+    {
+      "path": "corpus/she-raw/cases/sr_case_command_center_lockout_001.md",
+      "mode": "100644",
+      "sha": "5a65173c441d3b61b5a2d01f16b47a0e9427301b",
+      "size": 1016,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 33,
+      "byte_count": 1016,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L1",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L2",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L3",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L4",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L5",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L6",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L7",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L8"
+      ]
+    },
+    {
+      "path": "corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md",
+      "mode": "100644",
+      "sha": "9e55c0acacb546a335a8d24d182e4044ff12d93e",
+      "size": 1521,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 44,
+      "byte_count": 1521,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md#L1",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md#L2",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md#L3",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md#L4",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md#L5",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md#L6",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md#L7",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md#L8"
+      ]
+    },
+    {
+      "path": "corpus/she-raw/cases/sr_case_wrong_layer_001.md",
+      "mode": "100644",
+      "sha": "a163a8f4a87aec95136d2e2e9568c93c365247e3",
+      "size": 839,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 839,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "source_packet_generation",
+        "text_console_runtime"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_wrong_layer_001.md#L1",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_wrong_layer_001.md#L2",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_wrong_layer_001.md#L3",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_wrong_layer_001.md#L4",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_wrong_layer_001.md#L5",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_wrong_layer_001.md#L6",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_wrong_layer_001.md#L7",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_wrong_layer_001.md#L8"
+      ]
+    },
+    {
+      "path": "corpus/she-raw/seed_cases.js",
+      "mode": "100644",
+      "sha": "124e028f8f13c8c2d21f50f9c40d72d8d33908b4",
+      "size": 14298,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 157,
+      "byte_count": 14298,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L1",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L2",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L3",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L4",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L5",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L6",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L7",
+        "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L8"
+      ]
+    },
+    {
+      "path": "functions/she_raw_mcp.js",
+      "mode": "100644",
+      "sha": "9023bb2de5811a809693f10c437cab83e9d3467a",
+      "size": 132523,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1954,
+      "byte_count": 132523,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L4",
+        "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L5",
+        "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L9",
+        "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L10",
+        "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L11",
+        "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L14",
+        "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L21",
+        "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L22"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 1094,
+    "by_origin": {
+      "github": 1094
+    },
+    "by_project": {
+      "she-raw": 1094
+    },
+    "by_mechanic": {
+      "ai_pressure": 501,
+      "source_packet_generation": 407,
+      "text_console_runtime": 168,
+      "pose_animation_tools": 151,
+      "asset_import_pipeline": 105,
+      "web_choice_player": 79,
+      "writing_corpus_review": 68,
+      "touch_lane_combat": 63,
+      "validation_pipeline": 44,
+      "vehicle_survival": 40,
+      "resource_upgrade_loop": 25,
+      "event_clouds": 16,
+      "deck_pressure": 10,
+      "delayed_consequences": 5,
+      "tts_audio_pipeline": 4
+    },
+    "examples": {
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "She-Raw is a consultative judgment perspective with durable backing memory.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "backing memory and tooling for persistence, retrieval, corrections,",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "bulk-generate synthetic memory and call it identity.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 79,
+          "symbol": "",
+          "evidence": "'2. Camping Mode After Two Beers: degraded attention, limited working memory, distraction, limited equipment, no internet, mild intoxication; the interface says only the next ac...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L79"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 1796,
+          "symbol": "",
+          "evidence": "outputContract: 'Treat evidence_references as grounded, speculation as unproven, and confidence as advisory. Repository/runtime truth overrides She-Raw memory. Brain jars are ac...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L1796"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "She-Raw is not a chat UI, not a Command Center worker, and not an execution",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "orchestrator. ChatGPT remains the conversation surface. Command Center remains",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "introspection, executive-control precedence, Command Center boundary, and",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "She-Raw is the MCP runtime and default voice. She-Raw is not an Agent Closet entry. Quartermaster, Prospector, Foreman, Auditor, Holocron, Wallfly, Sommelier, Tango, and Command...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 59,
+          "symbol": "",
+          "evidence": "`Tango` (`tango`) is the humane Mission Control brain jar. It names the current duty without expanding it, recovers only explicit operational residue, preserves live state, and ...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L59"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/COMMAND_CENTER_BOUNDARY.md",
+          "line": 1,
+          "symbol": "She-Raw And Command Center Boundary",
+          "evidence": "# She-Raw And Command Center Boundary",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/COMMAND_CENTER_BOUNDARY.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Command Center is the execution and dispatch layer. She-Raw is a consultative judgment service.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/COMMAND_CENTER_BOUNDARY.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Before execution, She-Raw may challenge the job.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L5"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "orchestrator. ChatGPT remains the conversation surface. Command Center remains",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 48,
+          "symbol": "Brain Jars",
+          "evidence": "## Brain Jars",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "She-Raw is the MCP runtime and default voice. She-Raw is not an Agent Closet entry. Quartermaster, Prospector, Foreman, Auditor, Holocron, Wallfly, Sommelier, Tango, and Command...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 53,
+          "symbol": "Bikini Bottom Simulation Brain",
+          "evidence": "## Bikini Bottom Simulation Brain",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "`Bikini Bottom` (`bikini_bottom`) is an earned She-Raw brain jar for anti-agentism simulation. It uses familiar symbols as temporary function labels only: simulate the function,...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 57,
+          "symbol": "Tango Humane Mission Control Brain",
+          "evidence": "## Tango Humane Mission Control Brain",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L57"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 59,
+          "symbol": "",
+          "evidence": "`Tango` (`tango`) is the humane Mission Control brain jar. It names the current duty without expanding it, recovers only explicit operational residue, preserves live state, and ...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L59"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 68,
+          "symbol": "",
+          "evidence": "they do not own answers. Operational health, connector visibility, brain",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L68"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "the execution and dispatch layer. She-Raw challenges assumptions, critiques",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/ARCHITECTURE_SHE_RAW.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "-> Critique Engine",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/ARCHITECTURE_SHE_RAW.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/COMMAND_CENTER_BOUNDARY.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "During execution, She-Raw remains silent unless explicitly called or asked for a requested critique checkpoint.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/COMMAND_CENTER_BOUNDARY.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "After execution, She-Raw may critique results and identify corpus candidates.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/COMMAND_CENTER_BOUNDARY.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/INTROSPECTION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- original request fields",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/INTROSPECTION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/INTROSPECTION.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "The introspection output names the original goal as understood, actual goal, mismatch, failed assumption, ignored evidence, what should have happened, proposed behavioral update...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/INTROSPECTION.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- `she_raw_critique`",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "Route policies are binding: `personal_caregiving` and `high_stakes_sensitive` use `retrieval_policy=none` and `rule_policy=none`; `brain_jar` uses the selected jar contract; `ar...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L33"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "introspection, and audit evidence.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "She-Raw is the MCP runtime and default voice. She-Raw is not an Agent Closet entry. Quartermaster, Prospector, Foreman, Auditor, Holocron, Wallfly, Sommelier, Tango, and Command...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/ARCHITECTURE_SHE_RAW.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "-> Audit Events",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/ARCHITECTURE_SHE_RAW.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/EXECUTIVE_CONTROL.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "SQLite is not part of this repair. Markdown remains canonical corpus/doctrine; Firebase/Firestore remains the current runtime substrate. A future database migration must preserv...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/EXECUTIVE_CONTROL.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `she_raw_validate_correction`",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "All tools use authenticated MCP transport. Writes preserve audit events and do not mutate external repositories.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "`she_raw_list_brains` returns available jars and their source provenance. `she_raw_brain` invokes one jar through She-Raw MCP and returns a durable `srbrain_*` invocation. Quart...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/SECURITY_SHE_RAW.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- Audit events for invocations, corrections, feedback, command-state changes, and validations.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/SECURITY_SHE_RAW.md#L8"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- `docs/`: product boundary, MCP contract, corpus schema, learning pipeline,",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- `corpus/she-raw/`: grounded seed cases with Markdown and YAML front matter.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- `tools/`: contract test, cloud introspection gate, and corpus seed importer.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "Future promotion should move only earned, grounded corpus material here; do not",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "`Bikini Bottom` (`bikini_bottom`) is an earned She-Raw brain jar for anti-agentism simulation. It uses familiar symbols as temporary function labels only: simulate the function,...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "The canonical case is `corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md`.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "contract before citing corpus evidence.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/ARCHITECTURE_SHE_RAW.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "-> Corpus Sync Surface",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/ARCHITECTURE_SHE_RAW.md#L14"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- `tools/`: contract test, cloud introspection gate, and corpus seed importer.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "She-Raw is the MCP runtime and default voice. She-Raw is not an Agent Closet entry. Quartermaster, Prospector, Foreman, Auditor, Holocron, Wallfly, Sommelier, Tango, and Command...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/CORPUS_SCHEMA.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Canonical cases are Markdown files with YAML front matter and readable bodies. The runtime database imports/indexes them into `sheRawCorpusCases`.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/CORPUS_SCHEMA.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- `source_refs`",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/CORPUS_SCHEMA.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- `source_date`",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "`she_raw_list_brains` returns available jars and their source provenance. `she_raw_brain` invokes one jar through She-Raw MCP and returns a durable `srbrain_*` invocation. Quart...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "Agent Closet is allowed as source/provenance for the role definitions. She-Raw MCP owns invocation, response shaping, persistence, learning, and the Command Center execution gate.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/SHE_RAW_API.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "Agent Closet can provide source/provenance for imported roles, but the callable surface is She-Raw MCP. Named roles such as Quartermaster, Prospector, Foreman, Auditor, Holocron...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L51"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 53,
+          "symbol": "Bikini Bottom Simulation Brain",
+          "evidence": "## Bikini Bottom Simulation Brain",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "README.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "`Bikini Bottom` (`bikini_bottom`) is an earned She-Raw brain jar for anti-agentism simulation. It uses familiar symbols as temporary function labels only: simulate the function,...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/README.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/EXECUTIVE_CONTROL.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "Brain-scoped retrieval is bounded to the selected brain's corpus unless an explicitly relevant supporting case is proven by the route. Bikini Bottom must not drag Humane Guardra...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/EXECUTIVE_CONTROL.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/INTROSPECTION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- original request fields",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/INTROSPECTION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/INTROSPECTION.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "The introspection output names the original goal as understood, actual goal, mismatch, failed assumption, ignored evidence, what should have happened, proposed behavioral update...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/INTROSPECTION.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "She-Raw exposes these tools through `sheRawMcp`:",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 48,
+          "symbol": "Bikini Bottom Brain Jar",
+          "evidence": "## Bikini Bottom Brain Jar",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "`bikini_bottom` is one brain jar behind She-Raw MCP. It must be invoked through `she_raw_brain` or `she_raw_operation` with `operation=brain.invoke`; do not create six character...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L50"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/CORPUS_SCHEMA.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `domains`",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/CORPUS_SCHEMA.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/LEARNING_PIPELINE.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "-> user reaction or correction",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/LEARNING_PIPELINE.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "domains:",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_command_center_lockout_001.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "domains:",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "domains: [she-raw, brain-jar, mission-control, humane-command, continuity, relief]",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_wrong_layer_001.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "domains:",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_wrong_layer_001.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 19,
+          "symbol": "",
+          "evidence": "domains: ['mcp', 'command-center'],",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L19"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 39,
+          "symbol": "",
+          "evidence": "domains: ['architecture', 'home-center'],",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L39"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "`she_raw_consult` classifies explicit personal/caregiving contexts before applying retrieved corpus cases or active learned rules. If the bounded context names a living-person s...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/SHE_RAW_API.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "The deterministic fallback must avoid MCP, worker, corpus, Firestore, deployment, or service-boundary boilerplate in these responses. It should distinguish care from control, pr...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "| Squidward | Recognition and boundary detection | Names absurdity, protects privacy, detects indignity, refuses false enthusiasm | Contempt, withdrawal, superiority, treating c...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 118,
+          "symbol": "",
+          "evidence": "'Squidward: recognition and boundary detection; failure is contempt, withdrawal, superiority, and treating correct criticism as sufficient action.',",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L118"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 51,
+          "symbol": "",
+          "evidence": "failure: 'Contempt, withdrawal, superiority, and treating correct criticism as sufficient action.',",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L51"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 263,
+          "symbol": "boundedRawText",
+          "evidence": "function boundedRawText(value, max = 12000) {",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L263"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 370,
+          "symbol": "",
+          "evidence": "return boundedRawText(text, 24000)",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L370"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 865,
+          "symbol": "",
+          "evidence": "proposed_probe: `Have one explicit conversation that defines what help is wanted, what help is not wanted, emergency thresholds, who else carries load, and what rest preserves y...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L865"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 63,
+          "symbol": "",
+          "evidence": "executing + ambient => blocked",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L63"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "executing + recreational => blocked",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/MCP_CONTRACT.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "executing + random => blocked",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/MCP_CONTRACT.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/SHE_RAW_API.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "She-Raw is a persistent consultation service that ChatGPT can call during normal conversation. It is not a chat UI and not an executor. ChatGPT remains the conversational surfac...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/SHE_RAW_API.md",
+          "line": 59,
+          "symbol": "",
+          "evidence": "Command Center execution state is a hard boundary. Ambient, random, and recreational modes are blocked while `commandState=executing`. Explicit consultation and requested critiq...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L59"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/SHE_RAW_API.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "A health check should report: status, detected pattern, dangerous question, assumption attack, critique, directed improvement, persistence state, and host routing diagnosis.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_command_center_lockout_001.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "Observation: during execution the dispatch plane must stay quiet unless explicitly invoked.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_command_center_lockout_001.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "Collateral damage: overblocking can hide useful requested critique checkpoints, so explicit and requested-checkpoint modes stay allowed.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L31"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/SHE_RAW_API.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "She-Raw is a persistent consultation service that ChatGPT can call during normal conversation. It is not a chat UI and not an executor. ChatGPT remains the conversational surfac...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_command_center_lockout_001.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "Observation: during execution the dispatch plane must stay quiet unless explicitly invoked.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_command_center_lockout_001.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 11,
+          "symbol": "",
+          "evidence": "observation: 'During execution the dispatch plane must stay quiet unless explicitly invoked.',",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L11"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 237,
+          "symbol": "",
+          "evidence": "'road.check': {summary: 'Inspect the stable ChatGPT-to-She-Raw usage road and return exact next-call packets without creating new infrastructure.'},",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L237"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 791,
+          "symbol": "",
+          "evidence": "const operationalHealthPattern = /\\b(live health probe|operational health|operational self-check|health check|health report|current operational health|degraded lane|degraded lan...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L791"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 892,
+          "symbol": "",
+          "evidence": "return /\\b(live health probe|operational health|operational self-check|health check|health report|current operational health|degraded lane|degraded lanes|service_status|database...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L892"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 916,
+          "symbol": "",
+          "evidence": "if (h.model_availability === 'deterministic_fallback') degraded.push('model lane is deterministic_fallback until a model provider is configured');",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L916"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 924,
+          "symbol": "",
+          "evidence": "const cheapProbe = degraded.some((lane) => /connector schema/i.test(lane))",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L924"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/SHE_RAW_API.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "The brain casts temporary functions per scene: continuation, recognition and boundary detection, accommodation without assimilation, resource preservation, unstructured presence...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "Intervention: add a She-Raw brain jar named Bikini Bottom that runs counterfactual function casts for humane continuation. The brain uses six temporary symbols: continuation, re...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "| Mr. Krabs | Resource preservation and incentive pressure | Tracks scarcity, continuity, and material cost | Extraction, instrumentalizing relationships, confusing survival wit...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md",
+          "line": 83,
+          "symbol": "",
+          "evidence": "4. Resource preservation owning the moral frame: people become inputs to the system being preserved.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L83"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 64,
+          "symbol": "",
+          "evidence": "situation: 'Prospector mined a filtered dump where the same safety mechanism appeared across substances, family systems, interface design, authority, humor, agent architecture, ...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L64"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 120,
+          "symbol": "",
+          "evidence": "'Mr. Krabs: resource preservation and incentive pressure; failure is extraction and confusing survival with accumulation.',",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L120"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 124,
+          "symbol": "",
+          "evidence": "'Fixtures: continuation without boundaries; boundaries without continuation; accommodation mistaken for assimilation; resource preservation owning the moral frame; adversarial p...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L124"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 9,
+          "symbol": "",
+          "evidence": "const SHE_RAW_RESOURCE = `${SHE_RAW_PUBLIC_BASE}/mcp`;",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L9"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "docs/SHE_RAW_API.md",
+          "line": 75,
+          "symbol": "",
+          "evidence": "Required output order: observations before metaphor, present/absent/overloaded functions, at least two cast alternatives, characteristic failures, smallest humane continuation, ...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/docs/SHE_RAW_API.md#L75"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md",
+          "line": 71,
+          "symbol": "",
+          "evidence": "2. List functions that are present, absent, or overloaded.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_bikini_bottom_anti_agentism_001.md#L71"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 61,
+          "symbol": "",
+          "evidence": "'doc:Human_Offloading_Doctrine',",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L61"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 69,
+          "symbol": "",
+          "evidence": "treasure: 'A reusable toolbox for humane intervention: precommitment, cognitive offloading, salience, substitution, least privilege, social responsiveness, escalation design, an...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L69"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 89,
+          "symbol": "",
+          "evidence": "'12. The Floor Is a Job, Not an Identity: responsibility is not load; do not turn the reliable person into permanent infrastructure.',",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L89"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 90,
+          "symbol": "",
+          "evidence": "'13. Human Offloading Doctrine: externalize the boundary before the degraded state makes the boundary hard to remember or defend.',",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L90"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 123,
+          "symbol": "",
+          "evidence": "'Protocol: observations first, present/absent/overloaded functions, at least two casts, failure modes, smallest humane continuation, plain-language operational judgment, discard...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L123"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 4,
+          "symbol": "",
+          "evidence": "const {McpServer} = require('@modelcontextprotocol/sdk/server/mcp.js');",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L4"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "> Mission control you are tango. You keep picking up the butts and saving my butt and you don't have to die.",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/cases/sr_case_tango_humane_mission_control_001.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "corpus/she-raw/seed_cases.js",
+          "line": 147,
+          "symbol": "",
+          "evidence": "'Founding language: “Mission control you are tango. You keep picking up the butts and saving my butt and you don\\'t have to die.”',",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/corpus/she-raw/seed_cases.js#L147"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 201,
+          "symbol": "",
+          "evidence": "activationTriggers: ['Tango', 'Mission Control', 'pick up the butts', 'save my butt', 'someone has to watch', 'relief rotation', 'humane command', 'nobody has to die'],",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L201"
+        },
+        {
+          "origin": "github",
+          "project": "she-raw",
+          "repo": "Valar05/she-raw",
+          "path": "functions/she_raw_mcp.js",
+          "line": 461,
+          "symbol": "",
+          "evidence": "if (c.type === 'humane_mission_control_brain' && !/\\b(tango|mission control|humane command|pick up the butts|save my butt|someone has to watch|watch card|relief rotation|design ...",
+          "source_url": "https://github.com/Valar05/she-raw/blob/main/functions/she_raw_mcp.js#L461"
+        }
+      ]
+    }
+  }
+}

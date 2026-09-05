@@ -1,0 +1,46 @@
+{
+  "tools_used": [
+    "get_pr_metadata",
+    "list_pr_files",
+    "get_pr_diff",
+    "read_file_at_ref",
+    "read_file_at_ref",
+    "list_ci_checks",
+    "search_repo_at_ref",
+    "search_repo_at_ref",
+    "search_repo_at_ref",
+    "search_repo_at_ref",
+    "search_repo_at_ref",
+    "search_repo_at_ref",
+    "search_repo_at_ref",
+    "search_repo_at_ref",
+    "read_file_at_ref",
+    "read_file_at_ref",
+    "search_repo_at_ref",
+    "search_repo_at_ref"
+  ],
+  "files_read": [
+    "src/pose-lab.js",
+    "src/rig-profiles.js",
+    "tools/test_meshy_pose_parity_arm_contract.mjs"
+  ],
+  "metadata": {
+    "number": 2,
+    "title": "[codex] Salvage Meshy hand FK hilt oracle",
+    "state": "open",
+    "html_url": "https://github.com/Valar05/pose-lab/pull/2",
+    "base": {
+      "ref": "main",
+      "sha": "4dbca80248ca60e8d9def3b3d0137c290267b212"
+    },
+    "head": {
+      "ref": "codex/quartermaster-meshy-hand-fk",
+      "sha": "165213f6d5abc3a16cddc6d9323533d4893f225a"
+    },
+    "user": "Valar05"
+  },
+  "checks": {
+    "total_count": 0,
+    "check_runs": []
+  }
+}

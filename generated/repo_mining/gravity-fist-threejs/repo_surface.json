@@ -1,0 +1,1963 @@
+{
+  "repo": "Valar05/gravity-fist-threejs",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "gravity-fist-threejs",
+    "updatedAt": "2026-06-20T22:48:08Z",
+    "url": "https://github.com/Valar05/gravity-fist-threejs",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 23,
+  "selected_files": [
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "8ab7f0793c47df1822cb5f5f73000b5ab496fbf1",
+      "size": 7259,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 84,
+      "byte_count": 7259,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L12",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L13",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L14"
+      ]
+    },
+    {
+      "path": "docs/godot_animation_usage.md",
+      "mode": "100644",
+      "sha": "d2b066a23318a30290de176cd26453d4d2264bab",
+      "size": 5111,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 146,
+      "byte_count": 5111,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L15",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L23",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L25",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L27",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L30",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L32"
+      ]
+    },
+    {
+      "path": "docs/godot_control_contract.md",
+      "mode": "100644",
+      "sha": "5155e4b81354be2455d10e6091e7f33214633f9f",
+      "size": 2769,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 64,
+      "byte_count": 2769,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L9",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L14",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L15",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L19",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L26",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L30"
+      ]
+    },
+    {
+      "path": "docs/threejs_pose_lessons.md",
+      "mode": "100644",
+      "sha": "3212d6dd33b45296df906884eec979ddc3cfb777",
+      "size": 7249,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 84,
+      "byte_count": 7249,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L9",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L11",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L12",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L13"
+      ]
+    },
+    {
+      "path": "tools/build_web_release.py",
+      "mode": "100644",
+      "sha": "05adb988ba24039d43a447a40afebd6957b2b662",
+      "size": 1805,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 1805,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/build_web_release.py#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/build_web_release.py#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/build_web_release.py#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/build_web_release.py#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/build_web_release.py#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/build_web_release.py#L8",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/build_web_release.py#L9",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/build_web_release.py#L10"
+      ]
+    },
+    {
+      "path": "tools/draw_titan_pose_strip.py",
+      "mode": "100644",
+      "sha": "24307f63c444d1e9218a98dcce905447ed6d3706",
+      "size": 3633,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 88,
+      "byte_count": 3633,
+      "mechanics": [
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L8",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L9"
+      ]
+    },
+    {
+      "path": "tools/android_browser_capture.mjs",
+      "mode": "100644",
+      "sha": "d6ac4c440f4b3c386dfea496e3a961f59eafd592",
+      "size": 12648,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 293,
+      "byte_count": 12648,
+      "mechanics": []
+    },
+    {
+      "path": "tools/smoke_threejs.mjs",
+      "mode": "100644",
+      "sha": "e96b3f7f083522a512f435001e7ca75cab4ad91a",
+      "size": 21800,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 559,
+      "byte_count": 21800,
+      "mechanics": []
+    },
+    {
+      "path": "tools/titan_pose_strip.mjs",
+      "mode": "100644",
+      "sha": "ba7c360a8a5e5091ca39d45ba950993a9201c0e6",
+      "size": 12300,
+      "score": 68,
+      "reasons": [
+        "helper tooling"
+      ],
+      "status": "fetched",
+      "line_count": 173,
+      "byte_count": 12300,
+      "mechanics": []
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "564706179c6bb536082e663b2d6099fb7b9294d7",
+      "size": 2842,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 54,
+      "byte_count": 2842,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "assets/asset_manifest.json",
+      "mode": "100644",
+      "sha": "2b993d058f5b32e5b1d57967aee50950ae8d9d35",
+      "size": 2234,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 61,
+      "byte_count": 2234,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/assets/asset_manifest.json#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/assets/asset_manifest.json#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/assets/asset_manifest.json#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/assets/asset_manifest.json#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/assets/asset_manifest.json#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/assets/asset_manifest.json#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/assets/asset_manifest.json#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/assets/asset_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "sha": "50587534945df3f7942501e8feb6e223821a31aa",
+      "size": 4479,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 58,
+      "byte_count": 4479,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L8",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L11",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L13",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L14",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L15",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L16",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L17",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L19"
+      ]
+    },
+    {
+      "path": "assets/anims/security_titan_godot_anims.json",
+      "mode": "100644",
+      "sha": "2058b09b053c4efb6b293fe893af8440b9784be9",
+      "size": 4399808,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 0,
+      "byte_count": 0,
+      "mechanics": [],
+      "source_line_refs": []
+    },
+    {
+      "path": "data/player_attacks.json",
+      "mode": "100644",
+      "sha": "54c4b02bc454b86a2c01c7237000befaf03d434d",
+      "size": 3689,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 144,
+      "byte_count": 3689,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/player_attacks.json#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/player_attacks.json#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/player_attacks.json#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/player_attacks.json#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/player_attacks.json#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/player_attacks.json#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/player_attacks.json#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/player_attacks.json#L8"
+      ]
+    },
+    {
+      "path": "data/security_titan.json",
+      "mode": "100644",
+      "sha": "f2a1036f75cc7c4b7821e700ffa61a6bed7980fc",
+      "size": 618,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 34,
+      "byte_count": 618,
+      "mechanics": [
+        "event_clouds",
+        "touch_lane_combat"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/security_titan.json#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/security_titan.json#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/security_titan.json#L8",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/security_titan.json#L9",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/security_titan.json#L16",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/security_titan.json#L21",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/security_titan.json#L22",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/security_titan.json#L23"
+      ]
+    },
+    {
+      "path": "src/godot-rest-poses.js",
+      "mode": "100644",
+      "sha": "59edf8a3d47ee3b367ad31a2ed18ac98b1df7ba8",
+      "size": 7440,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 83,
+      "byte_count": 7440,
+      "mechanics": [
+        "pose_animation_tools",
+        "source_packet_generation"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/godot-rest-poses.js#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/godot-rest-poses.js#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/godot-rest-poses.js#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/godot-rest-poses.js#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/godot-rest-poses.js#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/godot-rest-poses.js#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/godot-rest-poses.js#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/godot-rest-poses.js#L8"
+      ]
+    },
+    {
+      "path": "src/main.js",
+      "mode": "100644",
+      "sha": "bb9e0063c289b02c58fb848960fc71947930159d",
+      "size": 174839,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4128,
+      "byte_count": 174839,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L8",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L9"
+      ]
+    },
+    {
+      "path": "src/pose-lab.js",
+      "mode": "100644",
+      "sha": "b24f59e0a07aadeee56e5a2d1a3220e77761f53b",
+      "size": 73922,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1844,
+      "byte_count": 73922,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/pose-lab.js#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/pose-lab.js#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/pose-lab.js#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/pose-lab.js#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/pose-lab.js#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/pose-lab.js#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/pose-lab.js#L8",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/pose-lab.js#L10"
+      ]
+    },
+    {
+      "path": "src/rig-profiles.js",
+      "mode": "100644",
+      "sha": "d000c2f6be3ac10ee8d48289b1edd4b101e422fc",
+      "size": 8291,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 178,
+      "byte_count": 8291,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/rig-profiles.js#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/rig-profiles.js#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/rig-profiles.js#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/rig-profiles.js#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/rig-profiles.js#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/rig-profiles.js#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/rig-profiles.js#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/rig-profiles.js#L8"
+      ]
+    },
+    {
+      "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+      "mode": "100644",
+      "sha": "91629ef9f7a39b11180acb7459701eccc6cd3aa0",
+      "size": 114959,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4860,
+      "byte_count": 114959,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L8"
+      ]
+    },
+    {
+      "path": "vendor/three/examples/jsm/loaders/OBJLoader.js",
+      "mode": "100644",
+      "sha": "6f33fb48d19f86924f6d8191a2d4db55c0557e6f",
+      "size": 22916,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 955,
+      "byte_count": 22916,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/OBJLoader.js#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/OBJLoader.js#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/OBJLoader.js#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/OBJLoader.js#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/OBJLoader.js#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/OBJLoader.js#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/OBJLoader.js#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/OBJLoader.js#L8"
+      ]
+    },
+    {
+      "path": "vendor/three/examples/jsm/utils/BufferGeometryUtils.js",
+      "mode": "100644",
+      "sha": "6e996616e299b6e6497011acff2de9f597d290d7",
+      "size": 35539,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1434,
+      "byte_count": 35539,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/BufferGeometryUtils.js#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/BufferGeometryUtils.js#L8",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/BufferGeometryUtils.js#L9",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/BufferGeometryUtils.js#L10",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/BufferGeometryUtils.js#L16",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/BufferGeometryUtils.js#L20",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/BufferGeometryUtils.js#L21",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/BufferGeometryUtils.js#L27"
+      ]
+    },
+    {
+      "path": "vendor/three/examples/jsm/utils/SkeletonUtils.js",
+      "mode": "100644",
+      "sha": "836c2e2bf2be3c5c5fd6b65ed260f84b3d589258",
+      "size": 11535,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 496,
+      "byte_count": 11535,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/SkeletonUtils.js#L1",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/SkeletonUtils.js#L2",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/SkeletonUtils.js#L3",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/SkeletonUtils.js#L4",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/SkeletonUtils.js#L5",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/SkeletonUtils.js#L6",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/SkeletonUtils.js#L7",
+        "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/utils/SkeletonUtils.js#L8"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 10476,
+    "by_origin": {
+      "github": 10476
+    },
+    "by_project": {
+      "gravity-fist-threejs": 10476
+    },
+    "by_mechanic": {
+      "ai_pressure": 4060,
+      "web_choice_player": 3836,
+      "pose_animation_tools": 2882,
+      "touch_lane_combat": 757,
+      "asset_import_pipeline": 484,
+      "tts_audio_pipeline": 479,
+      "text_console_runtime": 326,
+      "deck_pressure": 135,
+      "source_packet_generation": 108,
+      "event_clouds": 63,
+      "validation_pipeline": 49,
+      "resource_upgrade_loop": 39,
+      "writing_corpus_review": 32,
+      "vehicle_survival": 16,
+      "delayed_consequences": 9
+    },
+    "examples": {
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Gravity Fist Three.js is a browser port of the current Godot combat vertical slice. It is not a progression-system rewrite. The live target is a small 3D arena with phone gestur...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `data/player_attacks.json`: copied from the source Godot project.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- Right-side phone tap buffers the standard attack chain.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- Right-side vertical swipe performs a sidestep dash.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- Other right-side swipe is the Godot combat swipe: stomp prone target, block/parry an attacking target, otherwise SupermanPunch.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Enemies spawn up to the current slice cap of 3, arrange around the player, attack one at a time, face the player while holding support slots, flee when wounded, and can be kno...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "The source Godot shop/progression stack is intentionally excluded because it is dead code in the current slice: move shop, level-up offers, move currency, combo-row UI, drag/dro...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "python3 -m json.tool data/player_attacks.json >/dev/null",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L43"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Gravity Fist Three.js is a browser port of the current Godot combat vertical slice. It is not a progression-system rewrite. The live target is a small 3D arena with phone gestur...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: Three.js scene, fixed-step simulation, input, combat, AI, audio, and rendering.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Thunder Meshy workflow note: `../thunder-brainstorm/generated/session_learnings/2026-06-06_gravity_fist_meshy_asset_workflow.md`.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Player and Security Titan GLBs are the default runtime actors and are loaded before reset; humanoid geometry fallbacks are used only if an asset load fails or the debug query ...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- Right-side phone tap buffers the standard attack chain.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Enemies spawn up to the current slice cap of 3, arrange around the player, attack one at a time, face the player while holding support slots, flee when wounded, and can be kno...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- The viewport is portrait-friendly and fills the phone browser surface. The old 16:9 letterbox path is treated as a regression for phone recordings.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "node --check src/main.js",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L42"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `index.html`: browser shell and local Three.js import map.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `data/player_attacks.json`: copied from the source Godot project.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- `data/security_titan.json`: copied from the source Godot project.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: provenance for copied Gravity Fist assets.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Thunder Meshy workflow note: `../thunder-brainstorm/generated/session_learnings/2026-06-06_gravity_fist_meshy_asset_workflow.md`.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- Workspace Meshy CLI: `../tools/meshy_asset_workflow.py`.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Player and Security Titan GLBs are the default runtime actors and are loaded before reset; humanoid geometry fallbacks are used only if an asset load fails or the debug query ...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "The source Godot shop/progression stack is intentionally excluded because it is dead code in the current slice: move shop, level-up offers, move currency, combo-row UI, drag/dro...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L37"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- `index.html`: browser shell and local Three.js import map.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: Three.js scene, fixed-step simulation, input, combat, AI, audio, and rendering.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- `tools/build_web_release.py`: deterministic web zip builder.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- `tools/smoke_threejs.mjs`: Termux/Chromium smoke runner with minimal WebGL and app beacon modes.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Player and Security Titan GLBs are the default runtime actors and are loaded before reset; humanoid geometry fallbacks are used only if an asset load fails or the debug query ...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "python3 tools/build_web_release.py",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "python -m http.server 8792",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "Open `pose-lab.html` from the local server to inspect Ares and SecurityTitan outside the combat loop. The lab loads each GLB directly, lists animation clips as buttons, exposes ...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L64"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: Three.js scene, fixed-step simulation, input, combat, AI, audio, and rendering.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: provenance for copied Gravity Fist assets.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "Open `pose-lab.html` from the local server to inspect Ares and SecurityTitan outside the combat loop. The lab loads each GLB directly, lists animation clips as buttons, exposes ...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "The pose lab also has a Bones panel and a Retarget panel. The Bones panel is the Phalanx-style editing bridge: it lists the loaded model skeleton, shows selectable bone handles/...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "Use `../tools/meshy_asset_workflow.py` for image generation, Meshy image-to-3D, optional Meshy rigging, downloads, and per-asset manifests. Treat Meshy-rigged humanoids as proto...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 107,
+          "symbol": "",
+          "evidence": "- State `Cross` uses `Imported/Cross-Enemy` in the Godot scene, backed by the animation resource `Cross-Enemy.res`. The web retarget path exposes this as `shared-retarget:Cross-...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L107"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 116,
+          "symbol": "GLB Clip Availability Gap",
+          "evidence": "## GLB Clip Availability Gap",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L116"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `src/rig-profiles.js`: shared per-rig profile data used by both the pose lab and runtime for model paths, target heights, transforms, rest baselines, animation channel policie...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "Open `pose-lab.html` from the local server to inspect Ares and SecurityTitan outside the combat loop. The lab loads each GLB directly, lists animation clips as buttons, exposes ...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 78,
+          "symbol": "",
+          "evidence": "Use `../tools/meshy_asset_workflow.py` for image generation, Meshy image-to-3D, optional Meshy rigging, downloads, and per-asset manifests. Treat Meshy-rigged humanoids as proto...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L78"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/threejs_pose_lessons.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- lab/runtime transform offsets",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/threejs_pose_lessons.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "The Xform panel is not just a temporary debug surface. Its Move, Rotate, Scale, and Basis values are the workflow for discovering profile transforms. Once a value is proven, mov...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/threejs_pose_lessons.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- If Titan is sideways, check the profile transform before changing skeleton bones.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/threejs_pose_lessons.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "Three.js `Skeleton.pose()` restores the skin bind pose, not necessarily the artist-authored model scene pose. For this project, capture bone transforms immediately after GLB loa...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "> - `src/rig-profiles.js`: shared per-rig profile data used by both the pose lab and runtime for model paths, target heights, transforms, rest baselines, animation channel polic...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L17"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `src/rig-profiles.js`: shared per-rig profile data used by both the pose lab and runtime for model paths, target heights, transforms, rest baselines, animation channel policie...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `docs/threejs_pose_lessons.md`: Three.js rig/pose troubleshooting lessons learned from Ares and Security Titan.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- Right-side phone tap buffers the standard attack chain.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- Right-side hold queues LowBackKick.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- Right-side vertical swipe performs a sidestep dash.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- Other right-side swipe is the Godot combat swipe: stomp prone target, block/parry an attacking target, otherwise SupermanPunch.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 62,
+          "symbol": "GLB Pose Lab",
+          "evidence": "## GLB Pose Lab",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "Open `pose-lab.html` from the local server to inspect Ares and SecurityTitan outside the combat loop. The lab loads each GLB directly, lists animation clips as buttons, exposes ...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L64"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 15,
+          "symbol": "",
+          "evidence": "- `tools/smoke_threejs.mjs`: Termux/Chromium smoke runner with minimal WebGL and app beacon modes.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L15"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "node tools/smoke_threejs.mjs --minimal --timeout-ms=15000 --out=/data/data/com.termux/files/usr/tmp/gf-three-smoke/minimal.png",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "node tools/smoke_threejs.mjs --app --beacon --timeout-ms=20000 --url='http://127.0.0.1:8792/?smoke=1' --out=/data/data/com.termux/files/usr/tmp/gf-three-smoke/beacon.png",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "> - `tools/smoke_threejs.mjs`: Termux/Chromium smoke runner with minimal WebGL and app beacon modes.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "AGENTS.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "6. Asset parity by default: real Ares and Security Titan GLBs load before gameplay reset; procedural fallback exists only for load failures, `?proxy=1` debugging, or `?smoke=1` ...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "AGENTS.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "node tools/smoke_threejs.mjs --minimal --timeout-ms=15000 --out=/data/data/com.termux/files/usr/tmp/gf-three-smoke/minimal.png",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "AGENTS.md",
+          "line": 48,
+          "symbol": "",
+          "evidence": "node tools/smoke_threejs.mjs --app --beacon --timeout-ms=20000 --url='http://127.0.0.1:8792/?smoke=1' --out=/data/data/com.termux/files/usr/tmp/gf-three-smoke/beacon.png",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L48"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 60,
+          "symbol": "",
+          "evidence": "const SMOKE_MODE = URL_PARAMS.has('smoke');",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L60"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "- `tools/android_browser_capture.mjs`: Android browser canvas capture runner launched from Termux with `am` by default, state beacons, optional input actions, and PNG reports.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L16"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 84,
+          "symbol": "",
+          "evidence": "`tools/android_browser_capture.mjs` now acquires a temporary `termux-wake-lock`, records those permission probes, and labels zero-request reports as probable locked/background b...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L84"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "> - `tools/android_browser_capture.mjs`: Android browser canvas capture runner launched from Termux with `am` by default, state beacons, optional input actions, and PNG reports.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_MANIFEST.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+          "line": 1146,
+          "symbol": "",
+          "evidence": "* Draft: https://github.com/KhronosGroup/glTF/pull/1698",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L1146"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+          "line": 1836,
+          "symbol": "",
+          "evidence": "const BINARY_EXTENSION_CHUNK_TYPES = { JSON: 0x4E4F534A, BIN: 0x004E4942 };",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L1836"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+          "line": 1865,
+          "symbol": "",
+          "evidence": "const chunkContentsLength = this.header.length - BINARY_EXTENSION_HEADER_LENGTH;",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L1865"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+          "line": 1866,
+          "symbol": "",
+          "evidence": "const chunkView = new DataView( data, BINARY_EXTENSION_HEADER_LENGTH );",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L1866"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+          "line": 1867,
+          "symbol": "",
+          "evidence": "let chunkIndex = 0;",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L1867"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "The source Godot shop/progression stack is intentionally excluded because it is dead code in the current slice: move shop, level-up offers, move currency, combo-row UI, drag/dro...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 107,
+          "symbol": "",
+          "evidence": "- State `Cross` uses `Imported/Cross-Enemy` in the Godot scene, backed by the animation resource `Cross-Enemy.res`. The web retarget path exposes this as `shared-retarget:Cross-...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L107"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "assets/asset_manifest.json",
+          "line": 6,
+          "symbol": "",
+          "evidence": "\"Move shop and progression overlays are excluded because they are dead code in the current source slice.\",",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/assets/asset_manifest.json#L6"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "AGENTS.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- Keep the dead Godot move shop, move currency, level-up offer, combo-row, reroll, drag/drop slot, and progression menu code out of parity unless the user explicitly asks to rev...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/AGENTS.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+          "line": 98,
+          "symbol": "",
+          "evidence": "* - KHR_meshopt_compression",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L98"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+          "line": 102,
+          "symbol": "",
+          "evidence": "* - EXT_meshopt_compression",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L102"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+          "line": 141,
+          "symbol": "",
+          "evidence": "this.meshoptDecoder = null;",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L141"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "vendor/three/examples/jsm/loaders/GLTFLoader.js",
+          "line": 237,
+          "symbol": "",
+          "evidence": "return new GLTFMeshoptCompression( parser, EXTENSIONS.EXT_MESHOPT_COMPRESSION );",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/vendor/three/examples/jsm/loaders/GLTFLoader.js#L237"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "Open `pose-lab.html` from the local server to inspect Ares and SecurityTitan outside the combat loop. The lab loads each GLB directly, lists animation clips as buttons, exposes ...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/PROJECT_ORIENTATION.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/threejs_pose_lessons.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- The Godot scene skeleton override is not a safe Three.js default rest pose. Keep it as a diagnostic button only.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/threejs_pose_lessons.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 154,
+          "symbol": "",
+          "evidence": "pauseButton: document.getElementById('pauseButton'),",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L154"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 157,
+          "symbol": "",
+          "evidence": "resumeButton: document.getElementById('resumeButton'),",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L157"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 158,
+          "symbol": "",
+          "evidence": "restartButton: document.getElementById('restartButton'),",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L158"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 159,
+          "symbol": "",
+          "evidence": "audioButton: document.getElementById('audioButton'),",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L159"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 616,
+          "symbol": "",
+          "evidence": "console.warn('retargetClip failed', clip.name, err);",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L616"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 734,
+          "symbol": "",
+          "evidence": "console.warn(`audio load failed: ${url}`, err);",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L734"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- `LeftHook`",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "- `LeftHook` -> hit reaction `HitHeadRight`",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "data/player_attacks.json",
+          "line": 114,
+          "symbol": "name",
+          "evidence": "\"name\": \"LeftHook\",",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/player_attacks.json#L114"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "data/player_attacks.json",
+          "line": 115,
+          "symbol": "description",
+          "evidence": "\"description\": \"A tight hook that clips nearby targets with quick recovery.\",",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/data/player_attacks.json#L115"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 1464,
+          "symbol": "",
+          "evidence": "this.audio.load('hook', 'assets/audio/hook.ogg'),",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L1464"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 1530,
+          "symbol": "",
+          "evidence": "{ name: 'LeftHook', description: 'A tight hook that clips nearby targets with quick recovery.', damage_modifier: 1.1, dash_start: 0.15, dash: 0.7, attack_end: 0.35, knockback_mu...",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L1530"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 2602,
+          "symbol": "",
+          "evidence": "if (name.includes('Hook')) return 'hook';",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L2602"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 2761,
+          "symbol": "",
+          "evidence": "this.audio.play('hook', 0.75, -120);",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L2761"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "- `Jab` -> hit reaction `HitHeadRight`",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "- `Cross` -> hit reaction `HitHeadLeft`",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "- `LeftHook` -> hit reaction `HitHeadRight`",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "- `LeftUppercut` -> hit reaction `HitHeadRight`",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "- `RightUppercut` -> hit reaction `HitHeadLeft`",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "- `Headbutt` -> hit reaction `HitHeadLeft`",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L58"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 59,
+          "symbol": "",
+          "evidence": "- `SupermanPunch` -> hit reaction `HitHeadLeft`",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L59"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 60,
+          "symbol": "",
+          "evidence": "- `LowBackKick` -> hit reaction `HitHeadRight`",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L60"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_animation_usage.md",
+          "line": 144,
+          "symbol": "",
+          "evidence": "python3 tools/draw_titan_pose_strip.py /data/data/com.termux/files/usr/tmp/gf_titan_pose_strip.json /data/data/com.termux/files/usr/tmp/gf_titan_pose_strip.png",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_animation_usage.md#L144"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "tools/draw_titan_pose_strip.py",
+          "line": 1,
+          "symbol": "",
+          "evidence": "#!/usr/bin/env python3",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L1"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "tools/draw_titan_pose_strip.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "import json",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "tools/draw_titan_pose_strip.py",
+          "line": 3,
+          "symbol": "",
+          "evidence": "import sys",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L3"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "tools/draw_titan_pose_strip.py",
+          "line": 4,
+          "symbol": "",
+          "evidence": "from pathlib import Path",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L4"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "tools/draw_titan_pose_strip.py",
+          "line": 5,
+          "symbol": "",
+          "evidence": "from PIL import Image, ImageDraw, ImageFont",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L5"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "tools/draw_titan_pose_strip.py",
+          "line": 7,
+          "symbol": "",
+          "evidence": "src = Path(sys.argv[1])",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L7"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "tools/draw_titan_pose_strip.py",
+          "line": 8,
+          "symbol": "",
+          "evidence": "out = Path(sys.argv[2])",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/tools/draw_titan_pose_strip.py#L8"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_control_contract.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- If a prone/stompable target is in the swipe lane, start `CurbStomp`.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_control_contract.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Else if an attacking enemy is in the block lane, block/parry toward that enemy.",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_control_contract.md",
+          "line": 42,
+          "symbol": "",
+          "evidence": "The Godot lane search widens with forward distance. The port should preserve this shape:",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L42"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_control_contract.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "- Auto-turn is capped at `30deg` when one target is in lane",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "docs/godot_control_contract.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "- When multiple targets are in lane, keep the requested swipe/attack direction and only use the best target for lane selection",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/docs/godot_control_contract.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 1508,
+          "symbol": "",
+          "evidence": "new THREE.PlaneGeometry(12.0, 4.65),",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L1508"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 2869,
+          "symbol": "",
+          "evidence": "laneHalfWidth(forward, widthMultiplier = 1) {",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L2869"
+        },
+        {
+          "origin": "github",
+          "project": "gravity-fist-threejs",
+          "repo": "Valar05/gravity-fist-threejs",
+          "path": "src/main.js",
+          "line": 2874,
+          "symbol": "",
+          "evidence": "findCombatTargetsInLane(direction, requireAttacking, widthMultiplier = 1, forwardRange = COMBAT_TARGET_FORWARD_RANGE) {",
+          "source_url": "https://github.com/Valar05/gravity-fist-threejs/blob/main/src/main.js#L2874"
+        }
+      ]
+    }
+  }
+}

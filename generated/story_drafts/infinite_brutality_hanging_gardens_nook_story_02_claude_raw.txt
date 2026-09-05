@@ -1,0 +1,112 @@
+{
+  "packet_updates": [
+    {
+      "id": "hg2_np_01_bell_tongue_reliquary",
+      "replacement_text_fragments": [
+        "Tongue of the third bell. Wrapped in salt cloth. Do not unwrap without two witnesses.",
+        "If the wrapping is dry, record it. If wet, report to the quartermaster before touching.",
+        "Seven tongues stored. Three unaccounted. Tally stands until route opens."
+      ],
+      "voice_note": "A caretaker's inventory note under pressure of dwindling accountability, where the act of wrapping substitutes for the act of ringing."
+    },
+    {
+      "id": "hg2_np_02_witness_step_school",
+      "replacement_text_fragments": [
+        "Stand on the marked step. Say your name aloud. Wait for the echo. That is witness enough.",
+        "Children: do not skip the step. The step is the rule now.",
+        "No echo means the passage is blocked again. Mark the date on the post."
+      ],
+      "voice_note": "A work captain's instruction simplified for novices and children after formal witness rites could no longer be staffed."
+    },
+    {
+      "id": "hg2_np_03_double_seal_bench",
+      "replacement_text_fragments": [
+        "Both seals must press wet. One seal alone is a draft, not a record.",
+        "Civic seal left. Devotional seal right. Order is not optional.",
+        "If the devotional stamp is cracked, use the copy stamp. Note the substitution in the margin."
+      ],
+      "voice_note": "A refugee clerk's procedural reminder, insisting on legitimacy through form when institutional authority has already fractured."
+    },
+    {
+      "id": "hg2_np_04_unblessed_water_shelf",
+      "replacement_text_fragments": [
+        "Bowls upturned: water inside is not cleared. Do not drink. Do not pour on offerings.",
+        "Three bowls waiting since the collapse. No one with standing to bless them has come.",
+        "Leave them upturned. Touching them counts as a claim. You do not want the claim."
+      ],
+      "voice_note": "A caretaker's warning to scavengers, where the upturned bowl has become a legal and ritual boundary marker simultaneously."
+    },
+    {
+      "id": "hg2_np_05_unrung_memorial_arc",
+      "replacement_text_fragments": [
+        "These names were never rung out. The bell fell before the list was read.",
+        "Do not ring a substitute here without a witness standing at the arc. That is the rule.",
+        "If you knew one of these names, press your hand to the plaster. That is permitted."
+      ],
+      "voice_note": "A mourner's posted instruction, holding the memorial open through substitution while acknowledging the original rite was never completed."
+    },
+    {
+      "id": "hg2_np_06_roof_curtain_cell",
+      "replacement_text_fragments": [
+        "Curtain closed means the cell is in use for substitute rite. Do not open it.",
+        "Curtain folded back and pinned: cell is empty and cleared. You may shelter here.",
+        "If the curtain is torn, the last occupant left in haste. Check the floor for dropped papers."
+      ],
+      "voice_note": "A work captain's shorthand system for managing shared sanctuary space after formal room assignment collapsed."
+    },
+    {
+      "id": "hg2_np_07_substitute_offering_wall",
+      "replacement_text_fragments": [
+        "If you have no proper offering, fold your name and press it flat against the lower course.",
+        "Folded names are not lesser. They are the record now. Do not remove another's fold.",
+        "Wall is full at the third course. Begin the fourth course left to right, no gaps."
+      ],
+      "voice_note": "A penitent's instruction that has quietly become administrative policy, spoken in the voice of someone who had to make the rule themselves."
+    },
+    {
+      "id": "hg2_np_08_cistern_cap_table",
+      "replacement_text_fragments": [
+        "Route papers for the cistern stair are held here. Do not take a paper without signing the ledger.",
+        "Cap is sealed. Papers are preparation only. Taking one is not permission to descend.",
+        "When the cap opens, the first ten names in the ledger go first. Add your name now."
+      ],
+      "voice_note": "A refugee clerk managing hope as a queue, keeping the sealed route alive through bureaucratic anticipation rather than mystical promise."
+    },
+    {
+      "id": "hg2_np_09_handprint_count_panel",
+      "replacement_text_fragments": [
+        "Each white print is one witness present at a rite since the collapse. Count them yourself.",
+        "If your hand is smaller than the prints, press anyway. Size is not the measure.",
+        "Panel is full when prints overlap three deep. Start the second panel on the east wall."
+      ],
+      "voice_note": "A novice's copied instruction, preserving the witness-count system in the plainest possible terms after the original custodians were lost."
+    },
+    {
+      "id": "hg2_np_10_blind_choir_corner",
+      "replacement_text_fragments": [
+        "Sing facing the wall. The corner carries the sound. That is why this spot was chosen.",
+        "No bell, no lead voice. Begin on the third breath. Stop when the echo stops.",
+        "This is not performance. Do not watch the one singing. Turn away or leave."
+      ],
+      "voice_note": "A penitent's rule for a substitute choir rite, insisting on the correct posture of witness even when the original choir structure is gone."
+    },
+    {
+      "id": "hg2_np_11_linen_name_drawer",
+      "replacement_text_fragments": [
+        "Names written on linen strips. One strip per person unaccounted since the collapse.",
+        "Do not add a name until three days have passed without word. That is the waiting rule.",
+        "Strips with a knot at the end: confirmed gone. Strips unknotted: still waiting."
+      ],
+      "voice_note": "A mourner's filing system that refuses to close grief prematurely, using the knot as the only honest marker of certainty."
+    },
+    {
+      "id": "hg2_np_12_sealed_stair_cache",
+      "replacement_text_fragments": [
+        "Vine cut points down and left. That is the stair direction. Mark it on your route paper.",
+        "Cache holds: two coils of rope, one lamp, four days of dry ration. Counted last at mid-season.",
+        "Do not open the cache for practice. It opens when the cap opens. Not before."
+      ],
+      "voice_note": "A quartermaster's terse field note, treating the sealed route as a logistical certainty rather than a hope, because someone has to believe it will open."
+    }
+  ]
+}

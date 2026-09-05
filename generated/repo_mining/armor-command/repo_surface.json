@@ -1,0 +1,1745 @@
+{
+  "repo": "Valar05/armor-command",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "armor-command",
+    "updatedAt": "2026-06-20T22:48:08Z",
+    "url": "https://github.com/Valar05/armor-command",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 17,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "a4c971f43f5fcc3b0aaf322cb09ae449c2dc661a",
+      "size": 2427,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 2427,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/README.md#L1",
+        "https://github.com/Valar05/armor-command/blob/main/README.md#L3",
+        "https://github.com/Valar05/armor-command/blob/main/README.md#L8",
+        "https://github.com/Valar05/armor-command/blob/main/README.md#L20",
+        "https://github.com/Valar05/armor-command/blob/main/README.md#L21",
+        "https://github.com/Valar05/armor-command/blob/main/README.md#L25",
+        "https://github.com/Valar05/armor-command/blob/main/README.md#L27",
+        "https://github.com/Valar05/armor-command/blob/main/README.md#L29"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "39dee3c636a04bea490ba9bac71b7901efd2281a",
+      "size": 3571,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 54,
+      "byte_count": 3571,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L1",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L7",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L9",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L12",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L13"
+      ]
+    },
+    {
+      "path": "docs/armor_command_page_copy.md",
+      "mode": "100644",
+      "sha": "d650684d55bf7d52a27cd8e3a7a2577ffc419549",
+      "size": 3181,
+      "score": 88,
+      "reasons": [
+        "documentation surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 3181,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L1",
+        "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L3",
+        "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L5",
+        "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L7",
+        "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L9",
+        "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L11",
+        "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L13",
+        "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L14"
+      ]
+    },
+    {
+      "path": "docs/content_drop_2_plan.md",
+      "mode": "100644",
+      "sha": "49ea6578aadbb0e2dcc3aa74ddb7e28b51c474d5",
+      "size": 5470,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 59,
+      "byte_count": 5470,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L1",
+        "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L6",
+        "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L7",
+        "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L8",
+        "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L9",
+        "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L14",
+        "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L16",
+        "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L23"
+      ]
+    },
+    {
+      "path": "tools/build_web_release.py",
+      "mode": "100644",
+      "sha": "9e51906a51a80e03e57f1331746708521ce1315d",
+      "size": 1427,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 1427,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/tools/build_web_release.py#L1",
+        "https://github.com/Valar05/armor-command/blob/main/tools/build_web_release.py#L2",
+        "https://github.com/Valar05/armor-command/blob/main/tools/build_web_release.py#L4",
+        "https://github.com/Valar05/armor-command/blob/main/tools/build_web_release.py#L5",
+        "https://github.com/Valar05/armor-command/blob/main/tools/build_web_release.py#L7",
+        "https://github.com/Valar05/armor-command/blob/main/tools/build_web_release.py#L8",
+        "https://github.com/Valar05/armor-command/blob/main/tools/build_web_release.py#L9",
+        "https://github.com/Valar05/armor-command/blob/main/tools/build_web_release.py#L10"
+      ]
+    },
+    {
+      "path": "tools/render_sfx_assets.py",
+      "mode": "100644",
+      "sha": "df33476aef1c7eb7096903e8dc35675d93e546a2",
+      "size": 10315,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 267,
+      "byte_count": 10315,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L1",
+        "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L2",
+        "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L4",
+        "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L5",
+        "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L6",
+        "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L7",
+        "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L8",
+        "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L9"
+      ]
+    },
+    {
+      "path": "PROJECT_MANIFEST.md",
+      "mode": "100644",
+      "sha": "426db11d1a7de25dce096102445241003a3fb410",
+      "size": 2223,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 54,
+      "byte_count": 2223,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L1",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L3",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L4",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L5",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L6",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L7",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L8",
+        "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L10"
+      ]
+    },
+    {
+      "path": "assets/asset_manifest.json",
+      "mode": "100644",
+      "sha": "2f70449ed6d829117b846d66d71f2eaa97187a7b",
+      "size": 18619,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 363,
+      "byte_count": 18619,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L1",
+        "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L2",
+        "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L3",
+        "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L4",
+        "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L5",
+        "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L6",
+        "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L7",
+        "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "assets/sfx/sfx_manifest.json",
+      "mode": "100644",
+      "sha": "1e05dc8e7f7660c1e6104c105541309eaff866d8",
+      "size": 18082,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 367,
+      "byte_count": 18082,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/assets/sfx/sfx_manifest.json#L1",
+        "https://github.com/Valar05/armor-command/blob/main/assets/sfx/sfx_manifest.json#L2",
+        "https://github.com/Valar05/armor-command/blob/main/assets/sfx/sfx_manifest.json#L3",
+        "https://github.com/Valar05/armor-command/blob/main/assets/sfx/sfx_manifest.json#L4",
+        "https://github.com/Valar05/armor-command/blob/main/assets/sfx/sfx_manifest.json#L5",
+        "https://github.com/Valar05/armor-command/blob/main/assets/sfx/sfx_manifest.json#L6",
+        "https://github.com/Valar05/armor-command/blob/main/assets/sfx/sfx_manifest.json#L7",
+        "https://github.com/Valar05/armor-command/blob/main/assets/sfx/sfx_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "release/page_assets/armor_command_page_copy.md",
+      "mode": "100644",
+      "sha": "d650684d55bf7d52a27cd8e3a7a2577ffc419549",
+      "size": 3181,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 55,
+      "byte_count": 3181,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/release/page_assets/armor_command_page_copy.md#L1",
+        "https://github.com/Valar05/armor-command/blob/main/release/page_assets/armor_command_page_copy.md#L3",
+        "https://github.com/Valar05/armor-command/blob/main/release/page_assets/armor_command_page_copy.md#L5",
+        "https://github.com/Valar05/armor-command/blob/main/release/page_assets/armor_command_page_copy.md#L7",
+        "https://github.com/Valar05/armor-command/blob/main/release/page_assets/armor_command_page_copy.md#L9",
+        "https://github.com/Valar05/armor-command/blob/main/release/page_assets/armor_command_page_copy.md#L11",
+        "https://github.com/Valar05/armor-command/blob/main/release/page_assets/armor_command_page_copy.md#L13",
+        "https://github.com/Valar05/armor-command/blob/main/release/page_assets/armor_command_page_copy.md#L14"
+      ]
+    },
+    {
+      "path": "AGENTS.md",
+      "mode": "100644",
+      "sha": "1444aa8d1e33778b97a1ae1447c9cbee6adc785b",
+      "size": 792,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 792,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/AGENTS.md#L1",
+        "https://github.com/Valar05/armor-command/blob/main/AGENTS.md#L3",
+        "https://github.com/Valar05/armor-command/blob/main/AGENTS.md#L9",
+        "https://github.com/Valar05/armor-command/blob/main/AGENTS.md#L10",
+        "https://github.com/Valar05/armor-command/blob/main/AGENTS.md#L17",
+        "https://github.com/Valar05/armor-command/blob/main/AGENTS.md#L18",
+        "https://github.com/Valar05/armor-command/blob/main/AGENTS.md#L21",
+        "https://github.com/Valar05/armor-command/blob/main/AGENTS.md#L23"
+      ]
+    },
+    {
+      "path": "assets/effects/armor_command_effects_atlas_v1.json",
+      "mode": "100644",
+      "sha": "3a4e241ce152b9094119e5dd52fe4a9bee180f7f",
+      "size": 2340,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 159,
+      "byte_count": 2340,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/assets/effects/armor_command_effects_atlas_v1.json#L1",
+        "https://github.com/Valar05/armor-command/blob/main/assets/effects/armor_command_effects_atlas_v1.json#L2",
+        "https://github.com/Valar05/armor-command/blob/main/assets/effects/armor_command_effects_atlas_v1.json#L3",
+        "https://github.com/Valar05/armor-command/blob/main/assets/effects/armor_command_effects_atlas_v1.json#L4",
+        "https://github.com/Valar05/armor-command/blob/main/assets/effects/armor_command_effects_atlas_v1.json#L5",
+        "https://github.com/Valar05/armor-command/blob/main/assets/effects/armor_command_effects_atlas_v1.json#L6",
+        "https://github.com/Valar05/armor-command/blob/main/assets/effects/armor_command_effects_atlas_v1.json#L7",
+        "https://github.com/Valar05/armor-command/blob/main/assets/effects/armor_command_effects_atlas_v1.json#L8"
+      ]
+    },
+    {
+      "path": "assets/enemies/drop_pod_enemy_atlas_v1.json",
+      "mode": "100644",
+      "sha": "c251e359faa10b8221ebb9bf902126fcd24b2a4f",
+      "size": 2240,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 165,
+      "byte_count": 2240,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/assets/enemies/drop_pod_enemy_atlas_v1.json#L1",
+        "https://github.com/Valar05/armor-command/blob/main/assets/enemies/drop_pod_enemy_atlas_v1.json#L2",
+        "https://github.com/Valar05/armor-command/blob/main/assets/enemies/drop_pod_enemy_atlas_v1.json#L3",
+        "https://github.com/Valar05/armor-command/blob/main/assets/enemies/drop_pod_enemy_atlas_v1.json#L4",
+        "https://github.com/Valar05/armor-command/blob/main/assets/enemies/drop_pod_enemy_atlas_v1.json#L5",
+        "https://github.com/Valar05/armor-command/blob/main/assets/enemies/drop_pod_enemy_atlas_v1.json#L6",
+        "https://github.com/Valar05/armor-command/blob/main/assets/enemies/drop_pod_enemy_atlas_v1.json#L7",
+        "https://github.com/Valar05/armor-command/blob/main/assets/enemies/drop_pod_enemy_atlas_v1.json#L8"
+      ]
+    },
+    {
+      "path": "assets/mech/mecha_modular_atlas.json",
+      "mode": "100644",
+      "sha": "261e1ed6b68a8f59fe3d5793a5564ece62285f1e",
+      "size": 3103,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 199,
+      "byte_count": 3103,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_modular_atlas.json#L1",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_modular_atlas.json#L2",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_modular_atlas.json#L3",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_modular_atlas.json#L4",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_modular_atlas.json#L5",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_modular_atlas.json#L6",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_modular_atlas.json#L7",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_modular_atlas.json#L8"
+      ]
+    },
+    {
+      "path": "assets/mech/mecha_pivots.json",
+      "mode": "100644",
+      "sha": "aa30ac606261f12f191935b83cf9d3d8f635e6f5",
+      "size": 1193,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 1193,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_pivots.json#L1",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_pivots.json#L2",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_pivots.json#L3",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_pivots.json#L4",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_pivots.json#L5",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_pivots.json#L6",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_pivots.json#L7",
+        "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_pivots.json#L8"
+      ]
+    },
+    {
+      "path": "assets/vehicle/armor_vehicle_atlas.json",
+      "mode": "100644",
+      "sha": "87b0d4a5a38f3ed2f0715a2222d3fa2855def3ce",
+      "size": 3896,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 211,
+      "byte_count": 3896,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/assets/vehicle/armor_vehicle_atlas.json#L1",
+        "https://github.com/Valar05/armor-command/blob/main/assets/vehicle/armor_vehicle_atlas.json#L2",
+        "https://github.com/Valar05/armor-command/blob/main/assets/vehicle/armor_vehicle_atlas.json#L3",
+        "https://github.com/Valar05/armor-command/blob/main/assets/vehicle/armor_vehicle_atlas.json#L4",
+        "https://github.com/Valar05/armor-command/blob/main/assets/vehicle/armor_vehicle_atlas.json#L5",
+        "https://github.com/Valar05/armor-command/blob/main/assets/vehicle/armor_vehicle_atlas.json#L6",
+        "https://github.com/Valar05/armor-command/blob/main/assets/vehicle/armor_vehicle_atlas.json#L7",
+        "https://github.com/Valar05/armor-command/blob/main/assets/vehicle/armor_vehicle_atlas.json#L8"
+      ]
+    },
+    {
+      "path": "src/main.js",
+      "mode": "100644",
+      "sha": "a89c6e00c2e085dd0b285384855a14d64377554c",
+      "size": 122539,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3294,
+      "byte_count": 122539,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/armor-command/blob/main/src/main.js#L1",
+        "https://github.com/Valar05/armor-command/blob/main/src/main.js#L2",
+        "https://github.com/Valar05/armor-command/blob/main/src/main.js#L4",
+        "https://github.com/Valar05/armor-command/blob/main/src/main.js#L5",
+        "https://github.com/Valar05/armor-command/blob/main/src/main.js#L6",
+        "https://github.com/Valar05/armor-command/blob/main/src/main.js#L7",
+        "https://github.com/Valar05/armor-command/blob/main/src/main.js#L8",
+        "https://github.com/Valar05/armor-command/blob/main/src/main.js#L9"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 4990,
+    "by_origin": {
+      "github": 4990
+    },
+    "by_project": {
+      "armor-command": 4990
+    },
+    "by_mechanic": {
+      "ai_pressure": 3379,
+      "asset_import_pipeline": 1892,
+      "tts_audio_pipeline": 1015,
+      "web_choice_player": 489,
+      "text_console_runtime": 303,
+      "vehicle_survival": 265,
+      "deck_pressure": 133,
+      "pose_animation_tools": 92,
+      "touch_lane_combat": 62,
+      "resource_upgrade_loop": 60,
+      "validation_pipeline": 12,
+      "writing_corpus_review": 8,
+      "delayed_consequences": 8,
+      "source_packet_generation": 4,
+      "event_clouds": 1
+    },
+    "examples": {
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "Armor Command",
+          "evidence": "# Armor Command",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "The browser saves local personal best score and deepest wave in `localStorage` under `armor-command.personal-best.v1`, with a migration from the legacy `mecha-command.personal-b...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "Music and SFX toggles live in the title and pause menus. The in-game HUD keeps only Pause and Menu buttons so the playfield stays clean. Preferences are stored in browser `local...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "The generated zip lands at `release/armor-command-web.zip`.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 1,
+          "symbol": "Armor Command Project Orientation",
+          "evidence": "# Armor Command Project Orientation",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Armor Command is a standalone HTML5/canvas mobile prototype using the Marrow Runner workflow: dependency-free runtime, phone-first touch feel, generated-asset provenance, and it...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "- Persistent SFX toggle in title/pause menus; in-game HUD no longer has a music button.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 1,
+          "symbol": "Armor Command Page Copy",
+          "evidence": "# Armor Command Page Copy",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L1"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Mobile-first HTML5 canvas prototype: a side-view armor platform defends the lower screen from descending missiles, drop pods, robot paratroopers, and rockets with tap-fired inte...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- Drone Bay upgrades: add up to four slaved drones that fire in parallel while holding.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: game loop, touch input, rendering, weapons, enemies, waves, procedural side-view vehicle art, and upgrade behavior.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- Drone Bay upgrades add up to four slaved gun drones; the run starts with none.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- Wave escalation, tree-tagged survivorlike upgrade offers, and capstones after repeated tree investment.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "- Scatter-barrel, heavy-pistol, radioactive, piercer, splitter, and drone-conversion upgrades layered onto hold-fire and missile sequencing.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "Every run starts with a lean armor platform and a starter gun. Between waves, bolt on upgrades: missile batteries with independent cooldowns, slave drones, scatter barrels, heav...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "This is a prototype in active development, focused on immediate touch feel, readable side-view vehicle combat, and a survivorlike upgrade loop.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L23"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Mobile-first HTML5 canvas prototype: a side-view armor platform defends the lower screen from descending missiles, drop pods, robot paratroopers, and rockets with tap-fired inte...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "python -m http.server 8791",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "The browser saves local personal best score and deepest wave in `localStorage` under `armor-command.personal-best.v1`, with a migration from the legacy `mecha-command.personal-b...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "Music and SFX toggles live in the title and pause menus. The in-game HUD keeps only Pause and Menu buttons so the playfield stays clean. Preferences are stored in browser `local...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "This workspace uses a home-compiled Android/Termux butler build for itch uploads. Go is installed at `/data/data/com.termux/files/usr/bin/go` (`go1.26.4 android/arm64`). The loc...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "Build Web Zip",
+          "evidence": "## Build Web Zip",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "python tools/build_web_release.py",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "The generated zip lands at `release/armor-command-web.zip`.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L56"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- Hold/drag: keep firing ready missile racks while spraying turret fire toward the live touch point. Release and tap again quickly to ignore the final 0.5s of a rack cooldown.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "Enemy pressure",
+          "evidence": "## Enemy pressure",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "Waves increase missile count, spawn cadence, speed, hot-missile chance, and missile HP. Multi-HP missiles draw an armor ring. Later waves can spawn drop pods; breaking a pod spa...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "Kill Chain",
+          "evidence": "## Kill Chain",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "Kills within a short window build a visible `CHAIN` counter. Each chained kill raises the score multiplier by 0.25 up to x8.00. Letting the timer expire or taking base damage re...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "node --check src/main.js",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: game loop, touch input, rendering, weapons, enemies, waves, procedural side-view vehicle art, and upgrade behavior.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `assets/sfx/sfx_manifest.json`: SFX batch-generation plan, runtime triggers, provenance targets, and mix notes. Current SFX master is 0.45 plus post-compressor output gain 0.7...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L11"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "The browser saves local personal best score and deepest wave in `localStorage` under `armor-command.personal-best.v1`, with a migration from the legacy `mecha-command.personal-b...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "Waves increase missile count, spawn cadence, speed, hot-missile chance, and missile HP. Multi-HP missiles draw an armor ring. Later waves can spawn drop pods; breaking a pod spa...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "Audio Controls",
+          "evidence": "## Audio Controls",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: game loop, touch input, rendering, weapons, enemies, waves, procedural side-view vehicle art, and upgrade behavior.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: generated/procedural asset notes and future image-gen prompts.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `assets/sfx/sfx_manifest.json`: SFX batch-generation plan, runtime triggers, provenance targets, and mix notes. Current SFX master is 0.45 plus post-compressor output gain 0.7...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L28"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "Waves increase missile count, spawn cadence, speed, hot-missile chance, and missile HP. Multi-HP missiles draw an armor ring. Later waves can spawn drop pods; breaking a pod spa...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Hold/drag continuously fires ready missile racks while spraying turret fire from a starter pistol-class gun; quick release-tap cadence ignores the final 0.5s of each rack cool...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- Descending enemy missiles with wave-scaled speed, spawn cadence, and HP.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/content_drop_2_plan.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "Armor Command improves the Convoy cone by drawing a curved flame ribbon in world space. The centerline bends with animated sway, then layered ember lobes follow that curve so ro...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/content_drop_2_plan.md",
+          "line": 55,
+          "symbol": "",
+          "evidence": "A gameplay video from Android Downloads showed hard rectangular crop edges on explosion frames. The generated sheet was not truly aligned to equal grid cells, so the runtime now...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L55"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "assets/asset_manifest.json",
+          "line": 25,
+          "symbol": "target_use",
+          "evidence": "\"target_use\": \"Defines draw anchors, shoulder pivots, pod mounts, and muzzle points for future modular mecha sprites.\"",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L25"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "assets/asset_manifest.json",
+          "line": 251,
+          "symbol": "target_use",
+          "evidence": "\"target_use\": \"Primary canvas background drawn with cover-crop scaling behind gameplay overlays.\",",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L251"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "assets/mech/mecha_modular_atlas.json",
+          "line": 130,
+          "symbol": "draw_mode",
+          "evidence": "\"draw_mode\": \"fixed_center_square\"",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/assets/mech/mecha_modular_atlas.json#L130"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "This workspace uses a home-compiled Android/Termux butler build for itch uploads. Go is installed at `/data/data/com.termux/files/usr/bin/go` (`go1.26.4 android/arm64`). The loc...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Armor Command is a standalone HTML5/canvas mobile prototype using the Marrow Runner workflow: dependency-free runtime, phone-first touch feel, generated-asset provenance, and it...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `assets/asset_manifest.json`: generated/procedural asset notes and future image-gen prompts.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `assets/sfx/sfx_manifest.json`: SFX batch-generation plan, runtime triggers, provenance targets, and mix notes. Current SFX master is 0.45 plus post-compressor output gain 0.7...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- `assets/mech/mecha_pivots.json`: older modular mecha pivot plan retained as art-history/reference, not the current runtime direction.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/asset_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "python3 -m json.tool assets/sfx/sfx_manifest.json >/dev/null",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L29"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "This workspace uses a home-compiled Android/Termux butler build for itch uploads. Go is installed at `/data/data/com.termux/files/usr/bin/go` (`go1.26.4 android/arm64`). The loc...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/README.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "Itch uploads use the locally compiled Android/Termux butler binary at `/data/data/com.termux/files/usr/tmp/butler-android-bin/butler`. Go is installed at `/data/data/com.termux/...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "Subject: A sleek blue-white-gold futuristic armored tank/hover-tank in side profile on a dark ground band, firing one bright interceptor missile upward into a teal night sky. In...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/content_drop_2_plan.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Upgrade values are stronger than the original flat pool, generally about double the previous impact.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "assets/asset_manifest.json",
+          "line": 290,
+          "symbol": "",
+          "evidence": "\"Go is installed at /data/data/com.termux/files/usr/bin/go and reports go1.26.4 android/arm64.\",",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L290"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "assets/asset_manifest.json",
+          "line": 292,
+          "symbol": "",
+          "evidence": "\"The local binary reports head, no build date; push/status work despite the harmless android-arm64-head/LATEST 404 self-version check.\"",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L292"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 142,
+          "symbol": "prompt",
+          "evidence": "\"prompt\": \"short futuristic scatter blast, multiple pellets, chunky but not bass heavy, immediate arcade punch\",",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/assets/sfx/sfx_manifest.json#L142"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "release/page_assets/armor_command_page_copy.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "Subject: A sleek blue-white-gold futuristic armored tank/hover-tank in side profile on a dark ground band, firing one bright interceptor missile upward into a teal night sky. In...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/release/page_assets/armor_command_page_copy.md#L53"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `src/main.js`: game loop, touch input, rendering, weapons, enemies, waves, procedural side-view vehicle art, and upgrade behavior.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "The runtime now uses procedural vehicle art for readability. Future image generation should produce a side-profile armored tank/vehicle with clear hardpoints, not a full-body hu...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "This is a prototype in active development, focused on immediate touch feel, readable side-view vehicle combat, and a survivorlike upgrade loop.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "Subject: A sleek blue-white-gold futuristic armored tank/hover-tank in side profile on a dark ground band, firing one bright interceptor missile upward into a teal night sky. In...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "Composition: Centered vehicle in the lower third, missile trail rising diagonally upward, high contrast silhouette, strong focal lighting, clean square crop, no border.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "tools/render_sfx_assets.py",
+          "line": 231,
+          "symbol": "",
+          "evidence": "fuel = env_exp(t, 0.001, 0.055) * (rng.random() * 2 - 1) * 0.24",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L231"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "tools/render_sfx_assets.py",
+          "line": 232,
+          "symbol": "",
+          "evidence": "return soft_clip(spark + fuel + metal_click(t, rng, 2100, 0.08), 1.55)",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L232"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 16,
+          "symbol": "",
+          "evidence": "> - `src/main.js`: game loop, touch input, rendering, weapons, enemies, waves, procedural side-view vehicle art, and upgrade behavior.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L16"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `assets/sfx/sfx_manifest.json`: SFX batch-generation plan, runtime triggers, provenance targets, and mix notes. Current SFX master is 0.45 plus post-compressor output gain 0.7...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- Wave escalation, tree-tagged survivorlike upgrade offers, and capstones after repeated tree investment.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L41"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "The runtime now uses procedural vehicle art for readability. Future image generation should produce a side-profile armored tank/vehicle with clear hardpoints, not a full-body hu...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "A mobile-first missile command survivorlike where a side-view armor platform holds the line against escalating missile waves.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "This is a prototype in active development, focused on immediate touch feel, readable side-view vehicle combat, and a survivorlike upgrade loop.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "html5, arcade, missile-command, survivorlike, mobile, touch, tank, mecha, prototype, roguelite",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/armor_command_page_copy.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "Subject: A sleek blue-white-gold futuristic armored tank/hover-tank in side profile on a dark ground band, firing one bright interceptor missile upward into a teal night sky. In...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/armor_command_page_copy.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/content_drop_2_plan.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- Upgrade values are stronger than the original flat pool, generally about double the previous impact.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L6"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- `harness.html`: simple responsive canvas smoke page.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/content_drop_2_plan.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "Transparent-background 2D game sprite sheet for Armor Command, a side-view futuristic tank missile-command arcade game. Include separate readable projectiles: standard intercept...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "docs/content_drop_2_plan.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "Square transparent-background upgrade icon sheet for a mobile arcade missile defense game called Armor Command. Icons only, no text. Include missile battery, radioactive cloud, ...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/docs/content_drop_2_plan.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "> - `harness.html`: simple responsive canvas smoke page.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 2,
+          "symbol": "",
+          "evidence": "'use strict';",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L2"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 268,
+          "symbol": "",
+          "evidence": "baseRepair: 0,",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L268"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 387,
+          "symbol": "",
+          "evidence": "state.stats.baseRepair += 2;",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L387"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 389,
+          "symbol": "",
+          "evidence": "note: 'Patch the defended line and add light wave-start repair.'",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L389"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- Kill-chain score multiplier with a visible combo counter.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "tools/render_sfx_assets.py",
+          "line": 21,
+          "symbol": "env_exp",
+          "evidence": "def env_exp(t: float, attack: float, decay: float) -> float:",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L21"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "tools/render_sfx_assets.py",
+          "line": 24,
+          "symbol": "",
+          "evidence": "if attack > 0 and t < attack:",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L24"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "tools/render_sfx_assets.py",
+          "line": 25,
+          "symbol": "",
+          "evidence": "return t / attack",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L25"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "tools/render_sfx_assets.py",
+          "line": 26,
+          "symbol": "",
+          "evidence": "return math.exp(-(t - attack) / max(0.001, decay))",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L26"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "tools/render_sfx_assets.py",
+          "line": 78,
+          "symbol": "",
+          "evidence": "# Gentle one-pole smoothing removes harsh digital edges while preserving attack.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/tools/render_sfx_assets.py#L78"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "- `.gitignore` contains a Codex workspace hygiene block for credentials, caches, and local build outputs.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_MANIFEST.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "- `.gitattributes` contains a Codex Git LFS block for common binary assets, models, audio, video, archives, fonts, and PDFs.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_MANIFEST.md#L53"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "The runtime now uses procedural vehicle art for readability. Future image generation should produce a side-profile armored tank/vehicle with clear hardpoints, not a full-body hu...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/PROJECT_ORIENTATION.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "assets/asset_manifest.json",
+          "line": 16,
+          "symbol": "source",
+          "evidence": "\"source\": \"Thunder Brainstorm design packet and imagegen attempt on 2026-06-04\",",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L16"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "AGENTS.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- Arm and drone aiming should be runtime transforms with anchor points, not large pose sheets.",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/AGENTS.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 566,
+          "symbol": "",
+          "evidence": "ctx.setTransform(dpr, 0, 0, dpr, 0, 0);",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L566"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "assets/asset_manifest.json",
+          "line": 318,
+          "symbol": "notes",
+          "evidence": "\"notes\": \"Piercer Warheads create an explosion at the target point, then continue the missile along its trajectory for one pierce per upgrade up to four. Splitter Payloads sched...",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/assets/asset_manifest.json#L318"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "assets/sfx/sfx_manifest.json",
+          "line": 114,
+          "symbol": "prompt",
+          "evidence": "\"prompt\": \"tiny rapid energy pistol shot, snappy armored turret crack, dry, no echo\",",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/assets/sfx/sfx_manifest.json#L114"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 319,
+          "symbol": "",
+          "evidence": "const delayedExplosions = [];",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L319"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 1239,
+          "symbol": "",
+          "evidence": "delayedExplosions.length = 0;",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L1239"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 1679,
+          "symbol": "",
+          "evidence": "delayedExplosions.push({ x, y, radius, team, damage, delay });",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L1679"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 1850,
+          "symbol": "",
+          "evidence": "updateDelayedExplosions(dt);",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L1850"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 1950,
+          "symbol": "updateDelayedExplosions",
+          "evidence": "function updateDelayedExplosions(dt) {",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L1950"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 1951,
+          "symbol": "",
+          "evidence": "for (const ex of delayedExplosions) {",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L1951"
+        },
+        {
+          "origin": "github",
+          "project": "armor-command",
+          "repo": "Valar05/armor-command",
+          "path": "src/main.js",
+          "line": 1958,
+          "symbol": "",
+          "evidence": "compact(delayedExplosions, ex => !ex.done);",
+          "source_url": "https://github.com/Valar05/armor-command/blob/main/src/main.js#L1958"
+        }
+      ]
+    }
+  }
+}

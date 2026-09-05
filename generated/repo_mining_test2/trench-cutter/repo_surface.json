@@ -1,0 +1,460 @@
+{
+  "repo": "Valar05/trench-cutter",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Consent-bounded interactive horror content engine for Twitch, itch.io, TV/display, and AI adapters.",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "trench-cutter",
+    "updatedAt": "2026-08-05T16:24:19Z",
+    "url": "https://github.com/Valar05/trench-cutter",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 2,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "af41af6ce68355020dc9ded53988560b353d0b33",
+      "size": 1874,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 1874,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/trench-cutter/blob/main/README.md#L3",
+        "https://github.com/Valar05/trench-cutter/blob/main/README.md#L5",
+        "https://github.com/Valar05/trench-cutter/blob/main/README.md#L6",
+        "https://github.com/Valar05/trench-cutter/blob/main/README.md#L7",
+        "https://github.com/Valar05/trench-cutter/blob/main/README.md#L8",
+        "https://github.com/Valar05/trench-cutter/blob/main/README.md#L9",
+        "https://github.com/Valar05/trench-cutter/blob/main/README.md#L11",
+        "https://github.com/Valar05/trench-cutter/blob/main/README.md#L20"
+      ]
+    },
+    {
+      "path": "state.md",
+      "mode": "100644",
+      "sha": "8c9eb508ba796d46a61bc206bc9efdb83de3d4ad",
+      "size": 3017,
+      "score": 106,
+      "reasons": [
+        "authoritative state",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 45,
+      "byte_count": 3017,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/trench-cutter/blob/main/state.md#L10",
+        "https://github.com/Valar05/trench-cutter/blob/main/state.md#L17",
+        "https://github.com/Valar05/trench-cutter/blob/main/state.md#L18",
+        "https://github.com/Valar05/trench-cutter/blob/main/state.md#L23",
+        "https://github.com/Valar05/trench-cutter/blob/main/state.md#L24",
+        "https://github.com/Valar05/trench-cutter/blob/main/state.md#L25",
+        "https://github.com/Valar05/trench-cutter/blob/main/state.md#L26",
+        "https://github.com/Valar05/trench-cutter/blob/main/state.md#L27"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 27,
+    "by_origin": {
+      "github": 27
+    },
+    "by_project": {
+      "trench-cutter": 27
+    },
+    "by_mechanic": {
+      "ai_pressure": 19,
+      "asset_import_pipeline": 5,
+      "web_choice_player": 5,
+      "vehicle_survival": 5,
+      "source_packet_generation": 4,
+      "delayed_consequences": 2,
+      "resource_upgrade_loop": 2,
+      "tts_audio_pipeline": 1,
+      "validation_pipeline": 1
+    },
+    "examples": {
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Trench Cutter compiles a deterministic series of consent-bounded interactive horror mechanisms into five delivery packets:",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "GitHub Actions tests and compiles the full packet on every push, on manual dispatch, and daily at 15:00 UTC. Each successful run publishes the generated packet to the private `c...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- itch.io: HTML5 packet and credential-gated Butler job implemented; target and secret absent, therefore not published.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "GitHub Actions artifact storage was full. The workflow now preserves the generated packet on the private `compiled` branch instead of relying on quota-bound Actions artifacts. G...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L45"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "- Twitch browser-source overlay and run-of-show",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "GitHub Actions tests and compiles the full packet on every push, on manual dispatch, and daily at 15:00 UTC. Each successful run publishes the generated packet to the private `c...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- Twitch: browser-source overlay and run-of-show implemented; account app, chat bot, OAuth, broadcast, and live audience interaction not deployed.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "3. Artifact manifest contains Twitch, itch.io, TV, AI, and accessibility outputs.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "GitHub Actions artifact storage was full. The workflow now preserves the generated packet on the private `compiled` branch instead of relying on quota-bound Actions artifacts. G...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L45"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 6,
+          "symbol": "",
+          "evidence": "- itch.io HTML5 build",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L6"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- television/display web stage with keyboard, remote, touch, reduced-motion, and screen-reader support",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "Open `out/tv/index.html`, `out/twitch/overlay.html`, or `out/itch/index.html`. The same seed produces the same receipt digest and ordering.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 26,
+          "symbol": "",
+          "evidence": "- itch.io: HTML5 packet and credential-gated Butler job implemented; target and secret absent, therefore not published.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L26"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- TV/display: standards-based web stage implemented; specific device pairing and native Roku/Tizen/webOS apps not deployed.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L27"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- provider-neutral AI JSONL plus a system contract",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- plain-text accessible transcript",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "The first catalog contains **hunger traps, thirst traps, jigsaw jigs, jigsaw saws**, a sleep trap, an echo mine, and a broadcast snare. Danger escalates inside the fiction. The ...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "GitHub Actions tests and compiles the full packet on every push, on manual dispatch, and daily at 15:00 UTC. Each successful run publishes the generated packet to the private `c...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "Twitch live chat, account registration, broadcasting, TV-device pairing, AI-provider credentials, and public publication are not silently attempted. The generated adapters are i...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "Containment law",
+          "evidence": "## Containment law",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Classic Jigsaw remains SCP, not an autonomous publisher.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- Jigsaw ASMR remains conditional crew.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L34"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "The first catalog contains **hunger traps, thirst traps, jigsaw jigs, jigsaw saws**, a sleep trap, an echo mine, and a broadcast snare. Danger escalates inside the fiction. The ...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Hunger traps, thirst trap, jigsaw jig, jigsaw saw, sleep trap, echo mine, broadcast snare: IMPLEMENTED AS FIRST CANDIDATE SERIES; not accepted canon.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L24"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "The first catalog contains **hunger traps, thirst traps, jigsaw jigs, jigsaw saws**, a sleep trap, an echo mine, and a broadcast snare. Danger escalates inside the fiction. The ...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "Twitch live chat, account registration, broadcasting, TV-device pairing, AI-provider credentials, and public publication are not silently attempted. The generated adapters are i...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "Create a series of hunger traps, thirst traps, jigsaw jigs, jigsaw saws, and more dangerous fictional/game/media mechanisms. Automate the entire suite across Twitch, itch.io, te...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Hunger traps, thirst trap, jigsaw jig, jigsaw saw, sleep trap, echo mine, broadcast snare: IMPLEMENTED AS FIRST CANDIDATE SERIES; not accepted canon.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "- Twitch: browser-source overlay and run-of-show implemented; account app, chat bot, OAuth, broadcast, and live audience interaction not deployed.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L25"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "The first catalog contains **hunger traps, thirst traps, jigsaw jigs, jigsaw saws**, a sleep trap, an echo mine, and a broadcast snare. Danger escalates inside the fiction. The ...",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Hunger traps, thirst trap, jigsaw jig, jigsaw saw, sleep trap, echo mine, broadcast snare: IMPLEMENTED AS FIRST CANDIDATE SERIES; not accepted canon.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L24"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "3. Artifact manifest contains Twitch, itch.io, TV, AI, and accessibility outputs.",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L39"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "trench-cutter",
+          "repo": "Valar05/trench-cutter",
+          "path": "state.md",
+          "line": 43,
+          "symbol": "Quota repair completed",
+          "evidence": "## Quota repair completed",
+          "source_url": "https://github.com/Valar05/trench-cutter/blob/main/state.md#L43"
+        }
+      ]
+    }
+  }
+}

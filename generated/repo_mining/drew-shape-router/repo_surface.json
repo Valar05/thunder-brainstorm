@@ -1,0 +1,1196 @@
+{
+  "repo": "Valar05/drew-shape-router",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Deterministic Drew-shaped tool router and safe preflight engine.",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "drew-shape-router",
+    "updatedAt": "2026-08-11T21:05:02Z",
+    "url": "https://github.com/Valar05/drew-shape-router",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 15,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "38532eee72cb81e9dab1fe4a64a179b9f2f346e9",
+      "size": 1850,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 46,
+      "byte_count": 1850,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L9",
+        "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L11",
+        "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L18",
+        "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L19",
+        "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L20",
+        "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L28",
+        "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L29",
+        "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L30"
+      ]
+    },
+    {
+      "path": "tests/test_file_auditor.py",
+      "mode": "100644",
+      "sha": "bc1d17ec675f73782309a82366e59bae7e2c3833",
+      "size": 1970,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 44,
+      "byte_count": 1970,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L1",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L2",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L4",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L5",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L8",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L9",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L10",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L11"
+      ]
+    },
+    {
+      "path": "tests/test_router.py",
+      "mode": "100644",
+      "sha": "3365f902d30422568a6a9dcb9379dc50ff9e594b",
+      "size": 1847,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 1847,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L1",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L3",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L4",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L5",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L10",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L12",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L14",
+        "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L19"
+      ]
+    },
+    {
+      "path": "examples/remote_durable_manifest.json",
+      "mode": "100644",
+      "sha": "e754f2bb72b69e1e534e3cdc7f79267acc51cb08",
+      "size": 481,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 23,
+      "byte_count": 481,
+      "mechanics": [
+        "asset_import_pipeline",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L1",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L2",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L3",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L4",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L5",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L6",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L7",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "examples/compute_training_shape.json",
+      "mode": "100644",
+      "sha": "d52329783e0b75e2120ab7aeeace03ff4754e6a2",
+      "size": 225,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 225,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/compute_training_shape.json#L1",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/compute_training_shape.json#L2",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/compute_training_shape.json#L3"
+      ]
+    },
+    {
+      "path": "examples/expected_phone_cleanup_plan.json",
+      "mode": "100644",
+      "sha": "005485869ee8f129f8fdbe41344bcf55f5b23f11",
+      "size": 1618,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 61,
+      "byte_count": 1618,
+      "mechanics": [
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/expected_phone_cleanup_plan.json#L4",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/expected_phone_cleanup_plan.json#L8",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/expected_phone_cleanup_plan.json#L15",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/expected_phone_cleanup_plan.json#L19",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/expected_phone_cleanup_plan.json#L34",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/expected_phone_cleanup_plan.json#L42",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/expected_phone_cleanup_plan.json#L51",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/expected_phone_cleanup_plan.json#L54"
+      ]
+    },
+    {
+      "path": "examples/local_phone_inventory.json",
+      "mode": "100644",
+      "sha": "6335381cf29c6f488d753b0363af893e9b9dc0b4",
+      "size": 615,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 30,
+      "byte_count": 615,
+      "mechanics": [
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/local_phone_inventory.json#L5",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/local_phone_inventory.json#L10",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/local_phone_inventory.json#L25"
+      ]
+    },
+    {
+      "path": "examples/phone_cleanup_campaign.json",
+      "mode": "100644",
+      "sha": "2ae01ed3b0573a688b42a8b30c680092bbf2443f",
+      "size": 273,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 273,
+      "mechanics": [
+        "ai_pressure",
+        "touch_lane_combat",
+        "vehicle_survival"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/phone_cleanup_campaign.json#L1",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/phone_cleanup_campaign.json#L2",
+        "https://github.com/Valar05/drew-shape-router/blob/main/examples/phone_cleanup_campaign.json#L3"
+      ]
+    },
+    {
+      "path": "policy/drew_shape_policy.json",
+      "mode": "100644",
+      "sha": "0ebcddb2a281daccb165113c0ba7620658cb5274",
+      "size": 3325,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 147,
+      "byte_count": 3325,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L4",
+        "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L8",
+        "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L9",
+        "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L11",
+        "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L16",
+        "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L17",
+        "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L19",
+        "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L22"
+      ]
+    },
+    {
+      "path": "src/drew_shape_router/__init__.py",
+      "mode": "100644",
+      "sha": "04edc2e00c0a9d90a71171ab81db2760b0834a10",
+      "size": 99,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 3,
+      "byte_count": 99,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/__init__.py#L1"
+      ]
+    },
+    {
+      "path": "src/drew_shape_router/cli.py",
+      "mode": "100644",
+      "sha": "cd7cdc96fc02943a91a1ba64c48b07a17ca90b7f",
+      "size": 3823,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 97,
+      "byte_count": 3823,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L2",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L4",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L6",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L7",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L8",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L10",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L11",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L12"
+      ]
+    },
+    {
+      "path": "src/drew_shape_router/file_auditor.py",
+      "mode": "100644",
+      "sha": "df9dfb9cf380c2f771401642588455a5daad641f",
+      "size": 4067,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 134,
+      "byte_count": 4067,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/file_auditor.py#L1",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/file_auditor.py#L3",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/file_auditor.py#L4",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/file_auditor.py#L5",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/file_auditor.py#L6",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/file_auditor.py#L7",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/file_auditor.py#L9",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/file_auditor.py#L11"
+      ]
+    },
+    {
+      "path": "src/drew_shape_router/io.py",
+      "mode": "100644",
+      "sha": "a4ae83b4557ba36c978c17883ed052b72f872451",
+      "size": 1305,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 38,
+      "byte_count": 1305,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/io.py#L1",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/io.py#L3",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/io.py#L4",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/io.py#L5",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/io.py#L8",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/io.py#L10",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/io.py#L13",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/io.py#L14"
+      ]
+    },
+    {
+      "path": "src/drew_shape_router/policy.py",
+      "mode": "100644",
+      "sha": "78d5c80aaa84b1af91675e9d64a78d2297db0cfb",
+      "size": 220,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 8,
+      "byte_count": 220,
+      "mechanics": [
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/policy.py#L1",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/policy.py#L3"
+      ]
+    },
+    {
+      "path": "src/drew_shape_router/router.py",
+      "mode": "100644",
+      "sha": "9b0efeaf02f8992769b4373e24ab146b6f0a8878",
+      "size": 6678,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 165,
+      "byte_count": 6678,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L3",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L5",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L6",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L7",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L25",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L26",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L29",
+        "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L39"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 375,
+    "by_origin": {
+      "github": 375
+    },
+    "by_project": {
+      "drew-shape-router": 375
+    },
+    "by_mechanic": {
+      "validation_pipeline": 163,
+      "touch_lane_combat": 81,
+      "asset_import_pipeline": 69,
+      "ai_pressure": 64,
+      "vehicle_survival": 62,
+      "web_choice_player": 47,
+      "tts_audio_pipeline": 39,
+      "text_console_runtime": 18,
+      "pose_animation_tools": 4,
+      "deck_pressure": 3
+    },
+    "examples": {
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "2. Score lanes against Drew's standing constraints.",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "drew-shape-router test-scenario examples/phone_cleanup_campaign.json --expect top_lane=local_phone_file_auditor --expect required_lane=home_center",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- Which lane should own the work?",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- Which lanes are explicitly forbidden?",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- `route`: produces a ranked tool-lane decision with required lanes, blocked lanes,",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 30,
+          "symbol": "",
+          "evidence": "blocked_paths = {item[\"path\"] for item in payload[\"blocked\"]}",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L30"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 31,
+          "symbol": "",
+          "evidence": "self.assertIn(\"Download/unknown.bin\", blocked_paths)",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L31"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 32,
+          "symbol": "",
+          "evidence": "self.assertIn(\"GodotProjects/project/state.md\", blocked_paths)",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L32"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "2. Score lanes against Drew's standing constraints.",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "4. Log corrections as training examples.",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "drew-shape-router route examples/phone_cleanup_campaign.json",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "drew-shape-router test-scenario examples/phone_cleanup_campaign.json --expect top_lane=local_phone_file_auditor --expect required_lane=home_center",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- What evidence is required before success can be claimed?",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Is training actually needed, or will rules plus retrieval handle it?",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- `audit-files`: compares a local phone inventory against a durable manifest and",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 41,
+          "symbol": "",
+          "evidence": "- `export-training`: exports accepted/corrected route traces as JSONL for a",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L41"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "2. Score lanes against Drew's standing constraints.",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "drew-shape-router test-scenario examples/phone_cleanup_campaign.json --expect top_lane=local_phone_file_auditor --expect required_lane=home_center",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- Which lane should own the work?",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- Which lanes are explicitly forbidden?",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- `route`: produces a ranked tool-lane decision with required lanes, blocked lanes,",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_router.py",
+          "line": 19,
+          "symbol": "",
+          "evidence": "self.assertEqual(decision.ranked_lanes[0][\"lane\"], \"local_phone_file_auditor\")",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L19"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_router.py",
+          "line": 20,
+          "symbol": "",
+          "evidence": "self.assertIn(\"home_center\", decision.required_lanes)",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L20"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_router.py",
+          "line": 21,
+          "symbol": "",
+          "evidence": "self.assertIn(\"chatgpt_work\", decision.blocked_lanes)",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L21"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "drew-shape-router test-scenario examples/phone_cleanup_campaign.json --expect top_lane=local_phone_file_auditor --expect required_lane=home_center",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "drew-shape-router audit-files --local examples/local_phone_inventory.json --remote examples/remote_durable_manifest.json --output runtime/phone_cleanup_plan.json",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- `audit-files`: compares a local phone inventory against a durable manifest and",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "The file auditor never deletes. It can only emit `eligible_for_reviewed_delete`",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import unittest",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L1"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "from pathlib import Path",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 4,
+          "symbol": "",
+          "evidence": "from drew_shape_router.file_auditor import build_cleanup_plan",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L4"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 5,
+          "symbol": "",
+          "evidence": "from drew_shape_router.io import load_json",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L5"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "drew-shape-router audit-files --local examples/local_phone_inventory.json --remote examples/remote_durable_manifest.json --output runtime/phone_cleanup_plan.json",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- `audit-files`: compares a local phone inventory against a durable manifest and",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "when the local file hash exists in the durable manifest and the local path is",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 38,
+          "symbol": "",
+          "evidence": "remote = load_json(root / \"examples\" / \"remote_durable_manifest.json\")",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L38"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_router.py",
+          "line": 23,
+          "symbol": "",
+          "evidence": "self.assertIn(\"stop before deletion unless manifest has synced/duplicate proof\", decision.stop_gates)",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_router.py#L23"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "examples/remote_durable_manifest.json",
+          "line": 1,
+          "symbol": "",
+          "evidence": "{",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L1"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "examples/remote_durable_manifest.json",
+          "line": 2,
+          "symbol": "store",
+          "evidence": "\"store\": \"home-center\",",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "examples/remote_durable_manifest.json",
+          "line": 3,
+          "symbol": "files",
+          "evidence": "\"files\": [",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/examples/remote_durable_manifest.json#L3"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "drew-shape-router audit-files --local examples/local_phone_inventory.json --remote examples/remote_durable_manifest.json --output runtime/phone_cleanup_plan.json",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- `audit-files`: compares a local phone inventory against a durable manifest and",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "when the local file hash exists in the durable manifest and the local path is",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L45"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 1,
+          "symbol": "",
+          "evidence": "import unittest",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L1"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "from pathlib import Path",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 4,
+          "symbol": "",
+          "evidence": "from drew_shape_router.file_auditor import build_cleanup_plan",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L4"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 5,
+          "symbol": "",
+          "evidence": "from drew_shape_router.io import load_json",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L5"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 38,
+          "symbol": "",
+          "evidence": "remote = load_json(root / \"examples\" / \"remote_durable_manifest.json\")",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L38"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "README.md",
+          "line": 46,
+          "symbol": "",
+          "evidence": "classified as junk/cache/download material.",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/README.md#L46"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 5,
+          "symbol": "",
+          "evidence": "from drew_shape_router.io import load_json",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L5"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 12,
+          "symbol": "",
+          "evidence": "{\"path\": \"Download/a.whl\", \"size\": 10, \"sha256\": \"same\"},",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L12"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 14,
+          "symbol": "",
+          "evidence": "{\"path\": \"Download/unknown.bin\", \"size\": 30, \"sha256\": \"unknown\"},",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L14"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 24,
+          "symbol": "",
+          "evidence": "payload = plan.to_dict()",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L24"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 26,
+          "symbol": "",
+          "evidence": "self.assertEqual(payload[\"totals\"][\"removal_candidate_count\"], 1)",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L26"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 27,
+          "symbol": "",
+          "evidence": "self.assertEqual(payload[\"removal_candidates\"][0][\"path\"], \"Download/a.whl\")",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L27"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 28,
+          "symbol": "",
+          "evidence": "self.assertEqual(payload[\"totals\"][\"sync_candidate_count\"], 1)",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L28"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "tests/test_file_auditor.py",
+          "line": 33,
+          "symbol": "",
+          "evidence": "self.assertIn(\"dry-run only: no deletion command emitted\", payload[\"gates\"])",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/tests/test_file_auditor.py#L33"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "examples/expected_phone_cleanup_plan.json",
+          "line": 57,
+          "symbol": "",
+          "evidence": "\"dry-run only: no deletion command emitted\",",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/examples/expected_phone_cleanup_plan.json#L57"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "policy/drew_shape_policy.json",
+          "line": 4,
+          "symbol": "",
+          "evidence": "\"explicit lane choice with rejected adjacent lanes\",",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "src/drew_shape_router/cli.py",
+          "line": 2,
+          "symbol": "",
+          "evidence": "\"\"\"Command line interface for Drew Shape Router.\"\"\"",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L2"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "src/drew_shape_router/cli.py",
+          "line": 31,
+          "symbol": "build_parser",
+          "evidence": "def build_parser() -> argparse.ArgumentParser:",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L31"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "src/drew_shape_router/cli.py",
+          "line": 32,
+          "symbol": "",
+          "evidence": "parser = argparse.ArgumentParser(description=\"Drew-shaped deterministic tool router\")",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L32"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "src/drew_shape_router/cli.py",
+          "line": 33,
+          "symbol": "",
+          "evidence": "parser.add_argument(\"--policy\", type=Path, default=DEFAULT_POLICY)",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L33"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "src/drew_shape_router/cli.py",
+          "line": 34,
+          "symbol": "",
+          "evidence": "sub = parser.add_subparsers(dest=\"command\", required=True)",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/cli.py#L34"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "policy/drew_shape_policy.json",
+          "line": 16,
+          "symbol": "triggers",
+          "evidence": "\"triggers\": [\"home center\", \"drive\", \"durable\", \"syncs\"],",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L16"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "policy/drew_shape_policy.json",
+          "line": 22,
+          "symbol": "triggers",
+          "evidence": "\"triggers\": [\"quota\", \"credits\", \"cheaper than chat\", \"free tier\", \"cheap\"],",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L22"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "policy/drew_shape_policy.json",
+          "line": 27,
+          "symbol": "triggers",
+          "evidence": "\"triggers\": [\"not use the phone shell\", \"don't use the phone shell\", \"not phone shell\"],",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/policy/drew_shape_policy.json#L27"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "src/drew_shape_router/router.py",
+          "line": 82,
+          "symbol": "",
+          "evidence": "if any(trigger in text for trigger in rule[\"triggers\"]):",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L82"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "src/drew_shape_router/router.py",
+          "line": 140,
+          "symbol": "",
+          "evidence": "evidence.append(\"trace count threshold checked before recommending weights\")",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L140"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "src/drew_shape_router/router.py",
+          "line": 156,
+          "symbol": "",
+          "evidence": "threshold = self.policy[\"training\"][\"minimum_corrected_traces\"]",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L156"
+        },
+        {
+          "origin": "github",
+          "project": "drew-shape-router",
+          "repo": "Valar05/drew-shape-router",
+          "path": "src/drew_shape_router/router.py",
+          "line": 160,
+          "symbol": "",
+          "evidence": "f\"Train weights only after at least {threshold} corrected accepted traces.\"",
+          "source_url": "https://github.com/Valar05/drew-shape-router/blob/main/src/drew_shape_router/router.py#L160"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,837 @@
+{
+  "repo": "Valar05/private-theater",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "Private cloud-first media catalog with accessible phone downloads and desktop ingest.",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "private-theater",
+    "updatedAt": "2026-08-13T17:06:03Z",
+    "url": "https://github.com/Valar05/private-theater",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 6,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "5e250b9b52c63954891f215e85e8051d3f1005ab",
+      "size": 104,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 2,
+      "byte_count": 104,
+      "mechanics": [
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/private-theater/blob/main/README.md#L2"
+      ]
+    },
+    {
+      "path": "docs/acceptance.md",
+      "mode": "100644",
+      "sha": "42e3a87fe433f1e389d35039659dfdc6667b2b65",
+      "size": 1734,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 35,
+      "byte_count": 1734,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L7",
+        "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L8",
+        "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L10",
+        "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L11",
+        "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L17",
+        "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L18",
+        "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L20",
+        "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L21"
+      ]
+    },
+    {
+      "path": "docs/api-contract.json",
+      "mode": "100644",
+      "sha": "97c263ecb127117cf4119b4d02e23af5745d0c8b",
+      "size": 1910,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 75,
+      "byte_count": 1910,
+      "mechanics": [
+        "ai_pressure",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L17",
+        "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L31",
+        "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L40",
+        "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L41",
+        "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L48",
+        "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L49",
+        "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L52",
+        "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L55"
+      ]
+    },
+    {
+      "path": "docs/architecture.md",
+      "mode": "100644",
+      "sha": "da875fd88a07ecb2d95fc8f25047c903ca5600cc",
+      "size": 4334,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 80,
+      "byte_count": 4334,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L3",
+        "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L7",
+        "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L11",
+        "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L12",
+        "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L14",
+        "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L18",
+        "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L20",
+        "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L21"
+      ]
+    },
+    {
+      "path": "docs/render-farm.md",
+      "mode": "100644",
+      "sha": "4a120b420ff4ff53665cb251159cd0b7e4e6f605",
+      "size": 1862,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 1862,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L1",
+        "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L3",
+        "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L5",
+        "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L7",
+        "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L8",
+        "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L9",
+        "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L11",
+        "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L13"
+      ]
+    },
+    {
+      "path": "web/app.js",
+      "mode": "100644",
+      "sha": "8983db2eb485e4edee41b07010fb7e20dc832317",
+      "size": 6685,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 168,
+      "byte_count": 6685,
+      "mechanics": [
+        "ai_pressure",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/private-theater/blob/main/web/app.js#L1",
+        "https://github.com/Valar05/private-theater/blob/main/web/app.js#L2",
+        "https://github.com/Valar05/private-theater/blob/main/web/app.js#L3",
+        "https://github.com/Valar05/private-theater/blob/main/web/app.js#L4",
+        "https://github.com/Valar05/private-theater/blob/main/web/app.js#L5",
+        "https://github.com/Valar05/private-theater/blob/main/web/app.js#L6",
+        "https://github.com/Valar05/private-theater/blob/main/web/app.js#L8",
+        "https://github.com/Valar05/private-theater/blob/main/web/app.js#L9"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 233,
+    "by_origin": {
+      "github": 233
+    },
+    "by_project": {
+      "private-theater": 233
+    },
+    "by_mechanic": {
+      "web_choice_player": 210,
+      "ai_pressure": 34,
+      "pose_animation_tools": 9,
+      "asset_import_pipeline": 6,
+      "touch_lane_combat": 6,
+      "vehicle_survival": 6,
+      "writing_corpus_review": 5,
+      "text_console_runtime": 5,
+      "validation_pipeline": 4,
+      "tts_audio_pipeline": 2,
+      "resource_upgrade_loop": 1
+    },
+    "examples": {
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "README.md",
+          "line": 2,
+          "symbol": "",
+          "evidence": "Private cloud-first media catalog with accessible phone downloads and desktop ingest.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/README.md#L2"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 8,
+          "symbol": "",
+          "evidence": "- Resumable upload survives interruption without duplicate catalog rows.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L8"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Signed download grant expires, rejects another device, and permits bounded range resume.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- Select one video, download it, interrupt network/process, resume, verify SHA-256, and play offline.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "- App-private downloads are inaccessible to ordinary gallery scanners.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- Hash before upload; deduplicate before transcode.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "A green source build is not deployment. Deployment is not phone installation. Installation is not offline-download proof. Mechanical proof is not human acceptance.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/api-contract.json",
+          "line": 31,
+          "symbol": "phoneDownload",
+          "evidence": "\"phoneDownload\": {",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L31"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Original, poster, preview, stream, and phone renditions have independent SHA-256 and byte counts.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Private Theater is a single-user, private, phone-first video library with a feed-like experience:",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "| Private Cloud Storage | Authoritative original video, renditions, posters, previews, captions, and immutable hashes |",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "| Desktop ingest | Watches explicit inbox folders, hashes, deduplicates, uploads resumably, requests transcodes, and proposes metadata |",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "The deployed Home Center registry already exposes resumable artifact upload, commit, hash lookup, metadata get, filesystem download, and receipt operations. Private Theater must...",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "3. Cloud deduplicates by hash and stores the original under an opaque media ID.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- Original filenames are encrypted catalog fields and never object keys.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "The Gemini API is model inference, not a general-purpose video transcoder. Calling Gemini the first render lane means it handles model-native planning/analysis first; determinis...",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L29"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "- Original, poster, preview, stream, and phone renditions have independent SHA-256 and byte counts.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "| Private Cloud Storage | Authoritative original video, renditions, posters, previews, captions, and immutable hashes |",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "3. Cloud deduplicates by hash and stores the original under an opaque media ID.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "- Original filenames are encrypted catalog fields and never object keys.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- Hash mismatch: quarantine output and keep the original untouched.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L33"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Trash and restore preserve audit lineage. Purge remains separately gated.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Status: IMPLEMENTED_SOURCE bootstrap; deployment and phone acceptance remain pending.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "| Firestore catalog | Searchable metadata, collections, watch progress, favorites, download intents, and audit receipts |",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "The Gemini API is model inference, not a general-purpose video transcoder. Calling Gemini the first render lane means it handles model-native planning/analysis first; determinis...",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L29"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- Trash and restore preserve audit lineage. Purge remains separately gated.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "- Delete-local frees storage while cloud media remains playable.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "- No media thumbnail appears in notifications, launcher recents, gallery, casting, or lock screen by default.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- Desktop may be offline after ingest without impairing the phone catalog.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- Failed ingest remains resumable and attributable.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/api-contract.json",
+          "line": 17,
+          "symbol": "",
+          "evidence": "\"FAILED\",",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L17"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/api-contract.json",
+          "line": 41,
+          "symbol": "mediaId",
+          "evidence": "\"mediaId\": \"opaque string\",",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L41"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/api-contract.json",
+          "line": 55,
+          "symbol": "",
+          "evidence": "\"AVAILABLE_OFFLINE\",",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/api-contract.json#L55"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- No essential status is visual-only or audio-only.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "4. A worker produces a poster, safe in-app preview, streaming rendition, phone-download rendition, waveform, duration, and optional captions.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L35"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/acceptance.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "A green source build is not deployment. Deployment is not phone installation. Installation is not offline-download proof. Mechanical proof is not human acceptance.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/acceptance.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Status: IMPLEMENTED_SOURCE bootstrap; deployment and phone acceptance remain pending.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "| GitHub | Source, schemas, tests, deployment code, and documentation only; never media bytes |",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 80,
+          "symbol": "",
+          "evidence": "REQUESTED, IMPLEMENTED_SOURCE, DEPLOYED_CLOUD, INSTALLED_PHONE, CALLABLE_PHONE, TESTED_PHONE, DELIVERED, HUMAN_ACCEPTED.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L80"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "3. **Desktop** — use local desktop resources only when both cloud lanes are unavailable, quota-exhausted, or incapable of the requested job.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 27,
+          "symbol": "Important distinction",
+          "evidence": "## Important distinction",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L27"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "| Plane | Authority |",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "1. **Gemini free lane** — use the currently available Gemini free tier for model-native work such as shot analysis, tagging, prompt planning, safety classification, and render-j...",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "3. **Desktop** — use local desktop resources only when both cloud lanes are unavailable, quota-exhausted, or incapable of the requested job.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "The Gemini API is model inference, not a general-purpose video transcoder. Calling Gemini the first render lane means it handles model-native planning/analysis first; determinis...",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- Free quota unavailable: queue or move to the next lane.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Provider timeout: bounded retry, then move to the next lane.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L35"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/architecture.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "| Plane | Authority |",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/architecture.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "1. **Gemini free lane** — use the currently available Gemini free tier for model-native work such as shot analysis, tagging, prompt planning, safety classification, and render-j...",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "3. **Desktop** — use local desktop resources only when both cloud lanes are unavailable, quota-exhausted, or incapable of the requested job.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "The Gemini API is model inference, not a general-purpose video transcoder. Calling Gemini the first render lane means it handles model-native planning/analysis first; determinis...",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- Free quota unavailable: queue or move to the next lane.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- Provider timeout: bounded retry, then move to the next lane.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L35"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "3. **Desktop** — use local desktop resources only when both cloud lanes are unavailable, quota-exhausted, or incapable of the requested job.",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L9"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "docs/render-farm.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- requested operation and allowlisted command profile",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/docs/render-farm.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "web/app.js",
+          "line": 57,
+          "symbol": "",
+          "evidence": "node.querySelector(\".poster-button\").addEventListener(\"click\", () => openPlayer(item));",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/web/app.js#L57"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "web/app.js",
+          "line": 157,
+          "symbol": "",
+          "evidence": "document.querySelectorAll(\"[data-filter]\").forEach((button) => button.addEventListener(\"click\", () => {",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/web/app.js#L157"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "web/app.js",
+          "line": 158,
+          "symbol": "",
+          "evidence": "document.querySelectorAll(\"[data-filter]\").forEach((x) => x.classList.toggle(\"active\", x === button));",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/web/app.js#L158"
+        },
+        {
+          "origin": "github",
+          "project": "private-theater",
+          "repo": "Valar05/private-theater",
+          "path": "web/app.js",
+          "line": 159,
+          "symbol": "",
+          "evidence": "state.filter = button.dataset.filter;",
+          "source_url": "https://github.com/Valar05/private-theater/blob/main/web/app.js#L159"
+        }
+      ]
+    }
+  }
+}

@@ -1,7 +1,7 @@
 {
   "project": "infinite-brutality",
   "date": "2026-06-08",
-  "current_build": "0.8.166",
+  "current_build": "0.8.175",
   "local_project_root": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality",
   "play_url": "http://127.0.0.1:8798/infinite-brutality/index.html",
   "thunder_docs_url": "http://127.0.0.1:8765/",
@@ -20,7 +20,8 @@
     "room_batch_implementation_doc": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/ROOM_BATCH_IMPLEMENTATION.md",
     "real_limbo_skybox": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/assets/textures/ib-real-limbo-skybox-20260609.png",
     "local_level_design_workflow": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/LEVEL_DESIGN_WORKFLOW.md",
-    "vertical_district_realization_plan": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/VERTICAL_DISTRICT_REALIZATION_PLAN.md"
+    "vertical_district_realization_plan": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/VERTICAL_DISTRICT_REALIZATION_PLAN.md",
+    "rock_shape_grammar": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/docs/ROCK_SHAPE_GRAMMAR.md"
   },
   "thunder_records": {
     "prototype_lessons": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-08_infinite_brutality_prototype_lessons.md",
@@ -35,7 +36,9 @@
     "general_level_design_workflow": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/skills/level_design_environment_grammar.md",
     "meshy_pbr_rendering_handoff": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-15_infinite_brutality_meshy_pbr_rendering_handoff.md",
     "meshy_pbr_rendering_source_refs": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/source_refs_manual/infinite_brutality_meshy_pbr_rendering_source_refs.jsonl",
-    "meshy_pbr_rendering_skill": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/skills/meshy_pbr_rendering_operator.md"
+    "meshy_pbr_rendering_skill": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/skills/meshy_pbr_rendering_operator.md",
+    "rock_shape_grammar_handoff": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/session_learnings/2026-06-15_infinite_brutality_rock_shape_grammar.md",
+    "rock_shape_grammar_source_refs": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/source_refs_manual/infinite_brutality_rock_shape_grammar_source_refs.jsonl"
   },
   "quake_route_grammar_training": {
     "levels_processed": 63,
@@ -111,8 +114,10 @@
     "cache_buster": "src/main.js?v=0.8.3"
   },
   "build_context": {
-    "current_documented_runtime_build": "0.8.28",
-    "page_cache_buster": "src/main.js?v=0.8.28",
-    "mesh_pbr_rendering_pass": "Build 0.8.166 screenshot validated that rock PBR textures were correct and foreground arms needed visible Meshy PBR map response through material/lighting, not weaker normal maps."
+    "current_documented_runtime_build": "0.8.175",
+    "page_cache_buster": "src/main.js?v=0.8.175",
+    "mesh_pbr_rendering_pass": "Build 0.8.166 screenshot validated that rock PBR textures were correct and foreground arms needed visible Meshy PBR map response through material/lighting, not weaker normal maps.",
+    "sandstone_mesh_harness_correction": "Build 0.8.174 routes active sedimentary terrain through manifold exposed voxel faces from the collision field, cleans diagonal-only voxel contacts, and extends mesh integrity tests to the sedimentary island and bridge paths.",
+    "sandstone_visual_weathering": "Build 0.8.175 adds deterministic visual sediment shear/erosion offsets so manifold sandstone meshes no longer read as exact kitbashed voxel cubes."
   }
 }

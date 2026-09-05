@@ -1,0 +1,44 @@
+{
+  "repo": "Valar05/hemomancy",
+  "branch": "master",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "master"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "hemomancy",
+    "updatedAt": "2018-12-31T16:16:40Z",
+    "url": "https://github.com/Valar05/hemomancy",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 1,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "01af24666b2746052df5c86bf28e55e776c071dd",
+      "size": 11,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 11,
+      "mechanics": [],
+      "source_line_refs": []
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 0,
+    "by_origin": {},
+    "by_project": {},
+    "by_mechanic": {},
+    "examples": {}
+  }
+}

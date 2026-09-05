@@ -1,0 +1,5392 @@
+{
+  "license_boundary": {
+    "rule": "Do not redistribute Quake map data or copied layouts. Store abstract route grammar only.",
+    "accepted_inputs": [
+      ".map",
+      ".bsp",
+      ".pk3/.zip containing map or bsp"
+    ],
+    "pak_note": "Extract BSP files from PAK externally before ingestion."
+  },
+  "levels_processed": 63,
+  "playable_levels_processed": 41,
+  "prefab_or_item_sources_processed": 22,
+  "levels": [
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/start.map",
+      "playable_level": true,
+      "sequence_key": [
+        0,
+        0,
+        0,
+        "quake-maps/start.map"
+      ],
+      "format": "map",
+      "entity_count": 385,
+      "entity_categories": {
+        "light": 267,
+        "trigger": 35,
+        "other": 29,
+        "pickup": 25,
+        "spawn": 11,
+        "monster": 9,
+        "door": 5,
+        "teleport": 4
+      },
+      "top_classnames": {
+        "light": 224,
+        "light_torch_small_walltorch": 31,
+        "trigger_multiple": 12,
+        "light_flame_large_yellow": 10,
+        "trigger_teleport": 9,
+        "monster_zombie": 9,
+        "func_wall": 9,
+        "info_player_deathmatch": 6,
+        "func_door": 5,
+        "trigger_onlyregistered": 5,
+        "trigger_changelevel": 5,
+        "info_teleport_destination": 4,
+        "trigger_setskill": 4,
+        "item_rockets": 4,
+        "item_health": 4,
+        "info_player_coop": 4
+      },
+      "geometry_bbox": {
+        "min_x": -960.0,
+        "max_x": 2208.0,
+        "min_y": 168.0,
+        "max_y": 3232.0,
+        "min_z": -704.0,
+        "max_z": 528.0,
+        "span_x": 3168.0,
+        "span_y": 3064.0,
+        "span_z": 1232.0
+      },
+      "origin_bbox": {
+        "min_x": -688.0,
+        "max_x": 2106.0,
+        "min_y": 280.0,
+        "max_y": 3208.0,
+        "min_z": -668.0,
+        "max_z": 464.0,
+        "span_x": 2794.0,
+        "span_y": 2928.0,
+        "span_z": 1132.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e1m1.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        1,
+        1,
+        "quake-maps/e1m1.map"
+      ],
+      "format": "map",
+      "entity_count": 369,
+      "entity_categories": {
+        "light": 198,
+        "monster": 42,
+        "pickup": 37,
+        "other": 29,
+        "trigger": 26,
+        "door": 21,
+        "spawn": 9,
+        "switch": 6,
+        "teleport": 1
+      },
+      "top_classnames": {
+        "light": 190,
+        "monster_army": 34,
+        "func_door": 14,
+        "item_health": 14,
+        "path_corner": 14,
+        "trigger_once": 10,
+        "monster_dog": 8,
+        "func_door_secret": 7,
+        "trigger_multiple": 7,
+        "light_fluoro": 6,
+        "func_button": 6,
+        "trigger_secret": 6,
+        "info_player_deathmatch": 5,
+        "item_rockets": 4,
+        "item_shells": 4,
+        "ambient_comp_hum": 4
+      },
+      "geometry_bbox": {
+        "min_x": -728.0,
+        "max_x": 1520.0,
+        "min_y": -432.0,
+        "max_y": 3072.0,
+        "min_z": -608.0,
+        "max_z": 288.0,
+        "span_x": 2248.0,
+        "span_y": 3504.0,
+        "span_z": 896.0
+      },
+      "origin_bbox": {
+        "min_x": -576.0,
+        "max_x": 1496.0,
+        "min_y": -376.0,
+        "max_y": 3024.0,
+        "min_z": -528.0,
+        "max_z": 232.0,
+        "span_x": 2072.0,
+        "span_y": 3400.0,
+        "span_z": 760.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e1m2.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        1,
+        2,
+        "quake-maps/e1m2.map"
+      ],
+      "format": "map",
+      "entity_count": 555,
+      "entity_categories": {
+        "light": 279,
+        "other": 95,
+        "pickup": 59,
+        "monster": 45,
+        "door": 27,
+        "trigger": 25,
+        "spawn": 14,
+        "teleport": 7,
+        "switch": 4
+      },
+      "top_classnames": {
+        "light": 255,
+        "path_corner": 54,
+        "item_health": 26,
+        "func_door": 26,
+        "monster_army": 16,
+        "light_flame_small_yellow": 16,
+        "monster_ogre": 13,
+        "trigger_once": 13,
+        "item_shells": 11,
+        "info_player_deathmatch": 10,
+        "item_spikes": 10,
+        "ambient_drip": 10,
+        "light_torch_small_walltorch": 8,
+        "info_teleport_destination": 7,
+        "trigger_teleport": 7,
+        "monster_knight": 6
+      },
+      "geometry_bbox": {
+        "min_x": -912.0,
+        "max_x": 3120.0,
+        "min_y": -1808.0,
+        "max_y": 2416.0,
+        "min_z": -232.0,
+        "max_z": 1024.0,
+        "span_x": 4032.0,
+        "span_y": 4224.0,
+        "span_z": 1256.0
+      },
+      "origin_bbox": {
+        "min_x": -612.0,
+        "max_x": 2134.0,
+        "min_y": -1392.0,
+        "max_y": 1712.0,
+        "min_z": 68.0,
+        "max_z": 864.0,
+        "span_x": 2746.0,
+        "span_y": 3104.0,
+        "span_z": 796.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e1m3.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        1,
+        3,
+        "quake-maps/e1m3.map"
+      ],
+      "format": "map",
+      "entity_count": 579,
+      "entity_categories": {
+        "light": 227,
+        "other": 99,
+        "monster": 74,
+        "pickup": 70,
+        "door": 46,
+        "trigger": 41,
+        "spawn": 11,
+        "teleport": 7,
+        "switch": 4
+      },
+      "top_classnames": {
+        "light": 183,
+        "path_corner": 56,
+        "func_door": 41,
+        "monster_zombie": 40,
+        "item_health": 28,
+        "trigger_once": 27,
+        "light_torch_small_walltorch": 18,
+        "light_flame_small_yellow": 17,
+        "monster_ogre": 15,
+        "ambient_drip": 15,
+        "item_shells": 14,
+        "light_flame_large_yellow": 9,
+        "monster_demon1": 9,
+        "item_rockets": 9,
+        "item_spikes": 8,
+        "func_wall": 8
+      },
+      "geometry_bbox": {
+        "min_x": -2000.0,
+        "max_x": 2232.0,
+        "min_y": -2008.0,
+        "max_y": 1352.0,
+        "min_z": -816.0,
+        "max_z": 1016.0,
+        "span_x": 4232.0,
+        "span_y": 3360.0,
+        "span_z": 1832.0
+      },
+      "origin_bbox": {
+        "min_x": -1774.0,
+        "max_x": 1760.0,
+        "min_y": -1958.0,
+        "max_y": 1288.0,
+        "min_z": -464.0,
+        "max_z": 864.0,
+        "span_x": 3534.0,
+        "span_y": 3246.0,
+        "span_z": 1328.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e1m4.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        1,
+        4,
+        "quake-maps/e1m4.map"
+      ],
+      "format": "map",
+      "entity_count": 589,
+      "entity_categories": {
+        "light": 265,
+        "other": 86,
+        "monster": 64,
+        "pickup": 63,
+        "trigger": 51,
+        "door": 26,
+        "spawn": 12,
+        "switch": 11,
+        "teleport": 11
+      },
+      "top_classnames": {
+        "light": 225,
+        "path_corner": 38,
+        "ambient_drip": 29,
+        "func_door": 24,
+        "light_flame_small_yellow": 23,
+        "trigger_once": 23,
+        "monster_ogre": 23,
+        "monster_knight": 22,
+        "item_health": 21,
+        "monster_wizard": 16,
+        "item_spikes": 15,
+        "light_flame_large_yellow": 13,
+        "item_shells": 13,
+        "trigger_teleport": 12,
+        "func_button": 11,
+        "info_teleport_destination": 11
+      },
+      "geometry_bbox": {
+        "min_x": -800.0,
+        "max_x": 1856.0,
+        "min_y": -1216.0,
+        "max_y": 3328.0,
+        "min_z": -336.0,
+        "max_z": 1792.0,
+        "span_x": 2656.0,
+        "span_y": 4544.0,
+        "span_z": 2128.0
+      },
+      "origin_bbox": {
+        "min_x": -488.0,
+        "max_x": 1800.0,
+        "min_y": -1032.0,
+        "max_y": 2880.0,
+        "min_z": 320.0,
+        "max_z": 1656.0,
+        "span_x": 2288.0,
+        "span_y": 3912.0,
+        "span_z": 1336.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e1m5.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        1,
+        5,
+        "quake-maps/e1m5.map"
+      ],
+      "format": "map",
+      "entity_count": 536,
+      "entity_categories": {
+        "light": 212,
+        "other": 90,
+        "pickup": 79,
+        "monster": 61,
+        "trigger": 39,
+        "door": 23,
+        "spawn": 13,
+        "teleport": 13,
+        "switch": 6
+      },
+      "top_classnames": {
+        "light": 190,
+        "path_corner": 59,
+        "item_health": 38,
+        "monster_knight": 25,
+        "func_door": 21,
+        "light_flame_small_yellow": 17,
+        "trigger_teleport": 15,
+        "monster_ogre": 15,
+        "item_shells": 15,
+        "info_teleport_destination": 13,
+        "trigger_once": 10,
+        "monster_wizard": 10,
+        "item_spikes": 10,
+        "trap_spikeshooter": 9,
+        "monster_demon1": 9,
+        "info_player_deathmatch": 9
+      },
+      "geometry_bbox": {
+        "min_x": -2700.0,
+        "max_x": 1578.0,
+        "min_y": -1432.0,
+        "max_y": 2992.0,
+        "min_z": -396.0,
+        "max_z": 1032.0,
+        "span_x": 4278.0,
+        "span_y": 4424.0,
+        "span_z": 1428.0
+      },
+      "origin_bbox": {
+        "min_x": -1800.0,
+        "max_x": 1008.0,
+        "min_y": -64.0,
+        "max_y": 2664.0,
+        "min_z": -264.0,
+        "max_z": 772.0,
+        "span_x": 2808.0,
+        "span_y": 2728.0,
+        "span_z": 1036.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e1m6.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        1,
+        6,
+        "quake-maps/e1m6.map"
+      ],
+      "format": "map",
+      "entity_count": 464,
+      "entity_categories": {
+        "light": 193,
+        "other": 63,
+        "pickup": 52,
+        "door": 47,
+        "trigger": 42,
+        "monster": 34,
+        "spawn": 14,
+        "teleport": 11,
+        "switch": 8
+      },
+      "top_classnames": {
+        "light": 177,
+        "func_door": 47,
+        "info_null": 23,
+        "monster_ogre": 20,
+        "item_health": 20,
+        "trigger_once": 18,
+        "misc_fireball": 15,
+        "info_teleport_destination": 11,
+        "trigger_teleport": 11,
+        "info_player_deathmatch": 10,
+        "light_flame_small_yellow": 9,
+        "func_button": 8,
+        "item_spikes": 8,
+        "light_flame_small_white": 7,
+        "trap_spikeshooter": 7,
+        "path_corner": 6
+      },
+      "geometry_bbox": {
+        "min_x": -1120.0,
+        "max_x": 1376.0,
+        "min_y": -96.0,
+        "max_y": 2112.0,
+        "min_z": -576.0,
+        "max_z": 608.0,
+        "span_x": 2496.0,
+        "span_y": 2208.0,
+        "span_z": 1184.0
+      },
+      "origin_bbox": {
+        "min_x": -990.0,
+        "max_x": 1216.0,
+        "min_y": -24.0,
+        "max_y": 2016.0,
+        "min_z": -544.0,
+        "max_z": 480.0,
+        "span_x": 2206.0,
+        "span_y": 2040.0,
+        "span_z": 1024.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e1m7.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        1,
+        7,
+        "quake-maps/e1m7.map"
+      ],
+      "format": "map",
+      "entity_count": 194,
+      "entity_categories": {
+        "light": 76,
+        "pickup": 30,
+        "monster": 21,
+        "trigger": 19,
+        "other": 14,
+        "teleport": 12,
+        "spawn": 11,
+        "switch": 6,
+        "door": 5
+      },
+      "top_classnames": {
+        "light": 70,
+        "info_teleport_destination": 12,
+        "monster_shambler": 12,
+        "item_health": 11,
+        "trigger_teleport": 11,
+        "func_wall": 10,
+        "monster_zombie": 8,
+        "info_player_deathmatch": 7,
+        "func_button": 6,
+        "func_door": 5,
+        "trigger_once": 5,
+        "light_torch_small_walltorch": 4,
+        "item_shells": 4,
+        "item_spikes": 3,
+        "info_player_coop": 3,
+        "weapon_supershotgun": 2
+      },
+      "geometry_bbox": {
+        "min_x": -2704.0,
+        "max_x": 3128.0,
+        "min_y": -2352.0,
+        "max_y": 2608.0,
+        "min_z": -1160.0,
+        "max_z": 720.0,
+        "span_x": 5832.0,
+        "span_y": 4960.0,
+        "span_z": 1880.0
+      },
+      "origin_bbox": {
+        "min_x": -512.0,
+        "max_x": 1848.0,
+        "min_y": -376.0,
+        "max_y": 488.0,
+        "min_z": -1044.0,
+        "max_z": 472.0,
+        "span_x": 2360.0,
+        "span_y": 864.0,
+        "span_z": 1516.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e1m8.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        1,
+        8,
+        "quake-maps/e1m8.map"
+      ],
+      "format": "map",
+      "entity_count": 495,
+      "entity_categories": {
+        "light": 283,
+        "pickup": 74,
+        "other": 68,
+        "monster": 35,
+        "door": 11,
+        "spawn": 10,
+        "trigger": 7,
+        "teleport": 4,
+        "switch": 3
+      },
+      "top_classnames": {
+        "light": 283,
+        "item_health": 30,
+        "path_corner": 28,
+        "monster_ogre": 25,
+        "info_null": 25,
+        "item_spikes": 17,
+        "func_door": 10,
+        "item_shells": 7,
+        "monster_wizard": 7,
+        "info_player_deathmatch": 6,
+        "misc_fireball": 6,
+        "item_rockets": 4,
+        "trigger_teleport": 4,
+        "info_teleport_destination": 4,
+        "func_plat": 3,
+        "weapon_rocketlauncher": 3
+      },
+      "geometry_bbox": {
+        "min_x": -432.0,
+        "max_x": 3144.0,
+        "min_y": -2608.0,
+        "max_y": 2080.0,
+        "min_z": -1072.0,
+        "max_z": 1136.0,
+        "span_x": 3576.0,
+        "span_y": 4688.0,
+        "span_z": 2208.0
+      },
+      "origin_bbox": {
+        "min_x": 12.0,
+        "max_x": 1608.0,
+        "min_y": -1008.0,
+        "max_y": 984.0,
+        "min_z": -888.0,
+        "max_z": 556.0,
+        "span_x": 1596.0,
+        "span_y": 1992.0,
+        "span_z": 1444.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e2m1.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        2,
+        1,
+        "quake-maps/e2m1.map"
+      ],
+      "format": "map",
+      "entity_count": 478,
+      "entity_categories": {
+        "light": 216,
+        "pickup": 72,
+        "other": 62,
+        "monster": 48,
+        "door": 33,
+        "trigger": 26,
+        "spawn": 10,
+        "teleport": 6,
+        "switch": 5
+      },
+      "top_classnames": {
+        "light": 206,
+        "path_corner": 36,
+        "item_health": 27,
+        "func_door": 26,
+        "monster_enforcer": 26,
+        "monster_army": 14,
+        "item_shells": 12,
+        "trigger_once": 10,
+        "item_spikes": 9,
+        "monster_dog": 8,
+        "light_fluoro": 7,
+        "func_door_secret": 7,
+        "trigger_secret": 7,
+        "info_teleport_destination": 6,
+        "trigger_teleport": 6,
+        "item_rockets": 5
+      },
+      "geometry_bbox": {
+        "min_x": -384.0,
+        "max_x": 2432.0,
+        "min_y": -864.0,
+        "max_y": 2256.0,
+        "min_z": -736.0,
+        "max_z": 576.0,
+        "span_x": 2816.0,
+        "span_y": 3120.0,
+        "span_z": 1312.0
+      },
+      "origin_bbox": {
+        "min_x": -360.0,
+        "max_x": 2384.0,
+        "min_y": -808.0,
+        "max_y": 2168.0,
+        "min_z": -488.0,
+        "max_z": 408.0,
+        "span_x": 2744.0,
+        "span_y": 2976.0,
+        "span_z": 896.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e2m2.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        2,
+        2,
+        "quake-maps/e2m2.map"
+      ],
+      "format": "map",
+      "entity_count": 376,
+      "entity_categories": {
+        "light": 166,
+        "other": 56,
+        "pickup": 50,
+        "monster": 49,
+        "trigger": 20,
+        "door": 17,
+        "spawn": 11,
+        "switch": 5,
+        "teleport": 2
+      },
+      "top_classnames": {
+        "light": 156,
+        "path_corner": 36,
+        "monster_knight": 20,
+        "item_health": 16,
+        "func_door": 16,
+        "monster_ogre": 15,
+        "light_torch_small_walltorch": 10,
+        "item_shells": 8,
+        "trigger_multiple": 8,
+        "monster_zombie": 8,
+        "func_wall": 7,
+        "info_player_deathmatch": 6,
+        "item_rockets": 5,
+        "func_button": 5,
+        "monster_demon1": 5,
+        "trigger_once": 5
+      },
+      "geometry_bbox": {
+        "min_x": -1024.0,
+        "max_x": 2368.0,
+        "min_y": -2032.0,
+        "max_y": 1744.0,
+        "min_z": -376.0,
+        "max_z": 736.0,
+        "span_x": 3392.0,
+        "span_y": 3776.0,
+        "span_z": 1112.0
+      },
+      "origin_bbox": {
+        "min_x": -960.0,
+        "max_x": 2000.0,
+        "min_y": -2006.0,
+        "max_y": 1688.0,
+        "min_z": -312.0,
+        "max_z": 384.0,
+        "span_x": 2960.0,
+        "span_y": 3694.0,
+        "span_z": 696.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e2m3.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        2,
+        3,
+        "quake-maps/e2m3.map"
+      ],
+      "format": "map",
+      "entity_count": 542,
+      "entity_categories": {
+        "light": 306,
+        "pickup": 70,
+        "monster": 48,
+        "other": 46,
+        "door": 30,
+        "trigger": 23,
+        "spawn": 10,
+        "switch": 7,
+        "teleport": 2
+      },
+      "top_classnames": {
+        "light": 271,
+        "item_health": 29,
+        "func_door": 23,
+        "path_corner": 18,
+        "light_flame_large_yellow": 17,
+        "monster_hell_knight": 16,
+        "monster_ogre": 15,
+        "light_torch_small_walltorch": 12,
+        "trigger_multiple": 10,
+        "func_wall": 10,
+        "item_spikes": 8,
+        "item_rockets": 8,
+        "func_button": 7,
+        "func_door_secret": 7,
+        "monster_zombie": 7,
+        "trap_spikeshooter": 7
+      },
+      "geometry_bbox": {
+        "min_x": -1680.0,
+        "max_x": 1408.0,
+        "min_y": -1792.0,
+        "max_y": 2032.0,
+        "min_z": -400.0,
+        "max_z": 464.0,
+        "span_x": 3088.0,
+        "span_y": 3824.0,
+        "span_z": 864.0
+      },
+      "origin_bbox": {
+        "min_x": -1332.0,
+        "max_x": 1336.0,
+        "min_y": -1712.0,
+        "max_y": 2010.0,
+        "min_z": -384.0,
+        "max_z": 368.0,
+        "span_x": 2668.0,
+        "span_y": 3722.0,
+        "span_z": 752.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e2m4.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        2,
+        4,
+        "quake-maps/e2m4.map"
+      ],
+      "format": "map",
+      "entity_count": 598,
+      "entity_categories": {
+        "light": 307,
+        "pickup": 80,
+        "monster": 79,
+        "other": 55,
+        "trigger": 29,
+        "door": 20,
+        "spawn": 13,
+        "switch": 11,
+        "teleport": 4
+      },
+      "top_classnames": {
+        "light": 277,
+        "path_corner": 36,
+        "light_torch_small_walltorch": 30,
+        "item_health": 27,
+        "monster_ogre": 24,
+        "monster_wizard": 17,
+        "monster_zombie": 15,
+        "func_door": 14,
+        "monster_demon1": 13,
+        "func_button": 11,
+        "item_shells": 11,
+        "trigger_once": 9,
+        "item_rockets": 9,
+        "item_spikes": 9,
+        "monster_hell_knight": 8,
+        "trigger_teleport": 8
+      },
+      "geometry_bbox": {
+        "min_x": -1888.0,
+        "max_x": 2272.0,
+        "min_y": 72.0,
+        "max_y": 3088.0,
+        "min_z": -448.0,
+        "max_z": 1104.0,
+        "span_x": 4160.0,
+        "span_y": 3016.0,
+        "span_z": 1552.0
+      },
+      "origin_bbox": {
+        "min_x": -1552.0,
+        "max_x": 2234.0,
+        "min_y": 154.0,
+        "max_y": 3048.0,
+        "min_z": -192.0,
+        "max_z": 736.0,
+        "span_x": 3786.0,
+        "span_y": 2894.0,
+        "span_z": 928.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e2m5.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        2,
+        5,
+        "quake-maps/e2m5.map"
+      ],
+      "format": "map",
+      "entity_count": 608,
+      "entity_categories": {
+        "light": 351,
+        "pickup": 79,
+        "monster": 63,
+        "other": 54,
+        "door": 23,
+        "trigger": 18,
+        "spawn": 11,
+        "switch": 5,
+        "teleport": 4
+      },
+      "top_classnames": {
+        "light": 333,
+        "path_corner": 33,
+        "item_health": 29,
+        "monster_ogre": 24,
+        "func_door": 21,
+        "light_torch_small_walltorch": 18,
+        "monster_hell_knight": 18,
+        "item_shells": 12,
+        "item_spikes": 12,
+        "monster_wizard": 10,
+        "monster_demon1": 8,
+        "trigger_once": 7,
+        "func_wall": 7,
+        "info_player_deathmatch": 6,
+        "func_button": 5,
+        "info_intermission": 5
+      },
+      "geometry_bbox": {
+        "min_x": -1552.0,
+        "max_x": 1120.0,
+        "min_y": -1480.0,
+        "max_y": 3200.0,
+        "min_z": -736.0,
+        "max_z": 1056.0,
+        "span_x": 2672.0,
+        "span_y": 4680.0,
+        "span_z": 1792.0
+      },
+      "origin_bbox": {
+        "min_x": -1256.0,
+        "max_x": 1088.0,
+        "min_y": -1320.0,
+        "max_y": 3152.0,
+        "min_z": -624.0,
+        "max_z": 400.0,
+        "span_x": 2344.0,
+        "span_y": 4472.0,
+        "span_z": 1024.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e2m6.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        2,
+        6,
+        "quake-maps/e2m6.map"
+      ],
+      "format": "map",
+      "entity_count": 563,
+      "entity_categories": {
+        "light": 238,
+        "monster": 88,
+        "pickup": 79,
+        "other": 61,
+        "trigger": 37,
+        "door": 32,
+        "spawn": 11,
+        "teleport": 10,
+        "switch": 7
+      },
+      "top_classnames": {
+        "light": 153,
+        "light_torch_small_walltorch": 85,
+        "path_corner": 38,
+        "func_door": 28,
+        "monster_zombie": 27,
+        "item_health": 27,
+        "monster_demon1": 19,
+        "monster_ogre": 17,
+        "trigger_once": 16,
+        "monster_hell_knight": 14,
+        "item_spikes": 14,
+        "item_shells": 11,
+        "trigger_teleport": 10,
+        "info_teleport_destination": 10,
+        "item_rockets": 9,
+        "trigger_multiple": 7
+      },
+      "geometry_bbox": {
+        "min_x": -1104.0,
+        "max_x": 3264.0,
+        "min_y": -648.0,
+        "max_y": 1896.0,
+        "min_z": -1744.0,
+        "max_z": 0.0,
+        "span_x": 4368.0,
+        "span_y": 2544.0,
+        "span_z": 1744.0
+      },
+      "origin_bbox": {
+        "min_x": -1056.0,
+        "max_x": 3000.0,
+        "min_y": -520.0,
+        "max_y": 1856.0,
+        "min_z": -1384.0,
+        "max_z": -200.0,
+        "span_x": 4056.0,
+        "span_y": 2376.0,
+        "span_z": 1184.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e2m7.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        2,
+        7,
+        "quake-maps/e2m7.map"
+      ],
+      "format": "map",
+      "entity_count": 668,
+      "entity_categories": {
+        "light": 295,
+        "pickup": 100,
+        "other": 87,
+        "monster": 81,
+        "trigger": 55,
+        "door": 21,
+        "spawn": 16,
+        "switch": 11,
+        "teleport": 2
+      },
+      "top_classnames": {
+        "light": 250,
+        "path_corner": 44,
+        "light_torch_small_walltorch": 35,
+        "item_health": 34,
+        "trigger_once": 23,
+        "item_spikes": 22,
+        "trigger_multiple": 21,
+        "func_door": 20,
+        "item_shells": 20,
+        "monster_zombie": 20,
+        "trap_spikeshooter": 19,
+        "monster_ogre": 17,
+        "monster_hell_knight": 17,
+        "monster_wizard": 16,
+        "func_button": 11,
+        "monster_demon1": 11
+      },
+      "geometry_bbox": {
+        "min_x": -448.0,
+        "max_x": 3008.0,
+        "min_y": -1336.0,
+        "max_y": 2776.0,
+        "min_z": -2136.0,
+        "max_z": 2048.0,
+        "span_x": 3456.0,
+        "span_y": 4112.0,
+        "span_z": 4184.0
+      },
+      "origin_bbox": {
+        "min_x": -320.0,
+        "max_x": 2928.0,
+        "min_y": -1168.0,
+        "max_y": 2452.0,
+        "min_z": -508.0,
+        "max_z": 296.0,
+        "span_x": 3248.0,
+        "span_y": 3620.0,
+        "span_z": 804.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e2m10.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        2,
+        10,
+        "quake-maps/e2m10.map"
+      ],
+      "format": "map",
+      "entity_count": 222,
+      "entity_categories": {
+        "light": 141,
+        "pickup": 28,
+        "monster": 25,
+        "other": 14,
+        "spawn": 6,
+        "door": 3,
+        "trigger": 3,
+        "switch": 2
+      },
+      "top_classnames": {
+        "light": 111,
+        "light_torch_small_walltorch": 30,
+        "item_health": 10,
+        "monster_ogre": 7,
+        "path_corner": 6,
+        "item_rockets": 5,
+        "monster_zombie": 5,
+        "monster_demon1": 5,
+        "monster_wizard": 4,
+        "monster_hell_knight": 4,
+        "item_shells": 4,
+        "info_player_coop": 4,
+        "item_spikes": 3,
+        "func_door": 2,
+        "func_button": 2,
+        "item_artifact_super_damage": 2
+      },
+      "geometry_bbox": {
+        "min_x": -640.0,
+        "max_x": 1664.0,
+        "min_y": -1792.0,
+        "max_y": 192.0,
+        "min_z": -1280.0,
+        "max_z": -128.0,
+        "span_x": 2304.0,
+        "span_y": 1984.0,
+        "span_z": 1152.0
+      },
+      "origin_bbox": {
+        "min_x": -528.0,
+        "max_x": 1530.0,
+        "min_y": -1720.0,
+        "max_y": 128.0,
+        "min_z": -1184.0,
+        "max_z": -360.0,
+        "span_x": 2058.0,
+        "span_y": 1848.0,
+        "span_z": 824.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e3m1.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        3,
+        1,
+        "quake-maps/e3m1.map"
+      ],
+      "format": "map",
+      "entity_count": 534,
+      "entity_categories": {
+        "light": 264,
+        "other": 71,
+        "monster": 67,
+        "pickup": 62,
+        "trigger": 27,
+        "door": 23,
+        "spawn": 10,
+        "teleport": 5,
+        "switch": 5
+      },
+      "top_classnames": {
+        "light": 259,
+        "monster_army": 35,
+        "path_corner": 26,
+        "item_health": 23,
+        "monster_enforcer": 23,
+        "func_door": 18,
+        "item_shells": 12,
+        "trigger_once": 10,
+        "monster_dog": 9,
+        "func_wall": 9,
+        "func_plat": 8,
+        "ambient_comp_hum": 7,
+        "item_spikes": 6,
+        "trigger_multiple": 6,
+        "func_door_secret": 5,
+        "info_teleport_destination": 5
+      },
+      "geometry_bbox": {
+        "min_x": -872.0,
+        "max_x": 2576.0,
+        "min_y": -1488.0,
+        "max_y": 1296.0,
+        "min_z": -856.0,
+        "max_z": 320.0,
+        "span_x": 3448.0,
+        "span_y": 2784.0,
+        "span_z": 1176.0
+      },
+      "origin_bbox": {
+        "min_x": -760.0,
+        "max_x": 2520.0,
+        "min_y": -1400.0,
+        "max_y": 1216.0,
+        "min_z": -360.0,
+        "max_z": 200.0,
+        "span_x": 3280.0,
+        "span_y": 2616.0,
+        "span_z": 560.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e3m2.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        3,
+        2,
+        "quake-maps/e3m2.map"
+      ],
+      "format": "map",
+      "entity_count": 382,
+      "entity_categories": {
+        "light": 153,
+        "pickup": 53,
+        "monster": 49,
+        "door": 42,
+        "other": 32,
+        "trigger": 26,
+        "spawn": 9,
+        "teleport": 9,
+        "switch": 9
+      },
+      "top_classnames": {
+        "light": 136,
+        "func_door": 40,
+        "item_health": 22,
+        "monster_zombie": 20,
+        "light_torch_small_walltorch": 17,
+        "info_null": 17,
+        "monster_ogre": 16,
+        "trigger_teleport": 11,
+        "info_teleport_destination": 9,
+        "func_button": 9,
+        "path_corner": 8,
+        "item_rockets": 8,
+        "trigger_once": 7,
+        "item_spikes": 7,
+        "monster_demon1": 6,
+        "item_shells": 5
+      },
+      "geometry_bbox": {
+        "min_x": -992.0,
+        "max_x": 1928.0,
+        "min_y": -1632.0,
+        "max_y": 1224.0,
+        "min_z": -504.0,
+        "max_z": 464.0,
+        "span_x": 2920.0,
+        "span_y": 2856.0,
+        "span_z": 968.0
+      },
+      "origin_bbox": {
+        "min_x": -914.0,
+        "max_x": 1848.0,
+        "min_y": -1552.0,
+        "max_y": 1120.0,
+        "min_z": -352.0,
+        "max_z": 424.0,
+        "span_x": 2762.0,
+        "span_y": 2672.0,
+        "span_z": 776.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e3m3.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        3,
+        3,
+        "quake-maps/e3m3.map"
+      ],
+      "format": "map",
+      "entity_count": 424,
+      "entity_categories": {
+        "light": 173,
+        "pickup": 56,
+        "other": 54,
+        "monster": 49,
+        "trigger": 31,
+        "door": 24,
+        "teleport": 15,
+        "spawn": 12,
+        "switch": 10
+      },
+      "top_classnames": {
+        "light": 173,
+        "func_door": 24,
+        "item_health": 19,
+        "path_corner": 18,
+        "trigger_teleport": 17,
+        "monster_hell_knight": 15,
+        "info_teleport_destination": 15,
+        "trap_spikeshooter": 14,
+        "monster_ogre": 12,
+        "item_spikes": 12,
+        "info_null": 12,
+        "monster_zombie": 11,
+        "func_button": 10,
+        "monster_wizard": 9,
+        "trigger_once": 8,
+        "item_shells": 8
+      },
+      "geometry_bbox": {
+        "min_x": -1632.0,
+        "max_x": 1928.0,
+        "min_y": -1824.0,
+        "max_y": 760.0,
+        "min_z": -288.0,
+        "max_z": 616.0,
+        "span_x": 3560.0,
+        "span_y": 2584.0,
+        "span_z": 904.0
+      },
+      "origin_bbox": {
+        "min_x": -1512.0,
+        "max_x": 1832.0,
+        "min_y": -1624.0,
+        "max_y": 720.0,
+        "min_z": -256.0,
+        "max_z": 504.0,
+        "span_x": 3344.0,
+        "span_y": 2344.0,
+        "span_z": 760.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e3m4.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        3,
+        4,
+        "quake-maps/e3m4.map"
+      ],
+      "format": "map",
+      "entity_count": 844,
+      "entity_categories": {
+        "light": 439,
+        "other": 160,
+        "pickup": 64,
+        "trigger": 63,
+        "door": 46,
+        "monster": 43,
+        "spawn": 11,
+        "switch": 9,
+        "teleport": 9
+      },
+      "top_classnames": {
+        "light": 439,
+        "info_null": 98,
+        "func_door": 45,
+        "item_health": 32,
+        "path_corner": 28,
+        "monster_ogre": 26,
+        "trigger_once": 19,
+        "ambient_drip": 16,
+        "trigger_multiple": 14,
+        "trigger_teleport": 12,
+        "func_button": 9,
+        "trigger_monsterjump": 9,
+        "info_teleport_destination": 9,
+        "item_spikes": 9,
+        "func_wall": 8,
+        "monster_zombie": 7
+      },
+      "geometry_bbox": {
+        "min_x": -2464.0,
+        "max_x": 2640.0,
+        "min_y": -2400.0,
+        "max_y": 2744.0,
+        "min_z": -1096.0,
+        "max_z": 1072.0,
+        "span_x": 5104.0,
+        "span_y": 5144.0,
+        "span_z": 2168.0
+      },
+      "origin_bbox": {
+        "min_x": -976.0,
+        "max_x": 2568.0,
+        "min_y": -2132.0,
+        "max_y": 504.0,
+        "min_z": -1004.0,
+        "max_z": 536.0,
+        "span_x": 3544.0,
+        "span_y": 2636.0,
+        "span_z": 1540.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e3m5.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        3,
+        5,
+        "quake-maps/e3m5.map"
+      ],
+      "format": "map",
+      "entity_count": 695,
+      "entity_categories": {
+        "light": 377,
+        "pickup": 104,
+        "other": 91,
+        "monster": 52,
+        "trigger": 41,
+        "door": 12,
+        "spawn": 9,
+        "teleport": 6,
+        "switch": 3
+      },
+      "top_classnames": {
+        "light": 371,
+        "item_health": 46,
+        "item_spikes": 23,
+        "info_null": 22,
+        "ambient_drip": 21,
+        "monster_wizard": 20,
+        "path_corner": 18,
+        "trigger_push": 16,
+        "ambient_suck_wind": 13,
+        "monster_demon1": 12,
+        "func_door": 11,
+        "monster_ogre": 11,
+        "trigger_once": 9,
+        "trap_spikeshooter": 9,
+        "item_shells": 9,
+        "trigger_teleport": 8
+      },
+      "geometry_bbox": {
+        "min_x": -3864.0,
+        "max_x": 3128.0,
+        "min_y": -3520.0,
+        "max_y": 600.0,
+        "min_z": -2560.0,
+        "max_z": 2912.0,
+        "span_x": 6992.0,
+        "span_y": 4120.0,
+        "span_z": 5472.0
+      },
+      "origin_bbox": {
+        "min_x": -944.0,
+        "max_x": 2224.0,
+        "min_y": -3272.0,
+        "max_y": -448.0,
+        "min_z": -1312.0,
+        "max_z": 1792.0,
+        "span_x": 3168.0,
+        "span_y": 2824.0,
+        "span_z": 3104.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e3m6.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        3,
+        6,
+        "quake-maps/e3m6.map"
+      ],
+      "format": "map",
+      "entity_count": 861,
+      "entity_categories": {
+        "light": 476,
+        "other": 129,
+        "pickup": 97,
+        "monster": 78,
+        "trigger": 33,
+        "door": 17,
+        "spawn": 15,
+        "switch": 8,
+        "teleport": 8
+      },
+      "top_classnames": {
+        "light": 462,
+        "info_null": 58,
+        "path_corner": 46,
+        "item_health": 34,
+        "monster_ogre": 23,
+        "monster_hell_knight": 19,
+        "monster_wizard": 19,
+        "trigger_once": 18,
+        "item_shells": 18,
+        "func_door": 17,
+        "item_spikes": 17,
+        "trap_spikeshooter": 16,
+        "info_player_deathmatch": 10,
+        "monster_shalrath": 9,
+        "trigger_teleport": 9,
+        "light_flame_large_yellow": 8
+      },
+      "geometry_bbox": {
+        "min_x": -2304.0,
+        "max_x": 3450.0,
+        "min_y": -4842.0,
+        "max_y": 256.0,
+        "min_z": -304.0,
+        "max_z": 1000.0,
+        "span_x": 5754.0,
+        "span_y": 5098.0,
+        "span_z": 1304.0
+      },
+      "origin_bbox": {
+        "min_x": -2040.0,
+        "max_x": 1396.0,
+        "min_y": -3920.0,
+        "max_y": 128.0,
+        "min_z": -232.0,
+        "max_z": 552.0,
+        "span_x": 3436.0,
+        "span_y": 4048.0,
+        "span_z": 784.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e3m7.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        3,
+        7,
+        "quake-maps/e3m7.map"
+      ],
+      "format": "map",
+      "entity_count": 429,
+      "entity_categories": {
+        "light": 214,
+        "monster": 45,
+        "pickup": 44,
+        "trigger": 44,
+        "other": 28,
+        "door": 22,
+        "teleport": 12,
+        "spawn": 11,
+        "switch": 9
+      },
+      "top_classnames": {
+        "light": 193,
+        "light_torch_small_walltorch": 21,
+        "func_door": 21,
+        "monster_ogre": 20,
+        "item_health": 18,
+        "trigger_teleport": 13,
+        "info_teleport_destination": 12,
+        "monster_zombie": 11,
+        "func_button": 9,
+        "trigger_multiple": 9,
+        "trigger_once": 8,
+        "trap_spikeshooter": 8,
+        "func_plat": 6,
+        "info_player_deathmatch": 6,
+        "info_null": 6,
+        "item_spikes": 5
+      },
+      "geometry_bbox": {
+        "min_x": -1536.0,
+        "max_x": 704.0,
+        "min_y": -1152.0,
+        "max_y": 1928.0,
+        "min_z": -600.0,
+        "max_z": 448.0,
+        "span_x": 2240.0,
+        "span_y": 3080.0,
+        "span_z": 1048.0
+      },
+      "origin_bbox": {
+        "min_x": -1408.0,
+        "max_x": 576.0,
+        "min_y": -1048.0,
+        "max_y": 1808.0,
+        "min_z": -528.0,
+        "max_z": 368.0,
+        "span_x": 1984.0,
+        "span_y": 2856.0,
+        "span_z": 896.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e4m1.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        4,
+        1,
+        "quake-maps/e4m1.map"
+      ],
+      "format": "map",
+      "entity_count": 520,
+      "entity_categories": {
+        "light": 243,
+        "other": 77,
+        "pickup": 76,
+        "monster": 61,
+        "trigger": 28,
+        "door": 17,
+        "spawn": 11,
+        "switch": 4,
+        "teleport": 3
+      },
+      "top_classnames": {
+        "light": 222,
+        "path_corner": 50,
+        "item_health": 39,
+        "monster_army": 35,
+        "monster_enforcer": 21,
+        "light_fluoro": 17,
+        "func_door": 15,
+        "trigger_once": 13,
+        "item_spikes": 10,
+        "ambient_comp_hum": 8,
+        "info_player_deathmatch": 7,
+        "item_shells": 6,
+        "trigger_teleport": 6,
+        "func_wall": 6,
+        "monster_dog": 5,
+        "func_button": 4
+      },
+      "geometry_bbox": {
+        "min_x": 376.0,
+        "max_x": 2688.0,
+        "min_y": -1040.0,
+        "max_y": 2144.0,
+        "min_z": -2376.0,
+        "max_z": 2120.0,
+        "span_x": 2312.0,
+        "span_y": 3184.0,
+        "span_z": 4496.0
+      },
+      "origin_bbox": {
+        "min_x": 600.0,
+        "max_x": 2532.0,
+        "min_y": -992.0,
+        "max_y": 2080.0,
+        "min_z": -432.0,
+        "max_z": 824.0,
+        "span_x": 1932.0,
+        "span_y": 3072.0,
+        "span_z": 1256.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e4m2.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        4,
+        2,
+        "quake-maps/e4m2.map"
+      ],
+      "format": "map",
+      "entity_count": 343,
+      "entity_categories": {
+        "light": 110,
+        "pickup": 64,
+        "other": 43,
+        "monster": 43,
+        "trigger": 28,
+        "door": 27,
+        "spawn": 15,
+        "teleport": 7,
+        "switch": 6
+      },
+      "top_classnames": {
+        "light": 70,
+        "light_flame_large_yellow": 38,
+        "path_corner": 26,
+        "func_door": 22,
+        "monster_knight": 19,
+        "item_health": 19,
+        "monster_ogre": 13,
+        "info_player_deathmatch": 11,
+        "item_shells": 9,
+        "trigger_once": 9,
+        "item_spikes": 8,
+        "trigger_teleport": 8,
+        "info_teleport_destination": 7,
+        "func_button": 6,
+        "monster_hell_knight": 6,
+        "func_door_secret": 5
+      },
+      "geometry_bbox": {
+        "min_x": -1760.0,
+        "max_x": 912.0,
+        "min_y": -3024.0,
+        "max_y": 1528.0,
+        "min_z": 40.0,
+        "max_z": 1296.0,
+        "span_x": 2672.0,
+        "span_y": 4552.0,
+        "span_z": 1256.0
+      },
+      "origin_bbox": {
+        "min_x": -1632.0,
+        "max_x": 882.0,
+        "min_y": -2998.0,
+        "max_y": 930.0,
+        "min_z": 200.0,
+        "max_z": 1272.0,
+        "span_x": 2514.0,
+        "span_y": 3928.0,
+        "span_z": 1072.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e4m3.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        4,
+        3,
+        "quake-maps/e4m3.map"
+      ],
+      "format": "map",
+      "entity_count": 537,
+      "entity_categories": {
+        "light": 160,
+        "monster": 115,
+        "pickup": 89,
+        "trigger": 63,
+        "other": 44,
+        "door": 35,
+        "teleport": 19,
+        "spawn": 8,
+        "switch": 4
+      },
+      "top_classnames": {
+        "light": 158,
+        "monster_zombie": 49,
+        "func_door": 35,
+        "trigger_once": 28,
+        "item_health": 24,
+        "trigger_teleport": 22,
+        "info_teleport_destination": 19,
+        "monster_wizard": 18,
+        "monster_knight": 18,
+        "item_spikes": 16,
+        "monster_demon1": 15,
+        "func_illusionary": 15,
+        "item_shells": 11,
+        "path_corner": 10,
+        "monster_ogre": 10,
+        "item_rockets": 8
+      },
+      "geometry_bbox": {
+        "min_x": -2304.0,
+        "max_x": 3056.0,
+        "min_y": -1696.0,
+        "max_y": 2080.0,
+        "min_z": -264.0,
+        "max_z": 480.0,
+        "span_x": 5360.0,
+        "span_y": 3776.0,
+        "span_z": 744.0
+      },
+      "origin_bbox": {
+        "min_x": -1824.0,
+        "max_x": 2880.0,
+        "min_y": -1648.0,
+        "max_y": 2016.0,
+        "min_z": -240.0,
+        "max_z": 280.0,
+        "span_x": 4704.0,
+        "span_y": 3664.0,
+        "span_z": 520.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e4m4.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        4,
+        4,
+        "quake-maps/e4m4.map"
+      ],
+      "format": "map",
+      "entity_count": 581,
+      "entity_categories": {
+        "light": 227,
+        "pickup": 111,
+        "other": 95,
+        "monster": 81,
+        "trigger": 34,
+        "door": 17,
+        "spawn": 11,
+        "teleport": 4,
+        "switch": 1
+      },
+      "top_classnames": {
+        "light": 177,
+        "path_corner": 77,
+        "light_torch_small_walltorch": 31,
+        "monster_demon1": 31,
+        "item_health": 28,
+        "item_spikes": 22,
+        "item_shells": 19,
+        "func_door": 16,
+        "monster_knight": 15,
+        "monster_wizard": 14,
+        "light_flame_large_yellow": 11,
+        "monster_fish": 9,
+        "trigger_once": 9,
+        "light_flame_small_yellow": 8,
+        "trigger_teleport": 7,
+        "monster_hell_knight": 7
+      },
+      "geometry_bbox": {
+        "min_x": -2200.0,
+        "max_x": 1656.0,
+        "min_y": -1928.0,
+        "max_y": 2544.0,
+        "min_z": -384.0,
+        "max_z": 480.0,
+        "span_x": 3856.0,
+        "span_y": 4472.0,
+        "span_z": 864.0
+      },
+      "origin_bbox": {
+        "min_x": -2080.0,
+        "max_x": 1578.0,
+        "min_y": -1880.0,
+        "max_y": 2482.0,
+        "min_z": -256.0,
+        "max_z": 400.0,
+        "span_x": 3658.0,
+        "span_y": 4362.0,
+        "span_z": 656.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e4m5.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        4,
+        5,
+        "quake-maps/e4m5.map"
+      ],
+      "format": "map",
+      "entity_count": 556,
+      "entity_categories": {
+        "light": 190,
+        "pickup": 105,
+        "monster": 94,
+        "other": 51,
+        "trigger": 44,
+        "door": 38,
+        "teleport": 15,
+        "spawn": 11,
+        "switch": 8
+      },
+      "top_classnames": {
+        "light": 142,
+        "light_flame_large_yellow": 48,
+        "monster_zombie": 41,
+        "func_door": 37,
+        "item_health": 23,
+        "path_corner": 22,
+        "trigger_teleport": 18,
+        "item_spikes": 17,
+        "monster_tarbaby": 16,
+        "info_teleport_destination": 15,
+        "monster_demon1": 14,
+        "monster_hell_knight": 14,
+        "item_cells": 14,
+        "item_rockets": 12,
+        "trigger_once": 9,
+        "func_button": 8
+      },
+      "geometry_bbox": {
+        "min_x": -3200.0,
+        "max_x": 2728.0,
+        "min_y": -3200.0,
+        "max_y": 2704.0,
+        "min_z": -464.0,
+        "max_z": 456.0,
+        "span_x": 5928.0,
+        "span_y": 5904.0,
+        "span_z": 920.0
+      },
+      "origin_bbox": {
+        "min_x": -3160.0,
+        "max_x": 2632.0,
+        "min_y": -2976.0,
+        "max_y": 2216.0,
+        "min_z": -448.0,
+        "max_z": 280.0,
+        "span_x": 5792.0,
+        "span_y": 5192.0,
+        "span_z": 728.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e4m6.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        4,
+        6,
+        "quake-maps/e4m6.map"
+      ],
+      "format": "map",
+      "entity_count": 541,
+      "entity_categories": {
+        "light": 204,
+        "pickup": 93,
+        "monster": 81,
+        "other": 52,
+        "trigger": 48,
+        "door": 28,
+        "spawn": 15,
+        "teleport": 13,
+        "switch": 7
+      },
+      "top_classnames": {
+        "light": 158,
+        "monster_tarbaby": 49,
+        "light_torch_small_walltorch": 46,
+        "func_door": 24,
+        "path_corner": 23,
+        "item_health": 19,
+        "trigger_teleport": 18,
+        "info_teleport_destination": 13,
+        "trigger_once": 13,
+        "item_cells": 13,
+        "item_spikes": 12,
+        "monster_hell_knight": 12,
+        "info_player_deathmatch": 11,
+        "item_rockets": 11,
+        "item_shells": 10,
+        "monster_shalrath": 9
+      },
+      "geometry_bbox": {
+        "min_x": -1200.0,
+        "max_x": 2528.0,
+        "min_y": -2256.0,
+        "max_y": 2008.0,
+        "min_z": -312.0,
+        "max_z": 1280.0,
+        "span_x": 3728.0,
+        "span_y": 4264.0,
+        "span_z": 1592.0
+      },
+      "origin_bbox": {
+        "min_x": -1024.0,
+        "max_x": 2472.0,
+        "min_y": -2192.0,
+        "max_y": 1978.0,
+        "min_z": -208.0,
+        "max_z": 434.0,
+        "span_x": 3496.0,
+        "span_y": 4170.0,
+        "span_z": 642.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e4m7.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        4,
+        7,
+        "quake-maps/e4m7.map"
+      ],
+      "format": "map",
+      "entity_count": 517,
+      "entity_categories": {
+        "light": 141,
+        "pickup": 99,
+        "monster": 80,
+        "other": 65,
+        "trigger": 59,
+        "door": 44,
+        "spawn": 11,
+        "teleport": 11,
+        "switch": 7
+      },
+      "top_classnames": {
+        "light": 139,
+        "path_corner": 43,
+        "func_door": 42,
+        "monster_tarbaby": 25,
+        "item_health": 22,
+        "trigger_monsterjump": 18,
+        "item_spikes": 17,
+        "monster_zombie": 14,
+        "item_rockets": 13,
+        "trigger_teleport": 12,
+        "monster_hell_knight": 12,
+        "info_teleport_destination": 11,
+        "item_cells": 11,
+        "trigger_once": 10,
+        "monster_shalrath": 10,
+        "trigger_secret": 9
+      },
+      "geometry_bbox": {
+        "min_x": -2840.0,
+        "max_x": 1628.0,
+        "min_y": -2896.0,
+        "max_y": 1488.0,
+        "min_z": -368.0,
+        "max_z": 704.0,
+        "span_x": 4468.0,
+        "span_y": 4384.0,
+        "span_z": 1072.0
+      },
+      "origin_bbox": {
+        "min_x": -2680.0,
+        "max_x": 1456.0,
+        "min_y": -2736.0,
+        "max_y": 1408.0,
+        "min_z": -304.0,
+        "max_z": 360.0,
+        "span_x": 4136.0,
+        "span_y": 4144.0,
+        "span_z": 664.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/e4m8.map",
+      "playable_level": true,
+      "sequence_key": [
+        1,
+        4,
+        8,
+        "quake-maps/e4m8.map"
+      ],
+      "format": "map",
+      "entity_count": 450,
+      "entity_categories": {
+        "light": 136,
+        "pickup": 98,
+        "monster": 89,
+        "other": 45,
+        "trigger": 37,
+        "door": 20,
+        "spawn": 11,
+        "switch": 10,
+        "teleport": 4
+      },
+      "top_classnames": {
+        "light": 130,
+        "monster_zombie": 45,
+        "item_health": 29,
+        "trigger_once": 20,
+        "monster_demon1": 19,
+        "item_cells": 18,
+        "path_corner": 17,
+        "func_door": 17,
+        "func_plat": 11,
+        "monster_ogre": 11,
+        "func_button": 10,
+        "item_shells": 8,
+        "item_rockets": 8,
+        "monster_hell_knight": 8,
+        "info_player_deathmatch": 7,
+        "item_spikes": 7
+      },
+      "geometry_bbox": {
+        "min_x": -760.0,
+        "max_x": 3456.0,
+        "min_y": -2384.0,
+        "max_y": 1992.0,
+        "min_z": -1000.0,
+        "max_z": 576.0,
+        "span_x": 4216.0,
+        "span_y": 4376.0,
+        "span_z": 1576.0
+      },
+      "origin_bbox": {
+        "min_x": -592.0,
+        "max_x": 3032.0,
+        "min_y": -2304.0,
+        "max_y": 1952.0,
+        "min_z": -912.0,
+        "max_z": 472.0,
+        "span_x": 3624.0,
+        "span_y": 4256.0,
+        "span_z": 1384.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/dm1.map",
+      "playable_level": true,
+      "sequence_key": [
+        2,
+        1,
+        0,
+        "quake-maps/dm1.map"
+      ],
+      "format": "map",
+      "entity_count": 133,
+      "entity_categories": {
+        "light": 88,
+        "pickup": 25,
+        "spawn": 8,
+        "door": 4,
+        "other": 3,
+        "trigger": 2,
+        "switch": 2,
+        "teleport": 1
+      },
+      "top_classnames": {
+        "light": 57,
+        "light_torch_small_walltorch": 21,
+        "item_health": 11,
+        "light_flame_large_yellow": 10,
+        "info_player_deathmatch": 7,
+        "item_shells": 4,
+        "item_spikes": 3,
+        "func_door": 3,
+        "info_intermission": 2,
+        "weapon_nailgun": 2,
+        "func_button": 2,
+        "worldspawn": 1,
+        "trigger_changelevel": 1,
+        "weapon_grenadelauncher": 1,
+        "item_armor2": 1,
+        "item_armor1": 1
+      },
+      "geometry_bbox": {
+        "min_x": -1096.0,
+        "max_x": 1216.0,
+        "min_y": 32.0,
+        "max_y": 1728.0,
+        "min_z": -408.0,
+        "max_z": 416.0,
+        "span_x": 2312.0,
+        "span_y": 1696.0,
+        "span_z": 824.0
+      },
+      "origin_bbox": {
+        "min_x": -694.0,
+        "max_x": 1146.0,
+        "min_y": 542.0,
+        "max_y": 1658.0,
+        "min_z": -144.0,
+        "max_z": 296.0,
+        "span_x": 1840.0,
+        "span_y": 1116.0,
+        "span_z": 440.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/dm2.map",
+      "playable_level": true,
+      "sequence_key": [
+        2,
+        2,
+        0,
+        "quake-maps/dm2.map"
+      ],
+      "format": "map",
+      "entity_count": 271,
+      "entity_categories": {
+        "light": 175,
+        "pickup": 30,
+        "other": 22,
+        "door": 15,
+        "spawn": 11,
+        "switch": 9,
+        "trigger": 6,
+        "teleport": 3
+      },
+      "top_classnames": {
+        "light": 175,
+        "func_door": 15,
+        "item_health": 12,
+        "func_button": 9,
+        "info_player_deathmatch": 9,
+        "info_null": 8,
+        "path_corner": 6,
+        "trigger_teleport": 4,
+        "item_rockets": 4,
+        "info_teleport_destination": 3,
+        "func_train": 3,
+        "item_armor2": 3,
+        "item_spikes": 3,
+        "info_player_start": 2,
+        "weapon_rocketlauncher": 2,
+        "item_armorInv": 2
+      },
+      "geometry_bbox": {
+        "min_x": -2160.0,
+        "max_x": 3104.0,
+        "min_y": -3912.0,
+        "max_y": 1312.0,
+        "min_z": -208.0,
+        "max_z": 784.0,
+        "span_x": 5264.0,
+        "span_y": 5224.0,
+        "span_z": 992.0
+      },
+      "origin_bbox": {
+        "min_x": 1184.0,
+        "max_x": 2944.0,
+        "min_y": -2528.0,
+        "max_y": 288.0,
+        "min_z": -160.0,
+        "max_z": 568.0,
+        "span_x": 1760.0,
+        "span_y": 2816.0,
+        "span_z": 728.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/dm3.map",
+      "playable_level": true,
+      "sequence_key": [
+        2,
+        3,
+        0,
+        "quake-maps/dm3.map"
+      ],
+      "format": "map",
+      "entity_count": 211,
+      "entity_categories": {
+        "light": 134,
+        "pickup": 51,
+        "other": 14,
+        "spawn": 7,
+        "trigger": 3,
+        "teleport": 2
+      },
+      "top_classnames": {
+        "light": 102,
+        "light_fluoro": 32,
+        "item_spikes": 11,
+        "item_health": 10,
+        "item_shells": 9,
+        "item_rockets": 7,
+        "info_player_deathmatch": 6,
+        "ambient_comp_hum": 6,
+        "info_intermission": 4,
+        "func_plat": 3,
+        "item_cells": 3,
+        "trigger_teleport": 2,
+        "info_teleport_destination": 2,
+        "worldspawn": 1,
+        "info_player_start": 1,
+        "weapon_rocketlauncher": 1
+      },
+      "geometry_bbox": {
+        "min_x": -1056.0,
+        "max_x": 2080.0,
+        "min_y": -1344.0,
+        "max_y": 1152.0,
+        "min_z": -448.0,
+        "max_z": 512.0,
+        "span_x": 3136.0,
+        "span_y": 2496.0,
+        "span_z": 960.0
+      },
+      "origin_bbox": {
+        "min_x": -952.0,
+        "max_x": 1992.0,
+        "min_y": -928.0,
+        "max_y": 1032.0,
+        "min_z": -416.0,
+        "max_z": 472.0,
+        "span_x": 2944.0,
+        "span_y": 1960.0,
+        "span_z": 888.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "teleport_recontextualization",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/dm4.map",
+      "playable_level": true,
+      "sequence_key": [
+        2,
+        4,
+        0,
+        "quake-maps/dm4.map"
+      ],
+      "format": "map",
+      "entity_count": 135,
+      "entity_categories": {
+        "light": 78,
+        "pickup": 37,
+        "spawn": 7,
+        "trigger": 6,
+        "teleport": 5,
+        "other": 2
+      },
+      "top_classnames": {
+        "light": 78,
+        "item_health": 10,
+        "info_player_deathmatch": 6,
+        "trigger_teleport": 5,
+        "info_teleport_destination": 5,
+        "item_spikes": 5,
+        "item_rockets": 4,
+        "item_shells": 3,
+        "item_cells": 3,
+        "item_armor1": 2,
+        "weapon_rocketlauncher": 2,
+        "worldspawn": 1,
+        "info_player_start": 1,
+        "item_armor2": 1,
+        "item_armorInv": 1,
+        "weapon_supernailgun": 1
+      },
+      "geometry_bbox": {
+        "min_x": -1248.0,
+        "max_x": 2272.0,
+        "min_y": -3144.0,
+        "max_y": 1336.0,
+        "min_z": -592.0,
+        "max_z": 816.0,
+        "span_x": 3520.0,
+        "span_y": 4480.0,
+        "span_z": 1408.0
+      },
+      "origin_bbox": {
+        "min_x": -240.0,
+        "max_x": 1152.0,
+        "min_y": -1192.0,
+        "max_y": 584.0,
+        "min_z": -376.0,
+        "max_z": 208.0,
+        "span_x": 1392.0,
+        "span_y": 1776.0,
+        "span_z": 584.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "teleport_recontextualization",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/dm5.map",
+      "playable_level": true,
+      "sequence_key": [
+        2,
+        5,
+        0,
+        "quake-maps/dm5.map"
+      ],
+      "format": "map",
+      "entity_count": 141,
+      "entity_categories": {
+        "light": 90,
+        "pickup": 32,
+        "spawn": 7,
+        "trigger": 4,
+        "other": 3,
+        "teleport": 2,
+        "door": 2,
+        "switch": 1
+      },
+      "top_classnames": {
+        "light": 68,
+        "light_torch_small_walltorch": 20,
+        "item_weapon": 10,
+        "item_health": 9,
+        "info_player_deathmatch": 6,
+        "item_cells": 3,
+        "light_flame_small_yellow": 2,
+        "info_teleport_destination": 2,
+        "trigger_teleport": 2,
+        "func_door": 2,
+        "item_spikes": 2,
+        "info_intermission": 2,
+        "worldspawn": 1,
+        "info_player_start": 1,
+        "func_button": 1,
+        "item_rockets": 1
+      },
+      "geometry_bbox": {
+        "min_x": -224.0,
+        "max_x": 1912.0,
+        "min_y": -1744.0,
+        "max_y": 1136.0,
+        "min_z": -160.0,
+        "max_z": 416.0,
+        "span_x": 2136.0,
+        "span_y": 2880.0,
+        "span_z": 576.0
+      },
+      "origin_bbox": {
+        "min_x": -176.0,
+        "max_x": 1146.0,
+        "min_y": -890.0,
+        "max_y": 1032.0,
+        "min_z": -136.0,
+        "max_z": 376.0,
+        "span_x": 1322.0,
+        "span_y": 1922.0,
+        "span_z": 512.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/dm6.map",
+      "playable_level": true,
+      "sequence_key": [
+        2,
+        6,
+        0,
+        "quake-maps/dm6.map"
+      ],
+      "format": "map",
+      "entity_count": 141,
+      "entity_categories": {
+        "light": 87,
+        "pickup": 35,
+        "spawn": 8,
+        "trigger": 5,
+        "teleport": 3,
+        "other": 2,
+        "door": 1
+      },
+      "top_classnames": {
+        "light": 72,
+        "light_torch_small_walltorch": 14,
+        "item_health": 12,
+        "info_player_deathmatch": 7,
+        "item_weapon": 7,
+        "trigger_teleport": 4,
+        "item_cells": 4,
+        "info_teleport_destination": 3,
+        "weapon_rocketlauncher": 2,
+        "worldspawn": 1,
+        "info_player_start": 1,
+        "light_flame_small_yellow": 1,
+        "weapon_nailgun": 1,
+        "weapon_grenadelauncher": 1,
+        "weapon_supernailgun": 1,
+        "weapon_supershotgun": 1
+      },
+      "geometry_bbox": {
+        "min_x": -48.0,
+        "max_x": 2256.0,
+        "min_y": -2200.0,
+        "max_y": -104.0,
+        "min_z": -2120.0,
+        "max_z": 1976.0,
+        "span_x": 2304.0,
+        "span_y": 2096.0,
+        "span_z": 4096.0
+      },
+      "origin_bbox": {
+        "min_x": 0.0,
+        "max_x": 1892.0,
+        "min_y": -2054.0,
+        "max_y": -160.0,
+        "min_z": -296.0,
+        "max_z": 480.0,
+        "span_x": 1892.0,
+        "span_y": 1894.0,
+        "span_z": 776.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/dm7.map",
+      "playable_level": true,
+      "sequence_key": [
+        2,
+        7,
+        0,
+        "quake-maps/dm7.map"
+      ],
+      "format": "map",
+      "entity_count": 159,
+      "entity_categories": {
+        "light": 102,
+        "pickup": 33,
+        "other": 13,
+        "trigger": 6,
+        "spawn": 5
+      },
+      "top_classnames": {
+        "light": 102,
+        "item_health": 12,
+        "info_null": 10,
+        "trigger_push": 6,
+        "info_player_deathmatch": 4,
+        "weapon_supershotgun": 3,
+        "item_rockets": 3,
+        "weapon_nailgun": 2,
+        "item_shells": 2,
+        "item_spikes": 2,
+        "worldspawn": 1,
+        "info_player_start": 1,
+        "func_plat": 1,
+        "item_artifact_super_damage": 1,
+        "weapon_rocketlauncher": 1,
+        "weapon_supernailgun": 1
+      },
+      "geometry_bbox": {
+        "min_x": -1144.0,
+        "max_x": 2464.0,
+        "min_y": -2112.0,
+        "max_y": 768.0,
+        "min_z": -576.0,
+        "max_z": 848.0,
+        "span_x": 3608.0,
+        "span_y": 2880.0,
+        "span_z": 1424.0
+      },
+      "origin_bbox": {
+        "min_x": -152.0,
+        "max_x": 1408.0,
+        "min_y": -1272.0,
+        "max_y": -8.0,
+        "min_z": -368.0,
+        "max_z": 736.0,
+        "span_x": 1560.0,
+        "span_y": 1264.0,
+        "span_z": 1104.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/dm8.map",
+      "playable_level": true,
+      "sequence_key": [
+        2,
+        8,
+        0,
+        "quake-maps/dm8.map"
+      ],
+      "format": "map",
+      "entity_count": 8,
+      "entity_categories": {
+        "light": 6,
+        "other": 1,
+        "spawn": 1
+      },
+      "top_classnames": {
+        "light": 6,
+        "worldspawn": 1,
+        "info_player_start": 1
+      },
+      "geometry_bbox": {
+        "min_x": -768.0,
+        "max_x": -80.0,
+        "min_y": -32.0,
+        "max_y": 576.0,
+        "min_z": -64.0,
+        "max_z": 160.0,
+        "span_x": 688.0,
+        "span_y": 608.0,
+        "span_z": 224.0
+      },
+      "origin_bbox": {
+        "min_x": -720.0,
+        "max_x": -192.0,
+        "min_y": 64.0,
+        "max_y": 312.0,
+        "min_z": 24.0,
+        "max_z": 344.0,
+        "span_x": 528.0,
+        "span_y": 248.0,
+        "span_z": 320.0
+      },
+      "route_features": [
+        "entity_vertical_pressure"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_armor1.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_armor1.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 32.0,
+        "min_y": 0.0,
+        "max_y": 32.0,
+        "min_z": 0.0,
+        "max_z": 80.0,
+        "span_x": 32.0,
+        "span_y": 32.0,
+        "span_z": 80.0
+      },
+      "origin_bbox": {
+        "min_x": -40.0,
+        "max_x": 40.0,
+        "min_y": -40.0,
+        "max_y": 40.0,
+        "min_z": -56.0,
+        "max_z": 56.0,
+        "span_x": 80.0,
+        "span_y": 80.0,
+        "span_z": 112.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_armor2.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_armor2.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 32.0,
+        "min_y": 0.0,
+        "max_y": 32.0,
+        "min_z": 0.0,
+        "max_z": 80.0,
+        "span_x": 32.0,
+        "span_y": 32.0,
+        "span_z": 80.0
+      },
+      "origin_bbox": {
+        "min_x": -40.0,
+        "max_x": 40.0,
+        "min_y": -40.0,
+        "max_y": 40.0,
+        "min_z": -56.0,
+        "max_z": 56.0,
+        "span_x": 80.0,
+        "span_y": 80.0,
+        "span_z": 112.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_armor3.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_armor3.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 32.0,
+        "min_y": 0.0,
+        "max_y": 32.0,
+        "min_z": 0.0,
+        "max_z": 80.0,
+        "span_x": 32.0,
+        "span_y": 32.0,
+        "span_z": 80.0
+      },
+      "origin_bbox": {
+        "min_x": -40.0,
+        "max_x": 40.0,
+        "min_y": -40.0,
+        "max_y": 40.0,
+        "min_z": -56.0,
+        "max_z": 56.0,
+        "span_x": 80.0,
+        "span_y": 80.0,
+        "span_z": 112.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_backpk.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_backpk.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 32.0,
+        "min_y": 0.0,
+        "max_y": 32.0,
+        "min_z": 0.0,
+        "max_z": 24.0,
+        "span_x": 32.0,
+        "span_y": 32.0,
+        "span_z": 24.0
+      },
+      "origin_bbox": {
+        "min_x": -40.0,
+        "max_x": 72.0,
+        "min_y": -40.0,
+        "max_y": 72.0,
+        "min_z": -56.0,
+        "max_z": 96.0,
+        "span_x": 112.0,
+        "span_y": 112.0,
+        "span_z": 152.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_barrel.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_barrel.map"
+      ],
+      "format": "map",
+      "entity_count": 4,
+      "entity_categories": {
+        "light": 3,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 3,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": -18.0,
+        "max_x": 18.0,
+        "min_y": -18.0,
+        "max_y": 58.0,
+        "min_z": -23.0,
+        "max_z": 53.0,
+        "span_x": 36.0,
+        "span_y": 76.0,
+        "span_z": 76.0
+      },
+      "origin_bbox": {
+        "min_x": -120.0,
+        "max_x": 126.0,
+        "min_y": -96.0,
+        "max_y": 130.0,
+        "min_z": -3.0,
+        "max_z": 45.0,
+        "span_x": 246.0,
+        "span_y": 226.0,
+        "span_z": 48.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_batt0.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_batt0.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 24.0,
+        "min_y": 0.0,
+        "max_y": 24.0,
+        "min_z": -8.0,
+        "max_z": 200.0,
+        "span_x": 24.0,
+        "span_y": 24.0,
+        "span_z": 208.0
+      },
+      "origin_bbox": {
+        "min_x": -24.0,
+        "max_x": 48.0,
+        "min_y": -16.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 56.0,
+        "span_x": 72.0,
+        "span_y": 72.0,
+        "span_z": 112.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_batt1.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_batt1.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 32.0,
+        "min_y": 0.0,
+        "max_y": 32.0,
+        "min_z": -8.0,
+        "max_z": 200.0,
+        "span_x": 32.0,
+        "span_y": 32.0,
+        "span_z": 208.0
+      },
+      "origin_bbox": {
+        "min_x": -24.0,
+        "max_x": 48.0,
+        "min_y": -16.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 56.0,
+        "span_x": 72.0,
+        "span_y": 72.0,
+        "span_z": 112.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_bh10.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_bh10.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 32.0,
+        "min_y": 0.0,
+        "max_y": 48.0,
+        "min_z": 0.0,
+        "max_z": 16.0,
+        "span_x": 32.0,
+        "span_y": 48.0,
+        "span_z": 16.0
+      },
+      "origin_bbox": {
+        "min_x": -24.0,
+        "max_x": 56.0,
+        "min_y": -24.0,
+        "max_y": 56.0,
+        "min_z": -40.0,
+        "max_z": 56.0,
+        "span_x": 80.0,
+        "span_y": 80.0,
+        "span_z": 96.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_bh100.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_bh100.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 40.0,
+        "min_y": 0.0,
+        "max_y": 40.0,
+        "min_z": 0.0,
+        "max_z": 32.0,
+        "span_x": 40.0,
+        "span_y": 40.0,
+        "span_z": 32.0
+      },
+      "origin_bbox": {
+        "min_x": -24.0,
+        "max_x": 56.0,
+        "min_y": -24.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 56.0,
+        "span_x": 80.0,
+        "span_y": 80.0,
+        "span_z": 112.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_bh25.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_bh25.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 32.0,
+        "min_y": 0.0,
+        "max_y": 48.0,
+        "min_z": 0.0,
+        "max_z": 16.0,
+        "span_x": 32.0,
+        "span_y": 48.0,
+        "span_z": 16.0
+      },
+      "origin_bbox": {
+        "min_x": -24.0,
+        "max_x": 56.0,
+        "min_y": -24.0,
+        "max_y": 56.0,
+        "min_z": -40.0,
+        "max_z": 56.0,
+        "span_x": 80.0,
+        "span_y": 80.0,
+        "span_z": 96.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_bomb.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_bomb.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": -18.0,
+        "max_x": 18.0,
+        "min_y": -18.0,
+        "max_y": 18.0,
+        "min_z": -20.0,
+        "max_z": 44.0,
+        "span_x": 36.0,
+        "span_y": 36.0,
+        "span_z": 64.0
+      },
+      "origin_bbox": {
+        "min_x": -72.0,
+        "max_x": 68.0,
+        "min_y": -56.0,
+        "max_y": 40.0,
+        "min_z": -56.0,
+        "max_z": 68.0,
+        "span_x": 140.0,
+        "span_y": 96.0,
+        "span_z": 124.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_exbox2.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_exbox2.map"
+      ],
+      "format": "map",
+      "entity_count": 6,
+      "entity_categories": {
+        "light": 5,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 5,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 48.0,
+        "min_y": 0.0,
+        "max_y": 32.0,
+        "min_z": -8.0,
+        "max_z": 200.0,
+        "span_x": 48.0,
+        "span_y": 32.0,
+        "span_z": 208.0
+      },
+      "origin_bbox": {
+        "min_x": -40.0,
+        "max_x": 64.0,
+        "min_y": -40.0,
+        "max_y": 72.0,
+        "min_z": -56.0,
+        "max_z": 136.0,
+        "span_x": 104.0,
+        "span_y": 112.0,
+        "span_z": 192.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_explob.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_explob.map"
+      ],
+      "format": "map",
+      "entity_count": 6,
+      "entity_categories": {
+        "light": 5,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 5,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 48.0,
+        "min_y": 0.0,
+        "max_y": 32.0,
+        "min_z": -8.0,
+        "max_z": 200.0,
+        "span_x": 48.0,
+        "span_y": 32.0,
+        "span_z": 208.0
+      },
+      "origin_bbox": {
+        "min_x": -40.0,
+        "max_x": 64.0,
+        "min_y": -40.0,
+        "max_y": 72.0,
+        "min_z": -56.0,
+        "max_z": 136.0,
+        "span_x": 104.0,
+        "span_y": 112.0,
+        "span_z": 192.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_key1.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_key1.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": -12.0,
+        "max_x": 12.0,
+        "min_y": -12.0,
+        "max_y": 12.0,
+        "min_z": -24.0,
+        "max_z": 16.0,
+        "span_x": 24.0,
+        "span_y": 24.0,
+        "span_z": 40.0
+      },
+      "origin_bbox": {
+        "min_x": -56.0,
+        "max_x": 56.0,
+        "min_y": -56.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 72.0,
+        "span_x": 112.0,
+        "span_y": 112.0,
+        "span_z": 128.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_key2.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_key2.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": -12.0,
+        "max_x": 12.0,
+        "min_y": -12.0,
+        "max_y": 12.0,
+        "min_z": -24.0,
+        "max_z": 16.0,
+        "span_x": 24.0,
+        "span_y": 24.0,
+        "span_z": 40.0
+      },
+      "origin_bbox": {
+        "min_x": -56.0,
+        "max_x": 56.0,
+        "min_y": -56.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 72.0,
+        "span_x": 112.0,
+        "span_y": 112.0,
+        "span_z": 128.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_nail0.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_nail0.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 24.0,
+        "min_y": 0.0,
+        "max_y": 24.0,
+        "min_z": -8.0,
+        "max_z": 200.0,
+        "span_x": 24.0,
+        "span_y": 24.0,
+        "span_z": 208.0
+      },
+      "origin_bbox": {
+        "min_x": -24.0,
+        "max_x": 48.0,
+        "min_y": -16.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 56.0,
+        "span_x": 72.0,
+        "span_y": 72.0,
+        "span_z": 112.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_nail1.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_nail1.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 32.0,
+        "min_y": 0.0,
+        "max_y": 32.0,
+        "min_z": -8.0,
+        "max_z": 200.0,
+        "span_x": 32.0,
+        "span_y": 32.0,
+        "span_z": 208.0
+      },
+      "origin_bbox": {
+        "min_x": -24.0,
+        "max_x": 48.0,
+        "min_y": -16.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 56.0,
+        "span_x": 72.0,
+        "span_y": 72.0,
+        "span_z": 112.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_nail2.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_nail2.map"
+      ],
+      "format": "map",
+      "entity_count": 1,
+      "entity_categories": {
+        "other": 1
+      },
+      "top_classnames": {
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": -32.0,
+        "max_x": 32.0,
+        "min_y": -32.0,
+        "max_y": 32.0,
+        "min_z": -32.0,
+        "max_z": 32.0,
+        "span_x": 64.0,
+        "span_y": 64.0,
+        "span_z": 64.0
+      },
+      "origin_bbox": null,
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_rock0.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_rock0.map"
+      ],
+      "format": "map",
+      "entity_count": 6,
+      "entity_categories": {
+        "light": 5,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 5,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 48.0,
+        "min_y": 0.0,
+        "max_y": 16.0,
+        "min_z": -8.0,
+        "max_z": 200.0,
+        "span_x": 48.0,
+        "span_y": 16.0,
+        "span_z": 208.0
+      },
+      "origin_bbox": {
+        "min_x": -40.0,
+        "max_x": 40.0,
+        "min_y": -40.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 72.0,
+        "span_x": 80.0,
+        "span_y": 96.0,
+        "span_z": 128.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_rock1.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_rock1.map"
+      ],
+      "format": "map",
+      "entity_count": 6,
+      "entity_categories": {
+        "light": 5,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 5,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 32.0,
+        "min_y": 0.0,
+        "max_y": 16.0,
+        "min_z": -8.0,
+        "max_z": 200.0,
+        "span_x": 32.0,
+        "span_y": 16.0,
+        "span_z": 208.0
+      },
+      "origin_bbox": {
+        "min_x": -40.0,
+        "max_x": 40.0,
+        "min_y": -40.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 72.0,
+        "span_x": 80.0,
+        "span_y": 96.0,
+        "span_z": 128.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_shell0.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_shell0.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 24.0,
+        "min_y": -8.0,
+        "max_y": 24.0,
+        "min_z": -8.0,
+        "max_z": 200.0,
+        "span_x": 24.0,
+        "span_y": 32.0,
+        "span_z": 208.0
+      },
+      "origin_bbox": {
+        "min_x": -24.0,
+        "max_x": 48.0,
+        "min_y": -16.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 56.0,
+        "span_x": 72.0,
+        "span_y": 72.0,
+        "span_z": 112.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/b_shell1.map",
+      "playable_level": false,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/b_shell1.map"
+      ],
+      "format": "map",
+      "entity_count": 5,
+      "entity_categories": {
+        "light": 4,
+        "other": 1
+      },
+      "top_classnames": {
+        "light": 4,
+        "worldspawn": 1
+      },
+      "geometry_bbox": {
+        "min_x": 0.0,
+        "max_x": 32.0,
+        "min_y": 0.0,
+        "max_y": 32.0,
+        "min_z": -8.0,
+        "max_z": 200.0,
+        "span_x": 32.0,
+        "span_y": 32.0,
+        "span_z": 208.0
+      },
+      "origin_bbox": {
+        "min_x": -24.0,
+        "max_x": 48.0,
+        "min_y": -16.0,
+        "max_y": 56.0,
+        "min_z": -56.0,
+        "max_z": 56.0,
+        "span_x": 72.0,
+        "span_y": 72.0,
+        "span_z": 112.0
+      },
+      "route_features": [
+        "unknown_route_shape"
+      ]
+    },
+    {
+      "source_path": "/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/generated/external_sources/quake_map_sources/quake-maps-master.zip",
+      "virtual_name": "quake-maps/end.map",
+      "playable_level": true,
+      "sequence_key": [
+        9,
+        999,
+        999,
+        "quake-maps/end.map"
+      ],
+      "format": "map",
+      "entity_count": 268,
+      "entity_categories": {
+        "light": 89,
+        "trigger": 44,
+        "other": 41,
+        "pickup": 41,
+        "teleport": 20,
+        "monster": 20,
+        "spawn": 9,
+        "door": 4
+      },
+      "top_classnames": {
+        "light": 80,
+        "path_corner": 30,
+        "trigger_teleport": 22,
+        "info_teleport_destination": 19,
+        "item_health": 15,
+        "trigger_once": 12,
+        "light_torch_small_walltorch": 9,
+        "monster_shambler": 7,
+        "monster_shalrath": 6,
+        "item_cells": 5,
+        "trigger_multiple": 5,
+        "monster_fish": 5,
+        "func_door": 4,
+        "item_rockets": 4,
+        "item_spikes": 4,
+        "trap_spikeshooter": 4
+      },
+      "geometry_bbox": {
+        "min_x": -1680.0,
+        "max_x": 208.0,
+        "min_y": -576.0,
+        "max_y": 3228.0,
+        "min_z": -760.0,
+        "max_z": 1536.0,
+        "span_x": 1888.0,
+        "span_y": 3804.0,
+        "span_z": 2296.0
+      },
+      "origin_bbox": {
+        "min_x": -1568.0,
+        "max_x": 144.0,
+        "min_y": -496.0,
+        "max_y": 3088.0,
+        "min_z": -560.0,
+        "max_z": 608.0,
+        "span_x": 1712.0,
+        "span_y": 3584.0,
+        "span_z": 1168.0
+      },
+      "route_features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ]
+    }
+  ],
+  "templates": [
+    {
+      "id": "quake_seq_01_layered_read",
+      "route_sentence": [
+        "entry_floor_read",
+        "visible_upper_goal",
+        "ramp_or_stair_lip",
+        "mid_height_recovery",
+        "upper_exit"
+      ],
+      "infinite_brutality_use": "Use for readable stacked rooms where upper routes are visible before they are reached.",
+      "movement_lesson": "height changes should teach the next jump line before the player commits",
+      "source_level": "quake-maps/start.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 1,
+        "vertical_layering": 1,
+        "lock_or_gate_pacing": 1,
+        "teleport_recontextualization": 1,
+        "reward_breadcrumbing": 1,
+        "entity_vertical_pressure": 1
+      }
+    },
+    {
+      "id": "quake_seq_02_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e1m1.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 2,
+        "vertical_layering": 2,
+        "lock_or_gate_pacing": 2,
+        "teleport_recontextualization": 2,
+        "reward_breadcrumbing": 2,
+        "entity_vertical_pressure": 2,
+        "dense_combat_pressure": 1,
+        "switch_route_change": 1
+      }
+    },
+    {
+      "id": "quake_seq_03_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e1m2.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 3,
+        "vertical_layering": 3,
+        "lock_or_gate_pacing": 3,
+        "teleport_recontextualization": 3,
+        "reward_breadcrumbing": 3,
+        "entity_vertical_pressure": 3,
+        "dense_combat_pressure": 2,
+        "switch_route_change": 2
+      }
+    },
+    {
+      "id": "quake_seq_04_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e1m3.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 4,
+        "vertical_layering": 4,
+        "lock_or_gate_pacing": 4,
+        "teleport_recontextualization": 4,
+        "reward_breadcrumbing": 4,
+        "entity_vertical_pressure": 4,
+        "dense_combat_pressure": 3,
+        "switch_route_change": 3
+      }
+    },
+    {
+      "id": "quake_seq_05_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e1m4.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 5,
+        "vertical_layering": 5,
+        "lock_or_gate_pacing": 5,
+        "teleport_recontextualization": 5,
+        "reward_breadcrumbing": 5,
+        "entity_vertical_pressure": 5,
+        "dense_combat_pressure": 4,
+        "switch_route_change": 4
+      }
+    },
+    {
+      "id": "quake_seq_06_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e1m5.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 6,
+        "vertical_layering": 6,
+        "lock_or_gate_pacing": 6,
+        "teleport_recontextualization": 6,
+        "reward_breadcrumbing": 6,
+        "entity_vertical_pressure": 6,
+        "dense_combat_pressure": 5,
+        "switch_route_change": 5
+      }
+    },
+    {
+      "id": "quake_seq_07_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e1m6.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 7,
+        "vertical_layering": 7,
+        "lock_or_gate_pacing": 7,
+        "teleport_recontextualization": 7,
+        "reward_breadcrumbing": 7,
+        "entity_vertical_pressure": 7,
+        "dense_combat_pressure": 6,
+        "switch_route_change": 6
+      }
+    },
+    {
+      "id": "quake_seq_08_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e1m7.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 8,
+        "vertical_layering": 8,
+        "lock_or_gate_pacing": 8,
+        "teleport_recontextualization": 8,
+        "reward_breadcrumbing": 8,
+        "entity_vertical_pressure": 8,
+        "dense_combat_pressure": 7,
+        "switch_route_change": 7
+      }
+    },
+    {
+      "id": "quake_seq_09_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e1m8.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 9,
+        "vertical_layering": 9,
+        "lock_or_gate_pacing": 9,
+        "teleport_recontextualization": 9,
+        "reward_breadcrumbing": 9,
+        "entity_vertical_pressure": 9,
+        "dense_combat_pressure": 8,
+        "switch_route_change": 8
+      }
+    },
+    {
+      "id": "quake_seq_10_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e2m1.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 10,
+        "vertical_layering": 10,
+        "lock_or_gate_pacing": 10,
+        "teleport_recontextualization": 10,
+        "reward_breadcrumbing": 10,
+        "entity_vertical_pressure": 10,
+        "dense_combat_pressure": 9,
+        "switch_route_change": 9
+      }
+    },
+    {
+      "id": "quake_seq_11_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e2m2.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 11,
+        "vertical_layering": 11,
+        "lock_or_gate_pacing": 11,
+        "teleport_recontextualization": 11,
+        "reward_breadcrumbing": 11,
+        "entity_vertical_pressure": 11,
+        "dense_combat_pressure": 10,
+        "switch_route_change": 10
+      }
+    },
+    {
+      "id": "quake_seq_12_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e2m3.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 12,
+        "vertical_layering": 12,
+        "lock_or_gate_pacing": 12,
+        "teleport_recontextualization": 12,
+        "reward_breadcrumbing": 12,
+        "entity_vertical_pressure": 12,
+        "dense_combat_pressure": 11,
+        "switch_route_change": 11
+      }
+    },
+    {
+      "id": "quake_seq_13_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e2m4.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 13,
+        "vertical_layering": 13,
+        "lock_or_gate_pacing": 13,
+        "teleport_recontextualization": 13,
+        "reward_breadcrumbing": 13,
+        "entity_vertical_pressure": 13,
+        "dense_combat_pressure": 12,
+        "switch_route_change": 12
+      }
+    },
+    {
+      "id": "quake_seq_14_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e2m5.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 14,
+        "vertical_layering": 14,
+        "lock_or_gate_pacing": 14,
+        "teleport_recontextualization": 14,
+        "reward_breadcrumbing": 14,
+        "entity_vertical_pressure": 14,
+        "dense_combat_pressure": 13,
+        "switch_route_change": 13
+      }
+    },
+    {
+      "id": "quake_seq_15_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e2m6.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 15,
+        "vertical_layering": 15,
+        "lock_or_gate_pacing": 15,
+        "teleport_recontextualization": 15,
+        "reward_breadcrumbing": 15,
+        "entity_vertical_pressure": 15,
+        "dense_combat_pressure": 14,
+        "switch_route_change": 14
+      }
+    },
+    {
+      "id": "quake_seq_16_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e2m7.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 16,
+        "vertical_layering": 16,
+        "lock_or_gate_pacing": 16,
+        "teleport_recontextualization": 16,
+        "reward_breadcrumbing": 16,
+        "entity_vertical_pressure": 16,
+        "dense_combat_pressure": 15,
+        "switch_route_change": 15
+      }
+    },
+    {
+      "id": "quake_seq_17_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e2m10.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 17,
+        "vertical_layering": 17,
+        "lock_or_gate_pacing": 17,
+        "teleport_recontextualization": 16,
+        "reward_breadcrumbing": 17,
+        "entity_vertical_pressure": 17,
+        "dense_combat_pressure": 16,
+        "switch_route_change": 16
+      }
+    },
+    {
+      "id": "quake_seq_18_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e3m1.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 18,
+        "vertical_layering": 18,
+        "lock_or_gate_pacing": 18,
+        "teleport_recontextualization": 17,
+        "reward_breadcrumbing": 18,
+        "entity_vertical_pressure": 18,
+        "dense_combat_pressure": 17,
+        "switch_route_change": 17
+      }
+    },
+    {
+      "id": "quake_seq_19_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e3m2.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 19,
+        "vertical_layering": 19,
+        "lock_or_gate_pacing": 19,
+        "teleport_recontextualization": 18,
+        "reward_breadcrumbing": 19,
+        "entity_vertical_pressure": 19,
+        "dense_combat_pressure": 18,
+        "switch_route_change": 18
+      }
+    },
+    {
+      "id": "quake_seq_20_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e3m3.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 20,
+        "vertical_layering": 20,
+        "lock_or_gate_pacing": 20,
+        "teleport_recontextualization": 19,
+        "reward_breadcrumbing": 20,
+        "entity_vertical_pressure": 20,
+        "dense_combat_pressure": 19,
+        "switch_route_change": 19
+      }
+    },
+    {
+      "id": "quake_seq_21_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e3m4.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 21,
+        "vertical_layering": 21,
+        "lock_or_gate_pacing": 21,
+        "teleport_recontextualization": 20,
+        "reward_breadcrumbing": 21,
+        "entity_vertical_pressure": 21,
+        "dense_combat_pressure": 20,
+        "switch_route_change": 20
+      }
+    },
+    {
+      "id": "quake_seq_22_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e3m5.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 22,
+        "vertical_layering": 22,
+        "lock_or_gate_pacing": 22,
+        "teleport_recontextualization": 21,
+        "reward_breadcrumbing": 22,
+        "entity_vertical_pressure": 22,
+        "dense_combat_pressure": 21,
+        "switch_route_change": 21
+      }
+    },
+    {
+      "id": "quake_seq_23_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e3m6.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 23,
+        "vertical_layering": 23,
+        "lock_or_gate_pacing": 23,
+        "teleport_recontextualization": 22,
+        "reward_breadcrumbing": 23,
+        "entity_vertical_pressure": 23,
+        "dense_combat_pressure": 22,
+        "switch_route_change": 22
+      }
+    },
+    {
+      "id": "quake_seq_24_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e3m7.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 24,
+        "vertical_layering": 24,
+        "lock_or_gate_pacing": 24,
+        "teleport_recontextualization": 23,
+        "reward_breadcrumbing": 24,
+        "entity_vertical_pressure": 24,
+        "dense_combat_pressure": 23,
+        "switch_route_change": 23
+      }
+    },
+    {
+      "id": "quake_seq_25_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e4m1.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 25,
+        "vertical_layering": 25,
+        "lock_or_gate_pacing": 25,
+        "teleport_recontextualization": 24,
+        "reward_breadcrumbing": 25,
+        "entity_vertical_pressure": 25,
+        "dense_combat_pressure": 24,
+        "switch_route_change": 24
+      }
+    },
+    {
+      "id": "quake_seq_26_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e4m2.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 26,
+        "vertical_layering": 26,
+        "lock_or_gate_pacing": 26,
+        "teleport_recontextualization": 25,
+        "reward_breadcrumbing": 26,
+        "entity_vertical_pressure": 26,
+        "dense_combat_pressure": 25,
+        "switch_route_change": 25
+      }
+    },
+    {
+      "id": "quake_seq_27_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e4m3.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 27,
+        "vertical_layering": 27,
+        "lock_or_gate_pacing": 27,
+        "teleport_recontextualization": 26,
+        "reward_breadcrumbing": 27,
+        "entity_vertical_pressure": 27,
+        "dense_combat_pressure": 26,
+        "switch_route_change": 26
+      }
+    },
+    {
+      "id": "quake_seq_28_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e4m4.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 28,
+        "vertical_layering": 28,
+        "lock_or_gate_pacing": 28,
+        "teleport_recontextualization": 27,
+        "reward_breadcrumbing": 28,
+        "entity_vertical_pressure": 28,
+        "dense_combat_pressure": 27,
+        "switch_route_change": 27
+      }
+    },
+    {
+      "id": "quake_seq_29_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e4m5.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 29,
+        "vertical_layering": 29,
+        "lock_or_gate_pacing": 29,
+        "teleport_recontextualization": 28,
+        "reward_breadcrumbing": 29,
+        "entity_vertical_pressure": 29,
+        "dense_combat_pressure": 28,
+        "switch_route_change": 28
+      }
+    },
+    {
+      "id": "quake_seq_30_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e4m6.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 30,
+        "vertical_layering": 30,
+        "lock_or_gate_pacing": 30,
+        "teleport_recontextualization": 29,
+        "reward_breadcrumbing": 30,
+        "entity_vertical_pressure": 30,
+        "dense_combat_pressure": 29,
+        "switch_route_change": 29
+      }
+    },
+    {
+      "id": "quake_seq_31_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e4m7.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 31,
+        "vertical_layering": 31,
+        "lock_or_gate_pacing": 31,
+        "teleport_recontextualization": 30,
+        "reward_breadcrumbing": 31,
+        "entity_vertical_pressure": 31,
+        "dense_combat_pressure": 30,
+        "switch_route_change": 30
+      }
+    },
+    {
+      "id": "quake_seq_32_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/e4m8.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 32,
+        "vertical_layering": 32,
+        "lock_or_gate_pacing": 32,
+        "teleport_recontextualization": 31,
+        "reward_breadcrumbing": 32,
+        "entity_vertical_pressure": 32,
+        "dense_combat_pressure": 31,
+        "switch_route_change": 31
+      }
+    },
+    {
+      "id": "quake_seq_33_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/dm1.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 33,
+        "vertical_layering": 33,
+        "lock_or_gate_pacing": 33,
+        "teleport_recontextualization": 32,
+        "reward_breadcrumbing": 33,
+        "entity_vertical_pressure": 33,
+        "dense_combat_pressure": 31,
+        "switch_route_change": 32
+      }
+    },
+    {
+      "id": "quake_seq_34_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/dm2.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 34,
+        "vertical_layering": 34,
+        "lock_or_gate_pacing": 34,
+        "teleport_recontextualization": 33,
+        "reward_breadcrumbing": 34,
+        "entity_vertical_pressure": 34,
+        "dense_combat_pressure": 31,
+        "switch_route_change": 33
+      }
+    },
+    {
+      "id": "quake_seq_35_layered_read",
+      "route_sentence": [
+        "entry_floor_read",
+        "visible_upper_goal",
+        "ramp_or_stair_lip",
+        "mid_height_recovery",
+        "upper_exit"
+      ],
+      "infinite_brutality_use": "Use for readable stacked rooms where upper routes are visible before they are reached.",
+      "movement_lesson": "height changes should teach the next jump line before the player commits",
+      "source_level": "quake-maps/dm3.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "teleport_recontextualization",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 35,
+        "vertical_layering": 35,
+        "lock_or_gate_pacing": 34,
+        "teleport_recontextualization": 34,
+        "reward_breadcrumbing": 35,
+        "entity_vertical_pressure": 35,
+        "dense_combat_pressure": 31,
+        "switch_route_change": 33
+      }
+    },
+    {
+      "id": "quake_seq_36_layered_read",
+      "route_sentence": [
+        "entry_floor_read",
+        "visible_upper_goal",
+        "ramp_or_stair_lip",
+        "mid_height_recovery",
+        "upper_exit"
+      ],
+      "infinite_brutality_use": "Use for readable stacked rooms where upper routes are visible before they are reached.",
+      "movement_lesson": "height changes should teach the next jump line before the player commits",
+      "source_level": "quake-maps/dm4.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "teleport_recontextualization",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 36,
+        "vertical_layering": 36,
+        "lock_or_gate_pacing": 34,
+        "teleport_recontextualization": 35,
+        "reward_breadcrumbing": 36,
+        "entity_vertical_pressure": 36,
+        "dense_combat_pressure": 31,
+        "switch_route_change": 33
+      }
+    },
+    {
+      "id": "quake_seq_37_gate_loop_return",
+      "route_sentence": [
+        "visible_locked_goal",
+        "side_loop_drop",
+        "switch_or_key_pressure",
+        "changed_route_read",
+        "return_shortcut",
+        "committed_exit_crossing"
+      ],
+      "infinite_brutality_use": "Use when the player should understand a destination early, earn it through a side route, then move faster on the return.",
+      "movement_lesson": "route memory turns the second crossing into skill expression",
+      "source_level": "quake-maps/dm5.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "switch_route_change",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 37,
+        "vertical_layering": 37,
+        "lock_or_gate_pacing": 35,
+        "teleport_recontextualization": 36,
+        "reward_breadcrumbing": 37,
+        "entity_vertical_pressure": 37,
+        "dense_combat_pressure": 31,
+        "switch_route_change": 34
+      }
+    },
+    {
+      "id": "quake_seq_38_layered_read",
+      "route_sentence": [
+        "entry_floor_read",
+        "visible_upper_goal",
+        "ramp_or_stair_lip",
+        "mid_height_recovery",
+        "upper_exit"
+      ],
+      "infinite_brutality_use": "Use for readable stacked rooms where upper routes are visible before they are reached.",
+      "movement_lesson": "height changes should teach the next jump line before the player commits",
+      "source_level": "quake-maps/dm6.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 38,
+        "vertical_layering": 38,
+        "lock_or_gate_pacing": 36,
+        "teleport_recontextualization": 37,
+        "reward_breadcrumbing": 38,
+        "entity_vertical_pressure": 38,
+        "dense_combat_pressure": 31,
+        "switch_route_change": 34
+      }
+    },
+    {
+      "id": "quake_seq_39_layered_read",
+      "route_sentence": [
+        "entry_floor_read",
+        "visible_upper_goal",
+        "ramp_or_stair_lip",
+        "mid_height_recovery",
+        "upper_exit"
+      ],
+      "infinite_brutality_use": "Use for readable stacked rooms where upper routes are visible before they are reached.",
+      "movement_lesson": "height changes should teach the next jump line before the player commits",
+      "source_level": "quake-maps/dm7.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 39,
+        "vertical_layering": 39,
+        "lock_or_gate_pacing": 36,
+        "teleport_recontextualization": 37,
+        "reward_breadcrumbing": 39,
+        "entity_vertical_pressure": 39,
+        "dense_combat_pressure": 31,
+        "switch_route_change": 34
+      }
+    },
+    {
+      "id": "quake_seq_40_layered_read",
+      "route_sentence": [
+        "entry_floor_read",
+        "visible_upper_goal",
+        "ramp_or_stair_lip",
+        "mid_height_recovery",
+        "upper_exit"
+      ],
+      "infinite_brutality_use": "Use for readable stacked rooms where upper routes are visible before they are reached.",
+      "movement_lesson": "height changes should teach the next jump line before the player commits",
+      "source_level": "quake-maps/dm8.map",
+      "features": [
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 39,
+        "vertical_layering": 39,
+        "lock_or_gate_pacing": 36,
+        "teleport_recontextualization": 37,
+        "reward_breadcrumbing": 39,
+        "entity_vertical_pressure": 40,
+        "dense_combat_pressure": 31,
+        "switch_route_change": 34
+      }
+    },
+    {
+      "id": "quake_seq_41_vertical_bridge_line",
+      "route_sentence": [
+        "approach_lane",
+        "stair_or_ramp_lip",
+        "air_steer_gap",
+        "upper_bridge_landing",
+        "side_recovery_gallery",
+        "visible_exit"
+      ],
+      "infinite_brutality_use": "Use for triple-bridge rooms with upper crossings and recoverable side galleries.",
+      "movement_lesson": "running-jump bunny-hop line across vertical bridge targets",
+      "source_level": "quake-maps/end.map",
+      "features": [
+        "long_acceleration_lanes",
+        "vertical_layering",
+        "lock_or_gate_pacing",
+        "teleport_recontextualization",
+        "dense_combat_pressure",
+        "reward_breadcrumbing",
+        "entity_vertical_pressure"
+      ],
+      "cumulative_feature_counts": {
+        "long_acceleration_lanes": 40,
+        "vertical_layering": 40,
+        "lock_or_gate_pacing": 37,
+        "teleport_recontextualization": 38,
+        "reward_breadcrumbing": 40,
+        "entity_vertical_pressure": 41,
+        "dense_combat_pressure": 32,
+        "switch_route_change": 34
+      }
+    }
+  ],
+  "ml_level_design_lessons": {
+    "training_scope": "playable Quake maps only when present; item prefab maps are retained as source metadata but excluded from route-template training",
+    "feature_counts": {
+      "entity_vertical_pressure": 41,
+      "long_acceleration_lanes": 40,
+      "vertical_layering": 40,
+      "reward_breadcrumbing": 40,
+      "teleport_recontextualization": 38,
+      "lock_or_gate_pacing": 37,
+      "switch_route_change": 34,
+      "dense_combat_pressure": 32
+    },
+    "archetype_counts": {
+      "gate_loop_return": 34,
+      "layered_read": 6,
+      "vertical_bridge_line": 1
+    },
+    "generator_biases": [
+      "Prefer readable vertical layering with side recovery over flat box rooms.",
+      "Place long acceleration lanes before lips, bridges, stairs, or upper landings.",
+      "Show goals before blocking them, then create a physical return shortcut after the route change.",
+      "Use pickups and monsters as breadcrumbs along an already-valid movement sentence, not as random filler.",
+      "Keep teleport use as recontextualization or shortcut punctuation; do not rely on it as the only loop connector.",
+      "Exclude crouch vocabulary; bunny-hop feel comes from running jump timing, buffered jumps, air steering, and recoverable landings."
+    ]
+  },
+  "infinite_brutality_generator_contract": {
+    "primary_reference": "authored triple-bridge skull guillotine hall",
+    "forbidden_pattern": "generic boxes with scattered junk",
+    "movement_vocab": [
+      "running_jump",
+      "jump_buffer",
+      "air_steering",
+      "bridge_lip",
+      "ramp_lip",
+      "stair_lip"
+    ],
+    "not_movement_vocab": [
+      "crouch_button",
+      "crouch_slide",
+      "duck_jump"
+    ]
+  }
+}

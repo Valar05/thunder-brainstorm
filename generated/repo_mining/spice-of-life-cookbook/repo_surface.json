@@ -1,0 +1,1080 @@
+{
+  "repo": "Valar05/spice-of-life-cookbook",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": true,
+    "name": "spice-of-life-cookbook",
+    "updatedAt": "2025-05-26T22:48:05Z",
+    "url": "https://github.com/Valar05/spice-of-life-cookbook",
+    "visibility": "PRIVATE"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 7,
+  "selected_files": [
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "992c5bb8d209d225c8ac5a82133a0506b3fba66b",
+      "size": 999,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 32,
+      "byte_count": 999,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L4",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L6",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L7",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L8",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L9",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L11",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L12",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L16"
+      ]
+    },
+    {
+      "path": "server.js",
+      "mode": "100644",
+      "sha": "5f820c4013b28164c5b864a846a47ee091ee7db3",
+      "size": 23212,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 688,
+      "byte_count": 23212,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L1",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L2",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L3",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L5",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L6",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L7",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L8",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L9"
+      ]
+    },
+    {
+      "path": "tailwind.config.js",
+      "mode": "100644",
+      "sha": "7c7bae1a765d398d01ae4476d3c347bca7891738",
+      "size": 140,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 9,
+      "byte_count": 140,
+      "mechanics": [
+        "ai_pressure",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/tailwind.config.js#L1",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/tailwind.config.js#L2",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/tailwind.config.js#L3",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/tailwind.config.js#L4",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/tailwind.config.js#L5",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/tailwind.config.js#L6",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/tailwind.config.js#L7",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/tailwind.config.js#L8"
+      ]
+    },
+    {
+      "path": ".eslintrc.js",
+      "mode": "100644",
+      "sha": "f4cb76caae28ed85c6d8dbe3bed31f81e3854a4c",
+      "size": 492,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 28,
+      "byte_count": 492,
+      "mechanics": [
+        "text_console_runtime",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L1",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L2",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L3",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L4",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L5",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L6",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L7",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L8"
+      ]
+    },
+    {
+      "path": "nodemon.json",
+      "mode": "100644",
+      "sha": "8526cbbf054259764a3253e526c8a79c3c17f368",
+      "size": 110,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 110,
+      "mechanics": [
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/nodemon.json#L2",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/nodemon.json#L3"
+      ]
+    },
+    {
+      "path": "package-lock.json",
+      "mode": "100644",
+      "sha": "6d7fb65ed3a351928854fa14405c4cbde8ce9a98",
+      "size": 172345,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 4895,
+      "byte_count": 172345,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L12",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L22",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L26",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L32",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L33",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L47",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L56",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L69"
+      ]
+    },
+    {
+      "path": "static/main.js",
+      "mode": "100644",
+      "sha": "10bf83c463d42792def998fb8cb9a573eb7400da",
+      "size": 44482,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1258,
+      "byte_count": 44482,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L1",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L2",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L3",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L5",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L6",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L7",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L8",
+        "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L10"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 2309,
+    "by_origin": {
+      "github": 2309
+    },
+    "by_project": {
+      "spice-of-life-cookbook": 2309
+    },
+    "by_mechanic": {
+      "ai_pressure": 1276,
+      "web_choice_player": 726,
+      "asset_import_pipeline": 406,
+      "text_console_runtime": 147,
+      "pose_animation_tools": 47,
+      "validation_pipeline": 36,
+      "touch_lane_combat": 12,
+      "delayed_consequences": 7,
+      "deck_pressure": 6,
+      "tts_audio_pipeline": 6,
+      "writing_corpus_review": 4,
+      "vehicle_survival": 1
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 4,
+          "symbol": "main",
+          "evidence": "\"main\": \"server.js\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 8,
+          "symbol": "watch-css",
+          "evidence": "\"watch-css\": \"npx tailwindcss -i ./static/style.css -o ./static/style-compiled.css --watch\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L8"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 16,
+          "symbol": "@google/genai",
+          "evidence": "\"@google/genai\": \"^1.0.1\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L16"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 26,
+          "symbol": "@tailwindcss/cli",
+          "evidence": "\"@tailwindcss/cli\": \"^4.1.5\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L26"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 30,
+          "symbol": "tailwindcss",
+          "evidence": "\"tailwindcss\": \"^4.1.5\"",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L30"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 11,
+          "symbol": "",
+          "evidence": "const { GoogleGenAI } = require(\"@google/genai\");",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L11"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 74,
+          "symbol": "",
+          "evidence": "const html = await axios",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L74"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 104,
+          "symbol": "",
+          "evidence": "/* ───── fallback to Puppeteer if axios fails ───── */",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L104"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 4,
+          "symbol": "main",
+          "evidence": "\"main\": \"server.js\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L4"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 6,
+          "symbol": "start",
+          "evidence": "\"start\": \"node server.js\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L6"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 7,
+          "symbol": "dev",
+          "evidence": "\"dev\": \"concurrently \\\"npm:watch-css\\\" \\\"nodemon server.js\\\"\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L7"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "const { Storage } = require(\"@google-cloud/storage\");",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L1"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 2,
+          "symbol": "",
+          "evidence": "const storage = new Storage();",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L2"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 3,
+          "symbol": "",
+          "evidence": "const BUCKET_NAME = \"spice-of-life-recipes\"; // <-- change to your bucket name",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L3"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 5,
+          "symbol": "",
+          "evidence": "const express = require(\"express\");",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L5"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 6,
+          "symbol": "",
+          "evidence": "const axios = require(\"axios\");",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L6"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 9,
+          "symbol": "deploy",
+          "evidence": "\"deploy\": \"gcloud run deploy spice-of-life --source . --region us-central1 --platform managed --allow-unauthenticated --port 8080\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L9"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 96,
+          "symbol": "",
+          "evidence": "data.sourceUrl = url;",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L96"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 144,
+          "symbol": "",
+          "evidence": "data.sourceUrl = url;",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L144"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 33,
+          "symbol": "license",
+          "evidence": "\"license\": \"MIT\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L33"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 47,
+          "symbol": "license",
+          "evidence": "\"license\": \"MIT\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L47"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 56,
+          "symbol": "license",
+          "evidence": "\"license\": \"Apache-2.0\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L56"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 69,
+          "symbol": "license",
+          "evidence": "\"license\": \"Apache-2.0\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L69"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 78,
+          "symbol": "license",
+          "evidence": "\"license\": \"Apache-2.0\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L78"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 11,
+          "symbol": "test",
+          "evidence": "\"test\": \" echo \\\"No tests specified\\\" && exit 0\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L11"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 1692,
+          "symbol": "delayed-stream",
+          "evidence": "\"delayed-stream\": \"~1.0.0\"",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L1692"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 1881,
+          "symbol": "node_modules/delayed-stream",
+          "evidence": "\"node_modules/delayed-stream\": {",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L1881"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 1883,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L1883"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "static/main.js",
+          "line": 1222,
+          "symbol": "hookChatToRecipeChanges",
+          "evidence": "function hookChatToRecipeChanges() {",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L1222"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "static/main.js",
+          "line": 1242,
+          "symbol": "",
+          "evidence": "hookChatToRecipeChanges();",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L1242"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "static/main.js",
+          "line": 1246,
+          "symbol": "",
+          "evidence": "hookChatToRecipeChanges();",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L1246"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package.json",
+          "line": 12,
+          "symbol": "lint",
+          "evidence": "\"lint\": \"eslint .\"",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package.json#L12"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": ".eslintrc.js",
+          "line": 1,
+          "symbol": "",
+          "evidence": "module.exports = {",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L1"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": ".eslintrc.js",
+          "line": 2,
+          "symbol": "",
+          "evidence": "env: {",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L2"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": ".eslintrc.js",
+          "line": 3,
+          "symbol": "",
+          "evidence": "es6: true,",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L3"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": ".eslintrc.js",
+          "line": 4,
+          "symbol": "",
+          "evidence": "node: true,",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L4"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": ".eslintrc.js",
+          "line": 5,
+          "symbol": "",
+          "evidence": "},",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L5"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": ".eslintrc.js",
+          "line": 6,
+          "symbol": "",
+          "evidence": "parserOptions: {",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L6"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": ".eslintrc.js",
+          "line": 7,
+          "symbol": "",
+          "evidence": "\"ecmaVersion\": 2018,",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/.eslintrc.js#L7"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 55,
+          "symbol": "",
+          "evidence": "const instructions = $(\"ol.mntl-sc-block-group--OL li\")",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L55"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 59,
+          "symbol": "",
+          "evidence": "return clean(step.text().replace(/Dotdash Meredith.*$/i, \"\"));",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L59"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 1705,
+          "symbol": "lodash",
+          "evidence": "\"lodash\": \"^4.17.21\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L1705"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 3323,
+          "symbol": "node_modules/lodash",
+          "evidence": "\"node_modules/lodash\": {",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L3323"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 3325,
+          "symbol": "resolved",
+          "evidence": "\"resolved\": \"https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L3325"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "static/main.js",
+          "line": 47,
+          "symbol": "",
+          "evidence": "output.style.display = \"block\";",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L47"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "static/main.js",
+          "line": 440,
+          "symbol": "",
+          "evidence": "output.style.display = \"block\";",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L440"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "static/main.js",
+          "line": 453,
+          "symbol": "",
+          "evidence": "document.getElementById(\"main\").style.display = \"block\";",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L453"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 79,
+          "symbol": "",
+          "evidence": "\"(KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L79"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 111,
+          "symbol": "",
+          "evidence": "\"(KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36\"",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L111"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 32,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-cjQ7ZlQ0Mv3b47hABuTevyTuYN4i+loJKGeV9flcCgIK37cCXRh+L1bd3iBHlynerhQ7BhCkn2BPbQUL+rGqFg==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L32"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 254,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-/t88Ty3d5JWQbWYgaOGCCYfXRwV1+be02WqYYlL6h0lEiUAMPM8o8qKGO01YIkOHzka2up08wvgYD0mDiI+q3Q==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L254"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 354,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-RmkhL8CAyCRPXCE28MMH0z2PNWQBNk2Q09ZdxM9IOOXwxwZbN+qbWaatPkdkWIKL2ZVDImrN/pK5HTRz2PcS4g==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L354"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 565,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-6E+m/Mm1t1yhB8X412stiKFG3XykmgdIOqhjWj+VL8oHkKABfu/gjFj8DvLrYVHSBNC+/u5PeNrujiSQ1zwd1Q==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L565"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 929,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-SO+F2YEIAHa1AITwc8oPwMOWhgorPzzcbhWEb+4oLi953h45FklDmM8dPSZ7hNHpIk9p/SCZKUYn35t5fjGtHA==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L929"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 1075,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-oJoftv0LSuaDZE3Le4DbKX+KS9G36NzOeSap90UIK0yMA/NhKJhqlSGtNDORNRaIbQfzjXDrQa0ytJ6mNRGz/Q==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L1075"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 115,
+          "symbol": "",
+          "evidence": "console.log(\"Current working directory:\", process.cwd());",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L115"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 117,
+          "symbol": "",
+          "evidence": "console.log(\"🌐 Going to page...\");",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L117"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 119,
+          "symbol": "",
+          "evidence": "console.log(\"✅ Page loaded\");",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L119"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 121,
+          "symbol": "",
+          "evidence": "console.log(\"⏳ Waiting for selector h1...\");",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L121"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 123,
+          "symbol": "",
+          "evidence": "console.log(\"✅ h1 selector found\");",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L123"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 125,
+          "symbol": "",
+          "evidence": "console.error(\"❌ Puppeteer navigation error:\", err.message);",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L125"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 159,
+          "symbol": "",
+          "evidence": "console.warn(\"Axios failed, falling back to Puppeteer:\", err.message);",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L159"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 165,
+          "symbol": "",
+          "evidence": "console.error(\"Final failure:\", err.message);",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L165"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 658,
+          "symbol": "",
+          "evidence": "{ category: \"HARM_CATEGORY_HATE_SPEECH\", threshold: \"OFF\" },",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L658"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 659,
+          "symbol": "",
+          "evidence": "{ category: \"HARM_CATEGORY_DANGEROUS_CONTENT\", threshold: \"OFF\" },",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L659"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 660,
+          "symbol": "",
+          "evidence": "{ category: \"HARM_CATEGORY_SEXUALLY_EXPLICIT\", threshold: \"OFF\" },",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L660"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 661,
+          "symbol": "",
+          "evidence": "{ category: \"HARM_CATEGORY_HARASSMENT\", threshold: \"OFF\" },",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L661"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 2523,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-zJ2mQYM18rEFOudeV4GShTGIQ7RbzA7ozbU9I/XBpm7kqgMywgmylMwXHxZJmkVoYkna9d2pVXVXPdYTP9ej8Q==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L2523"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 3412,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-ZDY+bPm5zTTF+YpCrAU9nK0UgICYPT0QtT1NZWFv4s++TNkcgVaT0g6+4R2uI4MjQjzysHB1zxuWL50hzaeXiw==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L3412"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 678,
+          "symbol": "",
+          "evidence": "for await (const chunk of response) {",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L678"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 679,
+          "symbol": "",
+          "evidence": "if (chunk.text) {",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L679"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "server.js",
+          "line": 680,
+          "symbol": "",
+          "evidence": "res.write(chunk.text);",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/server.js#L680"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "static/main.js",
+          "line": 438,
+          "symbol": "",
+          "evidence": "sourceEl.textContent = \"Spice of Life Original\";",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L438"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 409,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-OZs6gsjF4vMp32qrCbiVSkrFmXtG/AZhY3t0iAMrMBiAZyV9oALtXO8hsrHbMXF9x6L3grlFuwW2oAz7cav+Gw==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L409"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 1166,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-PCVAQswWemu6UdxsDFFX/+gVeYqKAod3D3UVm91jHwynguOwAvYPhx8nNlM++NqRcK6CxxpUafjmhIdKiHibqg==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L1166"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 3670,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-ruw5xyKs6lrpo9x9rCZqZZnIUntICjQAd0Wsmp396Ul9lN/h+ifgVV1x1gZHi8euej6wTfpqX8j+BFQxF0NS/g==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L3670"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "static/main.js",
+          "line": 981,
+          "symbol": "",
+          "evidence": "// Copy to clipboard",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L981"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "static/main.js",
+          "line": 982,
+          "symbol": "",
+          "evidence": "navigator.clipboard.writeText(url).then(() => {",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L982"
+        },
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "static/main.js",
+          "line": 983,
+          "symbol": "",
+          "evidence": "alert(`Shareable link copied to clipboard!\\n\\n${url}`);",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/static/main.js#L983"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "spice-of-life-cookbook",
+          "repo": "Valar05/spice-of-life-cookbook",
+          "path": "package-lock.json",
+          "line": 4626,
+          "symbol": "integrity",
+          "evidence": "\"integrity\": \"sha512-uROZWze0R0itiAKVPsYhFov9LxrPMHLMEQFszeI2gCN6bnIIZ8twzBCJcN2LJrBBLfrP0t1FW0g+JmKVl8Vk1g==\",",
+          "source_url": "https://github.com/Valar05/spice-of-life-cookbook/blob/main/package-lock.json#L4626"
+        }
+      ]
+    }
+  }
+}

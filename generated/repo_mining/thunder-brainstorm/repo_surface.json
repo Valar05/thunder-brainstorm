@@ -1,0 +1,2095 @@
+{
+  "repo": "Valar05/thunder-brainstorm",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "thunder-brainstorm",
+    "updatedAt": "2026-08-30T22:21:41Z",
+    "url": "https://github.com/Valar05/thunder-brainstorm",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "sha": "9307dd476e843c1e38cda18185493ec8d59e75a2",
+      "size": 13167,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 194,
+      "byte_count": 13167,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L14",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L18",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L20",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L23"
+      ]
+    },
+    {
+      "path": "generated/recovery/README.md",
+      "mode": "100644",
+      "sha": "c0efe061c661fb840cd33178806aefd631093265",
+      "size": 356,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 5,
+      "byte_count": 356,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/recovery/README.md#L3"
+      ]
+    },
+    {
+      "path": "generated/release_packets/marrow_runner_itch/README.md",
+      "mode": "100644",
+      "sha": "a80dbd6ff6dc1815bba54f4267f5f551e662bd90",
+      "size": 1334,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 1334,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "source_packet_generation",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/release_packets/marrow_runner_itch/README.md#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/release_packets/marrow_runner_itch/README.md#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/release_packets/marrow_runner_itch/README.md#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/release_packets/marrow_runner_itch/README.md#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/release_packets/marrow_runner_itch/README.md#L8",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/release_packets/marrow_runner_itch/README.md#L10",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/release_packets/marrow_runner_itch/README.md#L12",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/release_packets/marrow_runner_itch/README.md#L13"
+      ]
+    },
+    {
+      "path": "prototypes/immune-maze-canvas/README.md",
+      "mode": "100644",
+      "sha": "b3126e195967f19f90f6751e943a2488e8a99fc6",
+      "size": 6169,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 106,
+      "byte_count": 6169,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L10",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L22",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L28",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L30",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L36",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L40",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L43"
+      ]
+    },
+    {
+      "path": "state.md",
+      "mode": "100644",
+      "sha": "c832612f11da3e399b25d3eaa60a638f71e4a214",
+      "size": 2496,
+      "score": 106,
+      "reasons": [
+        "authoritative state",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 2496,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L9",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L15",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L17",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L18",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L19",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L27"
+      ]
+    },
+    {
+      "path": "docs/HUNGER_LOOPIT_THUNDER.md",
+      "mode": "100644",
+      "sha": "51d1a9839cd0032864a51d9861d7c45af9eb60aa",
+      "size": 2587,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 40,
+      "byte_count": 2587,
+      "mechanics": [
+        "ai_pressure",
+        "deck_pressure",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/HUNGER_LOOPIT_THUNDER.md#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/HUNGER_LOOPIT_THUNDER.md#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/HUNGER_LOOPIT_THUNDER.md#L11",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/HUNGER_LOOPIT_THUNDER.md#L19",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/HUNGER_LOOPIT_THUNDER.md#L32",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/HUNGER_LOOPIT_THUNDER.md#L34",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/HUNGER_LOOPIT_THUNDER.md#L36",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/HUNGER_LOOPIT_THUNDER.md#L39"
+      ]
+    },
+    {
+      "path": "docs/THUNDER_RECOVERY_CAMPAIGN.md",
+      "mode": "100644",
+      "sha": "4af41ab21b6fb1bc91483d46b1a0b71bc2ff2b27",
+      "size": 6475,
+      "score": 80,
+      "reasons": [
+        "documentation surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 89,
+      "byte_count": 6475,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/THUNDER_RECOVERY_CAMPAIGN.md#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/THUNDER_RECOVERY_CAMPAIGN.md#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/THUNDER_RECOVERY_CAMPAIGN.md#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/THUNDER_RECOVERY_CAMPAIGN.md#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/THUNDER_RECOVERY_CAMPAIGN.md#L9",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/THUNDER_RECOVERY_CAMPAIGN.md#L11",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/THUNDER_RECOVERY_CAMPAIGN.md#L12",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/THUNDER_RECOVERY_CAMPAIGN.md#L13"
+      ]
+    },
+    {
+      "path": "tools/doc_server.py",
+      "mode": "100644",
+      "sha": "5d373a98e6fe7a6a4ea44fc046c5234355afc93f",
+      "size": 24262,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 522,
+      "byte_count": 24262,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/doc_server.py#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/doc_server.py#L2",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/doc_server.py#L4",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/doc_server.py#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/doc_server.py#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/doc_server.py#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/doc_server.py#L8",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/doc_server.py#L9"
+      ]
+    },
+    {
+      "path": "tests/test_hunger_evaluator.py",
+      "mode": "100644",
+      "sha": "8b3077d9388dddb4b6a3c191f951516bde77f81d",
+      "size": 1577,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 40,
+      "byte_count": 1577,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_hunger_evaluator.py#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_hunger_evaluator.py#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_hunger_evaluator.py#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_hunger_evaluator.py#L13",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_hunger_evaluator.py#L14",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_hunger_evaluator.py#L15",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_hunger_evaluator.py#L16",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_hunger_evaluator.py#L23"
+      ]
+    },
+    {
+      "path": "tests/test_loopit_thunder.py",
+      "mode": "100644",
+      "sha": "4f001f886cae26d152c12e411529fc7085be7032",
+      "size": 1870,
+      "score": 74,
+      "reasons": [
+        "test surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 48,
+      "byte_count": 1870,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_loopit_thunder.py#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_loopit_thunder.py#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_loopit_thunder.py#L4",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_loopit_thunder.py#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_loopit_thunder.py#L27",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_loopit_thunder.py#L41",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_loopit_thunder.py#L43",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_loopit_thunder.py#L47"
+      ]
+    },
+    {
+      "path": "tools/__init__.py",
+      "mode": "100644",
+      "sha": "83d30faa4b5c505ed88d8e0f32d4ebf1df1596e4",
+      "size": 40,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 40,
+      "mechanics": [
+        "ai_pressure"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/__init__.py#L1"
+      ]
+    },
+    {
+      "path": "tools/call_claude_packet.py",
+      "mode": "100644",
+      "sha": "15e9b2a338257149a5985e7b08b9b89fdaa3c57c",
+      "size": 7577,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 189,
+      "byte_count": 7577,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/call_claude_packet.py#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/call_claude_packet.py#L2",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/call_claude_packet.py#L4",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/call_claude_packet.py#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/call_claude_packet.py#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/call_claude_packet.py#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/call_claude_packet.py#L8",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/call_claude_packet.py#L9"
+      ]
+    },
+    {
+      "path": "tools/hunger_evaluator.py",
+      "mode": "100644",
+      "sha": "e348a358fa746f50147695b179829d77626c75dd",
+      "size": 5174,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 133,
+      "byte_count": 5174,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/hunger_evaluator.py#L2",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/hunger_evaluator.py#L4",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/hunger_evaluator.py#L8",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/hunger_evaluator.py#L10",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/hunger_evaluator.py#L11",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/hunger_evaluator.py#L12",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/hunger_evaluator.py#L13",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/hunger_evaluator.py#L14"
+      ]
+    },
+    {
+      "path": "tools/loopit_thunder.py",
+      "mode": "100644",
+      "sha": "477e47544101c775089fd8e6dad4d38bb11f3309",
+      "size": 3435,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 100,
+      "byte_count": 3435,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/loopit_thunder.py#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/loopit_thunder.py#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/loopit_thunder.py#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/loopit_thunder.py#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/loopit_thunder.py#L8",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/loopit_thunder.py#L9",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/loopit_thunder.py#L10",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/loopit_thunder.py#L11"
+      ]
+    },
+    {
+      "path": "tools/thunder_recovery_campaign.py",
+      "mode": "100644",
+      "sha": "04a4130fff6238dbd1d4570b19406c8859925dde",
+      "size": 16863,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 359,
+      "byte_count": 16863,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L2",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L4",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L8",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L9",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L10"
+      ]
+    },
+    {
+      "path": "tools/turbo_survey.py",
+      "mode": "100644",
+      "sha": "fbaeb1627bcfd0f663749b2f20c9fd1e8d100925",
+      "size": 18620,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 336,
+      "byte_count": 18620,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/turbo_survey.py#L2",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/turbo_survey.py#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/turbo_survey.py#L13",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/turbo_survey.py#L15",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/turbo_survey.py#L16",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/turbo_survey.py#L17",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/turbo_survey.py#L18",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/turbo_survey.py#L19"
+      ]
+    },
+    {
+      "path": "prototypes/immune-maze-canvas/assets/asset_manifest.json",
+      "mode": "100644",
+      "sha": "24d7eb54a4b2d03996be114cf18df7d4f9fe40dd",
+      "size": 25915,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 485,
+      "byte_count": 25915,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/asset_manifest.json#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/asset_manifest.json#L2",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/asset_manifest.json#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/asset_manifest.json#L4",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/asset_manifest.json#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/asset_manifest.json#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/asset_manifest.json#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/asset_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json",
+      "mode": "100644",
+      "sha": "5bf2fd43c6fee31f9095d1bcb9512da84dbbfbd9",
+      "size": 18814,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 435,
+      "byte_count": 18814,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L2",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L4",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "prototypes/immune-maze-canvas/release/page_assets/page_asset_manifest.json",
+      "mode": "100644",
+      "sha": "b250b7b350b0eb76e9fcca7253f874e04d4cd99a",
+      "size": 1891,
+      "score": 24,
+      "reasons": [
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 41,
+      "byte_count": 1891,
+      "mechanics": [
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/page_assets/page_asset_manifest.json#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/page_assets/page_asset_manifest.json#L2",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/page_assets/page_asset_manifest.json#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/page_assets/page_asset_manifest.json#L4",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/page_assets/page_asset_manifest.json#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/page_assets/page_asset_manifest.json#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/page_assets/page_asset_manifest.json#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/page_assets/page_asset_manifest.json#L8"
+      ]
+    },
+    {
+      "path": "prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md",
+      "mode": "100644",
+      "sha": "c428b472cb4b50cfed3322e290e5034ddfe010e7",
+      "size": 4349,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 76,
+      "byte_count": 4349,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L12",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L13",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L15",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L17"
+      ]
+    },
+    {
+      "path": "prototypes/immune-maze-canvas/release/claude_itch_page_copy.json",
+      "mode": "100644",
+      "sha": "2050655904ebbcf66033c2d3969cd19fc416cf20",
+      "size": 5582,
+      "score": 12,
+      "reasons": [
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 56,
+      "byte_count": 5582,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L2",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L4",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L8"
+      ]
+    },
+    {
+      "path": "data/pattern_cards.json",
+      "mode": "100644",
+      "sha": "30c0f78601906dd26134fbc613e3acc133f40955",
+      "size": 41131,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1260,
+      "byte_count": 41131,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/pattern_cards.json#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/pattern_cards.json#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/pattern_cards.json#L9",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/pattern_cards.json#L11",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/pattern_cards.json#L12",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/pattern_cards.json#L18",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/pattern_cards.json#L20",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/pattern_cards.json#L24"
+      ]
+    },
+    {
+      "path": "data/source_observations.json",
+      "mode": "100644",
+      "sha": "a14f2a5492b93a9f2f4b032e5320a8821a749b2e",
+      "size": 10490,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 295,
+      "byte_count": 10490,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/source_observations.json#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/source_observations.json#L2",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/source_observations.json#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/source_observations.json#L4",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/source_observations.json#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/source_observations.json#L6",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/source_observations.json#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/data/source_observations.json#L8"
+      ]
+    },
+    {
+      "path": "prototypes/immune-maze-canvas/ROGUELIKE_WRITEUP.md",
+      "mode": "100644",
+      "sha": "709e503b0a3a24c909f97a40fd8ec701e5d1d773",
+      "size": 12420,
+      "score": 4,
+      "reasons": [
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 251,
+      "byte_count": 12420,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/ROGUELIKE_WRITEUP.md#L1",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/ROGUELIKE_WRITEUP.md#L3",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/ROGUELIKE_WRITEUP.md#L5",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/ROGUELIKE_WRITEUP.md#L7",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/ROGUELIKE_WRITEUP.md#L9",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/ROGUELIKE_WRITEUP.md#L10",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/ROGUELIKE_WRITEUP.md#L11",
+        "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/ROGUELIKE_WRITEUP.md#L12"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 3276,
+    "by_origin": {
+      "github": 3276
+    },
+    "by_project": {
+      "thunder-brainstorm": 3276
+    },
+    "by_mechanic": {
+      "asset_import_pipeline": 1575,
+      "tts_audio_pipeline": 1068,
+      "ai_pressure": 771,
+      "web_choice_player": 658,
+      "source_packet_generation": 310,
+      "pose_animation_tools": 288,
+      "text_console_runtime": 204,
+      "touch_lane_combat": 75,
+      "vehicle_survival": 69,
+      "resource_upgrade_loop": 64,
+      "delayed_consequences": 52,
+      "writing_corpus_review": 39,
+      "validation_pipeline": 36,
+      "deck_pressure": 21,
+      "event_clouds": 20
+    },
+    "examples": {
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 1,
+          "symbol": "Thunder Brainstorm",
+          "evidence": "# Thunder Brainstorm",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Thunder Brainstorm is a local game-idea engine built from generalized patterns observed across this workspace and GitHub repository metadata. It is intentionally not a repo copi...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The bounded `Hunger → Loopit → Thunder Brainstorm` lane generates deterministic pitches, applies an evidence-bearing Hunger gate, quarantines failed candidates, and prepares pas...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "The manually dispatched GitHub Actions entrypoint is `.github/workflows/hunger-loopit-thunder.yml`. See `docs/HUNGER_LOOPIT_THUNDER.md` for the recovered contract, boundaries, a...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Prospector artifacts mine the Thunder Brainstorm corpus for repeated operator judgment rather than project summaries:",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- `generated/behavioral_mining/prospector_wwdd_thunder_brainstorm_2026-06-22.md`: evidence-backed behavioral distillation, WWDD candidates, Crucible scoring, gold promotions, an...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- `generated/session_learnings/2026-06-05_armor_command_prototype_lessons.md`: prototype lessons from the Armor Command pivot, input tuning, sprite atlas, generated assets, WebA...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 45,
+          "symbol": "",
+          "evidence": "python thunder_brainstorm.py list",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L45"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Thunder Brainstorm is a local game-idea engine built from generalized patterns observed across this workspace and GitHub repository metadata. It is intentionally not a repo copi...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "Armor Command / Page Assets",
+          "evidence": "## Armor Command / Page Assets",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- `generated/page_assets/armor_command_page_copy.md`: actual Armor Command itch/page copy.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- `generated/page_assets/armor_command_icon_512.png`: actual 512px Armor Command icon.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- `generated/page_assets/armor_command_icon_1024.png`: actual 1024px Armor Command icon.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- `generated/page_assets/armor_command_page_assets_manifest.json`: Thunder mirror manifest for the page copy and icon files.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- `generated/project_links/armor_command_project_links.md`: Armor Command copy, icon paths, release asset links, and current pitch.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "- `generated/project_links/armor_command_project_links.json`: machine-readable paths for page copy and icon assets.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L34"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "Hunger / Loopit automation lane",
+          "evidence": "## Hunger / Loopit automation lane",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The bounded `Hunger → Loopit → Thunder Brainstorm` lane generates deterministic pitches, applies an evidence-bearing Hunger gate, quarantines failed candidates, and prepares pas...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "python thunder_brainstorm.py search-index --mechanic touch_lane_combat --project gravity-fist --index generated/index/mechanic_source_refs.jsonl",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- Godot mobile combat, touch lanes, handoff-to-duel presentation, and survivorlike offer loops.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 135,
+          "symbol": "",
+          "evidence": "New generalized pattern cards from this pass include `mobile_canvas_release_workbench`, `recursive_knockback_dash_core`, `bounded_ai_release_scribe`, and `generated_asset_proven...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L135"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 155,
+          "symbol": "",
+          "evidence": "- `generated/session_learnings/2026-06-07_gravity_fist_threejs_dash_pushback_parity.md`",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L155"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "state.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "Technical lane: `Valar05/thunder-brainstorm` through Command Center / GitHub",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "state.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Status: IMPLEMENTED, TESTED, MERGED, DEPLOYED TO THE DEFAULT BRANCH, AND MANUALLY CALLABLE; ONE CANARY EXECUTED; ARTIFACT DELIVERY BLOCKED BY GITHUB ACTIONS STORAGE QUOTA; NOT S...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L9"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 5,
+          "symbol": "Hunger / Loopit automation lane",
+          "evidence": "## Hunger / Loopit automation lane",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 7,
+          "symbol": "",
+          "evidence": "The bounded `Hunger → Loopit → Thunder Brainstorm` lane generates deterministic pitches, applies an evidence-bearing Hunger gate, quarantines failed candidates, and prepares pas...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 56,
+          "symbol": "",
+          "evidence": "python thunder_brainstorm.py search-index --mechanic touch_lane_combat --project gravity-fist --index generated/index/mechanic_source_refs.jsonl",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L56"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "- `long-haul`: highway vehicle survivorlike, cockpit HUD zones, pursuer rearm gaps, layered vehicle audio, CC asset sourcing.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- Godot mobile combat, touch lanes, handoff-to-duel presentation, and survivorlike offer loops.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 120,
+          "symbol": "",
+          "evidence": "- `generated/session_learnings/2026-06-05_armor_command_prototype_lessons.md`: vehicle pivot, touch/missile input tuning, per-rack cooldowns, generated sprite-sheet atlas pitfal...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L120"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 178,
+          "symbol": "",
+          "evidence": "Last Convoy source-parity and canvas-port learnings are preserved for future vehicle/snake-convoy prototypes:",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L178"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/README.md",
+          "line": 58,
+          "symbol": "",
+          "evidence": "- Infection enemies pathfind through the tissue, kill on contact, emerge from a marked Infection Nest, avoid lymph-gate spawning, separate while chasing, respawn until the nest ...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L58"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Prospector artifacts mine the Thunder Brainstorm corpus for repeated operator judgment rather than project summaries:",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- `generated/release_packets/armor_command_itch/DEVLOG_v1.0.0.md`: Armor Command v1.0 devlog copy in the Marrow Runner scribe style.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- `generated/release_packets/armor_command_itch/TWITTER_v1.0.0.md`: Armor Command v1.0 Twitter/X post copy with a 280-character primary version.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 50,
+          "symbol": "",
+          "evidence": "python thunder_brainstorm.py index-corpus --root .. --out-dir generated/index",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L50"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "python thunder_brainstorm.py index-corpus --root .. --include-gh --owner Valar05 --gh-limit 20 --out-dir generated/index_full",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 52,
+          "symbol": "",
+          "evidence": "python thunder_brainstorm.py index-corpus --skip-local --include-gh --owner Valar05 --gh-limit 10 --max-gh-files-per-repo 25 --out-dir generated/index_github",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L52"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "python thunder_brainstorm.py index-corpus --skip-local --include-gh --owner Valar05 --repo long-haul --max-gh-files-per-repo 30 --out-dir generated/index_long_haul",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L53"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "python thunder_brainstorm.py index-corpus --root .. --include-generated --out-dir generated/index_with_generated",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L54"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "Prospector artifacts mine the Thunder Brainstorm corpus for repeated operator judgment rather than project summaries:",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- Current workspace projects: Godot text-choice stacks, event-cloud web prototypes, combat/action prototypes, Phalanx pose lab, SteamPile resource microloops, and Legion writing...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- Godot mobile combat, touch lanes, handoff-to-duel presentation, and survivorlike offer loops.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 130,
+          "symbol": "",
+          "evidence": "- `generated/session_learnings/2026-06-06_marrow_runner_upgrade_leakfix_rc4.md`: upgrade branch/capstone/synergy implementation, New Run choppiness lifecycle fix, rc4 itch targe...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L130"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 185,
+          "symbol": "",
+          "evidence": "New generalized pattern cards from this pass include `snake_convoy_upgrade_chain`, `source_parity_canvas_port`, `canvas_webgl_shader_bridge`, `textured_fragmentation_port`, and ...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L185"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/README.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "- Antibody vacuum upgrade hook pulls nearby antibodies into the player.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tools/doc_server.py",
+          "line": 34,
+          "symbol": "",
+          "evidence": "\"player_upgrades\": \"Player Upgrades\",",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/doc_server.py#L34"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tests/test_hunger_evaluator.py",
+          "line": 13,
+          "symbol": "",
+          "evidence": "\"player_loop\": [\"Choose how to interrupt an offer.\", \"Resolve a later consequence.\"],",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_hunger_evaluator.py#L13"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 23,
+          "symbol": "Armor Command / Page Assets",
+          "evidence": "## Armor Command / Page Assets",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "- `generated/page_assets/armor_command_page_copy.md`: actual Armor Command itch/page copy.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "- `generated/page_assets/armor_command_icon_512.png`: actual 512px Armor Command icon.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L28"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "- `generated/page_assets/armor_command_icon_1024.png`: actual 1024px Armor Command icon.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- `generated/page_assets/armor_command_page_assets_manifest.json`: Thunder mirror manifest for the page copy and icon files.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 31,
+          "symbol": "",
+          "evidence": "- `generated/release_packets/armor_command_itch/DEVLOG_v1.0.0.md`: Armor Command v1.0 devlog copy in the Marrow Runner scribe style.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L31"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "- `generated/release_packets/armor_command_itch/TWITTER_v1.0.0.md`: Armor Command v1.0 Twitter/X post copy with a 280-character primary version.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "- `generated/project_links/armor_command_project_links.md`: Armor Command copy, icon paths, release asset links, and current pitch.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L33"
+        }
+      ],
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "- `generated/page_assets/armor_command_page_assets_manifest.json`: Thunder mirror manifest for the page copy and icon files.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- `generated/session_learnings/2026-06-05_armor_command_prototype_lessons.md`: prototype lessons from the Armor Command pivot, input tuning, sprite atlas, generated assets, WebA...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "- `long-haul`: highway vehicle survivorlike, cockpit HUD zones, pursuer rearm gaps, layered vehicle audio, CC asset sourcing.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 74,
+          "symbol": "",
+          "evidence": "- Validation-first content pipelines, TTS manifests, and nondestructive writing labs.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L74"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 159,
+          "symbol": "",
+          "evidence": "The workspace CLI is `../tools/meshy_asset_workflow.py`. Use it to generate or track DALL-E/OpenAI concept images, Meshy image-to-3D tasks, Meshy rigging tasks, downloads, and p...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L159"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 169,
+          "symbol": "",
+          "evidence": "- `web_audio_buffer_sfx_bus`",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L169"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "generated/release_packets/marrow_runner_itch/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- [Page asset provenance](page_asset_manifest.json)",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/release_packets/marrow_runner_itch/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/README.md",
+          "line": 28,
+          "symbol": "",
+          "evidence": "The generated file lands under `release/` and includes the runtime web files, generated assets, and asset/SFX manifests. It intentionally excludes screenshots, harness pages, ge...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L28"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 35,
+          "symbol": "",
+          "evidence": "- `generated/session_learnings/2026-06-05_armor_command_prototype_lessons.md`: prototype lessons from the Armor Command pivot, input tuning, sprite atlas, generated assets, WebA...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L35"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- `generated/skills/armor_command_html5_release_operator.md`: Thunder-visible workflow skill note for Armor Command-style HTML5/canvas release operations.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- Current workspace projects: Godot text-choice stacks, event-cloud web prototypes, combat/action prototypes, Phalanx pose lab, SteamPile resource microloops, and Legion writing...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 73,
+          "symbol": "",
+          "evidence": "- Text-console choice runtimes, local review surfaces, and web choice players.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L73"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 106,
+          "symbol": "Doc Server",
+          "evidence": "## Doc Server",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L106"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 111,
+          "symbol": "",
+          "evidence": "python tools/doc_server.py --host 127.0.0.1 --port 8765",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L111"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 114,
+          "symbol": "",
+          "evidence": "Open `http://127.0.0.1:8765/`. JSON files render as structured documents, Markdown/text files render as readable pages, and large JSONL indexes include a search preview instead ...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L114"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 139,
+          "symbol": "",
+          "evidence": "A first playable HTML canvas prototype lives in `prototypes/immune-maze-canvas/`. Run it with:",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L139"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 64,
+          "symbol": "",
+          "evidence": "- `long-haul`: highway vehicle survivorlike, cockpit HUD zones, pursuer rearm gaps, layered vehicle audio, CC asset sourcing.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L64"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 65,
+          "symbol": "",
+          "evidence": "- Current workspace projects: Godot text-choice stacks, event-cloud web prototypes, combat/action prototypes, Phalanx pose lab, SteamPile resource microloops, and Legion writing...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L65"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 72,
+          "symbol": "",
+          "evidence": "- Godot mobile combat, touch lanes, handoff-to-duel presentation, and survivorlike offer loops.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L72"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 93,
+          "symbol": "",
+          "evidence": "- `mechanic_index_summary.json`: counts by mechanic, project, origin, and representative examples.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L93"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 96,
+          "symbol": "",
+          "evidence": "Each source record includes the origin, project/repo, path, line number, symbol/key/heading when detected, mechanic tags, and a compact evidence line. This is the audit trail fo...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L96"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 100,
+          "symbol": "",
+          "evidence": "Cauldron laptop workspace records use origin `cauldron` and `ssh://dclar@192.168.40.213/C:/Users/dclar/workspace/...#L...` source URLs. The generated catalog lives in `generated...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L100"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 118,
+          "symbol": "",
+          "evidence": "Armor Command learnings from the missile-command survivorlike prototype are preserved for future brainstorming passes:",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L118"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 159,
+          "symbol": "",
+          "evidence": "The workspace CLI is `../tools/meshy_asset_workflow.py`. Use it to generate or track DALL-E/OpenAI concept images, Meshy image-to-3D tasks, Meshy rigging tasks, downloads, and p...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L159"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "- Pressure arenas, event clouds, delayed consequences, and deck-driven pacing.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/README.md",
+          "line": 62,
+          "symbol": "",
+          "evidence": "- Mobile and fullscreen play hide the HTML HUD, draw a compact canvas HUD, and give the whole viewport to touch input.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L62"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "state.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "3. Drew must choose cadence, timezone, default focus/count/seed policy, and notification behavior before ChatGPT scheduling is configured or enabled.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/state.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "docs/HUNGER_LOOPIT_THUNDER.md",
+          "line": 39,
+          "symbol": "",
+          "evidence": "- Drew must choose cadence, timezone, default focus/count/seed policy, and notification behavior before a recurring ChatGPT automation is enabled.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/HUNGER_LOOPIT_THUNDER.md#L39"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json",
+          "line": 25,
+          "symbol": "",
+          "evidence": "\"drawMenuButton actions via handleMenuPointer\",",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L25"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json",
+          "line": 383,
+          "symbol": "",
+          "evidence": "\"drawCanvasHud fever state\"",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L383"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "data/pattern_cards.json",
+          "line": 197,
+          "symbol": "id",
+          "evidence": "\"id\": \"deck_pressure_run_manager\",",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/data/pattern_cards.json#L197"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "data/pattern_cards.json",
+          "line": 199,
+          "symbol": "name",
+          "evidence": "\"name\": \"Deck-driven run pressure\",",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/data/pattern_cards.json#L199"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "- Pressure arenas, event clouds, delayed consequences, and deck-driven pacing.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/README.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "- Antibody vacuum upgrade hook pulls nearby antibodies into the player.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tools/hunger_evaluator.py",
+          "line": 30,
+          "symbol": "",
+          "evidence": "\"terms\": (\"consequence\", \"state\", \"change\", \"changed\", \"later\", \"echo\", \"risk\", \"cost\", \"debt\"),",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/hunger_evaluator.py#L30"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tools/hunger_evaluator.py",
+          "line": 40,
+          "symbol": "",
+          "evidence": "\"terms\": (\"reshape\", \"alter\", \"change\", \"next\", \"later\", \"echo\", \"replay\", \"mutate\", \"before and after\"),",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/hunger_evaluator.py#L40"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tools/turbo_survey.py",
+          "line": 61,
+          "symbol": "",
+          "evidence": "\"agent\": (\"agent\", \"worker\", \"orchestrat\", \"prompt\", \"memory\", \"capability\", \"dispatcher\"),",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/turbo_survey.py#L61"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/assets/asset_manifest.json",
+          "line": 191,
+          "symbol": "target_use",
+          "evidence": "\"target_use\": \"Defines planned Marrow Runner sound-effect events, target feel, generation strategy, hook points, and generation order.\",",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/asset_manifest.json#L191"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json",
+          "line": 24,
+          "symbol": "hook_points",
+          "evidence": "\"hook_points\": [",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L24"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json",
+          "line": 50,
+          "symbol": "hook_points",
+          "evidence": "\"hook_points\": [",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/assets/sfx/sfx_manifest.json#L50"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 94,
+          "symbol": "",
+          "evidence": "- `mechanic_index_report.md`: readable mechanic headings with source examples.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L94"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 98,
+          "symbol": "",
+          "evidence": "Generated folders are skipped by default to keep the index focused on code, docs, schemas, and project metadata. Use `--include-generated` when you want generated content patche...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L98"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 108,
+          "symbol": "",
+          "evidence": "Run a local document browser for generated stubs, source packets, corpus reports, and index files:",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L108"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "generated/release_packets/marrow_runner_itch/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- [Final itch page copy draft](ITCH_PAGE_COPY.md)",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/generated/release_packets/marrow_runner_itch/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "docs/HUNGER_LOOPIT_THUNDER.md",
+          "line": 34,
+          "symbol": "",
+          "evidence": "After this workflow is merged into the default branch, Command Center can dispatch `hunger-loopit-thunder.yml` with `focus`, `count`, and `seed` inputs. A ChatGPT schedule can b...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/HUNGER_LOOPIT_THUNDER.md#L34"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tools/doc_server.py",
+          "line": 263,
+          "symbol": "",
+          "evidence": "<p class=\"subtle\">Browse generated game stubs, source packets, corpus reports, and index artifacts.</p>",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/doc_server.py#L263"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tools/thunder_recovery_campaign.py",
+          "line": 44,
+          "symbol": "",
+          "evidence": "for chunk in iter(lambda: f.read(1024 * 1024), b\"\"):",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L44"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tools/thunder_recovery_campaign.py",
+          "line": 45,
+          "symbol": "",
+          "evidence": "h.update(chunk)",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L45"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "README.md",
+          "line": 96,
+          "symbol": "",
+          "evidence": "Each source record includes the origin, project/repo, path, line number, symbol/key/heading when detected, mechanic tags, and a compact evidence line. This is the audit trail fo...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/README.md#L96"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/README.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "`ITCH_API_KEY` is for upload tooling only. Do not add it to source files, manifests, release zips, or logs. Upload the release as a private/unlisted itch build first, then smoke...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/README.md",
+          "line": 66,
+          "symbol": "",
+          "evidence": "- Antibody pickup has a short locally synthesized wet-glint sound effect played through low-latency decoded Web Audio with an overlapping HTMLAudio fallback pool.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L66"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "docs/THUNDER_RECOVERY_CAMPAIGN.md",
+          "line": 33,
+          "symbol": "",
+          "evidence": "Validate `survey.json` schema `thunder.turbo-survey.v1`, non-empty repo coverage, expected machine label, environment-machine provenance, timestamp freshness, repo count, and SH...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/THUNDER_RECOVERY_CAMPAIGN.md#L33"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "docs/THUNDER_RECOVERY_CAMPAIGN.md",
+          "line": 67,
+          "symbol": "",
+          "evidence": "8. The recovery directory must contain and validate:",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/docs/THUNDER_RECOVERY_CAMPAIGN.md#L67"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tests/test_hunger_evaluator.py",
+          "line": 16,
+          "symbol": "",
+          "evidence": "\"validation_plan\": [\"Audit the changed state.\"],",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tests/test_hunger_evaluator.py#L16"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tools/thunder_recovery_campaign.py",
+          "line": 8,
+          "symbol": "",
+          "evidence": "Local recovery verification is strict: both surveys must parse, match expected",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/thunder_recovery_campaign.py#L8"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "tools/turbo_survey.py",
+          "line": 60,
+          "symbol": "",
+          "evidence": "\"testing\": (\"test\", \"fixture\", \"spec\", \"smoke\", \"acceptance\", \"fuzz\"),",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/tools/turbo_survey.py#L60"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/README.md",
+          "line": 51,
+          "symbol": "",
+          "evidence": "- Main menu includes a standalone Tutorial button for movement, Pseudopod Ram, knockback, and chain reactions; the first New Run shows a one-time tutorial prompt only until the ...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/README.md#L51"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "A seeded immune-cell maze chase about cleansing infection nests and ramming germs into chain reactions.",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "The signature move is Pseudopod Ram. Release input to rearm, then move from rest to burst forward. A rammed germ becomes a projectile. If it hits a wall or another germ, it dies...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- Tutorial scene for movement, ram timing, and chain reactions",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md",
+          "line": 70,
+          "symbol": "",
+          "evidence": "Write concise itch.io page copy for a browser-playable game called Marrow Runner. It is an immune-cell maze chase: guide a phagocyte through organic tissue mazes, collect antibo...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/ITCH_PAGE_COPY.md#L70"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/release/claude_itch_page_copy.json",
+          "line": 2,
+          "symbol": "short_description",
+          "evidence": "\"short_description\": \"Browser maze chase: guide a phagocyte through living tissue, ram germs into chain reactions, cleanse the infection nest.\",",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L2"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/release/claude_itch_page_copy.json",
+          "line": 3,
+          "symbol": "page_description_markdown",
+          "evidence": "\"page_description_markdown\": \"**Marrow Runner** is a browser-playable immune-cell maze chase. You steer a phagocyte through seeded organic tissue mazes, collect antibodies scatt...",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L3"
+        },
+        {
+          "origin": "github",
+          "project": "thunder-brainstorm",
+          "repo": "Valar05/thunder-brainstorm",
+          "path": "prototypes/immune-maze-canvas/release/claude_itch_page_copy.json",
+          "line": 12,
+          "symbol": "",
+          "evidence": "\"Built-in tutorial covering movement, ram timing, knockback, and chain reactions\",",
+          "source_url": "https://github.com/Valar05/thunder-brainstorm/blob/main/prototypes/immune-maze-canvas/release/claude_itch_page_copy.json#L12"
+        }
+      ]
+    }
+  }
+}

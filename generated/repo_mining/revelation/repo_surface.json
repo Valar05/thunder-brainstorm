@@ -1,0 +1,2109 @@
+{
+  "repo": "Valar05/revelation",
+  "branch": "main",
+  "metadata": {
+    "defaultBranchRef": {
+      "name": "main"
+    },
+    "description": "",
+    "homepageUrl": "",
+    "isPrivate": false,
+    "name": "revelation",
+    "updatedAt": "2026-06-20T23:21:28Z",
+    "url": "https://github.com/Valar05/revelation",
+    "visibility": "PUBLIC"
+  },
+  "policy": "read-only GitHub repo surface mining; no body cloning beyond selected surface files",
+  "selected_file_count": 24,
+  "selected_files": [
+    {
+      "path": "tools/README.md",
+      "mode": "100644",
+      "sha": "b7237a71087244b9c4315174448f4d81e86d2fe6",
+      "size": 1261,
+      "score": 180,
+      "reasons": [
+        "root readme",
+        "helper tooling",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 43,
+      "byte_count": 1261,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/README.md#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/README.md#L3",
+        "https://github.com/Valar05/revelation/blob/main/tools/README.md#L5",
+        "https://github.com/Valar05/revelation/blob/main/tools/README.md#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/README.md#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/README.md#L12",
+        "https://github.com/Valar05/revelation/blob/main/tools/README.md#L13",
+        "https://github.com/Valar05/revelation/blob/main/tools/README.md#L14"
+      ]
+    },
+    {
+      "path": "audio/README.md",
+      "mode": "100644",
+      "sha": "acd6653fcb5ce028c7fc119ab9c1531b5c547508",
+      "size": 2534,
+      "score": 124,
+      "reasons": [
+        "root readme",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 49,
+      "byte_count": 2534,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/audio/README.md#L1",
+        "https://github.com/Valar05/revelation/blob/main/audio/README.md#L3",
+        "https://github.com/Valar05/revelation/blob/main/audio/README.md#L5",
+        "https://github.com/Valar05/revelation/blob/main/audio/README.md#L7",
+        "https://github.com/Valar05/revelation/blob/main/audio/README.md#L9",
+        "https://github.com/Valar05/revelation/blob/main/audio/README.md#L11",
+        "https://github.com/Valar05/revelation/blob/main/audio/README.md#L12",
+        "https://github.com/Valar05/revelation/blob/main/audio/README.md#L13"
+      ]
+    },
+    {
+      "path": "generated/corpus/README.md",
+      "mode": "100644",
+      "sha": "3c9dfa7360afacfec74118fd8f3633490d42c363",
+      "size": 1264,
+      "score": 112,
+      "reasons": [
+        "root readme",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 22,
+      "byte_count": 1264,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L1",
+        "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L3",
+        "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L5",
+        "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L7",
+        "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L9",
+        "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L10",
+        "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L11",
+        "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L12"
+      ]
+    },
+    {
+      "path": "PROJECT_ORIENTATION.md",
+      "mode": "100644",
+      "sha": "6ebe8e50ac103f593074bbf38c4a153ba3a0be3a",
+      "size": 2723,
+      "score": 108,
+      "reasons": [
+        "project orientation",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 54,
+      "byte_count": 2723,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L3",
+        "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L5",
+        "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L10",
+        "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L11",
+        "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L12",
+        "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L14",
+        "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L18",
+        "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L19"
+      ]
+    },
+    {
+      "path": "package.json",
+      "mode": "100644",
+      "sha": "55871070b4ac418bb3e262f0081556d2e998b94f",
+      "size": 228,
+      "score": 96,
+      "reasons": [
+        "package contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 12,
+      "byte_count": 228,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/package.json#L5",
+        "https://github.com/Valar05/revelation/blob/main/package.json#L8",
+        "https://github.com/Valar05/revelation/blob/main/package.json#L10"
+      ]
+    },
+    {
+      "path": "project.godot",
+      "mode": "100644",
+      "sha": "27e8654360bd7ec4e9a1254fa758efa364e5b873",
+      "size": 784,
+      "score": 92,
+      "reasons": [
+        "godot project contract",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 37,
+      "byte_count": 784,
+      "mechanics": [
+        "ai_pressure",
+        "pose_animation_tools",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/project.godot#L13",
+        "https://github.com/Valar05/revelation/blob/main/project.godot#L18",
+        "https://github.com/Valar05/revelation/blob/main/project.godot#L22",
+        "https://github.com/Valar05/revelation/blob/main/project.godot#L35",
+        "https://github.com/Valar05/revelation/blob/main/project.godot#L37"
+      ]
+    },
+    {
+      "path": "tools/tts_manifest_prefer_existing_format.py",
+      "mode": "100644",
+      "sha": "b814f5c7b2c582d9ef69579d6100761a5dbb5289",
+      "size": 3138,
+      "score": 92,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "contract surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 88,
+      "byte_count": 3138,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L4",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L12"
+      ]
+    },
+    {
+      "path": "tools/tts_borrowed_audio_smoke.gd",
+      "mode": "100644",
+      "sha": "6cce451b6251f790fa127b2df72e56a771e8a9c6",
+      "size": 7763,
+      "score": 84,
+      "reasons": [
+        "helper tooling",
+        "motion surface",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 177,
+      "byte_count": 7763,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L3",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L10",
+        "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/tts_borrowed_audio_smoke.gd.uid",
+      "mode": "100644",
+      "sha": "c85efeff90c2b2895231a127ba667f3795160d69",
+      "size": 19,
+      "score": 80,
+      "reasons": [
+        "helper tooling",
+        "motion surface"
+      ],
+      "status": "fetched",
+      "line_count": 1,
+      "byte_count": 19,
+      "mechanics": []
+    },
+    {
+      "path": "tools/SCENARIO_AGENT.md",
+      "mode": "100644",
+      "sha": "d3624800f375df0b3d9ca87b5a5bde47b0f678cb",
+      "size": 6250,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 170,
+      "byte_count": 6250,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L13",
+        "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L24",
+        "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L27",
+        "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L30",
+        "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L33",
+        "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L36"
+      ]
+    },
+    {
+      "path": "tools/add_bitter_water_scenario.py",
+      "mode": "100644",
+      "sha": "fda0e8cce732796aa473072bf8a6af438d8cf58f",
+      "size": 62187,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1206,
+      "byte_count": 62187,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L11",
+        "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L12",
+        "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L13",
+        "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L17",
+        "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L19"
+      ]
+    },
+    {
+      "path": "tools/artifact_inventory_smoke.gd",
+      "mode": "100644",
+      "sha": "389cf69093c1c6a26a0cdefa4647bc1c55234345",
+      "size": 4393,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 120,
+      "byte_count": 4393,
+      "mechanics": [
+        "ai_pressure",
+        "delayed_consequences",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/artifact_inventory_smoke.gd#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/artifact_inventory_smoke.gd#L3",
+        "https://github.com/Valar05/revelation/blob/main/tools/artifact_inventory_smoke.gd#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/artifact_inventory_smoke.gd#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/artifact_inventory_smoke.gd#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/artifact_inventory_smoke.gd#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/artifact_inventory_smoke.gd#L11",
+        "https://github.com/Valar05/revelation/blob/main/tools/artifact_inventory_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/build_new_player_reader_packet.py",
+      "mode": "100644",
+      "sha": "b792670d2cfcf9e44b2d80ed85a67370e164455a",
+      "size": 16394,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 402,
+      "byte_count": 16394,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/build_new_player_reader_packet.py#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/build_new_player_reader_packet.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/build_new_player_reader_packet.py#L4",
+        "https://github.com/Valar05/revelation/blob/main/tools/build_new_player_reader_packet.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/build_new_player_reader_packet.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/build_new_player_reader_packet.py#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/build_new_player_reader_packet.py#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/build_new_player_reader_packet.py#L12"
+      ]
+    },
+    {
+      "path": "tools/corpus_agent.py",
+      "mode": "100644",
+      "sha": "afbcfe159c24dad8c18fcbd1194d00fc42ef1ab4",
+      "size": 82298,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 1571,
+      "byte_count": 82298,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "vehicle_survival",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L4",
+        "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L10"
+      ]
+    },
+    {
+      "path": "tools/fix_tts_wav_headers.py",
+      "mode": "100644",
+      "sha": "397bd92060ed177a48cee5e026cab7f21e67bcc5",
+      "size": 2896,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 82,
+      "byte_count": 2896,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/fix_tts_wav_headers.py#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/fix_tts_wav_headers.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/fix_tts_wav_headers.py#L4",
+        "https://github.com/Valar05/revelation/blob/main/tools/fix_tts_wav_headers.py#L5",
+        "https://github.com/Valar05/revelation/blob/main/tools/fix_tts_wav_headers.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/fix_tts_wav_headers.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/fix_tts_wav_headers.py#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/fix_tts_wav_headers.py#L11"
+      ]
+    },
+    {
+      "path": "tools/generate_tts_clips.py",
+      "mode": "100644",
+      "sha": "faeeaa1e3c4461446af89377a187445768e928e2",
+      "size": 16209,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 395,
+      "byte_count": 16209,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "pose_animation_tools",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "web_choice_player"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/generate_tts_clips.py#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/generate_tts_clips.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/generate_tts_clips.py#L4",
+        "https://github.com/Valar05/revelation/blob/main/tools/generate_tts_clips.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/generate_tts_clips.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/generate_tts_clips.py#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/generate_tts_clips.py#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/generate_tts_clips.py#L10"
+      ]
+    },
+    {
+      "path": "tools/post_update_room_smoke.gd",
+      "mode": "100644",
+      "sha": "53c4fd46cd99c3f8cd18dd536442c8c71479593a",
+      "size": 7814,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 198,
+      "byte_count": 7814,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/post_update_room_smoke.gd#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/post_update_room_smoke.gd#L3",
+        "https://github.com/Valar05/revelation/blob/main/tools/post_update_room_smoke.gd#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/post_update_room_smoke.gd#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/post_update_room_smoke.gd#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/post_update_room_smoke.gd#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/post_update_room_smoke.gd#L11",
+        "https://github.com/Valar05/revelation/blob/main/tools/post_update_room_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/project_bootstrap.py",
+      "mode": "100644",
+      "sha": "7108da1448b8dcc715a3e101eb1f2f14f11e795a",
+      "size": 27160,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 690,
+      "byte_count": 27160,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "event_clouds",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/project_bootstrap.py#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/project_bootstrap.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/project_bootstrap.py#L4",
+        "https://github.com/Valar05/revelation/blob/main/tools/project_bootstrap.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/project_bootstrap.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/project_bootstrap.py#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/project_bootstrap.py#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/project_bootstrap.py#L10"
+      ]
+    },
+    {
+      "path": "tools/revelation_blueprint_agent.py",
+      "mode": "100644",
+      "sha": "83c3c8e5517b3061d46ba792047f6183f0d73e75",
+      "size": 27122,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 529,
+      "byte_count": 27122,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_agent.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_agent.py#L4",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_agent.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_agent.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_agent.py#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_agent.py#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_agent.py#L10",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_agent.py#L11"
+      ]
+    },
+    {
+      "path": "tools/revelation_blueprint_compiler.py",
+      "mode": "100644",
+      "sha": "f926e627a2eed4cfd837bdf3bc43e8b5634e4153",
+      "size": 36008,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 847,
+      "byte_count": 36008,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_compiler.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_compiler.py#L4",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_compiler.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_compiler.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_compiler.py#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_compiler.py#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_compiler.py#L10",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_blueprint_compiler.py#L15"
+      ]
+    },
+    {
+      "path": "tools/revelation_content_auditor.py",
+      "mode": "100644",
+      "sha": "57d6e1f534ff9df9bbe3886943f0d372247b6f91",
+      "size": 15423,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 338,
+      "byte_count": 15423,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "delayed_consequences",
+        "pose_animation_tools",
+        "resource_upgrade_loop",
+        "source_packet_generation",
+        "text_console_runtime",
+        "touch_lane_combat",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_content_auditor.py#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_content_auditor.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_content_auditor.py#L3",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_content_auditor.py#L5",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_content_auditor.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_content_auditor.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_content_auditor.py#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_content_auditor.py#L10"
+      ]
+    },
+    {
+      "path": "tools/revelation_corpus_tools.py",
+      "mode": "100644",
+      "sha": "17c86e7144677eeccf4cbb81a7a4bcfbb140152c",
+      "size": 12524,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 323,
+      "byte_count": 12524,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "event_clouds",
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "tts_audio_pipeline",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_corpus_tools.py#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_corpus_tools.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_corpus_tools.py#L3",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_corpus_tools.py#L5",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_corpus_tools.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_corpus_tools.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_corpus_tools.py#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_corpus_tools.py#L9"
+      ]
+    },
+    {
+      "path": "tools/revelation_pressure_smoke.gd",
+      "mode": "100644",
+      "sha": "ce3a4c4a79e7c505098a06849121a80379695169",
+      "size": 3260,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 92,
+      "byte_count": 3260,
+      "mechanics": [
+        "pose_animation_tools",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_pressure_smoke.gd#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_pressure_smoke.gd#L3",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_pressure_smoke.gd#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_pressure_smoke.gd#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_pressure_smoke.gd#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_pressure_smoke.gd#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_pressure_smoke.gd#L11",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_pressure_smoke.gd#L12"
+      ]
+    },
+    {
+      "path": "tools/revelation_room_pipeline.py",
+      "mode": "100644",
+      "sha": "24c9276aa3d4e6688f8caa85d073050648be01da",
+      "size": 17550,
+      "score": 72,
+      "reasons": [
+        "helper tooling",
+        "indexable text"
+      ],
+      "status": "fetched",
+      "line_count": 469,
+      "byte_count": 17550,
+      "mechanics": [
+        "ai_pressure",
+        "asset_import_pipeline",
+        "deck_pressure",
+        "delayed_consequences",
+        "source_packet_generation",
+        "text_console_runtime",
+        "validation_pipeline",
+        "web_choice_player",
+        "writing_corpus_review"
+      ],
+      "source_line_refs": [
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_room_pipeline.py#L1",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_room_pipeline.py#L2",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_room_pipeline.py#L4",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_room_pipeline.py#L6",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_room_pipeline.py#L7",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_room_pipeline.py#L8",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_room_pipeline.py#L9",
+        "https://github.com/Valar05/revelation/blob/main/tools/revelation_room_pipeline.py#L10"
+      ]
+    }
+  ],
+  "mechanic_summary": {
+    "record_count": 5253,
+    "by_origin": {
+      "github": 5253
+    },
+    "by_project": {
+      "revelation": 5253
+    },
+    "by_mechanic": {
+      "source_packet_generation": 2257,
+      "validation_pipeline": 1564,
+      "text_console_runtime": 1306,
+      "tts_audio_pipeline": 754,
+      "asset_import_pipeline": 574,
+      "pose_animation_tools": 467,
+      "ai_pressure": 437,
+      "web_choice_player": 384,
+      "delayed_consequences": 239,
+      "writing_corpus_review": 143,
+      "resource_upgrade_loop": 103,
+      "deck_pressure": 68,
+      "event_clouds": 29,
+      "touch_lane_combat": 20,
+      "vehicle_survival": 15
+    },
+    "examples": {
+      "tts_audio_pipeline": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 1,
+          "symbol": "Revelation Audio",
+          "evidence": "# Revelation Audio",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "TTS audio from the legacy project was not copied.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Keep the project text-first until the first Revelation vertical slice is accepted, then regenerate audio from the new event text.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 1,
+          "symbol": "Revelation Audio",
+          "evidence": "# Revelation Audio",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "TTS audio from the legacy project was not copied.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Keep the project text-first until the first Revelation vertical slice is accepted, then regenerate audio from the new event text.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 7,
+          "symbol": "Pre-Generation Standardization",
+          "evidence": "## Pre-Generation Standardization",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Run this before generating or paying for TTS:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L9"
+        }
+      ],
+      "text_console_runtime": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 7,
+          "symbol": "Revelation Room Pipeline",
+          "evidence": "## Revelation Room Pipeline",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Use the wrapper for the normal source-packet-to-playable-room path:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "python3 tools/revelation_room_pipeline.py \\",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "--prompt \"Generate one action_horror Revelation room...\" \\",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 21,
+          "symbol": "",
+          "evidence": "python3 tools/revelation_room_pipeline.py \\",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L21"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "--prompt \"Generate one action_horror Revelation room...\" \\",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 30,
+          "symbol": "",
+          "evidence": "python3 tools/revelation_room_pipeline.py \\",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L30"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "python3 tools/revelation_room_pipeline.py \\",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L38"
+        }
+      ],
+      "source_packet_generation": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Use the wrapper for the normal source-packet-to-playable-room path:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "--corpus-fragments generated/corpus/example_selected_fragments.json \\",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "--corpus-fragments generated/corpus/example_selected_fragments.json",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 1,
+          "symbol": "Revelation Corpus",
+          "evidence": "# Revelation Corpus",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L1"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder stores the license-screened source library for Revelation narrative generation.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Active corpus sources should be public domain, U.S. federal government works, CC0, or explicitly approved permissive/attribution sources. SCP Wiki material is listed only as ina...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 7,
+          "symbol": "Layout",
+          "evidence": "## Layout",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L7"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `revelation_source_manifest.json` records provenance, licenses, source URLs, download URLs, and local paths.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L9"
+        }
+      ],
+      "asset_import_pipeline": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Use the wrapper for the normal source-packet-to-playable-room path:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "Generation should prefer one audio file per `canonical_texts[].generation_key`. Every `clips[].id` with the same `generation_key` can point to that same file in `audio/tts_manif...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "The generator is resumable. It writes files under `audio/generated/` and updates `audio/tts_manifest.json` after each successful generated clip.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "This folder stores the license-screened source library for Revelation narrative generation.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Active corpus sources should be public domain, U.S. federal government works, CC0, or explicitly approved permissive/attribution sources. SCP Wiki material is listed only as ina...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `revelation_source_manifest.json` records provenance, licenses, source URLs, download URLs, and local paths.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `source_docs/` contains PDFs, zips, and other source packages.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- `licenses/` is reserved for copied license notices or source-specific notes when needed.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L12"
+        }
+      ],
+      "ai_pressure": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "Reuse an existing blueprint without a paid call:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "For OpenAI Speech API generation, use `speaker_profiles[].call.model`, `speaker_profiles[].call.voice`, `speaker_profiles[].call.pitch`, `speaker_profiles[].call.speed`, the cli...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Active corpus sources should be public domain, U.S. federal government works, CC0, or explicitly approved permissive/attribution sources. SCP Wiki material is listed only as ina...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `texts/` contains direct text or HTML downloads used by the generator/indexer.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 11,
+          "symbol": "",
+          "evidence": "- `source_docs/` contains PDFs, zips, and other source packages.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L11"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 13,
+          "symbol": "",
+          "evidence": "- `index/` contains generated lookup files derived from active corpus sources.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L13"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "The creative target is no longer ship descent horror. Revelation is a procedural symbolic horror roguelike about Institute containment squads investigating anomalies as theology...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- Main scene: `res://world.tscn`.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L10"
+        }
+      ],
+      "deck_pressure": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "The wrapper compiles, validates, applies, optionally slices the active deck to the new room, updates opening glue, checks the doc browser, and runs the Godot room/follow-up smokes.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Revelation is a sibling Godot project ported from the Nightmare Voyage text-choice stack. The project keeps the working console, command parser, run manager, encounter deck, del...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 12,
+          "symbol": "",
+          "evidence": "- Active data files: `rooms_post_update.json`, `events_post_update.json`, `encounter_decks_post_update.json`.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L12"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Run/deck/event loading.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "Rebuild spoken alias clouds across the current deck:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/add_bitter_water_scenario.py",
+          "line": 19,
+          "symbol": "",
+          "evidence": "DECK_PATH = ROOT / \"encounter_decks_post_update.json\"",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L19"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/add_bitter_water_scenario.py",
+          "line": 539,
+          "symbol": "",
+          "evidence": "\"withdrawn\",",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L539"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/add_bitter_water_scenario.py",
+          "line": 625,
+          "symbol": "",
+          "evidence": "\"withdrawn\",",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L625"
+        }
+      ],
+      "validation_pipeline": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/README.md",
+          "line": 43,
+          "symbol": "",
+          "evidence": "The wrapper compiles, validates, applies, optionally slices the active deck to the new room, updates opening glue, checks the doc browser, and runs the Godot room/follow-up smokes.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/README.md#L43"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "3. Run `python tools/revelation_corpus_tools.py validate`.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 24,
+          "symbol": "",
+          "evidence": "- Bootstrap and smoke-test workflow.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L24"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_borrowed_audio_smoke.gd",
+          "line": 1,
+          "symbol": "",
+          "evidence": "extends SceneTree",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L1"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_borrowed_audio_smoke.gd",
+          "line": 3,
+          "symbol": "",
+          "evidence": "const WorldScene := preload(\"res://world.tscn\")",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_borrowed_audio_smoke.gd",
+          "line": 6,
+          "symbol": "_init",
+          "evidence": "func _init() -> void:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L6"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_borrowed_audio_smoke.gd",
+          "line": 7,
+          "symbol": "",
+          "evidence": "var world := WorldScene.instantiate()",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L7"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_borrowed_audio_smoke.gd",
+          "line": 8,
+          "symbol": "",
+          "evidence": "root.add_child(world)",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L8"
+        }
+      ],
+      "pose_animation_tools": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `audio/tts_script.json`: canonical spoken cues, phrase chunks, clip IDs, text keys, and deduplicated canonical texts.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 23,
+          "symbol": "",
+          "evidence": "Generation should prefer one audio file per `canonical_texts[].generation_key`. Every `clips[].id` with the same `generation_key` can point to that same file in `audio/tts_manif...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L23"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 25,
+          "symbol": "",
+          "evidence": "For OpenAI Speech API generation, use `speaker_profiles[].call.model`, `speaker_profiles[].call.voice`, `speaker_profiles[].call.pitch`, `speaker_profiles[].call.speed`, the cli...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L25"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 29,
+          "symbol": "",
+          "evidence": "Start with one generated clip per speaker:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L29"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 32,
+          "symbol": "",
+          "evidence": "python tools/generate_tts_clips.py --sample-speakers",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L32"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "python tools/generate_tts_clips.py --scenario room_borrowed_separation",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 44,
+          "symbol": "",
+          "evidence": "python tools/generate_tts_clips.py",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L44"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "The generator is resumable. It writes files under `audio/generated/` and updates `audio/tts_manifest.json` after each successful generated clip.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L47"
+        }
+      ],
+      "writing_corpus_review": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 17,
+          "symbol": "",
+          "evidence": "- `audio/tts_script.json`: canonical spoken cues, phrase chunks, clip IDs, text keys, and deduplicated canonical texts.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L17"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- `audio/tts_standardization_report.md`: cleanup findings for long prompts, long choice labels, missing aliases, duplicate actions, and other TTS risks.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 27,
+          "symbol": "",
+          "evidence": "Speaker voice profiles are for explicit spoken dialogue only. If a line is narration, report prose, or merely related to a character/channel label, it stays on `narrator` unless...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L27"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "Runtime supports both direct event clip IDs, such as `root_event_line_1`, and text-key fallback for standardized phrase chunks. That lets shared phrases like `SITREP.`, `Detecti...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Revelation is a sibling Godot project ported from the Nightmare Voyage text-choice stack. The project keeps the working console, command parser, run manager, encounter deck, del...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- Result delta reporting for morale/resources.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 47,
+          "symbol": "",
+          "evidence": "- SITREP or field report framing.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L47"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 53,
+          "symbol": "",
+          "evidence": "Critique a patch or the current event file against the vibe guide:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L53"
+        }
+      ],
+      "web_choice_player": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- `audio/tts_standardization_report.md`: cleanup findings for long prompts, long choice labels, missing aliases, duplicate actions, and other TTS risks.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "Runtime supports both direct event clip IDs, such as `root_event_line_1`, and text-key fallback for standardized phrase chunks. That lets shared phrases like `SITREP.`, `Detecti...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "- `revelation_source_manifest.json` records provenance, licenses, source URLs, download URLs, and local paths.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 10,
+          "symbol": "",
+          "evidence": "- `texts/` contains direct text or HTML downloads used by the generator/indexer.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L10"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 18,
+          "symbol": "",
+          "evidence": "2. Download active source files to their `local_path`.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L18"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Revelation is a sibling Godot project ported from the Nightmare Voyage text-choice stack. The project keeps the working console, command parser, run manager, encounter deck, del...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 19,
+          "symbol": "",
+          "evidence": "- Run/deck/event loading.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L19"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "- A squad-level operational choice.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L49"
+        }
+      ],
+      "event_clouds": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "audio/README.md",
+          "line": 49,
+          "symbol": "",
+          "evidence": "Runtime supports both direct event clip IDs, such as `root_event_line_1`, and text-key fallback for standardized phrase chunks. That lets shared phrases like `SITREP.`, `Detecti...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/audio/README.md#L49"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "generated/corpus/README.md",
+          "line": 5,
+          "symbol": "",
+          "evidence": "Active corpus sources should be public domain, U.S. federal government works, CC0, or explicitly approved permissive/attribution sources. SCP Wiki material is listed only as ina...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/generated/corpus/README.md#L5"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 36,
+          "symbol": "",
+          "evidence": "- Public-domain Bible translations.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L36"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 37,
+          "symbol": "",
+          "evidence": "- Public-domain Torah/Hebrew Bible translations and references.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L37"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 38,
+          "symbol": "",
+          "evidence": "- Public-domain Quran translations or licensed translations approved for project use.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L38"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_borrowed_audio_smoke.gd",
+          "line": 33,
+          "symbol": "",
+          "evidence": "var event_line_count := 0",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L33"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_borrowed_audio_smoke.gd",
+          "line": 42,
+          "symbol": "",
+          "evidence": "event_line_count += files.size()",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L42"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_borrowed_audio_smoke.gd",
+          "line": 50,
+          "symbol": "",
+          "evidence": "if event_line_count < 2:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_borrowed_audio_smoke.gd#L50"
+        }
+      ],
+      "delayed_consequences": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Revelation is a sibling Godot project ported from the Nightmare Voyage text-choice stack. The project keeps the working console, command parser, run manager, encounter deck, del...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 20,
+          "symbol": "",
+          "evidence": "- Delayed story follow-up queue.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L20"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "package.json",
+          "line": 10,
+          "symbol": "test",
+          "evidence": "\"test\": \"echo \\\"Error: no test specified\\\" && exit 1\"",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/package.json#L10"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 112,
+          "symbol": "",
+          "evidence": "Brainstorm new lore with gameplay hooks:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L112"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 117,
+          "symbol": "",
+          "evidence": "python tools/scenario_agent.py remember-lore-brainstorm generated/lore_brainstorm.json --notes \"Promote these lore hooks.\"",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L117"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 166,
+          "symbol": "",
+          "evidence": "- Event `type` values must match one of the category ids in `.agent-memory/event_categories.json`.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L166"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 170,
+          "symbol": "",
+          "evidence": "- Memory lives in `.agent-memory/`.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L170"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/add_bitter_water_scenario.py",
+          "line": 54,
+          "symbol": "",
+          "evidence": "\"followup_payoff\": \"The cooldown interlude tests whether ordinary drinking water and written debrief language still carry the dissolved accusation.\",",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L54"
+        }
+      ],
+      "resource_upgrade_loop": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 3,
+          "symbol": "",
+          "evidence": "Revelation is a sibling Godot project ported from the Nightmare Voyage text-choice stack. The project keeps the working console, command parser, run manager, encounter deck, del...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L3"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 22,
+          "symbol": "",
+          "evidence": "- Result delta reporting for morale/resources.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L22"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_manifest_prefer_existing_format.py",
+          "line": 24,
+          "symbol": "resource_to_path",
+          "evidence": "def resource_to_path(resource_path: str) -> Path:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L24"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_manifest_prefer_existing_format.py",
+          "line": 25,
+          "symbol": "",
+          "evidence": "if not resource_path.startswith(\"res://\"):",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L25"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_manifest_prefer_existing_format.py",
+          "line": 26,
+          "symbol": "",
+          "evidence": "raise ValueError(f\"Unsupported non-resource path: {resource_path}\")",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L26"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_manifest_prefer_existing_format.py",
+          "line": 27,
+          "symbol": "",
+          "evidence": "return ROOT / resource_path.removeprefix(\"res://\")",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L27"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_manifest_prefer_existing_format.py",
+          "line": 30,
+          "symbol": "path_to_resource",
+          "evidence": "def path_to_resource(path: Path) -> str:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L30"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/tts_manifest_prefer_existing_format.py",
+          "line": 49,
+          "symbol": "",
+          "evidence": "current_path = resource_to_path(clip_file)",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/tts_manifest_prefer_existing_format.py#L49"
+        }
+      ],
+      "touch_lane_combat": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 14,
+          "symbol": "",
+          "evidence": "- Runtime still contains some inherited compatibility names such as `ship_dashboard`, `biomass`, `symbiote`, and old placeholder art. Treat these as scaffolding until renamed or...",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L14"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/add_bitter_water_scenario.py",
+          "line": 445,
+          "symbol": "",
+          "evidence": "\"blocked_mental_states\": [",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L445"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/add_bitter_water_scenario.py",
+          "line": 536,
+          "symbol": "",
+          "evidence": "\"blocked_mental_states\": [",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L536"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/add_bitter_water_scenario.py",
+          "line": 622,
+          "symbol": "",
+          "evidence": "\"blocked_mental_states\": [",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L622"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/corpus_agent.py",
+          "line": 83,
+          "symbol": "",
+          "evidence": "\"pursuit_or_hunt\": [\"pursuit\", \"hunt\", \"chase\", \"attack\", \"enemy\", \"monster\", \"beast\", \"track\"],",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L83"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/corpus_agent.py",
+          "line": 130,
+          "symbol": "",
+          "evidence": "\"pressure_system\": [\"vent_red_split\", \"push_through_spikes\", \"break_spike_lane\"],",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L130"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/corpus_agent.py",
+          "line": 405,
+          "symbol": "",
+          "evidence": "\"normal passage is watched or blocked\",",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L405"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/corpus_agent.py",
+          "line": 759,
+          "symbol": "",
+          "evidence": "action_block = action_tail[:default_match.start()] if default_match else action_tail",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L759"
+        }
+      ],
+      "vehicle_survival": [
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "PROJECT_ORIENTATION.md",
+          "line": 54,
+          "symbol": "",
+          "evidence": "Tone: restrained, professional, tired, procedural, symbolically charged, and theologically ambiguous.",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/PROJECT_ORIENTATION.md#L54"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/SCENARIO_AGENT.md",
+          "line": 9,
+          "symbol": "",
+          "evidence": "Generate within a broad category:",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/SCENARIO_AGENT.md#L9"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/add_bitter_water_scenario.py",
+          "line": 511,
+          "symbol": "",
+          "evidence": "\"Saye calls the hold as the plant printer wakes and produces discharge slips for people not yet admitted.\",",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L511"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/add_bitter_water_scenario.py",
+          "line": 915,
+          "symbol": "",
+          "evidence": "\"tone_notes\": \"Cooldown should feel ordinary and procedural: cups, forms, washdown, tired staff, and quiet avoidance.\",",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/add_bitter_water_scenario.py#L915"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/corpus_agent.py",
+          "line": 130,
+          "symbol": "",
+          "evidence": "\"pressure_system\": [\"vent_red_split\", \"push_through_spikes\", \"break_spike_lane\"],",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L130"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/corpus_agent.py",
+          "line": 333,
+          "symbol": "",
+          "evidence": "\"refusing it costs fuel or certainty\"",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L333"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/corpus_agent.py",
+          "line": 335,
+          "symbol": "",
+          "evidence": "\"ship_state_hooks\": [\"navigation_certainty\", \"fuel\", \"oxygen\", \"doctrine\"],",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L335"
+        },
+        {
+          "origin": "github",
+          "project": "revelation",
+          "repo": "Valar05/revelation",
+          "path": "tools/corpus_agent.py",
+          "line": 443,
+          "symbol": "",
+          "evidence": "\"terms\": [\"pump\", \"bucket\", \"hold\", \"leak\", \"water\", \"hands\", \"crew\", \"watch\", \"tired\"],",
+          "source_url": "https://github.com/Valar05/revelation/blob/main/tools/corpus_agent.py#L443"
+        }
+      ]
+    }
+  }
+}

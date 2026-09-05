@@ -1,0 +1,620 @@
+{
+  "artifact_map": {
+    "export_report": "export_report.md",
+    "export_spec": "export_spec.json",
+    "export_stamp": "export_stamp.json",
+    "matrix": "../export_matrix.json"
+  },
+  "binary_on_export": true,
+  "deterministic": true,
+  "engine": "unreal",
+  "engine_projection": {
+    "composition_units": [
+      {
+        "mechanics": [
+          "ai_pressure",
+          "asset_import_pipeline",
+          "deck_pressure",
+          "delayed_consequences",
+          "pose_animation_tools",
+          "text_console_runtime",
+          "touch_lane_combat",
+          "tts_audio_pipeline",
+          "validation_pipeline",
+          "vehicle_survival",
+          "web_choice_player",
+          "writing_corpus_review"
+        ],
+        "path": "app/page.tsx",
+        "role": "composition_core",
+        "score": 216,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L3",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L8",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L12",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L15",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L20",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L24",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L28",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L29"
+        ]
+      },
+      {
+        "mechanics": [
+          "ai_pressure",
+          "asset_import_pipeline",
+          "text_console_runtime",
+          "web_choice_player"
+        ],
+        "path": "app/layout.tsx",
+        "role": "supporting_surface",
+        "score": 200,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/layout.tsx#L1",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/layout.tsx#L2",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/layout.tsx#L3",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/layout.tsx#L4",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/layout.tsx#L17",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/layout.tsx#L23",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/layout.tsx#L25",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/layout.tsx#L26"
+        ]
+      },
+      {
+        "mechanics": [
+          "asset_import_pipeline"
+        ],
+        "path": "app/scenes/lexen-cage-with-glass-walls/page.tsx",
+        "role": "source_locked_scene",
+        "score": 160,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/page.tsx#L1",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/page.tsx#L2",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/page.tsx#L3",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/page.tsx#L4",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/page.tsx#L8",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/page.tsx#L12"
+        ]
+      },
+      {
+        "mechanics": [
+          "ai_pressure",
+          "asset_import_pipeline",
+          "pose_animation_tools",
+          "source_packet_generation",
+          "text_console_runtime",
+          "tts_audio_pipeline",
+          "validation_pipeline",
+          "vehicle_survival",
+          "web_choice_player"
+        ],
+        "path": "app/ferravine/ferravine-lab.tsx",
+        "role": "supporting_surface",
+        "score": 152,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/ferravine/ferravine-lab.tsx#L3",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/ferravine/ferravine-lab.tsx#L4",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/ferravine/ferravine-lab.tsx#L6",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/ferravine/ferravine-lab.tsx#L11",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/ferravine/ferravine-lab.tsx#L12",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/ferravine/ferravine-lab.tsx#L13",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/ferravine/ferravine-lab.tsx#L14",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/ferravine/ferravine-lab.tsx#L18"
+        ]
+      },
+      {
+        "mechanics": [
+          "ai_pressure",
+          "asset_import_pipeline",
+          "resource_upgrade_loop",
+          "text_console_runtime",
+          "touch_lane_combat",
+          "tts_audio_pipeline",
+          "validation_pipeline",
+          "web_choice_player"
+        ],
+        "path": "app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx",
+        "role": "source_locked_scene",
+        "score": 152,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx#L1",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx#L3",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx#L4",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx#L6",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx#L8",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx#L9",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx#L10",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx#L12"
+        ]
+      },
+      {
+        "mechanics": [
+          "ai_pressure",
+          "asset_import_pipeline",
+          "deck_pressure",
+          "delayed_consequences",
+          "pose_animation_tools",
+          "resource_upgrade_loop",
+          "source_packet_generation",
+          "text_console_runtime",
+          "touch_lane_combat",
+          "vehicle_survival",
+          "web_choice_player"
+        ],
+        "path": "app/sherman/sherman-lab.tsx",
+        "role": "supporting_surface",
+        "score": 152,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/sherman/sherman-lab.tsx#L3",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/sherman/sherman-lab.tsx#L4",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/sherman/sherman-lab.tsx#L5",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/sherman/sherman-lab.tsx#L11",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/sherman/sherman-lab.tsx#L20",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/sherman/sherman-lab.tsx#L22",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/sherman/sherman-lab.tsx#L26",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/sherman/sherman-lab.tsx#L27"
+        ]
+      },
+      {
+        "mechanics": [
+          "ai_pressure",
+          "asset_import_pipeline",
+          "pose_animation_tools",
+          "text_console_runtime",
+          "tts_audio_pipeline",
+          "vehicle_survival",
+          "web_choice_player",
+          "writing_corpus_review"
+        ],
+        "path": "app/venice/venice-room.tsx",
+        "role": "supporting_surface",
+        "score": 152,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/venice/venice-room.tsx#L1",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/venice/venice-room.tsx#L3",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/venice/venice-room.tsx#L4",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/venice/venice-room.tsx#L6",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/venice/venice-room.tsx#L7",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/venice/venice-room.tsx#L9",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/venice/venice-room.tsx#L10",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/venice/venice-room.tsx#L11"
+        ]
+      },
+      {
+        "mechanics": [],
+        "path": "app/scenes/lexen-cage-with-glass-walls/lexen-scene.css",
+        "role": "source_locked_scene",
+        "score": 148,
+        "source_line_refs": []
+      },
+      {
+        "mechanics": [
+          "ai_pressure",
+          "asset_import_pipeline",
+          "web_choice_player"
+        ],
+        "path": "app/api/venice/voice/route.ts",
+        "role": "service_lane",
+        "score": 122,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/voice/route.ts#L1",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/voice/route.ts#L3",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/voice/route.ts#L6",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/voice/route.ts#L7",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/voice/route.ts#L8",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/voice/route.ts#L9",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/voice/route.ts#L11",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/voice/route.ts#L14"
+        ]
+      },
+      {
+        "mechanics": [
+          "ai_pressure",
+          "asset_import_pipeline",
+          "pose_animation_tools",
+          "resource_upgrade_loop",
+          "tts_audio_pipeline",
+          "web_choice_player",
+          "writing_corpus_review"
+        ],
+        "path": "README.md",
+        "role": "source_contract",
+        "score": 112,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/README.md#L3",
+          "https://github.com/Valar05/motion-dungeon/blob/main/README.md#L9",
+          "https://github.com/Valar05/motion-dungeon/blob/main/README.md#L15",
+          "https://github.com/Valar05/motion-dungeon/blob/main/README.md#L21",
+          "https://github.com/Valar05/motion-dungeon/blob/main/README.md#L23",
+          "https://github.com/Valar05/motion-dungeon/blob/main/README.md#L25",
+          "https://github.com/Valar05/motion-dungeon/blob/main/README.md#L44",
+          "https://github.com/Valar05/motion-dungeon/blob/main/README.md#L46"
+        ]
+      },
+      {
+        "mechanics": [
+          "ai_pressure",
+          "asset_import_pipeline",
+          "pose_animation_tools",
+          "web_choice_player"
+        ],
+        "path": "app/api/venice/route.ts",
+        "role": "service_lane",
+        "score": 110,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/route.ts#L1",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/route.ts#L3",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/route.ts#L6",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/route.ts#L7",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/route.ts#L8",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/route.ts#L9",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/route.ts#L11",
+          "https://github.com/Valar05/motion-dungeon/blob/main/app/api/venice/route.ts#L14"
+        ]
+      },
+      {
+        "mechanics": [
+          "ai_pressure",
+          "asset_import_pipeline",
+          "delayed_consequences",
+          "event_clouds",
+          "pose_animation_tools",
+          "resource_upgrade_loop",
+          "text_console_runtime",
+          "touch_lane_combat",
+          "tts_audio_pipeline",
+          "validation_pipeline",
+          "vehicle_survival",
+          "web_choice_player",
+          "writing_corpus_review"
+        ],
+        "path": "state.md",
+        "role": "composition_bible",
+        "score": 106,
+        "source_line_refs": [
+          "https://github.com/Valar05/motion-dungeon/blob/main/state.md#L5",
+          "https://github.com/Valar05/motion-dungeon/blob/main/state.md#L6",
+          "https://github.com/Valar05/motion-dungeon/blob/main/state.md#L11",
+          "https://github.com/Valar05/motion-dungeon/blob/main/state.md#L13",
+          "https://github.com/Valar05/motion-dungeon/blob/main/state.md#L17",
+          "https://github.com/Valar05/motion-dungeon/blob/main/state.md#L19",
+          "https://github.com/Valar05/motion-dungeon/blob/main/state.md#L26",
+          "https://github.com/Valar05/motion-dungeon/blob/main/state.md#L28"
+        ]
+      }
+    ],
+    "performance_axes": [
+      {
+        "category": "export gate",
+        "evidence": [
+          {
+            "evidence": "setExporting(true);exportingRef.current=true;setPlaying(false);stopFoley();stopVoice();setProgress(0);setStatus(\"Rendering on this device…\");",
+            "line": 909,
+            "mechanics": [
+              "web_choice_player"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L909"
+          }
+        ],
+        "key": "exporting"
+      },
+      {
+        "category": "audio lane",
+        "evidence": [
+          {
+            "evidence": "async function renderBeardSlapAudio(duration: number, includeFoley: boolean, includeVoice: boolean) {",
+            "line": 260,
+            "mechanics": [
+              "tts_audio_pipeline",
+              "web_choice_player"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L260"
+          }
+        ],
+        "key": "foley"
+      },
+      {
+        "category": "capture sizing",
+        "evidence": [
+          {
+            "evidence": "renderer.setPixelRatio(Math.min(window.devicePixelRatio, 1.75));",
+            "line": 418,
+            "mechanics": [
+              "web_choice_player"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L418"
+          }
+        ],
+        "key": "outputSizeRef"
+      },
+      {
+        "category": "composition selection",
+        "evidence": [
+          {
+            "evidence": "const BEARD_SLAP_VOICE_PATH = \"/specimens/randi-adam-beard-slap/randi-adam-beard-slap-gemini-v1.wav\";",
+            "line": 8,
+            "mechanics": [
+              "tts_audio_pipeline"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L8"
+          }
+        ],
+        "key": "preset"
+      },
+      {
+        "category": "render backend",
+        "evidence": [
+          {
+            "evidence": "const [rendererMode, setRendererMode] = useState<\"loading\" | \"webgl\" | \"fallback\">(\"loading\");",
+            "line": 317,
+            "mechanics": [
+              "web_choice_player"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L317"
+          }
+        ],
+        "key": "rendererMode"
+      },
+      {
+        "category": "performance provenance",
+        "evidence": [
+          {
+            "evidence": "import SourceLockedScene from \"./source-locked-scene\";",
+            "line": 3,
+            "mechanics": [
+              "asset_import_pipeline"
+            ],
+            "path": "app/scenes/lexen-cage-with-glass-walls/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/page.tsx#L3"
+          }
+        ],
+        "key": "sourceName"
+      },
+      {
+        "category": "timeline",
+        "evidence": [
+          {
+            "evidence": "const renderAtRef = useRef<(time: number) => void>(() => {});",
+            "line": 297,
+            "mechanics": [
+              "web_choice_player"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L297"
+          }
+        ],
+        "key": "time"
+      },
+      {
+        "category": "audio lane",
+        "evidence": [
+          {
+            "evidence": "const BEARD_SLAP_VOICE_PATH = \"/specimens/randi-adam-beard-slap/randi-adam-beard-slap-gemini-v1.wav\";",
+            "line": 8,
+            "mechanics": [
+              "tts_audio_pipeline"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L8"
+          }
+        ],
+        "key": "voice"
+      }
+    ],
+    "portable_patterns": [
+      {
+        "engine_note": "Treat the manifest as Sequencer/DataAsset input; package binaries only when exporting.",
+        "id": "audio_tracks_as_composition_lanes",
+        "mechanics": [
+          "tts_audio_pipeline",
+          "ai_pressure",
+          "web_choice_player"
+        ],
+        "name": "Audio tracks as composition lanes",
+        "problem": "Treat voice and foley as first-class compositional tracks, not post-process noise.",
+        "source_evidence": [
+          {
+            "evidence": "const BEARD_SLAP_VOICE_PATH = \"/specimens/randi-adam-beard-slap/randi-adam-beard-slap-gemini-v1.wav\";",
+            "line": 8,
+            "mechanics": [
+              "tts_audio_pipeline"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L8"
+          },
+          {
+            "evidence": "async function renderAdamAudio(duration: number) {",
+            "line": 237,
+            "mechanics": [
+              "tts_audio_pipeline",
+              "web_choice_player"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L237"
+          }
+        ],
+        "supporting_breadth": 80,
+        "supporting_records": 88553
+      },
+      {
+        "engine_note": "Treat the manifest as Sequencer/DataAsset input; package binaries only when exporting.",
+        "id": "browser_preview_heavy_mp4_export",
+        "mechanics": [
+          "web_choice_player",
+          "tts_audio_pipeline",
+          "asset_import_pipeline"
+        ],
+        "name": "Browser preview, heavy MP4 export",
+        "problem": "Let preview stay light while the exported movie carries the heavy output.",
+        "source_evidence": [
+          {
+            "evidence": "setExporting(true);exportingRef.current=true;setPlaying(false);stopFoley();stopVoice();setProgress(0);setStatus(\"Rendering on this device…\");",
+            "line": 909,
+            "mechanics": [
+              "web_choice_player"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L909"
+          },
+          {
+            "evidence": "for(let frame=0;frame<duration*FPS;frame++){const frameTime=frame/FPS;renderAtRef.current(frameTime);const videoFrame=new VideoFrame(canvas,{timestamp:Math.round(frameTime*1_000...",
+            "line": 916,
+            "mechanics": [
+              "ai_pressure",
+              "pose_animation_tools",
+              "web_choice_player"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L916"
+          }
+        ],
+        "supporting_breadth": 80,
+        "supporting_records": 77647
+      },
+      {
+        "engine_note": "Treat the manifest as Sequencer/DataAsset input; package binaries only when exporting.",
+        "id": "source_locked_composition_canon",
+        "mechanics": [
+          "asset_import_pipeline",
+          "validation_pipeline",
+          "web_choice_player"
+        ],
+        "name": "Source-locked composition canon",
+        "problem": "Keep the editable composition authoritative while binaries stay downstream.",
+        "source_evidence": [
+          {
+            "evidence": "import SourceLockedScene from \"./source-locked-scene\";",
+            "line": 3,
+            "mechanics": [
+              "asset_import_pipeline"
+            ],
+            "path": "app/scenes/lexen-cage-with-glass-walls/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/page.tsx#L3"
+          },
+          {
+            "evidence": "description: \"A source-locked Motion Dungeon carrier for Lexen Vigil’s accepted take 8 performance.\",",
+            "line": 8,
+            "mechanics": [
+              "asset_import_pipeline"
+            ],
+            "path": "app/scenes/lexen-cage-with-glass-walls/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/page.tsx#L8"
+          }
+        ],
+        "supporting_breadth": 80,
+        "supporting_records": 60654
+      },
+      {
+        "engine_note": "Treat the manifest as Sequencer/DataAsset input; package binaries only when exporting.",
+        "id": "key_driven_timeline_transport",
+        "mechanics": [
+          "web_choice_player",
+          "text_console_runtime",
+          "delayed_consequences"
+        ],
+        "name": "Key-driven timeline transport",
+        "problem": "Keep motion composition deterministic and scrub-friendly from source keys.",
+        "source_evidence": [
+          {
+            "evidence": "const renderAtRef = useRef<(time: number) => void>(() => {});",
+            "line": 297,
+            "mechanics": [
+              "web_choice_player"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L297"
+          },
+          {
+            "evidence": "const [rendererMode, setRendererMode] = useState<\"loading\" | \"webgl\" | \"fallback\">(\"loading\");",
+            "line": 317,
+            "mechanics": [
+              "web_choice_player"
+            ],
+            "path": "app/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/page.tsx#L317"
+          }
+        ],
+        "supporting_breadth": 80,
+        "supporting_records": 29436
+      },
+      {
+        "engine_note": "Treat the manifest as Sequencer/DataAsset input; package binaries only when exporting.",
+        "id": "child_manifest_composition_chain",
+        "mechanics": [
+          "asset_import_pipeline",
+          "source_packet_generation",
+          "validation_pipeline"
+        ],
+        "name": "Child manifest composition chain",
+        "problem": "Let scenes and performance records inherit the engine without losing their own source names.",
+        "source_evidence": [
+          {
+            "evidence": "description: \"A source-locked Motion Dungeon carrier for Lexen Vigil’s accepted take 8 performance.\",",
+            "line": 8,
+            "mechanics": [
+              "asset_import_pipeline"
+            ],
+            "path": "app/scenes/lexen-cage-with-glass-walls/page.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/page.tsx#L8"
+          },
+          {
+            "evidence": "const performance = object(document.performance);",
+            "line": 51,
+            "mechanics": [
+              "asset_import_pipeline"
+            ],
+            "path": "app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx",
+            "source_url": "https://github.com/Valar05/motion-dungeon/blob/main/app/scenes/lexen-cage-with-glass-walls/source-locked-scene.tsx#L51"
+          }
+        ],
+        "supporting_breadth": 79,
+        "supporting_records": 55645
+      }
+    ],
+    "retry_queue": [
+      {
+        "error": "Command '['/data/data/com.termux/files/usr/bin/python', '/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/thunder_brainstorm.py', 'mine-gh-repo', '--owner', 'Valar05', '--repo', 'Hard-Surface-Factory', '--ref', 'HEAD', '--out-dir', 'generated/repo_mining', '--max-files', '24', '--quiet']' returned non-zero exit status 1.",
+        "reason": "",
+        "repo": "Hard-Surface-Factory"
+      },
+      {
+        "error": "Command '['/data/data/com.termux/files/usr/bin/python', '/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/thunder_brainstorm.py', 'mine-gh-repo', '--owner', 'Valar05', '--repo', 'ruined_air', '--ref', 'HEAD', '--out-dir', 'generated/repo_mining', '--max-files', '24', '--quiet']' returned non-zero exit status 1.",
+        "reason": "",
+        "repo": "ruined_air"
+      },
+      {
+        "error": "Command '['/data/data/com.termux/files/usr/bin/python', '/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/thunder_brainstorm.py', 'mine-gh-repo', '--owner', 'Valar05', '--repo', 'Fleshpunk-Crusade', '--ref', 'HEAD', '--out-dir', 'generated/repo_mining', '--max-files', '24', '--quiet']' returned non-zero exit status 1.",
+        "reason": "",
+        "repo": "Fleshpunk-Crusade"
+      },
+      {
+        "error": "Command '['/data/data/com.termux/files/usr/bin/python', '/storage/emulated/0/Documents/GodotProjects/thunder-brainstorm/thunder_brainstorm.py', 'mine-gh-repo', '--owner', 'Valar05', '--repo', 'mealPlanner', '--ref', 'HEAD', '--out-dir', 'generated/repo_mining', '--max-files', '24', '--quiet']' returned non-zero exit status 1.",
+        "reason": "",
+        "repo": "mealPlanner"
+      }
+    ]
+  },
+  "export_lane": "packaged build only",
+  "export_target_id": "motion-dungeon:unreal",
+  "exporter": "motion_dungeon_export_target",
+  "exporter_version": 1,
+  "idempotent": true,
+  "input_manifest_hash": "bdad9a765d48094da2d51b8ed5e2b2d6bb3a94a4bfb255a0a7327ba010dc7590",
+  "monolithic": true,
+  "policy": {
+    "binary_source_boundary": "binary artifacts are export outputs only",
+    "export_only_on_hash_change": true,
+    "source_first": true
+  },
+  "source_adapter": "sequencer + data assets",
+  "source_fingerprint": "bdad9a765d48094da2d51b8ed5e2b2d6bb3a94a4bfb255a0a7327ba010dc7590",
+  "source_manifest_path": "generated/motion_dungeon_composition/motion_dungeon_composition_manifest.json",
+  "source_repo": "Valar05/motion-dungeon",
+  "target_dir": "unreal",
+  "target_fingerprint": "ad4f8d692fe44d51cb2cbf9e17e32e591935c6ffc496a6a67089e3694ef9abec"
+}
