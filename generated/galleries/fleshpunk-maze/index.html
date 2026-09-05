@@ -22,10 +22,10 @@ footer{padding:50px max(20px,5vw);background:#111;color:#ddd;font:700 .75rem ui-
 </style>
 </head>
 <body>
-<header><div class="kicker">THUNDER / VISUAL ARCHAEOLOGY</div><h1>Flesh learns machinery.</h1><p>Six preserved gates from the first deterministic diagram to a useful, exploded tendon-and-valve machine. Rejection is part of the record.</p><div class="marker">THUNDER_FLESHPUNK_GALLERY_V1</div></header>
+<header><div class="kicker">THUNDER / VISUAL ARCHAEOLOGY</div><h1>Flesh learns machinery.</h1><p>Six preserved gates from the first deterministic diagram to a useful, exploded tendon-and-valve machine. Rejection is part of the record.</p><div class="marker">THUNDER_FLESHPUNK_GALLERY_V2</div></header>
 <nav class="sticky" id="stageNav" aria-label="Progression stages"></nav>
 <main>
-<section class="intro"><strong>Nothing is hidden.</strong><p>The ugly stages stay visible. Every plate carries its source hash, verdict, and the exact reason it advanced or died. Tap any image for the full-resolution artifact.</p></section>
+<section class="intro"><strong>06 stages. Nothing is hidden.</strong><p>The ugly stages stay visible. Every plate carries its source hash, verdict, and the exact reason it advanced or died. Tap any image for the full-resolution artifact.</p></section>
 <section class="timeline" id="timeline" aria-live="polite"></section>
 <section class="compare"><div class="kicker" style="color:var(--blood)">OPTICAL AUTOPSY</div><h2>Drag from baseline to champion.</h2><div class="compare-box" id="compareBox"><img id="beforeImage" alt="Initial deterministic baseline"><img class="after" id="afterImage" alt="Current clean line master"></div><input id="reveal" type="range" min="0" max="100" value="50" aria-label="Reveal current champion over initial baseline"><div class="compare-labels"><span>01 / TOY</span><span>05 / MACHINE</span></div></section>
 </main>
@@ -38,8 +38,9 @@ const el=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className
 const viewer=document.getElementById('viewer');
 viewer.querySelector('button').onclick=()=>viewer.close();
 viewer.onclick=e=>{if(e.target===viewer)viewer.close()};
-fetch(rawBase+'gallery.json').then(r=>{if(!r.ok)throw Error('manifest '+r.status);return r.json()}).then(g=>{
- if(g.marker!=='THUNDER_FLESHPUNK_GALLERY_V1')throw Error('wrong gallery marker');
+fetch(rawBase+'gallery.json?v=THUNDER_FLESHPUNK_GALLERY_V2',{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('manifest '+r.status);return r.json()}).then(g=>{
+ if(g.marker!=='THUNDER_FLESHPUNK_GALLERY_V2')throw Error('wrong gallery marker');
+ if(g.stage_count!==6||g.stages.length!==6)throw Error('expected exactly six stages');
  document.title=g.title+' — Thunder Gallery';
  const timeline=document.getElementById('timeline'),nav=document.getElementById('stageNav');
  g.stages.forEach(s=>{
@@ -47,7 +48,7 @@ fetch(rawBase+'gallery.json').then(r=>{if(!r.ok)throw Error('manifest '+r.status
   const b=el('button','',String(s.stage).padStart(2,'0')+' '+s.title);b.onclick=()=>document.getElementById(id).scrollIntoView({behavior:'smooth'});nav.append(b);
   const card=el('article','stage');card.id=id;
   const visual=el('button','visual');visual.type='button';visual.setAttribute('aria-label','Open '+s.title+' full resolution');
-  const img=el('img');img.loading=s.stage<3?'eager':'lazy';img.src=rawBase+s.gallery_path.split('/').pop();img.alt=s.title+': '+s.critique;visual.append(img);
+  const img=el('img');img.loading=s.stage<3?'eager':'lazy';img.src=s.raw_url+'?v='+g.build_fingerprint;img.alt=String(s.stage).padStart(2,'0')+' of 06 — '+s.title+': '+s.critique;visual.append(img);
   visual.onclick=()=>{viewer.querySelector('img').src=img.src;viewer.querySelector('img').alt=img.alt;viewer.showModal()};
   const copy=el('div','copy');copy.append(el('div','number',String(s.stage).padStart(2,'0')));
   const badge=el('div','verdict',s.verdict);badge.dataset.tone=tone(s.verdict);copy.append(badge,el('h2','',s.title),el('p','change',s.change),el('p','',s.critique));
@@ -55,7 +56,7 @@ fetch(rawBase+'gallery.json').then(r=>{if(!r.ok)throw Error('manifest '+r.status
   card.append(visual,copy);timeline.append(card);
  });
  const first=g.stages[0],champ=g.stages.find(s=>s.verdict==='CURRENT_CHAMPION')||g.stages.at(-1);
- document.getElementById('beforeImage').src=rawBase+first.file;document.getElementById('afterImage').src=rawBase+champ.file;
+ document.getElementById('beforeImage').src=first.raw_url+'?v='+g.build_fingerprint;document.getElementById('afterImage').src=champ.raw_url+'?v='+g.build_fingerprint;
 }).catch(err=>document.getElementById('timeline').textContent='Gallery failed closed: '+err.message);
 document.getElementById('reveal').addEventListener('input',e=>document.getElementById('compareBox').style.setProperty('--reveal',e.target.value+'%'));
 </script>

@@ -1,11 +1,11 @@
 {
   "schema": "THUNDER VISUAL GALLERY 1",
-  "marker": "THUNDER_FLESHPUNK_GALLERY_V1",
+  "marker": "THUNDER_FLESHPUNK_GALLERY_V2",
   "slug": "fleshpunk-maze",
   "title": "Fleshpunk Maze: From Toy Diagram to Tendon Machine",
   "source_project": "infinite-brutality",
   "stage_count": 6,
-  "build_fingerprint": "2ad999135e8f991a92a3233d8c78118937f8418ebc81fa30609f0d881170014a",
+  "build_fingerprint": "675cc7bbe9e155d36ef0185732b8f0a693c4c4bbc629d8c41e0aa176e0b10640",
   "stages": [
     {
       "stage": 1,
@@ -18,6 +18,7 @@
       "source_path": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/generated/fleshpunk_lineart/p0/png/fp_pressure_valve_gate.png",
       "source_sha256": "c103a72282ceee3e1679af510f3810e63dba4d35c6848ef16d8a52922ecfd0d1",
       "gallery_path": "generated/galleries/fleshpunk-maze/assets/01-deterministic-baseline.png",
+      "raw_url": "/raw/generated/galleries/fleshpunk-maze/assets/01-deterministic-baseline.png",
       "gallery_sha256": "c103a72282ceee3e1679af510f3810e63dba4d35c6848ef16d8a52922ecfd0d1",
       "dimensions": [
         1200,
@@ -36,6 +37,7 @@
       "source_path": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/assets/training/fleshpunk/source/fp_pressure_valve_gate_source_v2.png",
       "source_sha256": "17a682eefdcaa6656fd4f43d336d294dfc5642d9fe4ef646b6ec204844ecd15c",
       "gallery_path": "generated/galleries/fleshpunk-maze/assets/02-structural-source.png",
+      "raw_url": "/raw/generated/galleries/fleshpunk-maze/assets/02-structural-source.png",
       "gallery_sha256": "17a682eefdcaa6656fd4f43d336d294dfc5642d9fe4ef646b6ec204844ecd15c",
       "dimensions": [
         1536,
@@ -54,6 +56,7 @@
       "source_path": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/assets/training/fleshpunk/lineart-v1/contact-sheet.png",
       "source_sha256": "64ebe7f0b5a68fc458a5044a4ba3ca0f2ca8be57250089d0e9ded8b13d2f764d",
       "gallery_path": "generated/galleries/fleshpunk-maze/assets/03-drive-extraction-all.png",
+      "raw_url": "/raw/generated/galleries/fleshpunk-maze/assets/03-drive-extraction-all.png",
       "gallery_sha256": "64ebe7f0b5a68fc458a5044a4ba3ca0f2ca8be57250089d0e9ded8b13d2f764d",
       "dimensions": [
         1280,
@@ -72,6 +75,7 @@
       "source_path": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/assets/training/fleshpunk/lineart-v1/contact-sheet-selected.png",
       "source_sha256": "e5f14582ae84458163855e850a95aeed64d7449ede74e27900b487331f64cf33",
       "gallery_path": "generated/galleries/fleshpunk-maze/assets/04-selected-projection.png",
+      "raw_url": "/raw/generated/galleries/fleshpunk-maze/assets/04-selected-projection.png",
       "gallery_sha256": "e5f14582ae84458163855e850a95aeed64d7449ede74e27900b487331f64cf33",
       "dimensions": [
         1280,
@@ -90,6 +94,7 @@
       "source_path": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/assets/training/fleshpunk/source/fp_pressure_valve_gate_line_v3.png",
       "source_sha256": "f3a1022019157ae819e74df5665392da7d31a249d690b02937f358572791c727",
       "gallery_path": "generated/galleries/fleshpunk-maze/assets/05-clean-line-master.png",
+      "raw_url": "/raw/generated/galleries/fleshpunk-maze/assets/05-clean-line-master.png",
       "gallery_sha256": "f3a1022019157ae819e74df5665392da7d31a249d690b02937f358572791c727",
       "dimensions": [
         1536,
@@ -108,6 +113,7 @@
       "source_path": "/storage/emulated/0/Documents/GodotProjects/infinite-brutality/assets/training/fleshpunk/lineart-v1/selected/fp_pressure_valve_gate_line_v3.png",
       "source_sha256": "97dcc31529ffa0f3fc6add61f90b85f97bd3229d31f72a00d269c996920f8416",
       "gallery_path": "generated/galleries/fleshpunk-maze/assets/06-training-binary.png",
+      "raw_url": "/raw/generated/galleries/fleshpunk-maze/assets/06-training-binary.png",
       "gallery_sha256": "97dcc31529ffa0f3fc6add61f90b85f97bd3229d31f72a00d269c996920f8416",
       "dimensions": [
         1536,

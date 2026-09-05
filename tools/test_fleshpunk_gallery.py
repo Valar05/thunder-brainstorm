@@ -21,7 +21,7 @@ SPEC.loader.exec_module(SERVER)
 class FleshpunkGalleryTest(unittest.TestCase):
     def test_manifest_is_ordered_and_content_addressed(self):
         manifest = json.loads((ROOT / "generated/galleries/fleshpunk-maze/gallery.json").read_text())
-        self.assertEqual(manifest["marker"], "THUNDER_FLESHPUNK_GALLERY_V1")
+        self.assertEqual(manifest["marker"], "THUNDER_FLESHPUNK_GALLERY_V2")
         self.assertEqual(manifest["stage_count"], 6)
         self.assertEqual([stage["stage"] for stage in manifest["stages"]], [1, 2, 3, 4, 5, 6])
         self.assertEqual(manifest["stages"][0]["verdict"], "QUARANTINED")
@@ -47,12 +47,28 @@ class FleshpunkGalleryTest(unittest.TestCase):
             with urllib.request.urlopen(base + "/gallery/fleshpunk-maze", timeout=5) as response:
                 page = response.read().decode()
                 self.assertEqual(response.status, 200)
-                self.assertIn("THUNDER_FLESHPUNK_GALLERY_V1", page)
+                self.assertIn("THUNDER_FLESHPUNK_GALLERY_V2", page)
                 self.assertIn("Drag from baseline to champion", page)
+                self.assertIn("img.src=s.raw_url", page)
+                self.assertIn("src=first.raw_url", page)
+                self.assertIn("src=champ.raw_url", page)
             with urllib.request.urlopen(base + "/raw/generated/galleries/fleshpunk-maze/gallery.json", timeout=5) as response:
-                self.assertEqual(json.load(response)["stage_count"], 6)
-            with urllib.request.urlopen(base + "/raw/generated/galleries/fleshpunk-maze/assets/05-clean-line-master.png", timeout=5) as response:
-                self.assertEqual(response.read(8), b"\x89PNG\r\n\x1a\n")
+                manifest = json.load(response)
+                self.assertEqual(manifest["stage_count"], 6)
+            raw_urls = [stage["raw_url"] for stage in manifest["stages"]]
+            self.assertEqual(len(raw_urls), 6)
+            self.assertEqual(len(set(raw_urls)), 6)
+            for stage in manifest["stages"]:
+                with urllib.request.urlopen(base + stage["raw_url"] + "?v=" + manifest["build_fingerprint"], timeout=5) as response:
+                    payload = response.read()
+                    self.assertEqual(response.status, 200)
+                    self.assertEqual(response.headers.get_content_type(), "image/png")
+                    self.assertEqual(payload[:8], b"\x89PNG\r\n\x1a\n")
+                    self.assertEqual(len(payload), stage["bytes"])
+            broken_old_url = base + "/raw/generated/galleries/fleshpunk-maze/01-deterministic-baseline.png"
+            with self.assertRaises(urllib.error.HTTPError) as rejected:
+                urllib.request.urlopen(broken_old_url, timeout=5)
+            self.assertEqual(rejected.exception.code, 404)
         finally:
             httpd.shutdown()
             httpd.server_close()

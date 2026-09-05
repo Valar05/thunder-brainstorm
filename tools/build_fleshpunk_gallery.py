@@ -69,6 +69,7 @@ def main() -> int:
             "source_path": str(source),
             "source_sha256": hashlib.sha256(payload).hexdigest(),
             "gallery_path": destination.relative_to(ROOT).as_posix(),
+            "raw_url": "/raw/" + destination.relative_to(ROOT).as_posix(),
             "gallery_sha256": sha256(destination),
             "dimensions": png_dimensions(destination),
             "bytes": destination.stat().st_size,
@@ -76,7 +77,7 @@ def main() -> int:
 
     manifest = {
         "schema": "THUNDER VISUAL GALLERY 1",
-        "marker": "THUNDER_FLESHPUNK_GALLERY_V1",
+        "marker": "THUNDER_FLESHPUNK_GALLERY_V2",
         "slug": config["slug"],
         "title": config["title"],
         "source_project": config["source_project"],
