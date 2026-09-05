@@ -229,3 +229,13 @@ Infinite Brutality now has a route-grammar extractor and bootstrap curriculum fo
 - `../infinite-brutality/data/level_route_templates.json`: current route templates.
 
 Current curriculum is trained from the legal Quake map-source archive isolated under `generated/external_sources/quake_map_sources/`: 63 total sources, 41 playable maps trained, 22 item/prefab sources metadata-only. Infinite Brutality consumes only abstract route sentences and ML level-design lessons, not Quake geometry or assets.
+
+## Fleshpunk Maze Progression Gallery
+
+Thunder serves the content-addressed Fleshpunk visual archaeology at `http://127.0.0.1:8765/gallery/fleshpunk-maze`. It preserves six ordered stages, including rejected work, deterministic source selection, the current full-resolution pressure-valve champion, and its binary training projection. Rebuild the mirror with:
+
+```sh
+python tools/build_fleshpunk_gallery.py --source-root ../infinite-brutality
+```
+
+The durable server session is named `thunder-gallery`.

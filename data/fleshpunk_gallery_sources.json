@@ -1,0 +1,62 @@
+{
+  "schema": "THUNDER VISUAL GALLERY SOURCES 1",
+  "slug": "fleshpunk-maze",
+  "title": "Fleshpunk Maze: From Toy Diagram to Tendon Machine",
+  "source_project": "infinite-brutality",
+  "stages": [
+    {
+      "stage": 1,
+      "source_rel": "generated/fleshpunk_lineart/p0/png/fp_pressure_valve_gate.png",
+      "file": "01-deterministic-baseline.png",
+      "title": "Deterministic Baseline",
+      "verdict": "QUARANTINED",
+      "critique": "Immediate and deterministic, but flat, toy-like, and not a credible machine. Preserved as the red starting point.",
+      "change": "First pixels: prompt contract to SVG to PNG."
+    },
+    {
+      "stage": 2,
+      "source_rel": "assets/training/fleshpunk/source/fp_pressure_valve_gate_source_v2.png",
+      "file": "02-structural-source.png",
+      "title": "Structural Breakthrough",
+      "verdict": "SOURCE_ONLY",
+      "critique": "The gate becomes plausible machinery with pipes, valve, tendons, connective tissue, assembled and exploded views. Surface detail is too dense for strict line training.",
+      "change": "Generic diagram becomes professional fleshpunk engineering."
+    },
+    {
+      "stage": 3,
+      "source_rel": "assets/training/fleshpunk/lineart-v1/contact-sheet.png",
+      "file": "03-drive-extraction-all.png",
+      "title": "Drive Corpus Extraction",
+      "verdict": "MIXED_REJECT",
+      "critique": "All twenty legacy sources after deterministic ink extraction. Dense photos and fused organ masses visibly fail the no-blob gate.",
+      "change": "The learning source becomes visible and judgeable."
+    },
+    {
+      "stage": 4,
+      "source_rel": "assets/training/fleshpunk/lineart-v1/contact-sheet-selected.png",
+      "file": "04-selected-projection.png",
+      "title": "Hard-Gated Projection",
+      "verdict": "PROCEED_SOURCE",
+      "critique": "Eight separated mechanical survivors plus the authored pressure-valve supplement. Twelve bad plates are absent rather than averaged away.",
+      "change": "Density and silhouette gates prune the corpus."
+    },
+    {
+      "stage": 5,
+      "source_rel": "assets/training/fleshpunk/source/fp_pressure_valve_gate_line_v3.png",
+      "file": "05-clean-line-master.png",
+      "title": "Clean Line Master",
+      "verdict": "CURRENT_CHAMPION",
+      "critique": "Readable assembly logic, real exploded parts, valve plumbing, tendon actuators, connective-tissue cuffs, service fasteners, and orthographic flow views.",
+      "change": "The target becomes useful maze machinery instead of decorative flesh."
+    },
+    {
+      "stage": 6,
+      "source_rel": "assets/training/fleshpunk/lineart-v1/selected/fp_pressure_valve_gate_line_v3.png",
+      "file": "06-training-binary.png",
+      "title": "Training Binary",
+      "verdict": "AWAITING_USER",
+      "critique": "The same champion collapsed to pure black and white: zero gray, deterministic pixels, ready for LoRA continuation only after the user gate is signed.",
+      "change": "Visual master becomes an exact trainable projection."
+    }
+  ]
+}
