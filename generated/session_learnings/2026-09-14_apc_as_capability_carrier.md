@@ -36,6 +36,28 @@ personnel = specialized action
 
 The machine therefore becomes a way to move capability through dangerous space rather than a self-contained answer to every problem.
 
+This also weakens the need for firing to be the carrier's central interaction. A weapon may exist, but it does not need to carry the game's meaning. The meaningful question can instead be whether the vehicle gets the right bodies to the right ground in a condition where they can still act.
+
+## Through the Slit continuity
+
+This links directly back to the infantry contribution in `Valar05/through-the-slit`.
+
+The current infantry model is not decorative accompaniment. It models an eighteen-body friendly formation divided into six three-body fireteams. Casualties, cohesion, and suppression change how many teams can act and how quickly they fire. Fireteams choose targets through terrain-aware rifle lanes, can search for firing positions, and can deliberately suppress machine-gun or observer positions.
+
+That matters for the APC idea because the transported personnel can be the **real capability layer** rather than visual passengers.
+
+A carrier's movement could therefore determine:
+
+```text
+whether personnel arrive at all
++ which terrain they inherit
++ which firing lanes exist
++ how exposed they are while dismounting
++ whether their specialized capability can express itself
+```
+
+The APC does not need to be a weaker tank. It can be a machine whose combat meaning is **delivered infantry geometry**.
+
 ## Optional breadth
 
 A minimal toy could be complete with one carrier and a very small passenger vocabulary. Additional personnel types can remain externalized content rather than prerequisites for completeness.
@@ -60,3 +82,5 @@ move, protect, recover, redeploy, or accept loss
 > **The carrier does not need to perform every capability. It needs to deliver capability into consequence.**
 
 > **Put breadth in the payload before putting breadth in the controls.**
+
+> **The APC's weapon can be secondary because the passengers are not cargo decoration; they are the capability being transported.**
