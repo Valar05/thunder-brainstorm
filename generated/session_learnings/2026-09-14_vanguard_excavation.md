@@ -254,6 +254,71 @@ The dense information sits around the commitment / contact region and then opens
 
 By contrast `RunForwardOld` is keyed nearly every two frames, and several jump / land actions contain much denser source traces. The file also contains many `McpQuat` channels, especially in traversal actions, so a MakeHuman / mocap-style retargeting tool clearly touched part of the animation pipeline. Exact authorship per clip remains UNKNOWN without Drew's production memory.
 
+## HEMA provenance — correction to the earlier interpretation
+
+USER_MEMORY from Drew materially changes the causal interpretation of the sword animation.
+
+Vanguard's sword motion was not an action-game animation that accidentally converged on plausible body mechanics. Drew practiced HEMA with a small local group and integrated the animation directly with people from that group. The movement therefore belongs in the chain:
+
+```text
+HEMA PRACTICE / EMBODIED FEEDBACK
+-> ANIMATION TRANSLATION
+-> GAMEPLAY
+```
+
+The measured root travel should therefore be read first as martial measure / whole-body weapon action expressed in game animation, not merely as a game-design gap-closer. The sword, feet, hips, torso and hands participate in one committed action whose geometry changes distance.
+
+Exact named-technique mapping for `SwordAttack1`–`SwordAttack5` remains UNKNOWN unless separately remembered or source-proven.
+
+### Drew's bimodal sparring style
+
+USER_MEMORY:
+
+Drew describes the early HEMA group as small. Kenneth was the strongest fighter and teacher: multi-style, opponent-adaptive, and willing to dramatize an imperfect application so a student could physically feel why a technique worked. David was also highly competent and could nearly fight Kenneth to a draw, but Drew's own matchup with David behaved strangely because Drew's physical and tactical policy was extremely compressed.
+
+David's remembered summary of Drew's repertoire was essentially two moves:
+
+1. a heavily overcommitted Zornhau;
+2. a very cautious, very long-range poke exploiting Drew's long reach.
+
+Drew therefore describes his combat policy as **bimodal** rather than broadly adaptive.
+
+The important structure is not simply `two moves`. The two modes are opposite risk regimes:
+
+```text
+MODE A — OVERCOMMIT
+accept contact / collapse measure / impose mass and initiative
+
+MODE B — DENY
+preserve measure / exploit reach / force opponent to cross danger first
+```
+
+This creates an unusual opponent-model problem. A normal fighter often occupies intermediate commitment states. Drew's remembered style jumped between the extremes:
+
+```text
+VERY FAR / CAUTIOUS
+<-------------------->
+VERY COMMITTED / INSIDE
+```
+
+The middle was comparatively underused.
+
+This helps explain why a technically stronger opponent could find the matchup disproportionately frustrating. It is a style-interaction effect, not evidence that Drew was the more skilled swordsman. Kenneth's defining advantage, by contrast, was adaptation across styles and opponents.
+
+Candidate law:
+
+> A narrow repertoire can still be difficult to solve when its few actions occupy sufficiently different regions of the opponent's decision space.
+
+And a stronger formulation:
+
+```text
+REPERTOIRE WIDTH != DECISION-SPACE WIDTH
+```
+
+Two moves can create a large decision problem if one punishes entering and the other punishes staying out.
+
+This also provides a plausible embodied root for Vanguard's contrast between long-range weapon geometry and violent full-body commitment, but that lineage remains INFERRED rather than source-proven.
+
 ## Current-canon continuity
 
 Pose Lab V2's 2026 Vanguard preservation contract gives the current appearance authority to the accepted Fleshpunk idle frames and explicitly protects anatomy, proportions, armor coverage, plume / hair mass, face, and sword dimensions.
@@ -301,18 +366,19 @@ The model does not need Lionheart's heraldic density. It achieves specificity by
 
 1. **Weirdness can be geometry-efficient.** A single asymmetric shoulder and a blade-feather crest can carry more memorability than thousands of generic detail polygons.
 2. **Control complexity can substitute for mesh complexity.** Vanguard's visible body is tiny; the rig / action space is enormous by comparison.
-3. **Weapon combat should move the body through space.** Several attacks literally translate the root by a large fraction of character height or more.
+3. **Weapon combat should move the body through space.** Several attacks literally translate the root by a large fraction of character height or more, now with USER_MEMORY that this motion was integrated against HEMA practice rather than discovered accidentally.
 4. **Identity can survive technology changes when it is structural.** The plume, shoulder asymmetry, long weapon line and faceted proportions recur in later Vanguard preservation doctrine even as rendering style changes.
-5. **Low poly is not merely information allocation across surface detail. It can be information allocation across silhouette asymmetry, articulation and motion.**
+5. **Repertoire width is not decision-space width.** A bimodal policy can be strategically awkward when its two modes threaten opposite commitment regimes.
 
 ## Compact Thunder record
 
 ```text
 slug: vanguard-source-280
-mechanism: ultra-low-poly armored swordfighter whose identity is carried by asymmetry, plume, long weapon vector, and root-driven full-body attacks
+mechanism: ultra-low-poly armored swordfighter whose identity is carried by asymmetry, plume, long weapon vector, and root-driven full-body attacks informed by HEMA practice (USER_MEMORY)
 style: tall narrow faceted body; single loud pauldron; repeated blade-feather head crest; long thin sword; almost no decorative surface dependency
 strongest lesson: spend identity on a few geometry/motion decisions strong enough to survive every later rendering pipeline
-motion law: preload briefly backward, then commit the entire body through the strike
+motion law: whole-body sword action changes measure; measured clips often preload briefly backward and then commit the body through the strike
+sparring analogue: Drew remembers a bimodal personal policy — overcommitted Zornhau vs cautious extreme-range poke — creating wide decision-space coverage from a tiny repertoire
 lineage: direct structural ancestor / sibling source for Pose Lab Vanguard; current Fleshpunk appearance remains separately authoritative
 source: Vanguard (1).blend @ 5a94e77f78d6c887cc87517d0f8020ca19edc1a12c68dd8cecf17d6368ac38b7
 ```
