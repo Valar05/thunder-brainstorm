@@ -2,7 +2,7 @@
 
 Use this skill when inspecting Drew's old Blender projects as a design corpus.
 
-The goal is not to inventory everything. The goal is to recover compact, evidence-backed lessons about game feel, animation grammar, character design, visual style, production method, and lineage, while keeping working context small.
+The goal is not to inventory everything. The goal is to recover compact, evidence-backed lessons about game feel, animation grammar, character design, visual style, production method, tool-capability shifts, and lineage, while keeping working context small.
 
 ## Architecture
 
@@ -144,7 +144,24 @@ Record only the load-bearing visual choices:
 - smooth vs faceted;
 - organic vs machined transitions;
 - painted / vertex / procedural / PBR choices when source proves them;
-- whether material boundaries reinforce anatomy / mechanics.
+- whether material boundaries reinforce anatomy / mechanics;
+- whether wear, roughness, edge treatment, cavities, and material separation imply use/history rather than generalized noise.
+
+**Causal surface test**
+
+Do not call a surface 'realistic' merely because it is detailed.
+
+Ask whether the surface implies a believable cause:
+
+```text
+handling -> wear
+edge exposure -> abrasion
+recess -> accumulation
+material identity -> distinct roughness / response
+impact / use -> local history
+```
+
+A surface may be stylized and still be causally true. General scratches, chips, grime, or noise with no implied cause are surface persuasion, not evidence.
 
 **Detail economy**
 - where detail clusters;
@@ -166,13 +183,36 @@ Record only the load-bearing visual choices:
 - only when source evidence supports it;
 - note obvious Blender-era techniques, topology habits, material limitations, or pipeline constraints without treating them as artistic failure.
 
+**Capability discontinuity**
+
+Track moments when a new tool changed what Drew could express cheaply enough to become part of style.
+
+Examples include Substance Painter, better rigging, mocap, procedural tooling, image generation, or a new engine feature.
+
+Use this shape:
+
+```text
+BEFORE: specificity required expensive channel A
+NEW TOOL: channel B becomes cheap / available
+AFTER: style reallocates information into B
+```
+
+Example hypothesis from USER_MEMORY:
+
+```text
+BEFORE Substance Painter: visual specificity leaned harder on geometry.
+AFTER Substance Painter: simple form could carry manufacturing/use/history through material channels.
+```
+
+Do not promote the causal claim until specimen evidence supports the timing and surface change.
+
 **Recurring Drew signature**
 - only after comparison across specimens;
 - do not declare a signature from one model.
 
 ### 6. Style lineage
 
-When later work echoes the specimen, name the transferable geometry rather than merely saying it 'looks similar.'
+When later work echoes the specimen, name the transferable geometry or material logic rather than merely saying it 'looks similar.'
 
 Examples:
 
@@ -180,6 +220,7 @@ Examples:
 broad fist emphasis -> later contact-frame enlargement
 stone-weight gargoyle -> later planted heavy-body combat
 wedge armor + exposed joint rhythm -> later Fleshpunk structural vocabulary
+causal wear -> later material-honesty doctrine
 ```
 
 Lineage can be `ancestor-of`, `descendant-of`, `echoes`, or `contrasts-with` and must retain evidence status.
@@ -227,4 +268,4 @@ Do not ask only:
 
 Ask:
 
-> What did this file teach Drew's design nervous system, what visual style did it encode, and which parts can the surviving evidence actually prove?
+> What did this file teach Drew's design nervous system, what visual style did it encode, what capability made that style possible, and which parts can the surviving evidence actually prove?
