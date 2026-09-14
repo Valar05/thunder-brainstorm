@@ -122,6 +122,37 @@ PORTABLE MOTION
 
 The target body does not copy the old body's pose history. It solves the same causal sentence in its own anatomy.
 
+## AI-coding authorship note
+
+Drew identifies Ruined Air as an unusually clear counterexample to the feeling that AI-assisted coding means the human 'did nothing.' That feeling is accurate only if contribution is measured as keystrokes or transcription labor, which Drew intentionally minimizes.
+
+According to Drew's recollection, the machine did relatively little conceptual work on this mechanism. He described the desired locomotion behavior in pseudocode-like terms and the implementation followed that causal specification. This is autobiographical provenance unless the original prompt transcript is recovered.
+
+The useful distinction is:
+
+```text
+IMPLEMENTATION LABOR != DESIGN AUTHORSHIP
+```
+
+For this system, the load-bearing contribution was choosing the representation:
+
+- feet as world/task-space obligations rather than copied joint animation;
+- alternating plant/move phases;
+- cadence derived from motion;
+- stride derived from velocity;
+- body/chest compensation preserving first-person presence;
+- model-local IK solving the same behavioral law on different anatomy.
+
+The source code verifies that this representation exists. Drew's recollection supplies the authorship history: he wanted Dark-Messiah-like full-body presence without manually authoring a conventional walk cycle, specified the behavior, and used AI as an implementation translator rather than as the origin of the mechanism.
+
+This yields a broader AI-coding rule:
+
+> **Authorship is not proportional to the amount of syntax personally typed. It is proportional to how much of the artifact's causal structure, constraints, judgment, and acceptance criteria came from the author.**
+
+A useful test is whether the human can explain why the mechanism exists, what tradeoff it solves, which invariants matter, how it fails, and why a revision is better. When those answers live upstream of generated syntax, minimizing manual coding is successful abstraction, not absence of authorship.
+
+In this frame, pseudocode can function as a compressed executable design language and the model as a compiler with judgment assistance. The machine may expand the sentence; the author still owns the sentence's causal grammar when that grammar originated with them.
+
 ## Excavation question
 
 When comparing Ruined Air to the later canonical implementation, inspect not only visual similarity but which constants, phase laws, contact rules, and authority boundaries survived unchanged. A seamless model swap is evidence that those surviving relations are closer to the real animation primitive than the original skeleton was.
