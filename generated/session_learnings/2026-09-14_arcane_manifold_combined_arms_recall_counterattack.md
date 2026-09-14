@@ -73,7 +73,7 @@ Drew identifies two direct experiential ancestors for Arcane Manifold homing:
 
 Treat this as autobiographical design provenance unless older source notes are recovered.
 
-The important common property is not simply 'homing projectile.' It is **steerable consequence after launch**: firing does not terminate authorship. The projectile remains a live relationship between player intent and world geometry.
+The important common property is not simply "homing projectile." It is **steerable consequence after launch**: firing does not terminate authorship. The projectile remains a live relationship between player intent and world geometry.
 
 Arcane Manifold then extends that relationship one step further:
 
@@ -83,10 +83,66 @@ FIRE -> STEER / HOME -> PERSIST IN WORLD -> BLOCK -> GLOBAL RECALL
 
 The novel pleasure is therefore not just guidance. It is revocation and reassignment of projectile purpose.
 
+## Homing as transfer of authority
+
+Drew's later recollection clarifies why Arcane Manifold could not simply copy the Half-Life 2 model.
+
+Half-Life 2's rocket is a low-rate projectile whose guidance can remain continuously paired to the player's cursor. That works because the player is effectively authoring one important projectile at a time.
+
+Arcane Manifold behaves more like a high-rate stream, closer in authored feel to walking MG42 fire. If every already-fired projectile remained permanently enslaved to the current cursor, sweeping the aim across multiple enemies would cause old projectiles to curve toward the newest cursor position. The stream would stop representing the temporal history of the sweep.
+
+The design problem therefore became:
+
+> **At what point should the player stop directly owning a projectile's target?**
+
+The live source uses a distance-gated authority handoff. While a projectile remains near the player, it follows the current cursor / camera-ray target. Once it exceeds `target_homing_length`, it can acquire its own enemy target and use local homing policy instead.
+
+```text
+NEAR BODY
+player cursor owns target
+
+PAST HANDOFF RANGE
+projectile acquires local target
+
+BLOCK
+player overrides local autonomy with global recall
+```
+
+This creates a three-tier command structure:
+
+```text
+DIRECT GUIDANCE
+-> LOCAL AUTONOMY
+-> GLOBAL RECALL OVERRIDE
+```
+
+The first stage preserves the tactile pleasure of Half-Life 2 / Dark Messiah style steering.
+The second preserves the meaning of sweeping high-rate fire by allowing older shots to keep faith with the region they were sent through instead of all bending toward the newest cursor position.
+The third turns the entire persistent field back into a coordinated counterstroke.
+
+### Temporal-authorship law
+
+A high-rate guided weapon can become less expressive when every past projectile obeys the player's newest intention.
+
+Therefore:
+
+> **Preserve current intention near the emitter, then preserve historical intention by releasing older projectiles into autonomy.**
+
+Or more compactly:
+
+```text
+CURRENT AIM owns the NEWEST consequences.
+PAST AIM deserves custody of the OLDER ones.
+```
+
+This is another PERSIST pattern. The projectile field records the history of player aim instead of being continuously rewritten into the present.
+
 ## Thunder extraction questions
 
 - Which older games let projectiles remain player-authored after launch?
+- Which mechanics transfer authority from direct player control to local autonomy rather than choosing only one?
+- Which high-rate weapons preserve the temporal history of a sweep instead of retroactively rewriting old projectiles?
 - Which mechanics convert defense into initiative without introducing a separate button?
 - Which counterattacks inherit geometry established before the counterattack begins?
 - Which games create combined-arms effects inside a single avatar by giving different subsystems distinct battlefield jobs?
-- Where does 'block' function as a state transformer rather than a damage canceler?
+- Where does "block" function as a state transformer rather than a damage canceler?
