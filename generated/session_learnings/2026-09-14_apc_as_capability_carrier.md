@@ -58,6 +58,40 @@ whether personnel arrive at all
 
 The APC does not need to be a weaker tank. It can be a machine whose combat meaning is **delivered infantry geometry**.
 
+## Bus-stop deployment grammar
+
+Drew's immediate answer to "what makes the doors open?" was: **bus stop**.
+
+That may be the cleanest answer because it preserves the no-action-button lineage. The player does not press `DISMOUNT`. The world contains places where passengers are supposed to get off, and the driving decision determines whether the carrier services those stops well or disastrously.
+
+Candidate minimal rule:
+
+```text
+ENTER STOP ZONE
++ reduce speed below threshold
+-> doors open
+-> eligible personnel dismount
+```
+
+This makes stopping itself an action without adding an action button.
+
+The stop can therefore become a causal object rather than a mission marker:
+
+```text
+approach angle
++ arrival speed
++ dwell time
++ enemy pressure
++ terrain around the stop
+= quality of deployment
+```
+
+A good stop gives personnel useful ground. A bad stop may unload them into fire, strand them behind obstruction, or force the carrier to spend dangerous time stationary.
+
+This also creates a pleasing civilian/military inversion: an APC is literally operating a hostile bus route. The transport grammar is familiar, but every ordinary transit decision carries battlefield consequence.
+
+The important purity point is that deployment is **externalized into location and motion state** rather than represented as a new button. The environment asks for the action; the player answers by how they drive.
+
 ## Optional breadth
 
 A minimal toy could be complete with one carrier and a very small passenger vocabulary. Additional personnel types can remain externalized content rather than prerequisites for completeness.
@@ -68,7 +102,7 @@ Examples are deliberately not canon yet. The point is architectural: new capabil
 
 ```text
 CONTACT
-choose route / speed / facing / deployment geometry
+enter a stop / choose route / speed / facing / deployment geometry
 
 CONSEQUENCE
 personnel inherit the delivered position and its risks
@@ -84,3 +118,5 @@ move, protect, recover, redeploy, or accept loss
 > **Put breadth in the payload before putting breadth in the controls.**
 
 > **The APC's weapon can be secondary because the passengers are not cargo decoration; they are the capability being transported.**
+
+> **If stopping is already a verb, a bus stop can turn it into deployment without adding a button.**
