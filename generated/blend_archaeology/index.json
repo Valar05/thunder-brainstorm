@@ -1,0 +1,29 @@
+{
+  "schema": "thunder-blend-archaeology-index-v1",
+  "entries": [
+    {
+      "slug": "remhir",
+      "source": "Remhir.blend",
+      "sha256": "ce670c397e3acad64c29a5b6498df3bd578f418a99b971f38c1d6634e6c0051b",
+      "status": "inspected-source-no-action-render",
+      "mechanism": "compact body-first melee where defense/reversal uses gargoyle wings and whole-body state change",
+      "style": "enormous faceted bat-wing silhouette, narrow horned core, hard planar low-poly geometry, sparse spike punctuation",
+      "strongestLesson": "Make the character's unique anatomy carry the verb instead of decorating a generic combat verb.",
+      "lineage": [
+        {
+          "target": "Gravity Fist",
+          "relationship": "possible early body-first punch/counter ancestor",
+          "status": "USER_MEMORY+INFERRED"
+        }
+      ],
+      "record": "generated/session_learnings/2026-09-14_remhir_excavation.md"
+    }
+  ],
+  "crossCorpusCandidates": [
+    {
+      "id": "material-channels-are-semantic",
+      "status": "USER_MEMORY-candidate",
+      "statement": "On stylized low-poly assets, full material channels can complete object identity rather than merely polish diffuse color; strip decorative noise without stripping material truth."
+    }
+  ]
+}
