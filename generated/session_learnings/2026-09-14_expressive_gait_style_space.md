@@ -117,6 +117,44 @@ And the larger claim:
 
 > **Performance can be evidence for a motion law rather than the boundary of the final performance.**
 
+## Restraint specimen — diagonal hip yaw was consciously deferred
+
+Drew recalls that the desired Ruined Air version included hip turning into diagonal travel, but the feature became disproportionately difficult. He deliberately stopped pursuing it so the game itself could continue. This is useful evidence of restraint rather than an unresolved defect.
+
+The shipped behavior is a coherent locomotion style: comparatively camera/body-forward movement with more strafing across diagonal travel, rather than strongly rotating the pelvis into each movement vector. The omitted feature would have changed the **movement-direction coupling**, not repaired a broken walk.
+
+Represent the distinction with a style parameter rather than a correctness flag. Let:
+
+```text
+θ_view  = facing / camera-relative heading
+θ_move  = horizontal travel heading
+κ_hip   = movement-direction coupling in [0, 1] (or a wider bounded expressive range)
+```
+
+Then a conceptual pelvis target is:
+
+```text
+θ_hip_target = shortest-angle blend(θ_view, θ_move, κ_hip)
+```
+
+Interpretation:
+
+```text
+κ_hip ≈ 0   -> strafe-dominant gait; pelvis preserves facing
+κ_hip ≈ 1   -> travel-dominant gait; pelvis turns into movement
+0 < κ_hip < 1 -> hybrid body-leading / strafing styles
+```
+
+The real controller may use separate coupling, rate, phase, and clamp terms rather than one scalar, for example pelvis coupling, chest counter-rotation, maximum yaw offset, turn-in rate, and turn-out recovery. The important theoretical point is that the unimplemented idea belongs naturally inside the expressive parameter space.
+
+This reframes the historical stopping point:
+
+> **A deferred feature can expose a style dimension even when the current implementation is already correct.**
+
+It also supplies a concrete example of sufficiency discipline. The project did not need to maximize locomotion sophistication before becoming a game. The existing strafe-dominant solution was complete enough to ship forward, while the unrealized hip-turn behavior remained recoverable as a later axis of expression.
+
+This is especially relevant to expressive gait. Anger, confidence, caution, injury, armor, weapon posture, or individual character may plausibly alter how strongly the pelvis commits to the travel vector. That claim should be measured from performance rather than assumed, but Ruined Air already gives the system a place to encode the result.
+
 ## Future repo candidate
 
 This theory is now large enough to justify a dedicated experimental repository when implementation begins. Until then, preserve it in Thunder Brainstorm as the design seed rather than prematurely choosing a production architecture.
