@@ -95,6 +95,76 @@ Ruined Air is not magically rig-agnostic. The implementation hardcodes semantic 
 
 That distinction is useful because it prevents an accidental claim that retargeting vanished. What vanished was the need to transfer an entire baked gait performance joint-by-joint.
 
+## Compared with a traditional IK walk
+
+A common traditional game-character IK walk is **animation-led**:
+
+```text
+BAKED WALK CLIP
+-> play / blend clip
+-> raycast or solve feet onto ground
+-> IK corrects contact error
+```
+
+The authored clip owns most of the gait: stride timing, pelvis motion, knee trajectory, arm swing, personality, and often nominal speed. IK is usually a corrective layer. It repairs foot penetration, slope mismatch, stair contact, or leg reach while trying not to destroy the authored motion.
+
+Ruined Air is much closer to **IK-led procedural locomotion**:
+
+```text
+PLAYER VELOCITY + INPUT
+-> cadence / phase law
+-> explicit foot plant and move windows
+-> desired world-space endpoints
+-> IK solves the leg
+-> procedural hip / chest / body compensation
+```
+
+Here IK is not primarily repairing a walk. The runtime law creates most of the walk.
+
+### What Ruined Air does better
+
+1. **Speed responsiveness without clip stretching.** Stride length and cadence are derived from actual movement. A traditional clip often needs playback-rate changes, blend trees, or multiple walk/run clips to cover the same speed range.
+2. **Directional adaptation.** Strafing changes stride length and lateral placement directly. The gait responds to the controller's current movement sentence instead of selecting among a library of authored directional clips.
+3. **Model transfer.** Because the reusable representation is endpoint/contact law plus target-local IK, the same gait can survive a body swap with far less dependence on matching source joint rotations.
+4. **First-person embodiment.** Chest/body yaw compensation is integrated with locomotion. Camera continuity, visible body orientation, and foot behavior are solved as one runtime system rather than as a third-person clip viewed from an inconvenient camera.
+5. **Cheap iteration.** Changing cadence, plant ratio, step height, stride law, strafe compression, or landing response changes the whole locomotion family immediately. No clip has to be reopened and reauthored.
+6. **Low asset burden.** The system can produce convincing locomotion with little or no dedicated baked walk animation. This was especially useful for an AI-assisted prototype where the desired behavior was specified directly in code/pseudocode.
+7. **Contact clarity.** Half-cycle plant holds give the eye long, stable evidence that a foot owns the ground. The motion phases can remain extremely brief without making the gait unreadable.
+
+### What a traditional IK walk still does better
+
+1. **Authored personality.** A strong animator can encode swagger, fatigue, injury, fear, asymmetry, anticipation, shoulder rhythm, and character-specific timing directly into a clip. Ruined Air's law is comparatively neutral unless those traits are added procedurally.
+2. **Whole-body sophistication.** The Ruined Air source procedurally handles feet, hip bob, chest/body yaw, and landing emphasis, but it does not automatically create the nuanced spine, shoulder, arm, hand, and head choreography a good full-body walk cycle can contain.
+3. **Uneven-terrain truth.** The inspected Ruined Air gait does not show a per-foot ground-raycast / terrain-height sampling layer in the stride function itself. It uses world-space IK targets and player grounded state, but a conventional modern foot-IK stack may outperform it on stairs, rocks, sharply changing slopes, and independently varying support heights because it explicitly samples the ground under each foot.
+4. **Edge-case stability.** Purely procedural IK can produce knee popping, unreachable targets, ugly singularities, leg crossing, or strange poses on extreme proportions. Traditional animation gives the solver a strong prior pose and usually constrains it to smaller corrections.
+5. **Deliberate transitions.** Start, stop, pivot, stumble, limp, turn-in-place, and emotionally loaded locomotion transitions often benefit from authored clips or a richer procedural state machine.
+
+### The important distinction
+
+Ruined Air is not "better IK" in every dimension. It changes **where authorship lives**.
+
+Traditional IK locomotion:
+
+```text
+ANIMATOR AUTHORS THE GAIT
+IK PRESERVES CONTACT
+```
+
+Ruined Air:
+
+```text
+SYSTEM AUTHORS THE GAIT LAW
+IK EMBODIES IT
+```
+
+That makes Ruined Air unusually strong when the target is responsiveness, portability, first-person presence, low asset count, and fast systemic iteration. It is weaker when the target is highly character-specific performance or difficult terrain without additional probing.
+
+The most promising hybrid is therefore not to replace traditional animation entirely, but to let authored animation own **character and semantic extrema** while Ruined Air-style procedural logic owns **contacts, cadence, speed response, body/camera authority, and model-local adaptation**.
+
+Compactly:
+
+> **Traditional IK fixes a performance to fit the world. Ruined Air asks the body to perform the world's current requirements.**
+
 ## Animation-theory consequence
 
 This is strong evidence for Semantic Extremum / causal animation work:
