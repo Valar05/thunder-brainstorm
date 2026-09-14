@@ -184,3 +184,9 @@ strongest lesson: make the character's unique anatomy carry the verb instead of 
 lineage: likely early ancestor / contrast surface for later Gravity Fist body-first combat; exact causal lineage remains USER_MEMORY + INFERRED
 source: Remhir.blend @ ce670c397e3acad64c29a5b6498df3bd578f418a99b971f38c1d6634e6c0051b
 ```
+
+## Related Thunder notes
+
+- `generated/session_learnings/2026-09-14_remhir_counter_fail_soft_precision.md` — preserves the fail-soft precision counter design decision and its nested block/counter timing model.
+- `generated/session_learnings/2026-09-14_remhir_design_implications.md` — preserves the broader implications: tacit judgment before explicit theory, state-depth minimalism, anatomy-as-mechanics, perceptual squash/stretch, capability-vs-design-quality separation, and Remhir as a pre-material control specimen.
+- `generated/source_refs_manual/blend_archaeology_source_refs.jsonl` — keeps measured source claims and USER_MEMORY claims separate for later corroboration.
