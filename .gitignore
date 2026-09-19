@@ -17,3 +17,6 @@ Thumbs.db
 
 # Dependency folders
 node_modules/
+
+# Machine-local Thunder workspace archaeology index
+generated/workspace/
