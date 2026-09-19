@@ -59,3 +59,23 @@ Marrow Runner expresses it through Pseudopod Ram and recursive force transfer.
 Armored Bus Stop expresses it through drift, ram commitment, launched commandos, contact recovery, and terrain that edits future trajectories.
 
 Use the law as a generative mechanic test, not as a demand that future games resemble either project.
+
+## InfiniteBrutality — ancestral cathedral
+
+Old Godot repo:
+- https://github.com/Valar05/InfiniteBrutality
+
+Modern browser descendant:
+- https://github.com/Valar05/infinite-brutality
+
+New lineage note:
+- `generated/session_learnings/2026-09-19_infinitebrutality_ancestral_cathedral.md`
+
+Corrected generation sequence:
+- Generation 1: tunnel / maze version, firsthand history; source body not yet recovered.
+- Generation 2: climbing / embodied-combat version; surviving old repo contains Climbing, ClimbingSide, Mantle, FPSPlayer, kick/parry/combo evidence.
+- Modern Infinite Brutality: inherits the FPS arm identity and a live climbing/mantle capability family through new runtime technology.
+- Future: Taste Trap lineage.
+
+Retrieval law:
+> **THE PROJECT DIES. THE CAPABILITY MIGRATES.**
