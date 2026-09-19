@@ -103,3 +103,25 @@ Control laws:
 > **AUTOMATE THE ROUTINE. BUTTON THE EXCEPTION.**
 
 > **TAKE THE PLAYER'S FINGER OFF THE TRIGGER. PUT THEIR DECISIONS SOMEWHERE MORE INTERESTING.**
+
+## Ruined Air
+
+Source-bearing repo:
+- https://github.com/Valar05/ruined-air (`master`)
+
+Historical empty sibling:
+- https://github.com/Valar05/ruined_air
+
+New lineage note:
+- `generated/session_learnings/2026-09-19_ruined_air_lineage_glider_voxel.md`
+
+Corrected lineage:
+- unnamed asteroid predecessor: rooms inside a sphere;
+- Ruined Air: Arcane Manifold-style full-body presence + floating voxel islands/bridges + serious glider aerodynamics;
+- modern Infinite Brutality: inherits Ruined Air locomotion knowledge and the larger floating-terrain / embodied-traversal ambition;
+- Taste Trap follows downstream.
+
+Retrieval laws:
+> **BODY PRESENCE BECAME INFRASTRUCTURE.**
+
+> **IF THE BODY CHANGES MODE, THE PHYSICS SHOULD CHANGE WITH IT.**
