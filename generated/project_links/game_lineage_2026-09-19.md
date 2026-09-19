@@ -79,3 +79,27 @@ Corrected generation sequence:
 
 Retrieval law:
 > **THE PROJECT DIES. THE CAPABILITY MIGRATES.**
+
+## Redneck Zombie Shotgun Turtles
+
+Known artifact:
+- YouTube: https://youtu.be/Er5HGed_5Fg
+- Thunder note: `generated/session_learnings/2026-09-19_unidentified_early_lowpoly_survivor_lineage.md` (historical filename; canonical title now resolved)
+
+Identity status:
+- title resolved firsthand by Drew: **Redneck Zombie Shotgun Turtles**;
+- exact GitHub repository, if any, remains unresolved.
+
+Lineage handles:
+- early low-poly survivor;
+- Vampire Survivors influence;
+- routine shooting automatic;
+- no-cooldown execute finisher;
+- behavior-changing upgrade drafts;
+- anthropomorphic predator-versus-prey world;
+- turtle as an early recurring armored/prey/predator body.
+
+Control laws:
+> **AUTOMATE THE ROUTINE. BUTTON THE EXCEPTION.**
+
+> **TAKE THE PLAYER'S FINGER OFF THE TRIGGER. PUT THEIR DECISIONS SOMEWHERE MORE INTERESTING.**
