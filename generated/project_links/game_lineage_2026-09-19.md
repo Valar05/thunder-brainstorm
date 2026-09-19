@@ -125,3 +125,26 @@ Retrieval laws:
 > **BODY PRESENCE BECAME INFRASTRUCTURE.**
 
 > **IF THE BODY CHANGES MODE, THE PHYSICS SHOULD CHANGE WITH IT.**
+
+## Diorama of Descension → Diorama Descent
+
+Old combat donor:
+- https://github.com/Valar05/diorama-of-descension
+
+Recombinant successor:
+- https://github.com/Valar05/diorama-descent
+
+Second donor:
+- https://github.com/Valar05/steam-pile
+
+Lineage note:
+- `generated/session_learnings/2026-09-19_diorama_recombinant_lineage.md`
+
+Key laws:
+> **MOTION HAS MEMORY.**
+
+> **COMPRESS INPUTS; EXPAND MEANING THROUGH STATE.**
+
+> **APPROACH IS PART OF THE ATTACK.**
+
+> **CAPABILITIES FROM DIFFERENT DEAD PROJECTS CAN BREED.**
