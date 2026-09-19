@@ -1,13 +1,17 @@
-# Unidentified Early Low-Poly Survivor — Lineage Capture — 2026-09-19
+# Redneck Zombie Shotgun Turtles — Early Low-Poly Survivor Lineage — 2026-09-19
 
 ## Status
 
-This is a deliberately unresolved fossil in Drew's game-development lineage.
+The title of this fossil is now resolved by Drew's firsthand recollection:
+
+> **Redneck Zombie Shotgun Turtles**
+
+Repository provenance is still unresolved. The project name should no longer be treated as unknown.
 
 Known external artifact:
 - YouTube video id: `Er5HGed_5Fg`
 - User supplied a fresh 95.5-second screen recording of the playable build for inspection on 2026-09-19.
-- No repository identity has yet been proven. Do **not** silently rename this project to Arcane Manifold or another surviving repo because of mechanic similarity.
+- No repository identity has yet been proven. Do **not** silently map Redneck Zombie Shotgun Turtles onto Arcane Manifold or another surviving repo because of mechanic similarity.
 
 ## Firsthand chronology
 
@@ -20,7 +24,7 @@ His remembered source influence is Vampire Survivors:
 - level/upgrade choices reshape the combat machine;
 - the design removes repeated attack-button labor and relocates agency into positioning and build choice.
 
-Treat the chronology and inspiration as Drew's firsthand report. Treat the exact repo/title as unresolved archaeology.
+Treat the chronology, title, and inspiration as Drew's firsthand report. Treat the exact repository as unresolved archaeology.
 
 ## What the inspected recording proves
 
@@ -100,7 +104,7 @@ Do not claim direct inheritance without source evidence, but preserve the concep
 - **Armor Command:** pressure, targeting rhythm, automatic/repeated weapon behavior, and upgrades carry more of the combat expression than button complexity.
 - **Armored Bus Stop:** one-stick movement/contact, automatic allied violence, doctrine choices, and battlefield geometry carry essentially the whole war.
 
-This unknown low-poly survivor may be an early specimen of the broader Drew grammar:
+Redneck Zombie Shotgun Turtles may be an early specimen of the broader Drew grammar:
 
 > **LOW INPUT COMPLEXITY, HIGH SYSTEMIC CONSEQUENCE.**
 
@@ -110,13 +114,18 @@ and
 
 ## Archaeology boundary
 
+RESOLVED:
+- Project title: **Redneck Zombie Shotgun Turtles**.
+
 OPEN QUESTIONS:
-- What was the original project title?
 - Did it ever reach GitHub?
 - Is any surviving repo its direct source, descendant, or sibling?
 - Was this before or after specific surviving prototypes such as Arcane Manifold?
 
-Until proven, preserve:
-`UNIDENTIFIED_EARLY_LOW_POLY_SURVIVOR`
+Canonical project label for Thunder:
 
-Do not close the fossil record for convenience.
+`REDNECK_ZOMBIE_SHOTGUN_TURTLES`
+
+Keep `UNIDENTIFIED_EARLY_LOW_POLY_SURVIVOR` only as the historical retrieval alias for earlier notes.
+
+Do not close the repository-provenance question for convenience.
