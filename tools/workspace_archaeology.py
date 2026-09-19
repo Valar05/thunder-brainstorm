@@ -21,6 +21,30 @@ except ModuleNotFoundError:
 SCHEMA = "thunder.workspace-index.v1"
 RECEIPT_KIND = "thunder-workspace-index"
 DEFAULT_ANDROID_ROOT = Path("/storage/emulated/0/Documents/GodotProjects")
+PROJECT_ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_INDEX_RELATIVE = Path("generated/workspace/workspace_index.json")
+
+
+def default_index_path() -> str:
+    configured = os.environ.get("THUNDER_WORKSPACE_INDEX", "").strip()
+    if configured:
+        return str(Path(configured).expanduser())
+    candidates = [PROJECT_ROOT / DEFAULT_INDEX_RELATIVE]
+    code, out, _err = run(
+        ["git", "rev-parse", "--path-format=absolute", "--git-common-dir"],
+        cwd=PROJECT_ROOT,
+        timeout=5,
+    )
+    if code == 0 and out:
+        common_dir = Path(out).expanduser().resolve()
+        canonical_root = common_dir.parent if common_dir.name == ".git" else PROJECT_ROOT
+        canonical_index = canonical_root / DEFAULT_INDEX_RELATIVE
+        if canonical_index not in candidates:
+            candidates.insert(0, canonical_index)
+    for candidate in candidates:
+        if candidate.exists():
+            return str(candidate)
+    return str(candidates[0])
 HANDOFF_RE = re.compile(r"(handoff|recovery|campaign|continuation|restore|state|receipt|commission)", re.I)
 HANDOFF_EXACT = {"README.md", "AGENTS.md", "SKILL.md", "MEMORY.md", "MEMORIES.md", "PROJECT_ORIENTATION.md"}
 MAX_HANDOFFS = 80
@@ -717,7 +741,7 @@ def cmd_recover(args: argparse.Namespace) -> int:
 
 
 def add_index_arg(parser: argparse.ArgumentParser) -> None:
-    parser.add_argument("--index", default="generated/workspace/workspace_index.json")
+    parser.add_argument("--index", default=default_index_path())
     parser.add_argument("--json", action="store_true")
 
 
