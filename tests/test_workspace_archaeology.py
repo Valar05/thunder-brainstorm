@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import json
 import subprocess
 import tempfile
@@ -14,6 +15,13 @@ def git(*args: str, cwd: Path | None = None) -> None:
 
 
 class WorkspaceArchaeologyTests(unittest.TestCase):
+    def test_default_index_is_repo_relative_not_cwd_relative(self) -> None:
+        parser = argparse.ArgumentParser()
+        wa.configure_parser(parser)
+        args = parser.parse_args(["show", "pose-lab-v2-sprite-refinery"])
+        self.assertEqual(Path(args.index), Path(wa.default_index_path()))
+        self.assertTrue(str(args.index).endswith("generated/workspace/workspace_index.json"))
+
     def test_worktree_parser(self) -> None:
         rows = wa.parse_worktrees(
             "worktree /tmp/main\nHEAD abc123\nbranch refs/heads/main\n\n"
