@@ -192,3 +192,36 @@ A new first-person action platformer direction is captured in:
 - `generated/project_links/fps_platformer_arcane_ik_project_links.md`: local copied Blender assets, Arcane Manifold source pointers, and Three.js reference project links.
 
 The design target is a phone-first landscape Three.js runtime: arms sell weapon variety, while procedural foot planting, landing compression, slope contact, and body/camera yaw separation sell platforming feel.
+
+## Workspace archaeology CLI
+
+Thunder now has a second index alongside the mechanics corpus: a receipt-backed map of what actually exists on a machine. It does not copy source bodies into Thunder. It records Git/runtime/recovery evidence and source routes so canonical project truth stays in the project repositories.
+
+On Android/Termux, `workspace scan` defaults to `/storage/emulated/0/Documents/GodotProjects` when that path exists. Elsewhere, set `THUNDER_WORKSPACE_ROOT` or pass one or more `--root` values.
+
+```sh
+python thunder_brainstorm.py workspace scan
+python thunder_brainstorm.py workspace list
+python thunder_brainstorm.py workspace sessions
+python thunder_brainstorm.py workspace dirty
+python thunder_brainstorm.py workspace unpushed
+python thunder_brainstorm.py workspace lost
+python thunder_brainstorm.py workspace recent
+python thunder_brainstorm.py workspace search "sprite slicer"
+python thunder_brainstorm.py workspace show pose-lab-v2
+python thunder_brainstorm.py workspace recover pose-lab-v2
+```
+
+The scan writes:
+
+- `generated/workspace/workspace_index.json` — full machine/repository/runtime index.
+- `generated/workspace/workspace_repos.jsonl` — one repository record per line.
+- `generated/workspace/workspace_report.md` — human recovery queue and active tmux summary.
+- `generated/workspace/workspace_receipt.json` — SHA-256 bindings for all three outputs.
+
+Per repository it records current branch/upstream/ahead/behind/dirty state, all local branch tips that contain commits absent from every remote ref, stashes, structured Git worktrees, LFS/submodule signals inherited from the turbo survey, handoff/recovery/campaign docs, recent activity, and matched tmux panes. When process/listener metadata is visible, it also associates descendant processes and listening ports with the tmux pane whose working directory is inside that repository.
+
+`workspace lost` is intentionally stricter than "branch has no upstream." A branch is considered local-only only when its tip is present in `git rev-list --branches --not --remotes`. Dirty files, untracked files, staged changes, conflicts, stashes, detached HEADs, missing remotes, current-branch ahead counts, and genuinely local-only branch tips are surfaced as recovery reasons.
+
+`workspace recover TARGET` never mutates the project. It prints the exact checkout, Git state, handoff documents, tmux sessions, detected ports, and the concrete `tmux attach` / `cd` access routes needed to resume work.
+

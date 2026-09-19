@@ -725,10 +725,16 @@ def main() -> int:
     p_search.add_argument("--limit", type=int, default=20)
     p_search.set_defaults(func=cmd_search_index)
 
+    p_workspace = sub.add_parser("workspace", help="Recover local repos, worktrees, tmux sessions, handoffs, and local-only work.")
+    from tools.workspace_archaeology import configure_parser as configure_workspace_parser, normalize_scan_defaults as normalize_workspace_scan_defaults
+    configure_workspace_parser(p_workspace)
+
     p_obs = sub.add_parser("observations", help="Print the initial source observations used to seed this engine.")
     p_obs.set_defaults(func=cmd_observations)
 
     args = parser.parse_args()
+    if args.command == "workspace":
+        normalize_workspace_scan_defaults(args)
     return args.func(args)
 
 
