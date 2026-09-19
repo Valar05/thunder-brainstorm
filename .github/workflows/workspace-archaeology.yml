@@ -1,0 +1,43 @@
+name: Workspace Archaeology
+
+on:
+  push:
+    branches:
+      - agent/workspace-archaeology-v1
+      - main
+    paths:
+      - 'thunder_brainstorm.py'
+      - 'tools/workspace_archaeology.py'
+      - 'tools/turbo_survey.py'
+      - 'tests/test_workspace_archaeology.py'
+      - '.github/workflows/workspace-archaeology.yml'
+  pull_request:
+    paths:
+      - 'thunder_brainstorm.py'
+      - 'tools/workspace_archaeology.py'
+      - 'tools/turbo_survey.py'
+      - 'tests/test_workspace_archaeology.py'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Unit tests
+        run: python -m unittest tests.test_workspace_archaeology -v
+      - name: CLI surface
+        run: |
+          python thunder_brainstorm.py workspace --help
+          python thunder_brainstorm.py workspace scan --root . --no-runtime --out-dir /tmp/thunder-workspace-self
+          python thunder_brainstorm.py workspace list --index /tmp/thunder-workspace-self/workspace_index.json
+          python thunder_brainstorm.py workspace recover thunder-brainstorm --index /tmp/thunder-workspace-self/workspace_index.json
+      - name: Syntax
+        run: |
+          python -m py_compile thunder_brainstorm.py tools/turbo_survey.py tools/workspace_archaeology.py tests/test_workspace_archaeology.py
