@@ -11,11 +11,12 @@ Known external artifact:
 
 ## Firsthand chronology
 
-Drew identifies this as possibly his first low-poly game and, more importantly, his **first action game with no attack button**.
+Drew identifies this as possibly his first low-poly game and, more importantly, his **first action game with no ordinary attack button**. Routine shooting is automatic. One explicit combat button remains: the bottom-right **finisher / execute**.
 
 His remembered source influence is Vampire Survivors:
 - movement remains player-authored;
-- shooting happens automatically;
+- routine shooting happens automatically;
+- the explicit combat button is reserved for a finisher / execute rather than ordinary firing;
 - level/upgrade choices reshape the combat machine;
 - the design removes repeated attack-button labor and relocates agency into positioning and build choice.
 
@@ -37,6 +38,26 @@ One observed upgrade draft includes:
 - **Reroll** as an explicit draft action.
 
 This already contains a recognizable later Drew pattern: upgrades are not merely scalar bonuses. At least one choice changes the relationship to a resource/input surface ("can no longer pickup ammo"), and another creates a new automatic/conditional combat verb.
+
+
+### Finisher exception — spend buttons on exceptional decisions
+
+Drew corrected the simplified "no attack button" description: the build does have a combat button at bottom-right, but it is specifically a **finisher / execute**.
+
+Firsthand rule:
+- ordinary shooting is automatic;
+- the finisher explicitly kills an enemy;
+- the finisher has **no cooldown**.
+
+This makes the control philosophy more precise. The game does not abolish buttons; it refuses to spend a button on repetitive baseline labor. Explicit input is reserved for a discrete, high-meaning action.
+
+Compact law:
+
+> **AUTOMATE THE ROUTINE. BUTTON THE EXCEPTION.**
+
+A player should not repeatedly press a button to authorize the combat machine to keep doing its ordinary job. A button earns its place when it represents a distinct commitment, state transition, execution, emergency, or other action whose meaning would be lost if it became ambient automation.
+
+This is potentially relevant to later one-stick / low-button Drew games, but preserve the relationship as a design rhyme unless direct inheritance is proven.
 
 ## Durable design law
 
