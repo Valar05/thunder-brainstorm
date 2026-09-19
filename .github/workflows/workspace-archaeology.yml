@@ -11,6 +11,7 @@ on:
       - 'tools/turbo_survey.py'
       - 'tests/test_workspace_archaeology.py'
       - '.github/workflows/workspace-archaeology.yml'
+      - '.gitignore'
   pull_request:
     paths:
       - 'thunder_brainstorm.py'
