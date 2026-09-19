@@ -183,6 +183,76 @@ A user-supplied 24.3-second screen recording visually confirms the surviving des
 
 The video and source agree on what the mechanic is doing.
 
+
+## Authorship provenance — before high AI-delegation fluency
+
+Drew's correction is important: Ruined Air predates his later, more fluent agent-orchestration style.
+
+This was not a modern "hand a bounded commission to an agent and review the result" workflow.
+
+Drew describes the early loop as much more hands-on:
+
+```text
+idea / demand
+→ AI proposes or implements
+→ Drew runs it
+→ Drew feels what is wrong
+→ Drew changes the target / parameter / behavior
+→ AI revises
+→ Drew tests again
+→ repeat at very fine grain
+```
+
+The AI did substantial implementation labor. In particular, Drew explicitly credits it with:
+- looking up and implementing much of the procedural voxel machinery;
+- helping construct the aerodynamic/glider model;
+- doing large amounts of coding work in systems that were technically expensive.
+
+Do not erase that labor by retroactively describing Ruined Air as hand-coded by Drew.
+
+But do not make the opposite provenance error either.
+
+Drew was the persistent human optimization loop:
+- choosing what the system should feel like;
+- rejecting wrong behavior;
+- demanding specific body-presence effects;
+- tuning gait cadence, stride, planting, yaw behavior, camera/body coupling, and other locomotion details;
+- tuning glider response and the many exposed physical/control parameters;
+- deciding which generated terrain behavior was worth keeping;
+- repeatedly testing the actual game and dragging implementation toward the target.
+
+The surviving source is consistent with that kind of workflow because the game exposes unusually many tuneable variables across locomotion, gait, world generation, and flight. Source alone cannot prove who selected each numeric value, so the fine-grained tuning authorship remains Drew's firsthand project history.
+
+A useful provenance model is:
+
+> **AI supplied substantial implementation and research labor. Drew supplied the persistent taste function, embodied testing, target correction, and fine-grained tuning loop.**
+
+Or, compactly:
+
+> **THE AI COULD BUILD THE EQUATION. DREW KEPT MOVING THE ANSWER.**
+
+This matters when mining old projects for reusable knowledge. Preserve at least four provenance classes instead of flattening everything into "Drew made it" or "AI made it":
+
+1. **Drew-originated design choice** — a target, mechanic, world rule, feel requirement, or rejection traceable to Drew's direction.
+2. **AI implementation/research contribution** — code, formulas, known techniques, scaffolding, or technical synthesis substantially supplied by the model.
+3. **Drew-in-the-loop tuning** — iterative parameter and behavior correction through play, observation, and repeated steering.
+4. **Unresolved provenance** — a surviving mechanism whose exact origin cannot be reconstructed honestly.
+
+Ruined Air is a particularly clear example of category 2 and category 3 being tightly interleaved.
+
+### Why this is still authorship without pretending authorship means typing every line
+
+For this lineage, "authorship" should not be measured by keystroke count.
+
+The durable creative decisions live in:
+- which problem was worth solving;
+- what result counted as wrong;
+- what got tuned instead of accepted;
+- which systems were pushed far beyond a default implementation;
+- and which capabilities were later carried into descendant games.
+
+That is why the gait, floating-island world, and glider are useful lineage evidence even though AI contributed heavily to their implementation.
+
 ## Ruined Air → modern Infinite Brutality
 
 The transmission into modern `Valar05/infinite-brutality` is already partially documented by the current project itself.
