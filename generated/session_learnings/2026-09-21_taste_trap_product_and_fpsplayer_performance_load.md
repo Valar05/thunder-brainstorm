@@ -191,3 +191,31 @@ Therefore FPSPlayer is already a proven reusable donor, not merely nostalgic bag
 > SELL NEW RELATIONSHIPS WITH THE WORLD.
 
 > KEEP THE CHEAP RIG. SPEND TASTE ON THE SURFACE.
+
+
+## Grounding lock — 2026-09-21
+
+Drew correction: Taste Trap should be fairly grounded in recognizable near-future reality.
+
+Aerospace / Mars industrial language can clearly evoke contemporary private-spaceflight engineering culture, but should remain an original fictional identity rather than literally using or copying SpaceX.
+
+Default visual/world constraints:
+- practical pressure suits;
+- believable aerospace hardware;
+- recognizable current-to-near-future engineering lineage;
+- restrained stylization;
+- equipment should look plausibly manufacturable.
+
+Explicit exclusion:
+- no Fleshpunk crossover by default;
+- no living machinery, tendon cables, flesh armor, organic guns, or biological-industrial horror language.
+
+FPSPlayer material correction:
+- keep Legacy Flesh only as a control/reference;
+- primary Mars witness = EVA/combat pressure suit;
+- secondary witness = alternate grounded technical suit;
+- remove synthetic-myomer as the leading Taste Trap direction.
+
+Pocket law:
+
+> TASTE TRAP IS GROUNDED NEAR-FUTURE, NOT FLESHPUNK.
