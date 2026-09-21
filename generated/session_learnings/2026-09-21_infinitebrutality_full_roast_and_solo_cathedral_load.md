@@ -375,3 +375,177 @@ Both facts belong in the record.
 The appropriate historical classification is:
 
 > **SOLO-AUTHORED ANCESTRAL CATHEDRAL / CAPABILITY MINE / WATER-RELATED WAR CRIME AGAINST BIOMES.**
+
+
+# TASTE-DROP CORRECTION — THE DESERT WAS THE PRODUCT, BOXCRAFT WAS THE TOOL
+
+Drew's 2026-09-21 correction:
+
+The remembered voxel / floating-desert generation is not merely archaeology. It may be the **real taste-drop lineage**.
+
+The strategic question is not:
+
+> How do we make Boxcraft impressive enough that people want Boxcraft?
+
+It is:
+
+> Why expose the box-language at all when the desirable fantasy is a wild traversable world?
+
+Current Boxcraft, `Valar05/punnett-boxcraft-judgment-mcp`, is a deterministic Block generator/judge. Its own README defines a Block as a complete traversal sequence and emphasizes seeded generation, hard gates, controller envelopes, and deterministic judgment across a `0 MODERN_WAR -> 100 QUAKE_ANIME_BULLSHIT` axis.
+
+That is useful infrastructure.
+
+It is not automatically the thing a player fantasizes about.
+
+## The roast
+
+Boxcraft looked at Drew's historical capability set:
+
+- procedural Minecraft-like world generation;
+- climbing;
+- mantling;
+- first-person embodied combat;
+- low-poly readability;
+- generated traversal;
+- the ability to make water accidentally conquer a biome;
+
+and said:
+
+> What if we put the exciting part in witness protection and sell the boxes?
+
+This is the equivalent of inventing Jurassic Park and opening a premium parking-lot simulator across the street.
+
+The blocks are not bad.
+The mistake is asking the blocks to be the fantasy.
+
+Nobody boots a game because they yearn to experience **deterministic obstacle grammar**.
+
+They want:
+- somewhere strange to go;
+- something enormous to see;
+- a cliff that makes them wonder whether they can climb it;
+- a ruin that implies another route;
+- terrain that feels discovered rather than scheduled;
+- the delicious possibility that the world generator is slightly feral.
+
+Boxcraft is a compiler pass wearing a storefront nametag.
+
+Take away the nametag.
+
+## Product / tool separation
+
+Preserve Boxcraft as an INTERNAL capability when useful:
+
+```text
+BOXCRAFT
+  traversal grammar
+  challenge metrics
+  deterministic fixtures
+  controller envelopes
+  falsifiers
+        |
+        v
+WORLD GENERATOR
+  cliffs / ruins / canyons / islands / caves / structures
+  embodied affordances
+  route alternatives
+  landmarks
+  encounter geometry
+        |
+        v
+PLAYER FANTASY
+  "I can go over there."
+```
+
+The product is not the grammar.
+
+The product is the **world the grammar helps make playable**.
+
+## Taste-drop hypothesis
+
+A stronger public taste drop is:
+
+> **A small, beautiful, generated open world where every visible landform is an embodied possibility.**
+
+Not infinite square kilometers.
+Not content sludge.
+Not "procedural" as a marketing checkbox.
+
+A bounded open world is enough if it demonstrates:
+
+- silhouette-rich floating / desert geology;
+- climbable surfaces;
+- multiple naturally legible routes;
+- authored-feeling procedural composition;
+- responsive body movement;
+- sparse but vicious contact-driven combat;
+- a few strange systemic interactions;
+- world generation that can surprise without losing traversal truth.
+
+The old voxel-world work proves the appetite predates AI.
+
+The modern tooling can make it cheap enough to finish.
+
+That is the actual trap:
+
+**give away a world that feels unreasonably alive for its size.**
+
+Then the expensive product can be the tooling, generators, authoring systems, or larger games behind it.
+
+## Open-world correction
+
+"Everyone wants open world" is too broad as a literal market claim.
+
+The useful design truth is narrower:
+
+> **Players understand and desire spatial possibility immediately. They do not need to understand the generator architecture that produced it.**
+
+Therefore expose:
+- possibility;
+- discovery;
+- traversal;
+- consequence.
+
+Hide:
+- Boxcraft jargon;
+- deterministic fixture language;
+- pressure-pack internals;
+- validation machinery.
+
+The machinery should make the magic reliable, not become the magic trick.
+
+## New pattern candidates
+
+### fantasy_front_tooling_back
+
+The consumer-facing artifact should expose the fantasy; deterministic tooling should remain behind the curtain unless the tool itself is the target product.
+
+Pocket law:
+
+> **SELL THE WORLD. KEEP THE BOXES IN THE BASEMENT.**
+
+### procedural_world_as_taste_drop
+
+A compact generated world can demonstrate more differentiated taste than a visible level-generator tool because it combines:
+- traversal;
+- composition;
+- atmosphere;
+- systemic surprise;
+- visual identity;
+- embodied control.
+
+### bounded_open_world_over_box_catalog
+
+If the goal is to demonstrate controller feel and procedural level taste, prefer a bounded explorable world generated from reusable traversal grammar over a literal catalog of authored challenge blocks.
+
+The block remains the intermediate representation, not the player's dream.
+
+## Final roast classification
+
+Boxcraft is not useless.
+
+Boxcraft is the extremely competent civil engineer who arrived at the amusement park and started handing visitors drainage schematics.
+
+Thank you, Gary.
+
+Please put the roller coaster back.
