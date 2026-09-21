@@ -549,3 +549,48 @@ Boxcraft is the extremely competent civil engineer who arrived at the amusement 
 Thank you, Gary.
 
 Please put the roller coaster back.
+
+
+## Fjord: the biome revelation
+
+Drew adds one named biome from the unrecovered procedural voxel-world generation:
+
+- **Fjord**
+
+The exact historical biome table is not present in the currently recovered GitHub/Drive source body. Do not fabricate the rest of the names. Preserve Fjord as first-hand evidence and the broader statement that the old world had multiple distinct biomes Drew still considers genuinely strong.
+
+This materially changes the interpretation of the open-world work.
+
+A biome should not be treated as a palette swap or collectible-theme wrapper.
+
+A biome is a **topology + affordance grammar**.
+
+A Fjord biome naturally changes:
+- vertical relief;
+- cliff frequency;
+- water/land boundaries;
+- climb opportunities;
+- route visibility;
+- chokepoints;
+- swim / shoreline / bridge pressure;
+- settlement placement;
+- long sightlines versus occluded cuts;
+- combat elevation;
+- traversal risk.
+
+That means the biome system can generate different kinds of play without inventing checklist content.
+
+Pocket law:
+
+> **THE BIOME IS NOT THE WALLPAPER. THE BIOME IS THE MOVEMENT PROBLEM.**
+
+This makes the old open-world direction especially relevant to Taste Trap:
+- world scale supplies possibility;
+- biome grammar supplies distinct traversal/combat texture;
+- procedural generation supplies replayable spatial variation;
+- the player supplies goals by seeing reachable places;
+- no flower-picking bureaucracy is required to justify acreage.
+
+Fjord is therefore a useful retrieval handle for the lost biome corpus and a design test for the future open-world Taste Trap.
+
+If a future biome does not materially alter how the player moves, sees, approaches, fights, or chooses routes, it is not earning its existence.
