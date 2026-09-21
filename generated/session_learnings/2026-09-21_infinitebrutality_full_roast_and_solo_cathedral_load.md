@@ -22,6 +22,43 @@ Record this as first-hand authorship evidence.
 
 `AUTHORSHIP_OLD_INFINITEBRUTALITY = DREW_SOLO / NO_AI`
 
+
+## Why this is a uniquely important Drew specimen
+
+Drew identifies this project as unusually important evidence of his own cognition because it sits before the later AI-assisted production era.
+
+That makes this project more than a capability specimen. It is a **low-confound authorship control**.
+
+Later projects can still prove taste, direction, acceptance judgment, system architecture, and repeated preferences, but AI assistance introduces an attribution problem: which implementation detail was authored directly by Drew, which was proposed by a model, which was selected or corrected by Drew, and which emerged from collaboration?
+
+This specimen has a much cleaner answer:
+
+> **THE PROBLEM, THE OVERREACH, THE SOLUTIONS, THE FAILURES, AND THE RECOVERED CAPABILITIES ARE DREW-SHAPED WITHOUT AN AI COAUTHORSHIP CONFOUND.**
+
+That makes it especially valuable for reconstructing how Drew thinks when left alone with a hard game problem.
+
+The surviving and firsthand evidence points to a recurring reasoning signature:
+
+- treat input constraints as design material rather than excuses;
+- put the player's body and its affordances at the center;
+- build verbs before polishing surfaces;
+- couple traversal and combat instead of isolating them;
+- prefer reusable systems over one-off authored events;
+- push procedural systems until their failure boundaries become visible;
+- preserve interesting failures as reusable laws;
+- accept catastrophic scope when the project is yielding new capabilities;
+- let later projects inherit capabilities rather than demanding sequel continuity.
+
+This should be used as a **baseline specimen** when evaluating whether later patterns are genuinely Drew-shaped or merely artifacts of AI collaboration.
+
+Recommended retrieval label:
+
+`PRE_AI_DREW_BASELINE = INFINITEBRUTALITY_OLD`
+
+Pocket law:
+
+> **WHEN ATTRIBUTION IS UNCLEAR LATER, RETURN TO THE CATHEDRAL AND CHECK WHETHER DREW WAS ALREADY DOING IT ALONE.**
+
 The current surfaced GitHub `main` strongly proves the embodied-combat/climbing cathedral, but does **not** presently expose the remembered voxel-world generator or the infamous water-spread implementation. Preserve those as first-hand-confirmed archaeology targets rather than pretending the currently visible checkout proves them.
 
 `VOXEL_WORLD = FIRSTHAND_CONFIRMED / SOURCE_BODY_NOT_YET_RECOVERED`
